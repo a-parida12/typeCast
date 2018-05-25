@@ -1,0 +1,77 @@
+Physik 2std     Klausur J2/4a   Interferenz und Quantenphysik  3.5.2012
+
+Name: ________________________________
+
+
+GTR auf Degree!
+
+Aufgabe 1
+Laserlicht mit der Wellenlänge 633 nm fällt senkrecht auf einen Doppelspalt mit einem Spaltmittenabstand von 0,30 mm. Parallel zum Doppelspalt befindet sich im Abstand von 1,00 m ein ebener Schirm.
+
+a)      
+Was ist auf dem Schirm zu beobachten? Beschreibe möglichst genau.
+
+b)      
+Erkläre mit Hilfe eines geeigneten Modells für Licht, wie es zu dem Schirmbild kommt.
+
+c)      
+Unter welchem Beugungswinkel ist das Maximum vierter Ordnung auf dem Schirm zu beobachten? 
+
+d)      
+Wie weit ist das Maximum vierter Ordnung vom Maximum nullter-Ordnung (Hauptmaximum) entfernt?
+
+e)      
+Der Doppelspalt wird nun durch ein Gitter mit 1000 Spalten pro Zentimeter ersetzt. Das Maximum nullter Ordnung liegt in der Mitte des Schirms. Rechne nach, ob das Maximum vierter Ordnung auf einem 50 cm breiten Schirm noch zu sehen wäre. 
+
+
+Aufgabe 2
+
+Im Praktikum haben wir den Spurrillenabstand einer CD bestimmt. Die CD ist ein Reflexionsgitter. Unser Laser hatte die Wellenlänge 633 nm.
+
+a)      
+Zeichne einen geeigneten Versuchsaufbau, mit dem sich mit Hilfe des Lasers der Spurrillenabstand g der CD bestimmen lässt. Beschrifte die Zeichnung.
+
+b)      
+Die CD steht 120 cm vom Schirm entfernt. Es sind die beiden Maxima 1. Ordnung links und rechts vom Hauptmaximum zu sehen. Sie haben den Abstand 103 cm. Bestimme daraus den Wert für den Spurrillenabstand g.
+
+c)      
+Wie viel Spuren passen auf die CD, wenn der bespielbare Kreisring eine Breite von 3,5 cm hat?
+
+d)      
+Die CD dreht sich fünfmal in der Sekunde. Wie lange benötigt sie, bis der Laser alle Spuren abgetastet hat? (= Spielzeit der CD)
+
+
+
+Aufgabe 3
+
+
+Eine Kaliumfotozelle wird mit Aladins Wunderlampe bestrahlt. Diese Lampe kann entweder Licht der Wellenlänge ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1588 by 600, depth 1
+pict001.wmfnm (gelb), Licht der Wellenlänge ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1623 by 600, depth 1
+pict002.wmf nm (grün) oder Licht der Wellenlänge ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1623 by 635, depth 1
+pict003.wmfnm (violett) aussenden. Vor der Kaliumkathode befindet sich ein Metallring. Zwischen Kathode und Ring kann eine Spannung gemessen werden. Bei gelbem Licht bleibt die Anzeige 0 Volt, bei grünem Licht beträgt die Anzeige 0,02 Volt bei violettem Licht werden 0,81 Volt angezeigt.
+
+a)      
+Erkläre wie es zu den verschiedenen Anzeigen kommt.
+
+b)      
+Zeichne die zwei relevanten Messwerte in ein Frequenz  Energie  Diagramm ein. (x-Achse Frequenz; y-Achse Energie). Ermittle einen Wert für die Planck-Konstante h.
+
+c)      
+Ermittle aus dem Diagramm die Austrittsarbeit für Kalium.
+
+d)      
+Erläutere am Beispiel vom gelben Licht, warum die Wellenvorstellung von Licht im Widerspruch zur Anzeige 0 Volt steht.
+
+
+Konstanten:
+
+Lichtgeschwindigkeit: ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2716 by 1094, depth 1
+pict004.wmf
+
+Elektronenladung: ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2646 by 635, depth 1
+pict005.wmfC
+
+Plancksches Wirkungsquantum: ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2752 by 635, depth 1
+pict006.wmfJs
+
+Viel Erfolg!

@@ -1,0 +1,1263 @@
+
+
+
+
+
+                        Berufskolleg Kaufmannsschule
+
+
+
+
+
+
+                           Arbeitsmappe Mathematik
+
+
+
+                         Thema : Lineare Gleichungen
+
+                                    [pic]
+
+                             Inhaltsverzeichnis
+                             Lineare Gleichungen
+
+Einleitung
+
+
+1. Theoretische Grundlagen
+
+
+
+1.1 Wichtige Begriffe im Zusammenhang mit Gleichungen
+
+
+
+
+
+
+           Wie entstehen Gleichungen?
+
+            Wahre und falsche Aussagen
+            Die Lφsungsmenge einer Gleichung
+            Lineare Gleichungen
+
+
+
+1.2 Das systematische Lφsen von linearen Gleichungen
+
+
+            Δquivalente Gleichungen
+
+
+           Δquivalenzumformungen
+
+                  Subtraktion auf beiden Seiten der Gleichung
+
+                  Addition auf beiden Seiten der Gleichung
+                  Multiplikation auf beiden Seiten der Gleichung
+                  Division auf beiden Seiten der Gleichung
+
+
+2. Praxisteil
+
+
+
+      Einfachste lineare Gleichungen
+
+
+
+
+      Einfache lineare Gleichungen
+
+
+
+
+      Komplexere lineare Gleichungen
+
+
+
+      Aufgabensammlung
+
+
+
+
+Einleitung
+
+
+Der Umgang mit linearen Gleichungen gehφrt zu den  Grundvoraussetzungen  des
+Mathematikunterrichtes in der Hφheren Handelsschule.  Jeder  von  Ihnen  hat
+sich  in  seiner  bisherigen  Schulzeit  sicherlich  bereits   mit   solchen
+Gleichungen  beschδftigt.   Dennoch   stellen   wir   Mathematiklehrer   der
+Kaufmannsschule immer wieder fest, dass ein grφίerer Teil der zu uns an  die
+Schule kommenden Schόlerinnen und Schόler den  sicheren  Umgang  mit  diesen
+Gleichungen     nicht     beherrscht.     Innerhalb      des      re-gulδren
+Mathematikunterrichtes gelingt es  aus  zeitlichen  Grόnden  zumeist  nicht,
+diese Probleme zu beheben, zumal ja an  unserer  Schule  auch  neue  Inhalte
+vermittelt  werden  mόssen.  Werden  die   Probleme   in   den   elementaren
+Rechentechniken  jedoch  nicht  beseitigt,  hat  man   keine   Chance,   den
+Mathematikunterricht erfolgreich  an  unserer  Schule  zu  absolvieren.  Die
+Kompetenzkurse bieten Ihnen  die  Mφglichkeit  (zwar  unter  Anleitung  aber
+dennoch weitestgehend selbststδndig) Ihre individuellen Schwδchen zu  finden
+und zu beheben. Nutzen Sie diese Mφglichkeit.
+
+Diese Arbeitsmappe beinhalten natόrlich einen Praxisteil mit  άbungsmaterial
+und Lφsungen, denn Mathematik lernt man genauso  wie  Fuίball  spielen  nur,
+indem man es  selbst  tut.  Dennoch  habe  ich  dem  Praxisteil  noch  einen
+Abschnitt  mit  den  theo-retischen  Grundlagen  vorangestellt.  In   diesem
+Abschnitt sollen in aller Kόrze die  not-wendigen  Begriffe  eingefόhrt  und
+die hoffentlich vorhandenen Vorkenntnisse auf-gefrischt werden.  Sie  kφnnen
+aber auch zunδchst die theoretischen Grundlagen όberspringen und direkt  mit
+dem Praxisteil dieser Arbeitsmappe  beginnen.  Sollten  Sie  jedoch  an  den
+Aufgaben scheitern, wδre es sinnvoll, wenn Sie sich doch noch  mal  mit  den
+theoretischen Grundlagen auseinandersetzen wόrden.
+
+Ich gehe davon aus, dass Sie sich bereits mit  der  Arbeitsmappe  zum  Thema
+Term-umformungen beschδftigt haben. Falls nicht, so empfehle ich Ihnen  dies
+zuvor zu tun. Denn ich werde  in  dieser  Arbeitsmappe  keine  Erlδuterungen
+mehr  geben,  wie   man   beispielsweise   Klammern   auflφst   oder   Terme
+zusammenfasst.  Diese  und  δhnliche  Rechentechniken  werden  als   bekannt
+vorausgesetzt.
+
+
+1. Theoretische Grundlagen
+
+
+
+1.1 Wichtige Begriffe im Zusammenhang mit Gleichungen
+
+
+
+Wie entstehen Gleichungen?
+
+
+Unter Mathematikern sind Zahlenrδtsel, wie das nachfolgende,  ein  beliebter
+Zeit-vertreib:
+
+      Welche Zahl muss man von 100 subtrahieren, damit das Ergebnis gleich
+      dem Produkt der Zahlen 7 und 8 ist?
+
+Versuchen Sie, bevor Sie weiter lesen, das Rδtsel selbst zu lφsen!
+
+Das Zahlenrδtsel kφnnen Sie sicherlich "im Kopf" lφsen, ohne eine  Gleichung
+auf-stellen zu mόssen. Das Produkt der  Zahlen  7  und  8  betrδgt  56.  Die
+gesuchte Zahl, die man von hundert abziehen muss um 56 zu  erhalten  betrδgt
+somit 44. Die Zahl 44 ist also die Lφsung des Rδtsels, denn
+
+                    100 - 44 = 7 · 8     , wahre Aussage.
+
+
+Nicht immer lδsst sich die Lφsung eines Zahlenrδtsels so einfach bestimmen.
+Das folgende Beispiel ist bereits komplizierter:
+
+Multipliziert man das Quadrat einer Zahl mit 5 und  addiert  dazu  die  Zahl
+320, so ist das Ergebnis genauso  groί,  wie  das  100-fache  der  gesuchten
+Zahl.
+
+Um  die  Informationen,  die  in  diesem  Zahlenrδtsel  gegeben   sind,   zu
+verarbeiten, kann man versuchen eine Gleichung  aufzustellen.  Dazu  vergibt
+man zunδchst fόr die ge-suchte Zahl eine Variable, z.B. die Variable x.
+
+Im Text steht nun, dass das Quadrat der gesuchten Zahl mit  5  multipliziert
+und dazu  die  Zahl  320  addiert  wird.  Dazu  lδsst  sich  folgender  Term
+aufstellen:
+
+                                 5(x² + 320
+
+Das Ergebnis dieser Rechnung soll gleich dem 100-fachen der gesuchten Zahl
+sein. Es muss also fόr die gesuchte Zahl gelten:
+
+                             5(x² + 320 = 100(x
+
+Auf diese Weise ist  also  eine  Gleichung  entstanden,  die  eine  Variable
+enthδlt, nδmlich die gesuchte Zahl x. Um das Rδtsel zu lφsen, muss  man  fόr
+x eine Zahl finden, so  dass  sich  auf  beiden  Seiten  der  Gleichung  der
+gleiche Wert ergibt.
+
+
+Wahre und falsche Aussagen
+
+
+Bleiben wir bei der oben aufgestellten Gleichung.
+
+                             5(x² + 320 = 100(x
+
+Man kφnnte versuchen eine Lφsung der  Gleichung  durch  "Raten"  zu  finden.
+Vielleicht ist 3 die gesuchte Zahl. Um dies zu όberprόfen, setzt man  fόr  x
+die Zahl 3 in die Gleichung ein und berechnet beide  Seiten  der  Gleichung.
+Dies fόhrt zu folgendem Ausdruck:
+
+          5(3² + 320 = 100(3                , falsche Aussage, denn
+
+die linke Seite der Gleichung ergibt 365 wδhrend die rechte Seite 300
+ergibt. Die Zahl 3 ist also nicht die Lφsung der Gleichung.
+
+Versucht man es jedoch mit der Zahl 4, so erhδlt man:
+
+              5(4² + 320 = 100(4          , wahre Aussage, denn
+
+auf beiden Seiten der Gleichung ergibt sich der Wert 400.  Die  Zahl  4  ist
+demnach eine  Lφsung  der  Gleichung.  Das  Zahlenrδtsel  ist  also  vorerst
+gelφst.
+
+
+Die Lφsungsmenge einer Gleichung
+
+
+Im voran gegangenen Abschnitt wurde gezeigt, dass die  Zahl  4  eine  Lφsung
+der Gleichung
+
+                              5(x² +320 = 100(x
+
+ist.
+
+Es gibt jedoch noch eine weitere  Lφsung  des  Zahlenrδtsels.  Die  Zahl  16
+erfόllt eben-falls die Gleichung, denn
+
+                            5(16² + 320 = 100( 16
+
+ergibt auf beiden Seiten der Gleichung 1600  und  somit  erhδlt  man  wieder
+eine wahre Aussage.
+
+Ohne es an dieser Stelle genauer zu begrόnden,  kann  man  zeigen,  dass  es
+auίer den Zahlen 4 und 16 keine weiteren Lφsungen der Gleichung 5(x²  +  320
+= 100(x² gibt.
+
+Man fasst diese beiden Lφsungen zu einer  sogenannten  Lφsungsmenge  L  zus-
+ammen. Die Lφsungsmenge der Gleichung 5(x² + 320 = 100(x² besteht  also  aus
+den Zahlen 4 und 16.
+
+Mengen,  die  aus   einzelnen   Zahlen   gebildet   werden,   schreibt   man
+όblicherweise mit  geschweiften  Klammern.  Einigen  von  Ihnen  dόrfte  die
+folgende Schreibweise be-kannt sein:
+
+                                L = {4 ; 16 }
+
+   Dies bedeutet nichts anderes, als dass die Zahlen 4 und 16 Lφsungen der
+                                  Gleichung
+
+                             5(x² + 320 = 100( x
+
+sind.
+
+In manchen Fδllen kann es vorkommen, dass  eine  Gleichung  όberhaupt  keine
+Lφsung besitzt. Dann bleibt die Lφsungsmenge leer und man  schreibt  einfach
+ge-schweifte Klammern ohne eingeschlossene Zahlen :
+
+                       L = { }          (leere Menge)
+
+
+Lineare Gleichungen
+
+
+Innerhalb dieser Arbeitsmappe sollen Sie sich mit einem ganz bestimmten  Typ
+von Gleichungen beschδftigen, nδmlich den sogenannten linearen  Gleichungen.
+
+
+Eine Gleichung heiίt linear, wenn in ihr die Lφsungsvariable x  nur  in  der
+ersten Po-tenz vorkommt. Kommt in der Gleichung x² oder x³ bzw. noch  hφhere
+Potenzen vor, so ist die Gleichung nicht linear.
+
+Beispiele:
+
+      3x + 4 = 2x -9   , lineare Gleichung.
+
+
+      2x² -4x -2 = 3x +1     , keine  lineare Gleichung, da x² in der
+                      Gleichung enthalten ist.
+
+
+      2x + 5 = 4x³ -2x -3    , keine lineare Gleichung, da x³ in der
+                      Gleichung enthalten ist.
+
+Wie ist es aber mit der folgenden Gleichung ?
+
+                               2x((3 - x) = 6x
+
+Auf den ersten Blick kφnnte  man  meinen,  dass  es  sich  um  eine  lineare
+Gleichung handelt, da weder x² noch andere hφhere Potenzen in der  Gleichung
+auftreten. Es ist jedoch keine lineare Gleichung, da  man  die  Klammer  auf
+der linken Seite der Gleichung ausmultiplizieren kann:
+
+                            2x((3-x)
+
+
+                      =     6x - 2x²
+
+Da nun auf der linken Seite x² auftaucht, handelt  es  sich  nicht  um  eine
+lineare Gleich-ung.
+
+
+1.2 Systematisches Lφsen von linearen Gleichungen
+
+
+Das Raten von Lφsungen einer Gleichung, wie es in  dem  vorangegangenen  Ab-
+schnitt gemacht wurde, ist  natόrlich  keine  zufrieden  stellende  Methode.
+Schlieίlich gibt es unendlich viele Zahlen, die als Lφsung in  Frage  kommen
+kφnnen und es ist im  Allgemeinen  sehr  unwahrscheinlich,  dass  man  durch
+Raten  eine  Lφsung  finden  wird.  Man  benφtigt  vielmehr  ein  geeignetes
+systematisches  Verfahren,  um  die  Lφsung  einer  linearen  Gleichung   zu
+bestimmen. Dieses Verfahren soll in den nachfolgenden Abschnitten  erlδutert
+werden.
+
+
+Δquivalente Gleichungen
+
+
+Sicherlich wissen Sie aus Ihrer bisherigen Schulzeit, dass  man  die  Lφsung
+einer Gleichung bestimmen kann, indem man die Gleichung in geeigneter  Weise
+umformt. Entscheidend ist  dabei,  dass  sich  bei  diesen  Umformungen  der
+Gleichung die Lφsungsmenge  nicht  verδndern  darf.  Daher  mόssen  bei  der
+Umformung besondere  Regeln  eingehalten  werden.  Bevor  ich  diese  Regeln
+erlδutere, betrachten Sie bitte zunδchst einmal folgende drei Gleichungen:
+
+
+
+                      I :   x - 4 = 12
+
+
+                      II :  x + 1 = 17
+
+
+                      III :       2x = 20
+
+Wie man durch Einsetzen leicht bestδtigen  kann,  haben  die  ersten  beiden
+Gleich-ungen die  Lφsungsmenge  L  =  {16}  und  die  dritte  Gleichung  die
+Lφsungsmenge
+L = {10}.
+
+Die Gleichungen I und II  haben  also  den  gleichen  Lφsungswert  oder  man
+kφnnte auch sagen,  dass  sie  "gleichwertig"  sind.  Mathematiker  benutzen
+hierfόr den  ent-sprechenden  lateinischen  Ausdruck  und  sagen,  dass  die
+Gleichungen I und II "δquivalent" sind.
+
+Um zu kennzeichnen, dass zwei Gleichungen δquivalent sind, und demnach die
+gleiche Lφsungsmenge besitzen, benutzt man das Δquivalenzzeichen, welches
+aus einem Gleichheitszeichen mit je einer Pfeilspitze auf einer Seite
+besteht: <=>
+
+Man darf also folgendes schreiben:
+
+                            x - 4 = 12
+
+
+                      <=>   x + 1 = 17
+
+Falsch wδre es jedoch, wenn man folgendes schreiben wόrde
+
+                            x - 4 = 12
+
+
+                      <=>   2x = 10    ,
+
+denn die beiden Gleichungen haben unterschiedliche  Lφsungsmengen  und  sind
+da-her nicht gleichwertig bzw. δquivalent.
+
+Wie  bereits   gesagt,   darf   sich   bei   dem   noch   zu   besprechenden
+Lφsungsverfahren durch das Umformen der  Gleichung  die  Lφsungsmenge  nicht
+δndern. Diese Be-dingung kφnnte kann auch so formulieren:
+
+      Bei der Umformung einer Gleichung sind nur solche Umformungen
+      zulδssig, die aus der ursprόnglichen Gleichung eine dazu δquivalente
+      Gleichung entstehen lassen.
+
+Man nennt diese Umformungen darum auch "Δquivalenzumformungen".
+
+
+Δquivalenzumformungen
+
+
+
+Subtraktion auf beiden Seiten der Gleichung
+
+
+Betrachten Sie zunδchst folgende einfache lineare Gleichung:
+
+                       x + 5 = 8
+
+Um Δquivalenzumformungen zu verstehen, kann man sich eine Gleichung als
+eine im Gleichgewicht befindliche Waage vorstellen:
+
+
+
+
+
+
+
+
+Man sieht sofort, dass das "Gewichtsstόck x" den Wert 3  haben  muss,  damit
+die Waage im Gleichgewicht ist. Man kφnnte nδmlich  auf  beiden  Seiten  der
+Waage 5 ab-ziehen:
+
+
+
+
+
+
+
+
+Wenn man auf beiden Seiten der Waage den gleichen Betrag abzieht, so  δndert
+sich das Gleichgewicht der Waage nicht.
+
+Δhnlich verhδlt es sich auch mit einer mathematischen  Gleichung:  Wenn  man
+auf beiden Seiten der Gleichung die gleiche Zahl  subtrahiert,  δndert  sich
+die Lφsungs-menge der Gleichung nicht.
+
+Die Subtraktion einer Zahl auf beiden Seiten der Gleichung stellt also eine
+Δquivalenzumformung dar.
+
+      x + 5 = 8              | - 5
+
+<=>   x + 5 - 5 = 8 - 5
+
+<=>   x = 3            ;  L = { 3 }
+
+
+Anmerkung: Bei Schόlern (und auch bei Lehrern) hφrt man im Zusammenhang  mit
+der oben durchgefόhrten Umformung oft die folgende Formulierung:
+
+      "Man muss die 5 auf die rechte Seite bringen, um x zu isolieren".
+
+Diese Formulierung ist jedoch falsch, wenn  man  sich  das  Bild  der  Waage
+vorstellt.  Denn  man  legt  ja  nicht  das  Gewichtsstόck  von  der   einen
+Waagschale  auf  die  andere  Seite.  Dies  wόrde   natόrlich   sofort   ein
+Ungleichgewicht der Waage hervorrufen.
+
+
+
+
+Addition auf beiden Seiten der Gleichung
+
+
+Nicht immer fόr die Subtraktion einer Zahl auf beiden Seiten  der  Gleichung
+zur Lφs-ung der Gleichung. Zum Beispiel lieίe sich die Gleichung
+
+                      x -2,5 = 8,5
+
+nicht dadurch nach x auflφsen, dass man auf beiden Seiten 2,5 subtrahiert.
+Wόrde man dies nδmlich tun, so entstδnde folgende Gleichung
+
+                      x - 5 = 6.
+
+Beide  Gleichungen  sind  zwar  δquivalent,  aber  man  ist  durch  die  neu
+entstandene Gleichung der Lφsung nicht nδher gekommen.
+
+Man findet die Lφsung in diesem Beispiel natόrlich, indem man auf beiden
+Seiten der Gleichung die Zahl 2,5 nicht subtrahiert sondern addiert:
+
+      x - 2,5 = 8,5               | + 2,5
+
+<=>   x -2,5 + 2,5 = 8,5 + 2,5
+
+<=>   x = 11                ; L = { 11 }
+
+Dass die Addition einer Zahl auf beiden  Seiten  der  Gleichung  tatsδchlich
+auch eine Δquivalenzumformung darstellt, kann  man  sich  wiederum  mit  der
+Vorstellung von der Waage verstδndlich machen. Fόgt man nδmlich  auf  beiden
+Seiten  der  Waage  ein  gleiches   Gewichtsstόck   hinzu,   so   wird   das
+Gleichgewicht der Waage nicht gestφrt.
+
+
+Multiplikation auf beiden Seiten der Gleichung mit einer von Zahl ungleich
+0
+
+
+Befindet sich eine Waage im Gleichgewicht,  so  kann  man  das  Gewicht  auf
+beiden Seiten verdoppeln, ohne dass sich der  Gleichgewichtszustand  δndert.
+Auch  eine  Verdreifachung,  Vervierfachung  oder  eine  sonstige  beliebige
+Vervielfachung ist mφ-glich.
+
+άbertragen auf mathematische  Gleichungen  bedeutet  dies,  dass  man  beide
+Seiten einer Gleichung mit einer beliebigen  Zahl  (  auίer  der  Zahl  0  )
+multiplizieren kann, ohne dass sich die Lφsungsmenge der  Gleichung  δndert.
+Benφtigt  wird  eine  solche  Umformung  beispielsweise  bei  der  folgenden
+Gleichung:
+
+      [pic]
+
+Gesucht ist also die Zahl x, die durch 2  geteilt  6  ergibt.  Das  Ergebnis
+erhδlt man, in-dem man beide Seiten der Gleichung mit 2 multipliziert:
+
+<=>   [pic]
+
+<=>   x = 12                ; L = { 12 }
+
+
+Division auf beiden Seiten der Gleichung mit einer Zahl ungleich 0
+
+
+Von den vier Grundrechenarten bleibt nun noch die Division  einer  Gleichung
+όbrig. Darf man beide Seiten  einer  Gleichung  durch  eine  beliebige  Zahl
+dividieren?  Die  Antwort  ist  natόrlich  ja,  denn  im  Modell  der  Waage
+bedeutet beispielsweise eine Division durch 2, dass  man  die  Gewichte  der
+beiden Seite halbiert. Dadurch bleibt die Waage weiterhin im  Gleichgewicht.
+Entsprechendes gilt natόrlich auch fόr andere Zahlen.
+
+Beispiel:
+
+      5x = 20
+
+Gesucht ist hier die Zahl x, die man 5 multiplizieren muss, um 20 zu
+erhalten. Die Lφsung herhδlt man, wenn beide Seiten der Gleichung durch 5
+dividiert.
+
+<=>   [pic]
+
+<=>   x = 4            ; L = { 4 }
+
+Eine Ausnahme bei der Division gibt es allerdings. Die Division durch 0  ist
+,wie Sie hoffentlich wissen, strengstens verboten.
+
+
+Praxisteil
+
+
+Nachdem im voran gegangenen Abschnitt  die  Δquivalenzumformungen  erlδutert
+wur-den, soll im nun  folgenden  Praxisteil  geklδrt  werden,  wie  man  mit
+diesen Um-formungen lineare Gleichungen lφst. Um die nφtige Sicherheit  beim
+Lφsen  der  Gleichungen  zu  bekommen,  wird  der   Schwierigkeitsgrad   der
+άbungsaufgaben erst allmδhlich gesteigert. In jedem Unterabschnitt  gibt  es
+zunδchst eine durchgerechnete Musteraufgabe  mit  entsprechenden  Hinweisen,
+worauf man  bei  der  Lφsung  achten  sollte.  Anschlieίend  haben  Sie  die
+Mφglichkeit, anhand von zahlreichen άbungs-aufgaben das Gelernte einzuόben.
+
+
+Einfachste lineare Gleichung
+
+
+Die einfachsten linearen Gleichungen erfordern lediglich einen einzigen
+Umformungsschritt, so wie Sie es bei der Darstellung der
+Δquivalenzumformungen bereits gesehen haben. Sie sollen sich an dieser
+Stelle nochmals klar machen, welche Δquivalenzumformung bei der Lφsung der
+jeweiligen Gleichung benφtigt wird. Auίerdem sollte Ihnen das Auftreten von
+Brόchen keine Schwierigkeiten bereiten.
+
+Musteraufgabe:
+
+      [pic]
+
+Auf der rechten Seite steht [pic]. Um x zu isolieren, mόssen also beide
+Seiten der Gleichung mit 5 multipliziert werden.
+
+<=>   [pic]
+
+<=>   [pic][pic]
+
+άblicherweise schreibt man die Lφsungsvariable auf die linke Seite  und  den
+Zahlenwert auf die rechte. (Es ist nδmlich  sprachlich  etwas  eleganter  zu
+sagen "x = dreiviertel" als "dreiviertel gleich x", obwohl  die  Aussage  in
+beiden Fδllen natόrlich identisch ist.)
+
+<=>   x = [pic]             ; L = { [pic] }
+
+Das Ergebnis lδsst sich auch als Dezimalzahl darstellen. Dann erhδlt man
+
+<=>   x = 0,75         ; L = { 0,75 }
+
+
+Anmerkung: Falls Sie Schwierigkeiten mit der  Bruchrechnung  haben,  sollten
+Sie Ihren  Taschenrechner  zur  Hilfe  nehmen.  Die  meisten  Taschenrechner
+kφnnen mit Brόchen umgehen und Sie brauchen sich keine Gedanken  zu  machen,
+nach welchen Regeln Brόche addiert oder multipliziert  werden.  Insbesondere
+sollten Sie sich in-formieren, wie man  mit  dem  Taschenrechner  Brόche  in
+Dezimalzahlen und um-gekehrt umwandelt.
+
+άbungen zu diesem Gleichungstyp finden Sie in der Aufgabensammlung  (Aufgabe
+1 und Aufgabe 2)
+
+
+Einfache lineare Gleichungen
+
+
+In den όberwiegenden Fδllen wird man beim Lφsen einer  Gleichung  nicht  mit
+einem   Umformungsschritt   auskommen.   Die   nachfolgenden   Aufgabentypen
+erfordern jeweils zwei Δquivalenzumformungen, die nacheinander  durchgefόhrt
+werden mόssen. Dazu aber zunδchst eine Musteraufgabe:
+
+      3x - 1 = 8
+
+Man sieht, dass man eine Addition und eine Division durchzufόhren hat, um  x
+zu iso-lieren. Die Lφsung erfolgt nun in zwei Schritten:
+
+      3x - 1 = 8  | +1
+
+<=>   3x = 9           | : 3
+
+<=>   x = 3      ; L = { 3 }
+
+Es   stellt   sich   nun   die   Frage,   ob   man   die   Reihenfolge   der
+Δquivalenzumformungen auch vertauschen kann, also zuerst  die  Division  und
+anschlieίend die Addition durchfόhrt. Die Antwort ist "ja", jedoch wird  die
+Rechnung dadurch etwas kompli-zierter:
+
+      3x - 1 = 8       | : 3
+
+<=>   [pic]
+
+<=>   [pic] | + [pic]
+
+<=>   x = 3      ; L = { 3 }
+
+Sie sehen, dass man zwar das gleiche  Ergebnis  erhδlt,  aber  es  entstehen
+innerhalb  der  Rechnung  Brόche,  die  bei  Durchfόhrung  der   umgekehrten
+Reihenfolge zu ver-meiden sind. Auίerdem  gibt  es  bei  dieser  Reihenfolge
+eine typische Fehlerquelle,  die  man  immer  wieder  bei  Schόlern  findet.
+Manche Schόler fόhren den ersten Schritt der Umformung nδmlich so durch:
+
+      3x - 1 = 8 | : 3
+
+<=>   x - 1 = [pic]
+Hier wird zwar die rechte Seite durch 3 dividiert,  aber  nicht  die  linke.
+Lediglich der er-ste Summand wird durch 3 geteilt.  Die  Δquivalenzumformung
+ist aber nur dann ge-geben, wenn man  die  komplette  linke  Seite  durch  3
+dividiert. Und nach den Regeln der Bruchrechnung muss somit  jeder  einzelne
+Summand durch 3 dividiert werden. Dies fόhrt dann, wie  schon  erwδhnt,  zum
+Auftreten der Brόche.
+
+Aus den gerade genannten Grόnden empfehle ich Ihnen, bei den  άbungsaufgaben
+zunδchst mit Hilfe der Addition bzw. Subtraktion die Gleichung  zusammen  zu
+fassen. Erst im zweiten Schritt sollte  dann  durch  entsprechende  Division
+bzw. Multiplikation die Lφsungsvariable x isoliert werden.
+
+άbungsaufgaben zu diesem Gleichungstyp  finden  Sie  wiederum  in  der  Auf-
+gabensammlung. (Aufgabe 3, Aufgabe 4 und Aufgabe 5)
+
+
+
+
+Komplexere lineare Gleichungen
+
+
+Lineare Gleichungen kφnnen durch Klammersetzung  und  zusδtzliche  Summanden
+in der Komplexitδt gesteigert werden. Dennoch benφtigt  man  zum  Lφsen  der
+Gleich-ungen immer  nur  die  vier  besprochenen  Δquivalenzumformungen  und
+evtl. einige Rechentechniken bzgl. Termumformungen.
+
+Musteraufgabe:
+
+      x (17 - 6x) -5 = (2x -1) (5-3x)
+
+Treten in einer Gleichung Klammern auf, so sind diese zunδchst  einmal  ent-
+sprechend den Regeln der Termumformung aufzulφsen. Man erhδlt dann  folgende
+Gleichung:
+
+<=>   17x - 6x² - 5 = 10x - 6x² - 5 + 3x
+
+Nach  dem  Ausmultiplizieren  sollte  man  die  Gleichung  zunδchst   einmal
+"aufrδumen", d.h. gleichartige Summanden auf jeder Seite zusammenfassen  und
+die Potenzen in absteigender Reihenfolge sortieren.
+
+<=>    - 6x² + 17x - 5 = - 6x² + 13x - 5
+
+Weiter lassen sich die Terme auf beiden Seiten nicht vereinfachen,  so  dass
+man nun mit den Δquivalenzumformungen beginnen  kann.  Zunδchst  sieht  man,
+dass es sich um eine lineare Gleichung handelt, obwohl auf beiden Seiten  x²
+auftaucht. Durch Addition von 6x² fδllt dieser  Summand  auf  beiden  Seiten
+weg.
+
+<=>   17x - 5 = 13x - 5
+
+Diese lineare Gleichung wird nun so umgeformt, dass  auf  der  linken  Seite
+die Terme mit x und auf  der  rechten  Seite  die  Zahlen  erscheinen.  Dazu
+subtrahiert man zu-nδchst auf  beiden  Seiten  der  Gleichung  13x.  Dadurch
+fδllt nδmlich 13x auf der rechten Seite weg.
+
+<=>   4x - 5 = -5           | +5
+
+<=>   4x = 0                | : 4
+
+<=>   x = 0                 ; L = { 0 }
+
+Bei solchen komplexeren Gleichungen sollte  man  am  Ende  auch  immer  eine
+Kontrolle des Ergebnisses durchfόhren. Dazu braucht man  nicht  noch  einmal
+die ge-samte Rechnung zu kontrollieren. Es reicht, wenn man  das  berechnete
+Ergebnis  in  die  Ausgangsgleichung  einsetzt.  Dies  fόhrt  zu   folgendem
+Ausdruck:
+
+0 ( ( 17 - 6( 0 ) - 5   =  ( 2 ( 0 - 1 ) ( ( 5 - 3 ( 0 )
+
+Rechnet man die Klammern aus, so ergibt sich zunδchst:
+
+      0 ( 17 - 5 = (-1) ( 5
+
+und somit
+
+      - 5 = - 5  , wahre Aussage
+
+Also war die oben durchgefόhrte Rechnung korrekt.
+
+Dass  Vorgehen  beim  Lφsen  komplexerer  linearer  Gleichungen  lδsst  sich
+nochmals in folgenden 5 Schritten zusammenfassen:
+
+      1. Schritt: Auftretende Klammern auflφsen bzw. ausmultiplizieren.
+
+
+      2. Schritt: Gleichung aufrδumen, also die Terme auf beiden Seiten  zu-
+      sammenfassen und sortieren.
+
+
+      3. Schritt: Durch Δquivalenzumformungen  die  Gleichung  so  umformen,
+      dass Glieder mit x links vom Gleichheitszeichen und Zahlen rechts  vom
+      Gleich-heitszeichen stehen.
+
+
+      4. Schritt: Die Lφsungsvariable x bestimmen, indem man durch  Division
+      oder Multiplikation x isoliert.
+
+
+      5. Schritt: Kontrolle des Ergebnisses durch Einsetzen  der  gefundenen
+      Lφsung in die Ausgangsgleichung.
+
+Zwei Sonderfδlle kφnnen noch auftreten, auf die ich  kurz  eingehen  mφchte.
+Ver-suchen Sie auch nochmals die einzelnen Schritte bei  der  Umformung  der
+Gleichung nachzuvollziehen.
+
+1. Sonderfall: Die lineare Gleichung ist unlφsbar
+
+Beispiel:
+
+      x - ( 19 - 3x ) = ( 2x  + 3 ) - (  9 - 2x )
+
+<=>   x - 19 + 3x = 2x + 3 - 9 + 2x
+
+<=>   4x - 19 = 4x - 6      | - 4x
+
+<=>   - 19 = -6
+
+Bei der Umformung entsteht also eine  von  x  unabhδngige  falsche  Aussage.
+Damit hat die lineare Gleichung keine Lφsung bzw. eine leere Lφsungsmenge.
+
+2. Sonderfall: Die Gleichung ist allgemeingόltig
+
+Beispiel:
+
+      -x ( x + 5 ) = x ( 16 - x ) - 21x
+
+<=>   -x² - 5x = 16x - x² - 21x
+
+<=>   -x² - 5x = -x² - 5x         | + x²
+
+<=>   - 5x = - 5x                 | + 5x
+
+<=>   0 = 0
+
+In diesem Beispiel entsteht also  eine  von  x  unabhδngige  wahre  Aussage.
+Damit ist jede Zahl eine Lφsung  der  linearen  Gleichung.  Setzen  Sie  zur
+Kontrolle mal eine von Ihnen selbst gewδhlte Zahl in  die  Ausgangsgleichung
+ein.
+
+                              Aufgabensammlung
+
+
+
+
+Aufgabe 1
+
+Berechne die Lφsungen der nachfolgenden linearen Gleichungen
+
+|a)|x + 7355 = 8965                 |b) |135(x = 8775                   |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|c)|x - 1233 = 998                  |d) |[pic]                          |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|e)|4877 - x = 3109                 |f) |6066 + x = 9388                |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|g)|x ( 309 = 65199                 |h) |4788 - x = 1325                |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|i)|[pic]                           |k) |202 ( x = 61206                |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|l)|x - 4378 = 2738                 |m) |[pic]                          |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|n)|x( 725 = 71775                  |o) |x : 78 = 33                    |
+|  |                                |   |                               |
+|p)|7633 - x = 5555                 |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+
+
+
+Aufgabe 2
+
+Lφse die folgenden Gleichungen nach x auf
+|a)|x-a = b                         |b) |a(x = b                        |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|c)|-x = -a                         |d) |x : a = -b                     |
+|  |                                |   |                               |
+|  |                                |   |                               |
+
+
+Aufgabe 3
+
+
+|a)|6x + 7 = 55                     |b) |19 - 3x = 22                   |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|c)|-28 = 9x - 64                   |d) |195 = 10x +25                  |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|e)|18 -x = -13                     |f) |123x - 9 = -9                  |
+
+
+Aufgabe 4
+
+
+|a)|[pic]                           |b) |[pic]                          |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|c)|[pic]                           |d) |[pic]                          |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|e)|[pic]                           |f) |[pic]                          |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+
+
+
+Aufgabe 5
+
+
+|a)|[pic]                           |b) |[pic]                          |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+
+
+Aufgabe 6
+
+
+|a)|8x + 7 = 5x + 25                |b) |4x + 33 = 3 - 2x               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|c)|19x - 17 = 35 - 33x             |d) |-2x +79 = x - 56               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|e)|17 - 12x = -10x + 9             |f) |9x - 57 = -11x -197            |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+
+
+
+
+
+
+
+
+
+Aufgabe 7
+
+
+|a)|[pic]                           |b) |[pic]                          |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+
+
+
+
+
+Aufgabe 8
+
+
+Zur Abwechslung eine spielerische Aufgabe, die Sie zu zweit oder mit
+mehreren spielen kφnnen. Sie benφtigen dazu ein Kartenspiel mit 32 Karten.
+
+Spielregeln:
+1. Jeder Spieler zieht 4 Karten.
+2. In die Gleichung ax + b = cx + d setzt der Spieler fόr a, b, c und d die
+Werte seiner gezogenen Karten ein. Welcher Kartenwert in welche Variable
+eingesetzt wird, entscheidet der Spieler selbst.
+3. Jeder Spieler lφst seine Gleichung.
+4.  Die grφίte Lφsungszahl gewinnt. Eine unerfόllbare Gleichung schlδgt
+jede Lφsungszahl. Eine allgemeingόltige Gleichung gewinnt gegenόber einer
+unerfόllbaren Gleichung.
+
+Kartenwerte fόr die schwarze Karten:
+
+|As      |Kφnig   |Dame    |Bube    |10      |9       |8       |7       |
+|11      |4       |3       |2       |10      |9       |8       |7       |
+
+Kartenwerte fόr die roten Karten:
+
+|As      |Kφnig   |Dame    |Bube    |10      |9       |8       |7       |
+|-11     |-4      |-3      |-2      |-10     |-9      |-8      |-7      |
+
+Auch wenn Sie keine Lust zum Spielen haben, kφnnen Sie sich einmal
+folgendes όberlegen:
+a) Unter welchen Bedingungen kann man eine allgemeingόltige Gleichung
+legen.
+b) Unter welchen Bedingungen kann man eine unerfόllbare Gleichung legen.
+
+
+
+
+
+
+Aufgabe 9
+
+
+Lφse folgende Gleichungen
+
+|a)|7 ( x + 3) - 5x = 2x +7         |b) |3(x - 9) - 5(1-x) = 6(x - 4)   |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|c)|x - [15 - 4(2x - 1)] = 3[3(x +  |d) |5(x - 3) + 7 ( 2 - x) = 4( 1 - |
+|  |1) - 5]                         |   |x) + 3x                        |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|e)|4(3x + 4) - (x + 1)=7(x + 1) +  |f) |[pic]                          |
+|  |4( x + 2)                       |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|g)|3(0,1x + 3) + 8 = x - 7(0,1x +  |h) |[pic]                          |
+|  |1)                              |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|i)|1,3(3x + 1) - 0,3 = 8(0,3x + 2) |j) |[pic]                          |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+|  |                                |   |                               |
+
+
+
+
+
+
+Aufgabe 10
+
+Lφsen Sie folgendes Kreuzzahlrδtsel (Fόr die Rechnungen kφnnen Sie die
+nachfolgenden leeren Blδtter verwenden)
+|      |1     |      |      |2     |3     |      |
+|      |      |8     |      |9     |      |      |
+|                                   |19                                 |
+|1. |7x + 43 = 2x + 98               |1. |9x + 25 = 5x + 73              |
+|2. |[pic]                           |3. |[pic]                          |
+|4. |9(x - 30) = 0,5(x + 4)          |4. |0,8 ( x - 5) = 0,5 ( x + 10)   |
+|6. |[pic]                           |5. |[pic]                          |
+|8. |16 ( 1 -x ) = 3[ 19 - 7(x - 99) |7. |22 - 0,1(x + 1) = 12 - 0,7 ( x |
+|   |- 5x ]                          |   |- 99)                          |
+|10.|0,6 (x - 10) - 2 = 4( 19 - 0,1x)|8. |[pic]                          |
+|11.|[pic]                           |9. |0,2 (x - 500) = 7(x - 670)     |
+|13.|5(13 - 0,04x) = 0,2 (x - 5)     |12.|3(x - 14) - 5(x - 42) = 2(x -  |
+|   |                                |   |12)                            |
+|16.|[pic]                           |14.|[pic]                          |
+|18.|22 - x = 3[(2x - 11) - 5]       |15.|x - [8 - 9(x - 15)] = 3 (x - 1)|
+|19.|13[x + 2(9 - x) + 1]= 0         |17.|[pic]                          |
+|20.|[pic]                           |18.|7 - 3(x - 9) = 17 - 2x         |
+
+
+
+
+
+
+
+Aufgabe 11
+
+
+Zum Abschluss noch einige kleinere Textaufgaben, deren Lφsungen auf lineare
+Gleichungen fόhren. Wie Sie bei solchen Aufgaben vorgehen kφnnen, entnehmen
+Sie bitte der Arbeitsmappe zum Umgang mit Textaufgaben.
+
+|a) |Addiert man zur Hδlfte eines Kapitals 30 EUR, so erhδlt man das    |
+|   |Dreifache des Kapitals, vermindert um 320 EUR. Wie groί ist das    |
+|   |Kapital?                                                           |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|b) |Der Weg von A όber B und C nach D ist 90 km lang. B liegt von C    |
+|   |fόnfmal soweit entfernt wie B von A. C liegt von D viermal soweit  |
+|   |entfernt wie A von B. Wie weit ist A von B entfernt?               |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|c) |Ein Rechteck hat einen Umfang von 240mm. Die Lδnge ist um 3,4 cm   |
+|   |grφίer als die Breite. Wie lang sind die Seiten des Rechtecks?     |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|d) |Drei Arbeiter (A, B, C) gaben zusammen in zwei Tagen 270 EUR       |
+|   |verdient, B das Doppelte von A und C 30 EUR weniger als B. Wie viel|
+|   |EUR verdiente jeder?                                               |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+|   |                                                                   |
+
+
+
+                          Lφsungen zu den Aufgaben
+
+
+
+Aufgabe 1
+
+
+|a)|1610                            |b) |65                             |
+|c)|2231                            |d) |385550                         |
+|e)|1768                            |f) |3322                           |
+|g)|211                             |h) |3463                           |
+|i)|[pic]                           |k) |303                            |
+|l)|7116                            |m) |[pic]                          |
+|n)|99                              |o) |2574                           |
+|p)|2078                            |   |                               |
+
+
+Aufgabe 2
+
+
+|a)|x = a+b                         |b) |x = b : a                      |
+|c)|x = a                           |d) |x = - b( a                     |
+
+Aufgabe 3
+
+|a)|8                               |b) |-1                             |
+|c)|4                               |d) |17                             |
+|e)|31                              |f) |0                              |
+
+
+Aufgabe 4
+
+
+|a)|-1                              |b) |18                             |
+|c)|[pic]                           |d) |0,25                           |
+|e)|[pic]                           |f) |12                             |
+
+
+Aufgabe 5
+
+
+|a)|5                               |b) |98                             |
+
+
+Aufgabe 6
+
+
+|a)|6                               |b) |-5                             |
+|c)|1                               |d) |45                             |
+|e)|4                               |f) |-7                             |
+
+
+
+Aufgabe 7
+
+
+|a)|4                               |b) |0,5                            |
+
+
+Aufgabe 8
+
+__
+
+
+Aufgabe 9
+
+
+|a)|unerfόllbar                     |b) |4                              |
+|c)|unerfόllbar                     |d) |-5                             |
+|e)|allgemeingόltig                 |f) |12                             |
+|g)|unerfόllbar                     |h) |-0,5                           |
+|i)|10                              |j) |allgemeingόltig                |
+
+
+
+Aufgabe 10
+
+
+|      |1     |1     |      |1     |4     |      |
+|0     |      |1     |0     |6     |      |9     |
+|   |1                                                                  |
+|b) |Gleichung: x + 5x + 4x = 90                                        |
+|   |Lφsung:  x = 9                                                     |
+|c) |Gleichung: 2(2x + 3,4) = 24                                        |
+|   |Lφsung:  x = 4,3                                                   |
+|d) |Gleichung: x + 2x + (2x - 30 ) = 270                               |
+|   |Lφsung:  x = 60                                                    |
+
+-----------------------
+hier wird die durchzufόhrende
+Rechnung "angekόndigt"
+
+x
+
+                                      5
+
+                                      8
+
+                                      3
+
+
+x
+
+

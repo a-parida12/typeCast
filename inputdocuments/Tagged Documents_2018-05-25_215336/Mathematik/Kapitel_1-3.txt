@@ -1,0 +1,1233 @@
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+Wintersemester 2014/2015
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+1
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+Inhalt der Vorlesung
+1. Gleichungen und Summen
+2. Grundlagen der Funktionslehre
+3. Rechnen mit Funktionen
+4. Optimierung von Funktionen
+5. Funktionen mit mehreren Variablen
+6. Optimierung unter Nebenbedingungen
+7. Matrixalgebra
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+2
+
+Gleichungen und Summen
+Kapitel 1
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+3
+
+1.1
+
+GLEICHUNGEN
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+4
+
+Gleichungen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+5
+
+Gleichungen mit Klammern und Brüchen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+6
+
+lineare Gleichungen in zwei Variablen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+7
+
+Beispiel 1: Makroökonomisches Modell
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+8
+
+Beispiel 1: Aufgabe
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+9
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+10
+
+Quadratische Gleichung in (a, b)- und (p, q)-Form
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+11
+
+Methode der quadratischen Ergänzung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+12
+
+Eine alternative Lösung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+13
+
+Allgemeiner Fall: Die (p, q) - Formel
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+14
+
+Der allgemeine Fall: Die (a, b)-Formel
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+15
+
+Beispiel 1: Bestimmen Sie die Lösungen von
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+16
+
+Methode 1: Einsetzungsmethode
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+17
+
+Methode 2: Eliminationsmethode
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+18
+
+Allgemeine Lösung: Zwei Gleichungen, zwei Unbekannte
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+19
+
+Kapitel 1.2
+
+SUMMEN
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+20
+
+Definitionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+21
+
+Beispiel 1:
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+22
+
+Rechenregeln für Summen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+23
+
+Nützliche Formeln
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+24
+
+Newtons Binomische Formeln
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+25
+
+Binomialkoeffizienten
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+26
+
+Grundlagen der Funktionslehre
+Kapitel 2
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+27
+
+Kapitel 2
+1.
+2.
+3.
+4.
+5.
+6.
+
+Lineare Funktion
+Allgemeine quadratische Funktion
+Kubische Funktion und Polynome
+Potenz- und Exponenzialfunktion
+Logarithmus
+Verschiebung von Funktionsgraphen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+28
+
+Funktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+29
+
+Funktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+30
+
+Beispiel: Produktionskosten
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+31
+
+Wertebereich (range) einer Funktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+32
+
+Monoton wachsende und fallende Funktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+33
+
+Einige wichtige Graphen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+34
+
+Kapitel 2.1
+
+LINEARE FUNKTION
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+35
+
+Definition
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+36
+
+Steigung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+37
+
+y-Achsenabschnitt
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+38
+
+Graphische Lösung von linearen Gleichungen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+39
+
+Beispiel
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+40
+
+Lösung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+41
+
+Kapitel 2.2
+
+ALLGEMEINE QUADRATISCHE
+FUNKTION
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+42
+
+Definition
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+43
+
+Eigenschaften
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+44
+
+Antwort auf Frage A: Nullstellen der quadratischen Funktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+45
+
+Frage B: Bestimmung des Scheitelpunktes für a > 0
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+46
+
+Frage B: Bestimmung des Scheitelpunktes für a < 0
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+47
+
+Maximum und Minimum quadratischer Funktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+48
+
+Beispiel 1: Maximierung einer quadratischen Gewinnfunktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+49
+
+Lösung:
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+50
+
+Kapitel 2.3
+
+KUBISCHE FUNKTION UND
+POLYNOME
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+51
+
+Kubische Funktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+52
+
+Beispiel 1: Kubische Kostenfunktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+53
+
+Allgemeine Polynome
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+54
+
+Nullstellen eines Polynoms und Fundamentalsatz der Algebra
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+55
+
+Kapitel 2.4
+
+POTENZ- UND
+EXPONENZIALFUNKTION
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+56
+
+Definition der allgemeinen Potenzfunktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+57
+
+Graphen von Potenzfunktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+58
+
+Definition
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+59
+
+Graphen von Exponentialfunktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+60
+
+Anmerkung 1: Unterschied zwischen Potenz- und Exponentialfunktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+61
+
+Verdopplungszeit
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+62
+
+Beispiel 3: Zinseszinsen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+63
+
+Die allgemeine Exponentialfunktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+64
+
+Die natürliche Exponentialfunktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+65
+
+Rechenregeln für die e-Funktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+66
+
+Abb. 3: Graphen der Exponentialfunktionen exp(x) und exp(-x)
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+67
+
+Kapitel 2.5
+
+LOGARITHMUS
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+68
+
+Natürlicher Logarithmus
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+69
+
+Natürlicher Logarithmus
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+70
+
+Beispiel 1: Logarithmen bestimmen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+71
+
+Rechenregeln für den natürlichen Logarithmus
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+72
+
+Warnung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+73
+
+Beispiel 2: Verdopplungszeit einer Exponentialfunktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+74
+
+Die natürliche Logarithmusfunktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+75
+
+Eigenschaften der natürlichen Logarithmusfunktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+76
+
+Logarithmen mit anderen Basen als e
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+77
+
+Logarithmen mit anderen Basen als e, einige Beispiele
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+78
+
+Zusammenhang zwischen ln und log
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+79
+
+Rechenregeln für Logarithmen zur Basis a
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+80
+
+Kapitel 2.6
+
+VERSCHIEBUNG VON
+FUNKTIONSGRAPHEN
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+81
+
+Beispiel
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+82
+
+Beispiel 1:
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+83
+
+Beispiel 1:
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+84
+
+Beispiel 1:
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+85
+
+Beispiel 1:
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+86
+
+Verschiebung des Graphen von y = f(x)
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+87
+
+Beispiel 2 (i):
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+88
+
+Beispiel 2(i): Skizzieren Sie den Graphen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+89
+
+Rechnen mit Funktionen
+Kapitel 3
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+90
+
+Kapitel 3
+1.
+2.
+3.
+4.
+5.
+
+Rechenoperationen und Verkettung
+Inverse Funktionen
+Ableitung einer Funktion
+Höhere Ableitungen
+Ableitung spezieller Funktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+91
+
+Kapitel 3.1
+
+RECHENOPERATIONEN UND
+VERKETTUNG
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+92
+
+Abbildung 1: Summe
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+93
+
+Summe und Differenz
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+94
+
+Beispiel 1: Durchschnittskosten
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+95
+
+Beispiel 1: Durchschnittskosten
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+96
+
+Beispiel 2: Gewinnfunktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+97
+
+Produkte und Quotienten
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+98
+
+Verkettung von Funktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+99
+
+Verkettung von Funktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+100
+
+Verkettung von Funktionen: Notation
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+101
+
+Beispiel 3: Schreiben Sie als Verkettung von Funktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+102
+
+Beispiel 3: Schreiben Sie als Verkettung von Funktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+103
+
+Kapitel 3.2
+
+INVERSE FUNKTIONEN
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+104
+
+Inverse Funktion: Preis als Funktion der Nachfrage
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+105
+
+Umkehrbar eindeutige Funktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+106
+
+Umkehrbar eindeutige Funktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+107
+
+Definition
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+108
+
+Folgerung: Verkettung inverser Funktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+109
+
+Notation der Inversen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+110
+
+Inverse als Spiegelbilder an der Winkelhalbierenden
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+111
+
+Die natürliche Exponentialfunktion und Logarithmusfunktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+112
+
+Kapitel 3.3
+
+ABLEITUNG EINER FUNKTION
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+113
+
+Steigung = Steigung der Tangente
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+114
+
+Ableitung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+115
+
+Tangente und Sekante
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+116
+
+Steigung der Sekante
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+117
+
+Definition der Ableitung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+118
+
+Gleichung der Tangente
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+119
+
+Differentialnotation (Leibniz):
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+120
+
+Beispiel 1: Grenzkosten, Grenzertrag, Grenzgewinn
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+121
+
+Differenzierbarkeit
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+122
+
+Ableitungen mit Konstanten
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+123
+
+Potenzregel
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+124
+
+Summen und Differenzen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+125
+
+Erweiterung der Summenregel
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+126
+
+Produktregel
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+127
+
+Produktregel, Beispiel:
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+128
+
+Lösung:
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+129
+
+Produktregel für mehr als zwei Faktoren
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+130
+
+Quotientenregel
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+131
+
+Quotientenregel; Beispiel:
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+132
+
+Lösung:
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+133
+
+Ableitung einer verketteten Funktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+134
+
+Verallgemeinerte Potenzregel
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+135
+
+Verallgemeinerte Potenzregel; Beispiel:
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+136
+
+Lösung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+137
+
+Beispiel: Mehrfache Anwendung der Kettenregel
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+138
+
+Mehrfache Anwendung der Kettenregel
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+139
+
+Alternative Formulierung der Kettenregel
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+140
+
+Kapitel 3.4
+
+HÖHERE ABLEITUNGEN
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+141
+
+Zweite Ableitung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+142
+
+Beispiel 1:
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+143
+
+Lösung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+144
+
+Notationen für die zweite Ableitung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+145
+
+Zweite Ableitung; Beispiel:
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+146
+
+Lösung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+147
+
+Vorzeichen der Ableitung und Steigungsverhalten
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+148
+
+Vorzeichen der 2. Ableitung und Steigungsverhalten der 1. Ableitung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+149
+
+Definition: Konvexe und konkave Funktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+150
+
+Beispiel:
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+151
+
+Beispiel: Fortsetzung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+152
+
+Ableitungen n-ter Ordnung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+153
+
+Beispiel: Ableitungen bis zur vierten Ordnung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+154
+
+Kapitel 3.5
+
+ABLEITUNG SPEZIELLER
+FUNKTIONEN
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+155
+
+Ableitung der natürlichen Exponentialfunktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+156
+
+Ableitung komplizierterer e-Funktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+157
+
+Beispiel: Differenzieren Sie
+
+Bilden sie die erste Ableitung von (b)
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+158
+
+Lösung
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+159
+
+Eigenschaften der natürlichen Exponentialfunktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+160
+
+Differenzieren allgemeinerer Exponentialfunktionen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+161
+
+Beispiel: Bestimmen Sie die Ableitungen von
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+162
+
+Natürliche Logarithmus-Funktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+163
+
+Ableitung einer mit ln verketteten Funktion
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+164
+
+Beispiel: Definitionsbereich und Ableitung bestimmen
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+165
+
+Logarithmisches Differenzieren, Beispiel:
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+166
+
+Ableitung der Logarithmus-Funktion zur Basis a
+
+Mathematische Grundlagen für
+Wirtschaftswissenschaftler
+
+167
+
+

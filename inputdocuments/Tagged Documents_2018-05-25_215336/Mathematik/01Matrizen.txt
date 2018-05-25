@@ -1,0 +1,409 @@
+
+
+
+
+Inhalt 
+
+1. Grundbegriffe zu Matrizen  3    Übungen 42. Rechnen mit Matrizena) Addition und Subtraktion 6b) Multiplikation und Division mit einer Zahl 6     Übungen zu a, b 6c) Multiplikation von 2 Matrizen  8     Übungen10d) Anhang: Matrizen mit EXCEL13LÖSUNGEN im Beiheft
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technologie: In diesem Skriptum sind  GTR (TI82stats) und CAS (Ti89) kurz mit beschrieben, weil sie in der HUM am häufigsten verwendet werden.
+Ähnlich arbeiten aber andere GTR und CAS-Taschenrechner auch. DAHER NICHT ALS  WERBUNG für TI-Rechner zu  verstehen!
+Zusätzlich empfohlen wird Geogebra in der neuesten Version, Tabellenkalkulationsprogramme, Rechenprogramme wie wiris, 
+maxima etc, die man frei über Internet bekommen kann. Sie sind im Skriptum häufig für Grafiken und Berechnungen verwendet worden.
+
+Quellenangaben: Es wurde nichts original übernommen, aber Inspirationen und Hinweise zu Aufgabenarten stammen aus
+folgenden Büchern und Websites – daher für weiterführenden Studien anzuraten:
+Mathe mit Gewinn (Hinkelmann, Böhm, Hofbauer ua), hpt-verlag, Mathematik HAK (Schneider, Thannhauser ua.) Trauner-Verlag
+Mathematik verstehen 5 (Malle, Ramharter ua) Öbv-Verlag, Mathematik 1 und 2 (Sidlo, Puhm u.a.) hpt-Verlag, Lehrbuch der Mathematik 5 (Reichel, Malle u.a.) Hpt/öbv Verlag, Mathematik Oberstufe 1 Novak, Reniets-Verlag, Vektorielle Analytische Geometrie, Laub/Teller I, LHU, J. Lindauer-Verlag
+www.mathe-trainer.com, http://delphi.zsg-rottenburg.de/la1.html, http://www.mathematik.uni-kl.de/~mamaeusch/  
+
+Matrizen
+1. Grundbegriffe zu Matrizen 
+
+Eine Matrix ist ein Zahlenschema, mit dem zahlenmäßige Zusammenhänge übersichtlich dargestellt
+werden können. Sie wird mit Großbuchstaben bezeichnet.
+Ein Beispiel:
+Eine Firma vertreibt 4 Produkte P1, P2, P3, P4. Die Firma berichtet über die Verkaufszahlen in den ersten 2 Monaten.
+
+Tabellarische Darstellung:                       											Darstellung als Matrix: Produkt x Monat
+                                                                                                                                                                  Zeilen x Spalten
+                                                  
+Die Matrixelemente
+A ist eine so genannte 4 x 2 Matrix, sie hat 4 Zeilen und 2 Spalten. Die Zeilen werden zuerst benannt! Die Elemente der Matrix bezeichnet man mit Indizes: a11 … Element 1. Zeile, 1. Spalte = 124      a32 … Element 3. Zeile, 2. Spalte = 81                       
+
+Spalten und Zeilen der Matrix haben eine unterschiedliche Aussage.
+Die Elemente der 1. Spalte geben die Verkaufszahlen aller Produkte im 1. Monat,
+die Elemente der 1. Zeile geben die Verkaufszahlen des  Produkts P1 in beiden Monaten an.
+
+TI82stats:
+Eingabe: Matrix / EDIT /Enter / 4 x 2 / Enter / 1. und 2. Zahlenzeile eingeben, jeweils mit Enter
+bestätigen/ Quit
+Aufruf der Matrix: Matrix / Names/ Nummer, unter der die Matrix gespeichert wurde.
+ODER Eingabe im Hauptfenster eckige Klammer und mit Zeilen in eckigen Klammern: 
+[ [124,75][298,56][214,81][178,102] ] STO-->MATRIX-Taste und Buchstaben aussuchen. 
+
+TI89: Am einfachsten gibt man die Matrix in eckiger Klammer ein (Zeilen mit ; trennen) 
+
+[124,75;298,56;214,81;178,102] STO-->a1  gibt die Matrix a1 = A (s.oben)
+
+Besondere Matrizen: Matrizen mit nur einer Zeile oder einer Spalte nennt man Vektoren.
+Hat eine Matrix nur eine Zeile, so nennt man sie Zeilenvektor. Der Ausdruck Spaltenvektor bezeichnet
+eine Matrix mit nur einer Spalte.
+
+Man kann die Zeilen und Spalten vertauschen, dann erhält man die transponierte Matrix AT.
+                                          
+Die Interpretation der transponierten Matrix ist die gleiche, man hat in der Tabelle lediglich Zeilen und Spalten vertauscht. Dies ist gelegentlich bei bestimmten Berechnungen von Vorteil. 
+
+TI82stats:  Die Matrix aufrufen oder eingeben dann Matrix Math und dort 2 ( T )drücken/enter
+TI 89: Matrix aufrufen oder eingeben/ MATH/Matrix 1 ( T ) drücken
+
+Matrizen und Gleichungssysteme
+
+Mit Hilfe einer Matrix lässt sich ein lineares Gleichungssystem kurz darstellen:
+       Gleichungssystems        2x - 3y =  2
+                                                                          3x + 2y =  29
+
+Die quadratische Matrix enthält nur die Zahlen vor den Unbekannten und heißt
+Koeffizientenmatrix.
+
+Lösung des Gleichungssystems (beliebig viele Variable): 
+TI 82stat:  MATRIX /EDIT  "[A]" Zeilenzahl x Spaltenzahl eingeben. 
+Dann zeilenweise alle Zahlen des Systems eingeben /  QUIT
+MATRIX /Math/ B   rref   "reihenreduzierte Form"   erscheint im Hauptfenster,
+ nochmals MATRIX  aufrufen und [A] eingeben.
+In unserem Beispiel erscheint folgendes Ergebnis:
+[1  0   7
+  0  1  4]
+Und das bedeutet: 1. Spalte steht für die erste Variable (x), 2. Spalte steht für die 2. Variable (y) 
+Ablesen der Lösung: Die 1. Zeile heißt 1x + 0y = 7  und  2. Zeile 0x + 1y = 4   -->   Lösung (7|4)
+      
+TI 89:  F2 / 1 solve /enter (2x-3y=2 and (aus catalog oder mit Buchstaben schreiben) 3x + 2y = 29 , {x,y} )
+Oder man kann die Funktion simult (aus CATALOG) verwenden mit Koeffizientenmatrix, Spaltenmatrix der Ergebnisse. 
+
+
+                                                              Übungen  zu 1
+
+1. Stellen Sie die Matrix jeweils für folgende Problemstellung auf:
+In einem Monat verbraucht die Firma Zipfer für ihre Bierherstellung in der 1. Woche 10 ME Hopfen, 6 ME Malz, 
+in der 2. Woche 8 ME Hopfen und 4 ME Malz und in der 3. Woche 8 ME Hopfen und 7 ME Malz und schließlich in der 4. Woche 11 ME Hopfen und 9 ME Malz.
+Geben Sie die Glieder a12, a32 und a14 an, falls sie existieren. Geben Sie dieselben Glieder in der transponierten Matrix an. Erklären Sie den Unterschied zwischen den beiden Darstellungsweisen.
+
+2. Interpretieren Sie die folgende Matrix A und erfinden Sie einen passenden Text dazu: Es ist eine Matrix, die 3 Produkte in den Zeilen und die benötigten Zutaten in ME pro Stück an Mehl, Zucker und Milch in den Spalten beschreibt. Stellen Sie die transponierte Matrix auf und interpretieren Sie deren Aussage.
+
+
+3. Eine Fabrik stellt zwei Sorten von Osterhasen in "Blau" und "Gold" her und benötigt dazu die Rohstoffe: Vollmilchschokolade, Marzipan und Nougat. Stellen Sie die Rohstoff-Matrix und deren transponierte Matrix auf. Wie ist die transponierte zu interpretieren?
+
+Rohstoffe in Gramm/SorteBlau Gold Vollmilchschokolade500Marzipan050 Nougat4040 
+4. Stellen Sie die folgenden Gleichungssysteme in Matrixform dar, lösen Sie das System mit Technologie und interpretieren Sie die Lösung.
+
+5. Stellen Sie die folgenden Gleichungssysteme in Matrixform dar, lösen Sie das System mit Technologie und interpretieren Sie die Lösung.
+
+
+6. Eine Firma hat zwei Sorten Kaffee zum Mischen zur Verfügung. Mischt man 300 kg der ersten Sorte mit 200 Kilo der 2. Sorte so bezahlt der Kunde €4 760.-, mischt man hingegen 200 kg der 1. Sorte mit 300 kg der zweiten Sorte so sind die Kosten um 
+€ 320.- geringer. 
+a) Wie viel Kilogramm von  jeder Sorte wird eingekauft? Formulieren Sie den Ansatz in Matrixform und als lineares Gleichungssystem und lösen Sie das System mit Technologieeinsatz.
+b) Berechnen Sie den Kilopreis der beiden Kaffeesorten und interpretieren Sie das Ergebnis. 
+
+7. Eine Möbelfabrik stellt 3 Sorten von Möbel M1, M2, M3 zum Selbstaufbau her. Jedes Bauteil der Möbelstücke wird zunächst zugeschnitten, dann mit Bohrungen versehen und zum Schluss werden alle Teile verpackt.
+Für das Zuschneiden bei M1 benötigt die Maschine 20 Minuten, bei  M2 50 Minuten und bei M3 45 Minuten. Um die Bohrungen anzubringen, benötigt man für M1 10 Minuten, für M2 5 Minuten und für M3 15 Minuten; die Verpackung benötigt bei M1 5 Minuten, bei M2 15 Minuten und bei M3 10 Minuten.
+Für einen Großauftrag sind für das Zuschneiden 120 Stunden geplant; für die Bohrungen 35 Stunden und 50 Minuten und für das Verpacken 30 Stunden und 50 Minuten. 
+a) Wie viele Möbelstücke jeder Sorte können hergestellt werden? Erstellen Sie die Erweiterungsmatrix für dieses Problem!
+b) Lösen Sie die Aufgabe mit Technologieeinsatz und interpretieren Sie das Ergebnis.
+
+8. Für eine Münze soll eine neue Legierung verwendet werden, die aus 43% Nickel, 38% Kupfer und 19% Zinn besteht. Die neue Legierung soll aus zwei alten Legierungen, die noch in großer Menge vorrätig sind, und aus reinem Kupfer gewonnen werden. 
+Legierung 1: 50% Nickel, 30% Kupfer, 20% Zinn 
+Legierung 2: 60% Nickel, 10% Kupfer, 30% Zinn 
+a) Berechnen Sie die benötigten Anteile der Legierung 1 und 2 und des reinen Kupfers. 
+Erstellen Sie das Gleichungssystem und die Erweiterungsmatrix für dieses Mischungsproblem! 
+b) Lösen Sie die Aufgabe mit Technologieeinsatz und interpretieren Sie das Ergebnis. 
+
+
+
+
+2. Rechnen mit Matrizen
+
+a) Addition und Subtraktion:
+Ein Betrieb stellt 3 Güter her G1, G2, G3. Er liefert sie an 4 Filialen F1, F2, F3, F4.
+Die Übersicht über die in 2 Monaten an die Filialen gelieferten Mengen wird in Matrizenform GxF angegeben.
+Die Schreibweise GxF oder kurz GF bedeutet, dass die Güter in den Zeilen zu lesen sind, die Filialen in den Spalten.
+
+Die Gesamtlieferung in diesen 2 Monaten:
+
+
+Matrizen können addiert, bzw. subtrahiert werden, wenn sie vom gleichen Typ (n x m) sind.
+Man addiert bzw. subtrahiert die entsprechenden Elemente. Das Ergebnis ist wieder eine Matrix
+vom Typ (n x m).
+b) Multiplikation und Division mit einer Zahl:
+
+Der Betrieb möchte im 3. Monat das Ergebnis des 1. Monats verdreifachen. Man stellt sich vor, dass
+man an alle Filialen die dreifache Menge der Güter G1, G2 und G3 sendet.
+Die neue Liefermenge: 3 ? GF
+
+
+Matrizen werden mit einer Zahl multipliziert (dividiert), indem man jedes Element mit dieser Zahl multipliziert (dividiert).
+TI82stat: 
+Mit Matrix/ Edit die Matrix erzeugen. Im Hauptfenster [A]*Zahl eingeben.
+TI89: Matrix erzeugen, mit Zahl multiplizieren
+
+
+Übungen zu 2ab
+
+1. Die Nettopreise eines Unternehmens für 3 Produkte P1,P2,P3 in 3 Filialen F1,F2,F3 betragen:
+    PF=                          
+    Berechnen Sie die Bruttopreise mit 20% Mehrwertsteuer.
+
+2. Die Verkaufszahlen von 3 Produkten, die von einer Firma in den Monaten Juni und Juli in Wien und in Bregenz verkauft werden, sind in den beiden Matrizen PM(W) und PM(B) aufgelistet:
+PM(W)=  und   PM(B)= 
+
+* Wie groß sind die Unterschiede in den Verkaufszahlen beider Städte? Beurteilen Sie die Veränderung verbal.
+* Berechnen Sie die Gesamtverkaufszahlen der Firma in den beiden Monaten.
+* Die Firma möchte durch Werbemaßnahmen den Absatz in Wien um 20 % und in Bregenz um 15% steigern. Wie groß wäre der gesamte Absatz der Firma, wenn dieses Ziel erreicht würde.
+
+3. Der Kostenvoranschlag für die Herstellung von 2 unterschiedlichen Produkten benennt die Kosten K1 und K2 in den ersten beiden Quartalen: Q1: € 50,- und € 79,- bzw. Q2: € 90,- und € 115,-.
+Durch Einsparungsmaßnahmen sollen die Kosten generell um 3% gesenkt werden. 
+* Argumentieren Sie, was diese Zahlen im Kostenvoranschlag aussagen. Welche Gründe für die Kostenerhöhung können Sie anführen?
+* Erstellen Sie die neue Kostenmatrix.
+
+4. Eine Firma verkaufte in den vergangenen 2 Jahren in drei Ländern L1, L2, L3 folgende Mengen von 2     Produkten P1 und P2:
+        Letztes Jahr: 
+PxLL1L2L3P11 2502 5000P21 0001 400900
+* Beschreiben Sie den gesamten Export beider Jahre in die einzelnen Länder mit Hilfe einer Matrix.
+* Beschreiben Sie die Veränderung des Exports in den beiden Jahren und beurteilen Sie diese Veränderung verbal.
+* Für das laufende Jahr erwartet man eine generelle Zunahme um 1.2%. Erstellen Sie die Exporttabelle.
+
+5. Eine Firma erzeugt 2 Typen von Motoren M1 und M2 an 2 gleichartig ausgerüsteten Fabriken. An 5 Tagen T1 bis T5 der Woche ist die Produktion in Stück laut folgender Tabelle:
+
+       1. Fabrik  
+MxTT1T2T3T4T5M13634383518 M23028322915
+* Berechnen Sie die Gesamtproduktion der Firma in den beiden Fabriken.
+* Beschreiben und beurteilen Sie den Unterschied in den beiden Produktionsstätten.
+* In der 2. Fabrik sollte die Produktion um mindestens 25% angekurbelt werden. Welcher Produktionsmengen entspricht dies?
+
+6. Vier Schülerinnen bekommen ein monatliches Taschengeld G1 und einen Lohn G2 für Nachhilfestunden an jüngere Kolleginnen während des gesamten Jahres.
+
+SxGG1 in € / MonatG2 in €/MonatS15043S24537S34856S46019.
+* Berechnen Sie, wie viel jede Schülerin pro Jahr Taschengeld und Lohn einnimmt.
+* Beurteilen Sie, wer insgesamt im Jahr am meisten einnimmt und wer am wenigsten.
+
+
+c) Multiplikation von 2 Matrizen
+
+Ein Unternehmen stellt die Produkte P1, P2 und P3 aus den Ausgangsstoffen A1 und A2 her.
+Es möchte 7 Mengeneinheiten (ME) von P1, 5 ME von P2 und 8 ME von P3 erzeugen.
+Man benötigt die folgenden Mengen der Ausgangsstoffe:
+
+1. Frage: Wie viel vom Ausgangsstoff A1 wird für die gewünschte Produktion benötigt?
+Die Antwort ist einfach: 5 ? 7 + 3 ? 5 + 5 ? 8 = 90
+Das entspricht dem Skalarprodukt zweier Vektoren! Die erste Zeile versteht sich als Zeilenvektor. 
+2. Frage: Wie viel vom Ausgangsstoff A2 wird für die gewünschte Produktion benötigt? Das entspricht wieder der Skalarmultiplikation des Zeilenvektors (2. Zeile) mal Spaltenvektor
+
+Beide Fragen können in einem Schritt durch die Multiplikation einer Matrix mit einem Vektor
+geklärt werden: 
+        2x3 mal 3x1 --> 2x1
+
+Multiplikation einer Matrix mit einem Spaltenvektor:
+
+Man multipliziert eine Matrix mit einem Spaltenvektor, indem man jede Zeile der Matrix 
+mit dem Spaltenvektor skalar multipliziert. ZEILE mal SPALTE.
+Bedingung: Anzahl der Spalten in der Matrix = Anzahl der Zeilen des Vektors.
+Grafische Darstellung des Produktionsprozesses  -  Gozintograf:*)
+Der Ausdruck Gozinto stammt von „goes into“ und meint einen gerichteten Graphen, der beschreibt,
+aus welchen Teilen sich ein oder mehrere Produkte zusammensetzen.
+
+Der Produktionsprozess kann einstufig oder mehrstufig sein, wobei Rohstoffe, Zwischenstoffe und
+Fertigteile beteiligt sein können. Der Gozintograf zeigt, wie diese Teile mengenmäßig miteinander
+verbunden sind. 
+
+TI82stats:
+Matrix und Spaltenvektor mit MATRIX/EDIT erzeugen und [A]*[B] im Hauptfenster eingeben
+TI89: Matrix und Spaltenvektor und mit * verbinden
+
+______________________________________________________
+*) Die Darstellungen sind unterschiedlich: Die Felder sind  rund oder eckig, von links nach rechts, von oben nach unten und von unten 
+nach oben. Im Skriptum werden übungshalber unterschiedliche Darstellungen verwendet.
+
+
+Stellen wir uns vor, dass die Produkte P im vorherigen Beispiel mit einer Zwischenstufe A aus Rohstoffen R hergestellt sind: 
+
+1 Stück A1 benötigt 3 ME R1 und 4 ME R2
+1 Stück A2 benötigt 6 ME R1 und 2 ME R2
+
+Die folgende grafische Darstellung veranschaulicht die Situation:
+
+
+Die Berechnung des gesamten Rohstoffbedarfs erhält man durch die Multiplikation der
+„Rohstoffmatrix“ mit der „Ausgangsstoffmatrix“.
+
+Multiplikation von 2 Matrizen:
+
+Damit man Matrizen miteinander multiplizieren kann, muss die Anzahl der Spalten der 1. Matrix der Anzahl der Zeilen in der 2. Matrix entsprechen
+
+
+
+                                               Die Reihenfolge der Multiplikation darf man nicht vertauschen!
+
+
+
+
+TI82stats: Die beiden Matrizen editieren: Matrix /Edit und  [A] * [B] im Hauptfenster eingeben
+TI 89: Beide Matrizen eingeben und stornieren, dann a1*b1. Wenn man die Matrizen nur einmal braucht, dann kann man auch die Klammerausdrücke gleich multiplizieren.
+
+Tipp:
+Um aus einem Text die Matrizen richtig zu übersetzen und die Reihenfolge festlegen zu können, empfiehlt es sich, den Vorgang gleich zu Beginn in Matrizenkurzschreibweise darzustellen.
+z.B. in diesem Beispiel: R x A ? A x P  --> R x P:  Zeilen von R multipliziert mit Spalten von A oder auch in der folgenden Schreibweise:.
+                                                                            Am,n . Bn,p = Cm,p
+
+
+
+
+Übungen zu 2c
+
+1. Für die Sportwoche gibt es für die  4 Klassen A, B, C, D das Angebot zwischen Sportarten: Tennis, Reiten oder Windsurfen. Die Anmeldungsliste:
+
+SxKABCDTennis1086--Reiten9121310Surfen11101120
+Die Kursteilnahme kostet pro Person für Tennis  € 210,  für Reiten € 105,-  und Surfen € 150,-.
+a) Stellen Sie die passende Schüler-Matrix und den Spalten-Vektor für die Kosten auf.
+b) Berechnen Sie, wie viel Geld in den einzelnen Klassen eingesammelt werden muss.
+c) Stellen Sie einen Zeilenvektor für die Kosten auf. Argumentieren Sie, wie Sie den Zeilenvektor mit der Schüler-Matrix multiplizieren können, um auch die Gesamtkosten für die einzelnen Sportarten zu erhalten.
+
+2. Blusen werden in den Größen G: S, M, L und XL auf 3 Maschinen mit den Arbeitszeiten Z1, Z2, Z3 
+in Minuten pro Stück erzeugt. Die Zeiten sind in der folgenden Tabelle aufgelistet:
+
+GxZZ1Z2Z3S3.51.10.5M3.61.40.6L4.21.60.7XL4.320.7
+Es werden an einen Textilmarkt 110 S-, 150 M-, 220 L- und 100 XL-Blusen geliefert.
+a) Stellen Sie die Arbeitszeitmatrix ZxG für die einzelnen Größen auf.
+b) Stellen Sie den Liefervektor so auf, dass er zur Arbeitszeitmatrix für eine Matrizenmultiplikation passt. 
+c) Wie viele Stunden (gerundet auf ganze Zahlen) wird jede der 3 Maschinen insgesamt für diese Produktionsmenge beansprucht?
+d) Erstellen Sie eine grafische Darstellung des Produktionsprozesses (einen Gozintografen).
+
+3. Eine Firma erzeugt Keramikartikel in 3 verschiedenen Typen K1, K2, K3 und stellt diese in 2 Fabriken mit den Arbeitszeiten in Stunden Z1 und Z2 in 4 unterschiedlichen Arbeitsgängen mit den Stundenlöhnen von L1 bis L4 in Euro her.
+
+    Übersicht in Tabelle:
+
+ZxKK1K2K3ZxLL1L2L3L4Z1160180200Z19.512158.5Z2200240270Z21012.5169
+a) Erstellen Sie die grafische Darstellung (den Gozintografen) des Produktionsprozesses.
+
+b) Berechnen Sie die gesamten Lohnkosten für die Herstellung der 3 Keramiksorten in den einzelnen  Arbeitsgängen.
+
+c) Argumentieren Sie, wie Sie die Gesamtkosten für die Herstellung der ersten Sorte Keramik und wie Sie die Gesamtkosten überhaupt ermitteln können. Wie hoch sind die Kosten?
+
+
+4. Aus zwei Rohstoffen R1 und R2 werden 3 Zwischenprodukte Z1, Z2, Z3 hergestellt. Aus den 3 Zwischenprodukten entstehen dann 2 Endprodukte E1 und E2.
+     Der jeweilige Materialverbrauch in Kilogramm zur Erzeugung von einer  Mengeneinheit ME der Endprodukte kann den folgenden Tabellen entnommen werden:
+
+ZxRR1R2ZxEE1E2 Z124 Z124Z231Z242Z352Z353a) Zeichnen Sie eine grafische Darstellung des Produktionsprozesses (Gozintografen.)
+b) Man möchte 25 ME beider Endprodukte erzeugen. Wie viele Rohstoffmengen sind dafür notwendig?
+
+
+5. Eine Firma erzeugt zwei Sorten von Fenstern F1 und F2. Sie bestehen aus den Rohstoffen: Holz H, Glas G und Kunststoff K. 
+Die Firma erzeugt die Fenster an 2 Standorten in NÖ und in OÖ, hat jedoch unterschiedliche Kosten K1 und K2 in Geldeinheiten GE pro Fenster, weil die Rohstoffpreise in den Ländern unterschiedlich sind.
+
+FxRHGKKxRHGKF1312K1816F2324K2101.57
+a) Zeichnen Sie einen Gozintografen.
+b) Wie viel Kosten fallen in beiden Bundesländern an?
+
+
+6. Ein Betrieb fertigt Endprodukte E1 bis E3 aus den Rohstoffen R1 und R2 und den Zwischenprodukten Z1 und Z2 nach folgendem Gozintografen an (Zahlen in Mengeneinheiten ME):
+
+
+
+a) Stellen Sie tabellarisch RxZ und ZxE zusammen.
+b) Berechnen Sie die Matrix RxE und interpretieren Sie das Ergebnis.
+
+
+
+7. *) In einem Produktionsbetrieb werden zwei Typen von Endprodukten E1 und E2 aus drei verschiedenen Typen von Zwischenprodukten Z1, Z2, Z3 hergestellt, die jeweils aus vier verschiedenen Grundsubstanzen G1, G2, G3, G4 bestehen. Der Gozintograf zeigt die Zusammenhänge dieser zweistufigen Fertigung.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a) Geben Sie den Zusammenhang zwischen den Grundsubstanzen und den Zwischenprodukten in einer Verbrauchsmatrix A an, sowie den Zusammenhang zwischen den Zwischenprodukten und den Endprodukten in einer Verbrauchsmatrix B. 
+b) Wie kann man für jedes Endprodukt den Grundstoffbedarf ermitteln? Erklären Sie, wo man den Grundstoffbedarf ablesen kann. 
+c) Geben Sie für das Element c22 der Ergebnismatrix genau an, wie es errechnet wird.
+
+
+8. *)  In einem Unternehmen werden aus vier verschiedenen Rohstoffen R1, R2, R3 und R4 zwei unterschiedliche Zwischenprodukte Z1und Z2 hergestellt. Aus diesen Zwischenprodukten werden drei verschiedene Endprodukte E1, E2 und E3 erzeugt.
+Der Bedarf an Rohstoffen für jede Mengeneinheit ME der Zwischenprodukte und den Bedarf an Zwischenprodukten für jede Mengeneinheit der Endprodukte ist in den folgenden Bedarfsmatrizen angegeben:
+                                                              
+                                                   
+a) Erstellen Sie den Gozintografen
+b) Berechnen Sie, wie viel Mengeneinheiten der einzelnen Rohstoffe im Endprodukt enthalten sind. 
+
+
+*)Die Aufgaben stammen aus der BISTA-Broschüre HAK 2008 des BM:UKK  (Tania Koller), leicht verändert.
+
+
+
+
+
+
+
+
+Anhang: Matrizen und EXCEL
+
+Inverse Matrix:
+Die Matrix wird in den Zellen eingegeben. Dann wird darunter oder daneben ein gleich großer
+Zellenbereich markiert.
+Aus der Formelkategorie wählt man Mathematik… und sucht dort die Funktion MINV/OK
+Im Fenster gibt man den markierten Bereich ein.
+WICHTIG: nicht Ende drücken!! sondern STRG+UMSCHALT+ENTER!
+Die inverse Matrix wird dann im markierten Bereich ausgegeben.
+
+Matrizenmultiplikation:
+Die beiden Matrizen am besten in der folgenden Forme eingeben:
+
+Gleichungssystem lösen ist mit solver einfacher als mit Matrizen!
+
+
+
+
+
+
+
+
+13
+
+
+
+
+
+

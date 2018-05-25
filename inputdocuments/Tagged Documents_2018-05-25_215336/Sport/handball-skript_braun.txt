@@ -1,0 +1,348 @@
+Handball - Skript
+1. Charakteristik des Spiels
+Handball gilt im Allgemeinen als ein sehr körperbetontes Spiel, bei dem sich zwei Mannschaften (je 6
+Feldspieler + 1 Torwart + Auswechselspieler) gegenüberstehen. Der Ball darf von den Feldspielern mit dem
+ganzen Körper, außer mit Unterschenkel und Fuß (Fußspiel), gespielt werden. Der Torwart darf den Ball
+innerhalb des eigenen Torraums auch mit dem Bein oder Fuß abwehren. Die Mannschaft, die während des
+Spiels die meisten Torerfolge erzielt, gewinnt.
+
+2. Rahmenbedingungen
+Der Spielball besteht aus einer luftgefüllten Leder- oder Kunststoffhülle.
+Männer (58-60cm Umfang, 425-475g), Frauen (56-58cm Umfang, 325-375g).
+Die Spielzeit beträgt 2 × 30 Minuten. Bei Turnieren, bei denen eine Entscheidung herbeigeführt werden
+muss, wird bei Unentschieden zweimal je 2 × 5 Minuten verlängert. Danach gibt es ein 7-Meter-Werfen.
+Das Spielfeld hat die Form eines Rechtecks (40m × 20m). Die Besonderheit des Handballfeldes liegt in den
+zwei durchgezogenen Kreisbögen, dem sogenannten Torraum (6-Meter-Kreis, Wurfkreis).
+
+Abb.1: Spielfeld
+
+Der Torraum darf von Feldspielern nicht betreten werden. Allerdings darf der Ball im Luftraum über dem
+Torraum gespielt werden. Das heißt, ein Angreifer darf vor der Torraumlinie abspringen und aus kurzer
+Distanz auf das Tor werfen, wobei der Ball die Hand verlassen haben muss, bevor dieser Spieler den Boden
+berührt. Das Betreten des Torraums ohne Ball, um sich einen Vorteil zu verschaffen (z. B. eine bessere
+Anspielposition), führt zu Ballverlust für die Mannschaft des Spielers. Die Spielfortsetzung ist Abwurf.
+Parallel zur Torraumlinie befindet sich die gestrichelte Freiwurflinie, die einen Abstand von 9 Metern zum Tor
+hat. 7 Meter vor dem Tor befindet sich die Strafwurflinie (vergleichbar mit dem 11-Meter-Punkt beim
+Fußball). Die 4-Meter-Linie hat nur beim 7-Meter-Wurf eine Bedeutung. Der Torwart darf in diesem Fall nicht
+
+Handball - Skript
+
+ASG - Erlangen (Braun)
+
+Seite 1
+
+weiter als bis zu dieser Marke aus dem Tor herauskommen, wobei einzelne Körperteile in der Luft darüber
+hinausragen dürfen.
+Grundsätzlich gilt, dass alle Linien zu dem Raum gehören, den sie begrenzen. Für die Mittellinie bedeutet
+dies, dass sie zu beiden Spielfeldhälften gehört.
+Wenn der Ball das Spielfeld verlässt, erhält die Mannschaft, die den Ball nicht als letzte berührt hat, den Ball.
+Wie der Ball wieder ins Spiel gebracht wird, hängt davon ab, welche Linie er überquert hat:
+ Seitenlinie: Einwurf
+ Grundlinie, aber kein Torerfolg: Berührt ein Spieler der angreifenden Mannschaft
+oder der Torwart den Ball zuletzt, erfolgt ein Abwurf, andernfalls ein Eckeinwurf
+An einer Längsseite der Spielfläche befindet sich zu beiden Seiten der Mittellinie, außerhalb der Spielfläche,
+für jede Mannschaft ein Auswechselraum. In diesem halten sich die Offiziellen (Trainer, Physiotherapeut
+etc.), die Ergänzungsspieler und gegebenenfalls hinausgestellte Spieler auf. Ein Wechsel zwischen
+Auswechselraum und Spielfeld ist jederzeit möglich, darf aber nur über die Auswechsellinie erfolgen, die von
+der Mittellinie aus jeweils 4,50 Meter lang ist.
+Die Tore sind 3 Meter breit und 2 Meter hoch. Sie müssen fest im Boden oder an der dahinter liegenden
+Wand verankert sein. Der Torrahmen muss ein Rechteck sein.
+
+3. Wichtige Regeln
+3.1 Spieler in Ballbesitz
+-
+
+Der Spieler in Ballbesitz darf den Ball beliebig oft auf den Boden prellen. Wird der Ball anschließend
+in die Hand genommen, darf der Spieler:
+ ihn maximal 3 Sekunden in der Hand halten.
+ mit ihm ein, zwei oder drei Schritte machen und dann aufs Tor werfen.
+ ihn zu einem Mitspieler passen.
+
+-
+
+Hat der Spieler in Ballbesitz einen Gegenspieler, so darf der Angreifer seinen Ball schützen. Er darf
+den Ball jedoch nicht zum Gesicht des Gegenspielers führen oder mit dem Ball in den Gegenspieler
+hineinlaufen.
+
+3.2 Abwehrspieler/ Torwart
+-
+
+Der Abwehrspieler darf:
+ dem Gegenspieler nicht den Ball aus der Händen reißen bzw. auf die Hände schlagen.
+ den Gegenspieler nicht mit den Füßen behindern.
+ den Gegenspieler nicht stoßen oder festhalten.
+ bei der Abwehraktion nicht im Torraum stehen oder durch diesen laufen.
+
+-
+
+Der Torwart darf:
+ aus dem Torraum herauslaufen, den Ball fangen und mitspielen.
+ aus dem Torraum heraus den Ball zu einem Mitspieler passen.
+ mit dem Ball in der Hand nicht aus dem Torraum in das Feld gehen.
+ mit dem Ball in der Hand nicht aus dem Feld in den Torraum gehen.
+
+Handball - Skript
+
+ASG - Erlangen (Braun)
+
+Seite 2
+
+4. Regelverstöße/Strafen
+Je nach Art der Regelwidrigkeit können vom Schiedsrichter verschiedene Strafen ausgesprochen (auch in
+Kombination, z.B. Zeitstrafe und 7-Meter-Wurf) werden:
+4.1 Freiwurf
+Eine Regelwidrigkeit, die näher als 9 Meter vom gegnerischen Tor zum Freiwurf führt, wird
+an der gestrichelten 9-Meter-Linie ausgeführt, ansonsten am Ort des Vergehens. Während
+der Ausführung müssen Werfer und alle seine Mitspieler außerhalb des 9-Meter-Raumes
+stehen und auch dort bleiben bis der Ball die Hand des Werfers verlassen hat.
+4.2 7-Meter-Wurf
+Dieser Wurf stellt eine regelwidrig genommene klare Torgelegenheit wieder her: Wenn der
+
+Abb.2: FreiwurfRichtung
+
+Werfer ungehindert zum Wurf kam und durch ein Foul an einem Erfolg gehindert wurde,
+müssen die Schiedsrichter die Chancengleichheit wiederherstellen. Dabei stellt sich der Werfer vor die 7Meter-Markierung (er darf dabei bis zu einem Meter davor stehen) und führt den Wurf nach Anpfiff aus. Der
+Torwart darf bis zur 4-Meter-Markierung gehen. Alle anderen Spieler positionieren sich außerhalb der 9Meter-Linie, mit mindestens 3 Meter Abstand zum Schützen und dürfen diesen Raum erst betreten,
+nachdem der Ball die Hand des Schützen verlassen hat.
+4.3 Verwarnung - Gelbe Karte
+Die gelbe Karte hat für den betreffenden Spieler prinzipiell keine Auswirkungen auf das momentane
+Spielgeschehen. Jeder Spieler kann nur einmal verwarnt werden, danach folgt selbst für ein ähnliches
+Vergehen eine Hinausstellung. Pro Mannschaft sind drei Verwarnungen möglich. Vergehen, die mit
+Verwarnung bestraft werden können, sind:
+ Entreißen oder Herausschlagen des Balles aus den Händen
+ Sperren oder Wegdrängen mit Armen, Händen oder Beinen
+ Klammern oder Festhalten an/von Körper oder Spielkleidung
+ Anstoßen, -rennen oder -springen
+4.4 2-Minuten-Zeitstrafe
+Obige Vergehen, die sich nach Verwarnung (oder Aufbrauch des Karten-Kontingents)
+wiederholen, werden mit der nächsten Stufe der Progression bestraft. Dies führt zu einer
+Reduzierung der Anzahl der Spieler der betroffenen Mannschaft auf der Spielfläche für 2
+Minuten.
+In folgenden Situationen werden Hinausstellungen ausgesprochen:
+ Absichtliches Fußspiel
+ Wechselfehler, Betreten der Spielfläche durch einen zusätzlichen Spieler oder
+das Eingreifen von der Bank in das Spiel
+ bei schwerwiegenden Fouls
+
+Abb.3: 2-MinutenZeitstrafe
+
+4.5 Disqualifikation - Rote Karte
+Eine Disqualifikation wird dem fehlbaren Spieler durch eine rote Karte angezeigt. Sie gilt für den Rest der
+Spielzeit. Der Spieler muss sofort die Spielfläche und den Auswechselraum verlassen. Er darf in keiner Form
+mehr Kontakt zur Mannschaft haben. Die Mannschaft darf nach 2 Minuten wieder ergänzt werden. Eine
+Disqualifikation ist nur dann mit einer Sperre für andere Spiele verbunden, wenn durch die Schiedsrichter ein
+schriftlicher Bericht angefertigt wird. Die zuständigen Instanzen entscheiden dann über den fehlbaren
+Spieler. Eine Disqualifikation wird gegeben bei:
+ Regelwidrigkeiten, die die Gesundheit eines Spielers gefährden (z.B. Bein stellen,
+
+Handball - Skript
+
+ASG - Erlangen (Braun)
+
+Seite 3
+
+in der Wurfbewegung zurückreißen oder eine Aktion, die gegen Kopf/ Hals gerichtet ist)
+ grob unsportlichem Verhalten eines Spielers (z.B. Beleidigung, demonstratives
+Wegwerfen des Balls, Revanche nach einem erlittenen Foul nehmen)
+ bei der dritten Hinausstellung eines Spielers
+Weitere wichtige Schiedsrichter-Zeichen:
+
+Abb.4: Schiedsrichter-Zeichen
+
+5. Spielpositionen
+Im Angriff und in der Abwehr werden verschiedene Positionen unterschieden.
+Angriffsspieler (rot):
+LA: Linksaußen
+RL: Rückraum Links
+RM: Rückraum Mitte
+RR: Rückraum Rechts
+RA: Rechtsaußen
+KM: Kreis Mitte
+Abwehrspieler (blau):
+AR: Außen Rechts
+HA: Halb Rechts
+HM: Hinten Mitte
+HL: Halb Links
+AL: Außen Links
+TW: Torwart
+Abb.5: Spielpositionen
+
+Handball - Skript
+
+ASG - Erlangen (Braun)
+
+Seite 4
+
+6. Techniken
+6.1 Ballannahme (Fangen)
+Annahme hoch zugespielter Bälle
+(Bereich zwischen Brust- und Kopfhöhe)
+
+
+Arme sind leicht angewinkelt und bewegen sich dem Ball entgegen
+
+
+
+Hände und Finger bilden einen Trichter, eine Art auf dem Kopf
+stehendes Herz
+Abb.6: Fangen
+
+
+
+Finger und Daumen sind gespreizt
+
+
+
+Daumen zeigen zueinander
+
+
+
+Ball elastisch vor dem Körper annehmen und durch Heranziehen der Hände zum Körper „ansaugen“
+
+
+
+Daumen befinden sich hinter dem Ball und verhindern dessen Durchrutschen auf die Brust
+
+Annahme flach zugespielter Bälle
+(Bereich Hüfthöhe oder tiefer)
+
+
+Hände bilden eine „Schaufel“
+
+
+
+Handrücken zeigt nach unten
+
+
+
+kleine Finger zeigen zueinander und Daumen nach außen
+
+
+
+Ball elastisch annehmen und an Oberkörper heranziehen
+Abb.7: Fangen
+
+6.2 Prellen
+Grundhaltung
+
+
+Füße mindestens schulterbreit auseinander
+
+
+
+Knie sind gebeugt (tiefer Schwerpunkt)
+
+
+
+Körper etwas nach vorn geneigt
+
+
+
+Kopf ist erhoben
+
+Prellbewegung
+
+
+Ball seitlich vor dem Körper auf Hüfthöhe prellen
+
+
+
+Finger gespreizt, Handgelenk locker
+
+
+
+Ball nach schräg vorn-unten drücken
+
+
+
+Handgelenk klappt leicht nach, Unterarm schwingt nach
+
+
+
+zurückprellenden Ball so früh wie möglich weich annehmen, ihn „aufsaugen“
+
+6.3 Schlagwurf
+= Wurf aus dem Stand, d.h. beide Füße haben Bodenkontakt
+Drei Phasen des Schlagwurfes
+1. Phase:
+
+
+linkes Bein (für Rechtshänder) leicht nach innen gedreht in Schrittstellung, Ball vor dem Körper
+
+
+
+Ball mit der Wurfhand nach hinten führen, Wurfarm nahezu gestreckt, Ellbogen etwa auf
+Schulterhöhe
+
+
+
+linke Schulter zeigt leicht nach vorne, Oberkörper in Bogenspannung (Oberkörperverwringung)
+
+2. Phase:
+
+
+Bogenspannung wird aufgelöst Oberkörper wird nach vorne beschleunigt
+
+
+
+durch Armzug und durch das Nachgehen im Handgelenk wird der Ball weiter beschleunigt
+
+3. Phase:
+
+
+Schwung wird mit dem rechten Fuß (für Rechtshänder) abgefangen, Blick bleibt in Wurfrichtung,
+kein Wegdrehen
+
+Handball - Skript
+
+ASG - Erlangen (Braun)
+
+Seite 5
+
+Diese Wurfform ist der härteste Wurf im Handball. Dabei können Ballgeschwindigkeiten von bis zu 130 km/h
+erreicht werden. Mit reduzierter Kraft wird er häufig als Pass gespielt.
+6.4 Sprungwurf
+1. Phase:
+
+
+Anlauf, Absprung und Zurückführen des Wurfarms
+
+
+
+Absprung wird üblicherweise mit Dreischrittrhythmus eingeleitet
+
+
+
+mit letztem Schritt und in der Steigphase wird der Arm nach hinten oben geführt
+
+
+
+rechtes Knie wird zur Schwungverstärkung seitlich außen (Abspreizwinkel ca. 45°) mit angewinkelt,
+dient gleichzeitig der Stabilisation
+
+2. Phase:
+
+
+in der Luft gleicht der Wurf dem Schlagwurf, Ball wird am Kopf vorbei (Bogenspannung)
+beschleunigt, Oberkörperrotation, Armzug und Nachklappen des Handgelenks nach vorne
+
+
+
+Ellbogen bleibt auf Schulterhöhe, Kopf in Wurfrichtung
+
+
+
+rechtes Bein stabilisiert die Wurfbewegung durch eine Gegenbewegung Richtung Hallenboden
+
+3. Phase:
+
+
+beidbeinig Landung oder wieder auf dem Absprungbein
+
+Handball - Skript
+
+ASG - Erlangen (Braun)
+
+Seite 6
+
+

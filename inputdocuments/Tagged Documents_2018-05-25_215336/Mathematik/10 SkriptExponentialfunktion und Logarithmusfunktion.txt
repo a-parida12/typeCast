@@ -1,0 +1,788 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   Skript
+
+                     Exponential und Logarithmusfunktion
+
+
+
+
+
+
+
+
+
+                                     von
+                               Georg Sahliger
+                           in  Zusammenarbeit mit
+                            LK13 Schuljahr 11/12
+
+
+                            Mainz, den 23.9.2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|Inhaltsverzeichnis                                                                  |
+|Inhalt                             |Seite                  |Entsprechende Seite im  |
+|                                   |                       |Buch                    |
+|Wiederholung Logarithmus           |S. 3                   |Stoff Klasse 10         |
+|                                   |                       |                        |
+|                                   |                       |Vgl. zum Beispiel das   |
+|                                   |                       |Online Mathebuch        |
+|                                   |                       |www.mathe1.de ( Klasse  |
+|                                   |                       |10 ( Logarithmus        |
+|Lineares und exponentielles        |S. 5                   |S. 204                  |
+|Wachstum                           |                       |                        |
+|Eigenschaften der                  |S. 11                  |S. 206                  |
+|Exponentialfunktion                |                       |                        |
+|y = ax                             |                       |                        |
+|Die natόrliche Exponentialfunktion |S. 13                  |S 207                   |
+|                                   |                       |                        |
+|und ihr Ableitung                  |                       |                        |
+|Gleichungen, Funktionen mit        |S.14                   |                        |
+|beliebigen Basen                   |                       |                        |
+|Die natόrliche Logarithmusfunktion |S. 16                  |                        |
+|als                                |                       |                        |
+|Umkehrfunktion der e Funktion      |                       |                        |
+|Die Ableitung der ln-Funktion      |S. 18                  |                        |
+|                                   |                       |                        |
+|Lφsungen zu den Aufgaben im Buch kommen per Pdf.                                    |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          Wiederholung Logarithmus
+
+Die Umkehrfunktion der natόrlichen e-Funktion heiίt natόrlich
+Logarithmusfunktion.
+
+Wiederholung: Betrachten wir die Gleichung 2³ = 8 und die verschiedenen
+Mφglichkeiten jeweils einen Wert ausrechnen zu kφnnen.
+
+   1. Fall: [pic]
+   2. Fall: [pic]
+   3. Fall: [pic]
+
+Fόr den 3. Fall legen wir also fest: [pic]
+
+ "Der Logarithmus von 8 zur Basis 2 ist also diejenige Zahl mit der man 2
+ potenzieren muss, um 8 zu erhalten." Daher gilt [pic]da [pic].
+
+Nach dieser Feststellung όberlegt man leicht:
+
+[pic] , da [pic]
+[pic] , da [pic]
+[pic] , da [pic]
+[pic] , da [pic]
+[pic] , da [pic]
+[pic] , da [pic] Statt log zur Basis 10, also [pic] kann man auch kurz
+schreiben: [pic]
+
+
+Bisher kφnnen wir aber nur leichte Logarithmen berechnen. Wie kann man mit
+dem Taschenrechner den Logarithmus berechnen? Aus Klasse 10 ist bekannt,
+dass man Exponentialgleichungen logarithmieren kann. Dabei beachtet man
+folgendes Logarithmengesetz: [pic]
+
+[pic]| lg
+[pic]
+x lg 2 = lg 8 | :lg 8
+[pic]
+Tippt man also in den Taschenrechner lg8 : lg2 erhδlt man die 3. Somit kann
+man mit dem Taschenrechner beliebige Logarithmen berechnen.
+
+Ferner gelten fόr Logarithmen folgende Gesetze, die ebenfalls aus Klasse 10
+bekannt sind.
+
+1. Gesetz: loga(u)+loga(v)=loga(u[pic]v)
+
+Beispiel:
+
+lg(7a)=lg7+lga
+loga(9[pic]b[pic]4f)=loga9+logab+loga4+logaf
+
+
+2. Gesetz: logau-logav=loga(u/v)
+
+Beispiel:
+
+loga8-loga4=loga(8/4)
+
+3. Gesetz: logauk=k[pic]logau
+
+Beispiel:
+
+logau15=15[pic]logau
+
+4. Gesetz: logau=lgu/lga
+
+Beweis:
+
+x=logau
+((
+ax=u   |lg
+lgax=lgu
+xlga=lgu    | :lga
+      x=lgu/lga
+
+
+
+
+Aufgaben mit Lφsungen findet man bei www.mathe1.de
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Die Exponentialfunktion und die Logarithmusfunktion
+
+E-Funktionen [pic]kennen wir aus Klasse 10, wo man sich allgemein mit
+Wachstumsprozessen beschδftigt. Daher wiederholen wir zunδchst einmal das
+lineare Wachstum, welches durch lineare Funktionen beschrieben wird und
+gehen dann όber zu den e-Funktionen.
+
+
+|Lineares Exponentielles Wachstum                                                    |
+|Lineares Wachstum:                                                                  |
+|                                                                                    |
+|Lineares Wachstum zeichnet sich dadurch aus, dass es gleichmδίig wδchst oder fδllt. |
+|Die allgemeine Formel lautet y = mx+b. Dabei ist b der Startwert und m die Steigung |
+|oder Wachstumsrate um die der Funktionswert immer kleiner oder grφίer wird.         |
+|                                                                                    |
+|Beispiel:                                                                           |
+|                                                                                    |
+|Jedes Jahr bekommt Fritz 5 Euro mehr Taschengeld. Im Moment bekommt er 20 E. Stelle |
+|hierzu die Wachstumsformel auf!                                                     |
+|                                                                                    |
+|Da es sich um einen gleichmδίigen Anstieg handelt, jedes Jahr 5 E mehr, liegt hier  |
+|ein lineares Wachstum vor: Dabei ist 20E der Startwert.                             |
+|                                                                                    |
+|Also: y= 5x+ 20                                                                     |
+|                                                                                    |
+|Beispiele fόr lineares Wachstum:                                                    |
+|                                                                                    |
+|Wasser lδuft gleichmδίig aus einem Becken                                           |
+|Eine Kerze brennt gleichmδίig ab.                                                   |
+|Der Alkoholpegel sinkt gleichmδίig um 0,15? pro Stunde                              |
+|Ein Baum wδchst jedes Jahr gleichmδίig um 10 cm.                                    |
+|                                                                                    |
+|                                                                                    |
+|Die Wertetabelle bei linearen Wachstum:                                             |
+|                                                                                    |
+|x                                                                                   |
+|0                                                                                   |
+|1                                                                                   |
+|2                                                                                   |
+|3                                                                                   |
+|                                                                                    |
+|y                                                                                   |
+|5                                                                                   |
+|7                                                                                   |
+|9                                                                                   |
+|11                                                                                  |
+|                                                                                    |
+|                                                                                    |
+|Jeder y-Wert wird um genau 2 grφίer. Wir haben also einen gleichmδίigen Anstieg um  |
+|die Wachstumsrate 2. Will man eine Tabelle auf lineares Wachstum prόfen, zieht man  |
+|immer vom y Wert, der rechts danebenliegt den linken ab. Erhδlt man όberall die     |
+|gleiche Wachstumsrate ist das Wachstum linear:                                      |
+|                                                                                    |
+|7- 5 = 2    9-7=2    11-9 = 2 ( Es handelt sich um lineares Wachstum mit dem        |
+|Anfangswert 5 und einer Wachstumsrate von 2.                                        |
+|                                                                                    |
+|Die Gleichung hierfόr lautet also: y = 2x + 5 und der Graph sieht hierzu            |
+|folgendermaίen aus:                                                                 |
+|[pic]                                                                               |
+|                                                                                    |
+|Dabei schneidet der Graph die y- Achse bei 5 (= der Anfangswert) und hat eine       |
+|Steigung von 2, also bedeutet: Eine Einheit nach rechts und 2 Einheiten nach oben   |
+|vom Startwert aus gesehen.                                                          |
+|Anhand des Graphen oder mit Hilfe der Formel kann man nun 3 unterschiedliche Dinge  |
+|ermitteln:                                                                          |
+|Beispiel: Eine Tanne wδchst jedes Jahr um 12 cm. Herr Mόller pflanzt eine 90cm hohe |
+|Tanne. Das bedeutet in 5 Jahren ist die Tanne 150cm hoch. Bei linearem Wachstum     |
+|ergeben sich nun 4 Aufgabentypen:                                                   |
+|Die Suche nach y:     |Die Suche nach der  |Die Suche nach dem | Die Suche nach x.  |
+|                      |Wachstumsrate:      |Startwert:         |                    |
+|Frage: Wie hoch ist   |                    |                   |Frage: Wie lange    |
+|die Tanne in 5 Jahren:|Frage: Wie schnell  |Frage: Eine Tanne  |dauert es, bis eine |
+|                      |wδchst die Tanne?   |wδchst pro Jahr um |90 cm Tanne 150 cm  |
+|Lφsung:               |                    |12 cm. Nach 5      |hoch ist?           |
+|Aufstellen des        |Lφsung:             |Jahren ist sie 150 |                    |
+|Funktionsterms:       |                    |cm hoch. Wie groί  |                    |
+|12cm/pro Jahr ist die |150 = m  ( 5 + 90  ||war sie am Anfang? |Lφsung:             |
+|Wachstumsrate, 90 cm  |-90                 |                   |150 = 12 ( x + 90 | |
+|ist der Startwert.    |60 = m  ( 5 | : 5   |                   |- 90                |
+|                      |12 = m              |Lφsung:            |60   = 12 ( x | : 12|
+|y = 12x + 90          |                    |150 = 12 ( 5 + b   |                    |
+|                      |Antwort: Die Tanne  |150 = 60 + b | - 60|5 = x               |
+|Fόr x = 5 Jahre ergibt|wδchst pro          |                   |                    |
+|sich:                 |Zeiteinheit um 12   |90 = b             |Antwort: Es dauert 5|
+|y = 12 ( 5 + 90 = 150.|cm.                 |Antwort: Die Tanne |Jahre.              |
+|                      |                    |war am Anfang 90 cm|                    |
+|                      |                    |hoch.              |                    |
+|Antwort: In 5 Jahren  |                    |                   |                    |
+|ist die Tanne 1,50 m  |                    |                   |                    |
+|hoch.                 |                    |                   |                    |
+|Exponentielles Wachstum:                                                            |
+|                                                                                    |
+|Exponentielles Wachstum zeichnet sich dadurch aus, dass es immer schneller oder     |
+|langsamer wδchst oder fδllt.                                                        |
+|Die allgemeine Formel lautet y = b ( ax. Dabei ist b der Startwert und a der        |
+|Wachstumsfaktor, der angibt um wie viel y pro Zeiteinheit fδllt oder steigt und x   |
+|die Anzahl der Zeiteinheiten.                                                       |
+|                                                                                    |
+|Beispiel:                                                                           |
+|                                                                                    |
+|Jedes Jahr bekommt Fritz doppelt so viel Taschengeld wie im Vorjahr. Im Moment      |
+|bekommt er 20 E. Stelle hierzu die Wachstumsformel auf!                             |
+|                                                                                    |
+|Das Taschengeld steigt immer schneller, also handelt es sich um exponentielles      |
+|Wachstum. Dabei ist 20E der Startwert und in dem Wort "Doppelt" steckt der          |
+|Wachstumsfaktor 2.                                                                  |
+|                                                                                    |
+|Also: y = 20 ( 2x                                                                   |
+|                                                                                    |
+|Beispiele fόr exponentielles Wachstum:                                              |
+|                                                                                    |
+|Ein Auto wird beim Beschleunigen immer schneller.                                   |
+|Eine Population vermehrt sich immer schneller.                                      |
+|Irgendetwas wδchst oder fδllt um den Faktor 3                                       |
+|Jedes Jahr bekommt man auf dem Konto 3 % Zinsen                                     |
+|                                                                                    |
+|Die Wertetabelle bei exponentiellen Wachstum:                                       |
+|                                                                                    |
+|x                                                                                   |
+|0                                                                                   |
+|1                                                                                   |
+|2                                                                                   |
+|3                                                                                   |
+|                                                                                    |
+|y                                                                                   |
+|5                                                                                   |
+|10                                                                                  |
+|20                                                                                  |
+|40                                                                                  |
+|                                                                                    |
+|                                                                                    |
+|Jeder y-Wert wird um genau das Doppelte grφίer. Wir haben also einen Anstieg um den |
+|Wachstumsfaktor 2.  Will man eine Tabelle auf exponentielles Wachstum prόfen, teilt |
+|man immer den y Wert, der rechts danebenliegt durch den linken. Erhδlt man όberall  |
+|den gleichen Wachstumsfaktor so ist das Wachstum exponentiell.                      |
+|10 : 5 = 2      20 : 10 = 2         40 : 20 = 2 ( Es handelt sich um exponentielles |
+|Wachstum mit dem Anfangswert 5 und einem Wachstumsfaktor von 2.                     |
+|Die Gleichung hierfόr lautet also: y = 5 ( 2x und der Graph sieht hierzu            |
+|folgendermaίen aus:                                                                 |
+|[pic]                                                                               |
+|                                                                                    |
+|Dabei schneidet der Graph die y- Achse bei 5 (= der Anfangswert).                   |
+|Anhand des Graphen oder mit Hilfe der Formel kann man nun 3 unterschiedliche Dinge  |
+|ermitteln:                                                                          |
+|                                                                                    |
+|Beispiel: Eine Population von Hamstern verdreifacht sich alle 3 Monate. Zu Beginn   |
+|der Zδhlung waren es 10 Hamster. Nach 9 Monaten (=3 Zeiteinheiten) sind es 270      |
+|Hamster.                                                                            |
+|                                                                                    |
+|Hier ergeben sich 4 Aufgabentypen:                                                  |
+|Die Suche nach y:   |Die Suche nach dem |Die Suche nach dem    |Die Suche nach dem  |
+|                    |Startwert:         |Wachstumsfaktor:      |Zeitraum:           |
+|Frage: Wie viel     |                   |                      |                    |
+|Hamster sind es nach|Frage: Wie viele   |Frage: Wie schnell    |Frage: Wie lange    |
+|9 Monaten?          |Hamster waren am   |oder mit welchem      |dauert es bis die   |
+|                    |Anfang im Stall?   |Wachstumsfaktor wδchst|Anzahl der Hamster  |
+|Lφsung:             |                   |eine Population, die  |von 10 auf 270      |
+|Aufstellen des      |Lφsung:            |innerhalb von 9       |Hamster gestiegen   |
+|Funktionsterms:     |                   |Monaten (Eine         |ist?                |
+|Dabei muss man die 9|= b ( 33           |Zeiteinheit = 3       |                    |
+|Monate in drei      |270 = b ( 27 | : 27|Monate) von 10 auf 270|Lφsung:             |
+|Zeiteinheiten       |                   |Hamster ansteigt?     |                    |
+|umrechnen.          |10 = b             |                      |270 = 10 ( 3x | :10 |
+|                    |                   |Lφsung:               |27 = 3x             |
+|y = 10 ( 33 = 10 (  |Antwort: An Anfang |270 = 10 ( a3 | :10   |[pic] [pic]         |
+|27 = 270.           |waren es 10        |27 = a3               |x= 3                |
+|Antwort: Nach 9     |Hamster.           |[pic]                 |Antwort: Es dauert 3|
+|Monaten sind es 270 |                   |Antwort: Der          |Zeiteinheiten, also |
+|Hamster.            |                   |Wachstumsfaktor       |9 Monate.           |
+|                    |                   |betrδgt 3.            |                    |
+|                    |                   |                      |                    |
+|Besonderheiten beim Wachstumsfaktor, der in Prozent angegeben ist:                  |
+|                                                                                    |
+|Aufgabe: Eine 1,2 m lange Alge vergrφίert sich tδglich um 30 %. Klar, dass die Alge |
+|immer schneller wδchst und somit exponentielles Wachstum vorliegt. Aber wie gibt man|
+|die 30 % als Wachstumsfaktor an?                                                    |
+|                                                                                    |
+|Die "Formel" lautet: [pic], also [pic]= 1,3.                                        |
+|                                                                                    |
+|Also lautet die Formel: y = 1,2 ( 1,3x                                              |
+|                                                                                    |
+|Beispiele: 50% ? 1,5   oder  60% ? 1,6 oder 100% ? 2                                |
+|                                                                                    |
+|Fόr den Zerfall gilt folgendes:                                                     |
+|Nimmt etwas um 10% ab, hat man einen Wachstumsfaktor 0,9 , also [pic]               |
+|Beispiele: 20% ? 0,8  oder 30% ? 0,7                                                |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|Aufgaben:                                                                             |
+|                                                                                      |
+|Prόfe ob die folgenden Tabellen lineares, exponentielles oder gar kein Wachstum       |
+|darstellen:                                                                           |
+|                                                                                      |
+|x                                                                                     |
+|0                                                                                     |
+|1                                                                                     |
+|2                                                                                     |
+|3                                                                                     |
+|                                                                                      |
+|y                                                                                     |
+|11                                                                                    |
+|14                                                                                    |
+|17                                                                                    |
+|21                                                                                    |
+|                                                                                      |
+|Gar kein Wachstum, da die Wachstumsrate zwar in den ersten drei Spalten gleich ist und|
+|immer um 3 anwδchst, aber leider nicht in der 4 Spalte                                |
+|x                                                                                     |
+|1                                                                                     |
+|2                                                                                     |
+|3                                                                                     |
+|4                                                                                     |
+|                                                                                      |
+|y                                                                                     |
+|4                                                                                     |
+|6                                                                                     |
+|9                                                                                     |
+|13,5                                                                                  |
+|                                                                                      |
+|Es handelt sich um exponentielles Wachstum mit Faktor 1,5                             |
+|                                                                                      |
+|                                                                                      |
+|x                                                                                     |
+|0                                                                                     |
+|2                                                                                     |
+|4                                                                                     |
+|6                                                                                     |
+|                                                                                      |
+|y                                                                                     |
+|4                                                                                     |
+|16                                                                                    |
+|64                                                                                    |
+|256                                                                                   |
+|                                                                                      |
+|Exponentielles Wachstum mit Faktor 4.                                                 |
+|                                                                                      |
+|Ergδnze die Tabellen so, dass ein exponentielles bzw.                                 |
+|                                                                                      |
+|x                                                                                     |
+|0                                                                                     |
+|1                                                                                     |
+|2                                                                                     |
+|3                                                                                     |
+|                                                                                      |
+|y                                                                                     |
+|10                                                                                    |
+|15                                                                                    |
+|20                                                                                    |
+|25                                                                                    |
+|                                                                                      |
+|                                                                                      |
+|                                                                                      |
+|lineares Wachstum angegeben wird:                                                     |
+|                                                                                      |
+|x                                                                                     |
+|0                                                                                     |
+|1                                                                                     |
+|2                                                                                     |
+|3                                                                                     |
+|                                                                                      |
+|y                                                                                     |
+|11                                                                                    |
+|22                                                                                    |
+|44                                                                                    |
+|88                                                                                    |
+|                                                                                      |
+|                                                                                      |
+|                                                                                      |
+|Entscheide ob es sich um lineares oder exponentielles Wachstum handelt:               |
+|Der Lohn von Toni steigt jδhrlich um 3%.                                              |
+|Exponentiell                                                                          |
+|                                                                                      |
+|Eine Pflanze wδchst um 12 cm pro Zeiteinheit.                                         |
+|Linear                                                                                |
+|                                                                                      |
+|Ein Hefeteig mit 5 g Hefe verdreifacht pro Stunde sein Volumen.                       |
+|Exponentiell                                                                          |
+|                                                                                      |
+|In einen Tank werden stόndlich 800 Liter gepumpt.                                     |
+|Linear                                                                                |
+|                                                                                      |
+|Ein Kapital erbringt jedes Jahr 6 % Zinsen.                                           |
+|Exponentiell                                                                          |
+|                                                                                      |
+|Eine Schδdlingsart wδchst um 15 % jedes Jahr.                                         |
+|Exponentiell                                                                          |
+|                                                                                      |
+|Tropfsteine wachsen jδhrlich um 1,3 mm.                                               |
+|Linear                                                                                |
+|                                                                                      |
+|Ein Auto verliert die Hδlfte seines Wertes pro Jahr.                                  |
+|Exponentiell                                                                          |
+|                                                                                      |
+|                                                                                      |
+|                                                                                      |
+|Welche Wertetabelle stellt lineares, welche quadratisches, welche exponentielles      |
+|Wachstum dar? Gib in diesen Fδllen jeweils die Funktionsgleichung an.                 |
+|Tipp: Es kann hilfreich sein, die Punkte zu zeichnen. Dann kannst du den Verlauf des  |
+|Grafen besser erkennen.                                                               |
+|                                                                                      |
+|x                                                                                     |
+|-1                                                                                    |
+|0                                                                                     |
+|1                                                                                     |
+|2                                                                                     |
+|3                                                                                     |
+|Linear oder exponentiell?                                                             |
+|Funktion                                                                              |
+|                                                                                      |
+|y1                                                                                    |
+|-2                                                                                    |
+|1                                                                                     |
+|4                                                                                     |
+|7                                                                                     |
+|10                                                                                    |
+|                                                                                      |
+|f(x) = 3x+1                                                                           |
+|                                                                                      |
+|y2                                                                                    |
+|0,1                                                                                   |
+|1                                                                                     |
+|10                                                                                    |
+|100                                                                                   |
+|1000                                                                                  |
+|                                                                                      |
+|f(x) = 10x                                                                            |
+|                                                                                      |
+|y3                                                                                    |
+|-3                                                                                    |
+|0                                                                                     |
+|-3                                                                                    |
+|-12                                                                                   |
+|-27                                                                                   |
+|                                                                                      |
+|f(x) = -3x²                                                                           |
+|                                                                                      |
+|y4                                                                                    |
+|3                                                                                     |
+|2                                                                                     |
+|1                                                                                     |
+|0                                                                                     |
+|-1                                                                                    |
+|                                                                                      |
+|f(x) = -x +2                                                                          |
+|                                                                                      |
+|y5                                                                                    |
+|0,4                                                                                   |
+|1                                                                                     |
+|2,5                                                                                   |
+|6,25                                                                                  |
+|15,625                                                                                |
+|                                                                                      |
+|f(x) = 2,5x                                                                           |
+|                                                                                      |
+|y6                                                                                    |
+|3                                                                                     |
+|5                                                                                     |
+|6                                                                                     |
+|4                                                                                     |
+|2                                                                                     |
+|                                                                                      |
+|nichts                                                                                |
+|                                                                                      |
+|y7                                                                                    |
+|-2                                                                                    |
+|-1                                                                                    |
+|2                                                                                     |
+|7                                                                                     |
+|14                                                                                    |
+|                                                                                      |
+|f(x) = x² +2x-1[1]                                                                    |
+|                                                                                      |
+|y8                                                                                    |
+|5                                                                                     |
+|1                                                                                     |
+|0,2                                                                                   |
+|0,04                                                                                  |
+|0,008                                                                                 |
+|                                                                                      |
+|f(x) = (1/5)x                                                                         |
+|                                                                                      |
+|                                                                                      |
+|                                                                                      |
+|                                                                                      |
+|Der hδngende Tropfstein in der Hφhle wδchst jδhrlich um durchschnittlich 3 mm.        |
+|a) Der Tropfstein ist 1,062 m lang. Wie viele Jahre ist er vermutlich alt?            |
+|                                                                                      |
+|Lφsung: 1,062m  = 1062 mm und 1062 : 3 = 354                                          |
+|                                                                                      |
+|b) In wie vielen Jahren wird der Stein voraussichtlich 1,500m lang sein?              |
+|Lφsung: 1500 - 1062 = 438  438 : 3 = 146                                              |
+|Nach dem Besuch eines Weinfestes hat Herr Rompel um Mitternacht einen                 |
+|Blutalkoholspiegel von 1,5?. Jede Stunde wird der Alkoholgehalt im Blut um 0.15?.     |
+|Morgens um 7 Uhr will er mit dein Auto zur Arbeit fahren. Droht ihm bei einem Unfall  |
+|Fόhrerscheinentzug, weil mehr als 0,3? Alkohol im Blut nachgewiesen werden kφnnen?    |
+|                                                                                      |
+|Lφsung: JA! 7 . 0,15? = 1,05?    1,5 ?: 1,05? = 0,45? > 0,3?    Die Promille nehmen   |
+|also gleichmδίig ab, daher handelt es sich hierbei um lineares Wachstum.              |
+|Bei einer Kiefer bilden sich in der Regel jδhrlich an jedem Zweigende fόnf neue       |
+|Triebe. Ein junger Kiefernast hat drei Zweigenden. Mit wie vielen Enden kann man nach |
+|l, 2, 3, 4 Jahren rechnen?                                                            |
+|                                                                                      |
+|Lφsung: y = 3 (5x              15   75    375    1875                                 |
+|a) Ein Kapital von 8000E wird mit einem festen Zinssatz von 5% jδhrlich verzinst. Wie |
+|groί ist der Wachstumsfaktor (="Zinsfaktor") des Kapitals von einem Jahr zum nδchsten?|
+|Auf wie viel E wδchst das Kapital nach Ablauf von fόnf Jahren mit Zinsen und          |
+|Zinseszinsen?                                                                         |
+|                                                                                      |
+|Lφsung: Wachstumsfaktor: 1,05        y = 8000 ( 1,05x   Nach 5 Jahren 10210,25 E      |
+|                                                                                      |
+|b) Nach wie vielen Jahren hat sich das Kapital verdoppelt?                            |
+|                                                                                      |
+|Nach 15 Jahren hat sich das Kapital etwas mehr als verdoppelt.                        |
+|Helge erfδhrt eine tolle Neuigkeit. Nach 1 Minute erzδhlt er sie (,anz vertraulich    |
+|einem Freund weiter. Nach einer weiteren Minute erzδhlen beide wieder ganz vertraulich|
+|die Neuigkeit einem nicht eingeweihten Freund/einer nicht eingeweihten Freundin. Nimm |
+|an, es geht immer so weiter. Nach wie vielen Minuten weiί es die ganze Klasse mit 32  |
+|Schόlern, wann die ganze Schule mit rund 1000 Schόlern?                               |
+|                                                                                      |
+|Lφsung: Klasse: Nach 5 Minuten und die Schule nach 10 Minuten                         |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Eigenschaften der Exponentialfunktion y = ax
+
+Definition: Funktionen der Form y = ax fόr a > 0 und a ? 0 heiίen
+Exponentialfunktionen.
+                   Sie sind definiert fόr alle reellen Zahlen. Ihre
+Funktionswerte sind stets positiv.
+Bedeutung:
+     1. Fόr a gibt es nur positive Werte.
+     2. "a" darf auch nicht 1 sein.
+     3. "Sie sind definiert fόr alle reellen Zahlen", d.h. dass man fόr x
+        alle Zahlen einsetzen darf (Positive Zahlen, negative Zahlen,
+        Dezimalzahlen...). Das meint den Definitionsbereich.
+     4. "Ihre Funktionswerte sind stets positiv." Die Wertemenge ist
+        enthδlt nur positive Zahlen
+        (Anders verhδlt sich dies bei y = b . ax , z.B. y = -2 . 3x)
+  |- 3 |-2 |[pic] |-1 |0 |1 |[pic] |2 |3 | |y = 2x | | | | | | | | | | |y =
+4x | | | | | | | | | | |[pic] | | | | | | | | | | |[pic] | | | | | | | | |
+| |
+                                    [pic]
+   Eigenschaften:
+   Alle Funktionen gehen durch _____________________. Funktionen mit a < ___
+   sind όberall monoton _________________. Funktionen mit a > ____ sind
+   όberall monoton __________________________.
+   Die Funktionen y = ax  und [pic]sind
+   _______________________________________ zueinander.
+                                   Lφsung:
+
+
+                                    [pic]
+
+
+                  Weitere Aufgaben aus dem Mathebuch S. 205
+
+                      Lφsungen befinden sich im Anhang.
+
+1. Zeichnen Sie einen Graphen K der Exponentialfunktion f mit[pic]. Wie
+erhδlt man den Graphen der Funktion g aus dem Graphen von K. Skizzieren Sie
+den Graphen von G.
+
+a) [pic]      b) [pic]      c) [pic]      d) [pic]      e) [pic]
+
+2. Der Graph der Exponentialfunktion f mit [pic]geht durch den Punkt P.
+Bestimmen Sie den zugehφrigen Funktionsterm.
+
+[pic]
+
+3. Der Graph der Exponentialfunktion f mit [pic]geht durch die Punkte P und
+Q. Berechnen Sie c und a.
+
+
+[pic]
+
+
+4. Schreiben Sie den Funktionsterm f in der Form [pic].
+a) [pic]
+
+5.  In einem Gebiet vermehrt sich ein Heuschreckenschwarm exponentiell, und
+zwar wφchentlich um 50%. Man geht von einem Anfangsbestand von 10 000
+Tieren aus.
+   a) Wie lautet die zugehφrige Wachstumsfunktion?
+   b) Welcher Zuwachs ist in 6 Wochen zu erwarten? Um wie viel Prozent hat
+      sich der Bestand dabei vergrφίert?
+
+
+6.  Ein Bestand kann nδherungsweise durch die Funktion f mit [pic](t in
+Tagen) beschrieben werden.
+   a) Wie groί ist die Bestandsabnahme in den ersten drei Tagen?
+   b) Berechnen Sie die wφchentliche Abnahme in Prozent.
+
+7.  Zaire hatte 1998 eine Einwohnerzahl von 41 Millionen. Fόr die nδchsten
+Jahre wird ein Wachstum von jδhrlich 3,4% erwartet.
+   a) Bestimmen Sie die zugehφrige Wachstumsfunktion. Welche Einwohnerzahl
+      hat Zaire vorrausichtlich 2005 bzw. 2020?
+   b) Berechnen Sie die Einwohnerzahl vor 2,5,10 bzw. 20 Jahren.
+
+
+
+
+-----------------------
+[1] Muss nicht jeder drauf kommen.
+

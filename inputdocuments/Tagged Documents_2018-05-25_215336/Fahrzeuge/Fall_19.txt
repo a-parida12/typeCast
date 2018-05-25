@@ -1,0 +1,98 @@
+Fall 19: Der Geisterfahrer
+(BGH, NStZ 2006, 503)
+A hatte einen Streit mit seiner Freundin, die ihn daraufhin nach mehrjähriger Beziehung verließ. Deprimiert hierüber beschloss er, sich umzubringen. 
+Nachts stieg er in seinen Wagen, fuhr zur nahe gelegenen Autobahn, schaltete die Scheinwerfer aus und nahm die falsche Auffahrt, so dass er entgegengesetzt der Fahrspur (als „Geisterfahrer“) auf dem Seitenstreifen fuhr.  Dann beschleunigte er sein Fahrzeug auf über 100 km/h. Als er bemerkte, dass ihm in 500 Metern ein anderer Wagen auf der rechten Fahrspur entgegen kam, wechselte er (noch immer mit ausgeschalteten Scheinwerfern, wie ihm bewusst war) in dessen Spur, um durch einen Frontalzusammenstoß Selbstmord zu begehen. Dass dadurch auch die Insassen des entgegen kommenden Fahrzeugs oder weitere Verkehrsteilnehmer schwer verletzt oder gar getötet werden könnten, nahm er billigend in Kauf. Als das ihm entgegen kommende Fahrzeug bereits so dicht vor ihm war, dass eine Kollision durch eine Notbremsung beider Fahrzeuge nicht mehr zu verhindern war, gab A seine Selbstmordabsicht auf – er machte zwar keine Ausweichbewegungen, schaltete aber seine Scheinwerfer ein. Der ihm entgegen kommende Fahrer F reagierte daraufhin sofort: Er bremste und versuchte das Fahrzeug links an jenem des A vorbeizulenken. Dies gelang ihm jedoch nicht mehr ganz. Beide Fahrzeuge stießen mit ihrem jeweils rechten Frontbereich zusammen. A und F wurden bei der Kollision schwer verletzt. O, die neben F auf dem Beifahrersitz saß, verstarb noch am Unfallort.
+Ein weiterer Fahrer (B), der hinter F fuhr, konnte mit seinem Fahrzeug und den zwei weiteren Insassen darin gerade noch ausweichen, um nicht auch noch in den Unfall verwickelt zu werden.
+Ein Gutachter stellt fest, dass bei einem Frontalzusammenstoß A, F und O gestorben wären.
+
+Wie hat sich A strafbar gemacht? Es sind nur Straftatbestände des Strafgesetzbuchs (StGB) zu Lasten von O und F (nicht aber auch zu Lasten von B und den Insassen in dessen Fahrzeug!) zu prüfen; die Straßenverkehrsdelikte (§§ 315 b, 315 c, 316 StGB) sind nicht zu prüfen. Etwaig erforderliche Strafanträge sind gestellt.
+
+Lösung:
+
+I. Indem A entgegengesetzt der richtigen Fahrspur fuhr und so einen Unfall herbeiführte, bei dem O starb, kann A sich nach §§ 212 I, 211 StGB (Mord) strafbar gemacht.
+
+	1. Objektiver Tatbestand
+
+a) Mit dem Tod der O ist der tatbestandsmäßige Erfolg eingetreten.
+
+b) Der Tod beruhte kausal auf dem Zusammenstoß und damit darauf, dass A entgegen der Fahrspur fuhr. 
+
+c) Er ist dem A auch objektiv zurechenbar.
+
+d) Zudem könnte A heimtückisch gehandelt haben. Heimtücke ist die bewusste Ausnutzung der auf Arglosigkeit beruhenden Wehrlosigkeit des Opfers. Arglos ist, wer sich zum Zeitpunkt der Tat keines Angriffs von Seiten des Täters versieht (vgl. Lackner/Kühl, 26. Aufl. 2007, § 211 Rn. 7) und wehrlos, wer infolge seiner Arglosigkeit in seiner natürlichen Abwehrbereitschaft und –fähigkeit eingeschränkt ist (Lackner/Kühl, 26. Aufl. 2007, § 211 Rn. 8).
+
+aa) An der Arglosigkeit könnte man deswegen zweifeln, weil A unmittelbar vor der Kollision die Scheinwerfer eingeschaltet hatte und F und O so vor dem drohenden Unfall warnte. Hinsichtlich der Arg- und Wehrlosigkeit ist jedoch auf die Tötungshandlung (Zeitpunkt: § 8 StGB: zu dem der Täter gehandelt hat, also Beginn des strafbarenVersuchs!) und damit den Beginn des ersten mit Tötungsvorsatz geführten Angriff abzustellen (vgl. BGHSt. 19, 321 (322), BGHSt. 32, 382 (384), BGH, NStZ 2006, 503 (504) sowie Geppert, Jura 2007, 270 (273)). Da A die Scheinwerfer erst anstellte, als der Unfall nicht mehr zu verhindern war, ist auf das vorherige Zufahren auf das Fahrzeug von F und O mit ausgeschaltetem Scheinwerfer abzustellen. Zu diesem Zeitpunkt rechnete O nicht damit, dass ihr und F ein Wagen mit ausgeschalteten Scheinwerfern entgegen kam, war also arglos und 
+
+bb) deshalb auch wehrlos. Nur weil sich O als Beifahrerin im von F gesteuerten Fahrzeug befindet, ist sie nicht bereits deshalb wehrlos mit der Folge, dass höchstens auf die Person des F als schutzbereitem Dritten abgestellt werden könnte (vgl. Fischer, 55. Aufl. 2008, § 211 Rn. 43); vielmehr konnte sie F warnen und damit auch sich aktiv wehren.
+
+cc) Aufgrund der Absolutheit der Strafandrohung beim Mord ist jedoch eine restriktive Auslegung der Mordmerkmale verfassungsrechtlich geboten (BVerfGE 45, 187 ff.). Dem wird bei der Heimtücke in der Weise nachgekommen, dass die Rechtsprechung ein Vorgehen in feindlicher Willensrichtung fordert (so BGHSt (GS) 9, 390 (394) und BGHSt (GS) 30, 105 (115 f.)), die zu bejahen wäre, während im Schrifttum ein besonders verwerflicher Vertrauensbruch als zusätzliches Kriterium gefordert wird (Otto, BT, 7. Aufl. 2005. § 4 Rn. 25 und Jakobs, JZ 1984, 996 (997)). Gegen letzteres spricht aber, dass hierdurch der typische Fall des Meuchelmörders gerade nicht mehr unter die Heimtücke fallen würde, eine Bevorteilung gegenüber Taten innerhalb der Familie, für die keine Rechtfertigung ersichtlich ist. Gerade diese Taten sind eher strafwürdiger als jene, die mit besonderer Emotionalität geprägt sind. A meinte nicht, mit der Tötung von Insassen entgegenkommender Fahrzeuge zu deren Besten zu handeln, sodass er (trotz eigener Selbstmordabsicht) in feindlicher Willensrichtung handelte und damit heimtückisch.
+
+e) Durch die Verwendung des Pkws kann A die O mit gemeingefährlichen Mitteln getötet haben. Gemeingefährlich ist ein Mittel, wenn es durch seine Anwendung im Einzelfall eine Gefahr für eine unbestimmte Anzahl anderer Personen mit sich bringt (Fischer, 55. Aufl. 2007, § 211 Rn. 59). Dabei ist nicht allein auf die abstrakte Gefährlichkeit eines Mittels abzustellen, sondern auf seine Eignung und Wirkung in der konkreten Situation unter Berücksichtigung der persönlichen Fähigkeiten und Absichten des Täters (vgl. BGHSt. 38, 353 (354)). Durch seine Fahrweise gefährdete A nicht nur O und F sondern auch B und deren Insassen. Mit seinen über 100 km/h hatte A somit nicht in der Hand, wie viele Personen er gefährdet, verletzt oder gar tötet. Der Pkw stellte somit ein gemeingefährliches Mittel dar (vgl. zum Pkw als gemeingefährlichen Mittel BGH, NStZ 2006, 167 (168) mit Anm. Satzger, JK 1/06, StGB § 211/47 und BGH, NStZ 2006, 503 (504)).
+
+	2. Subjektiver Tatbestand
+
+a) A nahm den Tod der O durch das Zufahren ohne Licht billigend in Kauf, handelte hinsichtlich ihrer Tötung also mit bedingtem Vorsatz. Dass er später seinen Selbsttötungsvorsatz aufgab und die Scheinwerfer einstellte, ist irrelevant: Ausweislich § 16 I 1 StGB muss der Täter „bei Begehung der Tat“ mit Tötungsvorsatz handeln. Nach § 8 StGB ist eine Tat unter anderem zu der Zeit begangen, zu der der Täter gehandelt hat. Da eine strafbare Tötungshandlung bereits dann beginnt, wenn der Täter die Schwelle zum Versuch überschreitet, ist für den Zeitpunkt des Vorsatzes auch auf diesen Moment – hier das Zufahren auf der Spur von F und O ohne Licht – abzustellen (vgl. nur BGH, NJW 2002, 1057 – Kofferraum-Fall).
+
+b) Da A bewusst mit ausgeschalteten Scheinwerfern auf das Fahrzeug von F und O zufuhr und damit die Arg- und Wehrlosigkeit von F und O zur Erreichung der Kollision (und damit eines Selbstmordes) ausnutzte (die Überraschung des F war „unverzichtbarer Teil des Tatplans“ (vgl. BGH, NStZ 2006, 503 (504)), handelte er mit Vorsatz auch bezüglich der Heimtücke.
+
+c) A nahm es bewusst in Kauf, dass auch weitere Verkehrsteilnehmer gefährdet werden, so dass ihm bewusst war, dass er nicht kontrollieren konnte, wie viele Menschen er gefährdet – sein Vorsatz erstreckte sich mithin auch auf die Eigenschaft des Pkws als gemeingefährlichem Mittel.
+
+d) A kann zudem aus niedrigen Beweggründen gehandelt haben. Beweggründe sind niedrig, wenn sie nach allgemeiner sittlicher Wertung als auf tiefster Stufe und damit verachtenswert, ja verwerflich anzusehen sind. Dies ist in der Regel anzunehmen, wenn der Täter wie vorliegend seine Aggressionen oder seinen Selbstmordwunsch an einem Opfer abreagiert, dass an der Entstehung der Gefühle keinen Anteil hatte (vgl. BGHSt. 47, 128 (132 f.)). Der Täter muss aber nicht nur die Umstände gekannt sondern auch die Beurteilung als sittlich besonders anstößig zugänglich gewesen sein (vgl. BGH, StV 2004, 205). Da aber zweifelhaft ist, ob er wegen seiner Selbstmordabsicht hierzu emotional in der Lage war, ist eine Tötung aus niedrigen Beweggründen zu bezweifeln (aA selbstverständlich vertretbar).
+
+	3. Rechtfertigungs- und Entschuldigungsgründe sind nicht ersichtlich.
+
+	4. Ergebnis: A hat sich somit nach §§ 212 I, 211 I StGB zu Lasten von O strafbar gemacht.
+
+
+II. Indem A auf der falscher Fahrspur fuhr und so eine Kollision verursachte, bei der F schwer verletzt wurde, kann A sich nach §§ 212 I, 211, 22 StGB (versuchter Mord) strafbar gemacht haben. Der Versuch ist nach §§ 23 I, 12 I StGB strafbar.
+
+	1. Tatentschluss: A hatte bedingten Vorsatz auf die Tötung des F und handelte dabei mit Vorsatz auf eine heimtückische Tötung sowie mit dem Pkw als gemeingefährlichem Mittel.
+
+	2. Unmittelbares Ansetzen: Dadurch, dass A mit ausgeschaltetem Scheinwerfer auf das Fahrzeug des F zufuhr, hat er zur Tat unmittelbar angesetzt.
+
+	3. Rechtfertigungs- und Entschuldigungsgründe sind nicht ersichtlich.
+
+	4. Rücktritt: Fraglich ist aber, ob A von der Tat nach § 24 I 1 Var. 2 StGB strafbefreiend zurückgetreten ist.
+
+a) Nach der Vorstellung des A drohte beim Zusammenstoss die Tötung mindestens des Fahrers, so dass die Tat noch nicht fehlgeschlagen war, als er doch die Scheinwerfer einschaltete. 
+
+b) Da A mit dem Zufahren auf das Fahrzeug des F mit 100 km/h bei sich ständig verringerndem Abstand und einem Zeitpunkt, ab dem eine Kollision selbst bei einer Vollbremsung beider Fahrzeuge nicht mehr zu vermeiden war, nach seiner Vorstellung bereits alles getan hatte, damit F auf das Fahrzeug mit ausgeschaltetem Scheinwerfer auffuhr, war die Tat nach seiner Vorstellung bereits beendet.
+
+c) Er hätte daher die Vollendung verhindern müssen. A schaltete zwar die Scheinwerfer wieder ein und erreichte so, dass F ihn früher sah und noch derart ausweichen konnte, dass die Fahrzeuge nur seitlich und nicht frontal zusammenstießen, so dass er überlebte; bei einem Frontalzusammenstoß wäre auch F gestorben. Dafür machte A keinerlei Anstalten, auch sein Fahrzeug zur Seite zu lenken und abzubremsen, so dass die Kollision vielleicht noch kleiner hätte ausfallen können. Es kommt daher darauf an, ob der Täter stets das Optimalste tun muss, um eine Straffreiheit zu erlangen.
+
+aa) Zum Teil wird verlangt, dass der Täter stets das für das Opfer Optimalste tun müsse (sog. „Optimalitätsprinzip“; so BGHSt 31, 46 (49), BGH, NStZ-RR 1997, 193 (194), Herzberg, NJW 1989, 862 (865 ff.) und Jakobs, ZStW 104 (1992), 89 (93 f.)). Hierfür spreche § 24 I 2 StGB: Danach müsse der Täter bei einem objektiv untauglichen Versuch, bei dem also dem Opfer keine Gefahr droht, sich „ernsthaft bemühen“, um in den Genuss eines strafbefreienden Rücktritts zu kommen. Es sei nicht einzusehen, wieso der Täter eines tauglichen Versuchs sich dann nicht erst Recht ernsthaft bemühen und das für das Opfer Optimalste tun müsse. Zudem würden sonst auch völlig belanglose Beiträge ausreichen, solange sie nur kausal zur Nichtvollendung führen, ohne dass hierin notwendig eine Rückkehr zurück ins Recht erblickt werden könnte.
+
+bb) Auf der anderen Seite ist der Wortlaut des § 24 I 1 Var. 2 StGB eindeutig und enthält eine Einschränkung wie § 24 I 2 StGB gerade nicht, so dass alleine aus diesem systematischen Zusammenhang geschlossen werden kann, dass der Gesetzgeber ein optimales Bemühen nicht notwendig verlangte (so nun grundlegend BGH, NJW 2002, 3719 und jüngst bestätigt mit BGH, NStZ 2004, 614 f.; zuvor bereits BGHSt 33, 295 (301), BGH, StV 1981, 514 f. und BGH, NJW 1985, 813). Hierhinter steckt der Gedanke des „Ende gut, alles gut“ (so erstmals Puppe, NStZ 1984, 488 (489)), dass der Täter also letztlich die Vollendung doch verhindert hat (vgl. Rudolphi, NStZ 1989, 508 (512)). Zudem dient die Verneinung des Optimalitätskorrektivs dem Opferschutz, da der Täter vor geeigneten Rettungschancen zurückschrecken würde, wenn er nur bei der optimalsten Rettungsmöglichkeit tatsächlich eine goldene Brücke zurück ins Recht erhielte.
+Dennoch kann reine Kausalität (bloße „Chanceneröffnung“) wohl kaum genügen. Genauso wie für eine Bestrafung die Zurechenbarkeit des Erfolges notwendig ist, muss konträr beim Versuch die Vollendungsverhinderung als „Werk des Täters“ erscheinen, ihm also zurechenbar sein (vgl. Wessels/Beulke, AT, 37. Aufl. 2007, Rn. 644). Dies ist vorliegend zu bejahen.
+
+d) Dies geschah aus autonomen Motiven und damit freiwillig.
+
+      5. Ergebnis: A ist vom Mordversuch strafbefreiend zurückgetreten, so dass er sich nicht nach §§ 212 I, 211, 22 StGB strafbar gemacht hat.
+
+
+III. Indem A bewusst auf F zufuhr und dieser durch den Zusammenstoß verletzt wurde, hat A eine vorsätzliche Körperverletzung (§ 223 I StGB) zu Lasten des F begangen, die qualifiziert ist
+
+      1. durch den Pkw als gefährlichem Werkzeug nach § 224 I Nr. 2 StGB
+      
+      2. nicht mittels eines hinterlistigen Überfalls (§ 224 I Nr. 3 StGB), da hierfür eine Verdeckung wahrer Absichten erforderlich ist, also ein offenes Vorgehen mit Hintergedanken, an denen es fehlt, wenn der Täter für das Opfer unerkannt (weil mit ausgeschalteten Scheinwerfern) auftritt.
+
+      3. wohl aber wegen der sogar konkreten Todesgefahr – auf den Streit, ob eine abstrakte (so etwa LK/Hirsch, 11. Aufl., § 224 Rn. 21 und Sch/Schr/Stree, 27. Aufl. 2006, § 224 Rn. 12) oder eine konkrete Todesgefahr vgl. nur (RGSt 10, 1, BGHSt 2, 160 (163), BGH, NStZ 2004, 618) zu verlangen ist, braucht daher nicht eingegangen werden – nach § 224 I Nr. 5 StGB. Gleiches gilt für den Streit, ob A für einen Vorsatz bezüglich § 224 I Nr. 5 StGB nur die zugrunde liegenden Umstände kennen (so BGHSt. 19, 352 (353) und BGHSt. 36, 1 (15)) oder diese auch als lebensgefährdend (zumindest mittels Wertung in der Laiensphäre) bewerten muss (so Sch/Schr/Stree, 27. Aufl. 2006, § 224 Rn. 13, MüKo-StGB/Hardtung, § 224 Rn. 36, Maurach/Schroeder/ Maiwald, BT 1, 9. Aufl. 2003, § 9 Rn. 18), da A die Lebensgefährlichkeit bewusst in Kauf nahm. 
+
+
+IV. Im gleichen Maße hat sich A nach §§ 223 I, 224 I Nr. 2 und 5, 227 I StGB (gefährliche Körperverletzung mit Todesfolge) zu Lasten der O strafbar gemacht. (Dies hätte auch nur im Rahmen der Konkurrenzen erwähnt zu werden brauchen!)
+
+
+V. Da A eine Kollision mit dem entgegen kommenden Fahrzeug wollte und es zum Zusammenstoß kam, bei dem auch das andere Fahrzeug beschädigt wurde, hat sich A schließlich nach § 303 I StGB (Sachbeschädigung) strafbar gemacht. Der nach § 303 c StGB erforderliche Strafantrag wurde gestellt.
+
+
+VI. Konkurrenzen und Ergebnis: Der Mord an O verdrängt den zugleich verwirklichten Totschlag – nach der Systematik der Literatur – konkurrenzrechtlich im Wege der Spezialität sowie die ebenfalls mitverwirklichte gefährliche Körperverletzung mit Todesfolge im Wege der Subsidiarität.
+Die gefährliche Körperverletzung zu Lasten des F verdrängt die einfache Körperverletzung im Wege der Spezialität.
+Der Mord an O, die gefährliche Körperverletzung an F sowie die Sachbeschädigung erfolgten durch dieselbe Handlung (das Zufahren auf F und O), so dass diese Delikte in Tateinheit (§ 52 I StGB) stehen.
+A hat sich somit nach §§ 211; 224 I Nr. 2 und 5; 303 I; 52 I StGB strafbar gemacht.
+
+
+
+
+2
+
+

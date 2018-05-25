@@ -1,0 +1,1328 @@
+ETH Institut für Verhaltenswissenschaften und Departement Physik
+
+
+Es spukt also doch bei den Quanten ...
+
+
+Ein Leitprogramm zur Quantenphysik
+
+
+
+
+
+
+
+Verfasst von:	Pierre Mandrin, Hans Peter Dreyer
+
+Herausgegeben von:	Fachdidaktik Physik ETH
+
+Es spukt also doch bei den Quanten ...
+
+
+Ein Leitprogramm zur Quantenphysik
+
+
+Stufe, Schulbereich: 	Gymnasien Klassen 11-13, Fachhochschulen; 
+	
+
+Fachliche Vorkenntnisse: 	Kinematik, Impulserhaltung
+	Elektrisches und magnetisches Feld
+	Elektromagnetismus
+	Elektron, Proton, Neutron
+	Wellenlänge
+	Beugung, Interferenz von Wellen
+	Begriff des Quantenobjekts
+	Unbestimmtheitsbeziehung qualitativ (Ort / Impuls)
+
+Bearbeitungsdauer:	Kapitel 1-2:	4-6 Lektionen
+	Kapitel 3:	2 Lektionen
+
+Verfasst von:	Pierre Mandrin, Hans Peter Dreyer
+
+Herausgegeben von:	Fachdidaktik Physik ETH
+
+Version:	Dezember 2002
+
+Dank
+
+Ein herzlicher Dank gilt Herrn W. Pils und M. Berta, Winterthur, für die Erprobung und für manche hilfreiche Ratschläge und nützliche Hinweise für dieses Leitprogramm. 
+
+
+Einführung
+
+Viele Naturerscheinungen können nur mit Hilfe der Quantentheorie erklärt werden. Diese Theorie hat sich im Laufe des 20. Jahrhunderts gut bewährt. Sie wurde durch unzählige Experimente bestätigt. Zudem werden Quanteneffekte immer häufiger in der Technik verwendet, vom Laser bis zum Mikroskop.
+Allerdings überfordern die Quanten unser alltägliches Vorstellungsvermögen. Es lohnt sich deshalb, die Quanten besser kennenzulernen. 
+
+Schon im Kapitel 1 werden Sie ein seltsames Gefühl bekommen. Erwarten Sie winzig kleine Quanten wie die Elektronen? Vorsicht! Auch grössere Objekte wie Atome verhalten sich in Experimenten bereits so. Und wer weiss, wie gross die Versuchsobjekte noch werden können... 
+Hie und da werden Quanten wie "Gespenster" ihren "Spuk" in unerreichbarer Ferne treiben. Mehr dazu im Kapitel 2.
+Im Kapitel 3 wird es noch erstaunlicher. Jeder Beobachter "erschafft" das Teilchen, das er messen will! Hier nähern wir uns dem Gebiet der Philosophie.
+
+Nach der Bearbeitung dieses Leitprogramms sind Sie in der Lage, die wichtigsten Debatten des Quanten-Zeitalters zu beschreiben und zu interpretieren.
+
+
+
+Inhaltsverzeichnis
+
+
+Einführung	3
+
+Inhaltsverzeichnis	4
+
+Arbeitsanleitung	5
+
+Kapitel 1	Wie gross kann ein Quantenobjekt sein?	6
+	1.1	Experimente mit grossen Quanten	7
+	1.1.1	Ein Experiment mit Neutronen	8
+	1.1.2	Ein Experiment mit Atomen	10
+	1.2	Was sind Quantenobjekte nun wirklich?	12
+
+Kapitel 2	Spukhafte Fernwirkungen	19
+	2.1	Ein Gedankenexperiment	20
+	2.1.1	Einstein gegen die Quantentheorie	21
+	2.1.2	Die Quantentheorie verteidigt sich	22
+	2.2	Und was meint die Natur?	23
+
+Kapitel 3	Tot oder lebendig?	35
+	3.1	Vom Messprozess zum Katzendrama	36
+	3.2	Verschiedene Interpretationen	40
+
+Anhänge		
+
+Anhang 1	Tests und Lösungen	45
+Anhang 2	Bibliothek für die Schüler	53
+Anhang 3	Experimentiermaterial und Computer-Simulationen	54
+Anhang 4	Von den Autoren benutzte Quellen	58
+Anhang 5	Hinweise für die Lehrperson	59
+
+
+
+Arbeitsanleitung
+
+Das vorliegende Leitprogramm bearbeiten Sie ganz für sich und nach Ihrem eigenen Tempo. Alle Kapitel sind in der gleichen Form aufgebaut. Am Anfang befinden sich jeweils eine Übersicht und die Lernziele. Dann kommt der eigentliche Stoff. Während der Lektüre treffen Sie einige Aufgaben an. Nachdem Sie eine Aufgabe bearbeitet haben, können Sie am Schluss des jeweiligen Kapitels die Lösung nachschauen. Bei Schwierigkeiten finden Sie dort Hilfe in Schrägschrift.
+
+Von den drei Kapiteln bearbeiten Sie zunächst die ersten beiden. Am Ende des jeweiligen Kapitels müssen Sie einen Kapiteltest bestehen. Für diesen Test melden Sie sich beim Lehrer, oder bei einem von ihm bestimmten Tutor. Erst danach können Sie das nächste Kapitel in Angriff nehmen. Vor dem Kapiteltest können Sie anhand einer Lernkontrolle nochmals überprüfen, ob Sie das Kapitel verstanden haben.
+
+Wie geht es nachher weiter?
+Versuchen Sie mit der verbleibenden Zeit, das dritte Kapitel zu bearbeiten. Es gehört zwar nicht zum obligatorischen Stoff. Doch werden Sie sich von den spannenden philosophischen Fragen sicher angesprochen fühlen.
+
+
+1	Wie gross kann ein Quantenobjekt sein?
+
+
+
+	Übersicht und Lernziele von Kapitel 1	6
+
+	1.1	Experimente mit grossen Quanten	7
+	1.1.1	Ein Experiment mit Neutronen	8
+	1.1.2	Ein Experiment mit Atomen	10
+	1.2	Was sind Quantenobjekte nun wirklich?	12
+
+	Lernkontrolle	14
+	Lösungen zu den Aufgaben	15
+
+
+
+Übersicht
+
+Meistens begegnet man sehr kleinen Quantenobjekten, wie Photonen oder Elektronen. Diese Objekte sind so klein, dass wir uns von ihren merkwürdigen Eigenschaften kaum beeindrucken lassen. Grössere Objekte besitzen grössere Massen. Dadurch haben diese Objekte oft schon so grosse Impulse, dass sie sich kaum mehr wie Quantenobjekte verhalten. Vor Kurzem wurden jedoch Experimente mit "gigantischen" Quantenobjekten realisiert. Grund genug, sich mit grossen Quanten zu beschäftigen!
+
+
+
+Lernziele von Kapitel 1
+
+
+•	Sie können eine ausführliche Antwort zur folgenden Frage geben:
+	Treten beliebig grosse Objekte gleichzeitig durch zwei Spalte hindurch?
+
+•	Sie können zwei Experimente mit grossen Quanten Ihrer Nachbarin oder Ihrem Nachbarn erläutern.
+
+•	Sie können das Wesen der Quantenobjekte anhand von Beispielen interpretieren.
+
+
+
+
+1.1	Experimente mit grossen Quanten
+
+Bevor wir zur Betrachtung grosser Quantenobjekte übergehen, kommen wir auf die Grundeigenschaften von Quantenobjekten zurück. Mit der folgenden Aufgabe können Sie Ihr Gedächtnis auffrischen. 
+
+
+Aufgabe 1.1: Was ist ein Quantenobjekt?
+
+Quantenobjekte sind durch zwei Grundeigenschaften definiert. Je nach Situation tritt die eine oder die andere in Erscheinung. 
+
+Geben Sie diese Grundeigenschaften an.
+
+In diesem Kapitel benötigen Sie ebenfalls einige Kenntnisse aus der Wellenlehre. Das Nötigste können Sie bei der nachfolgenden Aufgabe nochmals auffrischen. 
+
+Falls Sie sich nicht an alle Einzelheiten erinnern können und die Frage deswegen nicht beantworten können, lesen Sie die Lösung sorgfältig durch. Dort steht alles, was Sie zu wissen brauchen.
+
+
+
+Aufgabe 1.2: Wellen
+
+Mit welchem Experiment kann man das typische Verhalten einer Welle nachweisen? Der Nachweis soll einfach sein und für beliebige Wellen funktionieren. 
+Woran stellt man bei diesem Experiment fest, ob es sich um eine Welle handeln muss?
+Haben Sie dieses Experiment gründlich verstanden? Dann können Sie die Simulation 1.1 überspringen und mit dem nachfolgenden Text fortfahren. 
+Wenn Sie aber noch Mühe mit dem Thema "Interferenzen" haben und lieber nochmals ein Experiment dazu sehen möchten, sehen Sie sich die Simulation 1.1 an.
+
+
+
+Simulation 1.1: Interferenzen am Doppelspalt
+
+Gehen Sie zum bereitgestellten Computer und starten Sie das Simulationsprogramm. 
+Halten Sie Ihre Beobachtung fest. Wie ändert sich das Interferenzbild, wenn Sie den Abstand zwischen den Spalten verändern?
+Wenn Sie Probleme haben, hilft Ihnen der Tutor.
+Auch Quantenobjekte zeigen Wellennatur.
+Der französische Physiker Louis de Broglie hat 1924 eine allgemeine Beziehung zwischen der Wellenlänge ? und dem Impuls p beliebiger Quantenobjekte gefunden (Beziehung von de Broglie): 
+
+	
+
+Je grösser der Impuls, desto kleiner die Wellenlänge. Die Konstante h heisst Planck'sches Wirkungsquantum:
+
+	h  =  6.63·10-34 J·s.
+
+Wie kann man zeigen, dass sich ein Teilchen wie ein Quantenobjekt verhält? Dazu wird zum Beispiel ein Teilchen nach dem anderen durch einen Doppelspalt geschickt und daran wie Licht gebeugt. So entsteht ein Interferenzmuster. Interferenzen gibt es schon für ein Einzelteilchen.
+
+Haben Sie so etwas in einem Experiment schon gesehen? Dann können Sie die Simulation 1.2 überspringen und direkt weiterlesen. Sonst probieren Sie die Simulation 1.2 aus. Sie ist freiwillig.
+
+
+
+Simulation 1.2: Interferenzen mit Elektronen
+
+Gehen Sie zum bereitgestellten Computer und starten Sie das Simulationsprogramm. 
+Halten Sie Ihre Beobachtung fest. Wie ändert sich das Interferenzbild, wenn Sie den Abstand zwischen den Spalten verändern? 
+In dieser Simulation können Sie auch mehr oder weniger Elektronen pro Sekunde abfeuern.
+Wenn Sie Probleme haben, hilft Ihnen der Tutor.
+
+Anton Zeilinger aus Wien hat Experimente mit grossen Quantenobjekten beschrieben (Audretsch 90). Wir betrachten hier zwei davon.
+
+
+1.1.1	Ein Experiment mit Neutronen
+
+Im ersten Experiment werden Neutronen untersucht. Damit die Interferenzen gut sichtbar sind, darf in diesem Experiment der Abstand zwischen den Spalten nicht viel grösser als 0.1 mm sein. Für den Doppelspalt verwendet man ein spezielles Glas und Metall (Bor). Das sind Materialien, welche die Neutronen verschlucken (sogenannte Neutronenabsorber).
+
+Mit einem Neutronendetektor (Nachweisgerät) kann man nachweisen, dass ein Neutron an einem bestimmten Ort ankommt. Der Detektor bleibt während einer bestimmten Zeit am gleichen Ort. Man bestimmt die Anzahl angekommener Neutronen pro Zeiteinheit (Intensität). Die Intensität wird an verschiedenen Orten entlang der Bildebene gemessen (siehe Figur 1.1). Damit findet man, wie die Intensität vom Ort abhängt (Intensitätsverteilung). Nach diesem Prinzip findet man heraus, ob die Neutronen ein Interferenzmuster bilden.
+
+
+
+
+	Figur 1.1: Prinzipskizze des Doppelspaltexperiments für Neutronen. Der Neutronendetektor (D) lässt sich entlang der Bildebene verschieben.
+
+
+
+Aufgabe 1.3: "Langsame" Neutronen
+
+Im obigen Neutronenexperiment ist der Abstand zwischen den Spalten von der Grössenordnung 0.1 mm. Damit man Interferenzen beobachten kann, soll dieser Abstand höchstens etwa 105 mal grösser sein als die Wellenlänge ?. 
+Wie gross darf die Geschwindigkeit der Neutronen maximal sein? (Eine grobe Schätzung genügt.)
+Neutronen haben eine Masse von 1.67·10-27 kg.
+
+In der folgenden Aufgabe geht es um die Interpretation des Neutronenexperiments (nach Zeilinger).
+
+
+
+Aufgabe 1.4: Interferenzen mit Neutronen
+
+Hier benötigen Sie einen (kopierten) Ausschnitt aus dem Buch von J. Audretsch und K. Mainzer, "Wieviele Leben hat Schrödingers Katze?", BI Wissenschaftsverlag, Mannheim, 1990. Es handelt sich um einen Beitrag von Anton Zeilinger, "Fundamentale Experimente mit Materiewellen und deren Interpretation". Lesen Sie von Seite 73 bis 75 oben ("... ein ganzzahliges Vielfaches der Wellenlänge ist.").
+
+Notieren Sie sich danach einige Stichworte zur folgenden Frage: 
+
+Sie wollen eine Welleneigenschaft nachweisen. Wie muss sich die Intensitätsverteilung beim Doppelspalt von derjenigen beim Einfachspalt unterscheiden?
+
+Das Interferenzbild ist zusätzlich in der Lösung abgebildet.
+
+Die Neutronen sind nicht die grössten Objekte, an denen Welleneigenschaften beobachtet worden sind. Man hat sie sogar bei Atomen beobachtet. Prinzipiell gilt die Quantenphysik für alle noch so grossen Objekte, die in der Natur vorkommen.
+
+
+1.1.2	Ein Experiment mit Atomen
+
+Atome lassen sich sehr gut an Gittern beugen. Nach dem Namen des Entdeckers spricht man bei einer Beugung am Gitter auch von der Bragg-Beugung. 
+Wie realisiert man genügend kleine Gitterabstände? Hier hilft nur die menschliche Phantasie. Anstelle der üblichen (materiellen) Gitter kann man Gitter aus Licht herstellen. Das Grundprinzip wollen wir hier kurz anschauen. 
+
+Das funktioniert wie eine Badewanne. Die Ränder der Wanne werfen die Wasserwellen zurück. So bildet sich eine stehende Welle. An gewissen Stellen bewegt sich das Wasser stark auf und ab, an anderen Stellen gar nicht. Genauso wird eine stehende Lichtwelle von zwei Spiegeln erzeugt. Auch das Licht schwingt an bestimmten Stellen mit hoher Intensität, an anderen Stellen dagegen nicht. Die "Bausteine" des Lichts (Photonen) häufen sich bei den Stellen mit hoher Intensität. So entsteht ein Gitter aus Licht. Die Figur 1.2 zeigt ein solches Gitter.
+
+
+
+
+	Figur 1.2: Prinzipskizze des Interferenzexperiments für Natrium-Atome. Als Beugungsgitter wird eine stehende Lichtwelle verwendet. An der Stelle A schwingt das Licht mit grosser Intensität, an der Stelle B hingegen gar nicht. Dies verdeutlichen zwei "Momentaufnahmen" (ausgezogene und punktierte Wellenlinie). An diesem Lichtgitter werden die Atome gebeugt. Ein Detektor (D) misst die Verteilung der ankommenden Atome in der Bildebene.
+
+
+Mit Laserlicht erreicht man einen Gitterabstand von nur 0.295 ?m. Die Natrium-Atome haben eine Geschwindigkeit von 1 km/s. Bei diesen Werten lassen sich die Interferenzen gerade noch beobachten. In einer Distanz von 1.2 m nach dem Gitter wird schliesslich die Verteilung der Atome mit einem Detektor gemessen. Die Messanordnung finden Sie in der Figur 1.2.
+
+Trotz der Grösse der Atome entsteht auch bei diesem Experiment ein beeindruckendes Interferenzbild. Dieses können Sie wiederum dem Buch von Audretsch und Mainzer entnehmen.
+
+
+
+Aufgabe 1.5: Interferenzen mit Atomen
+
+Auch hier benötigen Sie einen (kopierten) Ausschnitt aus dem Buch von J. Audretsch und K. Mainzer, "Wieviele Leben hat Schrödingers Katze?", BI Wissenschaftsverlag, Mannheim, 1990. Das Interferenzbild befindet sich im Beitrag von Anton Zeilinger, "Fundamentale Experimente mit Materiewellen und deren Interpretation", auf der Seite 89.
+Betrachten Sie die Abbildung 11 und lesen Sie die Angaben in der Legende. Notieren und skizzieren Sie für sich das dargestellte Messergebnis. Falls Sie sich an die Beugung an Gittern nicht mehr gut erinnern mögen, können Sie die Teilfigur c) auslassen.
+Unterdessen haben sogar Experimente mit Molekülen stattgefunden (C60, C70). Forschungsergebnisse findet man auf der folgenden Internet-Seite:
+www.quantum.univie.ac.at/research/index.shtml.
+Die Objekte werden immer grösser. Ob es je eine Grenze geben wird, kann niemand sagen. 
+Jedenfalls können Sie sich getrost sagen: "Der Physiklehrer wird mich noch lange nicht durch einen Doppelspalt schicken können."
+
+Wir fassen zusammen:
+
+Je nach den experimentellen Gegebenheiten verhält sich ein Quantenobjekt einmal wie ein Teilchen, ein andermal wie eine Welle. Selbst bei grösseren Atomen beobachtet man ein solches Verhalten. Allerdings wird es bei zunehmender Masse (und somit zunehmendem Impuls) immer schwieriger, die Wellennatur nachzuweisen, denn die Wellenlänge des Quantenobjektes wird immer kleiner:
+
+	
+
+Daher müssen Gitter mit immer kleineren Gitterabständen verwendet werden.
+
+
+1.2	Was sind Quantenobjekte nun wirklich?
+
+Die neuesten Experimente bringen uns in Verlegenheit. Wir spielen mit Riesenquanten und können uns darunter kaum etwas Vernünftiges vorstellen. Einmal verhält sich ein Quantenobjekt wie eine Welle und gleich danach wie ein Teilchen. Ein Atom macht einerseits Interferenzen mit sich selber und prallt andererseits wie ein Stein auf den Detektor. Wie müssen wir uns das vorstellen, wenn eines Tages ein Stuhl durch zwei Spalte hindurchfliegt?
+
+Unser Problem: Wir suchen Teilchen dort, wo Wellen sind. 
+Das Problem löst sich mit der folgenden Interpretation.
+
+Wir betrachten Lichtquanten (Photonen).
+Eine Lampe erzeugt so viele Photonen, dass man das Licht auch mit der klassischen Physik beschreiben kann. Das wollen wir zunächst tun.
+
+Licht wird von Elektronen erzeugt.
+Eindrucksvoll ist das bei grossen Wellenlängen (Radiowellen). Wenn sich Elektronen in einem Radiosender bewegen, entsteht ein elektrisches Feld und ein magnetisches Feld. Beide Felder zusammen können sich vom Radiosender loslösen und breiten sich in Form von Radiowellen im Raum aus.
+Diese Radiowellen kann man mit einer Radioantenne wieder empfangen. Man kann die Antenne an verschiedenen Orten aufstellen. Je nach Empfangsort bewegen sich die Elektronen der Antenne mehr oder weniger stark.
+In der klassischen Physik beschreibt man also Licht oder Radiowellen mit Feldern. Diese Felder werden von einer Quelle oder einem Sender erzeugt und von einer "Antenne" empfangen.
+
+In der Quantenphysik ist das ganz ähnlich. Man muss aber die klassische Vorstellung ein wenig korrigieren.
+Die Elektronen eines Radiosenders erzeugen nur ganze "Portionen" (Photonen). Auch empfängt eine Radioantenne nur ganze "Portionen". Weil ein einzelnes Photon an verschiedene Orte gelangen kann, wird es von der Antenne nur mit einer gewissen Wahrscheinlichkeit empfangen. Zwischen dem Sender und dem Empfänger beansprucht das Photon den ganzen vorhandenen Raum.
+Dadurch, dass nur ganze "Portionen"  (Quanten) erzeugt und empfangen werden, ist der jeweilige Empfangsort unbestimmt.
+
+Die obige Interpretation können wir auf andere Quantenobjekte wie Neutronen oder Atome übertragen.
+
+Nun betrachten Sie nochmals das Doppelspaltexperiment mit den Neutronen.
+
+
+
+Aufgabe 1.6: Ein Neutron im Doppelspalt
+
+Betrachten Sie ein einzelnes Neutron im Doppelspaltexperiment. 
+
+a) Welche Geräte spielen hier die Rollen des "Senders" und des "Empfängers"?
+
+b) Skizzieren Sie die experimentelle Anordnung, etwa so wie in der Figur 1.1. Markieren Sie die Orte in der Bildebene, an denen das Neutron mit besonders hoher Wahrscheinlichkeit empfangen wird.
+
+c) Wodurch kommt die Teilcheneigenschaft des Neutrons zur Geltung?
+
+
+
+
+Wir fassen zusammen:
+
+Quantenobjekte sind weder Wellen noch Teilchen. Vielmehr breiten sie sich wie Wellen im Raum aus und werden wie Teilchen erzeugt oder verschluckt. Dieses Verhalten lässt sich mit Radiosendern und Radioempfängern veranschaulichen. Auch die Doppelspaltversuche lassen sich aus dieser Sicht betrachten.
+
+
+
+Lernkontrolle
+
+
+
+Aufgabe 1.7: Experiment mit Natrium-Atomen
+
+In diesem Kapitel haben Sie ein Interferenzexperiment mit Natrium-Atomen kennengelernt. Beschreiben Sie es in etwa 3 Sätzen.
+
+
+Aufgabe 1.8: Zaubermünzen
+
+Sie möchten 2-Franken-Stücke (je 10 g Masse) an einem Doppelspalt beugen. Sie werfen die Münzen mit 10 m/s auf den Doppelspalt. Wenn der Abstand zwischen den beiden Spalten nicht mehr als rund 105 mal die Wellenlänge einer Münze beträgt, könnten Sie im Prinzip Interferenzen beobachten. (h = 6.6·10-34 J·s)
+
+a)	Wie gross darf der Abstand der Spalte höchstens sein?
+
+b)	Ist dieser Wert mit vernünftigen Mitteln realisierbar? Eine kurze Begründung genügt.
+	(Im Vergleich: Der Radius eines Protons beträgt etwa 1.2?10-15 m.)
+
+c)	Das Experiment wird von weiteren Eigenschaften der Münzen wesentlich beeinflusst. Nennen Sie eine solche Eigenschaft.
+
+
+Aufgabe 1.9: Tennisbälle
+
+Tennisbälle scheinen ein Teilchenverhalten zu zeigen. Kann man sie trotzdem als "grosse Quantenobjekte" auffassen? Begründen Sie Ihre Antwort.
+
+Wenn Sie alle drei Aufgaben erfolgreich gelöst haben und wenn Sie sich sicher fühlen, können Sie sich zum Kapiteltest melden. 
+Ansonsten sollten Sie zuerst diejenigen Stellen nochmals durchlesen, die Ihnen Mühe bereiten.
+
+
+
+Lösungen zu den Aufgaben
+
+Lösung 1.1: Was ist ein Quantenobjekt?
+
+Je nach Situation hat ein Quantenobjekt Teilcheneigenschaften oder Welleneigenschaften.
+
+Falls Ihnen diese Grundeigenschaften nicht (mehr) vertraut sind, sollten Sie einen Blick in Ihre Unterlagen zu diesem Thema werfen.
+
+Lösung 1.2: Wellen
+
+Bestimmt erinnern Sie sich an ein Experiment über Lichtwellen. Eine undurchlässige Platte (oder Scheibe) mit zwei oder mehreren Löchern oder Spalten wurde von einem Lichtbündel durchleuchtet. Dahinter wurde das Licht auf einem weissen Schirm aufgefangen. Es bildete sich ein regelmässiges Muster von hellen und dunklen Streifen, ein sogenanntes Interferenzmuster. Bei den hellen Streifen überlagerten sich die Wellenberge (oder Wellentäler) beider Teilwellen und verstärkten sich. Bei den dunklen Streifen überlagerten sich die Wellenberge der einen mit den Wellentälern der anderen Teilwelle und löschten einander aus. 
+Ein Beispiel mit einem Doppelspalt ist in der Figur 1.3 dargestellt.
+
+Wie beim Licht lassen sich bei allen Wellen Interferenzen nachweisen. Dazu muss man die vermeintlichen Objekte zum Beispiel durch einen Doppelspalt oder durch ein Gitter schicken. Dahinter werden die Objekte wiederum aufgefangen. Sie machen sich an bestimmten Orten mehr, an anderen weniger bemerkbar. Wenn man nun ein Interferenzmuster mit Auslöschungen und Verstärkungen antrifft (wie bei Lichtwellen), verhalten sich die Objekte wie Wellen. Die Interferenzen verschwinden, wenn man nur ein Loch (oder Spalt) offenlässt.
+
+
+	Figur 1.3: Interferenzmuster am Doppelspalt.
+
+Lösung 1.3: "Langsame" Neutronen
+
+Der Abstand d zwischen den Spalten darf höchstens etwa 105 mal grösser sein als die Wellenlänge ?. Also muss gelten: ? ? 10-9 m. Nun bekommt man aus der Beziehung von de Broglie und mit p = m·v die maximale Geschwindigkeit v eines Neutrons der Masse m:
+
+	
+
+In der Praxis werden Neutronen mit etwa 200 m/s erzeugt.
+
+Falls Sie das obige Ergebnis nicht bekommen, blättern Sie zurück zur Beziehung von de Broglie (dort steht die nötige Information).
+
+Lösung 1.4: Interferenzen mit Neutronen
+
+Das Doppelspaltexperiment mit den Neutronen ergibt die Intensitätsverteilung der Figur 1.4. Wir betrachten die Stellen mit Auslöschung (Minima).
+Verschliesst man einen der beiden Spalte, so treffen an solchen Stellen mehr Neutronen ein. Dann verschwindet auch das feine Interferenzmuster. Auf diese Weise lässt sich die Welleneigenschaft der Neutronen experimentell bestätigen. 
+
+Auch wenn man zuerst nur Spalt Nr. 1 und danach nur Spalt Nr. 2 offen lässt, bekommt man das feine Interferenzmuster nicht mehr. Jedes Neutron "weiss" also, welche Spalte offen sind. Es fliegt nicht etwa durch einen einzigen Spalt.
+
+
+
+
+	Figur 1.4: Intensitätsverteilung der Neutronen nach der Beugung am Doppelspalt. Die Punkte stellen die gemessenen Intensitäten dar. Die durchgezogene Kurve wurde mit Hilfe der Theorie berechnet. (Audretsch 90, 75)
+
+Lösung 1.5: Interferenzen mit Atomen
+
+In der Abbildung 11 des Buchs von Audretsch und Mainzer erkennt man jeweils ein ausgeprägtes Interferenzbild mit zwei Maxima und einem Minimum dazwischen. Das eine Maximum entspricht einem durchgehenden Strahl von Atomen (diese Atome werden nicht abgelenkt). Das zweite Maximum entsteht durch die abgebeugten Atome (Beugungsmaximum).
+
+
+Lösung 1.6: Ein Neutron im Doppelspalt
+
+a) Als Sender dient eine Neutronenquelle (Das Neutron wird aus einem Kernreaktor gewonnen und kurz vor dem Experiment abgebremst). 
+Als Empfänger dient ein Neutronendetektor. Dieser kann entlang der Bildebene verschoben werden. 
+
+b) Das Neutron wird bei den Intensitätsmaxima mit besonders hoher Wahrscheinlichkeit empfangen. Das ist aus der Figur 1.5 ersichtlich.
+
+c) Bei der Messung wird das Neutron im Detektor empfangen. Dadurch tritt es in Form eines Teilchens in Erscheinung. Vor der Messung verhält sich das Neutron wie eine Welle.
+
+
+
+
+	Figur 1.5: In den markierten Gebieten der Bildebene (Intensitätsmaxima) wird das Neutron mit besonders hoher Wahrscheinlichkeit empfangen.
+
+
+Wenn Sie sich nicht mehr an die Einzelheiten des Neutronenexperiments erinnern, sollten Sie den Anfang des Abschnitts 1.1.1 nochmals anschauen.
+Wenn Sie sich bei dieser Aufgabe aus anderen Gründen unsicher fühlen, sollten Sie den Abschnitt 1.2 nochmals von Anfang an durchlesen.
+
+Lösung 1.7: Experiment mit Natrium-Atomen
+
+Die Atome werden an einem Lichtgitter mit sehr kurzen Gitterabständen gebeugt. Dazu wird mit Laserlicht im UV-Bereich eine stehende Lichtwelle zwischen zwei Spiegeln erzeugt. Nach erfolgter Beugung bilden die Atome ein Interferenzbild mit zwei Maxima und einem ausgeprägten Minimum dazwischen.
+
+Lösung 1.8: Zaubermünzen
+
+a) Jede Münze hat den Impuls p = 0.1 kg?m/s. Aus der Beziehung von de Broglie bekommt man für die Wellenlänge ?:
+
+	
+
+Der Abstand d zwischen den Spalten darf höchstens etwa 105 mal grösser sein als die Wellenlänge ?, also:  d ? 6.6?10-28 m.
+
+b) Dieser Wert ist rund 2?1012 mal kleiner als der Radius eines Protons. Auch mit einem "Lichtgitter" schafft man das nicht. So kurze Gitterabstände sind in keinem irdischen Laboratorium realisierbar.
+
+c) Eine der wichtigsten Eigenschaften ist die Temperatur der Münze. Bei Zimmertemperatur haben die Atome eine völlig unkontrollierbare innere Bewegungsenergie. In diesem Fall wäre auch bei noch so kleiner Geschwindigkeit der Münzen kein Interferenzbild beobachtbar.
+
+
+Lösung 1.9: Tennisbälle
+
+Alle Objekte werden durch die Quantenphysik beschrieben, auch Tennisbälle. Tennisbälle können im Prinzip Interferenzeffekte zeigen (obwohl man sie nicht messen kann). Deshalb kann man Tennisbälle auch als "grosse Quantenobjekte" auffassen. Solche Objekte haben extrem kleine Wellenlängen. Deshalb unterscheidet sich ein solches "Quantenobjekt" kaum vom gewohnten alltäglichen Objekt. 
+Wieso verhalten sich Tennisbälle wie Teilchen? Wir beobachten ständig die Lage des Balls - und dadurch sehen wir die Teilcheneigenschaft.
+
+
+
+2	Spukhafte Fernwirkungen
+
+
+
+	Übersicht und Lernziele von Kapitel 2	19
+
+	2.1	Ein Gedankenexperiment	20
+	2.1.1	Einstein gegen die Quantentheorie	21
+	2.1.2	Die Quantentheorie verteidigt sich	22
+	2.2	Und was meint die Natur?	23
+
+	Lernkontrolle	29
+	Lösungen zu den Aufgaben	30
+
+
+
+Übersicht
+
+Quanten sind ganz merkwürdige Dinge. 
+Wir wollen den Ort eines Elektrons finden. Und schon wird es unkontrollierbar und springt davon. Ausserdem kann ein Elektron in New York unverzüglich ein Elektron in Tokio beeinflussen. Können sich diese Elektronen mit Überlichtgeschwindigkeit miteinander verständigen? So sieht es nach der Quantentheorie zunächst aus.
+Sogar grosse Physiker wie Einstein sträubten sich gegen eine solche Naturbeschreibung. Nach Einstein fehlte irgendetwas an der Theorie. Er glaubte, man müsse sie vervollständigen. Jedes Messresultat wollte er voraussagen können. Zusammen mit anderen Physikern konstruierte er in Gedanken ein Experiment, das seine Argumente untermauern sollte. Trotzdem hat die Quantentheorie diesem Gedankenexperiment standgehalten. Bald erfahren Sie wie.
+
+
+Lernziele von Kapitel 2
+
+
+•	Sie können ein Gedankenexperiment zur folgenden Frage beschreiben:
+	Können Quanten in unerreichbarer Ferne "spuken"?
+
+•	Dazu können Sie ein Realexperiment Ihrer Nachbarin oder Ihrem Nachbarn erläutern. 
+
+•	Sie können das Realexperiment interpretieren.
+
+2.1	Ein Gedankenexperiment
+
+Der Zufall spielt in der Quantenphysik eine wichtige Rolle. Das kommt bei einer Messung durch die Unbestimmtheitsbeziehung zum Ausdruck. Wegen dieses Prinzips kann man grundsätzlich den Ausgang einer Messung nicht voraussagen. Mit der folgenden Aufgabe können Sie Ihre Kenntnisse zu diesem Thema auffrischen.
+
+
+Aufgabe 2.1: Experiment mit einem Elektron
+
+Sie möchten gleichzeitig den Ort und den Impuls eines Elektrons messen. Wie wirkt sich die Unbestimmtheitsbeziehung auf die Messung aus?
+
+Albert Einstein wollte von dieser Unbestimmtheit nichts wissen. Er sagte einmal: "Gott würfelt nicht." 
+
+Für Einstein musste man alle messbaren Grössen (wie Ort und Impuls) genau voraussagen können. Nach ihm mussten die Quantenobjekte zusätzliche, verborgene Eigenschaften besitzen, von denen die Physiker bloss (noch) nichts wussten. Diese Eigenschaften mussten für die Messresultate verantwortlich sein. Zusammen mit Boris Podolsky und Nathan Rosen konstruierte er 1935 ein Gedankenexperiment, mit dem er seine Vermutung prüfen wollte. Die drei Physiker stellten rein theoretische Überlegungen an. 
+
+Die Anordnung des Gedankenexperiments ist in der Figur 2.1 skizziert. Im Zentrum befindet sich zuerst ein Objekt Q in Ruhe. Dieses "explodiert" in zwei Teilchen A und B gleicher Masse. Das sind zum Beispiel zwei Elektronen oder zwei Photonen (Lichtteilchen mit der Masse 0).
+
+
+
+	Figur 2.1: Anordnung des Gedankenexperiments nach Einstein, Podolsky und Rosen. Ein ruhendes Objekt Q im Zentrum "explodiert" in zwei Teilchen A und B mit gleicher Masse.
+
+Wie in der klassischen Physik gilt auch in der Quantenphysik die Erhaltung des Gesamtimpulses in einem abgeschlossenen System. Ein solches System bilden hier die Teilchen A und B. Die Impulserhaltung ist dann ersichtlich, wenn man die genauen Impulswerte beider Teilchen misst. Beide zusammen haben denselben Impuls wie das vor der Explosion ruhende Objekt Q. Der Gesamtimpuls  ist gleich null. Beide Teilchen fliegen somit in entgegengesetzter Richtung und mit dem gleichen Geschwindigkeitsbetrag davon. 
+
+Weil A und B die gleiche Masse haben, ist das Experiment um Q genau spiegel-symmetrisch. Es ändert sich nichts, wenn man links und rechts vertauscht. Wenn man also den genauen Ort bei beiden Teilchen misst, findet man sie gleich weit vom Zentrum entfernt.
+
+Infolge der Unbestimmtheitsbeziehung kann man allerdings den Ort und den Impuls eines Teilchens nicht gleichzeitig genau kennen.
+Wenn man den genauen Impuls der Teilchen A und B misst, kommt nur die Impulserhaltung zum Ausdruck. Misst man den genauen Ort, so stellt man nur die Spiegelsymmetrie fest. 
+Beides sind aber grundlegende Erhaltungssätze der Physik. Man kann stets entweder aus einem Impuls auf den anderen Impuls oder aus einem Ort auf den anderen Ort schliessen.
+Man sagt: A und B sind miteinander verschränkt.
+
+Definition:Zwei Teilchen heissen miteinander verschränkt, wenn sie durch grundlegende Erhaltungssätze miteinander verknüpft sind.
+
+2.1.1	Einstein gegen die Quantentheorie
+
+Mit seinem Gedankenexperiment wollte Einstein zwei innere Widersprüche aufdecken.
+
+1
+Aufgabe 2.2: Der erste Widerspruch
+
+Diesen sollen Sie herausfinden. In Gedanken messen Sie den genauen Ort des Teilchens A. Da das Teilchen B gleich weit vom Zentrum (Q) entfernt ist wie A, kennen Sie auch den genauen Ort von B.
+Danach messen Sie den Impuls von B. Dadurch verlieren Sie sogleich die Ortsinformation von B. Doch haben Sie an A keinen Eingriff vollzogen. Beide Teilchen liegen so weit auseinander, dass B auf A keinen Einfluss hat.
+Wir fassen die Vorgänge in Bildern zusammen:
+a) Welche Grössen kennen Sie am Schluss für die Teilchen A und B? 
+b) Was ist an diesem Resultat sinnlos?
+Die Unbestimmtheitsbeziehung scheint auf wackeligen Füssen zu stehen.2Und nun zum zweiten Widerspruch. 
+Die Erfahrung lehrt, dass man ein Signal höchstens mit Lichtgeschwindigkeit übertragen kann. Nun warten wir, bis sich A und B auf astronomische Distanzen entfernt haben. Das Licht braucht womöglich Millionen Jahre, um von B nach A zu gelangen. 
+Misst man den Impuls von B, so steht gleichzeitig der Impuls von A fest: Diesen kann man unverzüglich bei A nachweisen. Die Messung von B wirkt sich also unverzüglich auf die Messung von A aus. Wird etwa ein Signal mit unendlich grosser Geschwindigkeit übermittelt? 
+Für Einstein war eine solche spukhafte Fernwirkung nicht möglich.
+Einstein schloss daraus, dass die Quantenphysik unvollständig ist. Wer konnte etwas gegen seine Argumente einwenden?
+
+
+2.1.2	Die Quantentheorie verteidigt sich
+
+Niels Bohr (dänischer Physiker, 1885 - 1962) war einer der grössten Verfechter der Quantentheorie. Natürlich liess er sich Einsteins Attacke nicht gefallen.
+
+Nach Bohr sind verschränkte Teilchen A und B nicht voneinander unabhängig. Beide Teilchen zusammen verhalten sich so, als wären sie ein einziges Quantenobjekt. 
+
+Eine Messung bei A oder B bedeutet dasselbe wie eine Messung bei A und B. Wird der Impuls von B gemessen, so verliert man die Ortsinformation von B. Gleichzeitig bekommt man dann den Impuls von A und verliert die Ortsinformation von A. Damit ist die Unbestimmtheitsbeziehung gerettet. 
+Die Unbestimmtheitsbeziehung gilt für das Teilchenpaar als Ganzes.
+Zudem tauschen A und B nicht wirklich Signale aus. Beide Teilchen verhalten sich ja wie ein einziges Quantenobjekt. Und die "Signale" enthalten auch nur Resultate von Zufallsereignissen. 
+
+
+
+Aufgabe 2.3: Ein Radiogeschäft in den 40er Jahren
+
+Ein Verkäufer möchte einen neuen Radiosender verkaufen: "Dieses Gerät funktioniert dank verschränkter Teilchen. Das eine Teilchen befindet sich in der Sendestation, das andere im Empfangsgerät. Ist das nicht genial?"
+Was würde sein Kunde erwidern, und wie würde er argumentieren, wenn er
+a) Einstein	b) Bohr hiesse?
+
+Nach unserer alltäglichen Erfahrung sind die Eigenschaften eines Gegenstands direkt mit dem Ort des Gegenstands verbunden (lokales Verhalten). Wenn ein Auto in Zürich nach links abbiegt, merkt man in New York nichts davon. Für Einstein galt dieses lokale Verhalten auch für die Quanten.
+
+Bohr sah die Quanten anders. Nach ihm sind die Eigenschaften eines Quantenobjekts nicht bloss an einem Ort gebunden (nicht-lokales Verhalten). Für unser Gedankenexperiment heisst das: Die Eigenschaften eines Objekts A sind auch bei einem anderen, weit entfernten Objekt B vorhanden. Nach Bohr können die Eigenschaften eines Quantenobjekts an verschiedenen Orten im Raum vorhanden sein.
+
+Wir fassen zusammen:
+
+Nach der Unbestimmtheitsbeziehung kann man nicht gleichzeitig den Ort und den Impuls eines Teilchens genau messen. Das gilt auch, wenn zwei Teilchen gleichzeitig aus einem ruhenden Teilchen hervorgehen (verschränkte Teilchen). Für Einstein führte das zu inneren Widersprüchen der Quantentheorie. Nach Bohr als Verfechter der Quantentheorie verhalten sich verschränkte Teilchen so, als seien sie ein einziges Quantenobjekt. Die Eigenschaften eines Objekts sind dann nicht mehr an einem einzigen Ort gebunden (nicht-lokales Verhalten).
+
+2.2	Und was meint die Natur?
+
+Wer hatte recht, Einstein oder Bohr? Offenbar kann nur ein wirkliches Experiment über diese Frage entscheiden. Ein beeindruckendes Experiment hat J. D. Franson im Jahre 1989 vorgeschlagen. Man hat es 1993 verwirklicht (Chiao 93).
+
+Die Anordnung des Experiments ist aus der Figur 2.2 ersichtlich. In einem speziellen Kristall Q werden paarweise verschränkte Photonen erzeugt. Jedes der beiden Photonen wird jeweils durch eine Anordnung von Spiegeln zu einer Messzelle M geführt. Die beiden Lichtwege sind spiegelsymmetrisch aufgebaut. Das heisst, eine Vertauschung von rechts und links würde die Anordnung nicht verändern. Wie bei einer Strassenumleitung kann auf beiden Seiten ein gewisses Streckenstück entweder direkt (D) oder über einen Umweg (U) durchlaufen werden. Beides ist gleich wahrscheinlich. Die Wahl bleibt jedem einzelnen Photon überlassen. Als Verzweigung dient ein halbdurchlässiger Spiegel S.
+
+
+
+	Figur 2.2: Prinzipskizze des Experiments nach Franson. Von einem speziellen Kristall (Q) aus werden zwei verschränkte Photonen zu den Messzellen (M) geführt und können dank halbdurchlässiger Spiegel (S) entweder den direkten Weg (D) oder den Umweg (U) wählen. Die übrigen Richtungsänderungen erfolgen durch Umlenkspiegel (US). Die Messzellen sind mit einem Koinzidenzzähler (K) verbunden.
+
+Nun haben beide Photonen dieselbe Lichtgeschwindigkeit. Wenn sich beide gleich entscheiden, legen sie dieselbe Wegstrecke zurück. Dann kommen auch beide gleichzeitig bei den Messzellen an (man sagt, es tritt eine Koinzidenz ein). Andernfalls sind die Wegstrecken verschieden: Eines der Photonen kommt vor dem anderen an (keine Koinzidenz). 
+Beide Messzellen sind mit einem Gerät verbunden, das die Ankunftszeiten vergleicht. Dort wird jede Koinzidenz durch eine Zählvorrichtung registriert (Koinzidenzzähler K). Die Anzahl registrierter Koinzidenzen ist also gleich der Anzahl gleichzeitig angekommener Paare.
+
+
+Aufgabe 2.4: Zur Messanordnug nach Franson
+
+Vergleichen Sie die Messanordnung nach Franson (Figur 2.2) mit der Anordnung im Gedankenexperiment von Einstein, Podolsky und Rosen. Halten Sie Ihren Vergleich in Stichworten fest. Welche Gemeinsamkeiten gibt es? Worin unterscheiden sich die beiden Anordnungen (machen Sie dazu eine Tabelle)? 
+Schauen Sie unseren Vorschlag am Ende des Kapitels erst nach, wenn Sie Ihren Vergleich abgeschlossen haben.
+
+
+Aufgabe 2.5: Koinzidenz oder nicht?
+
+Sowohl das linke als auch das rechte Photon eines Paares kann jeweils den Umweg (U) oder den direkten Weg (D) durchlaufen. In welchen Fällen tritt eine Koinzidenz ein? Füllen Sie die folgende Tabelle mit ja und nein aus:
+Koinzidenz?rechts (U):rechts (D):links (U):links (D):
+
+
+Aufgabe 2.6: Was wäre, wenn ...
+
+Wir betrachten zwei einfache Situationen mit der Messanordnung nach Franson. Wir nehmen an, dass 100 Photonenpaare von den Messzellen erfasst werden.
+
+a) Nach Bohr verhält sich jedes Photonenpaar wie ein einziges Quantenobjekt. Geben Sie die erwartete Anzahl Koinzidenzen für diesen Fall an. Begründen Sie Ihre Antwort.
+
+b) Wir ersetzen den Kristall durch zwei voneinander unabhängige Lichtquellen, welche gleichzeitig je ein Photon aussenden. Sonst besteht jetzt zwischen den beiden Photonen kein Zusammenhang. Wie gross ist nun die Anzahl Koinzidenzen für 100 eintreffende Photonenpaare?
+In der Aufgabe 2.6 a) haben Sie sich bereits Gedanken über einen möglichen Ausgang des Experiments nach Franson gemacht.
+
+Aber Vorsicht! Einsteins Idee soll nicht zu demselben Ergebnis führen wie Bohrs Idee! Nach Einstein könnten nämlich die Photonen vor dem Start insgeheim untereinander "abmachen", ob sie den Umweg einschlagen sollen oder nicht. Das wäre ein lokales Verhalten.
+
+Eine derartige Abmachung schliesst man folgendermassen aus. 
+Man verändert im Experiment die Weglänge des linken Umwegs: Die Umlenkspiegel auf der Umwegstrecke werden verschoben (siehe Figur 2.2). 
+Jedes Photon steht vor der Wahl zwischen zwei Wegen. Das ist genau wie beim Doppelspaltexperiment. Ein Quantenobjekt benutzt beide Spalte zugleich, was zu Interferenzen führt. Genauso ist es beim Experiment nach Franson. Ein Photon benutzt den Umweg und den direkten Weg zugleich. Diese Art von Interferenz erzeugt in diesem Fall nicht ein Interferenzbild auf einem Schirm, sondern beeinflusst die Ankunftszeit in der Messzelle. 
+Somit beeinflusst eine Verlängerung des linken Umwegs die Ankunftszeit des linken Photons.
+
+Beim Start darf das rechte Photon jedoch nichts von der Umwegveränderung wissen. Man nimmt sie also erst kurz vor der Ankunft beider Photonen bei den Verzweigungen vor (S auf der Figur 2.2). 
+
+Nach Bohr weiss das rechte Photon jederzeit, was das linke macht (nicht-lokales Verhalten). Falls das linke Photon auf die veränderte Umweglänge reagiert, merkt es das rechte Photon. Beide Photonen können also rechtzeitig reagieren.
+Das Resultat: Bei nicht-lokalem Verhalten schlagen die Photonen ihre Wege "anders" ein als bei lokalem Verhalten.
+
+
+Aufgabe 2.7: Änderung der Umweglänge
+
+Die Umweglänge wird links nur ganz wenig verändert.
+Überlegen Sie sich die folgenden Fragen rein qualitativ. 
+
+a) Wie reagieren die Photonen rechts auf die Umwegverlängerung links, wenn sie sich (1) lokal bzw. (2) nicht-lokal verhalten? Weshalb?
+Ihre Antwort sieht zum Beispiel so aus: Wird die Weglänge des linken Photons verändert, dann kann das rechte Photon ..., weil ...
+
+b) Wenn ein einzelnes Photon zwischen dem Umweg und dem direkten Weg wählen kann, benutzt es beide Wege zugleich. Trotzdem misst man dann nur eine Ankunftszeit. Haben Sie dafür eine Erklärung?
+
+c) Rechts merken Photonen mit nicht-lokalem Verhalten die Änderung der linken Umweglänge. Darauf kann jedes Photon rechtzeitig reagieren, wenn es seine beiden Wege einschlägt. Lässt sich auf diese Weise wieder eine Koinzidenz erreichen? Geben Sie eine Begründung.
+
+d) Wovon hängt die Anzahl Koinzidenzen ab, wenn sich die Photonen (1) lokal bzw. (2) nicht-lokal verhalten?
+Sie können sich jetzt denken, worauf es beim Experiment nach Franson ankommt:
+
+Verschränkte Photonen mit nicht-lokalem Verhalten können eine höhere Anzahl Koinzidenzen erreichen als solche mit lokalem Verhalten.
+
+Diese Aussage lässt sich mit allgemeinen theoretischen Überlegungen beweisen. Auf den umständlichen Beweis verzichten wir.
+
+Das Experiment nach Franson ist zu aufwendig, um an der Schule durchgeführt zu werden. Dafür können Sie es mit dem folgenden einfachen Modell nachahmen. Dadurch vertiefen Sie Ihr Verständnis für dieses Experiment.
+
+
+Modellexperiment 2.1
+
+Die Forschergruppe um R. Y. Chiao hat 1993 in Berkeley das Experiment nach Franson durchgeführt (Chiao 93). Die originalen Messdaten dieses Experiments wurden für die vorliegende Nachahmung in passender Form übernommen1.
+
+a) Fertigen Sie das Modellexperiment mit Hilfe der beiden vorgedruckten Kartonbögen an. Dazu befolgen Sie die Anweisungen auf dem Bogen 2.
+
+b) Verschieben Sie den beweglichen Streifen so, dass links und rechts der Umweg U gleich lang ist (Umwegverlängerung l in der Position 0 nm). In den Messzellen M treffen 100 Photonenpaare ein. Am Koinzidenzzähler K können Sie nun die Anzahl Koinzidenzen N ablesen. Tragen Sie diese Zahl in der vorbereiteten Graphik ein (Anzahl Koinzidenzen als Funktion der links eingestellten Umwegverlängerung l). Lassen Sie sich im Moment von der vorgedruckten Kurve nicht stören.
+
+c) Vergleichen Sie diesen Wert N mit den 100 in M eingetroffenen Photonenpaaren. Können Sie daraus erahnen, dass gewisse Photonen den einen oder den anderen Weg bevorzugen? Aus welchem Grund?
+
+d) Verändern Sie die Umwegverlängerung l. Tragen Sie jedesmal den beobachteten Wert N in die Graphik ein. Nun erkennen Sie für jede Umweglänge, wie oft beide Photonen gleichzeitig zum Ziel kommen. Zeichnen Sie eine möglichst einfache Kurve in groben Zügen entlang der Messpunkte. Die Kurve soll die mittleren Werte von N sichtbar machen. Können Sie sich den Verlauf der Messkurve erklären?
+
+Wie bei den gewöhnlichen Aufgaben finden Sie die Lösung am Schluss des Kapitels.
+Die Graphik vom Teil d) des Experiments 2.1 enthält genügend Information, um Einsteins Hypothese (lokales Verhalten) zu widerlegen. 
+Achten Sie insbesondere auf die gestrichelte Kurve. Sie gibt die maximalen Anzahlen von Koinzidenzen an, die man von Photonen mit lokalem Verhalten erwarten kann. Diese Kurve wurde aus theoretischen Überlegungen ermittelt (auf die wir hier nicht näher eingehen). Der mittlere Bereich dieser Kurve liegt deutlich unterhalb der Messdaten. Also verhalten sich Photonen nicht-lokal. Wir müssen demnach alle lokalen Theorien verwerfen.
+
+Hier ist folgendes zu bemerken. Das Experiment nach Franson zeigt zwar, dass sich Quantenobjekte nicht-lokal verhalten müssen. Das schliesst jedoch nicht-lokale Theorien mit verborgenen Eigenschaften nicht aus. Im obigen Experiment wären das zum Beispiel Abmachungen zwischen verschränkten Photonen lange nach ihrem Start.
+
+Bereits heute macht man sich das nicht-lokale Verhalten von Quantenobjekten zunutze. So haben Forscher ein völlig sicheres Verfahren für die Übertragung geheimer Information gefunden. Die Information wird dank verschränkter Quantenobjekte verschlüsselt (Quantenkryptographie). Interessierte Leser finden mehr dazu auf der folgenden Internetseite: 
+www.nzz.ch/2002/06/26/ft/page-article88JHX.html.
+
+Verschränkte Teilchen sind in der Natur alles andere als selten. Alle Bausteine der Materie, seien es Photonen, Elektronen, oder gar Protonen, wurden in solchen Teilchenpaaren erzeugt. Stellen Sie sich vor, dass die ganze Materie mit solchen Verschränkungen ihren "Spuk" treibt. Sogar der Stuhl, auf dem Sie sitzen!
+
+
+Aufgabe 2.8: Nicht-lokales Verhalten
+
+Diese Aufgabe können Sie auf zwei Arten bewältigen. Entweder diskutieren Sie mit einer Klassenkameradin oder einem Klassenkameraden, der etwa so weit gekommen ist wie Sie, oder Sie arbeiten individuell und legen Ihre Gedanken schriftlich nieder. Diese Aufgabe sollte in beiden Fällen nicht mehr als etwa 5 Minuten beanspruchen.
+
+a) Uns wohlvertraute Objekte wie Ping-Pong-Bälle, Autos oder Planeten zeigen offenbar ein lokales Verhalten. Was könnten Sie möglicherweise beobachten, wenn sich diese Objekte nicht-lokal verhielten?
+
+b) Oft verhalten sich eineiige Zwillingsbabys so, dass sogar ihre eigenen Eltern sie nur mit Mühe unterscheiden können. Halten Sie diese Erscheinung eher für "lokal" oder "nicht-lokal"? Begründen Sie Ihre Meinung.
+
+c) Der letzte Abschnitt hat gezeigt, dass Fernwirkungen zwischen Quanten durchaus nicht auf unserem Experiment beschränkt sind. Sie sind in der ganzen Materie verbreitet. Welche philosophischen Konsequenzen ziehen Sie daraus?
+
+Wir fassen zusammen:
+
+Verschränkte Teilchen sind so miteinander verbunden, als seien sie ein einziges Quantenobjekt. Diese Interpretation wurde mit dem Experiment nach Franson bestätigt. Darin kamen zuweilen zwei Photonen öfter gleichzeitig an, als nach lokalen Theorien zu erwarten war. Damit wurden sämtliche lokalen Theorien verworfen. Quantenobjekte haben ein nicht-lokales Verhalten: Ihre Eigenschaften lassen sich aus grossen Distanzen unverzüglich erkennen und sogar verändern. Allerdings werden auf diese Weise keine wirklichen Signale übertragen. Verschränkte Teilchen sind in der Welt des Kleinen weit verbreitet.
+
+
+Lernkontrolle
+
+
+
+Aufgabe 2.9: Einstein und Bohr
+
+Worin unterschieden sich die Auffassungen von Einstein und Bohr in Bezug auf die Quantenphysik? Geben Sie zwei wesentliche Punkte. Drücken Sie sich so aus, dass es Ihre Freunde verstehen.
+
+
+Aufgabe 2.10: Das Experiment nach Franson
+
+Beschreiben Sie dieses Experiment in etwa drei Sätzen und mit einer Skizze.
+
+
+Aufgabe 2.11: Fernwirkungen
+
+Geben Sie zwei wichtige Unterschiede zwischen der Fernwirkung zweier verschränkter Teilchen und der Satellitenübertragung einer Fernsehsendung an.
+
+Wenn Sie sich sicher fühlen, können Sie sich zum Kapiteltest melden. 
+
+
+
+Lösungen zu den Aufgaben
+
+
+Lösung 2.1: Experiment mit einem Elektron
+
+Nach der Unbestimmtheitsbeziehung kann ich in meinem Experiment nicht gleichzeitig den Ort und den Impuls des Elektrons genau bestimmen. Falls ich beide Grössen gleichzeitig messe, erreichen beide Messwerte nur eine begrenzte Genauigkeit. Das liegt nicht an meiner Gewissenhaftigkeit. Die bestmögliche Genauigkeit wird durch die Unbestimmtheitsbeziehung festgelegt.
+Ich kann den Ort beliebig genau messen. Dann kann ich über den Impuls nichts erfahren. Messe ich den Impuls nachträglich, so verliere ich die genaue Kenntnis des Ortes.
+Umgekehrt kann ich den Impuls genau messen. Diesmal bleibt der Ort völlig unbestimmt.
+
+Wenn Sie mit der Unbestimmtheitsbeziehung jetzt noch Mühe haben, sollten Sie Ihre Unterlagen zu diesem Thema nochmals aufschlagen.
+
+Lösung 2.2: Der erste Widerspruch
+
+Am Anfang kenne ich den genauen Ort von A und B. Sobald ich den genauen Impuls von B messe, verliere ich den Ort von B. Doch kenne ich weiterhin den Ort von A. Jetzt wende ich den Impulssatz an. Aus der Impulsmessung von B kann ich auf den Impuls von A schliessen. Für A habe ich neben dem Ort noch den Impuls hinzugewonnen. 
+
+Bilanz: 
+
+1)	Von B kenne ich nur den Impuls. 
+2)	Von A kenne ich zugleich den Ort und den Impuls. Das ist aber im Widerspruch zur Unbestimmtheitsbeziehung.
+
+Wenn Sie ein anderes Resultat erhalten haben, sollten Sie die Aufgabe 2.1 nochmals bearbeiten und anschliessend den Abschnitt über die Impulserhaltung nochmals durchlesen. Dann versuchen Sie wieder die Aufgabe 2.2.
+
+Lösung 2.3: Ein Radiogeschäft in den 40er Jahren
+
+a)	Einstein: Ein solcher Radiosender wäre höchstens dann möglich, wenn irgendwelche Signale mit Lichtgeschwindigkeit zwischen den verschränkten Teilchen ausgetauscht würden. Ich denke aber nicht, dass eine einfache Messung eine solche Fernwirkung auslösen würde. Ausserdem sehe ich den Vorteil eines solchen Gerätes gegenüber den gewöhnlichen Radiosendern nicht.
+
+b)	Bohr: Es klingt zwar verlockend, "Signale" mit Überlichtgeschwindigkeit zu senden. Doch fände ich es nicht gerade interessant, wenn mein Radiosender nur Zufallszahlen senden könnte. Man kann gewiss nicht wirkliche Radiosendungen schneller als Licht transportieren.
+
+Für die Beantwortung dieser Frage gibt es mehrere mögliche Varianten. Die obige Lösung ist nur ein Vorschlag. Allerdings sollte Ihre Anwort die wesentlichen Punkte enthalten. Andernfalls schauen Sie die betreffenden Abschnitte besser nochmals an.
+
+Lösung 2.4: Zur Messanordnug nach Franson
+
+Das Gedankenexperiment und das Experiment nach Franson haben folgendes gemeinsam:
+
+-	Zwei verschränkte Teilchen gleicher Masse werden erzeugt. Eine Impulsmessung würde wegen der Impulserhaltung für beide Teilchen stets den gleichen Wert ergeben.
+-	Die beiden Teilchen entfernen sich weit voneinander. Sie werden voneinander "isoliert".
+-	Die Anordnung des Versuchs ist spiegelsymmetrisch aufgebaut. Eine Vertauschung von rechts und links würde nichts ändern.
+
+Folgende Unterschiede haben die beiden Anodnungen:
+
+GedankenexperimentExperiment nach Franson:-	Ort und Impuls werden direkt gemessen.-	Die Ankunftszeit wird gemessen.-	Messungen können an beliebigen Orten stattfinden.-	Die Photonen können zwischen dem Umweg und dem direkten Weg wählen.
+Die obigen Angaben sind eine von mehreren möglichen Lösungen. Wenn nötig, lesen Sie die Beschreibung des Gedankenexperiments und des Experiments nach Franson nochmals durch.
+
+Lösung 2.5: Koinzidenz oder nicht?
+
+Koinzidenz?rechts (U):rechts (D):links (U):janeinlinks (D):neinja
+Wenn Sie nicht das gleiche Resultat bekommen haben, lesen Sie den Abschnitt zu den Koinzidenzen nochmals durch. Danach schauen Sie wieder die obige Tabelle an.
+
+Lösung 2.6: Was wäre, wenn ...
+
+a)	Bei allen Photonenpaaren verhalten sich beide Photonen gleich: Beide durchlaufen entweder den Umweg oder den direkten Weg. Deshalb kommen sie stets gleichzeitig an. Es werden 100 Koinzidenzen erwartet.
+
+
+b)	Die Photonen sind bei jedem Paar nicht verschränkt und verhalten sich unabhängig voneinander. Sie schlagen nur mit 50% Wahrscheinlichkeit beide denselben Weg ein. Deshalb werden nur 50 Koinzidenzen erwartet.
+
+Falls Sie andere Zahlen erhalten haben, sollten Sie den Abschnitt 2.2 nochmals von vorne durchlesen.
+
+Lösung 2.7: Änderung der Umweglänge
+
+a)	Wegen der unterschiedlichen Umweglängen kommen die Photonen gewisser Paare nicht gleichzeitig an. Dadurch nimmt die Anzahl Koinzidenzen grundsätzlich ab. Diese Abnahme hängt allerdings davon ab, wie sich beide Photonen zueinander verhalten. 	
+	(1)	Lokales Verhalten: Die Photonen schlagen ihre Wege so ein, wie sie es am Anfang abgemacht haben. Sie können auf eine spätere Veränderung der Umweglänge nicht mehr reagieren.
+	(2)	Nicht-lokales Verhalten: Die Photonen merken den plötzlichen Wegunterschied und können darauf reagieren. Sie können zum Beispiel einen Weg einschlagen, den sie vorher vermeiden wollten.
+	Wenn Sie die Teilaufgabe a) nicht lösen konnten, sollten Sie den Text zwischen den Aufgaben 2.6 und 2.7 nochmals langsam durchlesen.
+
+b)	Trotz der unterschiedlichen Weglängen misst man nur eine Ankunftszeit. Also muss die Startzeit zwei verschiedene Werte haben: Sie ist unbestimmt.
+	Vielleicht erscheint Ihnen diese Situation seltsam. Das ist ganz natürlich. Vermutlich neigen Sie dazu, sich ein Teilchen auf zwei Wegstrecken zugleich vorzustellen. Das ist leider eine Fehlvorstellung. Die beiden Wegstrecken entsprechen nämlich den beiden Spalten beim Doppelspaltexperiment (siehe Kapitel 1).
+
+c)	Dadurch lässt sich in der Tat eine Koinzidenz erreichen. 
+	Jedes Photon schlägt den Umweg und den direkten Weg zugleich ein. Also ist die Startzeit bei beiden Photonen unbestimmt. Auch die Ankunftszeiten sind unvorhersagbar. Die Photonen können aber gleichzeitig in den Messzellen ankommen. Das werden auch einige Photonenpaare tun. Weil die Photonen verschränkt sind. Solche Koinzidenzen spielen in unserem Experiment eine entscheidende Rolle.
+	Wenn Sie hier stecken geblieben sind, beachten Sie die vorangehenden Lösungen. Danach kommen Sie auf die Teilaufgabe c) zurück.
+
+d)	(1)	Lokales Verhalten: Die Anzahl Koinzidenzen hängt nur von der veränderten Weglänge des linken Umwegs ab.
+	(2)	Nicht-lokales Verhalten: Die Photonen merken den plötzlichen Wegunterschied und können darauf reagieren. Sie tun das gemäss Aufgabe c). Diesen Effekt muss man für die Anzahl Koinzidenzen zusätzlich berücksichtigen.
+
+
+Lösung zum Modellexperiment 2.1
+
+b) Am Koinzidenzzähler können Sie nun 93 Koinzidenzen ablesen.
+Falls Sie eine andere Zahl bekommen haben, überprüfen Sie, ob die Umwegverlängerung links 0 nm beträgt.
+
+c) Bei 100 angekommenen Paaren sind 93 Koinzidenzen beobachtet worden. Das sind nahezu 100 %. Wahrscheinlich ist die Anordnung nicht ganz symmetrisch. Eine exakt symmetrische Anordnung hätte vielleicht 100 Koinzidenzen ergeben. Vermutlich schlagen verschränkte Photonen entweder beide den direkten Weg oder beide den Umweg ein.
+
+d) Sie sollten in etwa die ausgezogene Kurve der Figur 2.3 erhalten haben. Die Messwerte von N schwanken zwar. Das ist jedoch nicht aussergewöhnlich. Auch bei einer Volkszählung schwanken die Einwohnerzahlen pro Altersgruppe. Der maximale Wert von N liegt ungefähr bei 0 nm und erreicht sogar bis zu 99 Koinzidenzen. Bei zunehmender Veränderung von l nehmen die Werte von N einigermassen stetig ab. Die Kurve nimmt einen "vernünftigen" Verlauf.
+
+
+
+
+	Figur 2.3: Anzahl Koinzidenzen N als Funktion der Umwegverlängerung l. Die Punkte stellen die Messwerte dar. Die ausgezogene Kurve ist eine Art Mittelung zu den Messpunkten und sollte in etwa mit Ihrer Kurve übereinstimmen.
+
+Fahren Sie nun weiter. Gleich erfahren Sie, was die gestrichelte Kurve bedeutet.
+
+
+Lösung 2.8: Nicht-lokales Verhalten
+
+Diese Aufgabe sollen Sie nach eigenem Ermessen beantworten. Zu a) geben wir nur ein kurzes Beispiel und zu b) einen kurzen Anhaltspunkt an. Damit sehen Sie auch, wie wir uns Ihre Diskussion vorstellen.
+
+a)	Ein Fussgänger möchte aus 100 m Entfernung ein fahrendes Auto anhalten und stampft mit dem Fuss auf den Boden. Die Bewegung überträgt sich ohne Zwischenverbindung (ohne Funk etc.) auf das Bremspedal des Autos. Das sieht schon sehr nach "Spuk" aus.
+
+b)	Beide Babys tragen dieselbe Erbinformation. Prinzipiell zeigen sie ein lokales Verhalten. Körperliche Veränderungen (zum Beispiel kleine Verletzungen) des einen hat auf dem anderen keine Auswirkung. Dagegen ist das "ähnliche Spielverhalten" der beiden nicht einfach zu deuten.
+
+Lösung 2.9: Einstein und Bohr
+
+Für Einstein musste das Ergebnis jeder Messung genau vorhersagbar sein, so wie wir es in der klassischen Physik kennen. Allerdings ist das in der Quantentheorie nicht möglich. Deshalb hielt sie Einstein für eine unvollständige Theorie. 
+Für Bohr war das Ergebnis einer Messung von Natur aus mit Zufall behaftet. Man konnte höchstens Wahrscheinlichkeitsangaben über den Ausgang einer Messung machen.
+
+Nach Einstein waren die Eigenschaften eines Elektrons am Ort des Elektrons gebunden. Das Elektron konnte seine Umgebung nicht sofort beeinflussen. Es konnte im besten Fall ein Signal mit Lichtgeschwindigkeit aussenden.
+Nach Bohr waren die Eigenschaften eines Teilchens nicht an einem Ort gebunden. Wenn zwei Teilchen aus demselben Mutterteilchen hervorgingen, verhielten sie sich zusammen wie ein einziges Objekt. So konnten sie einander über weite Distanzen sofort beeinflussen. Dabei tauschten Sie kein wirkliches Signal aus.
+
+Lösung 2.10: Das Experiment nach Franson
+
+Verschränkte Photonenpaare werden durch eine spiegelsymmetrische Anordnung zu zwei Messzellen M geführt. Jedes Photon kann ein gewisses Streckenstück entweder direkt oder über einen Umweg durchlaufen. Mit einem Koinzidenzzähler wird nachgewiesen, ob die beiden Photonen jeweils gleichzeitig ankommen, d.h. ob sie denselben Weg eingeschlagen haben. (Skizze: siehe Figur 2.2!)
+
+Lösung 2.11: Fernwirkungen
+
+-	Nur bei der Satellitenübertragung werden wirkliche Signale übertragen. Fernwirkungen verschränkter Teilchen enthalten Zufallsergebnisse.
+-	Die Fernwirkung verschränkter Teilchen erfolgt unverzüglich; die Satellitenübertragung erfolgt mit Lichtgeschwindigkeit.
+
+
+
+3	Tot oder lebendig?
+
+
+
+	Übersicht und Lernziele von Kapitel 3	35
+
+	3.1	Vom Messprozess zum Katzendrama	36
+	3.2	Verschiedene Interpretationen	40
+
+	Lernkontrolle	42
+	Lösungen zu den Aufgaben	43
+
+
+
+Übersicht
+
+Messen ist das tägliche Brot des Physikers. In den vorangehenden Kapiteln haben wir eine Messung als etwas Selbstverständliches erachtet. Eigentlich müssten wir etwas vorsichtiger sein. Die Quantenphysik hat auch hier eine Überraschung zu bieten.
+Bekanntlich ist das Resultat einer Messung prinzipiell nicht vorhersagbar. Vielmehr entstehen die Eigenschaften eines Teilchens erst bei der Messung seines Ortes, seines Impulses oder anderer beobachtbarer Grössen. Anders gesagt: Der Beobachter "erschafft" sein eigenes Teilchen. Für den Experimentalphysiker ist das o.k. Aber vom philosophischen Standpunkt her gesehen haben wir ein unerhörtes Problem. Niemand hat bisher eine brauchbare Lösung gefunden. Was macht denn so vielen Physikern Sorge? Anhand eines Katzendramas werden Sie es gleich erfahren.
+
+
+
+Lernziele von Kapitel 3
+
+
+•	Sie können bei Ihrer nächsten Party vom Katzendrama erzählen.
+
+•	Die philosophische Bedeutung des Messprozesses ist Ihnen bewusst. Sie können mögliche Interpretationen Ihrem Philosophielehrer erklären und mit ihm diskutieren.
+
+•	Sie erkennen die Übergänge zwischen Quantenphysik, Philosophie und noch unerforschten physikalischen Theorien.
+
+
+3.1	Vom Messprozess zum Katzendrama
+
+Eine Messung kann man mit einem beliebten Gesellschaftsspiel veranschaulichen. Der Physiker John Wheeler hat es treffend gezeigt. Sie können seine Geschichte in einem Buch aus der Handbibliothek nachlesen. 
+
+
+
+Aufgabe 3.1: Das Spiel der "zwanzig Fragen"
+
+Nehmen Sie das Buch von P.C.W. Davies und J.R. Brown, "Der Geist im Atom", Insel Verlag, Frankfurt a. M. und Leipzig, 1993. 
+Schlagen Sie die Seiten 36-37 auf und lesen Sie die kleingedruckte Geschichte:
+
+"Dann war es an mir ..." bis 
+"... als es kein nachgewiesenes Phänomen ist."
+
+Stellen Sie das Buch erst zurück, wenn Sie die Aufgabe vollständig gelöst haben. 
+
+Falls das Buch nicht verfügbar sein sollte, können Sie eine andere, ähnliche Geschichte nachlesen (siehe Lösungen).
+
+Stellen Sie den Vergleich zwischen dem Spiel und einer Messung in Form einer Tabelle dar. Ein paar Stichworte genügen.
+
+Im Moment scheint am Messprozess nichts Spektakuläres zu sein. Das wird sich gleich ändern.
+
+
+Erwin Schrödinger, ein berühmter Quantenphysiker, hat 1935 das Sonderbare am Messprozess mit einem (leider) makabren Gedankenexperiment veranschaulicht: 
+
+“Eine Katze wird in eine Stahlkammer gesperrt, zusammen mit folgender Höllenmaschine (die man gegen den direkten Zugriff der Katze sichern muss)...” (siehe Figur 3.1 auf der nächsten Seite). Diese Maschine enthält schwere Atome, die von sich aus in leichtere Atome zerfallen können (radioaktive Atome). Der Zeitpunkt eines Zerfalls ist zufällig. Hier haben wir ein typisches Quantenverhalten. Von den radioaktiven Atomen sind “so wenig” vorhanden, “dass im Lauf einer Stunde vielleicht eines von den Atomen zerfällt, ebenso wahrscheinlich aber auch keines.” Sobald ein Atom zerfällt, wird das Ereignis durch ein geeignetes Gerät registriert. Das Gerät überträgt dann das Signal auf “ein Hämmerchen, das ein Kölbchen mit Blausäure zertrümmert [ein tödliches Gift]. Hat man dieses ganze System eine Stunde lang sich selbst überlassen, so wird man sich sagen: Die Katze lebt noch, wenn inzwischen kein Atom zerfallen ist. Der erste Atomzerfall würde sie vergiftet haben.” (Baumann 84, Kapitel 5, Originaltext von Schrödinger)
+
+Zunächst hat der Beobachter noch nicht in die Kammer geschaut. Dann meinen wir, die Katze sei entweder tot oder lebendig. Falsch! 
+
+Das Leben der Katze hängt davon ab, ob ein Atom zerfällt oder nicht. 
+Den Zerfall eines Atoms können wir mit einem Doppelspaltversuch vergleichen. Beim Doppelspalt kann ein Quantenobjekt zwei mögliche Wege durchlaufen (sowohl den ersten als auch den zweiten Spalt). Wir interpretieren das Quantenobjekt als eine Welle. Die Welle wählt nicht den einen oder anderen Weg, sondern eine Überlagerung von beiden.
+Genauso ist es beim radioaktiven Atom. Das Atom kann in zwei verschiedenen Zuständen vorliegen: 
+
+	1) zerfallen	2) nicht zerfallen
+
+Die Zustände 1) und 2) entsprechen den beiden möglichen Wegen beim Doppelspaltversuch. Das radioaktive Atom ist auch eine Welle: hier überlagern sich die Zustände 1) und 2). Also befindet sich auch die Katze in einer Überlagerung von zwei Zuständen:
+
+	1) tot	2) lebendig
+
+Die Katze bildet also mit dem Atom und allen vorhandenen Geräten zusammen ein gewaltiges Quantenobjekt. Dieses tritt als Welle in Erscheinung. 
+Und vor allem: Die Katze ist erst dann tot oder lebendig, wenn der Beobachter hineinschaut.
+
+
+
+	Figur 3.1: Das Gedankenexperiment von Schrödinger (Zeichnung nach (DeWitt 70)). Die eingesperrte Katze befindet sich in einer Überlagerung zweier Zustände, nämlich von Tod und Leben.
+
+?Was hat die Überlagerung einer toten und lebendigen Katze für einen Sinn? In der Kammer ereignen sich doch seltsame Dinge.
+
+Es "spukt" also doch bei den Quanten! 
+
+Und die "Gespenster" sind so gross wie eine Katze!
+
+Aufgabe 3.2: Wir beobachten die Katze
+
+Im obigen Gedankenexperiment wird beschrieben, was sich in der Stahlkammer vor der Beobachtung abspielt.
+
+a) Beschreiben Sie, wie sich der Inhalt der Stahlkammer im Zeitpunkt der Beobachtung verändert.
+
+b) Wir nehmen an, dass ein Mensch anstelle der Katze in der Kammer eingesperrt wird. Dieser kommt nach dem Experiment lebend heraus und teilt dem Versuchsleiter seine Eindrücke während des Versuchs mit. Der Versuchsleiter erläutert ebenfalls den Ablauf des Versuchs aus seiner Sicht. Notieren Sie einen möglichen Dialog in etwa 4 kurzen Sätzen.
+Gemäss Teil b) der Aufgabe 3.2 widersprechen die Aussagen der Versuchsperson denjenigen der Quantentheorie. Und dieser Widerspruch beschränkt sich nicht etwa auf atomare Objekte. Wir finden nirgendwo eine Grenze zwischen dem Quantenobjekt und dem Messgerät. Schritt für Schritt erobert die Quantenwelt immer grössere Objekte, bis hin zum Menschen. Die unverschämten "Gespenster" treten im täglichen Leben auf!
+
+Hinter dem Gedankenexperiment mit der Katze versteckt sich noch ein weiteres Problem. Bei der Beobachtung erfährt nur der Beobachter den Ausgang des Experiments. Für einen anderen Menschen schwebt die Katze noch immer zwischen Leben und Tod. Dieser Umstand wird in der Figur 3.2 veranschaulicht. 
+
+Eine Beobachterin A beobachtet die Katze. Eine Beobachterin B fragt die Beobachterin A, was sie gesehen hat. Sobald A antwortet, vollzieht sich für B zugleich eine Beobachtung an der Stahlkammer und an der Beobachterin A. Für B ist nämlich A ein Teil des Experiments. Wenn sich nun ein dritter Beobachter (C) bei B erkundigt, fängt das ganze Spiel von vorne an. So mag es ohne Ende weitergehen.
+
+	Figur 3.2: Die Beobachterin B vollzieht ihre Beobachtung zugleich an der Stahlkammer und an der Beobachterin A (Zeichnung der Kammer nach (DeWitt 70)).
+
+Nun wissen Sie, welche Schwierigkeiten das Gedankenexperiment von Schrödinger mit sich bringt. Am wichtigsten ist wohl, dass wir mit der Überlagerung einer toten und einer lebendigen Katze wenig anfangen können.
+
+Gewiss machen Sie sich nun Gedanken, wie man das Gedankenexperiment von Schrödinger interpretieren soll. Zu dieser Frage weiss noch heute niemand die Antwort. Hingegen gibt es originelle Ideen. Jeder Interpretation kommt eine gewisse Berechtigung zu.
+
+
+
+Aufgabe 3.3: Zur Interpretation
+
+Diese Aufgabe sollen Sie bei einer günstigen Gelegenheit ausführen.
+
+Sie sollen einige Gedanken zum Thema mit einem interessierten Lehrer austauschen können. Wenden Sie sich wenn möglich an Ihre Philosophielehrerin oder an Ihren Philosophielehrer.
+
+a) Erklären Sie Ihrem Gesprächspartner das Gedankenexperiment in einfachen Worten.
+
+b) Tauschen Sie Ihre Ideen aus und halten Sie schliesslich das Resultat der Diskussion in wenigen Stichworten fest.
+
+Mittlerweile können Sie ruhig weiterlesen.
+
+
+
+3.2	Verschiedene Interpretationen
+
+Es gibt mehrere Vorschläge. Nicht alle Ideen scheinen vernünftig zu sein. Wird man je ein geeignetes Experiment finden können, um irgendeiner dieser Theorien den Vorrang zu geben?
+
+Wir wissen heute noch wenig darüber. Sicher ist nur: Solange sich eine Theorie nicht mit den bewährten Hilfsmitteln der Naturwissenschaften überprüfen lässt, kann man über alles diskutieren. Wir befinden uns auf dem Gebiet der Philosophie. 
+
+In diesem Sinne betrachten wir zum Abschluss drei mögliche Interpretationen des Gedankenexperiments von Schrödinger. Wir gehen aus von drei verschiedenen philosophischen Standpunkten:
+
+1.	Der methodische Positivismus
+
+Wir können nur das wissen, was wir beobachten. Es hat keinen Sinn, über eine unabhängige Wirklichkeit zu sprechen. Über unbekannte Dinge muss man schweigen. Eine Beobachtung hängt zwar von der Sinneswahrnehmung des Beobachters ab, ist aber für jeden Beobachter dieselbe. In unserem Gedankenexperiment sind sich alle Beobachter und sogar die Katze über das Resultat des Experiments einig. Es interessiert niemanden, wie die Situation vor einer Beobachtung aussah.
+
+2.	Das Bewusstsein organisiert die Materie
+
+Experiment und Beobachter sind untrennbar. Im Moment einer Messung wird das Resultat dem Beobachter bewusst. Die schlagartige Änderung des Bewusstseinszustands bewirkt sogleich eine Änderung im Experiment. Das Bewusstsein des Beobachters beeinflusst das Quantenobjekt. Die ganze Welt wird somit vom Bewusstsein geprägt. (Ausserdem kann der Mensch seinen Willen auf diese Weise in Tat umsetzen.)
+Vielleicht lässt sich die Welt zusätzlich von einer "äusseren Wirklichkeit" (also unabhängig von uns) beeinflussen. Diese Wirklichkeit ist dann aber von geistiger Natur (z.B. Gott).
+Im Falle unseres Katzenexperiments greift das Bewusstsein des Beobachters ins Leben der Katze ein.
+Von einigen Physikern wird der obige Gedanke noch weitergesponnen: In jedem Experiment gibt es eine ganze Kette von Messvorrichtungen. Jede Vorrichtung beobachtet die vorherige. Den Anfang der Kette bildet ein Quantenobjekt, das sich in einer Überlagerung von Zuständen befindet. In unserem Katzenexperiment ist das ein radioaktives Atom. Darauf folgt eine Reihe von Einrichtungen, darunter ein Messgerät für den Atomzerfall, ein Hämmerchen und ein Kölbchen mit Gift. Am Schluss der Kette muss sich ein Mensch mit seinem Bewusstsein befinden, damit die Überlagerung von Zuständen wieder verschwinden kann. Auch die modernste Videokamera mit Auto-Fokus und Zoom kann den Menschen nicht ersetzen. Aber vielleicht genügt schon die Katze dazwischen, oder gar eine Bakterie auf dem Boden? Wo fängt das Bewusstsein an? 
+
+
+
+3.	Die Mehrfachwelten
+
+In unserem Gedankenexperiment lebt die Katze in einer geschlossenen Kammer. Es ist deshalb einfach, eine Beobachtung von aussen durchzuführen. Anders sieht es aus, wenn das Katzenexperiment nicht in einer geschlossenen Kammer stattfindet. Dann wird unter Umständen das ganze Universum vom "Spuk" erfasst und verwandelt sich in eine Überlagerung von Zuständen. Wer soll dann die Aufgabe des äusseren Beobachters übernehmen? 
+Einige Physiker wollen dem Problem folgendermassen ausweichen. Bei einem Messprozess wird eine Überlagerung zweier Zustände nicht in einen einzigen Endzustand verwandelt (z.B. tote oder lebendige Katze). Vielmehr gibt es nach der Messung zwei neue Welten, die eine mit der toten und die andere mit der lebendigen Katze. Natürlich wissen die Welten nichts voneinander. Da bei uns viel gemessen wird, können Sie sich gut vorstellen, wieviele Welten neben der unseren existieren könnten. Wieviele Kopien von Ihnen mögen wohl jetzt in den anderen Welten leben?
+
+
+Gegenwärtig werden Katzenexperimente durchgeführt. Doch keine Angst! Anstelle von Katzen nimmt man grosse Atome. Es ist durchaus denkbar, dass die Messergebnisse eines Tages neue Hinweise zu den obigen Interpretationen geben.
+
+Es gäbe noch einiges über die möglichen Interpretationen zu berichten. Doch müssen wir nun einmal zu einem Ende kommen. 
+
+
+Für dieses Kapitel sollen nun Sie Ihre eigene Zusammenfassung schreiben. Blättern Sie zuerst zurück. Schauen Sie sich nochmals die Lernziele an. Schreiben Sie zu jedem Ziel in wenigen Zeilen auf, was Sie gelernt haben. Wahrscheinlich müssen Sie einige wichtigen Stellen des Kapitels nochmals anschauen. Für die Zusammenfassung sollten Sie mit 10 bis 15 Zeilen auskommen.
+
+
+
+Sie fassen zusammen:
+
+
+
+
+
+Lernkontrolle
+
+
+
+Aufgabe 3.4: Zum Gedankenexperiment von Schrödinger
+
+Gemäss der Quantentheorie widerspricht der Zustand der Katze vor einer Beobachtung unseren Alltagsvorstellungen.
+Erklären Sie in etwa 3 bis 4 Sätzen, weshalb dem so ist.
+
+
+Aufgabe 3.5: Eine Interpretation des Katzenexperiments
+
+Betrachten Sie eine der drei oben beschriebenen Interpretationen. Vielleicht wählen Sie diejenige, die Ihnen am besten gefällt.
+
+a) Beschreiben Sie diese Interpretation in etwa zwei kurzen Sätzen. Ihre Beschreibung soll sich an Ihre kleine Schwester oder Ihren kleinen Bruder wenden.
+
+b) Erklären Sie in etwa zwei weiteren Sätzen, weshalb diese Sichtweise das Sonderbare am Katzenexperiment klären könnte.
+
+Wenn Sie sich sicher fühlen, können Sie sich zum Kapiteltest melden. 
+
+
+
+Lösungen zu den Aufgaben
+
+
+Lösung 3.1: Das Spiel der "zwanzig Fragen"
+
+Der Vergleich ist im Buch von Davies und Brown ausführlich angegeben. Für Ihre Tabelle können Sie sich danach richten.
+
+Falls das Buch von Davies und Brown nicht verfügbar ist, können Sie stattdessen die folgende Geschichte lesen. Auch in diesem Fall erstellen Sie eine Vergleichstabelle.
+
+Ein Dutzend Teilnehmer sitzen um einen Tisch mit einem Zeichenblatt in der Mitte. Nun ist Anna an der Reihe. Sie muss einen Gegenstand zeichnen und zugleich erraten. Langsam führt sie ihren Stift. Nacheinander gibt jeder einen Kommentar, und zwar entweder "Ja, nur so weiter!" oder "Stop, in eine andere Richtung!" Allmählich entsteht das Bild. Plötzlich kann sie es erkennen: "Eine Ente!" Doch hatten sich die anderen am Anfang gar keinen Gegenstand ausgedacht! Sobald jemand seinen Kommentar gab, musste er irgendein Objekt im Kopf haben. Sein Objekt musste nur mit der angefangenen Zeichnung übereinstimmen.
+Welche Bedeutung hat diese Geschichte für die Quantenphysik? 
+Wir stellen uns oft vor, wir seien von vielen Teilchen umgeben, wie Elektronen, Protonen oder Atome, die ohne Beobachtung vor sich hin leben. Früher glaubten wir sogar, die Teilchen hätten jederzeit einen bestimmten Ort und einen bestimmten Impuls. Doch entsteht ein Teilchen erst während einer Messung. Genauso ist das Bild der Ente schrittweise entstanden. Hätte Anna den Stift an einer bestimmten Stelle abgehoben und an einem anderen Ort wieder angesetzt, so wäre das Ergebnis gewiss anders herausgekommen. Vielleicht wäre dann ein Hase entstanden. So ist es auch in der Quantenphysik. Das Ergebnis einer Messung hängt wesentlich von der Art der Messung ab. Allerdings hängt das Resultat ebenso sehr vom gemessenen Objekt ab. Auch in unserem Spiel haben die Mitspieler mit ihren Kommentaren Annas Hand geführt. So entsteht ein unvorhersehbares Resultat. Der Vergleich zwischen dem Spiel und der Quantenphysik hat zwar gewisse Schwächen. Aber er zeigt den Kern der Sache.
+
+Lösung 3.2: Wir beobachten die Katze
+
+a) Vor der Beobachtung überlagern sich in der Kammer zwei Zustände in Form einer Welle.
+Der eine Zustand enthält ein Atom vor dem Zerfall, ein unversehrtes Giftkölbchen und eine lebende Katze. Der andere Zustand enthält ein zerfallenes Atom, ein zerschlagenes Giftkölbchen und eine tote Katze.
+Im Zeitpunkt der Beobachtung verschwindet plötzlich einer der beiden Zustände. Aus der geisterhaften Welle mit einer toten und einer lebenden Katze wird plötzlich entweder eine ganze lebende Katze, oder aber eine endgültig tote Katze.
+
+Wenn Sie mit der Aufgabe a) jetzt noch Mühe haben, sollten Sie das Gedankenexperiment von Schrödinger noch einmal durchlesen. Danach schauen Sie sich die obige Lösung erneut an.
+
+b) Sie können Ihren Dialog prinzipiell frei gestalten. Wir stellen uns dabei vor, dass Sie die folgenden Punkte erwähnen:
+
+-	Die eingesperrte Versuchsperson hat zwar um ihr Leben Angst gehabt, doch fühlte sie sich während der ganzen Zeit wohlauf.
+-	Vor seiner Beobachtung wusste der Versuchsleiter nichts über das Befinden der Versuchsperson. Für ihn gab es eine wellenartige Überlagerung eines toten und eines lebenden Menschen.
+-	Erst nach der Beobachtung stimmten die Eindrücke des Versuchsleiters mit denjenigen der Versuchsperson überein.
+
+Lösung 3.4: Zum Gedankenexperiment von Schrödinger
+
+Nach unseren Alltagsvorstellungen ist das radioaktive Atom in der Stahlkammer entweder zerfallen oder nicht zerfallen. Deshalb müsste die Katze vor einer Beobachtung entweder schon ganz tot oder noch ganz wohlauf sein. Das widerspricht der Aussage der Quantentheorie. Nach dieser Theorie befindet sich die Katze am Ende des Versuchs weder im toten, noch im lebendigen Zustand. Sie befindet sich in einer Überlagerung der beiden Zustände. Weil sich auch das Atom in einer Überlagerung zweier Zustände befindet. Diesen Widerspruch gibt es so lange, bis ein Beobachter in die Kammer schaut.
+
+Lösung 3.5: Eine Interpretation des Katzenexperiments
+
+In dieser Aufgabe müssen Sie eine der drei vorgeschlagenen Interpretationen betrachten.
+Wir geben hier kurze Anhaltspunkte für zwei der drei Interpretationen.
+
+Erstes Beispiel: Das Bewusstsein organisiert die Materie.
+a) Gewisse kleinste Objekte lassen sich nur beobachten, wenn jemand hinschaut. Das Aussehen des Objekts wird vom Bewusstsein des Beobachters beeinflusst.
+b) Durch das Bewusstsein verschwindet eine Überlagerung von Zuständen (Beobachtungs-prozess). Die Überlagerung von Zuständen können wir gar nicht wahrnehmen.
+
+Zweites Beispiel: Die Mehrfachwelten.
+a) Gewisse kleinste Objekte können verschiedene Erscheinungsformen annehmen, wenn man Sie beobachtet. Jede dieser Erscheinungsformen lebt für sich in einer eigenen Welt weiter: Es bilden sich mehrere, leicht verschiedene Welten.
+b) In jeder neu entstandenen Welt sieht man nur eine von mehreren Erscheinungsformen. Von den anderen Welten mit den anderen Erscheinungsformen weiss man nichts.
+
+
+
+Anhang 1: Tests und Lösungen
+
+Test für Kapitel 1
+
+
+Test-Aufgabe 1.1: Experiment mit Neutronen
+
+Im Kapitel 1 haben Sie ein Interferenzexperiment mit Neutronen kennengelernt. Beschreiben Sie es in etwa 3 Sätzen.
+
+Test-Aufgabe 1.2: Wasserinterferenzen einmal anders
+
+Wassermoleküle (H2O) haben eine Masse von 3.0?10-26 kg. Man möchte sie an einem Lichtgitter mit dem Gitterabstand 100 nm (mit UV-Licht) beugen. Um ein schönes Interferenzbild zu ergeben, soll der Gitterabstand rund 10000 mal die Wellenlänge eines Moleküls sein. 
+Welche Geschwindigkeit müssen die Moleküle haben? (h = 6.6?10-34 J?s) 
+
+Test-Aufgabe 1.3: Natrium-Atome
+
+Natrium-Atome werden von den Physikern meistens als "Teilchen" betrachtet.
+
+a)	Stimmt diese Betrachtungsweise auch beim Interferenzexperiment mit Natrium-Atomen? Begründen Sie Ihre Antwort.
+
+b)	Im Interferenzexperiment wurden zwei Intensitätsmaxima beobachtet. Was lässt sich über den erwarteten Ankunftsort eines einzelnen Atoms vorhersagen?
+
+Test-Aufgabe 1.4: Interferenzen mit “Luft”
+
+Die Stickstoffmoleküle (N2) der Luft haben eine Masse von 4.7?10-26 kg. Man möchte sie an einem Lichtgitter mit dem Gitterabstand 260 nm (mit grünem Licht) beugen. Um ein schönes Interferenzbild zu ergeben, soll der Gitterabstand rund 10000 mal die Wellenlänge eines Moleküls sein. 
+Welche Geschwindigkeit müssen die Moleküle haben? (h = 6.6?10-34 J?s) 
+
+
+
+Lösungen zum Test für Kapitel 1
+
+
+Test-Aufgabe 1.1: Experiment mit Neutronen
+
+Die Neutronen werden an einem Doppelspalt aus absorbierenden Materialien (spezielles Glas und Bor) gebeugt. Nach erfolgter Beugung bilden die Neutronen ein Interferenzbild mit zahlreichen Maxima und Minima (Nachweis mit einem Neutronen-Detektor). Sowohl die Verstärkungs- als auch die Auslöschungseffekte verschwinden, wenn man einen Spalt zudeckt.	(K2)
+
+Test-Aufgabe 1.2: Wasserinterferenzen einmal anders
+
+Die Moleküle müssen die Wellenlänge ? = 10-11 m haben. Aus der Beziehung von de Broglie bekommt man für die Geschwindigkeit v:
+
+		(K3)
+
+Test-Aufgabe 1.3: Natrium-Atome
+
+a) Die "Teilchenbetrachtung" ist bei Interferenzerscheinungen nicht zutreffend. Die Atome breiten sich trotz ihrer Masse wie Wellen aus. Erst im Detektor tritt das Teilchenverhalten in Erscheinung.	(K2)
+
+b) An den Orten der Intensitätsmaxima trifft ein einzelnes Atom je nur mit einer bestimmten Wahrscheinlichkeit ein. Die grösste Wahrscheinlichkeit wird beim grössten Maximum erreicht.	(K4)
+
+Test-Aufgabe 1.4: Interferenzen mit “Luft”
+
+Die Stickstoffmoleküle müssen die Wellenlänge ? = 2.6?10-11 m haben. Aus der Beziehung von de Broglie bekommt man für die Geschwindigkeit v:
+
+
+
+		(K3)
+
+
+
+Test für Kapitel 2
+
+
+Test-Aufgabe 2.1: Einstein gegen die Quantentheorie
+
+Mit ihrem Gedankenexperiment wollten Einstein, Podolsky und Rosen die Schwachstellen der Quantentheorie aufdecken. Welche beiden Hauptargumente brachten sie vor? Schreiben Sie dazu höchstens 3-4 Sätze auf.
+
+Test-Aufgabe 2.2: Das Experiment nach Franson
+
+a)	Welche wichtige Eigenschaft der Quantenobjekte wurde mit diesem Experiment nachgewiesen? (Es muss ein Experiment dieser Art für den Nachweis erforderlich sein.)
+
+b)	Weshalb muss jede Hypothese verworfen werden, die dieser Eigenschaft widerspricht?
+
+Test-Aufgabe 2.3: Ein Raubüberfall
+
+Zwei Zwillingsräuber, Toni und Robi, erbeuten eine Million Dollar in einer Bank. Alsbald machen sich die beiden in entgegengesetzten Richtungen davon, jeder mit seinem Auto und einem Sack voll Geld. Die Polizei wird sofort alarmiert, doch niemand weiss, wieviel Geld jeder Räuber bei sich hat. Dazu muss die Polizei z.B. Tonis Wagen stoppen. Dann weiss sie, wieviel Geld bei Toni zu finden ist. Zugleich weiss sie, wieviel Geld bei Robi zu finden ist. Diese Situation ist ähnlich wie beim Gedankenexperiment von Einstein, Podolsky und Rosen. Die beiden Geldsummen ergeben nämlich zusammen einen festen Gesamtbetrag.
+Geben Sie den wichtigsten Unterschied an zwischen dieser Geschichte und dem Gedankenexperiment von Einstein, Podolsky und Rosen. Es geht vor allem darum, was mit dem Geld geschieht. Die genaue Aufteilung der Geldsumme soll als nebensächlich gelten.
+
+Test-Aufgabe 2.4: Zum Gedankenexperiment
+
+Beschreiben Sie in etwa zwei Sätzen die Bedingungen, welche das Teilchenpaar im Gedankenexperiment von Einstein, Podolsky und Rosen erfüllen muss. Ihre Beschreibung muss für Ihre Tante oder Ihren Onkel verständlich sein.
+
+
+
+Lösungen zum Test für Kapitel 2
+
+
+Test-Aufgabe 2.1: Einstein gegen die Quantentheorie
+
+1)	Im Gedankenexperiment sollten verschränkte Teilchen so voneinander isoliert werden, dass das eine Teilchen nicht infolge einer Messung das andere beeinflussen konnte. Wegen der Verschränkung gerät ein solches System in Widerspruch mit der Unbestimmtheitsbeziehung.
+
+2)	Bei jeder Messung beeinflusste das eine Teilchen unverzüglich (d.h. mit unendlicher Geschwindigkeit) das andere Teilchen. Dabei ist die Lichtgeschwindigkeit die höchst mögliche Übertragungsgeschwindigkeit.	(K2)
+
+Test-Aufgabe 2.2: Das Experiment nach Franson
+
+a)	Quantenobjekte verhalten sich nicht-lokal. 	(K1)
+
+b)	Im Experiment gab es zuweilen mehr Koinzidenzen, als nach lokalen Theorien zu erwarten war. Damit wurden sämtliche lokalen Theorien verworfen. 	(K2)
+
+Test-Aufgabe 2.3: Ein Raubüberfall
+
+Bei dieser Räubergeschichte hat jeder Räuber seinen Geldanteil bei sich, lange bevor er von der Polizei gestoppt werden kann. Die Anteile sind auch dann festgelegt, wenn niemand nachzählt (verborgene Eigenschaft). Toni und Robi haben sich das Geld geteilt, bevor sie sich getrennt haben (lokales Verhalten). Nicht so beim Gedankenexperiment von Einstein, Podolsky und Rosen. Dort steht das Ergebnis für beide Teilchen erst bei einer Messung fest (nicht-lokales Verhalten). Das Ergebnis ist unvorhersagbar (keine verborgene Eigenschaft).	(K4)
+
+Test-Aufgabe 2.4: Zum Gedankenexperiment
+
+Für beide Teilchen nehmen wir gleiche Massen an. Sooft man ihre Geschwindigkeiten misst, sind diese entgegengesetzt gerichtet und von gleichem Betrag. Sooft man ihre Aufenthaltsorte misst, sind diese gleich weit vom Entstehungsort entfernt und befinden sich auf entgegengesetzten Seiten (von ihm aus gesehen).	(K2)
+
+
+
+Test für Kapitel 3
+
+
+Test-Aufgabe 3.1: Das Gedankenexperiment von Schrödinger
+
+Beschreiben Sie in ca. 3 Sätzen (mit Begründung), in welchem Zustand sich die Katze kurz vor einer Beobachtung befindet.
+
+Test-Aufgabe 3.2: Interpretationen
+
+Betrachten Sie zwei mögliche Interpretationen des Gedankenexperiments von Schrödinger, welche im Kapitel 3 vorgeschlagen worden sind. 
+a) Fassen Sie beide je in 1-2 Sätzen zusammen.
+b) Erscheint Ihnen die eine oder die andere der beiden Interpretationen glaubwürdig oder unglaubwürdig? Geben Sie dazu je ein Argument an.
+
+
+
+Lösungen zum Test für Kapitel 3
+
+
+Test-Aufgabe 3.1: Das Gedankenexperiment von Schrödinger
+
+Kurz vor einer Beobachtung befindet sich die Katze weder im toten, noch im lebendigen Zustand. Sie befindet sich in einer Überlagerung der beiden Zustände. Der Gesundheitszustand der Katze hängt nämlich vom Zustand eines radioaktiven Atoms ab und bildet mit diesem und den übrigen Geräten zusammen ein gewaltiges Quantenobjekt.	(K2)
+
+Test-Aufgabe 3.2: Interpretationen
+
+In dieser Aufgabe müssen zwei der drei in Kapitel 3 vorgeschlagenen Interpretationen beurteilt werden.	
+a) Zwei Beispiele:
+Erstes Beispiel: Das Bewusstsein organisiert die Materie.
+Das Resultat einer Messung an einem Quantenobjekt wird vom Bewusstsein des Beobachters geprägt. Erst durch das Bewusstsein kann eine Überlagerung von Zuständen verschwinden.
+Zweites Beispiel: Die Mehrfachwelten.
+Nach jeder Messung gibt es so viele neue Welten, wie sich vorher Zustände überlagert haben: In jeder Welt entwickelt sich eines der Zustände weiter. Damit können sehr viele Welten neben der unseren existieren.	(K2)
+b) Diese Teilaufgabe kann weder richtig noch falsch beantwortet werden. Die Schülerin gibt ihrem Urteil freien Lauf. Es soll aber auf eine folgerichtige Argumentation geachtet werden.		(K6)
+
+
+
+
+Test für das gesamte Leitprogramm
+
+
+Test-Aufgabe 1: Wasserinterferenzen einmal anders
+
+Wassermoleküle (H2O) haben eine Masse von 3.0?10-26 kg. Man möchte sie an einem Lichtgitter mit dem Gitterabstand 100 nm (mit UV-Licht) beugen. Um ein schönes Interferenzbild zu ergeben, soll der Gitterabstand rund 10000 mal die Wellenlänge eines Moleküls sein. 
+Welche Geschwindigkeit müssen die Moleküle haben? (h = 6.6?10-34 J?s) 
+
+Test-Aufgabe 2: Das Experiment nach Franson
+
+a)	Welche wichtige Eigenschaft der Quantenobjekte wurde mit diesem Experiment nachgewiesen?
+
+b)	Weshalb muss jede Hypothese verworfen werden, die dieser Eigenschaft widerspricht?
+
+Test-Aufgabe 3: Interpretationen
+
+Betrachten Sie zwei mögliche Interpretationen des Gedankenexperiments von Schrödinger, welche im Kapitel 3 vorgeschlagen worden sind. 
+a) Fassen Sie beide je in 1-2 Sätzen zusammen.
+b) Erscheint Ihnen die eine oder die andere der beiden Interpretationen glaubwürdig oder unglaubwürdig? Geben Sie dazu je ein Argument an.
+
+
+
+Lösungen zum Test für das gesamte Leitprogramm
+
+
+Test-Aufgabe 1: Wasserinterferenzen einmal anders
+
+Die Moleküle müssen die Wellenlänge ? = 10-11 m haben. Aus der Beziehung von de Broglie bekommt man für die Geschwindigkeit v:
+
+		(K3)
+
+Test-Aufgabe 2: Das Experiment nach Franson
+
+a)	Quantenobjekte verhalten sich nicht-lokal. 	(K1)
+
+b)	Im Experiment gab es zuweilen mehr Koinzidenzen, als nach lokalen Theorien zu erwarten war. Damit wurden sämtliche lokalen Theorien verworfen. 	(K2)
+
+Test-Aufgabe 3: Interpretationen
+
+In dieser Aufgabe müssen zwei der drei in Kapitel 3 vorgeschlagenen Interpretationen beurteilt werden.	
+a) Zwei Beispiele:
+Erstes Beispiel: Das Bewusstsein organisiert die Materie.
+Das Resultat einer Messung an einem Quantenobjekt wird vom Bewusstsein des Beobachters geprägt. Erst durch das Bewusstsein kann eine Überlagerung von Zuständen verschwinden.
+Zweites Beispiel: Die Mehrfachwelten.
+Nach jeder Messung gibt es so viele neue Welten, wie sich vorher Zustände überlagert haben: In jeder Welt entwickelt sich eines der Zustände weiter. Damit können sehr viele Welten neben der unseren existieren.	(K2)
+b) Diese Teilaufgabe kann weder richtig noch falsch beantwortet werden. Die Schülerin gibt ihrem Urteil freien Lauf. Es soll aber auf eine folgerichtige Argumentation geachtet werden.		(K6)
+
+
+
+Anhang 2: Bibliothek für die Schüler
+
+
+(Audretsch 90)	Audretsch, J. und Mainzer, K. (Eds.): Wieviele Leben hat Schrödingers Katze? Mannheim usw. 1990 (BI Wissenschaftsverlag). Verwendung in Kapitel 1 (Kopien).
+
+(Davies 93)	Davies, P. C. W. und Brown, J. R.: Der Geist im Atom. Frankfurt a. M. und Leipzig 1993 (Insel). Verwendung in Kapitel 3.
+
+
+
+
+
+Anhang 3: 	Experimentiermaterial und 
+	Computer-Simulationen
+
+Computer-Simulationen zum Kapitel 1:
+
+
+Benötigtes Material:
+
+Für die Simulationen 1.1 und 1.2 wird ein Computer mit einem Internet-Anschluss und der üblichen Software (z.B. NetScape) benötigt. Beide Simulationen können von der folgenden Internet-Seite aus gefunden werden (zur freien Verfügung):
+
+	didaktik.physik.uni-wuerzburg.de/~pkrahmer/home/java3.html
+
+Diese Seite enthält eine Liste von Simulationstiteln. Unsere Simulationen sind gegen den Schluss des Abschnitts "Atom- Kernphysik" zu finden. Es müssen die folgenden Zeilen gewählt werden:
+
+Simulation
+Zeile zum AnklickenThemaSimulation 1.1Two Slits 2 
+mit Doppelspalt InterferenzInterferenzen am DoppelspaltSimulation 1.2Two Slits 3 
+mit Photoneninterferenz - statistischInterferenzen mit Elektronen
+Diese Simulationen sind einfach zu verwenden und selbsterklärend. Sie können online gestartet werden.
+Die Kommentare sind auf Englisch.
+
+
+
+Modellexperiment 2.1: Experiment nach Franson
+
+
+Benötigtes Material:
+
+-	2 vorgedruckte, dünne Kartonbögen und 1 Graphik pro Person
+
+-	Scheren
+
+
+Graphik:
+
+
+
+
+
+
+Hier zurückfalten!
+
+
+
+Anhang 4: Von den Autoren benutzte Quellen:
+
+
+Als Grundlage benutzte Quellen:
+
+(Audretsch 90)	Audretsch, J. und Mainzer, K. (Eds.): Wieviele Leben hat Schrödingers Katze? Mannheim usw. 1990 (BI Wissenschaftsverlag).
+
+(Baumann 84)	Baumann, K. und Sexl, U. R.: Die Deutungen der Quantentheorie. Braunschweig 1984 (Vieweg).
+
+(Baumann 95)	Baumann, F., Baumgartner, W., Dreyer, H. P., Dünki, R., Ehrismann, P., Heeb, R., Kaufmann, A., Kocheisen, M.: Kann man Atome sehen? (Leitprogramm zur Quantenphysik). Zürich 1995 (ETH).
+
+(Chiao 93)	Chiao, R. Y., u.a.: Schneller als Licht? In: Spektrum der Wissenschaft. 10 (1993) 40-49.
+
+(Davies 93)	Davies, P. C. W. und Brown, J. R.: Der Geist im Atom. Frankfurt a. M. und Leipzig 1993 (Insel).
+
+(DMK/DPK 84)	Formeln und Tafeln Mathematik - Physik, DMK / DPK. Zürich 1984 (Orell Füssli).
+
+(Kuhn 92)	Kuhn, W.: Physik, Band 2, 12/13. Braunschweig 1992 (Westermann).
+
+(Mandl 88)	Mandl, F., Shaw, G.: Quantum Field Theory. Chichester 1988 (Wiley and Sons).
+
+(Schlögl 99)	Schlögl, F.: Aspekte zu den "spukhaften Quanten-Korrelationen". In: Praxis der Naturwissenschaften / Physik. 8 (1999) 2-11.
+
+
+Zitierte Quellen:
+
+(Audretsch 90)	Audretsch, J. und Mainzer, K. (Eds.): Wieviele Leben hat Schrödingers Katze? Mannheim usw. 1990 (BI Wissenschaftsverlag).
+
+(Baumann 84)	Baumann, K. und Sexl, U. R.: Die Deutungen der Quantentheorie. Braunschweig 1984 (Vieweg).
+
+(DeWitt 70)	DeWitt, S. B.: Quantum mechanics and reality. In: Physics today 23 (1970) 9.
+
+
+
+Anhang 5: Hinweise für die Lehrperson
+
+
+Das vorliegende Leitprogramm kann entweder als kurzes, eigenständiges Leitprogramm (Version 1) oder als Additum (Version 2) zu einem bestehenden Leitprogramm über Quantenphysik verwendet werden. 
+
+Das Leitprogramm wurde in drei völlig getrennten Kapiteln gestaltet. 
+Kapitel 1 und 2 können als Fundamentum der Version 1 verwendet werden.
+Kapitel 3 kann in der Version 1 als Additum eingesetzt werden. Dabei kann für das Kapitel 3 auf einen Kapiteltest verzichtet werden.
+
+In der Version 2 können alle drei Kapitel oder auch nur die ersten beiden verwendet werden. Auch hier ist ein Kapiteltest für das Kapitel 3 nicht unbedingt erforderlich.
+Im Test für das gesamte Leitprogramm ist je eine Aufgabe aus jedem Kapiteltest ausgewählt worden.
+
+Im Rahmen von Erprobungen dienen verschiedenartige Rückmeldungen der laufenden Überarbeitung des Textes. Anonyme Umfragen geben insbesondere Aufschluss über die formale Qualität des Leitprogramms. Erhebungen werden jederzeit dankbar entgegen-genommen. Dabei kann zum Beispiel der folgende Umfragebogen verwendet werden.
+
+1 Einzig die Gesamtzahl eingetroffener Photonenpaare und die Wellenlänge des Lichts wurden nachträglich von den Autoren dieses Leitprogramms geschätzt.
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+Es spukt also doch bei den Quanten ...	2
+
+
+
+
+

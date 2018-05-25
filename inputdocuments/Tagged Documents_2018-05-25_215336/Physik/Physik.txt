@@ -1,0 +1,12276 @@
+Formelsammlung Physik
+http://www.fersch.de
+
+©Klemens Fersch
+31. März 2018
+
+Inhaltsverzeichnis
+1 Mechanik
+1.1 Grundlagen Mechanik . . . . . . . . . . . . . . . . . . . . .
+1.1.1 Gewichtskraft . . . . . . . . . . . . . . . . . . . . . .
+1.1.2 Kräfte . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.3 Dichte . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.4 Wichte . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.5 Reibung . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.6 Schiefe Ebene . . . . . . . . . . . . . . . . . . . . . .
+1.1.7 Hookesches Gesetz . . . . . . . . . . . . . . . . . . .
+1.1.8 Drehmoment . . . . . . . . . . . . . . . . . . . . . .
+1.1.9 Hebelgesetz . . . . . . . . . . . . . . . . . . . . . . .
+1.1.10 Druck . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.11 Auftrieb in Flüssigkeiten . . . . . . . . . . . . . . . .
+1.1.12 Schweredruck . . . . . . . . . . . . . . . . . . . . . .
+1.2 Kinematik . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.2.1 Geradlinige Bewegung v=konst. . . . . . . . . . . . .
+1.2.2 Beschleunigte Bewegung . . . . . . . . . . . . . . . .
+1.2.3 Beschleunigte Bewegung mit Anfangsgeschwindigkeit
+1.2.4 Durchschnittsgeschwindigkeit . . . . . . . . . . . . .
+1.2.5 Durchschnittsbeschleunigung . . . . . . . . . . . . .
+1.2.6 Freier Fall . . . . . . . . . . . . . . . . . . . . . . . .
+1.2.7 Senkrechter Wurf nach oben . . . . . . . . . . . . .
+1.2.8 Waagrechter Wurf . . . . . . . . . . . . . . . . . . .
+1.2.9 Schiefer Wurf . . . . . . . . . . . . . . . . . . . . .
+1.2.10 Frequenz-Periodendauer . . . . . . . . . . . . . . . .
+1.2.11 Winkelgeschwindigkeit . . . . . . . . . . . . . . . . .
+1.2.12 Bahngeschwindigkeit . . . . . . . . . . . . . . . . . .
+1.2.13 Zentralbeschleunigung . . . . . . . . . . . . . . . . .
+1.3 Dynamik . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3.1 Kraft . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3.2 Schiefe Ebene . . . . . . . . . . . . . . . . . . . . . .
+1.3.3 Zentralkraft . . . . . . . . . . . . . . . . . . . . . . .
+1.3.4 Gravitationsgesetz . . . . . . . . . . . . . . . . . . .
+1.3.5 Impuls . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3.6 Elastischer Stoß . . . . . . . . . . . . . . . . . . . . .
+1.3.7 Unelastischer Stoß . . . . . . . . . . . . . . . . . . .
+1.3.8 Mechanische Arbeit . . . . . . . . . . . . . . . . . .
+1.3.9 Hubarbeit - Potentielle Energie . . . . . . . . . . . .
+1.3.10 Spannarbeit-Spannenergie . . . . . . . . . . . . . . .
+1.3.11 Beschleunigungsarbeit - kinetische Energie . . . . . .
+1.3.12 Mechanische Leistung . . . . . . . . . . . . . . . . .
+1.3.13 Wirkungsgrad . . . . . . . . . . . . . . . . . . . . . .
+1.4 Schwingungen/Wellen . . . . . . . . . . . . . . . . . . . . .
+1.4.1 Lineares Kraftgesetz . . . . . . . . . . . . . . . . . .
+1.4.2 Periodendauer (harmonische Schwingung) . . . . . .
+1.4.3 Bewegungsgleichung (harmonische Schwingung) . . .
+1
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+2
+2
+2
+2
+2
+3
+3
+3
+4
+4
+4
+4
+4
+5
+6
+6
+6
+6
+6
+7
+7
+7
+8
+8
+9
+9
+9
+9
+10
+10
+10
+10
+11
+11
+11
+11
+12
+12
+12
+12
+12
+12
+13
+13
+13
+13
+
+INHALTSVERZEICHNIS
+
+INHALTSVERZEICHNIS
+
+2 Elektrotechnik
+2.1 Elektrizitätslehre . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.1 Stromstärke . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.2 Ohmsches Gesetz . . . . . . . . . . . . . . . . . . . . .
+2.1.3 Reihenschaltung von Widerständen . . . . . . . . . . .
+2.1.4 Parallelschaltung von Widerständen . . . . . . . . . .
+2.1.5 Widerstandsänderung - Temperatur . . . . . . . . . .
+2.1.6 Spezifischer Widerstand . . . . . . . . . . . . . . . . .
+2.1.7 Spezifischer Leitwert . . . . . . . . . . . . . . . . . . .
+2.1.8 Elektrische Leistung . . . . . . . . . . . . . . . . . . .
+2.1.9 Elektrische Arbeit . . . . . . . . . . . . . . . . . . . .
+2.2 Elektrisches Feld . . . . . . . . . . . . . . . . . . . . . . . . .
+2.2.1 Elektrische Feldstärke . . . . . . . . . . . . . . . . . .
+2.2.2 Gesetz von Coulomb . . . . . . . . . . . . . . . . . . .
+2.2.3 Kapazität eines Kondensators . . . . . . . . . . . . . .
+2.2.4 Reihenschaltung von Kondensatoren . . . . . . . . . .
+2.2.5 Parallelschaltung von Kondensatoren . . . . . . . . . .
+2.2.6 Elektrische Energie des Kondensators . . . . . . . . .
+2.3 Magnetisches Feld . . . . . . . . . . . . . . . . . . . . . . . .
+2.3.1 Flußdichte . . . . . . . . . . . . . . . . . . . . . . . . .
+2.3.2 Feldstärke einer langgestreckten Spule . . . . . . . . .
+2.3.3 Flußdichte - Feldstärke . . . . . . . . . . . . . . . . . .
+2.3.4 Magnetischer Fluß . . . . . . . . . . . . . . . . . . . .
+2.3.5 Induktivität einer langgestreckten Spule . . . . . . . .
+2.3.6 Reihenschaltung (Induktivität) . . . . . . . . . . . . .
+2.3.7 Parallelschaltung (Induktivität) . . . . . . . . . . . . .
+2.4 Wechselstrom . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.4.1 Wechselspannung - Wechselstrom . . . . . . . . . . . .
+2.4.2 Scheitel - Effektiv . . . . . . . . . . . . . . . . . . . .
+2.4.3 Induktiver Widerstand . . . . . . . . . . . . . . . . . .
+2.4.4 Kapazitiver Widerstand . . . . . . . . . . . . . . . . .
+2.4.5 Wirkleistung . . . . . . . . . . . . . . . . . . . . . . .
+2.5 Elektrischer Schwingkreis . . . . . . . . . . . . . . . . . . . .
+2.5.1 Eigenfrequenz (Ungedämpfte elektrische Schwingung)
+2.5.2 Eigenkreisfrequenz . . . . . . . . . . . . . . . . . . . .
+2.6 Allgemeine Elektrotechnik . . . . . . . . . . . . . . . . . . . .
+2.6.1 Spannungsteiler . . . . . . . . . . . . . . . . . . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+14
+14
+14
+14
+14
+15
+15
+15
+15
+16
+16
+17
+17
+17
+17
+17
+18
+18
+19
+19
+19
+19
+19
+19
+20
+20
+21
+21
+21
+21
+21
+21
+22
+22
+22
+23
+23
+
+3 Wärmelehre
+3.1 Temperatur . . . . . . . . . . . . . . .
+3.1.1 Termperatur - Umrechnungen .
+3.1.2 Temperaturdifferenz . . . . . .
+3.2 Ausdehnung der Körper . . . . . . . .
+3.2.1 Längenausdehnung . . . . . . .
+3.2.2 Flächenausdehnung . . . . . . .
+3.2.3 Volumenausdehnung . . . . . .
+3.3 Energie . . . . . . . . . . . . . . . . .
+3.3.1 Wärmeenergie . . . . . . . . .
+3.3.2 Verbrennungsenergie . . . . . .
+3.3.3 Schmelzen und Erstarren . . .
+3.3.4 Verdampfen und Kondensieren
+3.4 Zustandsänderungen der Gase . . . . .
+3.4.1 Allgemeine Gasgleichung . . . .
+3.4.2 Thermische Zustandsgleichung
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+24
+24
+24
+24
+25
+25
+25
+25
+26
+26
+26
+26
+26
+27
+27
+27
+
+www.fersch.de
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+2
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+INHALTSVERZEICHNIS
+
+INHALTSVERZEICHNIS
+
+4 Optik
+4.1 Reflexion und Brechung . . . . . . .
+4.1.1 Reflexion . . . . . . . . . . .
+4.1.2 Brechung . . . . . . . . . . .
+4.2 Linsen . . . . . . . . . . . . . . . . .
+4.2.1 Brennweite . . . . . . . . . .
+4.2.2 Bildgröße - Gegenstandsgröße
+
+.
+.
+.
+.
+.
+.
+
+28
+28
+28
+28
+29
+29
+29
+
+5 Astronomie
+5.1 Gravitation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.1.1 Gravitationsgesetz . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.1.2 Gravitationsfeldstärke . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+30
+30
+30
+30
+
+6 Atomphysik
+6.1 Atombau . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.1.1 Kernbausteine(Protonen,Neutronen,Massenzahl)
+6.1.2 Atommasse . . . . . . . . . . . . . . . . . . . . .
+6.1.3 Masse des Atomkerns . . . . . . . . . . . . . . .
+6.1.4 Stoffmenge und Anzahl der Teilchen . . . . . . .
+6.1.5 Molare Masse . . . . . . . . . . . . . . . . . . . .
+6.1.6 Masse - Energie . . . . . . . . . . . . . . . . . . .
+6.2 Kernumwandlungen . . . . . . . . . . . . . . . . . . . .
+6.2.1 Zerfallsgesetz . . . . . . . . . . . . . . . . . . . .
+6.2.2 Halbwertszeit . . . . . . . . . . . . . . . . . . . .
+6.2.3 Aktivität . . . . . . . . . . . . . . . . . . . . . .
+6.2.4 Photon . . . . . . . . . . . . . . . . . . . . . . .
+
+31
+31
+31
+31
+31
+31
+31
+31
+32
+32
+32
+32
+32
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+7 Physikalische Konstanten
+8 Tabellen
+8.1 Umrechnungen . . . . .
+8.1.1 Längen . . . . .
+8.1.2 Flächen . . . . .
+8.1.3 Volumen . . . . .
+8.1.4 Zeit . . . . . . .
+8.1.5 Vorsilben . . . .
+8.1.6 Masse . . . . . .
+8.1.7 Kraft . . . . . .
+8.1.8 Energie-Arbeit .
+8.1.9 Leistung . . . . .
+8.1.10 Geschwindigkeit
+8.1.11 Druck . . . . . .
+8.1.12 Frequenz . . . .
+8.1.13 Spannung . . . .
+8.1.14 Strom . . . . . .
+8.1.15 Widerstand . . .
+
+www.fersch.de
+
+33
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+3
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+34
+34
+34
+34
+34
+35
+35
+36
+36
+36
+37
+37
+37
+38
+38
+38
+38
+
+Mechanik
+
+1 Mechanik
+1.1 Grundlagen Mechanik
+1.1.1 Gewichtskraft
+
+FG = m · g
+
+m
+g
+FG
+m=
+
+Interaktive Inhalte: FG = m · g - m =
+
+FG
+g
+
+-g=
+
+FG
+m
+
+Masse
+Fallbeschleunigung
+Gewichtskraft
+FG
+g
+
+g=
+
+kg
+m
+s2
+
+9, 81 sm2
+kgm
+s2
+
+N
+
+FG
+m
+
+-
+
+1.1.2 Kräfte
+
+F⃗2
+F⃗res
+
+F⃗res
+
+F⃗3
+
+F⃗1
+
+F⃗2
+
+F⃗2
+
+F⃗1
+
+F⃗res
+
+F⃗2
+
+F⃗1
+
+F⃗3
+
+F⃗2
+
+F⃗1
+
+F⃗res = F⃗1 + F⃗2
+
+Einzelkraft
+Einzelkraft
+Resultierende Kraft
+
+F2
+F1
+Fres
+
+Interaktive Inhalte: F⃗res = F⃗1 + F⃗2 -
+
+1.1.3 Dichte
+ρ=
+
+m
+V
+
+V
+m
+ρ
+
+Volumen
+Masse
+Dichte
+
+m=ρ·V
+
+Interaktive Inhalte: ρ =
+
+www.fersch.de
+
+m
+V
+
+- m=ρ·V - V =
+
+m
+ρ
+
+-
+
+4
+
+V
+
+m3
+kg
+kg
+m3
+= m
+ρ
+
+N
+N
+N
+
+kgm
+s2
+kgm
+s2
+kgm
+s2
+
+Mechanik
+
+Grundlagen Mechanik
+
+1.1.4 Wichte
+γ=
+
+FG
+V
+
+V
+FG
+γ
+
+Volumen
+Gewichtskraft
+Wichte
+
+FG = V · γ
+
+Interaktive Inhalte: γ =
+
+FG
+V
+
+- FG = V · γ - V =
+
+FG
+γ
+
+V =
+
+m3
+N
+
+kgm
+s2
+
+N
+m3
+
+FG
+γ
+
+-
+
+1.1.5 Reibung
+
+FR = µ · FN
+
+Interaktive Inhalte: FR = µ · FN - FN =
+
+FR
+µ
+
+-µ=
+
+FR
+FN
+
+µ
+FN
+FR
+
+Reibungszahl
+Normalkraft
+Reibungkraft
+
+FN =
+
+FR
+µ
+
+µ=
+
+N
+N
+
+kgm
+s2
+kgm
+s2
+
+FR
+FN
+
+-
+
+1.1.6 Schiefe Ebene
+
+FH
+α
+FN
+
+h
+
+l
+Fg
+α
+b
+
+FH =
+
+FG ·h
+l
+
+www.fersch.de
+
+h
+l
+FG
+FH
+
+Höhe
+Länge
+Gewichtskraft
+Hangabtriebskraft
+
+FG =
+
+FH ·l
+h
+
+5
+
+h=
+
+FH ·l
+FG
+
+m
+m
+N
+N
+l=
+
+kgm
+s2
+FG ·h
+FH
+
+Mechanik
+
+FN =
+
+Grundlagen Mechanik
+
+FG ·b
+l
+
+Interaktive Inhalte: FH =
+
+FG ·h
+l
+
+- FG =
+
+FH ·l
+h
+
+-h=
+
+l
+b
+FG
+FN
+
+Länge
+Breite
+Gewichtskraft
+Normalkraft
+
+FG =
+
+FN ·l
+b
+
+FH ·l
+FG
+
+-l=
+
+FN ·l
+FG
+
+b=
+
+FG ·h
+FH
+
+m
+m
+N
+N
+l
+FG ·b
+l
+
+- FN =
+
+kgm
+s2
+kgm
+s2
+= FFGN·b
+
+- FG =
+
+FN ·l
+b
+
+-b=
+
+1.1.7 Hookesches Gesetz
+F =D·s
+
+Interaktive Inhalte: F = D · s - D =
+
+F
+s
+
+-s=
+
+F
+D
+
+s
+D
+F
+
+Weg,Auslenkung
+Federkonstante,Richtgröße
+Kraft
+
+D=
+
+F
+s
+
+l
+F
+M
+
+Hebelarm
+Kraft
+Drehmoment
+
+s=
+
+m
+N
+m
+
+N
+
+kg
+s2
+kgm
+s2
+
+F
+D
+
+-
+
+1.1.8 Drehmoment
+M =F ·l
+
+M
+l
+
+F =
+
+Interaktive Inhalte: M = F · l - F =
+
+M
+l
+
+-l=
+
+l=
+
+m
+N
+Nm
+
+kgm
+s2
+kgm2
+s2
+
+M
+F
+
+-
+
+M
+F
+
+1.1.9 Hebelgesetz
+F1 · l1 = F2 · l2
+
+Interaktive Inhalte: F1 · l1 = F2 · l2 - F1 =
+
+F2 ·l2
+l1
+
+- l1 =
+
+l2
+l1
+F2
+F1
+
+Hebelarm
+Hebelarm
+Einzelkraft
+Einzelkraft
+
+F1 =
+
+F2 ·l2
+l1
+
+F2 ·l2
+F1
+
+m
+m
+N
+N
+
+l1 =
+
+kgm
+s2
+kgm
+s2
+
+F2 ·l2
+F1
+
+-
+
+1.1.10 Druck
+p=
+
+F
+A
+
+A
+F
+p
+
+Fläche
+Kraft
+Druck
+
+F =p·A
+
+Interaktive Inhalte: p =
+
+F
+A
+
+- F =p·A - A=
+
+F
+p
+
+m2
+N
+Pa
+A=
+
+kgm
+s2
+N
+m2
+F
+p
+
+-
+
+1.1.11 Auftrieb in Flüssigkeiten
+FA = ρ · g · V
+
+V
+g
+ρ
+FA
+ρ=
+
+Interaktive Inhalte: FA = ρ · g · V - ρ =
+
+www.fersch.de
+
+FA
+g·V
+
+-V =
+
+FA
+gρ
+
+Volumen
+Fallbeschleunigung
+Dichte
+Auftriebskraft
+FA
+g·V
+
+-
+
+6
+
+V =
+
+FA
+gρ
+
+m3
+m
+s2
+kg
+m3
+
+N
+
+9, 81 sm2
+kgm
+s2
+
+FN ·l
+FG
+
+-l=
+
+FG ·b
+FN
+
+-
+
+Mechanik
+
+Grundlagen Mechanik
+
+1.1.12 Schweredruck
+p=ρ·g·h
+
+Interaktive Inhalte: p = ρ · g · h - ρ =
+
+www.fersch.de
+
+p
+g·h
+
+-h=
+
+p
+gρ
+
+h
+g
+ρ
+p
+
+Höhe der Flüssigkeitssäule
+Fallbeschleunigung
+Dichte
+Druck
+
+ρ=
+
+p
+g·h
+
+-
+
+7
+
+h=
+
+p
+gρ
+
+m
+m
+s2
+kg
+m3
+
+Pa
+
+9, 81 sm2
+N
+m2
+
+Mechanik
+
+Kinematik
+
+1.2 Kinematik
+1.2.1 Geradlinige Bewegung v=konst.
+s=v·t
+
+Interaktive Inhalte: s = v · t - v =
+
+s
+t
+
+-t=
+
+s
+v
+
+t
+v
+s
+
+Zeit
+Geschwindigkeit
+Weg,Auslenkung
+
+v=
+
+s
+t
+
+t
+a
+v
+
+Zeit
+Beschleunigung
+Geschwindigkeit
+
+a=
+
+v
+t
+
+s
+m
+s
+
+m
+
+s
+v
+
+t=
+
+-
+
+1.2.2 Beschleunigte Bewegung
+v =a·t
+
+s=
+
+1
+2
+
+· a · t2
+
+s
+m
+s2
+m
+s
+
+v
+a
+
+t=
+
+Zeit
+Beschleunigung
+Weg,Auslenkung
+√
+a = 2·s
+t = 2·s
+a
+t2
+t
+a
+s
+
+Interaktive Inhalte: v = a · t - a =
+
+v
+t
+
+-t=
+
+v
+a
+
+-s=
+
+1
+2
+
+· a · t2 - a =
+
+-t=
+
+2·s
+t2
+
+s
+m
+s2
+
+m
+√
+
+-
+
+2·s
+a
+
+1.2.3 Beschleunigte Bewegung mit Anfangsgeschwindigkeit
+v = v0 + a · t
+
+Anfangsgeschwindigkeit
+Zeit
+Beschleunigung
+Geschwindigkeit
+
+v0
+t
+a
+v
+
+v0 = v − a · t
+
+s = s0 + v0 · t +
+
+1
+2
+
+· a · t2
+
+a=
+
+v0 =
+
+−v0 ±
+
+a=
+
+m
+m
+s
+
+s
+m
+s2
+
+m
+
+√
+
+t=
+1
+2
+
+· a · t2
+
+v0 =
+
+s−s0 −0,5·a·t2
+t
+
+- s0 = s − v0 · t −
+
+v2 − 2 · a · s -
+
+1
+2
+
+v−v0
+a
+
+· a · t2 - v0 =
+
+-a=
+
+v−v0
+t
+
+x1 −x2
+t1 −t2
+
+Interaktive Inhalte: v =
+
+www.fersch.de
+
+2 −4·0,5·a·(s −s)
+v0
+0
+a
+
+s−s0 −0,5·a·t2
+t
+
+· a · t2 - a = 2·(s−st02−v0 ·t)
+√
+- v 2 − v02 = 2 · a · s - v = 2 · a · s + v02 -
+
+- s = s0 + v0 · t +
+
+1.2.4 Durchschnittsgeschwindigkeit
+v=
+
+−v0 ±
+
+m
+Geschwindigkeit
+s
+m
+Anfangsgeschwindigkeit
+s
+m
+Beschleunigung
+s2
+Weg,Auslenkung
+m
+√
+√
+2
+v0 = v 2 − 2 · a · s
+v = 2 · a · s + v0
+
+2 −4·0,5·a·(s −s)
+v0
+0
+
+a
+
+m
+s2
+m
+s
+v−v0
+t
+
+v
+v0
+a
+s
+
+Interaktive Inhalte: v = v0 + a · t - v0 = v − a · t - t =
+- t=
+√
+
+s
+
+2·(s−s0 −v0 ·t)
+t2
+
+s0 = s − v0 · t −
+
+√
+
+v−v0
+a
+
+Anfangsweg
+Anfangsgeschwindigkeit
+Zeit
+Beschleunigung
+Weg,Auslenkung
+
+s0
+v0
+t
+a
+s
+
+v 2 − v02 = 2 · a · s
+
+t=
+
+m
+s
+
+t2
+t1
+x2
+x1
+v
+x1 −x2
+t1 −t2
+
+aufeinanderfolgende Zeitpunkte
+aufeinanderfolgende Zeitpunkte
+zurückgelegter Weg
+zurückgelegter Weg
+Bahngeschwindigkeit
+
+-
+
+8
+
+s
+s
+m
+m
+m
+s
+
+1
+2
+
+Mechanik
+
+Kinematik
+
+1.2.5 Durchschnittsbeschleunigung
+a=
+
+v1 −v2
+t1 −t2
+
+t2
+t1
+v2
+v1
+a
+
+Interaktive Inhalte: a =
+
+v1 −v2
+t1 −t2
+
+aufeinanderfolgende Zeitpunkte
+aufeinanderfolgende Zeitpunkte
+Geschwindigkeit
+Geschwindigkeit
+Durchschnittsbeschleunigung
+
+s
+s
+m
+s
+m
+s
+m
+s2
+
+-
+
+1.2.6 Freier Fall
+h=
+
+v=
+
+1
+2
+
+√
+
+· g · t2
+
+Zeit
+Fallbeschleunigung
+Fallhöhe
+√
+2·h
+g = t2
+t = 2·h
+g
+t
+g
+h
+
+2·h·g
+
+Interaktive Inhalte: h =
+
+1
+2
+
+· g · t2 - g =
+
+2·h
+t2
+
+-t=
+
+√
+
+2·h
+g
+
+h
+g
+v
+
+Höhe
+Fallbeschleunigung
+Geschwindigkeit
+
+h=
+
+v2
+2·g
+
+-v=
+
+√
+
+s
+m
+s2
+
+m
+m
+s2
+m
+s
+
+v2
+2·g
+
+2·h·g - h=
+
+9, 81 sm2
+
+m
+
+9, 81 sm2
+
+-
+
+1.2.7 Senkrechter Wurf nach oben
+h = h0 + v0 · t −
+
+1
+2
+
+· g · t2
+
+h0
+v0
+t
+g
+h
+
+Abwurfhöhe
+Anfangsgeschwindigkeit
+Zeit
+Fallbeschleunigung
+Höhe
+
+m
+m
+s
+
+s
+m
+s2
+
+9, 81 sm2
+
+m
+
+√
+
+g = − 2·(h−ht02−v0 ·t)
+h0 = h − v0 · t + 21 · g · t2
+
+v = v0 − g · t
+
+v0
+t
+g
+v
+
+Anfangsgeschwindigkeit
+Zeit
+Fallbeschleunigung
+Geschwindigkeit
+
+v0 = v + g · t
+
+t=
+
+Interaktive Inhalte: h = h0 + v0 · t − 21 · g · t2 - g = − 2·(h−ht02−v0 ·t) - t =
+v = v0 − g · t - v0 = v + g · t - t = v0g−v - g = v0t−v -
+
+www.fersch.de
+
+t=
+
+9
+
+v0 −v
+g
+
+√
+
+−v0 ±
+
+g=
+
+−v0 ±
+
+2 +4·0,5·g·(h −h)
+v0
+0
+−g
+
+m
+s
+
+s
+m
+s2
+m
+s
+v0 −v
+t
+
+9, 81 sm2
+
+2 +4·0,5·g·(h −h)
+v0
+0
+−g
+
+- h0 = h − v0 · t +
+
+1
+2
+
+· g · t2 -
+
+Mechanik
+
+Kinematik
+
+1.2.8 Waagrechter Wurf
+Bewegung in x-Richtung:
+x = vx · t
+Bewegung in y-Richtung:
+y = − 12 · g · t2
+vy = g · t
+Zeitfreie Darstellung:
+g
+2
+y = − 12 · g · ( vxx )2 = − 2·v
+2 · x
+
+x
+
+x-Richtung
+
+m
+
+Meter
+
+y
+
+y-Richtung
+
+m
+
+Meter
+
+h0
+
+Anfangshöhe
+
+m
+
+Meter
+
+v0 = vx
+vy
+xw
+
+Anfangsgeschwindigkeit
+Geschwindigkeit in y-Richtung
+Wurfweite
+
+m
+s
+m
+s
+
+vges
+g
+9, 81 sm2
+
+Gesamtgeschwindigkeit
+Fallbeschleunigung
+
+m
+
+Meter
+
+x
+
+Gesamtgeschwindigkeit:
+√
+vges = vx2 + vy2
+Wurfzeit:
+√
+0
+t = 2·h
+g
+
+m
+s
+
+g
+
+m
+s2
+
+Wurfweite:
+√
+0
+x = vx · 2·h
+g
+Auftreffwinkel:
+tan α =
+
+vy
+vx
+
+Interaktive Inhalte: y =
+
+1
+2
+
+· g · t2 - t =
+
+√
+
+2·y
+g
+
+- s=v·t - v =
+
+s
+t
+
+-
+
+1.2.9 Schiefer Wurf
+xw =
+
+v02 ·sin(2·α)
+g
+
+g
+α
+v0
+xw
+t=
+
+vy = v · sinα − g · t
+
+g
+t
+α
+v
+vy
+v=
+
+vx = v · cosα
+
+α
+v
+vx
+v=
+
+v=
+
+√
+vx2 + vy2
+
+vy =
+
+√
+
+m
+s
+
+m
+
+v0 ·sinα
+g
+
+Fallbeschleunigung
+Zeit
+Winkel Geschwindigkeitsvektor v - x-Achse
+Betrag der Geschwindigkeit
+Geschwindigkeit in y-Richtung
+
+Winkel Geschwindigkeitsvektor v - x-Achse
+Betrag der Geschwindigkeit
+Geschwindigkeit in x-Richtung
+vx
+cosα
+
+Geschwindigkeit in x-Richtung
+Geschwindigkeit in y-Richtung
+Betrag der Geschwindigkeit
+√
+vx = v 2 − vy2
+
+m
+s
+m
+s
+m
+s
+
+Betrag der Geschwindigkeit
+Geschwindigkeit in x-Richtung
+Geschwindigkeit in y-Richtung
+
+m
+s
+m
+s
+m
+s
+
+v
+vx
+vy
+
+g·x2
+2·v02 ·cos2 α
+
+v0
+g
+α
+x
+y
+t=
+
+m
+s2
+
+s
+◦
+
+m
+s
+m
+s
+
+vy +g·t
+sinα
+
+vy = tanα · vx
+
+www.fersch.de
+
+9, 81 sm2
+
+vx
+vy
+v
+
+v 2 − vx2
+
+y = x · tanα −
+
+m
+s2
+◦
+
+Fallbeschleunigung
+Abwurfwinkel
+Anfangsgeschwindigkeit
+Wurfweite
+
+tanα =
+
+vy
+vx
+
+vx =
+
+Anfangsgeschwindigkeit
+Fallbeschleunigung
+Abwurfwinkel
+in x-Richtung (Bahnkurve)
+in y-Richtung (Bahnkurve)
+2·v0 ·sinα
+g
+
+10
+
+vy
+tanα
+
+m
+s
+m
+s2
+◦
+
+m
+m
+
+9, 81 sm2
+
+◦
+m
+s
+m
+s
+
+9, 81 sm2
+
+Mechanik
+
+Kinematik
+√
+
+2
+
+vx
+y +g·t
+Interaktive Inhalte: xw = v0 ·sin(2·α)
+- t = v0 ·sinα
+- vy = v · sinα − g · t - v = vsinα
+- vx = v · cosα - v = cosα
+- v = vx2 + vy2
+g
+g
+√
+√
+2
+vy
+vy
+g·x
+2·v0 ·sinα
+2
+2
+2
+2
+- vx = v − vy - vy = v − vx - vy = tanα · vx - tanα = vx - vx = tanα - y = x · tanα − 2·v2 ·cos2 α - t =
+g
+0
+
+1.2.10 Frequenz-Periodendauer
+f=
+
+f=
+
+1
+T
+
+n
+t
+
+Interaktive Inhalte: f =
+
+1
+T
+
+-T=
+
+1
+f
+
+-f=
+
+-t=
+
+n
+t
+
+T
+f
+
+Periodendauer
+Frequenz
+
+T =
+
+1
+f
+
+t
+n
+f
+
+Zeit
+Perioden-Umdrehungen
+Frequenz
+
+t=
+
+n
+f
+
+s
+hz =
+
+1
+s
+
+s
+hz =
+
+1
+s
+
+n=f ·t
+
+- n=f ·t -
+
+n
+f
+
+1.2.11 Winkelgeschwindigkeit
+ω =2·π·f
+
+Kreiszahl
+Frequenz
+Winkelgeschwindigkeit
+
+π
+f
+ω
+
+ω
+2·π
+= 2·π
+ω
+
+f=
+
+Interaktive Inhalte: ω = 2 · π · f - f =
+
+ω
+2·π
+
+-ω=
+
+2·π
+T
+
+-T
+
+ω=
+
+2·π
+T
+
+T =
+
+3, 1415927
+hz =
+1
+s
+
+2·π
+ω
+
+-
+
+1.2.12 Bahngeschwindigkeit
+v =ω·r
+
+Interaktive Inhalte: v = ω · r - ω =
+
+v
+r
+
+-r=
+
+v
+ω
+
+r
+ω
+v
+
+Radius
+Winkelgeschwindigkeit
+Bahngeschwindigkeit
+
+ω=
+
+v
+r
+
+r=
+
+m
+1
+s
+m
+s
+
+v
+ω
+
+-
+
+1.2.13 Zentralbeschleunigung
+az = ω 2 · r
+
+Interaktive Inhalte: az = ω 2 · r - ω =
+
+www.fersch.de
+
+Radius
+Winkelgeschwindigkeit
+Zentralbeschleunigung
+√ az
+ω=
+r = aωz
+r
+r
+ω
+az
+
+√ az
+r
+
+-r=
+
+az
+ω
+
+-
+
+11
+
+m
+1
+s
+m
+s2
+
+1
+s
+
+Mechanik
+
+Dynamik
+
+1.3 Dynamik
+1.3.1 Kraft
+F =m·a
+
+Interaktive Inhalte: F = m · a - m =
+
+-a=
+
+F
+a
+
+F
+m
+
+m
+a
+F
+
+Masse
+Beschleunigung
+Kraft
+
+m=
+
+F
+a
+
+a=
+
+kg
+m
+s2
+
+kgm
+s2
+
+N
+
+F
+m
+
+-
+
+1.3.2 Schiefe Ebene
+
+FH
+α
+FN
+
+h
+
+l
+Fg
+α
+b
+
+FH = FG · sinα
+
+FN = FG · cosα
+
+Interaktive Inhalte: FH = FG · sinα - FG =
+
+FH
+sinα
+
+α
+FG
+FH
+
+Neigungswinkel
+Gewichtskraft
+Hangabtriebskraft
+
+FG =
+
+FH
+sinα
+
+α
+FG
+FN
+
+Neigungswinkel
+Gewichtskraft
+Normalkraft
+
+FG =
+
+FN
+cosα
+
+- sinα =
+
+FH
+FG
+
+sinα =
+
+cosα =
+
+◦
+kgm
+s2
+
+N
+N
+
+FH
+FG
+◦
+
+N
+N
+
+kgm
+s2
+kgm
+s2
+
+FN
+FG
+
+- FN = FG · cosα - FG =
+
+FN
+cosα
+
+1.3.3 Zentralkraft
+Fz = m · ω 2 · r
+
+Interaktive Inhalte: Fz = m · ω 2 · r - m =
+
+www.fersch.de
+
+Radius
+Winkelgeschwindigkeit
+Masse
+Zentralkraft
+√
+Fz
+r
+mm = ωF2z·r
+ω = m·r
+√
+Fz
+Fz
+- ω = m·r
+- r = m·ω
+2
+r
+ω
+m
+Fz
+
+Fz
+ω 2 ·r
+
+12
+
+m
+1
+s
+
+kg
+N
+=
+
+kgm
+s2
+
+Fz
+m·ω 2
+
+- cosα =
+
+FN
+FG
+
+-
+
+Mechanik
+
+Dynamik
+
+1.3.4 Gravitationsgesetz
+F =G·
+
+m1 ·m2
+r2
+
+Gravitationskonstante
+Abstand der Massen
+Massen
+Massen
+Kraft
+√
+F ·r 2
+r = G·mF1 ·m2
+m1 = G·m
+2
+G
+r
+m2
+m1
+F
+
+Interaktive Inhalte: F = G ·
+
+m1 ·m2
+r2
+
+-r=
+
+√
+
+G·m1 ·m2
+F
+
+- m1 =
+
+F ·r 2
+G·m2
+
+- m2 =
+
+F ·r 2
+G·m1
+
+N m2
+kg 2
+
+6, 672041E − 11
+
+m
+kg
+kg
+N
+
+kgm
+s2
+
+m2 =
+
+F ·r 2
+G·m1
+
+-
+
+1.3.5 Impuls
+p=m·v
+
+Interaktive Inhalte: p = m · v - m =
+
+p
+v
+
+-v=
+
+p
+m
+
+v
+m
+p
+
+Geschwindigkeit
+Masse
+Impuls
+
+m=
+
+p
+v
+
+v=
+
+m
+s
+
+kg
+Ns
+
+kg m
+s
+
+p
+m
+
+-
+
+1.3.6 Elastischer Stoß
+Elastischer Stoß
+Geschwindigkeit nach dem Stoß:
+v1 (m1 − m2 ) + 2m2 v2
+v1′ =
+m1 + m2
+v
+(m
+− m1 ) + 2m1 v1
+2
+2
+v2′ =
+m1 + m2
+Impulserhaltungssatz:
+p1 + p2 = p′1 + p′2
+m1 v1 + m2 v2 = m1 v1′ + m2 v2′
+Energieerhaltungssatz:
+
+m1
+m2
+v1
+v2
+E1
+E2
+v1′
+v2′
+E1′
+E2′
+
+Masse 1
+Masse 2
+Geschwindigkeit von m1 vorher
+Geschwindigkeit von m2 vorher
+Kinetische Energie von m1 vorher
+Kinetische Energie von m2 vorher
+Geschwindigkeit von m1 nachher
+Geschwindigkeit von m2 nachher
+Kinetische Energie von m1 nachher
+Kinetische Energie von m2 nachher
+
+m1
+m2
+v1
+v2
+E1
+E2
+v1′
+v2′
+E1′
+E2′
+
+Masse 1
+Masse 2
+Geschwindigkeit von m1 vorher
+Geschwindigkeit von m2 vorher
+Kinetische Energie von m1 vorher
+Kinetische Energie von m2 vorher
+Geschwindigkeit von m1 nachher
+Geschwindigkeit von m2 nachher
+Kinetische Energie von m1 nachher
+Kinetische Energie von m2 nachher
+
+kg
+kg
+m
+s
+m
+s
+
+J
+J
+m
+s
+m
+s
+
+J
+J
+
+′
+Ekin = Ekin
+
+E1 + E2 = E1′ + E2′
+1
+2
+2 m1 v1
+
++ 12 m2 v22 = 12 m1 v1′2 + 12 m2 v2′2
+
+1.3.7 Unelastischer Stoß
+Unelastischer Stoß
+Geschwindigkeit nach dem Stoß:
+m1 v1 + m2 v2
+v1′ = v2′ = v ′ =
+m1 + m2
+Impulserhaltungssatz:
+p1 + p2 = p′1 + p′2
+m1 v1 + m2 v2 =
+
+m1 v1′
+
++
+
+m2 v2′
+
+Energie:
+′
+Ekin > Ekin
+
+∆E =
+∆E =
+
+(E1′
+
+E1 + E2 −
++ E2′ )
+1
+1
+1
+2
+2
+′2
+2 m1 v1 + 2 m2 v2 − ( 2 m1 v
+
+www.fersch.de
+
++ 12 m2 v ′2 )
+
+13
+
+kg
+kg
+m
+s
+m
+s
+
+J
+J
+m
+s
+m
+s
+
+J
+J
+
+Mechanik
+
+Dynamik
+
+1.3.8 Mechanische Arbeit
+W =F ·s
+
+Weg,Auslenkung
+Kraft
+Arbeit
+
+s
+F
+W
+F =
+
+Interaktive Inhalte: W = F · s - F =
+
+-s=
+
+W
+s
+
+W
+F
+
+W
+s
+
+s=
+
+m
+N
+J
+
+kgm
+s2
+
+Nm = W s
+
+W
+F
+
+-
+
+1.3.9 Hubarbeit - Potentielle Energie
+W = FG · h
+
+Hubhöhe
+Kraft
+Arbeit
+
+h
+F
+W
+FG =
+
+Interaktive Inhalte: W = FG · h - FG =
+
+-h=
+
+W
+h
+
+W
+h
+
+h=
+
+m
+N
+J
+
+kgm
+s2
+
+Nm = W s
+
+W
+FG
+
+-
+
+W
+FG
+
+1.3.10 Spannarbeit-Spannenergie
+W =
+
+1
+2
+
+· D · s2
+
+Weg,Auslenkung
+Federkonstante,Richtgröße
+Arbeit
+√
+s = 2·W
+D = 2·W
+D
+s2
+s
+D
+W
+
+Interaktive Inhalte: W =
+
+1
+2
+
+· D · s2 - s =
+
+√
+
+-D=
+
+2·W
+D
+
+2·W
+s2
+
+m
+N
+m
+
+kg
+s2
+
+J
+
+Nm = W s
+
+-
+
+1.3.11 Beschleunigungsarbeit - kinetische Energie
+W =
+
+1
+2
+
+· m · v2
+
+Geschwindigkeit
+Masse
+Arbeit
+√
+2·W
+m = v2
+v = 2·W
+m
+√
+v
+m
+W
+
+Interaktive Inhalte: W =
+
+1
+2
+
+· m · v2 - m =
+
+2·W
+v2
+
+-v=
+
+2·W
+m
+
+m
+s
+
+kg
+J
+
+Nm = W s
+
+-
+
+1.3.12 Mechanische Leistung
+P =
+
+W
+t
+
+W
+t
+P
+
+Arbeit
+Zeit
+Leistung
+
+W =P ·t
+
+Interaktive Inhalte: P =
+
+W
+t
+
+- W =P ·t - t=
+
+W
+P
+
+t=
+
+J
+s
+
+Nm = W s
+
+J
+s
+W
+P
+
+Nm
+s
+
+=W
+
+-
+
+1.3.13 Wirkungsgrad
+η=
+
+P2
+P1
+
+Interaktive Inhalte: η =
+
+www.fersch.de
+
+P2
+P1
+
+- P1 =
+
+p2
+η
+
+P2
+P1
+η
+
+abgegebene Leistung
+zugeführte Leistung
+Wirkungsgrad
+
+P1 =
+
+p2
+η
+
+- P2 = η · P1 -
+
+14
+
+P2 = η · P1
+
+W
+W
+
+VA=
+VA=
+
+J
+s
+J
+s
+
+Mechanik
+
+Schwingungen/Wellen
+
+1.4 Schwingungen/Wellen
+1.4.1 Lineares Kraftgesetz
+F = −D · y
+
+Interaktive Inhalte: F = −D · y - D =
+
+−F
+y
+
+-y=
+
+−F
+D
+
+y
+D
+F
+
+Auslenkung,Elongation
+Federkonstante,Richtgröße
+Kraft
+
+D=
+
+−F
+y
+
+m
+kg
+s2
+kgm
+s2
+
+N
+m
+
+N
+
+−F
+D
+
+y=
+
+-
+
+1.4.2 Periodendauer (harmonische Schwingung)
+T =2·π·
+
+√m
+
+π
+D
+m
+T
+
+D
+
+Interaktive Inhalte: T = 2 · π ·
+
+√m
+D
+
+- D =m·
+
+(2·π)2
+T2
+
+Kreiszahl
+Federkonstante,Richtgröße
+Masse
+Periodendauer
+
+D =m·
+
+(2·π)2
+T2
+
+- m=D·
+
+T2
+(2·π)2
+
+m=D·
+
+3, 1415927
+kg
+s2
+
+N
+m
+
+kg
+s
+
+T2
+(2·π)2
+
+-
+
+1.4.3 Bewegungsgleichung (harmonische Schwingung)
+y = ys · sin(ω · t + ϕ0 )
+
+Interaktive Inhalte: y = ys · sin(ω · t + ϕ0 ) - ys =
+
+www.fersch.de
+
+t
+ϕ0
+ω
+ys
+y
+
+Zeit
+Phase für t=0
+Winkelgeschwindigkeit
+max. Auslenkung,Scheitelwert
+Auslenkung,Elongation
+
+ys =
+
+y
+sin(ω·t+ϕ0 )
+
+y
+sin(ω·t+ϕ0 )
+
+-t=
+
+15
+
+t=
+
+arcsin(y/ys )−ϕ0
+ω
+
+arcsin(y/ys )−ϕ0
+ω
+
+-
+
+s
+rad
+1
+s
+
+m
+m
+
+Elektrotechnik
+
+2 Elektrotechnik
+2.1 Elektrizitätslehre
+2.1.1 Stromstärke
+I=
+
+∆Q
+∆t
+
+∆t
+∆Q
+I
+
+Zeitänderung
+Ladungsänderung
+Stromstärke
+
+∆Q = I · ∆t
+
+Interaktive Inhalte: I =
+
+∆Q
+∆t
+
+- ∆Q = I · ∆t - ∆t =
+
+∆Q
+I
+
+∆t =
+
+s
+C
+A
+
+As
+
+Ω
+Ω
+Ω
+
+V
+A
+V
+A
+V
+A
+
+∆Q
+I
+
+-
+
+2.1.2 Ohmsches Gesetz
+R
+
+I
+
+U
+
+R=
+
+1
+
+2
+
+U
+I
+
+3
+
+I
+U
+R
+4
+
+5
+
+Interaktive Inhalte: R =
+
+6
+U
+I
+
+7
+
+U =R·I
+
+8
+
+- U =R·I - I =
+
+Stromstärke
+Spannung
+Widerstand
+
+U
+R
+
+I=
+
+A
+V
+Ω
+
+V
+A
+
+U
+R
+
+-
+
+2.1.3 Reihenschaltung von Widerständen
+U1
+
+U1
+
+Un
+
+R1
+
+R2
+
+Rn
+
+Iges
+
+Iges
+
+Iges
+Uges
+
+Rg = R1 + R2 .... + Rn
+I = konstant
+
+R2
+R1
+Rg
+
+Einzelwiderstand
+Einzelwiderstand
+Gesamtwiderstand
+
+Rg = R1 + R2
+
+Ug = U1 + U2 .. + Un
+
+U2
+U1
+Ug
+
+R1 = Rg − R2
+
+Einzelspannung
+Einzelspannung
+Gesamtspannung
+
+Ug = U1 + U2
+
+R2 = Rg − R1
+
+V
+V
+V
+
+U1 = Ug − U2
+
+U2 = Ug − U1
+
+Interaktive Inhalte: Rg = R1 + R2 .... + Rn - Rg = R1 + R2 - R1 = Rg − R2 - R2 = Rg − R1 - Ug = U1 + U2 .. + Un Ug = U1 + U2 - U1 = Ug − U2 - U2 = Ug − U1 -
+
+www.fersch.de
+
+16
+
+Elektrotechnik
+
+Elektrizitätslehre
+
+2.1.4 Parallelschaltung von Widerständen
+Rn
+In
+R2
+I2
+R1
+I1
+Uges
+
+1
+Rg
+
+=
+
+1
+R1
+
++
+
+1
+R2 ..
+
++
+
+1
+Rn
+
+U = konstant
+
+Ig = I1 + I2 .. + In
+
+R2
+R1
+Rg
+
+Einzelwiderstand
+Einzelwiderstand
+Gesamtwiderstand
+
+Rg =
+
+R1 ·R2
+R1 +R2
+
+Einzelstrom
+Einzelstrom
+Gesamtstrom
+
+I2
+I1
+Ig
+
+Interaktive Inhalte:
++
+=
+I1 = Ig − I2 - I2 = Ig − I1 1
+R1
+
+1
+..
+R2
+
++
+
+1
+Rn
+
+- Rg =
+
+R1 ·R2
+R1 +R2
+
+- R1 =
+
+R2 ·Rg
+R2 −Rg
+
+R2 ·Rg
+R2 −Rg
+
+R1 ·Rg
+R1 −Rg
+
+R2 =
+
+A
+A
+A
+
+I1 = Ig − I2
+
+Ig = I1 + I2
+1
+Rg
+
+R1 =
+
+V
+A
+V
+A
+V
+A
+
+Ω
+Ω
+Ω
+
+- R2 =
+
+I2 = Ig − I1
+
+R1 ·Rg
+R1 −Rg
+
+- Ig = I1 + I2 .. + In - Ig = I1 + I2 -
+
+2.1.5 Widerstandsänderung - Temperatur
+∆R = R · α · ∆T
+
+1
+K
+
+Temperaturbeiwert
+Temperaturänderung
+Widerstand
+Widerstandsänderung
+
+α
+∆T
+R
+∆R
+
+∆R = R · α · ∆T
+
+Interaktive Inhalte: ∆R = R · α · ∆T - ∆R = R · α · ∆T - α =
+
+R
+∆R·∆T
+
+α=
+
+- ∆T =
+
+K
+Ω
+Ω
+
+R
+∆R·∆T
+R
+∆R·α·∆T
+
+V
+A
+V
+A
+
+∆T =
+
+R
+∆R·α·∆T
+
+-
+
+2.1.6 Spezifischer Widerstand
+R=
+
+ρ·l
+A
+
+l=
+
+Interaktive Inhalte: R =
+
+Fläche
+Länge
+Spezifischer Widerstand
+Widerstand
+
+A
+l
+ρ
+R
+ρ·l
+A
+
+-l=
+
+R·A
+ρ
+
+-ρ=
+
+R·A
+l
+
+-A=
+
+R·A
+ρ
+
+R·ρ
+A
+
+ρ=
+
+R·A
+l
+
+A=
+
+mm2
+m
+Ωmm2
+m
+
+V
+A
+
+Ω
+
+R·ρ
+A
+
+-
+
+2.1.7 Spezifischer Leitwert
+R=
+
+l
+κ·A
+
+A
+l
+κ
+R
+
+Fläche
+Länge
+Spezifischer Leitwert
+Widerstand
+
+l =R·κ·A
+
+Interaktive Inhalte: R =
+
+www.fersch.de
+
+l
+κ·A
+
+- l =R·κ·A - A=
+
+l
+κ·R
+
+-κ=
+
+l
+R·A
+
+17
+
+A=
+
+-
+
+l
+κ·R
+
+mm2
+m
+m
+Ωmm2
+
+Ω
+κ=
+
+l
+R·A
+
+V
+A
+
+Elektrotechnik
+
+Elektrizitätslehre
+
+2.1.8 Elektrische Leistung
+P =U ·I
+
+Interaktive Inhalte: P = U · I - U =
+
+P
+I
+
+-I=
+
+P
+U
+
+I
+U
+P
+
+Stromstärke
+Spannung
+Leistung
+
+U=
+
+P
+I
+
+I=
+
+A
+V
+W
+
+VA=
+
+J
+s
+
+P
+U
+
+-
+
+2.1.9 Elektrische Arbeit
+W =U ·I ·t
+
+t
+I
+U
+W
+U=
+
+Interaktive Inhalte: W = U · I · t - U =
+
+www.fersch.de
+
+W
+I·t
+
+-I=
+
+W
+U ·t
+
+-t=
+
+Zeit
+Stromstärke
+Spannung
+Arbeit
+W
+I·t
+P
+U ·I
+
+18
+
+I=
+
+-
+
+W
+U ·t
+
+s
+A
+V
+Ws
+t=
+
+V As = J
+P
+U ·I
+
+Elektrotechnik
+
+Elektrisches Feld
+
+2.2 Elektrisches Feld
+2.2.1 Elektrische Feldstärke
+E=
+
+F
+Q
+
+Kraft
+Ladung
+Elektrische Feldstärke
+
+F
+Q
+E
+
+F =E·Q
+
+E=
+
+U
+d
+
+U =E·d
+F
+Q
+
+- F =E·Q - Q=
+
+-E=
+
+F
+E
+
+d=
+
+V
+m
+
+V
+m
+N
+C
+
+V
+m
+
+U
+E
+
+- U =E·d - d=
+
+U
+d
+
+As
+
+N
+C
+
+F
+E
+
+Spannung
+Plattenabstand
+Elektrische Feldstärke
+
+U
+d
+E
+
+Interaktive Inhalte: E =
+
+Q=
+
+kgm
+s2
+
+N
+C
+
+U
+E
+
+-
+
+2.2.2 Gesetz von Coulomb
+F =
+
+1
+4πϵ0
+
+·
+
+Q1 ·Q2
+r2
+
+Interaktive Inhalte: F =
+
+Ladung 2
+C
+Ladung 1
+C
+Entfernung
+m
+Kreiszahl
+Elekt. Feldkonstante VAs
+m
+Kraft
+N
+√
+1
+r = 4πϵ
+· Q1F·Q2
+Q1 = 4πϵ0 ·
+0
+Q2
+Q1
+r
+π
+ϵ0
+F
+
+1
+4πϵ0
+
+·
+
+Q1 ·Q2
+r2
+
+-r=
+
+√
+
+1
+4πϵ0
+
+·
+
+Q1 ·Q2
+F
+
+- Q1 = 4πϵ0 ·
+
+F ·r 2
+Q2
+
+As
+As
+3, 1415927
+kgm
+s2
+F ·r 2
+Q2
+
+-
+
+2.2.3 Kapazität eines Kondensators
+C=
+
+Q
+U
+
+U
+Q
+C
+
+Spannung
+Ladung
+Kapazität
+
+Q=C ·U
+
+C = ϵ0 · ϵr ·
+
+A
+d
+
+Interaktive Inhalte: C =
+
+Q
+U
+
+- Q=C ·U - U =
+
+Q
+C
+
+C1
+
+C2
+
+Q
+C
+
+A=
+
+C·d
+ϵ0 ϵr
+
+Un
+Cn
+
+Uges
+
+www.fersch.de
+
+As
+V
+
+Plattenabstand
+Fläche
+Elekt. Feldkonstante
+Dielektrizitätszahl
+Kapazität
+
+- C = ϵ0 · ϵr ·
+
+U2
+
+As
+
+d
+A
+ϵ0
+ϵr
+C
+
+2.2.4 Reihenschaltung von Kondensatoren
+U1
+
+U=
+
+V
+C
+F
+
+19
+
+d = ϵ0 · ϵr ·
+A
+d
+
+-A=
+
+C·d
+ϵ0 ϵr
+
+m
+m2
+As
+Vm
+
+F
+
+As
+V
+
+A
+C
+
+- d = ϵ0 · ϵr ·
+
+A
+C
+
+-
+
+Elektrotechnik
+
+1
+Cg
+
+=
+
+1
+C1
+
++
+
+1
+C2 ..
+
+Elektrisches Feld
+
++
+
+1
+Cn
+
+C2
+C1
+Cg
+
+Kapazität 1
+Kapazität 1
+Gesamtkapazität
+
+Cg =
+
+C1 ·C2
+C1 +C2
+
+U2
+U1
+Ug
+
+Einzelspannung
+Einzelspannung
+Gesamtspannung
+
+Ug = U1 + U2 .. + Un
+
+Ug = U1 + U2
+
+Interaktive Inhalte:
+=
++
+- U1 = Ug − U2 - U2 = Ug − U1 1
+Cg
+
+1
+C1
+
+1
+.. + C1n
+C2
+
+- Cg =
+
+C1 ·C2
+C1 +C2
+
+- C1 =
+
+C2 ·Cg
+C2 −Cg
+
+C1 =
+
+As
+V
+As
+V
+As
+V
+
+F
+F
+F
+
+C2 ·Cg
+C2 −Cg
+
+C2 =
+
+C1 ·Cg
+C1 −Cg
+
+V
+V
+V
+
+U1 = Ug − U2
+
+- C2 =
+
+U2 = Ug − U1
+
+C1 ·Cg
+C1 −Cg
+
+- Ug = U1 + U2 .. + Un - Ug = U1 + U2
+
+2.2.5 Parallelschaltung von Kondensatoren
+Cn
+Qn
+C2
+Q2
+C1
+Q1
+Uges
+
+Cg = C1 + C2 .... + Cn
+
+C2
+C1
+Cg
+
+Kapazität 1
+Kapazität 1
+Gesamtkapazität
+
+Cg = C1 + C2
+
+Qg = Q1 + Q2 .. + Qn
+
+Q2
+Q1
+Qg
+
+As
+V
+As
+V
+As
+V
+
+C1 = Cg − C2
+
+Ladung 2
+Ladung 1
+Gesamtladung
+
+Qg = Q1 + Q2
+
+F
+F
+F
+
+C
+C
+C
+
+C2 = Cg − C1
+
+As
+As
+As
+
+Q1 = Qg − Q2
+
+Q2 = Qg − Q1
+
+Interaktive Inhalte: Cg = C1 + C2 .... + Cn - Cg = C1 + C2 - C1 = Cg − C2 - C2 = Cg − C1 - Qg = Q1 + Q2 .. + Qn Qg = Q1 + Q2 - Q1 = Qg − Q2 - Q2 = Qg − Q1 -
+
+2.2.6 Elektrische Energie des Kondensators
+W =
+
+1
+2
+
+· C · U2
+
+Interaktive Inhalte: W =
+
+www.fersch.de
+
+Kapazität F
+Spannung V
+Arbeit
+Ws
+√
+U = 2·W
+C = 2·W
+C
+U2
+C
+U
+W
+
+1
+2
+
+· C · U2 - U =
+
+√
+
+2·W
+C
+
+-C=
+
+2·W
+U2
+
+-
+
+20
+
+As
+V
+
+V As = J
+
+Elektrotechnik
+
+Magnetisches Feld
+
+2.3 Magnetisches Feld
+2.3.1 Flußdichte
+B=
+
+F
+I·l
+
+Stromstärke
+Länge
+Kraft
+Magnetische Flußdichte
+
+I
+l
+F
+B
+
+F =B·I ·l
+
+Interaktive Inhalte: B =
+
+F
+I·l
+
+- F =B·I ·l - I =
+
+F
+B·l
+
+-l=
+
+I=
+
+F
+B·l
+
+A
+m
+N
+T
+
+kgm
+s2
+N
+Am
+
+F
+I·B
+
+l=
+
+-
+
+F
+I·B
+
+2.3.2 Feldstärke einer langgestreckten Spule
+H=
+
+I·N
+l
+
+l
+N
+I
+H
+
+Interaktive Inhalte: H =
+
+I·N
+l
+
+-I=
+
+-N=
+
+H·l
+N
+
+H·l
+I
+
+-l
+
+Länge der Spule
+Anzahl der Windungen
+Stromstärke
+Magnetische Feldstärke
+
+I = H·l
+N
+= I·N
+H
+
+N=
+
+H·l
+I
+
+l=
+
+m
+A
+A
+m
+
+I·N
+H
+
+-
+
+2.3.3 Flußdichte - Feldstärke
+B = µr · µ0 · H
+
+Interaktive Inhalte: B = µr · µ0 · H - H =
+
+B
+µr ·µ0
+
+µr
+µ0
+H
+B
+
+Permeabilitätszahl
+Magn. Feldkonstante
+Magnetische Feldstärke
+Magnetische Flußdichte
+
+H=
+
+B
+µr ·µ0
+
+- µr =
+
+µr =
+
+- µ0 =
+
+B
+µ0 ·H
+
+B
+µ0 ·H
+
+B
+µr ·H
+
+Vs
+Am
+A
+m
+
+T
+
+µ0 =
+
+N
+Am
+
+B
+µr ·H
+
+-
+
+2.3.4 Magnetischer Fluß
+Φ = B · A · cos(δ)
+
+Interaktive Inhalte: Φ = B · A · cos(δ) - A =
+
+Φ
+B·cos(δ)
+
+δ
+A
+B
+Φ
+
+Winkel Flächennormale-Flußdichte
+Fläche
+Magnetische Flußdichte
+Magnetischer Fluß
+
+A=
+
+Φ
+B·cos(δ)
+
+-B=
+
+Φ
+A·cos(δ)
+
+B=
+
+Φ
+A·cos(δ)
+
+rad
+m2
+T
+Vs
+
+N
+Am
+
+Wb
+
+Φ
+δ = arccos( B·A
+)
+
+Φ
+- δ = arccos( B·A
+) -
+
+2.3.5 Induktivität einer langgestreckten Spule
+L = µ0 · µr ·
+
+A·N 2
+lSP
+
+A
+lSP
+N
+µr
+µ0
+L
+
+Fläche
+Länge der Spule
+Anzahl der Windungen
+Permeabilitätszahl
+Magn. Feldkonstante
+Induktivität
+
+lSP = µ0 · µr ·
+
+Interaktive Inhalte: L = µ0 · µr ·
+
+www.fersch.de
+
+A·N 2
+lSP
+
+- lSP = µ0 · µr ·
+
+A·N 2
+L
+
+-A=
+
+21
+
+A·N 2
+L
+
+L·l
+µ0 ·µr ·N 2
+
+A=
+
+m2
+m
+
+Vs
+Am
+
+H
+
+L·l
+µ0 ·µr ·N 2
+
+-N=
+
+√
+
+L·l
+µ0 ·µr ·A
+
+Vs
+A
+
+N=
+
+-
+
+√
+
+L·l
+µ0 ·µr ·A
+
+Elektrotechnik
+
+Magnetisches Feld
+
+2.3.6 Reihenschaltung (Induktivität)
+U1
+
+U1
+
+Un
+
+L1
+
+L2
+
+Ln
+
+Iges
+
+Iges
+
+Iges
+Uges
+
+Lg = L1 + L2 .... + Ln
+
+L2
+L1
+Lg
+
+Induktivität 2
+Induktivität 1
+Gesamtinduktivität
+
+Lg = L1 + L2
+
+Ug = U1 + U2 .. + Un
+
+U2
+U1
+Ug
+
+L1 = Lg − L2
+
+Einzelspannung
+Einzelspannung
+Gesamtspannung
+
+Ug = U1 + U2
+
+H
+H
+H
+
+Vs
+A
+Vs
+A
+Vs
+A
+
+L2 = Lg − L1
+
+V
+V
+V
+
+U1 = Ug − U2
+
+U2 = Ug − U1
+
+Interaktive Inhalte: Lg = L1 + L2 .... + Ln - Lg = L1 + L2 - L1 = Lg − L2 - L2 = Lg − L1 - Ug = U1 + U2 .. + Un - Ug = U1 + U2
+- U1 = Ug − U2 - U2 = Ug − U1 -
+
+2.3.7 Parallelschaltung (Induktivität)
+11.0
+10.5
+10.0
+9.5
+9.0
+8.5
+8.0
+7.5
+7.0
+6.5
+6.0
+5.5
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+
+Ln
+In
+L2
+I2
+L1
+I1
+Uges
+0.51.01.52.02.53.03.54.04.55.05.56.06.57.07.58.08.59.09.5
+10.0
+10.5
+11.0
+11.5
+12.0
+12.5
+13.0
+13.5
+14.0
+14.5
+15.0
+15.5
+16.0
+16.5
+17.0
+17.5
+18.0
+18.5
+19.0
+19.5
+1
+1
+1
+1
+L2 Induktivität
+Lg = L1 + L2 .. + Ln
+
+L1
+Lg
+
+L1 =
+
+Ig = I1 + I2 .. + In
+
+I2
+I1
+Ig
+
+2
+Induktivität 1
+Gesamtinduktivität
+L2 ·Lg
+L2 −Lg
+
+Einzelstrom
+Einzelstrom
+Gesamtstrom
+
+Ig = I1 + I2
+=
+Interaktive Inhalte:
+I1 = Ig − I2 - I2 = Ig − I1 1
+Lg
+
+www.fersch.de
+
+1
+L1
+
++
+
+1
+..
+L2
+
++
+
+1
+Ln
+
+L2 =
+
+- hier klicken L1 =
+
+22
+
+L2 ·Lg
+L2 −Lg
+
+H
+H
+H
+
+Vs
+A
+Vs
+A
+Vs
+A
+
+L1 ·Lg
+L1 −Lg
+
+A
+A
+A
+
+I1 = Ig − I2
+
+- L2 =
+
+L1 ·Lg
+L1 −Lg
+
+I2 = Ig − I1
+
+- Ig = I1 + I2 .. + In - Ig = I1 + I2 -
+
+Elektrotechnik
+
+Wechselstrom
+
+2.4 Wechselstrom
+2.4.1 Wechselspannung - Wechselstrom
+Ut = Umax · sin(ω · t)
+
+Zeit
+Scheitel-, Spitzenspannung
+Kreisfrequenz
+Momentanspannung zum Zeitpunkt t
+
+t
+Umax
+ω
+Ut
+
+It = Imax · sin(ω · t)
+
+Interaktive Inhalte: Ut = Umax · sin(ω · t) - It = Imax · sin(ω · t) -
+
+2.4.2 Scheitel - Effektiv
+Uef f =
+
+U√
+max
+2
+
+Scheitel-, Spitzenspannung
+Effektivspannung
+√
+√
+Ief f = Imax
+= 2 · Ief f
+2
+
+Umax
+Uef f
+
+Interaktive Inhalte: hier klicken Uef f =
+
+U√
+max
+2
+
+- Imax
+
+Imax
+√
+= 2 · Ief f - Ief f =
+
+Imax
+√
+2
+
+V
+V
+
+-
+
+2.4.3 Induktiver Widerstand
+XL = ω · L
+
+L
+ω
+XL
+L=
+
+Interaktive Inhalte: XL = ω · L - L =
+
+XL
+ω
+
+-ω=
+
+XL
+L
+
+Induktivität
+Eigenkreisfrequenz
+Induktiver Widerstand
+XL
+ω
+
+ω=
+
+H
+1
+s
+
+Ω
+
+Vs
+A
+V
+A
+
+XL
+L
+
+-
+
+2.4.4 Kapazitiver Widerstand
+XC =
+
+1
+ω·C
+
+C
+ω
+XC
+C=
+
+Interaktive Inhalte: XC =
+
+1
+ω·C
+
+-C=
+
+1
+XC ·ω
+
+-ω=
+
+1
+XC ·C
+
+Kapazität
+Eigenkreisfrequenz
+Kapazitiver Widerstand
+1
+XC ·ω
+
+ω=
+
+F
+1
+s
+
+Ω
+
+As
+V
+V
+A
+
+1
+XC ·C
+
+-
+
+2.4.5 Wirkleistung
+P = Uef f · Ief f · cos(ϕ)
+
+Winkel phi
+Effektivstromstärke
+Effektivspannung
+Wirkleistung
+
+ϕ
+Ief f
+Uef f
+P
+
+Interaktive Inhalte: P = Uef f · Ief f · cos(ϕ) -
+
+www.fersch.de
+
+23
+
+rad
+A
+V
+W
+
+VA=
+
+J
+s
+
+s
+V
+1
+s
+
+V
+
+Elektrotechnik
+
+Elektrischer Schwingkreis
+
+2.5 Elektrischer Schwingkreis
+2.5.1 Eigenfrequenz (Ungedämpfte elektrische Schwingung)
+f=
+
+1
+√
+2·π· L·C
+
+Interaktive Inhalte: f =
+
+1
+√
+2·π· L·C
+
+-L=
+
+1
+(2·π·f )2 ·C
+
+C
+L
+f
+
+Kapazität
+Induktivität
+Eigenfrequenz
+
+F
+H
+hz =
+
+L=
+
+1
+(2·π·f )2 ·C
+
+1
+(2·π·f )2 ·L
+
+-C=
+
+1
+(2·π·f )2 ·L
+
+C=
+
+1
+s
+
+As
+V
+Vs
+A
+
+-
+
+2.5.2 Eigenkreisfrequenz
+ω=
+
+√1
+L·C
+
+Interaktive Inhalte: ω =
+
+www.fersch.de
+
+√1
+L·C
+
+-L=
+
+1
+ω 2 ·C
+
+-C=
+
+1
+ω 2 ·L
+
+C
+L
+ω
+
+Kapazität
+Induktivität
+Eigenkreisfrequenz
+
+L=
+
+1
+ω 2 ·C
+
+-
+
+24
+
+C=
+
+1
+ω 2 ·L
+
+F
+H
+1
+s
+
+As
+V
+Vs
+A
+
+Elektrotechnik
+
+Allgemeine Elektrotechnik
+
+2.6 Allgemeine Elektrotechnik
+2.6.1 Spannungsteiler
+U1 = Ug ·
+
+R1
+R1 +R2
+
+Interaktive Inhalte: U1 = Ug ·
+
+www.fersch.de
+
+R2
+R1
+Ug
+U1
+R1
+R1 +R2
+
+Teilwiderstand
+Teilwiderstand
+Gesamtspannung
+Teilspannung
+
+-
+
+25
+
+Ω
+Ω
+V
+V
+
+V
+A
+V
+A
+
+Wärmelehre
+
+3 Wärmelehre
+3.1 Temperatur
+3.1.1 Termperatur - Umrechnungen
+T = 273, 15 + τ
+
+Temperatur
+absolute Temperatur
+
+τ
+T
+
+°C
+K
+
+= GadCelsius
+
+τ = T − 273, 15
+
+TF =
+
+TR =
+
+9
+5
+
+9
+5
+
+· τ + 32
+
+· τ + 491, 67
+
+τ
+
+Temperatur
+
+τ =
+
+5
+9
+
+τ =
+
+5
+9
+
+= GadCelsius
+
+· (TF − 32)
+Temperatur
+Temperatur
+
+τ
+TR
+
+Interaktive Inhalte: T = 273, 15+τ - τ = T −273, 15 - TF =
+-
+
+°C
+
+°C
+°R
+
+= GadCelsius
+Rankine
+
+· (TR − 491, 67)
+
+9
+·τ +32
+5
+
+- τ = 59 ·(TF −32) - TR = 95 ·τ +491, 67 - τ = 59 ·(TR −491, 67)
+
+3.1.2 Temperaturdifferenz
+∆T = T2 − T1
+
+T2
+T1
+∆T
+
+absolute Temperatur
+absolute Temperatur
+Temperaturdifferenz
+
+T1 = T2 − ∆T
+
+Interaktive Inhalte: ∆T = T2 − T1 - T1 = T2 − ∆T - T2 = ∆T + T1 -
+
+www.fersch.de
+
+26
+
+K
+K
+K
+
+T2 = ∆T + T1
+
+Wärmelehre
+
+Ausdehnung der Körper
+
+3.2 Ausdehnung der Körper
+3.2.1 Längenausdehnung
+∆l = l0 · α · ∆T
+
+l0 =
+
+∆l
+α·∆T
+
+Längenausdehnungskoeffizient
+Temperaturdifferenz
+Anfangslänge
+Längenänderung
+
+K
+m
+m
+
+α
+∆T
+∆l
+l0
+
+Längenausdehnungskoeffizient
+Temperaturdifferenz
+Längenänderung
+Anfangslänge
+
+K
+m
+m
+
+α=
+
+Interaktive Inhalte: ∆l = l0 · α · ∆T - l0 =
+
+∆l
+α·∆T
+
+-α=
+
+1
+K
+
+α
+∆T
+l0
+∆l
+
+∆l
+l0 ·∆T
+
+∆T =
+
+- ∆T =
+
+∆l
+l0 ·∆T
+
+∆l
+l0 ·α
+
+1
+K
+
+∆l
+l0 ·α
+
+-
+
+3.2.2 Flächenausdehnung
+∆A = A0 · 2 · α · ∆T
+
+Längenausdehnungskoeffizient
+Temperaturdifferenz
+Anfangsfläche
+Flächenänderung
+
+α
+∆T
+A0
+∆A
+A0 =
+
+Interaktive Inhalte: ∆A = A0 · 2 · α · ∆T - A0 =
+
+∆A
+2·α·∆T
+
+∆A
+2·α·∆T
+
+-α=
+
+∆A
+A0 ·∆T ·2
+
+α=
+
+∆A
+A0 ·∆T ·2
+
+- ∆T =
+
+∆T =
+
+1
+K
+
+K
+m2
+m2
+∆A
+A0 ·2·α
+
+-
+
+∆A
+A0 ·2·α
+
+3.2.3 Volumenausdehnung
+∆V = V0 · 3 · α · ∆T
+
+V0 =
+
+Interaktive Inhalte: ∆V = V0 · 3 · α · ∆T - V0 =
+
+www.fersch.de
+
+Längenausdehnungskoeffizient
+Temperaturdifferenz
+Anfangsvolumen
+Volumenänderung
+
+α
+∆T
+V0
+∆V
+∆V
+3·α·∆T
+
+∆V
+3·α·∆T
+
+-α=
+
+∆V
+V0 ·∆T ·3
+
+27
+
+α=
+
+∆V
+V0 ·∆T ·3
+
+- ∆T =
+
+∆V
+V0 ·3·α
+
+∆T =
+
+-
+
+1
+K
+
+K
+m3
+m3
+∆V
+V0 ·3·α
+
+Wärmelehre
+
+Energie
+
+3.3 Energie
+3.3.1 Wärmeenergie
+∆Q = c · m · ∆T
+
+Temperaturdifferenz
+Spezifische Wärmekapazität
+Masse
+Wärmeenergie
+
+∆T
+c
+m
+Q
+m=
+
+Interaktive Inhalte: ∆Q = c · m · ∆T - m =
+
+∆Q
+c·∆T
+
+∆Q
+c·∆T
+
+∆Q
+m·∆T
+
+-c=
+
+-
+
+∆Q
+c = m·∆T
+∆Q
+∆T = c·m
+
+∆T =
+
+K
+J
+kgK
+
+kg
+J
+
+Nm = W s
+
+∆Q
+c·m
+
+-
+
+3.3.2 Verbrennungsenergie
+Q = Hu · m
+
+Interaktive Inhalte: Q = Hu · m - Hu =
+
+Q
+m
+
+-m=
+
+Q
+Hu
+
+m
+Hu
+Q
+
+Masse
+Heizwert
+Verbrennungsenergie
+
+Hu =
+
+Q
+m
+
+m=
+
+kg
+J
+kg
+
+J
+
+Nm = W s
+
+Q
+Hu
+
+-
+
+3.3.3 Schmelzen und Erstarren
+Q = qs · m
+
+Interaktive Inhalte: Q = qs · m - m =
+
+Q
+qs
+
+- qs =
+
+Q
+m
+
+m
+qs
+Q
+
+Masse
+Spezifische Schmelz-/Erstarrungswärme
+Energie zum Schmelzen/Erstarren
+
+m=
+
+Q
+qs
+
+m
+qv
+Q
+
+Masse
+Spezifische Verdampfungs-/Kondensationswärme
+Energie zum Verdampfen/Kondensieren
+
+m=
+
+Q
+qv
+
+qs =
+
+kg
+J
+kg
+
+J
+
+Nm = W s
+
+Q
+m
+
+-
+
+3.3.4 Verdampfen und Kondensieren
+Q = qv · m
+
+Interaktive Inhalte: Q = qv · m - m =
+
+www.fersch.de
+
+Q
+qv
+
+- qv =
+
+Q
+m
+
+-
+
+28
+
+qv =
+
+Q
+m
+
+kg
+J
+kg
+
+J
+
+Nm = W s
+
+Wärmelehre
+
+Zustandsänderungen der Gase
+
+3.4 Zustandsänderungen der Gase
+3.4.1 Allgemeine Gasgleichung
+V1 · p1
+V2 · p2
+=
+T1
+T2
+
+Interaktive Inhalte:
+
+V1 · p1
+V2 · p2
+=
+- V1 =
+T1
+T2
+
+V2 ·p·T1
+T2 ·p1
+
+p1
+T1
+T2
+p2
+V2
+V1
+
+Druck 1
+absolute Temperatur
+absolute Temperatur
+Druck 2
+Volumen 2
+Volumen 1
+
+V1 =
+
+V2 ·p2 ·T1
+T2 ·p1
+
+- p1 =
+
+V2 ·p2 ·T1
+T2 ·V1
+
+p1 =
+
+- T1 =
+
+V2 ·p2 ·T1
+T2 ·V1
+V1 ·p1 ·T2
+V2 ·p2
+
+N
+m2
+
+Pa
+K
+K
+Pa
+m3
+m3
+
+N
+m2
+
+T1 =
+
+V1 ·p1 ·T2
+V2 ·p2
+
+-
+
+3.4.2 Thermische Zustandsgleichung
+p · V = ν · Rm · T
+
+Interaktive Inhalte: p · V = ν · Rm · T - p =
+
+www.fersch.de
+
+ν
+p
+T
+V
+Rm
+ν·Rm ·T
+V
+
+Stoffmenge
+Druck
+Temperatur
+Volumen
+Allgemeine Gaskonstante
+
+p=
+
+ν·Rm ·T
+V
+
+-V =
+
+ν·Rm ·T
+p
+
+29
+
+V =
+
+-T=
+
+ν·Rm ·T
+p
+p·V
+ν·Rm
+
+-
+
+T =
+
+mol
+Pa
+K
+m3
+Ws
+8, 314 mol·K
+p·V
+ν·Rm
+
+N
+m2
+
+Optik
+
+4 Optik
+4.1 Reflexion und Brechung
+4.1.1 Reflexion
+α1 = α2
+
+α2
+α1
+
+Reflexionswinkel
+Einfallswinkel
+
+◦
+
+α2
+α1
+n
+
+Brechungswinkel
+Einfallswinkel
+Brechzahlen
+
+◦
+
+◦
+
+Interaktive Inhalte: α1 = α2 -
+
+4.1.2 Brechung
+n=
+
+sinα1
+sinα2
+
+sinα1 = n · sinα2
+
+Interaktive Inhalte: n =
+
+www.fersch.de
+
+sinα1
+sinα2
+
+- sinα1 = n · sinα2 - sinα2 =
+
+sinα1
+n
+
+30
+
+-
+
+◦
+
+sinα2 =
+
+sinα1
+n
+
+Optik
+
+Linsen
+
+4.2 Linsen
+4.2.1 Brennweite
+f=
+
+g·b
+g+b
+
+Interaktive Inhalte: f =
+
+g·b
+g+b
+
+-b=
+
+f ·g
+g−f
+
+-g=
+
+f ·b
+b−f
+
+b
+g
+f
+
+Bildweite
+Gegenstandsweite
+Brennweite
+
+b=
+
+f ·g
+g−f
+
+g=
+
+m
+m
+m
+
+f ·b
+b−f
+
+-
+
+4.2.2 Bildgröße - Gegenstandsgröße
+G
+B
+
+=
+
+g
+b
+
+Interaktive Inhalte:
+
+www.fersch.de
+
+G
+B
+
+=
+
+g
+b
+
+-G=
+
+g·B
+b
+
+-B=
+
+G·b
+g
+
+B
+G
+b
+g
+
+Bildgröße
+Gegenstandsgröße
+Bildweite
+Gegenstandsweite
+
+G=
+
+g·B
+b
+
+-g=
+
+G·b
+B
+
+-b=
+
+31
+
+B=
+
+G·b
+g
+
+B·g
+G
+
+-
+
+m
+m
+m
+m
+g=
+
+G·b
+B
+
+b=
+
+B·g
+G
+
+Astronomie
+
+5 Astronomie
+5.1 Gravitation
+5.1.1 Gravitationsgesetz
+F =G·
+
+m1 ·m2
+r2
+
+Gravitationskonstante
+Abstand der Massen
+Massen
+Massen
+Kraft
+√
+F ·r 2
+r = G·mF1 ·m2
+m1 = G·m
+2
+G
+r
+m2
+m1
+F
+
+Interaktive Inhalte: F = G ·
+
+m1 ·m2
+r2
+
+-r=
+
+√
+
+G·m1 ·m2
+F
+
+- m1 =
+
+F ·r 2
+G·m2
+
+- m2 =
+
+F ·r 2
+G·m1
+
+N m2
+kg 2
+
+6, 672041E − 11
+
+m
+kg
+kg
+N
+
+kgm
+s2
+
+m2 =
+
+F ·r 2
+G·m1
+
+-
+
+5.1.2 Gravitationsfeldstärke
+gr =
+
+G·m
+r2
+
+Interaktive Inhalte: gr =
+
+www.fersch.de
+
+Gravitationskonstante
+Abstand der Massen
+Masse
+Gravitationsfeldstärke
+√
+gr·r 2
+r = G·m
+m= G
+gr
+G
+r
+m
+gr
+
+G·m
+r2
+
+-m=
+
+gr·r 2
+G
+
+-r=
+
+√
+
+G·m
+gr
+
+-
+
+32
+
+N m2
+kg 2
+
+m
+kg
+N
+kg
+
+6, 672041E − 11
+
+Atomphysik
+
+6 Atomphysik
+6.1 Atombau
+6.1.1 Kernbausteine(Protonen,Neutronen,Massenzahl)
+Z =A−N
+
+N
+A
+Z
+
+Neutronenzahl
+Nukleonen-,Massenzahl
+Ordnung-,Protonenzahl
+
+A=Z +N
+
+N =A−Z
+
+Interaktive Inhalte: Z = A − N - A = Z + N - N = A − Z -
+
+6.1.2 Atommasse
+ma = Ar · u
+
+u
+Ar
+ma
+
+atomare Masseneinheit
+relative Atommasse
+Atommasse
+
+ma = Ar · u
+
+kg
+kg
+
+ma = Ar · u
+
+Interaktive Inhalte: ma = Ar · u - ma = Ar · u - ma = Ar · u -
+
+6.1.3 Masse des Atomkerns
+mk = ma − Z · me
+
+me
+Z
+ma
+mk
+
+Masse des Elektrons
+Ordnung-,Protonenzahl
+Atommasse
+Masse des Atomkerns
+
+ma = mk + Z · me
+
+Interaktive Inhalte: mk = ma − Z · me - ma = mk + Z · me - Z =
+
+ma −mk
+me
+
+kg
+kg
+kg
+
+ma −mk
+me
+k
+me = ma −m
+Z
+
+Z=
+
+-
+
+me =
+
+ma −mk
+Z
+
+-
+
+6.1.4 Stoffmenge und Anzahl der Teilchen
+ν=
+
+N
+Na
+
+Avogadro-Konstante
+Anzahl der Teilchen
+Stoffmenge
+
+NA
+N
+ν
+
+1
+6, 022045E23 mol
+
+mol
+
+N = Na · ν
+
+Interaktive Inhalte: ν =
+
+N
+Na
+
+- N = Na · ν -
+
+6.1.5 Molare Masse
+M=
+
+m
+ν
+
+ν
+m
+M
+ν=
+
+Interaktive Inhalte: M =
+
+m
+ν
+
+-ν=
+
+m
+M
+
+Stoffmenge
+Masse
+Molare Masse
+m
+M
+
+mol
+kg
+kg
+mol
+
+m=M ·ν
+
+- m=M ·ν -
+
+6.1.6 Masse - Energie
+E = m · c2
+
+Interaktive Inhalte: E = m · c2 - m =
+
+www.fersch.de
+
+E
+c2
+
+c
+m
+E
+
+Lichtgeschwindigkeit
+Masse
+Energie
+
+m=
+
+E
+c2
+
+-
+
+33
+
+m
+s
+
+kg
+J
+
+Nm = W s
+
+Atomphysik
+
+Kernumwandlungen
+
+6.2 Kernumwandlungen
+6.2.1 Zerfallsgesetz
+N (t) = N0 · e−λt
+
+Zeit
+Zerfallskonstante
+zerfallfähige Atome vor der Zeit t
+zerfallfähige Atome nach der Zeit t
+
+t
+λ
+N0
+N (t)
+N0 =
+
+Interaktive Inhalte: N (t) = N0 · e−λt - N0 =
+
+N (t)
+e−λt
+
+Nt
+λ = −ln N
+·
+0
+
+N (t)
+e−λt
+
+Nt
+- λ = −ln N
+·
+0
+
+1
+t
+
+1
+t
+
+Nt
+- t = −ln N
+·
+0
+
+1
+λ
+
+Nt
+t = −ln N
+·
+0
+
+s
+1
+s
+
+1
+λ
+
+-
+
+6.2.2 Halbwertszeit
+T =
+
+ln2
+λ
+
+Interaktive Inhalte: T =
+
+ln2
+λ
+
+-λ=
+
+ln2
+T
+
+λ
+T
+
+Zerfallskonstante
+Halbwertszeit
+
+λ=
+
+ln2
+T
+
+1
+s
+
+s
+
+-
+
+6.2.3 Aktivität
+A = λ · N (t)
+
+Interaktive Inhalte: A = λ · N (t) - N (t) =
+
+A
+λ
+
+N (t)
+λ
+A
+
+zerfallfähige Atome nach der Zeit t
+Zerfallskonstante
+Aktivität
+
+N (t) =
+
+A
+λ
+
+1
+s
+
+Bq
+
+Bq =
+
+1
+s
+
+- hier klicken
+
+6.2.4 Photon
+E =f ·h
+
+Interaktive Inhalte: E = f · h - f =
+
+www.fersch.de
+
+E
+h
+
+h
+f
+E
+
+Planksches Wirkungsquantum
+Eigenfrequenz
+Energie
+
+f=
+
+E
+h
+
+-
+
+34
+
+Js
+hz =
+J
+
+1
+s
+
+Nm = W s
+
+Physikalische Konstanten
+
+7 Physikalische Konstanten
+Name
+Kreiszahl
+Eulersche zahl
+
+Symbol
+π
+e
+
+Zahlenwert
+3.14159265358979323846
+2.71828182845904523536
+
+Einheit
+
+Elektronenladung
+Gravitationskonstante
+Lichtgeschwindigkeit
+Dielektrizitätskonstante
+Permeabilitätskonstante
+(4πε0 )−1
+
+e
+G, κ
+c
+ε0
+µ0
+
+1.60217733 · 10−19
+6.67259 · 10−11
+2.99792458 · 108
+8.854187 · 10−12
+4π · 10−7
+
+C
+m3 kg−1 s−2
+m/s (def)
+F/m
+H/m
+
+Planksches Wirkungsquantum
+Molare Gaskonstante
+Avogadro-Konstante
+Boltzmann-Konstante
+
+h
+R
+NA
+k = R/NA
+
+6.6260755 · 10−34
+8.31441
+6.0221367 · 1023
+1.380658 · 10−23
+
+Js
+J·mol−1 ·K−1
+mol−1
+J/K
+
+Ruhemasse des Elektrons
+Ruhemasse des Protons
+Ruhemasse des Neutrons
+Ruhemasse α-Teilchens
+Atomare Masseneinheit
+Masse der Sonne
+Radius der Erde
+Masse der Erde
+Umlaufdauer Erde-Sonne
+Astronomische Einheit
+Lichtjahr
+Parsec
+Hubble Konstante
+
+me
+mp
+mn
+mn
+1
+mu = 12
+m(126 C)
+M⊙
+RA
+MA
+Tropical year
+AU
+lj
+pc
+H
+
+9.1093897 · 10−31
+1.6726231 · 10−27
+1.674954 · 10−27
+6, 6447 · 10−27
+1.6605656 · 10−27
+1.989 · 1030
+6.378 · 106
+5.976 · 1024
+365.24219879
+1.4959787066 · 1011
+9.4605 · 1015
+3.0857 · 1016
+≈ (75 ± 25)
+
+kg
+kg
+kg
+kg
+kg
+kg
+m
+kg
+Tage
+m
+m
+m
+km·s−1 ·Mpc−1
+
+Basiseinheiten
+Name
+Länge
+Masse
+Zeit
+Temperatur
+Stromstärke
+Lichtstärke
+Stoffmenge
+
+Einheit
+Meter
+Kilogramm
+Sekunden
+Kelvin
+Ampere
+Candela
+mol
+
+Symbol
+m
+kg
+s
+K
+A
+cd
+mol
+
+Abgeleitete Einheiten
+VAs
+Kraft F
+Newton N = mkg
+s2 = m
+2
+Energie E
+Joule J = ms2kg = VAs
+2
+Leistung P
+Watt W = ms3kg = VA
+Ladung Q
+Coulomb C = As
+2
+kg
+Spannung V
+Volt V = ms3 A
+=W
+A
+2
+kg
+V
+Widerstand R
+Ohm Ω = m
+=
+2
+3
+s A 3 2A
+s A
+Leitwert Y
+Siemens S = m2 kg = A
+V
+Kapazität C
+Induktivität L
+magn. Fluß Φ
+Induktion B
+Magnetfeld H
+
+www.fersch.de
+
+s4 A2
+C
+m2 kg = V
+2
+kg
+Henry H = m
+= Vs
+A
+s2 A22
+m kg
+Weber Wb = s2 A = Vs
+Vs
+Tesla T = skg
+2 A = m2
+A
+m
+
+Farad F =
+
+35
+
+Tabellen
+
+8 Tabellen
+8.1 Umrechnungen
+8.1.1 Längen
+m
+dm
+cm
+mm
+µm
+nm
+pm
+km
+m
+dm
+cm
+mm
+µm
+nm
+pm
+km
+
+m
+dm
+cm
+1
+10
+100
+0, 1
+1
+10
+0, 01
+0, 1
+1
+0, 001 0, 01
+0, 1
+10−6
+10−5 0, 0001
+10−9
+10−8
+10−7
+−12
+−11
+10
+10
+10−10
+4
+1000
+10
+105
+Meter
+Dezimeter
+Zentimeter
+Millimeter
+Mikrometer
+Nanometer
+Pikometer
+Kilometer
+
+mm
+1000
+100
+10
+1
+0, 001
+10−6
+10−9
+106
+
+µm
+106
+105
+104
+1000
+1
+0, 001
+10−6
+109
+
+nm
+109
+108
+107
+106
+1000
+1
+0, 001
+1012
+
+pm
+1012
+1011
+1010
+109
+106
+1000
+1
+1015
+
+km
+0, 001
+0, 0001
+10−5
+10−6
+10−9
+10−12
+10−15
+1
+
+8.1.2 Flächen
+2
+
+m
+dm2
+cm2
+mm2
+a
+ha
+km2
+m2
+dm2
+cm2
+mm2
+a
+ha
+km2
+
+m2
+dm2
+cm2
+1
+100
+104
+0, 01
+1
+100
+0, 0001
+0, 01
+1
+10−6
+0, 0001 0, 01
+100
+104
+106
+104
+106
+108
+6
+8
+10
+10
+1010
+Quadratmeter
+Quadratdezimeter
+Quadratzentimeter
+Quadratmillimeter
+Ar
+Hektar
+Quadratkilometer
+
+mm2
+106
+104
+100
+1
+108
+1010
+1012
+
+a
+0, 01
+0, 0001
+10−6
+10−8
+1
+100
+104
+
+ha
+0, 0001
+10−6
+10−8
+10−10
+0, 01
+1
+100
+
+km2
+10−6
+10−8
+10−10
+10−12
+0, 0001
+0, 01
+1
+
+8.1.3 Volumen
+3
+
+m
+dm3
+cm3
+mm3
+l
+hl
+ml
+m3
+dm3
+cm3
+mm3
+l
+hl
+ml
+
+m3
+dm3
+cm3
+1
+1000
+106
+0, 001
+1
+1000
+10−6 0, 001
+1
+10−9
+10−6 0, 001
+0, 001
+1
+1000
+0, 1
+100
+105
+−6
+10
+0, 001
+1
+Kubikmeter
+Kubikdezimeter
+Kubikzentimeter
+Kubikmillimeter
+Liter
+Hektoliter
+Milliliter
+
+www.fersch.de
+
+mm3
+109
+106
+1000
+1
+106
+108
+1000
+
+l
+1000
+1
+0, 001
+10−6
+1
+100
+0, 001
+
+hl
+10
+0, 01
+10−5
+10−8
+0, 01
+1
+10−5
+
+ml
+106
+1000
+1
+0, 001
+1000
+105
+1
+
+36
+
+Tabellen
+
+Umrechnungen
+
+8.1.4 Zeit
+s
+min
+h
+ms
+µs
+ns
+ps
+s
+min
+h
+ms
+µs
+ns
+ps
+
+s
+min
+1
+0, 01667
+60
+1
+3600
+60
+0, 001 1, 667 · 10−5
+10−6
+1, 667 · 10−8
+−9
+10
+1, 667 · 10−11
+−12
+10
+1, 667 · 10−14
+Sekunden
+Minuten
+Stunden
+Millisekunden
+Mikrosekunden
+Nanosekunden
+Pikosekunden
+
+h
+0, 0002778
+0, 01667
+1
+2, 778 · 10−7
+2, 778 · 10−10
+2, 778 · 10−13
+2, 778 · 10−16
+
+ms
+1000
+6 · 104
+3, 6 · 106
+1
+0, 001
+10−6
+10−9
+
+µs
+106
+6 · 107
+3, 6 · 109
+1000
+1
+0, 001
+10−6
+
+ns
+109
+6 · 1010
+3, 6 · 1012
+106
+1000
+1
+0, 001
+
+ps
+1012
+6 · 1013
+3, 6 · 1015
+109
+106
+1000
+1
+
+8.1.5 Vorsilben
+d
+
+0, 1
+
+1
+
+10
+
+100
+
+µ
+106
+105
+
+c
+
+0, 01
+
+0, 1
+
+1
+
+10
+
+104
+
+m
+
+0, 001
+10−6
+
+0, 01
+10−5
+
+0, 1
+
+1
+
+1000
+
+1
+
+µ
+n
+p
+
+10−9
+10−12
+
+d
+
+c
+
+m
+
+10
+
+100
+
+1000
+
+10−8
+10−11
+
+a
+
+10−15
+10−18
+
+da
+
+10
+
+100
+
+h
+
+100
+
+k
+
+1000
+106
+
+1000
+104
+
+f
+
+M
+G
+T
+P
+E
+
+d
+c
+m
+µ
+n
+p
+f
+a
+da
+h
+k
+M
+G
+T
+P
+E
+
+109
+1012
+1015
+1018
+
+10−14
+10−17
+
+107
+1010
+1013
+1016
+1019
+
+0, 0001
+10−7
+
+0, 001
+10−6
+
+n
+109
+108
+
+p
+1012
+1011
+
+f
+1015
+1014
+
+a
+1018
+1017
+
+107
+106
+
+1010
+109
+
+1013
+1012
+
+1016
+1015
+
+1
+
+1000
+
+106
+
+0, 001
+10−6
+
+1
+
+1000
+
+109
+106
+
+1012
+109
+
+1
+
+1000
+
+106
+
+0, 001
+10−6
+
+1
+
+1000
+
+0, 001
+1016
+
+1
+1019
+1020
+
+10−10
+10−13
+10−16
+
+10−9
+10−12
+10−15
+
+10−9
+10−12
+
+1000
+104
+
+104
+105
+
+107
+108
+
+105
+108
+
+106
+109
+
+109
+1012
+
+1011
+1014
+1017
+1020
+
+1012
+1015
+1018
+1021
+
+1015
+1018
+1021
+1024
+
+0, 001
+10−6
+10−9
+1010
+1011
+1012
+1015
+1018
+1021
+1024
+1027
+
+1013
+1014
+1015
+1018
+1021
+1024
+1027
+1030
+
+1017
+1018
+1021
+1024
+1027
+1030
+1033
+
+h
+
+k
+
+0, 01
+
+0, 001
+
+0, 01
+
+0, 001
+
+0, 001
+
+0, 0001
+10−5
+
+0, 0001
+10−5
+
+0, 0001
+10−7
+10−10
+10−13
+10−16
+10−19
+1
+
+10−8
+10−11
+10−14
+10−17
+
+10−6
+10−9
+
+10−12
+10−15
+
+M
+10−6
+10−7
+10−8
+10−9
+
+10−12
+10−15
+10−18
+10−21
+
+10−20
+
+10−18
+10−21
+
+0, 1
+
+0, 01
+
+10−24
+10−5
+
+G
+
+10−9
+10−10
+10−11
+10−12
+10−15
+10−18
+10−21
+10−24
+10−27
+10−8
+10−7
+
+T
+10−12
+10−13
+
+P
+10−15
+10−16
+
+E
+10−18
+10−19
+
+10−18
+10−21
+
+10−21
+10−24
+
+10−24
+10−27
+
+10−14
+10−15
+
+10−24
+10−27
+10−30
+10−11
+10−10
+10−9
+
+10−17
+10−18
+
+10−27
+10−30
+10−33
+10−14
+10−13
+10−12
+
+10
+
+1
+
+0, 1
+
+0, 0001
+
+1021
+1024
+
+100
+105
+
+10
+104
+
+1
+
+0, 001
+
+10−6
+
+1
+
+0, 001
+
+10−6
+
+1027
+1030
+1033
+1036
+
+108
+1011
+1014
+1017
+
+107
+1010
+1013
+1016
+
+1000
+106
+109
+1012
+
+1
+
+0, 001
+
+10−9
+10−6
+
+1000
+106
+109
+
+1
+1000
+106
+
+0, 001
+1
+1000
+
+Bezugsgröße
+Dezi
+Zenti
+Milli
+Mikro
+Nano
+Pico
+Femto
+Atto
+Deka
+Hekto
+Kilo
+Mega
+Giga
+Tera
+Peta
+Exa
+
+www.fersch.de
+
+da
+0, 1
+
+37
+
+1000
+106
+109
+1012
+1015
+
+10−20
+10−21
+
+10−30
+10−33
+10−36
+10−17
+10−16
+10−15
+10−12
+10−9
+10−6
+0, 001
+1
+
+Tabellen
+
+Umrechnungen
+
+8.1.6 Masse
+kg
+g
+mg
+t
+oz
+lb
+t
+kg
+g
+mg
+t
+oz
+lb
+t
+
+kg
+g
+1
+1000
+0, 001
+1
+10−6
+0, 001
+1000
+106
+0, 02835
+28, 35
+0, 4536
+453, 6
+1016
+1, 016 · 106
+Kilogramm
+Gramm
+Milligramm
+Tonne
+ounce
+pound
+ton(UK)
+
+mg
+106
+1000
+1
+109
+2, 835 · 104
+4, 536 · 105
+1, 016 · 109
+
+t
+0, 001
+10−6
+10−9
+1
+2, 835 · 10−5
+0, 0004536
+1, 016
+
+oz
+35, 28
+0, 03528
+3, 528 · 10−5
+3, 528 · 104
+1
+16
+3, 584 · 104
+
+lb
+2, 205
+0, 002205
+2, 205 · 10−6
+2205
+0, 06249
+1
+2240
+
+t
+0, 0009843
+9, 843 · 10−7
+9, 843 · 10−10
+0, 9843
+2, 79 · 10−5
+0, 0004464
+1
+
+8.1.7 Kraft
+N
+cN
+mN
+kN
+MN
+kp
+p
+dyn
+pdl
+lbf
+N
+cN
+mN
+kN
+MN
+kp
+p
+dyn
+pdl
+lbf
+
+N
+cN
+1
+100
+0, 01
+1
+0, 001
+0, 1
+1000
+105
+6
+10
+108
+9, 807
+980, 7
+0, 009807 0, 9807
+10−5
+0, 001
+0, 1383
+13, 83
+4, 448
+444, 8
+Newton
+Zentinewton
+Millinewton
+Kilonewton
+Meganewton
+Kilopond
+Pond
+Dyn
+poundal
+pound-force
+
+mN
+1000
+10
+1
+106
+109
+9807
+9, 807
+0, 01
+138, 3
+4448
+
+kN
+0, 001
+10−5
+10−6
+1
+1000
+0, 009807
+9, 807 · 10−6
+10−8
+0, 0001383
+0, 004448
+
+MN
+10−6
+10−8
+10−9
+0, 001
+1
+9, 807 · 10−6
+9, 807 · 10−9
+10−11
+1, 383 · 10−7
+4, 448 · 10−6
+
+kp
+0, 102
+0, 00102
+0, 000102
+102
+1, 02 · 105
+1
+0, 001
+1, 02 · 10−6
+0, 0141
+0, 4536
+
+p
+102
+1, 02
+0, 102
+1, 02 · 105
+1, 02 · 108
+1000
+1
+0, 00102
+14, 1
+453, 6
+
+dyn
+105
+1000
+100
+108
+1011
+9, 807 · 105
+980, 7
+1
+1, 383 · 104
+4, 448 · 105
+
+pdl
+7, 231
+0, 07231
+0, 007231
+7231
+7, 231 · 106
+70, 91
+0, 07091
+7, 231 · 10−5
+1
+32, 16
+
+lbf
+0, 2248
+0, 002248
+0, 0002248
+224, 8
+2, 248 · 105
+2, 205
+0, 002205
+2, 248 · 10−6
+0, 03109
+1
+
+8.1.8 Energie-Arbeit
+J
+Nm
+Ws
+kW h
+cal
+Kcal
+eV
+BT U
+J
+Nm
+Ws
+kW h
+cal
+Kcal
+eV
+BT U
+
+J
+Nm
+1
+1
+1
+1
+1
+1
+3, 6 · 106
+3, 6 · 106
+4, 187
+4, 187
+4187
+4187
+1, 602 · 10−19 1, 602 · 10−19
+1055
+1055
+Joule
+Newtonmeter
+Wattsekunde
+Kilowattstunde
+Kalorie
+Kilokalorie
+Elektronenvolt
+British thermal unit
+
+www.fersch.de
+
+Ws
+1
+1
+1
+3, 6 · 106
+4, 187
+4187
+1, 602 · 10−19
+1055
+
+kW h
+2, 778 · 10−7
+2, 778 · 10−7
+2, 778 · 10−7
+1
+1, 163 · 10−6
+0, 001163
+4, 45 · 10−26
+0, 0002931
+
+38
+
+cal
+0, 2388
+0, 2388
+0, 2388
+8, 598 · 105
+1
+1000
+3, 827 · 10−20
+252
+
+Kcal
+0, 0002388
+0, 0002388
+0, 0002388
+859, 8
+0, 001
+1
+3, 827 · 10−23
+0, 252
+
+eV
+6, 242 · 1018
+6, 242 · 1018
+6, 242 · 1018
+2, 247 · 1025
+2, 613 · 1019
+2, 613 · 1022
+1
+6, 585 · 1021
+
+BT U
+0, 0009478
+0, 0009478
+0, 0009478
+3412
+0, 003968
+3, 968
+1, 518 · 10−22
+1
+
+Tabellen
+
+Umrechnungen
+
+8.1.9 Leistung
+W
+J
+s
+Nm
+s
+
+PS
+KW
+hp
+BT U /s
+BT U /h
+W
+J
+s
+Nm
+s
+
+PS
+KW
+hp
+BT U /s
+BT U /h
+
+J
+Nm
+W
+PS
+s
+s
+1
+1
+1
+0, 00136
+1
+1
+1
+0, 00136
+1
+1
+1
+0, 00136
+735, 5
+735, 5
+735, 5
+1
+1000
+1000
+1000
+1, 36
+745, 7
+745, 7
+745, 7
+1, 014
+1055
+1055
+1055
+1, 434
+0, 2931 0, 2931 0, 2931 0, 0003985
+Watt
+Joule pro Sekunde
+Newtonmeter/Sekunde
+Pferdestärke
+Kilowatt
+horsepower
+BTU/Sekunde
+BTU/Stunde
+
+KW
+0, 001
+0, 001
+0, 001
+0, 7355
+1
+0, 7457
+1, 055
+0, 0002931
+
+hp
+0, 001341
+0, 001341
+0, 001341
+0, 9863
+1, 341
+1
+1, 415
+0, 000393
+
+BT U /s
+0, 0009478
+0, 0009478
+0, 0009478
+0, 6971
+0, 9478
+0, 7068
+1
+0, 0002778
+
+BT U /h
+3, 412
+3, 412
+3, 412
+2510
+3412
+2544
+3600
+1
+
+8.1.10 Geschwindigkeit
+m
+s
+km
+h
+ft
+s
+mi
+hr
+
+kn =
+m
+s
+km
+h
+ft
+s
+mi
+hr
+
+kn =
+
+m
+s
+
+sm
+h
+
+sm
+h
+
+km
+h
+
+ft
+s
+
+1
+3, 6
+3, 281
+0, 2778
+1
+0, 9113
+0, 3048 1, 097
+1
+0, 447 1, 609 1, 467
+0, 5144 1, 852 1, 688
+Meter/Sekunde
+Kilometer/Stunde
+Feet per sec
+Miles per hour
+Knoten
+
+mi
+hr
+
+2, 237
+0, 6214
+0, 6818
+1
+1, 151
+
+kn = sm
+h
+1, 944
+0, 54
+0, 5925
+0, 869
+1
+
+8.1.11 Druck
+Pa
+N
+m2
+
+bar
+at
+atm
+T orr
+mmHg
+psf
+psi
+mbar
+Pa
+N
+m2
+
+bar
+at
+atm
+T orr
+mmHg
+psf
+psi
+mbar
+
+N
+Pa
+bar
+m2
+1
+1
+10−5
+1
+1
+10−5
+5
+5
+10
+10
+1
+9, 807 · 104 9, 807 · 104
+0, 9807
+1, 013 · 105 1, 013 · 105
+1, 013
+133, 3
+133, 3
+0, 001333
+133, 3
+133, 3
+0, 001333
+47, 88
+47, 88
+0, 0004788
+6895
+6895
+0, 06895
+100
+100
+0, 001
+Pascal
+Newton/Quadratmeter
+Bar
+Tech. Atmosphäre
+Physikalische. Atmosphäre
+Torr
+Millimeter Quecksilber
+pound per square foot
+pound per square inch
+Millibar
+
+www.fersch.de
+
+at
+1, 02 · 10−5
+1, 02 · 10−5
+1, 02
+1
+1, 033
+0, 00136
+0, 00136
+0, 0004882
+0, 07031
+0, 00102
+
+atm
+9, 869 · 10−6
+9, 869 · 10−6
+0, 9869
+0, 9678
+1
+0, 001316
+0, 001316
+0, 0004725
+0, 06805
+0, 0009869
+
+39
+
+T orr
+0, 007501
+0, 007501
+750, 1
+735, 6
+760
+1
+1
+0, 3591
+51, 72
+0, 7501
+
+mmHg
+0, 007501
+0, 007501
+750, 1
+735, 6
+760
+1
+1
+0, 3591
+51, 72
+0, 7501
+
+psf
+0, 02089
+0, 02089
+2089
+2048
+2116
+2, 785
+2, 785
+1
+144
+2, 089
+
+psi
+0, 000145
+0, 000145
+14, 5
+14, 22
+14, 7
+0, 01934
+0, 01934
+0, 006944
+1
+0, 0145
+
+mbar
+0, 01
+0, 01
+1000
+980, 7
+1013
+1, 333
+1, 333
+0, 4788
+68, 95
+1
+
+Tabellen
+
+Umrechnungen
+
+8.1.12 Frequenz
+Hz = 1s
+kHz
+M Hz
+GHz
+Hz = 1s
+kHz
+M Hz
+GHz
+
+Hz = 1s
+kHz
+1
+0, 001
+1000
+1
+106
+1000
+1012
+109
+Hertz
+Kilohertz
+Megahertz
+Gigahertz
+
+M Hz
+10−6
+0, 001
+1
+106
+
+GHz
+10−12
+10−9
+10−6
+1
+
+8.1.13 Spannung
+V
+mV
+µV
+kV
+MV
+V
+mV
+µV
+kV
+MV
+
+V
+mV
+1
+1000
+0, 001
+1
+10−6 0, 001
+1000
+106
+6
+10
+109
+Volt
+Millivolt
+Mikrovolt
+Kilovolt
+Megavolt
+
+µV
+106
+1000
+1
+109
+1012
+
+kV
+0, 001
+10−6
+10−9
+1
+1000
+
+MV
+10−6
+10−9
+10−12
+0, 001
+1
+
+A
+mA
+µA
+1
+1000
+106
+0, 001
+1
+1000
+10−6 0, 001
+1
+1000
+106
+109
+106
+109
+1012
+Ampere
+Milliampere
+Mikroampere
+Kiloampere
+Megaampere
+
+kA
+0, 001
+10−6
+10−9
+1
+1000
+
+MA
+10−6
+10−9
+10−12
+0, 001
+1
+
+8.1.14 Strom
+A
+mA
+µA
+kA
+MA
+A
+mA
+µA
+kA
+MA
+
+8.1.15 Widerstand
+Ω
+mΩ
+µΩ
+kΩ
+M
+Omega
+Ω
+1
+1000
+106 0, 001 10−6
+mΩ
+0, 001
+1
+1000 10−6
+10−9
+−6
+−9
+µΩ
+10
+0, 001
+1
+10
+10−12
+6
+9
+kΩ
+1000
+10
+10
+1
+0, 001
+MΩ
+106
+109
+1012
+1000
+1
+Ω
+Ohm
+mΩ
+Milliohm
+µΩ
+Mikroohm
+kΩ
+Kiloohm
+M Ω Megaohm
+H
+mH
+µH
+nH
+kH
+H
+1
+1000
+106
+109
+0, 001
+mH 0, 001
+1
+1000
+106
+10−6
+−6
+µH
+10
+0, 001
+1
+1000 10−9
+nH
+10−9
+10−6 0, 001
+1
+10−12
+kH
+1000
+106
+109
+1012
+1
+H
+Henry
+mH Millihenry
+µH
+Mikrohenry
+nH
+Nanohenry
+kH
+Kilohenry
+
+www.fersch.de
+
+40
+
+Tabellen
+
+F
+mF
+µF
+nF
+pF
+kF
+F
+mF
+µF
+nF
+pF
+kF
+
+F
+mF
+1
+1000
+0, 001
+1
+10−6 0, 001
+10−9
+10−6
+−12
+10
+10−9
+1000
+106
+Farad
+Millifarad
+Mikrofarad
+Nanofarad
+Pikofarad
+Kilofarad
+
+www.fersch.de
+
+Umrechnungen
+
+µF
+106
+1000
+1
+0, 001
+10−6
+109
+
+nF
+109
+106
+1000
+1
+0, 001
+1012
+
+pF
+1012
+109
+106
+1000
+1
+1015
+
+kF
+0, 001
+10−6
+10−9
+10−12
+10−15
+1
+
+41
+
+

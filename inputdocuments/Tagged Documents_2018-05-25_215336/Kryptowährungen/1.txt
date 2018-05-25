@@ -1,0 +1,197 @@
+
+Postanschrift Berlin: Bundesministeriu m der Finanzen, 11016 Berlin
+www.bundesfinanzministerium.de
+POSTANSCHRIFT
+Bundesministerium der Finanzen, 11016 Berlin
+Nur per E
+-
+Mail
+Oberste 
+Finanzbehörden
+der Länder
+HAUSANSCHRIFT
+Wilhelmstraße 97
+10117 Berlin
+TEL
++49 (0) 30 18 682
+-
+0
+E
+-
+MAIL
+poststelle
+@bmf.bund.de
+DATUM
+27. Februar 2018
+- E -Mail
+-Verteiler U 1 -
+BETREFF
+Umsatzsteuerliche Behandlung von Bitcoin und anderen sog. virtuellen Währungen;
+EuGH
+-
+Urteil vom 22.
+Oktober
+2015, C
+-
+264/14, Hedqvist
+GZ
+III C 3 
+-
+S 7160
+-
+b/13/10001
+DOK
+2018/0163969
+(bei Antwort bitte GZ und 
+DOK
+angeben)
+Mit Urteil vom 22. Oktober
+ 2015 hat der EuGH entschieden, dass
+ es sich bei dem Umtausch 
+konventioneller Währungen in Einheiten der sog. virtuellen Währung Bitcoin und umgekehrt 
+um eine Dienstleistung gegen Entgelt i.
+ S.
+ d. Art. 2 Abs. 1 Buchst. c MwStSysRL handelt, die 
+unter die Steuerbefreiung nach Art. 135 Abs. 1 Buchst. e MwStSysRL fällt.  
+Daneben können den Urteilsgrundsätzen auch generelle Ausführungen zur umsatzsteuer
+-
+rechtlichen Behandlung von sog. virtuellen Währungen entnommen werden, die wie der 
+Bitcoin als vertragliches unmittelbares Zahlungsmittel zwischen Wirtschaftsteilnehmern 
+akzeptiert werden und die keinem anderen Zweck als der Verwendung als Zahlungsmittel 
+dienen.
+Nach dem Ergebnis der 
+Erörterungen mit den obersten Finanzbehörden der Länder 
+gilt hierzu 
+Folgendes
+: 
+I.
+Umsätze, die sich auf Bitcoin beziehen
+Der Umtausch von Bitcoin
+Bei dem
+ Umtausch
+ von konventionellen Währungen in Bitcoin
+ und umgekehrt handelt es 
+sich um eine steuerbare son
+stige Leistung, die im Rahmen einer richtlinienkonformen 
+Seite 
+2
+Gesetzesauslegung nach §
+ 4 Nr.
+ 8 Buchst. b UStG umsatzsteuerfrei ist.
+Die Verwendung von Bitcoin als Entgelt
+Die Verwendung von Bitcoin wird der Verwendung von konventionellen Zahlungsmit
+-
+teln gleichgesetzt, soweit sie keinem anderen Zweck als dem eines reinen Zahlungsmit
+-
+tels dienen. Die Hingabe von Bitcoin zur bloßen Entgeltentrichtung ist somit nicht 
+steuerbar.
+Bei Zahlung mit Bitcoin bestimmt sich das Entgelt beim Leistenden grundsätzlich nach 
+dem Gegenwert in der Währung des Mitgliedsstaates, in dem die Leistung erfolgt und zu 
+dem Zeitpunkt, zu dem diese Leistung ausgeführt wird. In analoger Anwendung des 
+Art.
+ 91 Abs. 2 MwStSystRL soll die Umrechnung zum letzten veröffentlichten Verkaufs
+-
+kurs (
+z. B. auf entsprechenden Umrechnungsportalen im Internet) erfolgen. Dieser ist 
+vom leistenden Unternehmer zu dokumentieren.
+Folgefragen hinsichtlich der umsatzsteuerlichen Behandlung von Bitcoin in Bezug auf 
+weitere Umsätze 
+a)    „Mining“
+Die sog. „Miner“ erfüllen in dem auf mathematischen Algorithmen beruhenden Pro-
+gramm des Bitcoin
+-Systems eine zentrale Aufgabe, da die Leistung ihrer Rechner
+-
+netzwerke Grundvoraussetzung für die Aufrechterhaltung des Systems ist. Miner 
+stellen für das „Schürfen“ von Bitcoi
+n dem sog. Miningpool ihre Rechnerleistung zur 
+Verfügung, zeichnen Transaktionen in einem sog. „Block“ auf und transferieren 
+diesen anschließend in die sog. „Blockchain“.
+Bei den Leistungen der Miner handelt es sich um nicht steuerbare Vorgänge.
+Die sog. Transaktionsgebühr, welche die Miner von anderen Nutzern des Systems 
+erhalten können, wird freiwillig gezahlt und steht in keinem unmittelbaren Zusam
+-
+menhang mit den Leistungen der Miner.
+Auch die Entlohnung in Form des Erhalts neuer Bitcoin durch das Syst
+em selbst ist 
+nicht als Entgelt für die Minerleistungen anzusehen, da die Minerleistungen nicht im 
+Rahmen eines Leistungsaustauschverhältnisses erbracht werden. Dieses setzt neben 
+dem Leistenden das Vorhandensein eines identifizierbaren Leistungsempfängers
+voraus. 
+Seite 
+3
+b)    „Wallet“
+Die „Wallets“ (elektronische Geldbörsen) werden auf dem Computer, Tablet oder 
+Smartphone gespeichert und dienen der Aufbewahrung der sog. virtuellen Währung. 
+Eine Wallet kann z.
+B. eine App für ein Smartphone sein, die aus einem A
+ppstore 
+heruntergeladen werden kann. Soweit Anbieter für die digitalen Wallets eine Zah
+-
+lung von Gebühren verlangen, liegen auf elektronischem Weg erbrachte sonstige 
+Leistungen i.
+ S.
+ d. § 3a Abs. 5 Satz
+ 2 Nr.
+ 3 UStG vor, die nach Maßgabe des § 3a 
+Abs.
+ 2 bz
+w. Abs.
+ 5 Satz
+ 1 UStG steuerbar und steuerpflichtig sind, soweit der Leis
+-
+tungsort im Inland liegt (vgl. hierzu auch Abschnitt
+ 3a.9a Abs. 1 bis
+ 8 UStAE).
+c)    Handelsp
+lattformen
+Stellt der Betreiber einer Handelsplattform seine Internetseite als technischen Markt
+-
+platz zum Erwerb bzw. Handel von Bitcoin den Marktteilnehmern zur Verfügung, 
+handelt es sich um die Ermöglichung der rein EDV
+-technischen Abwicklung. Eine 
+Steuerbefreiung nach §
+ 4 Nr.
+ 8 UStG kommt hierfür nicht in Betracht. 
+Soweit der Betreiber der Plattform allerdings den Kauf und Verkauf von Bitcoin als 
+Mittelsperson im eigenen Namen vornimmt, kommt die Steuerbefreiung nach §
+ 4 
+Nr.
+ 8 Buchst. b UStG in Betracht.
+II.
+Umsätze, die sich auf andere sog. virtuelle Währungen beziehen
+Angesichts der Urteilsgründe und unter Berücksichtigung des Gleichbehandlungsgrund-
+satzes werden auch andere sog. virtuelle Währungen den gesetzlichen Zahlungsmitteln 
+gleichgestellt, soweit diese Währungen von den an der Transaktion Beteiligten als 
+alternatives vertr
+agliches und unmittelbares Zahlungsmittel akzeptiert worden sind und 
+keinem anderen Zweck als der Verwendung als Zahlungsmittel dienen
+. 
+Dementsprechend ist der Umtausch
+ solcher sog. virtuellen Währungen in gesetzliche 
+Zahlungsmittel und umgekehrt steuerbef
+reit. Dies gilt nicht für virtuelles Spielgeld (sog. 
+Spielwährungen oder Ingame
+-Währungen, insbesondere in Onlinespielen), da dieses kein 
+Zahlungsmittel i.
+ S.
+ d. MwStSystRL darstellt.
+III.
+Änderung des Umsatzsteuer-
+Anwendungserlasses
+Im Umsatzsteuer
+-Anwendungserlass vom 1. Oktober
+ 2010, BStBl
+ I S.
+ 846, der zuletzt 
+durch das BMF
+-Schreiben vom 7. Februar
+ 2018 -
+ III C 3 -
+ S 7433/15/10001 
+(2018/0108025)
+, BStBl I Seite
+ xxx, geändert worden ist, wird in Abschnitt
+ 4.8.3 nach 
+Absatz
+ 3 folgender neuer Absatz
+ 3a eingefügt:

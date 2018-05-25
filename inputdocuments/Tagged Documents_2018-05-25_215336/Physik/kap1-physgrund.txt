@@ -1,0 +1,3598 @@
+Kapitel 1
+
+1.
+
+Physikalische Grundlagen
+
+Seite:
+
+1
+
+PHYSIKALISCHE GRUNDLAGEN
+
+Kapitel 1 beschreibt die physikalischen Grundgesetze, denen ein Taucher insbesondere unterliegt.
+Ein sehr gutes Verständnis dieser physikalischen Zusammenhänge ist Voraussetzung für die Sicherheit und erfolgreiche Arbeit eines Forschungstauchers.
+
+1.1. Begriffe, Definitionen
+1.1.1. Kraft, Masse, Gewicht
+Sir Isaac Newton, 1642-1727, englischer Philosoph und Wissenschaftler
+
+Newtonsche Näherung
+Kraft = Masse × Beschleunigung
+
+Formel:
+SI-Einheiten:
+
+F=m×b
+m = Masse [kg]
+
+F = Kraft [N]
+
+Definition:
+Ein Newton {SI-Einheit} entspricht der Kraft, die einem Körper der Masse 1 kg die Beschleunigung 1 m s-2 erteilt.
+[1 N = 1 kg m s-2]
+Diese Definition gilt immer, sie ist nicht auf die Erde bezogen. Dagegen ist die Fallbeschleunigung b von der
+geographischen Breite abhängig. Der mittlere Wert ist mit 9,81 m s-2 festgelegt.
+
+Unter dem "Gewicht" eines Körpers versteht man die Gewichtskraft, d.h. die im Schwerefeld
+der Erde auf ihn ausgeübte Kraft.
+„Gewicht“ ≡ Gewichts k r a f t
+
+Die Masse (Menge) eines Körpers wird in kg angegeben und ist vom Ort unabhängig. So ist
+die Masse eines Körpers auf der Erde gleich seiner Masse auf dem Mond, während seine
+Gewichte deutlich verschieden sind.
+Auf der Erde gilt:
+1 kg Masse "wiegt" (in Luft):
+
+1 × 9,81 N = 9,81 N ≈ 10 N
+
+oder anders ausgedrückt:
+9,81 N ( 10 N) ist die Kraft, um die eine Masse von 1 kg im freien Fall beschleunigt wird.
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+2
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Beispiel 1
+
+Eine Masse von 29 kg ‚wiegt‘ an Land 29 * 9,81 = 290 N.
+
+Beispiel 2
+
+Ein Newton ist die Kraft, mit der eine Tafel Schokolade (Masse = 102 g)
+auf eine Unterlage drückt.
+
+1.1.2.
+
+Dichte
+
+"Dichte" ist eine skalare Größe, definiert als Masse pro Volumen.
+
+Dichte = Masse pro Volumen
+
+ρ=
+ρ := (rho)
+
+-3
+
+m
+V
+
+-1
+
+ρ = Dichte [ kg dm ] = [kg l ]
+m = Masse [kg]
+V = Volumen [l]
+1 kg chemisch reines Wasser nimmt bei seiner größten Dichte (3,98 °C) einen Raum von
+3
+1 dm (= 1 Liter) ein.
+
+1 Liter
+Kantenlänge: jeweils 10 cm
+
+Reines Wasser (Süßwasser) hat bei 4 °C seine maximale Dichte. Diese und weitere ungewöhnliche Eigenschaften des Wassers werden allgemein als 'Anomalie des Wassers' bezeichnet. Eis ist leichter als Wasser und schwimmt deshalb an der Oberfläche. In tieferen
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Seite:
+
+3
+
+Süßwasserseen unserer geographischen Breiten hat das Wasser am Boden immer eine Temperatur von etwa 4 °C.
+Bei Salzwasser hängt die Dichte auch vom Salzgehalt ab. Der Gefrierpunkt liegt niedriger
+als beim Süßwasser. Bei einem Salzgehalt von 24,7 liegt er bei -1,33 °C; bei einem Salzgehalt von 35,0 bei -1,91 °C.
+Anmerkung: In der Meereskunde wird der Begriff „Praktischer Salzgehalt“ (‚practical salinity‘) verwendet und verkürzt der Begriff „Salzgehalt“ benutzt. Augrund der zugrunde gelegten Definition entfällt
+der Faktor 10-3, der früher durch Υ oder ppt ausgedrückt wurde.
+
+Tabelle I / 1 :
+
+Dichte von gasförmigen, flüssigen und festen Stoffen
+
+3
+(1 l = 1 dm )
+
+(Dichte bei 0 °C und 1013 mbar Luftdruck, falls nichts anderes angegeben.)
+-1
+
+Stoff
+Luft
+
+Dichte [g l ]
+
+-3
+
+1,29
+
+-3
+
+1,25
+
+-3
+
+1,42
+
+-3
+
+1,98
+
+-3
+
+0,17
+
+1,29 * 10
+
+Stickstoff (N2)
+Sauerstoff (O2)
+Kohlendioxid (CO2)
+Helium
+
+1,25 * 10
+1,42 * 10
+1,98 * 10
+0,17 * 10
+
+Süßwasser von 4 °C
+Süßwasser von 15 °C
+Süßwasser von 20 °C
+Süßwasser von 25 °C
+
+= ρLuft × 1,5
+
+1,00000
+0,99910
+
+1 g leichter als bei 4 °C
+
+0,99823
+
+2 g leichter als bei 4 °C
+
+0,99705
+
+3 g leichter als bei 4 °C
+
+∼ 1,03
+(1,01 - 1,08)
+1,055
+
+Salzwasser
+Blut
+Kork
+
+0,2 - 0,3
+
+Holz
+
+0,4 - 1,0
+
+Eis von 0°C
+
+0,917
+
+Aluminium
+
+2,7
+
+Beton
+
+2,2 - 2,4
+
+Stahl
+
+7,8
+
+Blei
+Hinweis
+
+-1
+
+Dichte [kg l ]
+
+11,34
+In britischen und amerikanischen Einheiten wird die Dichte in 'pounds per cubic foot [lb ft-3]' angegeben. Die Umrechnung von der metrischen Einheit (SIEinheit) in die brit./amerik. Einheit erfolgt durch Multiplikation mit 0,06245.
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+4
+
+1.1.3.
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Spezifisches Gewicht
+
+Gewichtskraft des Stoffes
+Das spezifische Gewicht eines Stoffes = ---------------------------------------Volumen des Stoffes
+
+Das spezifische Gewicht eines Körpers ist das Verhältnis seiner Gewichtskraft zu seinem
+Volumen.
+Die Dichte und das spezifische Gewicht unterscheiden sich um den Faktor der
+Fallbeschleunigung G.
+Dichte (r) x Fallbeschleunigung (G) = Spezifisches Gewicht (g)
+Das spezifische Gewicht ist im Gegensatz zur Dichte ortsabhängig, da die Fallbeschleunigung
+nicht überall gleich ist.
+Einheiten für spez. Gewicht (g): [N / m³] oder [(kg m) / (m³ s²)]
+
+1.1.4.
+
+Temperatur (kinetische Gastheorie)
+
+Alle Stoffe kommen in drei Zustandsformen (Aggregatzustände) vor:
+¾ fest
+¾ flüssig
+¾ gasförmig
+Dabei führen die kleinsten Teilchen (Atome, Moleküle) Bewegungen aus:
+fest
+
+-
+
+Bewegung um die Ruhelage
+Da die gegenseitige Bindung der Teilchen an ihren Nachbarteilchen verhältnismäßig stark ist, bleiben feste Strukturen erhalten.
+
+flüssig
+
+-
+
+Freie Bewegung, aber im gegenseitigen Kontakt.
+Die durchschnittlich gleiche Entfernung der Nachbarmoleküle bleibt erhalten → konstantes Volumen, aber die Gestalt kann sich ändern.
+
+gasförmig
+
+-
+
+Isolierte Teilchen führen eine freie Bewegung durch, es kommt
+zu Zusammenstößen.
+Geringe gegenseitige Bindungskräfte, durchschnittliche gegenseitige Entfernung wird nur durch den verfügbaren Raum bestimmt.
+
+Temperatur ist ein Maß für die mittlere kinetische Energie (Bewegungsenergie) der Moleküle eines Körpers (Wärme). Sie wird mit einem Thermometer gemessen.
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Seite:
+
+5
+
+Grundlage für die gebräuchliche Temperatur-Skala (Grad Celsius) sind bestimmte Eigenschaften von Wasser (bei 1 bar Umgebungsdruck) und zwar sind Fixpunkte:
+Schmelzpunkt von Eis
+=
+0 °C
+Siedepunkt von Wasser
+=
+100 °C
+In den Naturwissenschaften (Anwendung der Gasgesetze) benutzt man meist die thermodynamische Temperatur-Skala (absolute oder Kelvin Skala) mit gleicher Einheit,
+d.h.
+1 °C Temperatur-Differenz entsprechen 1 Kelvin-Temperatur-Differenz,
+aber der Nullpunkt ist verschoben.
+Symbole:
+
+t
+T
+
+=
+=
+
+Temperatur in °C
+Temperatur in Kelvin (K)
+
+0 Kelvin ≡ - 273,15 °C ≡ absoluter Nullpunkt
+Bei 0 Kelvin findet keine Bewegung der Moleküle mehr statt. Die Bewegungsenergie (kinetische Energie) ist gleich Null.
+
+Verflüssigung von Luft
+
+-273 °C
+
+-200 °C
+
+-100 °C
+
+0 °C
+
+60 °C
+
+0K
+
+73 K
+
+173 K
+
+273 K
+
+333 K
+
+Absoluter Nullpunkt
+
+Umrechnung von GRAD CELSIUS [°C ] in KELVIN:
+
+K ≈ °C + 273
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+100 °C
+
+373 K
+
+0 °C
+
+273 K
+
+Version: Juni 2007
+
+Seite:
+
+6
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Hinweis
+In den USA werden die Temperaturen noch überwiegend in Fahrenheit angegeben,
+wobei
+°F = ( (9/5) × °C) + 32 = (1.8 × °C) + 32
+und
+°C = (°F - 32) × (5/9) = (°F - 32) × 0,56.
+Der Schmelzpunkt von Eis liegt bei 0° C bzw. bei 32° F.
+Der absolute Nullpunkt liegt bei -460 °F, bei -271,15 °C und bei 0 Kelvin.
+Übung 1
+
+Welcher Kelvintemperatur entsprechen 37 °C?
+
+Übung 2
+
+Welcher Kelvintemperatur entsprechen 27 °C?
+
+Übung 3
+
+Welcher Kelvintemperatur entsprechen 3 °C?
+
+1.1.5.
+
+Wärmemenge
+James Prescott Joule, 1818-1889, britischer Physiker
+
+Wärmemenge ist die Energie, die einem Körper bei Temperaturänderung zu- oder abgeführt
+wird. Die Maßeinheit für die Energie ist Joule [J]. (1 J = 1 N m = 1 W s)
+Auch der Energiegehalt (Brennwert) von Nahrungsmitteln wird in dieser Einheit angegeben,
+dabei entsprechen 4,184 Joule der veralteten Einheit von einer Kalorie.
+4,1865 Joule sind die Energiemenge, die ausreicht, um 1 Gramm Wasser von 14,5 °C auf
+15,5 °C zu erwärmen.
+
+1.1.6.
+
+Luftmenge (in "Barlitern")
+
+Zur Vereinfachung von Berechnungen verwenden wir als Maßeinheit für Luftmengen einen
+in der Sporttaucherei geprägten Begriff.
+
+1 Barliter Luft [ bar l ] ≡
+Luftmenge, die einem Liter Luft bei 1 bar entspricht.
+( = 1,29 g Luft)
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Seite:
+
+Beispiel 1
+
+1 barl
+
+≡ 1,0 Liter Luft bei 1,0 bar Druck
+
+=
+
+1,0 * 1,0
+
+= 1 [barl]
+
+Beispiel 2
+
+1 barl
+
+≡ 0,5 Liter Luft bei 2,0 bar Druck
+
+=
+
+0,5* 2,0
+
+= 1 [barl]
+
+Beispiel 3
+
+1 barl
+
+≡ 2,0 Liter Luft bei 0,5 bar Druck
+
+=
+
+2,0 * 0,5
+
+= 1 [barl]
+
+Hinweis:
+
+7
+
+1 barl Luft hat eine Masse von etwa 1,29 g.
+
+1.2. Druck
+1.2.0 Allgemeines
+Druck = Kraft, die senkrecht auf eine Flächeneinheit wirkt. (Kraft pro Flächeneinheit).
+
+Druck = Kraft pro Fläche
+
+p=
+
+F
+A
+
+P = Druck
+[Pascal] = [N m-2]
+F = senkrecht wirkende Kraft [N]
+A = Fläche
+[m2]
+In den USA: pounds per square inch [psi]
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+1 bar ~ 14,7 psi
+1 hPa = 1 mbar
+Version: Juni 2007
+
+Seite:
+
+8
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Obwohl die korrekte Einheit für den Druck das Pascal [Pa] ist,
+
+messen Taucher den Druck weiterhin in [bar],
+5
+
+2
+
+wobei 1 bar = 10 Pascal = 100 000 Pa (= 10 N / cm ).
+100 000 Pa = 1 000 Hektopascal [hPa] = 1 bar
+
+Auf der Erdoberfläche übt eine Masse von einem Kilogramm auf die Fläche von einem Quadratzentimeter annähernd die Gewichtskraft aus, die einem bar entspricht.
+
+Beachte: Geringe Gewichtskraft kann bei großer Fläche kleinen Druck und bei kleiner
+Fläche großen Druck erzeugen.
+(Siehe hierzu auch die folgenden Beispiele.)
+
+Beispiel 1
+
+p=
+→
+
+Beispiel 2
+
+2
+
+F = 10 N,
+
+A = 100 cm
+
+10
+= 0,1
+100
+
+= 0,01
+
+[bar]
+
+F = 10 N,
+
+10
+p=
+= 10
+1
+→
+
+= 1,0
+
+[ N / cm²]
+
+10 N
+
+100 cm²
+
+2
+
+A = 1 cm
+
+10 N
+
+[ N / cm²]
+
+[bar]
+1 cm²
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Seite:
+
+9
+
+(Wasser-) Druck wirkt auf ein unendlich kleines Volumenelement aus allen Richtungen mit
+der gleichen Kraft!
+
+Nach der kinetischen Gastheorie ist "Druck" der Ausdruck der Molekularbewegung; Moleküle in dauernder Bewegung → Zusammenstöße untereinander → Zusammenstöße mit der
+Wand eines Behälters.
+Abb.: Doppelte Molekülanzahl (V = const) → doppelte Anzahl von Kollisionen
+→ doppelter Druck
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+10
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+1.2.1. Atmosphärendruck (Luftdruck)
+Die Lufthülle der Erde (80-100 km hoch) übt auf jeden Quadratzentimeter der Erdoberfläche
+auf Meereshöhe eine Gewichtskraft von 10 N aus. Entsprechend lastet auf dem menschlichen
+Körper eine Luftmasse von 15-18 t. Da der Mensch vorwiegend aus Wasser (fast inkompressibel) besteht, könnte er auch Drucksteigerungen auf das Tausendfache (bezogen auf die
+rein mechanische Druckwirkung) vertragen.
+
+Atmosphärendruck = Gewicht der atmosphärischen Gase (Luft)
+Der Atmosphärendruck wirkt auf alle Körper und Strukturen in der Atmosphäre und darunter.
+Er wirkt in jedem Punkt in alle Richtungen, daher neutralisieren sich seine Wirkungen im
+Allgemeinen.
+In Meereshöhe herrscht ein Normaldruck von 1,01325 bar. (Dies gilt bei 15 °C und
+Vernachlässigung von meteorologisch bedingten Druckschwankungen (Durchzug von Hochoder Tiefdruckgebieten)). Für tauchphysikalische Berechnungen kann im Allgemeinen der
+Wert abgerundet werden. (Ausnahme: Tauchen in Bergseen oder auf anderen Planeten).
+
+Luftdruck (in Meereshöhe) ≈ 1 bar (± 3%)
+(Atmosphärendruck)
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Seite:
+
+11
+
+Torricellischer Versuch (1643):
+
+Torricelli, Evangelista, ital. Mathematiker und Physiker (1608-1647), Schüler Galileis
+u.a. Erfinder des Quecksilberbarometers.
+Torricelli folgte einer Anregung von Galilei zur Messung des „horror vacui“, indem er eine an einem Ende
+zugeschmolzene und etwa 1,2 m lange Glasröhre mit Quecksilber füllte und dann in einer Schüssel mit
+Quecksilber aufrichtete. Er beobachtete, dass ein Teil des Quecksilbers nicht ausfloss und sich über dem
+Quecksilber ein Vakuum bildete. Er war damit der erste Mensch, der ein dauerhaftes Vakuum schuf. Nach
+vielen Beobachtungen folgerte er des weiteren, dass die Höhenschwankungen des Quecksilbers durch die
+Änderungen des Luftdrucks verursacht wurden. Er hat diese Erkenntnisse jedoch nie publiziert, da er zu sehr
+mit dem Studium der reinen Mathematik beschäftigt war.
+
+Der Gesamtluftdruck (Atmosphärendruck) p nimmt mit der Höhe h exponentiell ab!
+(Grund: Luft (Gas) ist kompressibel und die Dichte nimmt mit der Höhe ab.)
+Dieser Effekt muss bei Tauchereinsätzen in Höhenlagen (Gebirge) beachtet und bei tauchphysikalischen Berechnungen besonders berücksichtigt werden (Stichwort: Bergseetauchen,
+s.a. Kap. 5 und Kap. 8)!
+
+Formelmäßig gilt näherungsweise die „Barometergleichung“
+
+p ( h) =
+
+po × e
+
+⎛ g × ρo
+− ⎜⎜
+⎝ po
+
+⎞
+⎟⎟ × h
+⎠
+
+wobei p0 = Luftdruck auf Meereshöhe, ρ0 = Dichte der Luft auf Meereshöhe
+und g = Erdbeschleunigung (im Mittel etwa 9,81 m s-2).
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+12
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+25
+
+20
+
+Luftdruck
+
+Höhe [km]
+
+15
+
+pO2
+10
+Mount Everest (8847 m)
+
+7 km
+
+Sauerstoffmangel
+
+(Todeszone)
+
+5
+3 km
+
+Sauerstoffmangel (unvollständige
+
+2 km
+
+Sauerstoffmangel (bedingte Leistung)
+
+Anpassung)
+
+0
+0
+
+0,1
+
+0,2
+
+0,3
+
+0,4
+
+0,5
+
+0,6
+
+0,7
+
+0,8
+
+0,9
+
+1
+
+1,1
+
+Luftdruck und Sauerstoffpartialdruck [bar]
+
+Abbildung
+
+Vertikale Verteilung des Gesamtluftdruckes und des O2-Partialdrucks
+entsprechend der (vereinfachten) barometrischen Höhenformel.
+Der Begriff „Partialdruck“ wird ab Kap. 1.4.3 näher erläutert.
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+1.2.2
+
+Seite:
+
+13
+
+Hydrostatischer Druck (Wasserdruck)
+
+Im Verhältnis zu Luft ist Wasser etwa 800mal schwerer und fast inkompressibel.
+Der hydrostatische Druck (Wasserdruck) entsteht durch das Eigengewicht des Wassers über
+der jeweiligen Wassertiefe. Er nimmt mit der Tiefe linear mit etwa 10 [N cm-2] (entspricht
+1 [bar]) pro 10 m Wassersäule zu. Der Wasserdruck ist in gleicher Tiefe in alle Richtungen
+gleich groß.
+
+Für den hydrostatischen Druck gilt folgende Formel:
+
+p hydrost
+
+=
+
+F
+A
+
+=
+
+m× g
+A
+
+=
+
+ρ × g ×V
+A
+
+=
+
+ρ×g×D× A
+A
+
+= ρ×g×D
+
+wobei
+F = Kraft (engl. ‘force’), m = Masse, ρ = Dichte, V = Volumen,
+A = Fläche der Flüssigkeit bzw. der Flüssigkeitssäule,
+D = Tiefe und g = Erdbeschleunigung (etwa 9,81 m s-2).
+
+Wasserdruck pro 10 m Wassersäule ≈ 1 bar
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+(± 2%)
+
+Version: Juni 2007
+
+Seite:
+
+14
+
+Physikalische Grundlagen
+
+Beispiele:
+
+Wassertiefe
+0m
+10 m
+30 m
+70 m
+13 m
+27 m
+
+1.2.3.
+
+Kapitel 1
+
+Wasserdruck
+0,0 bar
+1,0 bar
+3,0 bar
+7,0 bar
+1,3 bar
+2,7 bar
+
+Gesamtdruck (Umgebungsdruck, absoluter Druck)
+
+Der Gesamtdruck (Umgebungsdruck, absoluter Druck) ist die Summe von atmosphärischen
+Druck und hydrostatischen Druck, die auf einen Körper ausgeübt wird.
+
+Gesamtdruck, Umgebungsdruck [bar]
+
+6
+5
+4
+3
+2
+
+Wasserdruck
+
+1
+
+Luftdruck
+
+0
+0
+
+10
+
+20
+
+30
+
+40
+
+Wassertiefe [m]
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Seite:
+
+15
+
+Der Druck auf einen Taucher unter Wasser
+ist die Summe zweier Kräfte:
+Gewicht des Wassers über ihm (und um ihn herum)
+plus
+Gewicht der Luft über dem Wasser.
+
+p Gesamt
+
+=
+
+Tiefe [ m ]
+10 [ m ]
+
+[bar ]
+
++ 1
+
+[bar ]
+
+Vereinfachte Druckberechnung für Taucher:
+Die Abweichung vom Idealwert beträgt bei der vereinfachten Berechnung maximal 6,3 %, in
+20 m Tiefe nur 3,3 %. Der Fehler ergibt sich aus den wetterbedingten Schwankungen des
+Luftdruckes, der Variationsbreite der Wasserdichte (Süßwasser: ≈ 0,996, Salzwasser ≈ 1,03
+[kg l-1 ]) und der unterschiedlichen Erdbeschleunigung.
+Für Taucher von Bedeutung ist die Tatsache, dass beim Abtauchen in die Tiefe die relative
+Änderung des Umgebungsdruckes in der Nähe der Wasseroberfläche am größten ist!
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+16
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+1.3. Auftrieb
+1.3.1.
+
+Auftriebskraft
+
+Eingetauchter
+Körper
+
+Flüssigkeit
+
+Auf einem in eine Flüssigkeit (hier: Wasser) eingetauchten (würfelförmigen) Körper wirkt
+der Umgebungsdruck (Schweredruck) entsprechend der Tiefe ein. In gleicher Tiefe ist der
+Druck gleich groß, d.h. die Kräfte auf die Seitenflächen des Würfels heben sich gegenseitig
+auf. Da der Druck an der Bodenfläche größer als an der Deckfläche ist, entsteht eine resultierende Kraft, die den Würfel nach oben drückt. Diese aus der Druckdifferenz resultierende
+Kraft wird als „Auftriebskraft“ bezeichnet. Dieser Auftriebskraft entgegen wirkt die Gewichtskraft des Würfels. Ist die Auftriebskraft größer als die Gewichtskraft, dann steigt der
+Würfel in der Flüssigkeit nach oben und schwimmt dann an der Oberfläche. Übersteigt die
+Gewichtskraft die Auftriebskraft, dann sinkt der Würfel auf den Boden. Sind beide Kräfte
+gleich groß, schwebt der Würfel in ständig gleicher Höhe in der Flüssigkeit.
+
+"Auftrieb"
+
+Lehrbuch für Forschungstaucher
+
+=
+
+Kraft in Gasen und Flüssigkeiten,
+die durch Druckunterschiede entsteht.
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+1.3.2.
+
+Physikalische Grundlagen
+
+Seite:
+
+17
+
+Archimedisches Prinzip
+
+Der "statische Auftrieb" ist die Kraft auf einen in einer Flüssigkeit (oder in einem Gas) ruhenden oder sich bewegenden Körper, die durch die Verdrängung von Flüssigkeit (oder Gas)
+durch diesen Körper hervorgerufen wird (Archimedes). Der statische Druck wirkt entgegen
+der Schwerkraft und lässt sich aus der Druckabnahme mit der Höhe erklären.
+
+Archimedes, um 287 - 212 v. Chr., griechischer Mathematiker, Physiker, Mechaniker und Erfinder, lebte in
+Syrakus (Sizilien), für einige Zeit auch in Alexandria
+(Ägypten)
+
+Archimedisches Prinzip
+„Ein Körper verliert in einer Flüssigkeit (scheinbar) soviel an
+Gewicht, (bzw. erhält soviel Auftrieb,)
+wie die von ihm verdrängte Flüssigkeitsmenge wiegt.“
+
+Ein Körper, der ganz oder teilweise in einer ruhenden Flüssigkeit eingetaucht ist, unterliegt
+zwei Kräften: der Gewichtskraft in Richtung der Erdbeschleunigung und der lotrecht nach
+oben gerichteten Auftriebskraft. Das Verhältnis der beiden Kräfte bestimmt, ob der Körper
+sinkt, schwebt oder auftreibt.
+Der Betrag der Auftriebskraft ist gleich der Gewichtskraft der von dem Körper verdrängten
+Flüssigkeitsmenge. Diese Gewichtskraft errechnet sich aus dem Produkt von Volumen und
+Dichte der verdrängten Flüssigkeit.
+
+FA =
+F
+F
+F
+
+L
+F
+A
+
+Hinweis:
+
+FF - FL
+
+Gewichtskraft eines Körpers in Luft
+Gewichtskraft der von ihm verdrängten Flüssigkeitsmenge
+Restkraft
+
+In einigen Lehrbücher wird die Restkraft als F = F - F
+A
+L
+F
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+definiert.
+
+Version: Juni 2007
+
+Seite:
+
+18
+
+Physikalische Grundlagen
+
+"AUFTRIEB"
+F >F
+(d.h. F > 0)
+F
+
+L
+
+Kapitel 1
+
+Der Körper steigt (bzw. schwimmt).
+
+A
+
+Eine Restkraft größer Null wird im Sprachgebrauch als "Auftrieb" bezeichnet.
+"ABTRIEB"
+F > F
+(d.h. F < 0)
+L
+
+F
+
+Der Körper sinkt.
+
+A
+
+Eine Restkraft kleiner Null wird im Sprachgebrauch als "Abtrieb" bezeichnet.
+"AUSTARIERT"
+F = F
+(d.h. F = 0)
+L
+
+F
+
+Der Körper schwebt (ist austariert).
+
+A
+
+Er befindet sich im hydrostatischen Gleichgewicht.
+
+Beispiel
+Wie verhalten sich 8 kg Blei (ρPb = 11 kg/l) unter Wasser?
+VPb
+
+FF
+
+FL
+
+FA
+
+=
+
+Volumen der 8 kg Blei
+
+=
+=
+=
+
+Masse / Dichte
+8 [kg] / 11 [kg/l]
+0,72 [l]
+
+=
+
+Gewichtskraft der von ihm verdrängten Flüssigkeitsmenge
+
+=
+
+VPb
+
+× ρWasser × Erdbeschleunigung
+
+=
+≈
+=
+=
+
+0,72
+0,72
+7,20
+7,20
+
+[l] × 1 [kg/l] × 9,81 [m/s²]
+[l] × 1 [kg/l] × 10 [m/s²]
+[kg × m/s²]
+[N]
+
+=
+
+Gewichtskraft des Körpers in Luft
+
+=
+
+80 [N]
+
+=
+
+FF - FL
+
+=
+=
+
+7,2 - 80 [N]
+-72,8 [N]
+
+Ergebnis:
+
+Da FA < 0
+
+Der Körper (Blei) sinkt (Abtrieb).
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Seite:
+
+19
+
+Übung 1
+Wie verhalten sich 12 kg Blei (ρ = 11 kg/l) unter Wasser?
+Übung 2
+Wie verhalten sich 9 kg Holz (ρ = 0,6 kg/l) unter Wasser?
+Übung 3
+Wie verändert sich der Auftrieb eines Tauchers, der unter Wasser 2 Liter Luft einatmet?
+
+1.4.
+
+Atemgase
+
+Als Atemluft werden verschiedene Gasgemische benutzt, normale atmosphärische Luft ist
+das gebräuchlichste (für Tiefen bis 50 m). Bei Einsätzen in sehr geringen Tiefen und in großen Tiefen werden andere Gasgemische geatmet.
+Die Versorgung des Tauchers mit Atemluft erfolgt über einen Schlauch oder aus mitgeführten Atemgasbehältern (Druckgasflaschen).
+(engl. "SCUBA" Self-contained underwater breathing apparatus)
+
+1.4.1.
+
+Wichtige Gase
+
+O2
+
+Sauerstoff
+
+lebenswichtiges Gas für den menschlichen Körper,
+wirkt unter hohem Druck toxisch (ab etwa 1,6 bar pO2)
+
+N2
+
+Stickstoff
+
+wirkt ab bestimmten Partialdruck toxisch (betäubende Wirkung),
+Inertgas
+
+CO2 Kohlendioxid
+
+CO
+
+Expositionsgrenzwerte (AGW*: 5000 ml/m³ (ppm))
+entsteht bei natürlichen Prozessen (z.B. Verbrennung, Gärung,
+(Stoffwechsel), steuert den Atemreiz,
+sehr toxisch bei Konzentration > 0,03%
+äußerst toxisch!
+Expositionsgrenzwerte (AGW*: 30 ppm, 35 mg/m³)
+Entsteht bei unzureichender Verbrennung (Abgase).
+
+Kohlenmonoxid Starke toxische Wirkung als Atemgift (Æ Bewusstlosigkeit, Tod).
+
+Lebensgefährliche Mengen können unbemerkt aufgenommen werden, da das Gas geruchund reizlos ist und nicht zur Atemnot führt.
+
+He
+
+Helium
+
+bei Tieftauchenaktionen wird ein Helium-Sauerstoff-Gemisch
+als Atemgas verwendet, Inertgas, Donald-Duck-Effekt
+Alle fünf Gase sind farblos, geschmacklos und geruchlos.
+
+* Der Arbeitsplatzgrenzwert (AGW) ist gemäß der Gefahrstoffverordnung (GefStoffV) der Grenzwert für die zeitlich gewichtete durchschnittliche Konzentration eines Stoffes in der Luft am Arbeitsplatz in Bezug auf einen gegebenen Referenzzeitraum. Er gibt an, bei welcher Konzentration eines Stoffes akute
+oder chronische schädliche Auswirkungen auf die Gesundheit im Allgemeinen nicht zu erwarten sind.
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+20
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Als "inert" werden Gase bezeichnet, die keine biochemischen Reaktionen eingehen ("neutrale" Gase). Sie haben alle mehr oder weniger narkoseartige Wirkung, die von ihrem Partialdruck abhängen (Inertgasnarkose).
+Inertgase sind:
+
+Helium, Neon, Wasserstoff, Stickstoff, Argon, Krypton, Xenon.
+
+Wichtige Gasgemische für die Durchführung von Taucherarbeiten in größeren Tiefen sind:
+Heliox = He + O2
+Trimix = He + N2 + O2
+
+(O2 < 21%, He > 79%)
+(O2 < 21%, (He + N2) > 79%, He ≥ 79%)
+
+Beim Militär wird bei Kampfeinsätzen in geringen Tiefen mit
+Sauerstoff = O2
+(O2 = 100%, reiner Sauerstoff, Kreislaufgeräte)
+getaucht.
+Im Bereich des Sporttauchens wird seit einigen Jahren auch mit dem Atemgasgemisch
+NITROX getaucht.
+Nitrox = N2 + O2
+(O2 > 21%, N2 < 78%)
+Durch die Reduzierung des N2-Anteiles kann die Gefahr eines Dekompressionsunfalls verringert werden, wenn nach den gleichen Austauchregeln wie beim Tauchen mit normaler Luft
+getaucht wird.
+Übliche Gemische sind u.a.:
+NOAA NITROX I
+(32 % O2, 68 % N2) bis zu einer maximalen Tauchtiefe von 40 m
+NOAA NITROX II (36 % O2, 64 % N2) bis zu einer maximalen Tauchtiefe von 36 m.
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+1.4.2.
+
+Physikalische Grundlagen
+
+Seite:
+
+21
+
+Luft
+
+Die atmosphärische Luft ist ein Gasgemisch, bestehend aus:
+
+78 %
+
+Stickstoff
+
+21 %
+
+Sauerstoff
+
+0,03 % Kohlendioxid
+1%
+
+Edelgase und andere Gase
+
+(Näherungswerte für trockene Luft)
+
+Edelgase und
+andere Gase
+
+Kohlendioxid
+
+Kohlendioxid
+
+1%
+
+0,03 %
+
+0,03%
+
+21%
+
+Sauerstoff
+
+78%
+
+Stickstoff
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Volumenprozent
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+22
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Die genauen Werte (für trockene Luft) gem. ISO 2533 (in Volumenprozent):
+78,084 %
+
+Stickstoff (N2)
+
+20,9476 %
+
+Sauerstoff (O2)
+
+0,0314 %
+
+Kohlendioxid (CO2)
+
+0,9340 %
+
+Argon (Ar)
+
+0,000050 %
+
+Wasserstoff (H2)
+
+0,001818 %
+
+Neon (Ne)
+
+0,000524 %
+
+Helium (He)
+
+0,000114 %
+0,0000087 %
+
+Krypton (Kr)
+Xenon (Xe)
+
+Der Wasserdampfgehalt der Atmosphäre liegt zwischen 0 und 5 %.
+
+1.4.3.
+
+Partialdruck
+
+Der Anteil eines Gases i am Gesamtdruck eines Gasgemisches wird als "Partialdruck des
+Gases i (pi) " (Teildruck) bezeichnet.
+Der Partialdruck eines einzelnen Gases ist direkt proportional zu seinem Prozentanteil am
+Gesamtvolumen des Gasgemisches.
+Bei einem Luftdruck von 1 bar (etwa Meeresniveau) gilt für unsere Atemluft:
+
+Bei einem Gesamtdruck von 1 bar gilt:
+pi = ( prozentualer Volumenanteil des Gases i [%] / 100 [%] ) × 1 [bar]
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Seite:
+
+23
+
+Für unsere Atemluft gilt vereinfacht (20 % O2 + 80 % N2):
+pO = (20 / 100) × 1 = 0,2 bar
+
+In Worten: Der Sauerstoffpartialdruck beträgt 0,2 bar.
+
+pN = (80 / 100) × 1 = 0,8 bar
+
+In Worten: Der Stickstoffpartialdruck beträgt 0,8 bar.
+
+2
+2
+
+Sauerstoff
+pO = 0,2 bar
+2
+
+Stickstoff
+pN = 0,8 bar
+2
+
+Gasgemisch
+pΣ = 1,0 bar
+
+Falls der Gesamtdruck ≠ 1 bar, errechnet sich der Partialdruck entsprechend dem Gesetz
+von Dalton (s. 1.5.5.).
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+1.5.
+
+24
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Gasgesetze für ideale Gase
+
+Bei der Betrachtung idealer Gase werden die Gasteilchen als verschwindend klein angenommen und die Wirkung der van-der-Waals Kräfte zwischen den Molekülen vernachlässigt.
+Für einen bestimmten Druck- und Temperaturbereich ist diese Vereinfachung in der Tauchphysik zulässig, die Fehlerbereiche sind geringer als die Messfehler der eingesetzten Manometer, Thermometer und Tiefenmesser. Zu Auswirkungen kommt es erst bei den selten verwendeten 300 bar Tauchgeräten. Auch die Vereisung (Joule-Thompson-Effekt) von Tauchgeräten kann nur durch Betrachtung realer Gase erklärt werden.
+
+Das physikalische Verhalten idealer Gase wird von drei Eigenschaften bestimmt:
+
+Temperatur (T) (absolute Temperatur in Kelvin)
+Druck (p)
+Volumen (V).
+Die Gasgesetze beschreiben mögliche Verknüpfungen.
+
+1.5.1.
+
+Gesetz von Boyle-Mariotte (Kompressibilität von Gasen)
+
+Problemstellung
+Ein Luftballon wird von der Wasseroberfläche auf eine
+größere Tiefe gebracht, d.h. er wird einem größeren Druck
+ausgesetzt. Wie ändert sich sein Volumen?
+
+Robert Boyle, engl. Naturforscher, 1627-1691, entdeckte 1662 experimentell den Zusammenhang zwischen Druck und Volumen der Luft.
+Edmé Mariotte, frz. Physiker, ca. 1620-1684, machte ähnliche Versuche wie Boyle, jedoch ordnete er die Barometer in verschiedenen Tiefen unter Wasser an.
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Seite:
+
+25
+
+Gesetz von Boyle-Mariotte
+"Bei gleichbleibender Temperatur ist
+das Produkt aus Druck und Volumen
+für eine abgeschlossene Gasmenge
+konstant."
+p × V = const
+
+(falls T = const)
+
+falls T = const :
+
+wobei zum
+
+p1
+V
+= 2
+p2
+V1
+
+Zeitpunkt 1 (Zustand 1): Druck p1, Volumen V1
+Zeitpunkt 2 (Zustand 2): Druck p2, Volumen V2
+
+Beispiel 1
+Ein Schnorcheltaucher (Apnoetaucher) mit einem Lungenvolumen von 6 Litern taucht in einer
+Schwimmhalle mit einer Wassertiefe von 3,8 m.
+Wie groß ist sein Lungenvolumen, nachdem er von der Oberfläche zum Beckenboden abgetaucht
+ist?
+Boyle-Mariotte'sches Gesetz:
+Oberfläche
+(Zustand 1):
+Beckenboden (Zustand 2):
+
+Lehrbuch für Forschungstaucher
+
+P×V = c
+p1 × V1 = c
+p2 × V2 = c
+
+→
+→
+
+© Peter König, Andreas Lipp
+
+1 bar × 6 l = 6 bar l
+V2
+= c / p2
+= 6 bar l / 1,38 bar
+≈ 4,35 l
+
+Version: Juni 2007
+
+Seite:
+
+26
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Beispiel 2
+Ein Gerätetaucher mit einem Lungenvolumen von 6 Litern taucht in einer Schwimmhalle mit 3,8
+m Tiefe. Wie ändert sich sein Lungenvolumen, wenn er am Beckenboden aus dem Gerät geatmet
+hat und ohne Luftabgabe zur Oberfläche zurückkehrt?
+Beckenboden (Zustand 1):
+Oberfläche
+(Zustand 2):
+
+p1 × V1 = c
+V 2 = c / p2
+
+Volumenzunahme:
+
+2,28 l
+
+=
+
+→
+1,38 bar × 6 Liter = 8,28 bar l
+8,28 barl / 1 bar
+≈ 8,28 Liter
+
+(38 %)
+
+Beachte
+
+Lungenbläschen können ab Δp = 100 mbar zerreißen ( = 1 m Tiefe)!
+
+Übung 1
+Ein Freitaucher (Schnorchler) besitzt ein Lungenvolumen von 6 Litern.
+Wie groß ist sein Lungenvolumen in
+a. 10 m Tiefe
+b. 30 m Tiefe
+c. 17,5 m Tiefe?
+
+Übung 2
+Ein Gerätetaucher mit einem Lungenvolumen von 8 Litern atmet in 10 m Wassertiefe aus seinem
+Gerät (Scuba) und steigt anschließend ohne Luft abzuatmen an die Oberfläche auf.
+Auf welches Volumen dehnt sich seine Lunge auf?
+
+Übung 3
+Ein Gerätetaucher verbraucht an der Oberfläche 25 Liter Luft pro Minute (AMV, Atemminutenvolumen). Wie viel Luft verbraucht er in 40 m Tiefe?
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Seite:
+
+27
+
+1,0
+0,9
+0,8
+
+Volumen [m³]
+
+0,7
+0,6
+0,5
+0,4
+0,3
+0,2
+0,1
+0,0
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+Tauchtiefe [m]
+
+Abb.: Veränderung des Volumens einer abgeschlossenen Gasmenge mit der Tiefe
+entsprechend dem Gesetz von Boyle-Mariotte.
+
+Wassertiefe [m]
+
+Druck [bar]
+
+0
+
+1
+
+1,00
+
+10
+
+2
+
+0,50
+
+50,00
+
+20
+
+3
+
+0,33
+
+16,67
+
+30
+
+4
+
+0,25
+
+8,33
+
+40
+
+5
+
+0,20
+
+5,00
+
+50
+
+6
+
+0,17
+
+3,33
+
+Tauchtiefendruck
+
+Lehrbuch für Forschungstaucher
+
+Volumen [m³]
+
+Volumenänderung je 10 m Tauchtiefe [%]
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+28
+
+1.5.2.
+
+Physikalische Grundlagen
+
+Gesetz von Charles
+
+Kapitel 1
+
+(engl. ‚Charles Law’)
+
+Jacques Alexandre César Charles, frz. Physiker und Mathematiker, 1746-1823, verbesserte die Montgolfiere durch die Verwendung von Wasserstoff als Füllgas, 1783
+stieg er mit einem derartigen Luftballon (Charlière) in Paris auf, er erreichte Höhen
+bis 3000 m. Im Jahr 1787 entwickelte er das ‚Gesetz von Charles‘ über die Wärmeausdehnung von Gasen. Da er noch vor Gay-Lussac das nach diesem benannte Gesetz (s.a. 1.5.3) erfand, wird dieses in einigen Lehrbücher als das Gesetz von Charles
+(‚Charles law‘) bezeichnet.
+
+Dieses Gesetz wird nur der Vollständigkeit halber hier mit aufgeführt. In der Tauchpraxis
+gibt es wenig Anwendungen. Wichtig ist es dagegen für die Ballonfahrt.
+
+Gesetz von Charles
+"Bei konstantem Druck wächst das Volumen
+einer abgeschlossenen Gasmenge
+im direkten Verhältnis
+zur Zunahme der absoluten Temperatur."
+Bei Abkühlung erfolgt der umgekehrte Vorgang.
+Rechenvorschrift:
+
+falls p = const :
+wobei zum
+
+V 1 = V2
+T1
+T2
+
+oder
+
+Zeitpunkt 1 (Zustand 1):
+Zeitpunkt 2 (Zustand 2):
+
+V
+T
+
+=
+
+const
+
+Volumen V1, Temperatur T1
+Volumen V2, Temperatur T2
+
+Beachte: Temperatur-Angaben T in Kelvin!
+
+Beispiel
+3
+
+Eine unten offene Taucherkammer mit einem Volumen von 5 m befindet sich auf 30 m
+Tiefe. Die Temperatur in der Kammer kühlt von 27 °C auf 10 °C ab. Wie ändert sich das
+Volumen in der Kammer?
+Zeitpunkt 1:
+Zeitpunkt 2:
+
+3
+
+V1 = 5 m
+3
+V2 = ? m
+
+T1 = (273 + 27) K = 300 K
+T2 = (273 + 10) K = 283 K
+
+(Kelvin!)
+
+V2 = V1 × ( T2 / T1 ) = 5 m × ( 283 K / 300 K ) ≈ 4,717 m
+3
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+3
+
+Version: Juni 2007
+
+Kapitel 1
+
+1.5.3.
+
+Physikalische Grundlagen
+
+Gesetz von Gay-Lussac
+
+Seite:
+
+29
+
+(oder auch 2. Gesetz von Charles)
+
+Problemstellung
+Erwärmung von Gasen in einer Druckluftflasche
+
+Kann eine Druckluftflasche platzen,
+wenn sie in der Sonne liegt
+und sich auf 65 °C erwärmt?
+
+Warum kann eine Druckluftflasche, die auf einen Druck von 220 bar gefüllt wurde,
+nach dem Eintauchen ins Wasser nach wenigen Minuten nur noch einen Druck
+von 190 bar aufweisen?
+Bei welcher Temperatur platzt eine volle Druckluftflasche?
+
+Joseph Louis Gay-Lussac, 1778-1850, frz. Physiker und Chemiker
+
+Gesetz von Gay-Lussac
+"Bei konstantem Volumen wächst der Druck
+einer abgeschlossenen Gasmenge
+im direkten Verhältnis
+zur Zunahme der absoluten Temperatur."
+Bei Abkühlung erfolgt der umgekehrte Vorgang.
+(In einigen älteren deutschen Lehrbüchern gibt es die Bezeichnung "Gesetz von Amontons".)
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+30
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Rechenvorschrift:
+
+falls V = const :
+wobei zum
+
+p1
+= T1
+p2
+T2
+
+oder
+
+Zeitpunkt 1 (Zustand 1):
+Zeitpunkt 2 (Zustand 2):
+
+p
+T
+
+=
+
+const
+
+Druck p1, Temperatur T1
+Druck p2, Temperatur T2
+
+Beachte: Temperaturangaben T in Kelvin!
+
+Beispiel 1a
+Eine Druckluftflasche (20 °C, 220 bar) wird in der heißen Mittagssonne am Strand liegen
+gelassen. Die Sonnenstrahlung erhitzt die Flasche auf 70 °C. Wie ändert sich der Druck
+in der Flasche?
+Zeitpunkt 1:
+Zeitpunkt 2:
+
+p1 = 220 bar
+p2 = ? bar
+
+T1 = (273 + 20) K = 293 K
+T2 = (273 + 70) K = 343 K
+
+(Kelvin!)
+
+p2 = p1 × ( T2 / T1 ) = 220 bar × ( 343 K / 293 K ) ≈ 258 bar
+Da p2 < 300 bar (= Prüfdruck) → die Flasche platzt nicht!
+
+Beispiel 1b
+Bei welcher Temperatur hätte die gleiche Flasche einen Druck von 300 bar (Prüfdruck)?
+Zeitpunkt 1:
+Zeitpunkt 2:
+
+p1 = 220 bar
+p2 = 300 bar
+
+T1 = (273 + 20) K = 293 K
+T2 = ?
+
+T2 = T1 × ( p2 / p1 ) = 293 K × ( 300 bar / 220 bar ) ≈ 400 K (→ 127 °C)
+
+Beispiel 1c
+Bei welcher Temperatur ist ein Platzen der Flasche wahrscheinlich bzw. wann hätte die
+gleiche Flasche einen Druck von 450 bar (Berstdruck)?
+Zeitpunkt 1:
+Zeitpunkt 2:
+
+p1 = 220 bar
+p2 = 450 bar
+
+T1 = (273 + 20) K = 293 K
+T2 = ?
+
+T2 = T1 × ( p2 / p1 ) = 293 K × ( 450 bar / 220 bar ) ≈ 599 K (→ 326 °C)
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Seite:
+
+31
+
+Beispiel 2
+Ein Taucher springt mit seiner Druckluftflasche in 5 °C warmes Wasser. Vor dem Sprung hatte
+die frisch gefüllte Flasche an Bord einen Druck von 225 bar und eine Temperatur von 40 °C. Wie
+ändert sich im Wasser der Druck in der Flasche?
+Zeitpunkt 1:
+Zeitpunkt 2:
+
+p1 = 225 bar
+p2 = ? bar
+
+p2 = p1 × ( T2 / T1 )
+
+T1 = (273 + 40) K = 313 K
+T2 = (273 + 5) K = 278 K
+= 225 bar × ( 278 K / 313 K ) ≈ 200 bar
+
+Normale Sonnenstrahlung reicht nicht aus, um eine Druckluftflasche zum Platzen zu
+bringen!
+Bei Abkühlung von Druckluftflaschen, zum Beispiel im kalten Wasser, kommt es zu
+einer Verringerung des Flaschendruckes!
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+32
+
+1.5.4.
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Allgemeines Gasgesetz
+
+Der Zustand einer bestimmten Gasmenge (ideales Gas) wird von drei Zustandsgrößen bestimmt:
+T
+Temperatur (absolute Temperatur, Kelvin)
+p
+Druck
+und
+V
+Volumen.
+Diese drei Größen sind durch die Zustandsgleichung
+pV=γRT
+verknüpft,
+wobei R die universelle Gaskonstante und γ die Anzahl von Molen wiedergibt.
+
+Allgemeine Gasgleichung (für ideale Gase)
+
+p1 × V 1
+T1
+
+=
+
+p2 ×V 2
+
+= konstant
+
+T2
+p1
+V1
+T1
+p2
+V2
+T2
+
+Druck im Zustand 1
+Volumen im Zustand 1
+Temperatur im Zustand 1 (in Kelvin!)
+Druck im Zustand 2
+Volumen im Zustand 2
+Temperatur im Zustand 2 (in Kelvin!)
+
+Die Gesetze von Boyle-Mariotte (T = const), Charles (p = const) und Gay-Lussac (V = const)
+sind Spezialfälle des Allgemeinen Gasgesetzes.
+Beispiel
+Eine unten offene Taucherkammer wird von der Oberfläche auf 30 m Wassertiefe abgesenkt.
+3
+Das Volumen der Kammer beträgt 10 m .
+Die Temperatur an der Oberfläche beträgt 27 °C, in 30 m Tiefe 7 °C.
+Wie groß ist das luftgefüllte Volumen der Kammer in 30 m Wassertiefe?
+Zustand 1:
+Zustand 2:
+V2
+
+p1 = 1 bar
+p2 = 4 bar
+
+3
+
+V1 = 10 m
+3
+V2 = ? m
+
+T1 = (273 + 27) = 300 K
+T2 = (273 + 7) = 280 K
+
+= ( p1 × V1 × T2 ) / ( T1 × p2 )
+3
+= ( 1 bar × 10 m × 280 K ) / ( 300 K × 4 bar )
+3
+≈ 2,33 m
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+1.5.5.
+
+Physikalische Grundlagen
+
+Seite:
+
+33
+
+Gesetz von Dalton (Partialdruckgesetz)
+PROBLEMSTELLUNG
+Wie viel Druck übt jedes einzelne Gas in einem Gasgemisch aus?
+Wie lässt sich dieser Druck berechnen?
+Wichtig: Jedes Gas wirkt ab einem bestimmten Druck (Partialdruck) giftig!
+
+John Dalton, engl. Physiker und Chemiker, 1776-1844
+Partialdruckgesetz 1805
+(Bitte nicht verwechseln mit den "Dalton Brüdern".)
+
+Gesetz von Dalton
+"In einem Gasgemisch
+übt ein jedes der Gase den Druck aus,
+den es haben würde,
+wenn es für sich alleine den ganzen Raum erfüllte,
+dieser Druck heißt Partialdruck.
+Der Gesamtdruck des ganzen Gasgemisches ist gleich
+der Summe der einzelnen Partialdrücke.
+
+Rechenvorschrift:
+
+pi = Partialdruck (der Komponente i)
+
+pi =
+
+prozentualer Volumenanteil [%]
+100 [%]
+
+× Gesamtdruck
+
+[ Pascal ]
+
+Der Gesamtdruck ist mit einem Manometer messbar. Bei Druckluftgeräten wird der Druck
+normalerweise in der Einheit "bar" und nicht in "Pascal" gemessen.
+
+pi =
+
+qi
+×p
+100
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+34
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+wobei p = Gesamtdruck
+p = p1 + p2 + p3 + .... + pn
+qi = prozentualer Mengenanteil (Volumenanteil)
+100% = q1 + q2 + .... + qn
+Der Index i kennzeichnet die einzelnen Komponenten (Gase).
+
+Beispiel 1
+Entspannte Luft (1 bar Umgebungsdruck) →
+
+p = 1 [bar]
+
+Index
+
+Gas
+
+Volumenanteil
+
+Partialdruck
+
+1
+2
+3
+4
+
+N2
+O2
+CO2
+Andere
+
+78,08 %
+20,95 %
+0,03 %
+0,94 %
+
+q1
+q2
+q3
+q4
+
+0,7808 bar
+0,2095 bar
+0,0003 bar
+0,0094 bar
+
+p1
+p2
+p3
+p4
+
+∑
+
+Gemisch
+
+100 %
+
+q
+
+1,0000 bar
+
+p
+
+Beispiel 2
+Druckluft, 20 m Wassertiefe → Gesamtdruck = 3 [bar]
+Index
+
+Gas
+
+Volumenanteil
+
+1
+2
+3
+4
+
+N2
+O2
+CO2
+Andere
+
+≈ 78 %
+≈ 21 %
+0,03 %
+≈1%
+
+q1
+q2
+q3
+q4
+
+2,3400 bar
+0,6300 bar
+0,0009 bar
+0,0300 bar
+
+p1
+p2
+p3
+p4
+
+∑
+
+Gemisch
+
+100 %
+
+q
+
+≈ 3 bar
+
+p
+
+Rechenweg für Index 1:
+Rechenweg für Index 2:
+
+Lehrbuch für Forschungstaucher
+
+Partialdruck
+
+(78 / 100) × 3 = 2,34 [bar]
+(21 / 100) × 3 = 0,63 [bar]
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Seite:
+
+35
+
+Beispiel 3
+Druckluft, Gesamtdruck = 137 [bar]
+Index
+
+Gas
+
+Volumenanteil
+
+Partialdruck
+
+1
+2
+3
+4
+
+N2
+O2
+CO2
+andere
+
+78,08 %
+20,95 %
+0,03 %
+0,94 %
+
+q1
+q2
+q3
+q4
+
+106,97 bar
+28,70 bar
+0,04 bar
+1,29 bar
+
+p1
+p2
+p3
+p4
+
+∑
+
+Gemisch
+
+100 %
+
+q
+
+137,00 bar
+
+p
+
+Rechenweg für Index 1: (78,08 / 100) × 137 = 106,97 [bar]
+Rechenweg für Index 2: (20,95 / 100) × 137 = 28,70 [bar]
+
+Gase (z.B. CO2, CO, O2) können bei gleichbleibendem Volumenanteil
+unter erhöhtem Druck einen gefährlichen Partialdruck erreichen.
+
+Beispiel 4
+Experiment "Physalie IV" der COMEX in Marseille
+Zwei Versuchspersonen atmen in einer Druckkammer bei einer simulierten Tiefe von
+610 Metern 80 Minuten lang ein Gasgemisch (TRIMIX) bestehend aus:
+99,15% He, 0,65% O2 und 0,17% N2.
+p(He)
+p(O2)
+p(N2)
+
+=
+=
+=
+
+99,15 % / 100 % × 62 bar
+0,65 % / 100 % × 62 bar
+0,17 % / 100 % × 62 bar
+
+= 61,47 [bar]
+= 0,403 [bar]
+= 0,1054 [bar]
+
+Damit ist der Sauerstoffpartialdruck doppelt so groß wie an der Oberfläche → ausreichende O2-Versorgung ist gewährleistet.
+(Ein p(O2) > 1,6 bar wirkt giftig!)
+
+Übung
+Gasgemisch: 60% O2 + 40% N2
+Wie tief darf man mit diesem Gasgemisch tauchen, ohne den kritischen Wert
+von pO2 = 1,6 [bar] zu überschreiten?
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+36
+
+1.5.6.
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Gesetz von Henry, Halbwertskurve
+PROBLEMSTELLUNG:
+
+GASE IN FLÜSSIGKEITEN
+
+Welche Menge eines Gases i kann in einer Flüssigkeit j gelöst werden?
+Welche Faktoren spielen dabei eine Rolle?
+
+Die Löslichkeit von Gasen unter Druck in einer Flüssigkeit hängt im wesentlichen ab von:
+*
+*
+*
+*
+*
+*
+
+Partialdruck des Gases i (← Gesetz von Henry)
+Zeit (Dauer der Einwirkung)
+Temperatur
+Löslichkeitskoeffizient αij des Gases i in der Flüssigkeit j
+Art der Flüssigkeit j (im Löslichkeitskoeffizient eingehend)
+Oberflächengröße der Flüssigkeit j
+
+Sir William Henry, engl. Arzt, Anf. 19. Jahrhundert
+(nicht verwechseln mit Joseph Henry, amerik. Physiker, „Induktion“)
+
+Gesetz von Henry
+"Die in einer Flüssigkeit gelöste Menge eines Gases ist
+(im Gleichgewicht)
+seinem Partialdruck an der Flüssigkeitsoberfläche proportional."
+Gleichgewicht = Lösung ist gesättigt
+(Es lösen sich keine weitere Mengen des angebotenen Gases in
+der Flüssigkeit. Oder genauer ausgedrückt: Es treten genauso viele Moleküle ein wie aus und damit ändert sich in der Gesamtbilanz nichts mehr.)
+
+Rechenvorschrift:
+
+Qi = pi × αij × Vj
+
+wobei
+Qi
+pi
+Vj
+αij
+
+gelöste Menge des Gases i
+angebotener Partialdruck des Gases i
+Volumen der Flüssigkeit j
+Löslichkeitskoeffizient des Gases i in der Flüssigkeit j
+
+Der Löslichkeitskoeffizient αij ist temperaturabhängig.
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Tab. I/ 2:
+
+Seite: 37
+
+Löslichkeitskoeffizienten verschiedener Gase in Abhängigkeit von der Temperatur
+(Zahlenwerte aus: Divemaster 2/95)
+
+Temperatur
+(°C)
+
+Luft
+
+O2
+
+N2
+
+He
+
+CO2
+
+0
+5
+10
+15
+20
+25
+30
+35
+
+29,2
+25,7
+22,8
+20,6
+18,7
+17,1
+15,6
+14,8
+
+48,9
+42,9
+38,0
+34,2
+31,0
+28,3
+26,1
+24,4
+
+23,5
+20,9
+18,6
+16,9
+15,5
+14,3
+13,4
+12,6
+
+9,5
+9,2
+9,0
+8,8
+8,7
+8,5
+8,4
+8,3
+
+35,4
+31,5
+28,2
+25,4
+23,2
+21,4
+20,0
+18,8
+
+Die Zeit bis zur Erreichung der Sättigung hängt von der Oberflächengröße der Flüssigkeit
+ab; je größer diese ist, umso eher wird die Sättigung erreicht. Wenn eine Lösung gesättigt ist
+lösen sich keine weiteren Mengen des angebotenen Gases in der Flüssigkeit, der Gleichgewichtszustand ist dann erreicht.
+
+G as
+
+F lü s s ig k e it
+
+Abb.
+
+Die Flüssigkeit in der Schale ist schneller gesättigt!
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+38
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Die Aufsättigung eines Gases in einem Gewebe (Flüssigkeit) bei Druckerhöhung erfolgt
+ebenso wie die Entsättigung nach einer Halbwertskurve,
+d.h.
+nach t = 1x ist ein Prozess zu 1/2 abgelaufen,
+nach t = 2x ist ein Prozess zu 3/4 abgelaufen,
+nach t = 3x ist ein Prozess zu 7/8 abgelaufen,
+nach t = 4x ist ein Prozess zu 15/16 abgelaufen,
+etc.
+Halbwertskurve
+
+BRUCHTEIL des abgelaufenen Prozesses
+
+1
+0,9998
+
+0,9375
+0,8750
+0,8
+0,7500
+0,6
+0,5000
+0,4
+
+0,2
+
+0
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+ZEIT in relativen Einheiten
+
+Anm.:
+Halbwertszeit = Zeit (t), in der eine wägbare Menge eines radioaktiven Elementes zur Hälfte zerfällt, d.h. sich
+zur Hälfte in ein neues Element umwandelt.
+
+Die Sättigungszeit einer Gasart i in einem bestimmten Gewebe hängt ab von αij wie auch
+von dessen spezifischer Durchblutung.
+Beim Gerätetauchen löst sich Stickstoff aus der Atemluft im Blut bzw. im Gewebe
+des Körpers.
+Bei langen Tauchgängen in großer Tiefe und zu schneller Druckentlastung (beim
+Auftauchen) kommt es zum Ausperlen des Stickstoffes (N2) im Blut und im Gewebe (gleicher Effekt wie beim Öffnen einer Sektflasche).
+Î Dekompressionskrankheit!
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+1.5.7.
+
+Seite: 39
+
+Berechnung der maximalen Einsatztiefe für ein Gas i in einem
+Gasgemisch
+
+Abkürzungen
+fi
+fO2
+
+Mengenanteil (Bruchteil) des Gases i (engl. ‚fraction‘)
+Sauerstoffanteil
+Beispiel: normale Luft mit 21% Sauerstoffanteil Æ
+
+PGas i
+pGas i max
+pO2
+pO2 max
+
+fO2 = 0,21 = 21 / 100
+
+Partialdruck des Gases i = Mengenanteil fi des Gases i × Gesamtdruck [bar]
+maximal erlaubter Partialdruck des Gases i
+Sauerstoffpartialdruck
+maximal erlaubter Sauerstoffpartialdruck
+( = 1 ,6 [bar] , max. 3 Stunden lang, lt. BGI 897)
+(Sporttaucher: etwa 1,6 bar in warmen Gewässern bei normaler Arbeitsleistung,
+ansonsten 0,1 bis 0,2 bar niedriger)
+
+pO2 min
+
+geringster erlaubter Sauerstoffpartialdruck ( = 0,16 [bar] lt. BGI 897)
+
+MOD Maximale Einsatztiefe (engl. ‚maximum operation depth‘)
+
+⎞
+⎛ p Gas imax
+MOD = ⎜⎜
+− 1⎟⎟ × 10 [ Meter ]
+⎠
+⎝ f Gasi
+
+Maximale Einsatztiefe bei Vorgabe eines maximal erlaubten Sauerstoffpartialdruck
+(MOD O2)
+
+⎞
+⎛ p O 2 max
+= ⎜⎜
+− 1⎟⎟ × 10 [ Meter ]
+⎠
+⎝ f O2
+
+MOD (O2 )
+
+Beispiel
+Normale atmosphärische Luft (mit 21% Sauerstoff) Æ fO2 = 0,21 = 21 / 100
+Grenzwert für Sauerstoff = 1,6 [bar]
+
+MOD
+
+=
+
+⎛ 1,6
+⎞
+− 1⎟ × 10 ≈ 66 ,19 [ Meter ]
+⎜
+⎝ 0,21
+⎠
+
+Weitere Formeln:
+
+p Umgebung =
+
+p Gas
+f Gas
+
+Lehrbuch für Forschungstaucher
+
+f Gas =
+
+p Gas
+p Umgebung
+
+© Peter König, Andreas Lipp
+
+p Gas = f Gas × p Umgebung
+Version: Juni 2007
+
+Seite:
+
+40
+
+1.5.8.
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Zusammenfassung
+
+Dichte von Luft
+Dichte von Süßwasser von 4 °C
+
+-3
+
+1, 29 [g l ]
+
+-1
+
+-1
+
+1,00000 [kg l ]
+
+Zusammensetzung der atmosphärischen Luft
+Archimedisches
+Prinzip
+
+-1
+
+-1
+
+1,29 * 10 [kg l ]
+
+1000 [g l ]
+78 % Stickstoff
+21 % Sauerstoff
+0,03 % Kohlendioxid
+
+1 % Edelgase und
+andere Gase
+
+„Ein Körper verliert in einer Flüssigkeit (scheinbar) soviel an Gewicht, (bzw. erhält soviel Auftrieb,) wie die von ihm verdrängte Flüssigkeitsmenge wiegt.“
+
+Die Gasgesetze gelten für ideale Gase (Vernachlässigung der Bindungskräfte zwischen den Molekülen).
+Allgemeine
+Gasgleichung
+Gesetz von
+Boyle und Mariotte
+
+Gesetz von
+Charles
+
+Gesetz von
+Gay-Lussac
+
+Gesetz von
+Dalton
+
+Gesetz von
+Henry
+
+„Für eine beliebige abgeschlossene
+Gasmenge ist bei Zustandsänderungen der Quotient pV/T konstant.“
+"Bei gleichbleibender Temperatur ist
+das Produkt aus Druck und Volumen
+für eine abgeschlossene Gasmenge
+konstant."
+"Bei konstantem Druck wächst das
+Volumen einer abgeschlossenen
+Gasmenge im direkten Verhältnis zur
+Zunahme der absoluten Temperatur."
+Bei Abkühlung erfolgt der umgekehrte
+Vorgang.
+"Bei konstantem Volumen wächst der
+Druck einer abgeschlossenen Gasmenge im direkten Verhältnis zur
+Zunahme der absoluten Temperatur."
+Bei Abkühlung erfolgt der umgekehrte
+Vorgang.
+
+p ×V
+T
+p × V
+
+= konstant
+= konstant Isotherme
+
+(T
+
+konstant )
+
+(Temperatur bleibt
+konstant.)
+
+V
+T
+
+= konstant
+
+Isobare
+Zustandsänderung
+(Druck bleibt konstant.)
+
+( p konstant)
+P
+T
+
+= konstant
+
+(V
+
+konstant )
+
+Isochore
+Zustandsänderung
+(Volumen bleibt konstant.)
+
+"In einem Gasgemisch übt ein jedes
+pi = ( qi / 100 ) × p
+der Gase den Druck aus, den es haben würde, wenn es für sich alleine
+den ganzen Raum erfüllte, dieser
+Druck heißt Partialdruck.
+Der Gesamtdruck des ganzen Gasgemisches ist gleich
+der Summe der einzelnen Partialdrücke.“
+"Die in einer Flüssigkeit gelöste Menge Qi = pi × αij × Vj
+eines Gases ist (im Gleichgewicht)
+seinem Partialdruck an der Flüssigkeitsoberfläche proportional."
+
+Lehrbuch für Forschungstaucher
+
+Zustandsänderung
+
+© Peter König, Andreas Lipp
+
+Pi := Partialdruck des
+Gases i
+qi := Volumenanteil des
+Gases i
+Qi := gelöste Menge
+des Gases i
+αij := Löslichkeitskoeffizient des Gases i in der
+Flüssigkeit j
+Vj := Volumen der
+Flüssigkeit j
+
+Version: Juni 2007
+
+Kapitel 1
+
+1.6.
+
+Physikalische Grundlagen
+
+Seite: 41
+
+Optik (Sehen unter Wasser)
+
+Die Geschwindigkeit von Licht unter Wasser ist geringer als im Medium Luft. Diese Tatsache
+kann in Kombination mit einer unpräzisen (gewohnheitsbedingten) Umsetzung (Wahrnehmung) dieser Lichtinformationen im Gehirn dazu führen, dass ein Taucher Größe und Entfernung von Gegenständen bzw. von Lebewesen unter Wasser falsch wahrnimmt. Schwächung und Streuung des Lichtes unter Wasser, insbesondere durch Wasserinhaltsstoffe, verändern die Wahrnehmung weiter und bedingen zusätzlich ein falsches Farbensehen.
+
+1.6.1.
+
+Lichtbrechung (Refraktion)
+Willebrod Snell van Rojen (lat. Snellius), 1580 (oder 1591?) – 1626
+Niederländischer Mathematiker und Physiker
+
+Snelliussches Brechungsgesetz (~1618):
+
+"Beim Übergang eines Lichtstrahles aus einem Medium in ein anderes ist der Quotient aus
+dem Sinus des Einfalls- und des Brechungswinkels eine von der Natur der beiden Medien
+abhängige Konstante."
+René Descartes (1596-1650), frz. Philosoph und Mathematiker, hat 1637 das Brechungsgesetz veröffentlicht
+und mit der Lichtgeschwindigkeit in einen Zusammenhang gebracht („Discours de la Méthode“, 1637).
+
+Der absolute Brechungsindex ni ist gleich dem Verhältnis der Lichtgeschwindigkeit co im
+Vakuum zur Lichtgeschwindigkeit im Medium i:
+Absoluter Brechungsi ndex :
+
+ni =
+
+Lichtgesch windigkeit im Vakuum
+c0
+=
+Lichtgesch windigkeit im Medium i
+ci
+
+Der relative Brechungsindex n21 ist gleich dem Verhältnis der Lichtgeschwindigkeit c1 im
+Medium 1 zur Lichtgeschwindigkeit c2 im Medium 2.
+Relativer Brechungsi ndex :
+
+n 21 =
+
+sin α
+n2
+c
+=
+= 1
+sin β
+n1
+c2
+
+Die Konstante n21 heißt relativer Brechungsindex des Mediums
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+42
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+2 in bezug auf das Medium 1. Er ist ein Maß für die Änderung der Ausbreitungsrichtung von
+Lichtwellen beim Übergang vom Medium 1 zum Medium 2.
+Der relative Brechungsindex beim Übergang eines Lichtstrahls von Luft in Wasser
+ergibt sich zu n21 = 1,333...,
+wobei folgende Werte einzusetzen sind:
+
+n = 1,0003
+Luft
+α
+
+co
+
+= Lichtgeschwindigkeit in Vakuum
+= 299796,.. km s-1
+
+c1
+
+= Lichtgeschwindigkeit in Luft
+≈ 300.000 km s-1
+
+c2
+
+= Lichtgeschwindigkeit in Wasser
+= 225.000 km s-1
+
+β
+n = 1,33
+Wasser
+
+n2
+
+= nWasser = co / cWasser = 1,3332
+
+n1
+
+= nLuft (0°C; 1,013 bar) = co / cLuft(..)
+= 1,000292
+
+Beim Tauchen erfolgt die Lichtbrechung an der Grenzfläche zwischen der Luft in der Tauchermaske und dem umgebenden Wasserkörper. Diese Lichtbrechung bewirkt eine Vergrößerung der Abbildung auf der Netzhaut. Unter bestimmten Voraussetzungen erscheinen
+dem Taucher Gegenstände ein Viertel näher platziert als ihr tatsächlicher Abstand ist.
+
+Unter Wasser erscheinen uns alle Gegenstände
+
+1/3
+
+größer
+und
+
+1/4 näher ⊗.
+⊗ Vereinfachte Aussage, s.a. folgenden Text.
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Seite: 43
+
+Diese Verzerrung kann die Hand-Augen-Koordination, insbesondere bei Tauchanfängern,
+beeinflussen, wenn sie versuchen einen Gegenstand unter Wasser zu greifen. Bei großen Entfernungen erscheinen Gegenstände dagegen weiter entfernt als sie tatsächlich sind. Die Ursache dieser falschen Entfernungsschätzungen beruht darauf, dass die vom Gehirn berechnete
+Entfernung auf den Winkeldifferenzen ( ) zwischen den auf den beiden Augen auftreffenden Lichtstrahlen (Signalen) beruht. Das Gehirn legt dabei seine lebenslangen Erfahrungen
+mit den Lichtstrahlen über Wasser zugrunde.
+Lichtstrahlen, von einem definierten Punkt im Wasser ausgehend, treffen auf ihren Wegen zu
+den beiden Augen mit etwas unterschiedlichen Winkeln auf dem Maskenglas auf und werden
+dort entsprechend unterschiedlich gebrochen.
+
+Die Abstandswahrnehmung wird zusätzlich noch stark von der Trübung (Schwebstoffgehalt
+und gelöste Stoffe) des Wassers beeinflusst: je trüber das Wasser, um so näher rückt der Umkehrpunkt, an dem der Wechsel von Überschätzung zu Unterschätzung des Abstandes erfolgt.
+
+Beispiel
+Sehr trübes Wasser:
+
+Abstand von Objekten in 0,9 bis 1,2 m Abstand wird überschätzt.
+
+Mäßig trübes Wasser:
+
+Der Umkehrpunkt liegt zwischen 6,1 und 7,6 m Abstand.
+
+Sehr klares Wasser:
+
+Die Entfernung von Gegenständen in 15,2 bis 22,9 m Abstand
+wird unterschätzt.
+(nach: NOAA , Diving for Science and Technology)
+
+"Daumenregel":
+
+Je näher ein Objekt ist, desto wahrscheinlicher ist es, dass es zu nahe
+erscheint, und je trüber das Wasser ist, umso größer ist die Wahrscheinlichkeit, dass der Abstand als zu groß angenommen wird.
+
+Durch Erfahrung und Übung kann die Fähigkeit zur Abstands- und Größeneinschätzung deutlich verbessert werden. Dies ist sowohl für die Sicherheit als auch für Arbeiten unter Wasser
+(wie Forschungsarbeiten) wichtig. Als Folge der falschen Größen-/Abstandseinschätzungen
+wird auch die Geschwindigkeit von Objekten, die das Blickfeld kreuzen, überschätzt.
+Die folgenden Abbildungen zeigen den Weg der Lichtstrahlen entsprechend den Gesetzen der
+geometrischen Optik:
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+44
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Weg der Lichtstrahlen im Auge über
+Wasser
+
+Gegenstand wird scharf auf der
+Netzhaut abgebildet!
+
+Weg der Lichtstrahlen im Auge unter
+Wasser (anderer Brechungsindex)
+
+Der geänderte Brechungsindex
+entspricht einer Weitsichtigkeit
+von etwa + 45 Dioptrien!
+
+Weg der Lichtstrahlen im Auge unter
+Wasser, korrigiert mit Maske
+
+Durch die ebene Glasscheibe der
+Tauchermaske wird die Sehschärfe
+korrigiert.
+
+Maske
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+SG WG
+Wasser
+
+Luft
+
+Seite: 45
+
+Der Bildwinkel wird verkleinert,
+dies wird aber vom Auge nicht
+festgestellt. Das scheinbare Bild
+ist etwa 1/3 zu groß.
+
+WG = wirkliche Größe
+SG = scheinbare Größe
+
+Wirkliche Position
+
+Unterschiedliche Brechungswinkel
+am Maskenglas führen zu einer
+falschen Abstandsermittlung durch
+das Gehirn.
+
+Scheinbare Position
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+46
+
+1.6.2.
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Farben und Lichtstärke (Helligkeit) unter Wasser
+
+In das Wasser einfallendes Licht (Sonnenlicht, diffuses Himmelslicht) wird
+a. gestreut
+und b. absorbiert (in andere Energieform überführt),
+wobei beide Vorgänge von der Wellenlänge abhängig sind.
+Die Lichtintensität nimmt dabei exponentiell (Lambert-Beersches Gesetz) mit der Tiefe
+ab. Gleichzeitig verengt sich das Spektrum des Lichts.
+
+Tabelle I/ 3
+
+Wellenlänge
+in nm (in Luft)
+entspr. Farbe
+
+400
+
+450
+
+500
+
+550
+
+600
+
+violett
+
+blau
+
+blau
+
+grün
+
+gelb orange
+
+rot
+
+8,66
+
+17,33
+
+18,23
+
+14,7
+
+3,53
+
+2,22
+
+1,18
+
+davon verursacht
+durch Streuung %
+
+45
+
+56
+
+39
+
+21,3
+
+3,6
+
+1,6
+
+0,7
+
+durch Absorption %
+
+55
+
+44
+
+61
+
+78,7
+
+Vertikale Abschwächung (Attenuation) auf die Hälfte nach Metern
+(bei klarem Wasser)
+
+Rotes, langwelliges Licht
+blaues Licht
+d.h.
+Î
+
+650
+
+700
+
+96,4
+99,3
+99,3
+(nach O. F. Ehm, 1984)
+
+wird am meisten verschluckt,
+wird am wenigsten verschluckt.
+Wasser wirkt wie ein Blaufilter.
+
+Rote Gegenstände (z.B. Blut) erscheinen in ca. 15 m Wassertiefe schwarzgrau,
+falls kein Kunstlicht benutzt wird.
+(Rot wird von einigen Fischen deshalb als Tarnfarbe genutzt!)
+
+Schwebeteilchen (z.B. Plankton) und gelöste Stoffe (z.B. Humussäure, „Gelbstoffe“) verkürzen o.g. Wegstrecken noch weiter (ebenfalls abhängig von der Wellenlänge).
+Die Menge an Schwebeteilchen und gelösten Stoffen ist abhängig von der Jahreszeit und dem
+Gewässer.
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Die Energie, die ein Lichtstrahl an der Oberfläche
+vermindert (A. Stibbe, 1983):
+blau
+Gesamtlicht
+gelb
+rot
+
+Seite: 47
+
+hatte, wird in folgenden Tiefen auf 1/16
+87 m
+46 m
+31 m
+9m
+
+Von wesentlicher Bedeutung für die Lichtstärke unter Wasser sind auch
+der Einfallswinkel des Lichtes an der Oberfläche und die Oberflächenbeschaffenheit
+des Wassers (glatte Fläche, wellige Fläche, Schaumbildung)
+(Reflexionsverlust in unseren Breiten 3% bis 40%)
+und die Beschaffenheit des Grundes (desto heller, umso mehr Licht wird reflektiert).
+Bei größeren Wassertiefen erscheint reines Wassers blau und chlorophyllreiches Wasser
+grün.
+
+1.6.3.
+
+Dunkelheitsgewöhnung
+
+Das Auge benötigt einige Zeit (ca. 10 Minuten) zur Anpassung an große Helligkeitsschwankungen. Vollständige Anpassung nach 30 Minuten.
+Maßnahme: 30 Minuten vor dem Tauchen eine rote Scheibe vor den Augen tragen.
+Adaption erklärt das Gefühl, es werde nach längerer Tauchzeit heller.
+Bei größerer Dunkelheit Umschaltung auf Schwarzweiß = Hell-Dunkel-Sehen.
+
+1.7.
+
+Akustik (Hören unter Wasser)
+
+Die Schallgeschwindigkeit c in Flüssigkeiten beträgt:
+
+c ≈
+
+1
+K
+
+wobei K = adiabatische Kompressibilität.
+K ist eine Funktion von Temperatur, Salzgehalt und Druck.
+
+Wasser ist ein besserer Schallleiter als Luft, daher kann sich der Schall im Wasser weiter und
+schneller als in Luft ausbreiten, wobei niedrigfrequente Schallwellen eine höhere Reichweite
+als hochfrequente Wellen haben.
+
+Die Schallgeschwindigkeit ist im Wasser
+ungefähr 4,5 mal größer als in Luft!
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+48
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+Tabelle I/ 4
+
+Schallgeschwindigkeit in Abhängigkeit vom Medium
+Luft
+Reines Wasser
+Salzwasser (35 PSU, 14 °C)
+
+333 m s-1
+1440 m s-1
+1500 m s-1
+
+Salzwasser (35 PSU, 0 °C,
+
+0 dbar Wasserdruck)
+
+1449,3 m s
+
+-1
+
+Salzwasser (35 PSU, 30 °C,
+
+0 dbar Wasserdruck )
+
+1545,8 m s
+
+-1
+
+0 °C, 1000 dbar Wasserdruck)
+
+1465,8 m s
+
+-1
+
+Salzwasser (35 PSU, 30 °C, 1000 dbar Wasserdruck)
+
+1562,5 m s
+
+-1
+
+Salzwasser (35 PSU,
+
+Konsequenzen:
+
+Die Richtungsortung einer Schallquelle ist
+unter Wasser kaum möglich.
+
+Der Schall einer entfernten Schallquelle benötigt unterschiedliche Zeiten bis er beide Ohren
+erreicht hat (unterschiedliche Strecken). Die Zeitdifferenz Δ t wird im Gehirn verarbeitet und
+als Information über die Richtung der Schallquelle ausgewertet.
+Im Wasser ist Δ t ≈ 4,5fach kleiner als in Luft! Î Die Zeitdifferenz kann kaum noch zur
+Richtungsortung verarbeitet werden.
+Î Gefahr: Sich nähernde Motorboote können aufgrund der fehlender Richtungszuordnung den Tauchern gefährlich werden.
+
+Hinweis: Neopren (Kopfhauben) filtern Schall > 1000 Hz.
+Militärische Schiffe haben Sonargeräte (Ultraschall hoher Intensität), Tauchen in der Nähe
+solcher Schiffe ist lebensgefährlich.
+Vorsicht auch bei UW-Explosionen (z.B. Sedimentforschung), im Wasser gefährlicher, Explosionsparameter genau berechnen!
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+1.8.
+
+Physikalische Grundlagen
+
+Seite: 49
+
+Temperatur-Schichtung in Süßwasserseen und biologische Produktion
+
+Winter: Stagnation
+
+Bei Ausbildung einer Eisdecke hat der Wind hat keine Bedeutung mehr für die Zirkulation im Gewässer.
+Die Wassertemperatur nahe der Oberfläche liegt bei 0 °C (Eisbildung) und nimmt mit der Tiefe bis auf 4 °C (größte Dichte
+des Wassers) zu.
+Aufgrund der geringen Sonnenstrahlung ist die biologische
+Produktion unwesentlich.
+
+Frühjahr: Vollzirkulation
+
+Durch die verstärkte Sonnenstrahlung erwärmt sich das Wasser
+auf 4 °C, Sprungschichten werden aufgelöst. Der Wind kann
+das Wasser leicht durchmischen.
+Nach einer starken Frühjahrsblüte (geringe Sichtweiten) kommt
+es nach Aufzehrung der Nährstoffe zu einer deutlichen Abnahme der biologischen Produktion. Die Sichtweiten bessern
+sich drastisch.
+
+Sommer: Stagnation
+
+Die Sonne erwärmt das Wasser weiter (d.h. es wird spezifisch
+leichter). Es kommt zur Ausbildung kräftiger Sprungschichten.
+Die schwachen Winde tragen kaum zu einer Vermischung bei.
+
+Herbst: Vollzirkulation
+
+Herbststürme und Abkühlung (Abbau der Sprungschichten)
+resultieren in einer Durchmischung bis in größere Tiefen.
+Die biologische Produktion ist aufgrund der Nährstoffeinträge
+erhöht (Herbstblüte)
+
+Anmerkung: In eutrophen Seen ist die Produktion ganzjährig nahe der Oberfläche sehr
+stark. Darunter sind die Sichtweiten meist gut.
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Seite:
+
+50
+
+1.9.
+
+Wärmetransport, Kälteschutz
+
+Temperatur eines Körpers
+
+Physikalische Grundlagen
+
+=
+
+Kapitel 1
+
+Wärmeenergie (Bewegung von Molekülen)
+
+Wärmetransport erfolgt durch:
+
+a. Wärmeleitung (Konduktion)
+Übertragung in einem Material, wobei Wasser besser leitet als Luft.
+(Ungeschützter Taucher verliert einen großen Teil seiner Wärme durch direkte Wärmeleitung.)
+b. Wärmeströmung (Konvektion)
+Übertragung durch bewegte Flüssigkeiten oder Gase
+(In einem Nasstauchanzug steigt warmes Wasser nach oben und kaltes Wasser strömt
+nach Æ Wärmeverlust.)
+c. Wärmestrahlung erfolgt durch elektromagnetische Wellen
+(Beispiel: Sonnenstrahlung).
+(Spielt für Taucher unter Wasser keine Rolle.)
+Stoffe, die Luft oder Gase enthalten (z.B. Zellkautschuk [Neopren®]), wirken als
+Wärmeisolatoren.
+(Bei Gasen ist He bester Wärmeleiter.)
+Nasstauchanzüge werden in der Tiefe zusammengedrückt und verlieren einen Teil ihrer
+Wärmedämmungsqualität.
+Beispiel 1
+Zellkautschuk-Anzug, 7 mm dick
+Auf die eingeschlossenen Gasblasen wirkt der Wasserdruck. Die Größe der Gasblasen
+ändert sich entsprechend dem Gesetz von Boyle-Mariotte.
+Damit ändert sich die Wärmequalität, wie folgt:
+in 10 m Tiefe auf 1/2,
+in 20 m Tiefe auf 1/3 und
+in 50 m Tiefe auf 1/6.
+(nach A. Stibbe, 1983)
+Beispiel 2
+Ein nylongefütterter Neoprenanzug von 6,3 mm Stärke verliert
+in 10 m Tiefe 35 % seines Volumens und
+in 30 m Tiefe 50 % seines Volumens.
+Dabei verringert sich seine Isolationswirkung
+in 20 m Tiefe um 50 % und
+in 30 m Tiefe um 63 %.
+(nach O. F. Ehm, 1991)
+
+Bei Einsätzen von Forschungstauchern in deutschen Gewässern ist die Verwendung von Trockentauchanzügen außer in den Sommermonaten (in geringen Tauchtiefen) in der Regel notwendig!
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+Physikalische Grundlagen
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Seite: 51
+
+Version: Juni 2007
+
+Seite:
+
+52
+
+Physikalische Grundlagen
+
+Kapitel 1
+
+1.10. Diffusion
+Chemie
+Gegenseitiges Durchdringen [von Gasen oder Flüssigkeiten]
+Physik
+Zerstreuung
+lat.;
+„das Auseinanderfließen“
+lat.;
+dis- = auseinander,
+fundo = ausgießen, ausbreiten
+
+Konzentrationsunterschiede bei
+• Gasförmigen Stoffe
+• Gelösten Stoffen
+• Energie (Wärme)
+Î Ausgleich auch ohne äußere Einwirkung
+
+Dazu bewegen sich die Teilchen im statistischen Mittel durch die Brownsche Molekularbewegung (zufällig und ungerichtet) temperaturabhängig von der höheren Æ niedrigen Konzentration.
+Bewegung der Teilchen erfolgt frei oder bei der Transfusion durch eine poröse Wand oder
+Membran hindurch.
+Ist die Membran semipermeabel (halbdurchlässig) Æ Osmose.
+
+Δt
+Zunahme der Entropie
+
+c = 14
+
+c=4
+
+c
+
+=
+
+9
+
+Beispiel aus der Tauchmedizin
+Diffusionsbasierter Gasaustausch:
+•
+
+Äußere Atmung: Übergang von Atemgasbestandteilen zwischen den Alveolen und den
+Blutgefäßen
+
+•
+
+Innere Atmung (Zellatmung): Übergang von Atemgasbestandteilen zwischen dem Gewebe und dem Blut.
+
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+Kapitel 1
+
+1.10.1.
+
+Physikalische Grundlagen
+
+Seite: 53
+
+Ficksche Diffusionsgesetze
+Adolf Fick (3.09.1829 – 21.08.1901), deutscher Arzt (Pathologe) und Physiologe
+Er veröffentlichte 1855 in "Poggendorfs Annalen der Physik“ eine Arbeit mit dem Titel: "Über Diffusion".
+
+1. Ficksches Gesetz
+"Je höher der Konzentrationsgradient an einer Stelle,
+desto höher ist der Teilchenstrom an dieser Stelle."
+
+∂C
+∂x
+
+Konzentrationsgradient
+C
+K
+∂x
+A
+
+J :=
+
+:= Konzentration
+(oder auch Anzahl von Teilchen)
+:= Diffusionskoeffizient (Diffusionskonstante) des betreffenden Stoffes
+:= Diffusionsstrecke
+:= durchströmte Fläche (Referenzfläche)
+
+Netto-Teilchenstrom
+
+J = − K × A×
+
+(Diffusionsstrom)
+
+∂C
+∂x
+
+J
+
+A
+
+Das Minuszeichen weist daraufhin,
+dass der Netto-Teilchenstrom in Richtung abnehmender Konzentration erfolgt.
+
+J/A := Teilchenstromdichte (engl. flux)
+Beispiel aus der Tauchmedizin
+C = gelöstes Inertgas (N2), A = Oberfläche der Alveole
+
+Mit Hilfe der Kontinuitätsgleichung:
+
+∂C
+∂J
+= −
+∂x
+∂t
+
+ergibt sich bei konstantem K
+
+die Diffusionsgleichung (2. Ficksches Gesetz):
+
+∂C
+∂t
+
+∂2 C
+= K×
+∂ x2
+
+Diffusionsgeschwindigkeit
+(zeitliche Änderung der Konzentration)
+
+2. Ficksches Gesetz
+
+(Diffusionsgleichung)
+
+"Die zeitliche Änderung der Konzentration
+an einer Stelle ist proportional
+zur 2. Ableitung der Konzentration nach dem Ort."
+Lehrbuch für Forschungstaucher
+
+© Peter König, Andreas Lipp
+
+Version: Juni 2007
+
+

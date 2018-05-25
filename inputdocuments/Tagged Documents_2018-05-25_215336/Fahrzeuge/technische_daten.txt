@@ -1,0 +1,263 @@
+BMW
+Medieninformation
+04/2017
+Seite 1
+
+Technische Daten.
+Der neue BMW M4 CS.
+
+BMW M4 CS
+Karosserie
+Anzahl Türen/Sitzplätze
+Länge/Breite/Höhe (leer)
+Radstand
+Spurweite vorne/hinten
+Bodenfreiheit
+Wendekreis
+Tankinhalt
+Kühlsystem einschl. Heizung
+Motoröl1)
+Leergewicht nach EU
+(ohne Fahrer/mit Fahrer)
+Zuladung nach EU
+Zul. Gesamtgewicht
+Zul. Achslasten vorne/hinten
+Zul. Anhängelast (12 %)
+gebremst/ungebremst
+Zul. Dachlast/Zul. Stützlast
+Kofferraumvolumen
+Luftwiderstand
+
+mm
+mm
+mm
+mm
+m
+ca. l
+l
+l
+kg
+kg
+kg
+kg
+kg
+kg
+l
+cW x A
+
+Motor
+Bauart/Anz. Zylinder/Ventile
+Motor-Technologie
+
+Hubraum effektiv
+
+cm³
+
+Hub/Bohrung
+Verdichtung
+Kraftstoff
+Leistung
+bei Drehzahl
+Drehmoment
+bei Drehzahl
+
+mm
+:1
+
+Elektrik
+Batterie/Einbauort
+Lichtmaschine
+Fahrdynamik und Sicherheit
+Vorderradaufhängung
+Hinterradaufhängung
+Bremse vorne
+Bremse hinten
+Fahrstabilitätssysteme
+
+Sicherheitsausstattung
+
+Lenkung
+Gesamtübersetzung Lenkung
+Reifen vorne/hinten
+
+kW/PS
+min–1
+Nm
+min–1
+
+Ah/–
+A/W
+
+2/4
+4672/1870/1392
+2812
+1579/1604
+121
+12,2
+60
+10,0
+6,5
+1580/1655
+460
+2040
+970/1130
+---/--75/--445
+0,36 x 2,25
+
+R/6/4
+M TwinPower Turbo Technologie: Zwei Mono-Scroll-Turbolader,
+Direkteinspritzung High Precision Injection, vollvariable Ventilsteuerung
+VALVETRONIC, variable Nockenwellensteuerung Doppel-VANOS
+2979
+89,6/84,0
+10,2
+ROZ95 – ROZ98 (empf.)
+338/460
+6250
+600
+4000 – 5380
+
+69/Gepäckraum
+209/2926
+
+Adaptives M Fahrwerk mit Doppelgelenk-Zugstreben-Federbeinachse in
+Aluminiumleichtbauweise und M spezifischer Elastokinematik
+Adaptives M Fahrwerk mit Fünf-Lenker-Achse in Aluminiumleichtbauweise
+M Compound-Bremsanlage belüftet mit Vierkolben-Festsattel
+M Compound-Bremsanlage belüftet mit Zweikolben-Festsattel
+Serienmäßig: DSC inkl. ABS und M Dynamic Mode, Kurvenbremshilfe CBC,
+Bremsassistent DBC, Trockenbremsfunktion, Anfahrassistent; Aktives
+M Differenzial, Vernetzung im Integrated Chassis Management (ICM)
+Serienmäßig: Airbags für Fahrer und Beifahrer, Seitenairbags für Fahrer und
+Beifahrer, Kopfairbags vorne, Dreipunkt-Automatikgurte für alle Sitzplätze mit
+Gurtstopper, Gurtstrammer und Gurtkraftbegrenzer
+Elektromechanische Zahnstangen-Servolenkung (EPS) mit M spezifischer
+Servotronic Funktion
+:1
+15,0
+265/35 ZR 19 98Y
+285/30 ZR 20 99Y
+
+Felgen vorne/hinten
+9 J x 19 LM
+10 J x 20 LM
+
+BMW
+Medieninformation
+04/2017
+Seite 2
+
+BMW M4 CS
+Getriebe
+Getriebeart
+Getriebeübersetzung
+
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+R
+
+Hinterachsübersetzung
+Fahrleistungen
+Leistungsgewicht
+EU ohne Fahrer
+Literleistung
+Beschleunigung 0–100 km/h
+im 4./5. Gang
+80–120 km/h
+Höchstgeschwindigkeit
+
+:1
+:1
+:1
+:1
+:1
+:1
+:1
+:1
+:1
+:1
+
+kg/kW
+kW/l
+s
+s
+km/h
+
+BMW EfficientDynamics
+BMW EfficientDynamics
+Maßnahmen serienmäßig
+
+Verbrauch im EU-Zyklus3)
+Mit Serienbereifung:
+städtisch
+außerstädtisch
+insgesamt
+CO2
+Emissionseinstufung
+Versicherungseinstufung
+KH/VK/TK
+
+Siebengang M Doppelkupplungsgetriebe mit Drivelogic
+4,806
+2,593
+1,701
+1,277
+1,000
+0,844
+0,671
+----4,172
+3,462
+
+4,7
+113,5
+3,9
+3,4/4,3
+2802)
+
+Bremsenergie-Rückgewinnung, elektromechanische Servolenkung,
+Auto Start Stopp Funktion, Schaltpunktanzeige im manuellen Schaltmodus,
+intelligenter Leichtbau, bedarfsgerecht gesteuerte Nebenaggregate, Li-IonenBatterie; kennfeldgeregelte Ölpumpe, Hinterachsgetriebe mit optimiertem
+Wirkungsgrad, Aerodynamik (Unterbodenverkleidung, Frontspoiler, Heckdeckel
+mit Gurney)
+
+l/100km
+l/100km
+l/100km
+g/km
+
+11,2
+6,8
+8,4
+197
+EU6
+
+n.b.
+
+Technische Daten gültig für ACEA Märkte / Zulassungsrelevante Daten teilweise nur für Deutschland (Gewichte)
+1)
+2)
+3)
+
+Öl-Wechselmenge mit Filter
+Abgeregelt mit serienmäßigem M Drivers Package
+Vorläufige Kraftstoffverbrauchs- und CO2-Emissionswerte, abhängig vom gewählten Reifenformat
+
+Weitere Informationen zum offiziellen Kraftstoffverbrauch, den offiziellen spezifischen CO 2-Emissionen und dem Stromverbrauch neuer
+Personenkraftwagen können dem „Leitfaden über Kraftstoffverbrauch, die CO 2-Emissionen und den Stromverbrauch neuer
+Personenkraftwagen“ entnommen werden, der an allen Verkaufsstellen, bei der Deutschen Automobil Treuhand GmbH (DAT), Hellmuth-HirthStr. 1, 73760 Ostfildern-Scharnhausen und unter http://www.dat.de/angebote/verlagsprodukte/leitfaden-kraftstoffverbrauch.html erhältlich ist.
+
+BMW
+Medieninformation
+04/2017
+Seite 3
+
+Leistungs- und Drehmomentdiagramm.
+Der neue BMW M4 CS.
+
+

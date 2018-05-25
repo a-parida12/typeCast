@@ -1,0 +1,3368 @@
+
+
+
+|Dieses Skript richtet sich nach den Anforderungen, die die Abteilung      |
+|Methodenlehre & Diagnostik fόr das Vordiplom stellt. Das Skript erhebt    |
+|keinen Anspruch auf Vollstδndigkeit und Richtigkeit, ist aber sicher eine |
+|gute Hilfe zum Verstδndnis der Thematiken sowie zur Prόfungsvorbereitung. |
+
+
+
+
+
+                                   Bortz:
+                                  Statistik
+
+
+
+
+
+|SKRIPTLISTE:                                                             |
+|Grundstudium:                |erstel|Hauptstudium:                |erstel|
+|                             |lt    |                             |lt    |
+|B - Methodenlehre (+ Bortz)  |2002  |                             |      |
+|C - Allgemeine Psychologie 1 |2001  |                             |      |
+|D - Wahrnehmung & Denken     |2002  |                             |      |
+|KEINE weiteren Skripte geplant      |weitere Skripte in Vorbereitung     |
+
+                                 Viel Spaί!
+
+                                Manuel Ulrich
+
+                         Zur άberprόfung: 151 Seiten
+              Erstellt wurde das Skript Januar bis April 2002.
+
+                             Inhaltsverzeichnis:
+
+Diverses:                                                          S. 5
+(Konzeption des Skriptes; Literaturliste; griechisches Alphabet;
+Warnhinweis)
+
+
+Statistik (B2):
+
+Deskriptive Statistik:                                             S. 8
+(Skalenniveaus; Maίe der zentralen Tendenz: Modus, Median & Arithmetisches
+Mittel; Dispersionsmaίe: Variationsbreite und Perzentile, Quadratsummen,
+Varianz und Standardabweichung; z-Werte)
+
+Merkmalszusammenhδnge & -vorhersagen:                              S. 12
+(Kovarianz  und Korrelation; Korrelation und Kausalitδt; Lineare
+Regression; Beobachtete, vorhergesagte und Residualwerte;
+Determinationskoeffizient)
+
+Wahrscheinlichkeitstheorie und -verteilungen:                           S.
+16
+(Zufallsexperimente; Grundbegriffe der Wahrscheinlichkeitsrechnung; Axiome
+der Wahrscheinlichkeitstheorie;
+Das Theorem von Bayes; Variationen, Permutationen, Kombinationen;
+Verteilungsfunktionen; Diskrete Verteilungen; Stetige Verteilungen 1:
+Normalverteilung & Standardnormalverteilung; Stetige Verteilungen 2: Chi2-
+Verteilung, t-Verteilung sowie F-Verteilung; Zusammenhδnge von NV, STNV,
+Chi2-, t- und F-Verteilung)
+
+Stichprobe und Grundgesamtheit:                                    S. 27
+(Begriffe der Inferenzstatistik; Stichprobenarten; Verteilung von
+Stichprobenkennwerten; Kriterien der Parameterschδtzung: Erwartungstreue,
+Konsistenz, Effizienz, Suffizienz; Methoden der Parameterschδtzung: Methode
+der kleinsten Quadrate, Maximum-likelihood-Methode; Intervallschδtzung:
+Wertebereich, Konfidenzintervalle; Bedeutung des Stichprobenumfangs)
+
+Formulierung und άberprόfung von Hypothesen:                       S. 35
+(Alternativhypothesen; Varianten von Alternativhypothesen; Die
+Nullhypothese; Fehlerarten bei statistischen Entscheidungen: Alpha- & Beta-
+Fehler; Signifikanzaussagen; Bestimmung der Irrtumswahrscheinlichkeit;
+Einseitige und zweiseitige Tests; Statistische Signifikanz und praktische
+Bedeutsamkeit; Effektgrφίe; Der Beta-Fehler; Indifferenzbereiche;
+Teststδrke ("power"); Bedeutung der Stichprobengrφίe; Monte-Carlo-Studien,
+Bootstrap-Technik)
+
+Verfahren zur άberprόfung von Unterschiedshypothesen:              S.44
+(Verfahren fόr Intervalldaten; z-Test, t-Test; t-Test fόr unabhδngige
+Stichproben; t-Test fόr abhδngige Stichproben; chi2-Test fόr eine Varianz;
+F-Test; Verfahren fόr Ordinaldaten; Randomisationstest nach Fisher; U-Test;
+Wilcoxon-Test; Verfahren fόr Nominaldaten; Vergleich der Hδufigkeit eines
+zweifach gestuften Merkmals; Vergleich der Hδufigkeit eines k-fach
+gestuften Merkmals; 4-Felder-chi2-Test; k x l-chi2-Test;
+Konfigurationsanalyse; Allgemeine Bemerkungen zu den chi2-Techniken)
+
+Verfahren zur άberprόfung von Zusammenhangshypothesen:             S.65
+(Die Statistische Absicherung von linearen Regressionen; Determinanten der
+Vorhersagegenauigkeit; Nonlineare Regression; Interpretationshilfen fόr r;
+k-fach gestufte Merkmale; Korrelation fόr nonlineare Zusammenhδnge;
+Fischers Z-Transformation; Spezielle Korrelationstechniken)
+
+Varianzanalyse (B3):
+
+Einfaktorielle Versuchsplδne:                                           S.
+75
+(Begriffe der Varianzanalyse; Grundprinzip der einfaktoriellen
+Varianzanalyse; Quadratsummenzerlegung; Varianzschδtzungen; Entscheidung;
+Effektgrφίen; Varianzaufklδrung; Voraussetzungen; Einzelvergleiche; Alpha-
+Fehler-Korrektur; Scheffι-Test; Trendtests; Zusammenhδnge;
+Rangvarianzanalyse)
+
+Mehrfaktorielle Versuchsplδne:                                     S. 88
+(Zweifaktorielle Varianzanalyse; Quadratsummen; Freiheitsgrade und
+Varianzschδtzungen; Hypothesenprόfung; Varianzaufklδrung;
+Interaktionsdiagramme; Feste und zufδllige Faktoren; Effektgrφίen und
+Einzelvergleiche; Drei- und mehrfaktorielle Varianzanalysen; Ungleiche
+Stichprobengrφίen; Voraussetzungen)
+
+Versuchsplδne mit Messwiederholungen:                              S. 97
+(Einfaktorielle Varianzanalyse mit Messwiederholung; Datenschema;
+Hypothesen; Quadratsummen; Varianzschδtzungen; Prόfung der Nullhypothese;
+Trendtests und Einzelvergleiche; Mehrfaktorielle Varianzanalyse mit
+Messwiederholung; Mathematik total; Voraussetzungen)
+
+Kovarianzanalyse:                                                  S. 103
+(Einfaktorielle Kovarianzanalyse; Datenschema; Hypothesen; Quadratsummen;
+Freiheitsgrade und Varianzschδtzungen; Hypothesenprόfung; Unterschiedliche
+Stichprobengrφίen, A-priori Einzelvergleiche; Effektgrφίen;
+Zusammenfassung; Voraussetzungen; Mehrfaktorielle Kovarianzanalyse;
+Kovarianzanalyse mit Messwiederholung)
+
+Unvollstδndige, mehrfaktorielle Versuchsplδne:                          S.
+109
+(Hierarchische und teilhierarchische Versuchsplδne; Lateinische Quadrate;
+Griechisch-lateinische Quadrate; Quadratische Anordnungen mit
+Messwiederholungen)
+
+Theoretische Grundlagen der Varianzanalyse:                        S. 111
+(Einfaktorielle Varianzanalyse; Mehrfaktorielle Varianzanalyse;
+Varianzanalyse mit Messwiederholung; Einfaktorielle Kovarianzanalyse;
+Weitere Verfahren; Allgemeine Regeln)
+
+
+
+Multivariate Verfahren (B4):
+
+Partialkorrelation und Multiple Korrelation:                            S.
+114
+(Partialkorrelation; Berechnung der Partialkorrelation;
+Semipartialkorrelation; Berechnung der Semipartialkorrelation;
+Partialkorrelationen hφherer Ordnung; Signifikanztests; Multiple
+Korrelation und Regression; Voraussetzungen und Signifikanztests;
+Schrumpfungskorrektur; Beta-Koeffizienten; Strukturkoeffizienten;
+Effektgrφίe; Lineare Strukturgleichungsmodelle; Zeit & Korrelation)
+
+Das Allgemeine Lineare Modell (ALM):                               S. 127
+(Grundprinzip des Allgemeinen Linearen Modells; Dummycodierung;
+Effektcodierung; Kontrastcodierung; Zusammenfassung)
+
+Faktorenanalyse:                                                   S. 130
+(Erste Schritte zur Faktorenanalyse; Grundprinzip der Faktorenanalyse;
+Zusammenfassung; Die "richtige" Faktorenanalyse; Kennwerte der
+Faktorenanalyse: Eigenwert, Faktorladung & Kommunalitδt; Die Kenwerte
+Eigenwert, Faktorladung & Kommunalitδt am empirischen Beispiel; Kriterien
+fόr relevante Faktoren; Interpretation der Faktoren; Rotationsverfahren:
+Orthogonal vs. Oblique; Weiteres)
+
+Clusteranalyse:                                                    S. 141
+(Grundprinzip der Clusteranalsyse; Grundprinzip hierarchischer
+clusteranalytischer Methoden; Fusionskriterien; Nichthierarchische
+clusteranalytische Verfahren; Die k-means-Methode; Probleme bei der
+Clusteranalyse; Zusammenfassung)
+
+Multivariate Mittelwertvergleiche:                                      S.
+146
+(Mehrfach univariate Analysen vs. eine multivariate Analyse)
+
+Diskriminanzanalyse:                                               S. 148
+(Grundprinzip der Diskriminanzanalyse)
+
+Kanonische Korrelationsanalyse:                                    S. 153
+(Grundprinzip der kanonischen Korrelationsanalyse; Schlussbemerkung)
+
+
+
+
+
+|© Manuel Ulrich                                                           |
+|Gegen eine Vervielfδltigung dieses Skriptes fόr private Zwecke bestehen   |
+|keine Einwδnde. Die kommerzielle Nutzung ist untersagt.                   |
+
+
+                Zusammenfassung der gebrauchten Abkόrzungen:
+
+NV    =     Normalverteilung
+STNV  =     Standardnormalverteilung
+SKV   =     Stichprobenkennwerteverteilung
+H0    =     Nullhypothese
+H1    =     Alternativhypothese
+KI    =     Konfidenzintervall
+df    =     Freiheitsgrade
+r     =     Korrelation
+Abszisse =  x-Achse
+AV    =     abhδngige Variable
+UV    =     unabhδngige Variable
+KV    =     Kontrollvariable
+QS    =     Quadratsumme
+ANOVA =     Varianzanalyse
+ANCOVA =    Kovarianzanalyse
+MANOVA =    Multivariate Varianzanalyse
+FA    =     Faktoranalyse
+Vp(n) =     Versuchsperson(en)
+VT    =     Vortest
+NT    =     Nachtest
+QUEX  =     Quasi-Experiment
+Reliabilitδt =   Zuverlδssigkeit der Daten
+Validitδt = Gόltigkeit inhaltlicher Schlussfolgerungen
+Axiom =     nicht beweisbare Grundannahme
+DK    =     Determinationskoeffizient (der %-Anteil der Varianz, der
+vorhergesagt wird)
+EG    =     Experimentalgruppe
+KG    =     Kontrollgruppe
+SP    =     Stichprobe
+IA    =     Interaktion
+
+
+
+
+                           Konzeption des Skriptes
+
+Das Skript folgt beim Mathematikteil (B2, B3 & B4) den Kapiteln des Bortz
+(sofern nicht anders angegeben), ergδnzend dazu habe ich die Folien von B2,
+B3 & B4 nachgearbeitet.
+Ein Eingang auf SPSS - Ausdrucke (wδre wohl eher B5) erfolgt im B4 Teil.
+Da ich im Mathematikteil auf den Bortz als Grundlage, sowie zur Absicherung
+auf die offiziellen Folien und ein Skript aus der Fachschaft zurόckgreifen
+konnte, meine ich, dass ich alle relevanten Informationen (eher zuviel) fόr
+B2, B3 & B4 in diesen Skript stehen habe.
+
+Den Methodenlehreteil (B1) habe ich in einem gesonderten Skript stehen, da
+die Anforderungen & Themen pro Uni unterschiedlich sind. In der
+Psychologiefachschaft der Uni Bonn ist aber der B1-Teil zu finden (oder
+schreibt mir eine eMail mit der Bitte um Sendung des B1-Teils).
+
+Das Erstellen eines eigenen Lernskriptes - was den eigentlichen Lernerfolg
+bringt, da ihr die Sachen nicht nur verstehen, sondern auch erklδren mόsst
+- ersetzt das Lesen dieses Skriptes mit Sicherheit nicht.
+
+
+
+
+
+
+                     Benutzte Literatur fόr das Skript:
+
+
+Statistik (B2), Varianzanalyse (B3) & Multivariate Verfahren (B4):
+Bortz (1999): Statistik fόr Sozialwissenschaftler (5. Auflage) [Unsere
+Bibel]
+Die Folien der Lehrveranstaltungen B2 (WS 01/02), B3 (SS 01) & B4 (WS
+01/02)
+Das Statistik-Skript von Benjamin Zeller (B2 & B3)
+
+
+                           Griechisches Alphabet:
+
+|(           |(          |Alpha          |(        |(         |Ny            |
+|(           |(          |Beta           |(        |(         |Xi            |
+|(           |(          |Gamma          |(        |(         |Omikron       |
+|(           |(          |Delta          |(        |(         |Pi            |
+|(           |(          |Epsilon        |(        |(         |Rho           |
+|(           |(          |Zeta           |(        |(         |Sigma         |
+|(           |(          |Eta            |(        |(         |Tau           |
+|(           |(          |Theta          |(        |(         |Ypsilon       |
+|(           |(          |Jota           |(        |(         |Phi           |
+|(           |(          |Kappa          |(        |(         |Chi           |
+|(           |(          |Lambda         |(        |(         |Psi           |
+|(           |(          |My             |(        |(         |Omega         |
+
+
+                                  ACHTUNG!
+
+Bevor es losgeht:
+In diesem Skript stehen viele mit dem Formeleditor von Windows erstellte
+Formeln sowie einige Formeln aus dem B2 & B3-Skript. Es kann sein, dass die
+Formeln sich verδndern, da der Formeleditor von Windows nicht bei allen PCs
+die Formeln genau gleich darstellt (dies kann beim "Anklicken" der Formeln
+geschehen).
+Deswegen ist das Skript schreibgeschόtzt. Bitte also nur Δnderungen
+speichern, wenn Ihr - zu eurem eigenen Interesse - eine anders benannte
+Sicherheitskopie erstellt habt.
+    Wenn gar nichts klappt, kopiert Euch mein Skript ausgedruckt aus der
+                                 Fachschaft.
+
+Zur Kontrolle: es folgen eine fehlerfreie Kovarianzformel und ein z-Test
+(fόr eine Population).
+
+                                    [pic]
+
+                                    [pic]
+
+
+                                  Statistik
+
+Deskriptive Statistik:
+
+Deskriptive Statistik = beschreibende Statistik, d.h. sie dient zur
+Zusammenfassung und Darstellung von Daten (z.B. durch schφne Grafiken,
+Kennwerte wie Mittelwert, Streuung, etc.).
+
+
+Skalenniveaus:
+
+Terminologie: um Menschen empirisch untersuchen zu kφnnen, mόssen wir ihnen
+Zahlen zuordnen kφnnen (nach bestimmten, vorgegebenen Regeln), so dass wir
+auf dieser Basis Berechnungen anstellen kφnnen:
+Die z.B. Grφίe von Herrn Schmitz (ein empirisches Relativ) lδsst sich durch
+Zuordnung von Zahlen in einem numerischen Relativ (z.B. 1,85 m) ausdrόcken.
+Wenn ein empirisches Relativ nur durch bestimmte Zahlen ausgedrόckt werden
+kann und nicht auch durch andere, dann ist es eindeutig bzw., anders
+ausgedrόckt: homomorph.
+D.h. auf das Beispiel bezogen: die Grφίe von Herrn Schmitz betrδgt 1,85 m;
+oder mathematisch formuliert:
+                    Herr Schmitz = Grφίe in Metern (1,85)
+
+Die oben zu sehende Gleichung ist eine homomorphe Abbildungsfunktion
+zusammen mit einem empirischen und einem numerischen Relativ. Dies
+bezeichnet man auch als SKALA.
+Die Funktionswerte (nur der Teil der Gleichung rechts vom "=") werden auch
+als Skalenwerte oder Messwerte bezeichnet.
+
+        Messen ist also eine strukturerhaltende Zuordnung von Zahlen
+                         zu Objekten und Ereignissen.
+
+Diese Zuordnung kann Aussagen unterschiedlicher "Gόte" erlauben, wobei die
+jeweiligen Gόtestufen als Skalenniveaus bezeichnet werden:
+
+
+Grundsδtzlich wird unterschieden zwischen
+ . Nominalskalen
+ . Ordinalskalen
+ . Intervallskalen
+ . Ratio- oder Verhδltnisskalen
+
+Eselsbrόcke: Wenn Ihr bei der Reihenfolge schwarz (franzφsisch: "noir")
+seht.
+
+Die Skalenniveaus unterscheiden sich in ihrem Informationsgehalt. Dieser
+determiniert die erlaubten (mathematischen) Operationen und damit die
+statistischen Verfahren, die auf die jeweiligen Daten angewendet werden
+dόrfen.
+
+|Nominalskala: |Objekte mit gleicher Merkmalsausprδgung erhalten gleiche  |
+|              |Zahlen, Objekte mit verschiedenen Merkmalsausprδgung      |
+|              |erhalten verschiedene Zahlen. Die einzelnen Ausprδgungen  |
+|              |des Merkmals und damit die Stufen der Skala sind          |
+|              |ungeordnet (gleichberechtigt).                            |
+|              |Beispiele: Augenfarbe, Geschlecht (solange es ohne Wertung|
+|              |bleibt)                                                   |
+|Ordinalskala: |Eine Ordinalskala ordnet Objekten Zahlen zu, die so       |
+|              |geartet sind, dass von jeweils zwei Objekten das Objekt   |
+|              |mit der grφίeren Merkmalsausprδgung die grφίere Zahl      |
+|              |erhδlt. άber das Ausmaί des Unterschiedes zwischen den    |
+|              |einzelnen Ausprδgungen ist nichts bekannt.                |
+|              |Beispiele: Windstδrken, Militδrische Rδnge, Ranglisten    |
+|              |beim Sport                                                |
+|Intervallskala|Wie bei der Ordinalskala, so sind auch bei der            |
+|:             |Intervallskala die Stufen geordnet. Zusδtzlich sind hier  |
+|              |die Abstδnde zwischen den einzelnen Stufen alle gleich    |
+|              |groί. Hat z.B. ein Objekt den Skalenwert 1, so ist es von |
+|              |dem Objekt mit dem Skalenwert 2 genauso weit entfernt, wie|
+|              |dieses von einem Objekt mit dem Skalenwert 3. Der         |
+|              |Nullpunkt einer Intervallskala ist relativ.               |
+|              |Beispiele: Temperatur in Celsius oder Fahrenheit          |
+|Verhδltnisskal|Eine Verhδltnisskala ist eine Intervallskala mit absolutem|
+|a:            |Nullpunkt, der das "Nichtvorhandensein" des Merkmals      |
+|              |ausdrόckt.                                                |
+|              |Beispiele: Temperatur in Kelvin, Grφίe in m; Gewicht in   |
+|              |kg, Zeit in sec.                                          |
+|              |Null Kelvin (ca. -273 °C): das Fehlen jedweder atomarer   |
+|              |Bewegung                                                  |
+
+
+|              |Mφgliche Aussagen:           |Mφgliche Transformationen:   |
+|Nominalskala: |gleich / ungleich            |Alle, die die Unterscheidung |
+|              |                             |der Werte nicht verhindern.  |
+|Ordinalskala: |gleich / ungleich; grφίer/   |Alle, die die Ordnung der    |
+|              |kleiner                      |Werte nicht verδndern.       |
+|Intervallskala|gleich / ungleich; grφίer/   |Multiplikation/ Division,    |
+|:             |kleiner;                     |Addition/ Subtraktion        |
+|              |Abstandsvergleiche           |                             |
+|Verhδltnisskal|gleich / ungleich; grφίer/   |nur Multiplikation/ Division |
+|a:            |kleiner;                     |(Erhaltung des Nullpunktes)  |
+|              |Abstands-;                   |                             |
+|              |Verhδltnisvergleiche         |                             |
+
+
+|              |Mφgliche zentrale Tendenzen: |Mφgliche Dispersionsmaίe:    |
+|Nominalskala: |Modus                        |---                          |
+|Ordinalskala: |Modus, Median                |Variationsbreite             |
+|Intervallskala|Modus, Median, Arithmetisches|Variationsbreite,            |
+|:             |Mittel                       |AD-Streuung, Varianz         |
+|Verhδltnisskal|Modus, Median, Arithmetisches|Variationsbreite,            |
+|a:            |Mittel                       |AD-Streuung, Varianz         |
+
+Um noch vernόnftige Berechnungen anstellen zu kφnnen, geht man u.a. in der
+psychologischen Forschung meist von Intervallskalenniveau aus, auch wenn
+das streng mathematisch gesehen nicht vorhanden ist.
+[Die Kultusministerkonferenz definiert Schulnoten als intervallskaliert, um
+so einen Durchschnitt u.a. beim Abitur berechnen zu kφnnen, auch wenn z.B.
+zum Erreichen einer "Vier glatt" 50 % oder zwei Drittel der Punkte zu
+erreichen sind.]
+
+
+Maίe der zentralen Tendenz: Modus, Median & Arithmetisches Mittel:
+
+Durch welchen Wert wird eine Vielzahl von Werten am besten reprδsentiert?
+Hierzu geben Maίe der zentralen Tendenz Auskunft όber die Lage bzw.
+Lokation einer Verteilung in Termini der zugrundeliegenden Skala.
+
+Modalwert (Modus):
+Der Modus ist der Wert, der in einer Verteilung am hδufigsten vorkommt. Es
+kann auch mehr als einen Modus geben (durch mehrere Maxima; Ausdruck bei
+Kurvendiskussion: Hochpunkte).
+Statistische Abkόrzung: Mo
+
+Median:
+Der Median ist der Wert, der eine der Grφίe nach geordnete
+Merkmalsverteilung (also mind. Ordinalskalenniveau) in zwei gleichgroίe
+Hδlften teilt. Bei gerader Anzahl von Werten wird das arithmetische Mittel
+aus dem grφίten Wert der unteren Hδlfte und dem kleinsten Wert der oberen
+Hδlfte bestimmt. Bei ungerader Anzahl wird der Wert in der Mitte genommen.
+Statistische Abkόrzung: Md
+Statistische Eigenschaften:
+ . Die Summe der absoluten Abweichungen vom Median ist minimal.
+
+Arithmetisches Mittel
+Das arithmetische Mittel bzw. der Mittelwert ist die Summe aller Messwerte
+dividiert durch die Anzahl der Messwerte n:
+                      [pic].
+
+Statistische Eigenschaften:
+ . Die Summe der Abweichungen aller Messwerte vom Mittelwert ist Null.
+ . Die Summe der quadrierten Abweichungen der Messwerte vom Mittelwert ist
+   ein Minimum.
+
+|Modus, Median und Arithmetisches Mittel sind im wissenschaftlichen,       |
+|populδrwissenschaftlichen und alltδglichen Gebrauch beliebte Werkzeuge zum|
+|Beweisen eigener Thesen:                                                  |
+|"Die meisten Abiturienten wδhlen Jura." (auch wenn es nur 8,6 % sind)     |
+|[Zahl fiktiv!]                                                            |
+|"Die besten 50% haben einen Schnitt von 3,4 oder besser." (Aha! Und wie   |
+|verteilt sich das?)                                                       |
+|"Im Gegensatz zu den 50er kφnnen die Hauptschόler heute im Durchschnitt   |
+|nicht sauber schreiben." (In den 50ern gingen auch fast 90% aller Schόler |
+|auf die Hauptschule; heute 30%.)                                          |
+
+Weitere Maίe der zentralen Tendenz:
+Geometrisches Mittel, Harmonisches Mittel, Gewichtetes Mittel (siehe Bortz
+S. 40)
+
+
+Dispersionsmaίe: u.a. Perzentile, Quadratsummen & Varianzen:
+
+Zwei Verteilungen mit δhnlichen oder sogar gleichen Maίen der zentralen
+Tendenz kφnnen trotzdem sehr unterschiedlich sein, und zwar aufgrund
+ungleicher Streuungen (Dispersionen) ihrer einzelnen Werte.
+Dispersionsmaίe geben also Auskunft όber die Streuung bzw. Variabilitδt der
+Werte.
+"Fόr die empirische Forschung sind Dispersionswerte den Maίen der zentralen
+Tendenz zumindest ebenbόrtig." (Bortz)
+
+
+Perzentile und Variationsbreite:
+Das Perzentil PX% ist der Punkt auf einer Skala, unterhalb dessen X% der
+aufsteigend angeordneten Messwerte einer Stichprobe liegen. Der Median ist
+das 50. Perzentil einer Verteilung.
+
+Die Variationsbreite (engl. Range) ist die Differenz  zwischen  dem  grφίten
+(Maximum) und dem kleinsten Wert (Minimum).
+Wenn dieser Wert stark von Extremwerten abhδngt, betrachtet man nur einen
+"eingeschrδnkten" Streubereich, z.B. nur die mittleren 90% aller Werte
+(also den Bereich zwischen dem 5. und 95. Perzentil.). [Bei einer
+Standardnormalverteilung liegen die Werte zwischen [pic] und [pic],
+betrachtet man aber "nur" 99, 74% aller Werte, liegen die Werte zwischen
+-3,00 und +3,00!]
+
+
+Die Quadratsumme (QS) ist die Summe der quadrierten Abweichungen aller
+Messwerte vom Mittelwert.
+
+Die Varianz ist die Summe der quadrierten Abweichungen aller Messwerte vom
+Mittelwert, dividiert durch die Anzahl der Messwerte n:
+                                [pic].
+
+
+Die Standardabweichung oder Streuung ist die Wurzel aus der Varianz:
+
+                           [pic].
+
+
+z-Werte:
+
+In der psychologischen Diagnostik ergibt sich oftmals die Aufgabe,
+Testwerte zweier Personen aus verschiedenen Kollektiven (oder Gruppen,
+etc.) zu vergleichen.
+Deswegen werden die individuellen Leistungen an der Gesamtleistung des
+(eigenen) Kollektivs relativiert, d.h. standardisiert.
+Dies geschieht όber eine z-Transformation:
+Die z-Transformation ermφglicht den relativen Vergleich von
+Variablenausprδgungen, da sie Mittelwerts- und Streuungsunterschiede
+"wegrelativiert":
+
+                      [pic].
+
+Die z-Transformation όberfόhrt jede Verteilung in eine Verteilung mit
+Mittelwert 0 und Streuung bzw. Varianz 1.
+
+
+
+Merkmalszusammenhδnge & -vorhersagen:
+
+|Ich ziehe hier die Bereiche "Kovarianz und Korrelation", "Korrelation und |
+|Kausalitδt", "Lineare Regression" , "Beobachtete, vorhergesagte und       |
+|Residualwerte" und "Determinationskoeffizient" aus Kapitel 6 im Bortz vor,|
+|da mir eine Thematisierung in Kapitel 6 als zu spδt erscheint.            |
+
+Kovarianz und Korrelation:
+
+Mit der Kovarianz lδsst sich bestimmen, wie sich die relativen Positionen
+von gepaarten Messwerten aus zwei Variablen zueinander verhalten:
+
+                    [pic].
+
+Die Kovarianz kann nur hinsichtlich ihres Vorzeichens, nicht aber
+hinsichtlich ihrer Grφίe interpretiert werden. [Da man auch mit Inches
+statt cm oder m statt cm arbeiten kann, kann die Grφίe der Kovarianz stark
+schwanken.] [Die Kovarianz ist bei Monte-Carlo-Studien sehr robust.]
+
+ . Ein positives Vorzeichen der Kovarianz zeigt an, dass sowohl
+   όberdurchschnittliche Werte von X stδrker mit όberdurchschnittlichen
+   Werten von Y gepaart sind als auch, dass unterdurchschnittliche Werte von
+   X stδrker mit unterdurchschnittlichen Werten von Y zusammen auftreten.
+ . Ein negatives Vorzeichen zeigt entsprechend an, dass
+   όberdurchschnittliche Werte von X stδrker mit unterdurchschnittlichen
+   Werten von Y gepaart sind und umgekehrt.
+ . Keine Kovarianz entsteht dann, wenn sich die Werte von X und Y
+   ausgleichen. Dies macht eine Interpretation unmφglich.
+ . Nur zur Erinnerung: selbst der kleinste positive lineare Zusammenhang
+   ergibt eine positive Kovarianz! Damit man das auch erkennen kann, nutzt
+   man Korrelationen.
+
+Man standardisiert eine Kovarianz und erhδlt eine Korrelation:
+Die Kovarianz kann maximal den Wert sx·sy annehmen. Dies ist damit ein sehr
+schφner Term zur Relativierung bzw. Standardisierung von Kovarianzen. (Man
+macht so was wie eine
+z-Transformation, nur fόr beide Variablen (X, Y) gleichzeitig.)
+
+
+Diese Standardisierung nennt man Produkt-Moment-Korrelation r(x,y).
+
+                    [pic].
+
+Die Korrelation rx,y kann Werte zwischen -1 und +1 annehmen, wobei
+ . -1 einen perfekt negativen linearen Zusammenhang anzeigt,
+ . +1 einen perfekt positiven linearen Zusammenhang anzeigt und
+ . 0 keinen linearen Zusammenhang anzeigt.
+
+Perfekter linearer Zusammenhang: Die Werte der einen Variablen lassen sich
+durch eine Lineartransformation in die der anderen όberfόhren:
+
+                                yi = a·+ b·xi
+
+(Und schon schlieίt sich der Kreis zu Linearer Regression.)
+[Die Abkόrzung "r" bei der Korrelation ist auf das Wort "Regression"
+zurόckzufόhren, da Korrelations- wie Regressionsrechnung eng miteinander
+verknόpft sind.]
+
+
+
+Korrelation und Kausalitδt:
+
+Die Kovariation zweier Variablen kann auf eine kausale Beziehung der beiden
+Variablen oder auf die Beeinflussung durch eine oder mehrere Drittvariablen
+zurόckgehen. Auf Basis einer Korrelation kann nicht auf die Art der
+Verursachung geschlossen werden. (Z.B. korrelieren bei Kindern Intelligenz
+und Schuhgrφίe.) Kausalitδt lδsst sich nur widerlegen, nicht beweisen.
+
+
+Lineare Regression:
+
+Hδngen zwei Variablen (wie z.B. Kφrperlδnge und Gewicht) zusammen, so ist
+es mφglich, eine Variable jeweils auf Basis der anderen vorherzusagen.
+Die Vorhersagevariable wird als unabhδngige Variable oder Prδdiktorvariable
+(X) bezeichnet, die Variable, die vorhergesagt werden soll, als abhδngige
+Variable oder Kriteriumsvariable (Y):
+(Prδdiktorvariablen sind im allgemeinen einfacher und billiger zu messen;
+z.B. IQ-Tests)
+Im Rahmen der bivariaten Regression wird die Vorhersage όber folgende
+lineare Beziehung vorgenommen:
+                         [pic] , wobei
+
+[pic] = vorhergesagter Wert, a = Schnittpunkt der Geraden mit der y-Achse
+(Ordinatenabschnitt, Interzept) und b = Steigung der Geraden.
+
+Ziel ist die Bestimmung einer Geraden, die den Gesamttrend aller Punkte am
+besten wiedergibt.
+
+                                    [pic]
+Gleichungen:
+                           [pic];           [pic]
+(Grafiken im Bortz S. 181)
+
+Bei der linearen Regression wird die Gleichung gesucht, fόr die die Summe
+der quadrierten Abweichungen zwischen vorhergesagten und tatsδchlichen
+Werten minimal ist (= Kriterium der kleinsten Quadrate).     [pic], wobei
+[pic] = Wert auf der Graden
+
+
+Beobachtete, vorhergesagte und Residualwerte:
+
+Die Abweichungen der beobachteten Werte von den vorhergesagten Werten
+heiίen Regressionsresiduen:
+                      [pic].
+
+Die Residuen enthalten die Anteile der Kriteriumsvariablen (Y), die durch
+die Prδdiktorvariable nicht erfasst werden:
+ . Die Mittelwerte der Kriteriumsvariablen und der vorhergesagten Werte sind
+   gleich.
+ . Der Mittelwert der Residuen ist 0.
+
+Diese Anteile der Kriteriumsvariablen sind auf Messfehler, vor allem aber
+auch durch Bestandteile des Kriteriums, die durch andere, mit der
+Prδdiktorvariablen nicht zusammenhδngende Merkmale, erklδrt werden kφnnen
+(z.B. Stφrvariablen).
+
+
+Zerlegung der Kriteriumsvarianz:
+Die Varianz der y-Werte setzt sich additiv aus der Varianz der
+vorhergesagten [pic]-Werte und der Varianz der Residuen y* zusammen:
+
+                      [pic] .
+
+
+Determinationskoeffizient:
+
+= Varianzanteil der abhδngigen Variablen, der mit der unabhδngigen
+vorhergesagt bzw. erklδrt werden kann:
+                      [pic].
+
+Dabei kann man die "Power" einer Regressionsgeraden erfassen, d.h. wie viel
+Prozent sagt sie vorher und wie viel bleibt im Dunkeln.
+
+Korrelationen:
+ . Die Korrelation zwischen Kriterium und Vorhersage ist gleich der
+   Korrelation zwischen Kriterium und Prδdiktor:
+                               [pic] = [pic].
+
+ . Die Korrelation zwischen Prδdiktor (X) und Residuen (von Y) ist 0: (muss
+   ja, die Residuen sind ja der Teil, den der Prδdiktor X nicht aufklδrt)
+
+                                r(x,y*) = 0.
+
+ . Fόr die Korrelation zwischen Kriterium und Residuen gilt:
+
+                                   [pic].
+
+
+
+Wahrscheinlichkeitstheorie und -verteilungen:
+
+Eine der wichtigsten Eigenschaften des Menschen ist es, Redundanzen
+(unnφtige Ausfόhrlichkeit einer Information) zu erkennen und zu erlernen.
+Dies verhindert, dass der Mensch in dem Chaos von Zufδlligkeiten und in der
+Fόlle von Informationen zugrunde geht.
+Der Mensch schafft sich ein Ordnungssystem (z.B. Zahlen, Buchstaben,
+Gesetze), an dem er sein Verhalten orientiert - in (teils blindem)
+Vertrauen darauf, dass das System auch funktioniert.
+Jedoch gibt es in der Welt keine absoluten Wahrheiten und
+Wahrscheinlichkeiten. Wir regulieren unser Verhalten nach einem System
+unterschiedlich wahrscheinlicher Hypothesen, die teils vφllig blφde sind
+(Geld in Glόcksspiele investieren), teils sehr vernόnftig sind (wir steigen
+in ein Flugzeug, weil es sehr unwahrscheinlich ist, dass es abstόrzt.).
+
+Der Mensch schafft sich Grundsδtze (in der Mathematik: Axiome), die er
+beweislos voraussetzt. Aus mehreren Axiomen (einem Axiomssystem) kφnnen
+Lehrsδtze nach den Regeln der Logik hergeleitet werden. Wichtig dabei:
+
+   1. Widerspruchsfreiheit
+   2. Unabhδngigkeit: kein Axiom lδsst sich aus einem anderen herleiten.
+   3. Vollstδndigkeit: alle Axiome reichen aus, um alle inhaltlich richtigen
+      Sδtze zu beweisen.
+
+
+Zufallsexperimente:
+
+Fόr die Definition objektiver Wahrscheinlichkeiten (das will ja der
+Methodiker) ist der Begriff des "Zufallsexperimentes" zentral:
+Ein Zufallsexperiment ist ein beliebig oft wiederholbarer wohldefinierter
+Vorgang, dessen Ausgang nicht vorhersagbar ist.
+
+Ein Ausgang wird als Ergebnis oder Elementarereignis (, die Menge aller
+Elementarereignisse wird als Ergebnisraum ( = {(1, (2, ..., (n} bezeichnet.
+Bei der theoretischen (kombinatorischen) Bestimmung einer
+Wahrscheinlichkeit geht man oft von der Gleichwahrscheinlichkeit aller
+Ergebnisse aus:
+
+                     [pic].
+
+Gόnstige Ergebnisse sind solche, bei denen sich A ereignet, mφgliche
+Ergebnisse sind alle Ergebnisse des endlichen Ergebnisraumes (A kann
+durchaus mehr als ein einziges (i umfassen).
+
+Ein Beispiel:
+
+Ich werfe einen perfekten sechsseitigen Wόrfel: Die Chance, das ich eine
+"sechs" erhalte, betrδgt also ein Sechstel, oder, mathematisch formuliert:
+                                       [pic]
+
+
+Grundbegriffe der Wahrscheinlichkeitsrechnung:
+
+disjunkt = unvereinbar; die Ereignisse haben keine gemeinsame Menge, keinen
+Durchschnitt
+
+p = Possibility (Wahrscheinlichkeit)
+
+[pic] = Wahrscheinlichkeit von A
+
+[pic] = Wahrscheinlichkeit des Fehlens von A
+
+[pic] = die Wahrscheinlichkeit von A und B (gleichzeitig)
+
+[pic] = die Wahrscheinlichkeit von A und/oder B (also entweder A oder B
+oder A&B gleichzeitig!)
+
+ . Das Ereignis, dass sich A und B ereignen, wird als Durchschnitt
+   bezeichnet.
+   Symbol: ( (= logisches Produkt)
+ . Das Ereignis, dass sich A und/oder B ereignen, wird als Vereinigung
+   bezeichnet.
+
+
+Bei unvorhersehbaren Wahrscheinlichkeiten muss man όber viele Versuche die
+Wahrscheinlichkeiten schδtzen (z.B. Reiszwecken werfen: zu wie viel Prozent
+landet es mit der Spitze nach oben, zu wie viel mit der Spitze schrδg nach
+unten?) (je grφίer n, desto genauer):
+Ein statistischer Schδtzer der Wahrscheinlichkeit eines Ereignisses A ist
+die relative Hδufigkeit eben dieses Ereignisses:
+                         [pic].
+
+
+Axiome der Wahrscheinlichkeitstheorie:
+
+   1. Fόr die Wahrscheinlichkeit eines zufδlligen Ereignisses A gilt [pic]
+      (Nicht- Negativitδt).
+   2. Die Wahrscheinlichkeit eines sicheren Ereignisses ist gleich 1
+      (Normierung).
+   3. Die Wahrscheinlichkeit, dass eines der disjunkten Ereignisse A1 oder
+      A2 oder ... Ak auftritt, ist gleich der Summe der
+      Einzelwahrscheinlichkeiten p (A1), p(A2), ... p(Ak).
+
+
+Additionstheorem fόr vereinbare bzw. nicht disjunkte Ereignisse:
+ . p(A(B) = p(A) + p(B) ( p(A(B).
+
+Bei disjunkten bzw. nicht vereinbaren Ereignissen:
+ . p(A(B) = p(A) + p(B).
+
+Die bedingte Wahrscheinlichkeit p(A|B) ist die Wahrscheinlichkeit von A,
+sofern B bereits eingetreten ist:
+                         [pic].
+
+
+Multiplikationstheorem fόr abhδngige Ereignisse:
+[pic]       oder
+[pic]
+
+Multiplikationstheorem fόr unabhδngige Ereignisse:
+[pic]
+
+|Zwei Ereignisse A und B sind stochastisch unabhδngig, wenn A unabhδngig   |
+|von B eintreten kann, d.h. das Eintreten von B δndert nichts an der       |
+|Eintretenswahrscheinlichkeit von A, und umgekehrt.                        |
+
+
+Das Theorem von Bayes:
+
+Das Theorem von Bayes verknόpft die bedingten Wahrscheinlichkeiten [pic]
+und [pic] unter Verwendung des Satzes der totalen Wahrscheinlichkeit (Bortz
+S. 57). Eine der beiden bedingten Wahrscheinlichkeiten kann damit von der
+anderen aus erschlossen werden.
+In der statistischen Entscheidungstheorie hat somit das Theorem von Bayes
+eine besondere Bedeutung; statistischen Entscheidungen werden immer
+aufgrund bedingter Wahrscheinlichkeiten getroffen.
+[Die Wahrscheinlichkeit fόr das Auftreten bestimmter Daten (D) unter der
+Bedingung, dass eine bestimmte Hypothese (H) richtig ist: [pic] ]
+
+
+Variationen, Permutationen, Kombinationen:
+
+Insbesondere durch Glόcksspiele wurde eine Reihe von Rechenregeln
+erarbeitet, mit denen die Wahrscheinlichkeit bestimmter
+Ereigniskombinationen von gleichwahrscheinlichen Elementarereignissen
+ermittelt wird.
+
+1. Variationsregel: Wenn jedes von k sich gegenseitig ausschlieίenden
+Ereignissen bei jedem Versuch auftreten kann, ergeben sich bei n Versuchen
+kn verschiedene Ereignisabfolgen.
+   Beispiel: die Chance, fόnf mal hintereinander beim Mόnzwurf "Zahl" zu
+   erhalten (2 mφgliche Ereignisse), betrδgt kn = 25 = 32 verschiede
+   Ereignisabfolgen. Da es sich um ein gόnstiges Ereignis handelt, betrδgt
+   die Wahrscheinlichkeit p = 1/32 = 0,031
+
+2. Variationsregel: Werden n voneinander unabhδngige Zufallsexperimente
+durchgefόhrt und besteht die Ereignismenge des 1. Zufallsexperiments aus
+k1, die Ereignismenge des 2. Zufallsexperiments aus k2, .... und die
+Ereignismenge des n-ten Zufallsexperiments aus kn verschiedenen
+Elementarereignissen, sind k1 x k2 x ..... x kn Ereignisabfolgen mφglich (x
+bedeutet "mal").
+   Beispiel: Ein Mόnzwurf und ein Wόrfelwurf, man mφchte Zahl und eine 6
+   erhalten. Es ergeben sich 2 x 6 = 12 Ereignismφglichkeiten. Die
+   Wahrscheinlichkeit betrδgt also p = 1/12 = 0.08.
+
+Permutationsregel: n verschiedene Objekte kφnnen in     n! = 1 x 2 x 3 x
+..... x (n-1) x n
+verschiedenen Abfolgen angeordnet werden. (n! bedeutet n Fakultδt)
+   Beispiel: In einer Urne befinden sich 6 unterschiedlich schwere Kugeln.
+   Wie groί ist die Chance, die Kugeln in der Reihenfolge ihres Gewichtes
+   herauszunehmen? (Es ist also ein unterschiedliches Ereignis ohne
+   Zurόcklegen; ergo ein abhδngiges Ereignis)
+   6 x 5 x 4 x 3 x 2 x 1 = 720 mφgliche Abfolgen. Nur eine ist richtig, also
+   p = 1/720 = 0,0014
+
+
+1. Kombinationsregel: Wδhlt man aus n verschiedenen Objekten r zufδllig
+aus, ergeben sich n!/ (n- r) verschiedene Reihenfolgen der r Objekte.
+   Beispiel: Ich will aus einem Kartenspiel (32 Karten) in vier Zόgen die
+   Asse herausziehen. Die Reihenfolge der Asse ist festgelegt:
+                                  [pic] = 32 x 31 x 30 x 29 = 863040
+
+
+   Die Wahrscheinlichkeit betrδgt also 1/ 863040 = 1,16 x 10-6 Mφglichkeiten
+
+
+2. Kombinationsregel: Wδhlt man aus n verschiedenen Objekten r zufδllig aus
+und lδsst hierbei die Reihenfolge auίer acht, ergeben sich fόr die r
+Objekte [pic] verschiedene Kombinationen.
+   Beispiel: Wie groί ist die Wahrscheinlichkeit, 6 Richtige aus 49 zu
+   haben? (Reihenfolge ist im Gegensatz zur 1. Kombinationsregel ja egal)
+   Da wir noch alle wissen, dass
+   [pic] ist also eingesetzt: [pic]=
+
+
+   = 13.983.816                   (Noch genauere Rechenschritte: Bortz S.
+   61)
+
+
+   Die Wahrscheinlichkeit, sechs Richtige im Lotto zu haben betrδgt also 1/
+   13.983.816 =
+   = 7,15 x 10-8 Mφglichkeiten.
+
+
+   (Und die Lottobranche boomt. Sollten wir Psychologen da nicht mal
+   eingreifen?)
+
+
+3. Kombinationsregel: Sollen n Objekte in k Gruppen der Grφίen n1, n2,
+...., nk eingeteilt werden (wobei n1 + n2 + ... + nk = n), ergeben sich
+n!/ (n1! ....... nk!) Mφglichkeiten.
+   Beispiel: In einer Urne sind 4 rote, 3 blaue und 3 grόne Kugeln. Wie groί
+   ist die Wahrscheinlichkeit, erst die 4 roten Kugeln zusammen, denn die 3
+   blauen und zuletzt die 3 grόnen Kugeln zu entnehmen?
+                       [pic]
+
+   Die Wahrscheinlichkeit, erst die 4 roten Kugeln zusammen, denn die 3
+   blauen und zuletzt die 3 grόnen Kugeln zu entnehmen, betrδgt also 1/ 4200
+   = 2,38 x 10-4  Mφglichkeiten.
+
+
+Verteilungsfunktionen:
+
+Wenn man Experimente durchfόhrt, erhδlt man jede Menge Daten (z.B.
+Studiengang von allen Studenten der Uni Bonn). Diesen Daten kann man
+bestimmte Kennungen (z.B. 1, 2, 3, etc.) hinzufόgen, und so erhδlt man eine
+Tabelle. Das ist eine diskrete Wahrscheinlichkeitsfunktion.*
+
+Diskrete Wahrscheinlichkeitsfunktionen bestehen aus einer endlichen Anzahl
+von Ereignissen. Auftretenswahrscheinlichkeiten einzelner Ereignisse lassen
+sich damit bestimmen.
+Beispiele: Wόrfelergebnisse, Noten (manche haben gleiche Ergebnisse)
+
+Man kann aber Daten auf bestimmte Kennungen zufόgen, d.h. z.B. ich ordne
+alle Studenten der Uni Bonn der Grφίe nach. So erhδlt man eine Kurve. Das
+ist eine stetige Wahrscheinlichkeitsfunktion.*
+
+Stetige Wahrscheinlichkeitsfunktionen bestehen aus einer unendlichen Anzahl
+von Ereignissen. Auftretenswahrscheinlichkeiten einzelner Ereignisse lassen
+sich damit nicht bestimmen.
+Beispiele: Kφrpergrφίe, Geschwindigkeit (Niemand ist gleich groί, wenn man
+es genau nimmt.)
+
+|* Diese Beispiele sind von mir sind konstruiert. Ich kann z.B. den Zahlen |
+|1 bis X die Studiengδnge der Studenten der Uni Bonn zuordnen, bin deswegen|
+|aber nicht bei einer stetigen Wahrscheinlichkeitsfunktion.                |
+|Der eigentliche Unterschied zwischen STETIG und DISKRET ist in dem fett   |
+|Geschrieben festgehalten. (Bei Stetigkeit Kurven und bei Diskretheit      |
+|Tabellen zu benutzten stimmt aber.)                                       |
+
+
+
+Diskrete Verteilungen:
+
+
+
+
+[pic] und s2 einer empirischen Verteilung / Stichprobe werden durch (
+(Erwartungswert) und (2 bei einer theoretischen Verteilung einer
+Zufallsvariabeln / Population ersetzt, bei diskreter Verteilung ergibt sich
+[pic] und [pic].
+
+
+Binomialverteilung:
+Ein Experiment, welches in der n-fachen Wiederholung von unabhδngigen
+Einzelexperimenten mit nur zwei mφglichen Ausgδngen besteht, heiίt
+Bernoulli-Experiment. Wenn ein Ereignis X in einem Einzelexperiment mit
+einer Wahrscheinlichkeit p auftritt, dann kann die Wahrscheinlichkeit P,
+dass X in n Wiederholungen k-mal auftritt, allgemein bestimmt werden:
+
+                    [pic].              [ 1-p = q ]
+
+Diese Wahrscheinlichkeitsfunktion heiίt Binomialverteilung und gibt an, wie
+wahrscheinlich das Eintreten eines Ereignisses X = k ist.
+
+
+   Beispiel: Ich mφchte wissen, wie groί die Chance ist in 10 Mόnzwόrfen
+   genau 7x "Zahl" zu erhalten. Die Wahrscheinlichkeit einer Zahl betrδgt
+   50%, mathematisch formuliert:
+   p = 0,5 =½
+
+
+   Wenn ich jetzt einsetzte: [n = 10, da 10 Wόrfe; k = 7, da 7x "Zahl"
+   gewόnscht]
+
+
+   [pic]
+
+
+   Die Wahrscheinlichkeit, mit 10 Mόnzen genau 7 mal Zahl zu treffen,
+   betrδgt 11,7%.
+
+
+Die Verteilungsfunktion hingegen gibt an, mit welcher Wahrscheinlichkeit
+ein Ereignis hφchstens k-mal auftritt:
+                 [pic].
+
+   Die Verteilungsfunktion ist die kumulierte Wahrscheinlichkeitsfunktion.
+
+
+Andere diskrete Verteilungen:
+ . Hypergeometrische Verteilung: wird benutzt bei schwankenden
+   Wahrscheinlichkeiten (z.B. durch Ziehen ohne Zurόcklegen)
+ . Poisson-Verteilung: Verteilung seltener Ereignisse; wird benutzt bei
+   groίem n & kleinem k.
+ . Multinominale Verteilung: auch Polynominalverteilung genannt; ermφglicht
+   mehrere unterschiedlich groίe kx.
+ . Negative Binomialverteilung: ermittelt die Wahrscheinlichkeit, dass ein
+   Ereignis nach x Versuchen erst dann eintritt, wird hδufig benutzt zur
+   Analyse von Wartezeiten.
+
+
+Stetige Verteilungen 1: Normalverteilung & Standardnormalverteilung:
+
+Fόr alle stetigen Verteilungen geltend:
+ . Die Gesamtflδche unter der Kurve ist auf 1 normiert, was bedeutet, dass
+   mit einer Wahrscheinlichkeit 1 irgendein Ergebnis eintritt. Die Flδche
+   όber einem Intervall von zwei Werten gibt an, mit welcher
+   Wahrscheinlichkeit Werte innerhalb dieses Intervalls eintreten.
+
+
+Normalverteilung(NV):
+
+Die Normalverteilung ist die fόr die Statistik wichtigste Verteilung; aus
+ihr werden weitere stetige Verteilungen wie u.a. die [pic]-Verteilung, die
+t-Verteilung sowie die F-Verteilung abgeleitet; diskrete Verteilungen wie
+die Binomial- und Poisson-Verteilung konvergieren gegen sie.
+Die Zusammenhδnge zwischen [pic]-Verteilung, t-Verteilung sowie F-
+Verteilung folgen.
+
+Alle Normalverteilungen haben typische Eigenschaften:
+ . Die Verteilung hat einen glockenfφrmigen Verlauf.
+ . Die Verteilung ist symmetrisch.
+ . Modus, Median und Mittelwert fallen zusammen.
+ . Es gibt nur einen Modus (wie auch bei Chi2-Verteilung, t-Verteilung sowie
+   F-Verteilung.)
+ . Die Verteilung nδhert sich asymptotisch der x-Achse (geht also von [pic]
+   bis [pic]).
+ . Zwischen den zu den Wendepunkten gehφrenden x-Werten befinden sich
+   ungefδhr 2/3 der Gesamtflδche.
+Zwischen den Werten [pic] + s (= Streuung) und [pic] - s liegen 68,26%
+aller Werte, im Bereich[pic] +- 2s liegen 95,44%.
+Binomfinalverteilung ist fόr n => ( gleich der Normalverteilung (S. 78
+Bortz)
+Fesche Bilder von Normalverteilungen im Bortz auf S. 74.
+
+Normalverteilungen unterscheiden sich durch
+        a. unterschiedliche Erwartungswerte ([pic]) [also Mittelwerte] und
+        b. unterschiedliche Streuungen ([pic]).
+
+Zwei Normalverteilungen mit gleichem [pic] und [pic] sind identisch. Die
+Normalverteilung  wird somit durch die beiden Parameter [pic] und [pic]
+festgelegt. Ihre Dichtefunktion lautet:
+
+                    [pic].
+
+|Damit klar ist, was diese Funktion da oben soll:                          |
+|Mithilfe von Funktionen kann man durch Einsetzten des x-Wertes den y-Wert |
+|bestimmen und erhδlt somit eine wunderschφne Kurve, wie z.B. bei der      |
+|Parabel: f(x) = x2                                                        |
+|Diese Funktion da oben gibt dann den y-Wert an, der aber gleichzeitig die |
+|Wahrscheinlichkeit des Eintretens dieses (eingesetzten) x-Wertes (in einem|
+|Intervall [pic]) angibt. (in der Tabelle als "Ordinate" bezeichnet.) άber |
+|ein Integral dieser Dichtefunktion kann die Flδche berechnet werden (das  |
+|ist ja der Sinn von Integralen).        Alles klar?                       |
+
+
+Grundprinzip mathematisch ausgedrόckt:
+Die Wahrscheinlichkeitsfunktion einer stetigen Verteilung wird als
+Wahrscheinlichkeitsdichte oder Dichtefunktion bezeichnet. Erst όber
+Integrale dieser Dichtefunktion kφnnen Werteintervallen
+Wahrscheinlichkeiten zugeordnet werden.
+
+
+Standardnormalverteilung (STNV):
+Die Standardnormalverteilung (STNV) ist eine ganz normale Normalverteilung;
+wird aber als Grundlage aller Vergleiche zwischen Normalverteilungen
+genutzt, da sie einen Mittelwert ΅ = 0 und eine Streuung  ( = 1 [Abk.: N(0,
+1)] hat.
+Durch eine z-Transformation kann jede Normalverteilung in die
+Standardnormalverteilung όberfόhrt werden; somit sind Vergleiche zwischen
+allen Normalverteilungen mφglich!!
+Ihre Dichtefunktion lautet:
+                      [pic].
+
+[Man hat hier x durch z ersetzt, um zum Ausdruck zu bringen, das diese
+Funktion nur zu Standardnormalverteilung gehφrt.]
+Diese Dichte (siehe "Ordinate") und deren Verteilungsfunktion (siehe
+"Flδche") ist im Bortz in Tabelle B (S. 768-772) wiedergegeben. [Einen z-
+Wert in der Tabelle nachzusehen setzte ich als bekannt voraus.]
+
+|Das hier ist όbrigens die Integralformel, die benφtigt wird, um die zu den|
+|z-Werten zugehφrigen Flδchenanteile [von [pic] bis a ] bei der            |
+|Standardnormalverteilung (STNV) auszurechen:                              |
+|                                                                          |
+|[pic]                                                                     |
+|                                                                          |
+|Schφn, nicht? Die anderen Formeln sind noch komplizierter (das ist aber,  |
+|ebenso wie diese Formel, nicht relevant fόr die Prόfung - nur zu          |
+|Anschauung gedacht :-).                                                   |
+
+
+Die Bedeutsamkeit der Normalverteilung (NV) lδsst sich auf 4 Aspekte
+zurόckfόhren:
+die NV als empirische Verteilung: eine Reihe von Messungen verteilt sich
+meistens annδhrend normal, z.B. Kφrpergrφίe, -gewicht, Testleistungen. (Im
+19. Jahrhundert entdeckt, heute relativiert.)
+die NV als Verteilungsmodell fόr statistische Kennwerte: wenn man genug
+Stichproben zieht verteilen sich die Mittelwerte der Stichproben normal
+(Inferenzstatistik!).
+die NV als mathematische Basisverteilung: Verknόpfungen u.a. zu [pic]-, t-
+sowie F-Verteilung.
+die NV in der statistischen Fehlertheorie: kaum eine Messungen ist absolut
+fehlerfrei. Misst man andauernd, erhδlt man irgendwann normalverteilte
+Werte. Der Mittelwert ist das wahrscheinlichste richtige Ergebnis
+(Strategie der alten Rφmer u.a. beim Aquδduktbau.).
+
+
+Stetige Verteilungen 2: Chi2-Verteilung, t-Verteilung sowie F-Verteilung:
+
+[pic]-Verteilung:
+Gegeben sei eine normalverteilte Zufallsvariable z mit  ΅ = 0 und ( = 1,
+also eine STNV. Das Quadrat dieser Zufallsvariablen bezeichnen wir als
+[pic]-verteilte Zufallsvariable.
+
+                            [pic]= z2
+
+(Die untere Zahl am Chi2 kennzeichnet die Annzahl der normalverteilten
+Zufallsvariablen z.)
+
+Wenn wir jetzt (theoretisch unendlich) viele [pic]-Werte aus zufδllig
+gezogenen z-Werten nach der oben stehenden Formel ermitteln, erhalten wir
+eine stetige [pic]-Verteilung. (Dichtefunktion steht nicht im Bortz) [Ein
+Bild verschiedener [pic]-Verteilungen im Bortz auf S. 80.]
+
+                                   [pic].
+
+(2 -Verteilungen haben:
+in Abhδngigkeit von der Anzahl der z2- Variabeln unterschiedliche
+Freiheitsgrade bzw.
+df (degrees of freedom)= n
+eine Variationsbreite von 0 bis +(
+bei df = n einen Erwartungswert von [pic] = n, eine Streuung von [pic] und
+eine Schiefe (ob es linkssteil oder rechtssteil ist.) von [pic].
+
+Mit grφίer werdendem n nδhrt sich die (2 -Verteilung einer NV mit [pic] und
+[pic] an.
+
+
+
+t-Verteilung:
+Aus einer STNV wird ein z-Wert und aus einer hiervon unabhδngigen (2
+-Verteilung ein [pic]-Wert gezogen. Der folgende Quotient definiert einen
+tn-Wert:
+
+                                    [pic]
+
+                             Ein Bild einer t-Verteilung im Bortz auf S. 81.
+t-Verteilungen:
+unterscheiden sich durch Anzahl der Freiheitsgrade (= Freiheitsgrade der (2
+-Verteilung; die steckt ja in den Werten drinnen - siehe Formel).
+nδhert sich mit wachsenden Freiheitsgraden (n) der Normalverteilung an.
+haben einen Erwartungswert [pic] = 0
+sind symmetrisch
+gehen bei [pic] in eine NV όber (Grenzpunkt Definitionssache)
+
+F-Verteilung:
+
+Gegeben sei eine (2 -Verteilung mit df1 = n1 und eine weitere, unabhδngige
+(2 -Verteilung mit df2 = n2. Der Quotient von 2 zufδllig aus diesen beiden
+Verteilungen entnommenen (2 -(Einzel-) Werten, multipliziert mit dem
+Kehrwert des Quotienten ihrer Freiheitsgerade (d.h. die df sind
+Zδhler/Nenner-mδίig vertauscht), wird als F-Wert bezeichnet:
+
+                                    [pic]
+
+F-Verteilungen:
+sind asymmetrische, stetige Verteilungen mit einer Variationsbreite von 0
+bis +(.
+unterscheiden sich durch Zδhler- (n1) und Nenner- (n2) Freiheitsgrade
+
+Ein Bild von F-Verteilungen ist im Bortz auf S.82.
+
+
+
+
+
+Noch ein paar Zusammenhδnge:
+
+Ein F-Wert in der Tabelle bei df1 = 1 und df2 = [pic] entspricht einem z-
+Wert der STNV bei halbiertem Alphaniveau (da die STNV zweiseitig ist muss
+man beide Grenzwerte aufaddieren.).
+Eine quadrierte t-Verteilung mit df = n ist mit der F-Verteilung fόr einen
+Zδhler- und n Nennerfreiheitsgerade identisch. Als Formel:
+
+                                    [pic]
+
+
+Zwischen einer (2 -Verteilung und einer F-Verteilung besteht der folgende
+Zusammenhang:
+
+                                    [pic]
+
+
+
+Zusammenhδnge von NV, STNV, Chi2-, t- und F-Verteilung:
+
+
+
+
+
+
+
+Stichprobe und Grundgesamtheit:
+
+Die meisten Untersuchengen in u.a. der Psychologie sind dahin ausgerichtet,
+aufgrund einer kleinen (in einem Experiment) untersuchten Stichprobe
+Schlόsse auf die Allgemeinheit zu ziehen.
+Der sich hiermit befassende Teilbereich der Statistik wird als Inferenz-
+oder schlieίende Statistik bezeichnet.
+Inferenzstatistik hat das Ziel, auf Basis von Stichprobenergebnissen
+Aussagen όber die zugrundeliegende Population zu treffen.
+
+Zur Inferenzstatistik zδhlen
+ . die Schδtzung von Populationsparametern und
+ . das Testen (άberprόfen) von Hypothesen.
+
+
+Begriffe der Inferenzstatistik:
+
+ . Grundgesamtheit oder Population bezeichnet alle potenziell untersuchbaren
+   Elemente (Personen, Objekte), die ein gemeinsames Merkmal oder eine
+   gemeinsame Merkmalskombination aufweisen (z.B. Mδnner, Studenten,
+   Deutsche, VW Golf, Gartenzwerge, etc.).
+ . Stichprobe bezeichnet eine nach einer bestimmten Auswahlmethode gewonnene
+   Teilmenge von Elementen aus der Population.
+   Inferenzstatistische Verfahren erfordern, dass die Stichprobe mittels
+   einer Zufallsprozedur gewonnen wird.
+
+
+ . Statistische Kennwerte, wie die Maίe der zentralen Tendenz oder die Maίe
+   der Dispersion kφnnen fόr Stichproben wie fόr Populationen
+   (Grundgesamtheiten) ermittelt werden.
+   Die Kennwerte einer Population bezeichnen wir als Parameter, bzw.
+   Populationsparameter.
+   Ein Stichprobenkennwert wird als Punktschδtzer bezeichnet.
+ . Unbekannte Parameter (sind in der Regel unbekannt) werden mit den
+   Stichprobenkennwerten geschδtzt.
+
+
+ . Zur Unterscheidung von Stichprobenkennwerten und Populationsparametern
+   werden Kennwerte mit lateinischen und Parameter mit griechischen
+   Buchstaben notiert. (manchmal werden fόr Parameter einfach die groίen
+   Buchstaben der Kennwerte genutzt; also N statt n. Die Bezeichnung der
+   Kennwerte variiert nicht.)
+
+
+|  |                      |Stichprobenkennwert:    |Populationsparameter:  |
+|  |Mittelwert:           |[pic]                   |[pic]                  |
+|  |Varianz:              | s2                     |[pic]                  |
+|  |Streuung:             | s                      |[pic]                  |
+|  |Korrelation:          | r                      |[pic]                  |
+
+|Mit endlichen Populationen - z.B. die Psychologiestudenten im 3. Semester |
+|der Uni Bonn - zu arbeiten ist ausgesprochen schwierig (letztlich ist jede|
+|Population endlich, aber ab gewissen Grφίen - z.B. alle Studenten         |
+|Deutschlands - gilt sie statistisch als unendlich), dementsprechend       |
+|versucht man mit unendlichen Populationen zu arbeiten.                    |
+|Damit eine Population als unendlich gilt, sollte sie mindestens 100x so   |
+|groί sein wie die Stichprobe.                                             |
+
+
+
+Stichprobenarten:
+
+Wie genau kann gewδhrleistet werden, dass eine Stichprobe eine
+Grundgesamtheit mφglich genau reprδsentiert?
+Eine Stichprobe kann in bezug auf die Grundgesamtheit entweder in bezug auf
+   a. alle Merkmale (globale Reprδsentativitδt) oder
+   b. bestimmte Merkmale (spezifische Reprδsentativitδt)
+reprδsentativ sein.
+
+ . Zufallsstichprobe: Jedes Element der Grundgesamtheit kann mit gleicher
+   Wahrscheinlichkeit ausgewδhlt werden (Ziehen mit Zurόcklegen).
+   Eine absolut fehlerfreie Zufallsstrichprobe ist fast unmφglich; meist
+   aufgrund zu kleiner Stichrobengrφίen, mangelnder Reprδsentativitδt und
+   mangelnder Bereitschaft der Menschen, an einem Experiment teilzunehmen.
+ . Klumpenstichprobe: Elemente werden nicht einzeln, sondern in natόrlichen
+   Gruppen (Klumpen) ausgewδhlt [ z.B. alle Alkoholiker in Kliniken].
+   Hierbei ist zu beachten, dass die Klumpen zufδllig ausgewδhlt werden
+   (vgl. mit dem Bsp.: die Auswahl der Kliniken mόsste zufδllig sein.), ein
+   einzelner Klumpen reicht nicht aus.
+ . Geschichtete Stichprobe: Elemente werden nach relevanten Merkmalen in
+   Schichten (Strata) vorgruppiert. Man όberlegt, welche Merkmale relevant
+   fόr die Untersuchung sind (z.B. Geschlecht, etc.), und wδhlt innerhalb
+   dieser Merkmale zufδllig die Leute aus (mit dem Klumpen-Verfahren geht es
+   auch, ist aber statistisch unsauberer.).
+   Proportional geschichtete Stichprobe: entsprechend der Merkmalsverteilung
+   in Population zusammengestellt, z.B. 40% Singles, 60% Ehepaare.
+   Generell fόhrt eine nach relevanten Merkmalen geschichtete Stichprobe zu
+   besseren Schδtzwerten der Populationsparameter als eine einfache
+   Zufallsstichprobe.
+
+
+Verteilung von Stichprobenkennwerten:
+
+Wir berechnen bei einer Stichprobe der Grφίe n den Mittelwert [pic]. Wie
+genau kφnnen wir nun daraus den Mittelwert der Population erkennen?
+bei zwei Stichproben aus einer Population: je weiter die Mittelwerte der
+Stichprobe voneinander entfernt sind, desto geringer die vermutlich
+richtige Schδtzung des Populationsmittelwertes.
+wenn wir unendlich viele Stichproben haben, dann entsteht eine
+Stichprobenkennwerteverteilung, je geringer die Streuung (= Standardfehler
+[pic]) ist, desto genauer ist die Schδtzung.
+
+Die Stichprobenkennwerteverteilung (SKV):
+Gedankenexperiment: Eine Population mit ΅ und ( sei gegeben. Aus dieser
+Population werden wiederholt (theoretisch unendlich oft) Stichproben
+derselben Grφίe n mit Zurόcklegen gezogen und innerhalb jeder Stichprobe
+wird z.B. der Stichprobenkennwert [pic] berechnet. Die Verteilung der so
+gewonnenen Kennwerte ist die Stichproben(kennwerte)verteilung von [pic].
+Wenn man genug Stichprobenkennwerte hat, ist deren Mittelwert mit dem der
+Population identisch.
+Der Mittelwert einer Stichprobenverteilung (SKV) eines Kennwertes T heiίt
+Erwartungswert E(T).
+Entspricht der Erwartungswert eines Kennwertes dem Wert des zugehφrigen
+Populationsparameters, E(T) = (, so wird dieser Kennwert als
+erwartungstreuer Schδtzer bezeichnet.
+
+
+Mittelwert:
+Der Mittelwert ist ein erwartungstreuer Schδtzer fόr ΅, da gilt: [pic]
+
+Varianz:
+Die Stichprobenvarianz s2 ist kein erwartungstreuer Schδtzer: E(s2) ( (2.
+
+s2 unterschδtzt (2 systematisch um den Faktor: [pic]
+
+Daher muss s2 wie folgt korrigiert  werden  (doch,  der  Bruch  ist  richtig
+herum*):
+                                    [pic]
+
+Das Dach όber dem Sigma zeigt  an,  dass  es  sich  um  den  Schδtzer  eines
+Parameters handelt.
+
+                      [pic] ist erwartungstreu: [pic].
+
+|Die Populationsvarianz schδtzt man also durch die Summe der quadrierten   |
+|Abweichungen aller Messwerte vom Mittelwert (Quadratsumme) geteilt durch  |
+|n-1 (Freiheitsgrade der Varianz):                                         |
+|[pic]                                                                     |
+|Jetzt ist eine Berechnung des geschδtzten Standardfehlers mφglich (siehe  |
+|nδchste Seite)                                                            |
+
+
+
+|* Einfach: Weil s2 unser Sigma systematisch unterschδtzt, mόssen wir s2   |
+|vergrφίern.                                                               |
+|   Mathematisch korrekt: s2 unterschδtzt systematisch das Sigma:          |
+|[pic]= s2                                                                 |
+|Und nun stellt die Formel mal um.                                         |
+
+
+Der Standardfehler:
+Ist die Streuung einer [pic]- Werteverteilung ziemlich klein, ist die
+Chance, mithilfe eines Stichprobenkennwertes [pic] den Mittelwert der
+Population [pic] zu treffen, relativ groί. Ist jedoch die Streuung groί,
+ist die Chance auf einen Treffer gering. Deswegen benφtigt man den Wert der
+Streuung der Stichprobenkennwerteverteilung, und das ist der
+Standardfehler.
+Die Streuung einer Stichprobenkennwerteverteilung wird als Standardfehler
+des Mittelwertes (also des Kennwertes) bezeichnet.
+Der Standardfehler des Mittelwertes hδngt von der Populationsvarianz [pic]
+und der Stichprobengrφίe n ab:
+                                   [pic].
+
+Standardfehler verδndert sich proportional zur Streuung in Population.
+Standardfehler verringert sich mit zunehmendem Stichprobenumfang.
+
+
+Schδtzung des Standardfehlers des Mittelwertes:
+In der Regel ist die Varianz einer Population (2 nicht bekannt. Daher wird
+der Standardfehler aus den Stichprobendaten geschδtzt: (eine Schδtzung όber
+den Durchschnitt der Stichprobenvarianzen wδre ja nicht erwartungstreu.)
+                                 [pic][pic]
+
+
+Zentrales Grenzwerttheorem:
+Der zentrale Grenzwertsatz sagt nun etwas όber die Form aus:
+Verteilungen von Mittelwerten aus Stichproben des Umfangs n, die sδmtlich
+derselben Grundgesamtheit entnommen werden, gehen mit wachsendem
+Stichprobenumfang in eine Normalverteilung όber.
+
+Vereinbarungsgemδί hδlt man ein n ( 30 fόr hinreichend, um die
+Stichprobenverteilung des Mittelwertes als Normalverteilung zu behandeln,
+ungeachtet der Verteilungsform der zugrundeliegenden Population.
+   Ein Beispiel: man werfe zwei sechsseitige Wόrfel, und lese deren Ergebnis
+   ab. Die 7 kommt z.B. hδufiger vor als die 2, da es bei der 7 mehrere
+   Kombinationsmφglichkeiten gibt (Bortz S. 93). Es ergibt sich eine in
+   Richtung NV bewegende Verteilung:
+
+|Ergebnis:                                                                 |
+
+
+Methoden d. Parameterschδtzung: Meth. d kleinsten Quadrate, Maximum-
+likelihood-Methode:
+
+Wie finde ich den besten Schδtzer fόr eine Population?
+
+Methode der kleinsten Quadrate:
+Die Methode der kleinsten Quadrate wird noch im Punkt "Verfahren zur
+άberprόfung von Zusammenhangshypothesen" thematisiert, trotzdem eine kurze
+Beschreibung:
+
+Nehmen wir an, wir suchten den besten Schδtzer fόr [pic]. (Wir wissen
+natόrlich, dass das [pic] ist.)
+Den gesuchten Wert nennen wir a.
+                                    [pic]
+
+Wir lφsen das Ganze auf (Rechnung im Bortz S.97 & 98), und erhalten:
+
+                                    [pic]
+
+Demnach ist [pic] der beste Schδtzer fόr [pic].
+
+
+Maximum-likelihood-Methode:
+Mit der Maximum-likelihood-Methode finden wir fόr die Schδtzung unbekannter
+Parameter Stichprobenkennwerte, die so geartet sind, dass sie die
+Wahrscheinlichkeit (engl.: likelihood) des Auftretens in der Population
+maximieren.
+
+Messen wir 5x, und zwar
+x1 = 11, x2 = 8, x3 = 12, x4 = 9 und x5 = 10
+
+Wenn wir jetzt eine NV haben, ist es unwahrscheinlich, dass die Population
+einen Mittelwert von [pic] = 20 hat.
+Nach der Maximum-likelihood-Methode wόrde sich herausstellen, dass [pic] =
+10 der beste Schδtzer fόr [pic] ist.
+[Eingehendere Beschreibung im Bortz auf den S. 98 & 99]
+
+
+Intervallschδtzung: Wertebereich, Konfidenzintervalle:
+
+Bei einem [pic]-Wertebereich versucht man herauszufinden, ob eine
+Stichprobe (d.h. eigentlich der Mittelwert [pic] einer Stichprobe) zu einer
+Population gehφrt.
+
+D.h. bei einer NV, also [pic], liegen Werte zu bestimmten Bedingungen um
+den Mittelwert [pic] herum.
+Bei [pic] liegen  68,26% und
+bei [pic] 95,44% aller zufδllig gezogenen Stichprobenmittelwerte in dem
+Bereich [pic] 2 Streuungen um den Mittelwert [pic].
+D.h. bei [pic] = 100 und [pic] = 5 , lδge bei [pic] 2 Streuungen zu 95,44 %
+die gezogene Stichprobe zwischen 90 und 110. [eigentlich ist das falsch,
+ein Wert kann nur drin oder drauίen liegen, also ist die Wahrscheinlichkeit
+entweder 1 oder 0 - ist aber nicht so wichtig (= Mathematiker-Pedanterie)].
+Diesen Bereich - hier 90 bis 110 - nennt man [pic]-Wertebereich.
+[pic]und [pic] sind hierbei festgelegte Werte. Das Einzige, was variieren
+kann, ist [pic]. (Weswegen man es ja auch [pic]-Wertebereich nennt.)
+Da man aber lieber mit standardisierten NVen rechnet, arbeitet man meist
+mit z-Werten. Die Gleichung sieht folgendermaίen aus:
+
+                                    [pic]
+
+((/2) haben wir hier, da ein zweiseitiges Intervall gesucht wird, also z.B.
+auf jeder Seite 2,5% abgeschnitten wird.
+
+
+In der Standardnormalverteilung liegen 95% der Flδche zwischen z =
+[pic]1,96.
+
+
+
+Konfidenzintervalle:
+Konfidenzintervalle verhalten sich genau umgekehrt zum [pic]-Wertebereich:
+Bei einem Konfidenzintervall versucht man herauszufinden, ob eine
+Population zu einer Stichprobe gehφrt (die mφglichen [pic]-Werte werden
+gesucht); und nicht wie beim Wertebereich, ob eine Stichprobe zu einer
+Population gehφrt (die mφglichen [pic]-Werte werden gesucht).
+
+Konfidenzintervalle sind demnach Bereiche, in denen sich
+Populationsparameter befinden, die als Erzeuger einer Stichprobe (mit xx%
+Wahrscheinlichkeit) in Frage kommen.
+Man nimmt hier 95%ige oder 99%ige Wahrscheinlichkeiten (=
+Konfidenzkoeffizienten).
+
+Das Konfidenzintervall kennzeichnet denjenigen Bereich eines Merkmals, in
+dem sich 95% oder 99% (legt man vorher fest) aller mφglichen
+Populationsparameter befinden, die den empirisch ermittelten
+Stichprobenkennwert [pic] erzeugt haben kφnnen.
+
+                                    [pic]
+
+Gesucht sind nun hierbei die Grenzen des Konfidenzintervalls.
+
+
+Ein Konfidenzintervall (crit wird bestimmt nach (crit = [pic]
+
+Ein Delta steht immer fόr eine Differenz, d.h. die (Unter-) Grenze des
+Konfidenzintervalls hat den Abstand Delta entweder zum Mittelwert oder zur
+anderen (Ober-)Grenze.
+
+bei kleinen Stichproben (unter 30) sind die "z-Werte" nicht
+standardnormalverteilt, sondern t-verteilt (wenn die Population
+normalverteilt ist), also muss man t-Werte aus der Tabelle einsetzen;
+Freiheitsgrade = n-1 (siehe "t-Test")
+
+
+
+Bedeutung des Stichprobenumfangs:
+
+Eine (weitere) Bestimmungsgrφίe fόr die Breite eines Konfidenzintervalls
+ist der Stichprobenumfang: Je grφίer die untersuchte Stichprobe, desto
+kleiner das Konfidenzintervall.
+
+Die Halbierung eines Konfidenzintervalls macht einen vierfachen
+Stichprobenumfang erforderlich.
+Die benφtigten Stichprobenumfδnge kφnnen erheblich gesenkt werden, wenn
+statt einer reinen Zufallsstichprobe eine sinnvoll geschichtete Stichprobe
+gezogen wird (=> Standardfehler wird kleiner => kleinere Stichprobenumfδnge
+mφglich.)
+
+
+
+Formulierung und άberprόfung von Hypothesen:
+
+Bei der Formulierung und άberprόfung von Hypothesen entsteht ein zentrales
+Problem:
+Inwieweit kφnnen postulierte Eigenschaften (= Hypothesen) der Population
+(Theorie) durch Stichproben (Empirie) bestδtigt werden?
+Welche Kriterien gibt es dort? Bis wann ist ein Stichprobenwert (z.B.
+[pic], s2, etc.) "gerade noch mit der Theorie όbereinstimmend"?
+Um diese u.δhnl. Fragen geht es in diesem Kapitel.
+
+
+Alternativhypothesen:
+
+Die Brauchbarkeit von Theorien ist davon abhδngig, inwieweit sie sich in
+Untersuchen von Teilaussagen, die aus ihr abgeleitet wurden, bewδhrt.
+Ist eine Theorie (noch) nicht empirisch bewiesen worden, stellt man
+Hypothesen auf, um prδzisere Vorhersagen machen zu kφnnen. Eine Hypothese
+ist also eine Deduktion der Theorie (Deduktion = Ableitung des Einzelfalls
+aus dem Allgemeinen). [Deswegen soll man Hypothesen ja auch vorher
+aufstellen, sonst leitet man nδmlich aus dem Einzelfall bzw. den
+Einzelfδllen das Allgemeine ab.]
+Hypothesen beinhalten Aussagen, die mit anderen Theorien in Widerspruch
+stehen kφnnen oder den Wissensstand erweitern.
+Hypothesen, die in diesem Sinne "innovative" Aussagen beinhalten, werden
+als Gegen- oder Alternativhypothesen bezeichnet.
+Diese Hypothesen mόssen dann (nur noch) όberprόft werden.
+
+
+Varianten von Alternativhypothesen:
+
+Je nach Art der Hypothesenformulierung unterscheidet man zwischen
+34. Unterschiedshypothesen und
+35. Zusammenhangshypothesen.
+
+Unterschiedshypothesen prόft man bei Hδufigkeitsvergleichen und
+Mittelwertsvergleichen
+(siehe "Verfahren zur άberprόfung von Unterschiedshypothesen" ) und
+Zusammenhangshypothesen bei Korrelationsrechnung
+(siehe "Verfahren zur άberprόfung von Zusammenhangshypothesen")
+
+
+Gerichtete und ungerichtete Hypothesen:
+
+Gerichtete Hypothesen habe irgendeine Richtungsvorgabe, d.h. es sind
+Formulierungen z.B. "grφίer, besser, schneller, schlechter, wandelbarer,
+etc. als" vorhanden.
+Ungerichtete Hypothesen habe keine Richtungsvorgabe, sie postulieren nur
+irgendeinen Unterschied. Typische Formulierungen wδren: "ist ungleich,
+verschieden, anders, etc. zu"
+
+
+Spezifische und unspezifische Hypothesen:
+
+Wenn wir eine bestimmte Grφίe bei einer Hypothese angeben, haben wir eine
+spezifische Hypothese. Z.B. "Es ist (mindestens) um den Betrag x besser als
+vorher." (= Unterschiedshypothese) oder "Der Zusammenhang (=Korrelation)
+betrδgt (mindestens) x." (=Zusammenhangshypothese).
+Unspezifische Hypothesen haben demnach keine expliziten Angaben.
+
+Spezifische Hypothesen kommen in der psychologische Forschung meistens nur
+in Verbindung mit gerichteten Hypothesen vor.
+
+
+|Die Alternativhypothese sollte - soweit sich das inhaltlich rechtfertigen |
+|lδsst - so prδzise wie mφglich formuliert sein. Die wenigsten             |
+|Vorkenntnisse verlangt eine                                               |
+|unspezifische ungerichtete Hypothese                    |gefolgt von einer|
+|unspezifischen gerichteten Hypothese                    |                 |
+|spezifischen gerichteten Hypothese                      |gefolgt von einer|
+|                                                                          |
+|Wie das bei einer spezifischen ungerichteten Hypothese (Es unterscheidet  |
+|sich mindestens um x.) aussieht, war nicht erwδhnt (ist wohl auch eher    |
+|selten.).                                                                 |
+
+
+Statistische Hypothesen:
+Zur άberprόfung mόssen wissenschaftliche Hypothesen vor einer Untersuchung
+aufgestellt und in eine statistische Hypothese όberfόhrt werden.
+Hypothesen werden fόr Populationen, also mit Parametern formuliert.
+Diese beiden Punkte gelten auch fόr die Nullhypothese.
+
+Alternativhypothesen heiίen όblicherweise H1.
+Bei einer Unterschiedshypothese ( hier Mittelwert) hieίe sie z.B.
+"Psychologiestudenten sind mit diesem neuen Skript ([pic]) besser in der
+Methodenlehreprόfung als vorher ([pic])." Mathematisch formuliert:
+                                    [pic]
+
+Bei einer Zusammenhangshypothese hieίe sie z.B.
+"Psychologiestudenten werden eher wahnsinnig ([pic]) (korrelieren mehr mit
+Irrenhausbesuchen) als andere Studenten ([pic])."Mathematisch formuliert:
+                                    [pic]
+
+Die Nullhypothese:
+
+In Abhδngigkeit zur Alternativhypothese wird eine konkurrierende Hypothese
+gebildet, die sogenannte Nullhypothese (H0). Die Nullhypothese ist eine
+Negativhypothese, die behauptet, dass die zur H1 komplementδre Aussage
+richtig sei. Die Nullhypothese ist die Basis der klassischen Prόfstatistik,
+da von dort aus entschieden wird, ob die H1 stimmt oder nicht.
+                      (Mehr dazu im Bortz S. 109 & 110)
+
+
+Fehlerarten bei statistischen Entscheidungen: Alpha- & Beta-Fehler:
+
+Stehen Null- und Alternativhypothese fest, kann die Untersuchung beginnen.
+Aber welche der Hypothesen gilt nun? Die Entscheidung hierόber wird noch
+erschwert, da sich das Ergebnis der Untersuchung auf eine Stichprobe
+bezieht, wδhrend wir eigentlich Aussagen όber eine Population treffen
+wollen.
+Damit ist nicht auszuschlieίen, dass wir aufgrund der Stichprobenauswahl
+Fehler machen: Insgesamt gibt es 4 Mφglichkeiten:
+
+|              |In der Population ("in Wahrheit") gilt ...                  |
+|              |H0                           |H1                            |
+|Ent-sche|H0   |Richtige                     |(-Fehler                      |
+|idung   |     |Entscheidung                 |                              |
+|fόr ... |     |                             |                              |
+|        |H1   |(-Fehler                     |Richtige                      |
+|        |     |                             |Entscheidung                  |
+
+
+[pic]-Fehler oder Fehler erster Art:   Die H1 wird angenommen, obwohl
+eigentlich die H0 gilt.
+
+[pic]-Fehler oder Fehler zweiter Art:  Die H0 wird beibehalten, obwohl
+eigentlich die H1 gilt.
+
+
+           (- und (-Fehlerwahrscheinlichkeit bei einer (rechts-) gerichteten
+                                                                  Hypothese.
+
+Signifikanzaussagen:
+
+Signifikanzaussagen sind Aussagen, ob eine Hypothese - meist die H1 - auf
+der Basis festgelegter Grenzen (meist bei 5% oder 1%
+Irrtumswahrscheinlichkeit) gilt oder nicht.
+Da Stichprobenergebnisse (zufδllig) stark von der Population abweichen
+kφnnen, setzt man Signifikanzen fest, um zu einer bestimmten
+Wahrscheinlichkeit eine Hypothese (Aussage) beweisen zu kφnnen.
+
+Man bezeichnet ein Signifikanzniveau von [pic] = 5% als signifikant, ein
+Signifikanzniveau von [pic] = 1% als sehr signifikant. (Das ist so
+festgelegt worden.)
+Inwieweit man [pic] festlegt, ist eine methodische Sache (Brisanz der
+Untersuchung => kleines [pic], junge Wissenschaft mit innovativen Ideen =>
+groίes [pic])
+
+Da die H0 die Basis der klassischen Prόfstatistik ist und wir die H1
+beweisen wollen, ist fόr uns (erst einmal) der [pic]-Fehler von Bedeutung.
+Deswegen wird erst einmal die Wahrscheinlichkeit des [pic]-Fehlers - die
+sogenannte Irrtumswahrscheinlichkeit - bestimmt.
+
+
+
+Bestimmung der Irrtumswahrscheinlichkeit:
+
+Irrtumswahrscheinlichkeiten sind bedingte Wahrscheinlichkeiten, d.h
+Wahrscheinlichkeiten fόr das Auftreten eines Ereignisses (hier das Ergebnis
+unserer Stichprobenuntersuchung) unter der Bedingung, dass die
+Nullhypothese zutrifft.
+
+Aus der Population ziehen wir (theoretisch) unendlich viele Stichproben -
+es ergibt sich eine SKV mit dem Mittelwert [pic], der dem der Population
+entspricht.
+Bei dieser SKV trennen wir (bei rechtsseitiger H1 & [pic] = 0,05) rechts 5%
+ab.
+Diese Teilflδche stellt den Bereich dar, bei der wir uns zu [pic] % (hier
+5%) irrtόmlicherweise zugunsten der H1 entscheiden wόrden. Die Grφίe der
+Irrtumswahrscheinlichkeit wird mit P gekennzeichnet.
+Mittels einer z-Transformation lδsst sich dann der genaue (Grenz-) Wert
+errechnen.
+Nun δndern wir bei einer Stichprobe die Bedingungen, damit unsere H1 wirkt
+(z.B. H1: neue Lehrmethode => die wird nun angewandt). Landet der
+Mittelwert der Stichprobe im Bereich P, nehmen wir die H1 an.
+
+
+Das Ganze war die Theorie.
+Da aber die Kosten ins Astronomische steigen wόrden (unendlich viele
+Stichproben), gehen wir von einer NV der Mittelwerte aus (die SKV soll also
+eine NV sein).
+
+Dann berechnen wir eine z-Transformation mit dem Wert unserer - unter H1-
+Bedingungen getesteten - Stichprobe. Diesen z-Wert schlagen wir in der
+Tabelle nach und sehen, wie signifikant er ist. Ist er geringer als unsere
+Signifikanzniveau [pic], kφnnen wir die H1 annehmen.
+
+
+Beispiel: Nach der z-Transformation unser Experimentalergebnisse
+
+                         [pic]         [[pic] kann auch geschδtzt sein.]
+erhalten wir den z-Wert 2,29.
+Dieser Wert schneidet links von sich 98,90% aller z-Werte ab. D.h. bei
+unserem rechtsseitigem Test und einem Signifikanzniveau von [pic] = 5%
+kφnnten wir die H1 annehmen, bei einem Signifikanzniveau von [pic] = 1%
+mόsste die H0 beibehalten werden (obwohl sie nur zu 1,1% stimmen wόrde.
+
+|Ein nicht-signifikantes Ergebnis heiίt nicht, dass die H0 richtig ist;    |
+|z.B. bei einer Verfehlung des 5%-Niveaus um 1% ist die H0 nur mit einer   |
+|Wahrscheinlichkeit von 6% richtig !!                                      |
+|Deswegen sagt man auch "Beibehaltung" statt "Annahme" der H0.             |
+
+
+Die Irrtumswahrscheinlichkeit [pic] ist immer vorhanden, sie verringert
+sich bei
+        1. grφίer werdender Diskrepanz von [pic] (je ausgefallener die
+           Stichprobe)
+        2. Vergrφίerung des Stichprobenumfangs: nur wenn n so groί wie die
+           Population ist, ist die Entscheidung fόr H1 oder H0 sicher (aber
+           da alles bekannt ist fδllt sie soundso weg).
+        3. kleiner werdender Populationsstreuung [pic] bzw. [pic] (je
+           weniger sich die Leute unterscheiden.)
+
+    Die statistische Hypothesentestung fόhrt zu keinen Wahrheiten, nur zu
+                            Wahrscheinlichkeiten.
+
+
+
+|Unspezifische Nullhypothesen:                                             |
+|Meist haben wir eine spezifische H0, also [pic] . Es kann aber auch       |
+|unspezifische Nullhypothesen geben, also bei einem rechtsseitigem Test H0:|
+|[pic]. Hat man jedoch festgestellt, dass [pic] verworfen werden kann, so  |
+|gilt das auch fόr [pic].                                                  |
+|Es genόgt also, wenn eine unspezifische H1 an einer spezifischen H0       |
+|getestet wird.                                                            |
+
+
+
+Einseitige und zweiseitige Tests:
+
+Zweiseitige Tests sind genauer als Einseitige, da das [pic]-Niveau konstant
+bei z.B. 1% liegt (es wird also 1% der Verteilung abgeschnitten), und eine
+zweiseitige Testung durchgefόhrt wird (es werden also auf beiden Seiten
+[pic]/2 % abgeschnitten.
+Zweiseitige Tests haben den Nachteil, dass sie keine Richtungen, sondern
+nur Ungleichheiten formulieren.
+Einseitige Test werden eher signifikant als Zweiseitige - was in der
+psychologischen Forschung ja auch gerne gesehen wird.
+Kann nicht klar entschieden werden, ob ein Sachverhalt besser durch eine
+gerichtete (einseitig) oder ungerichtete (zweiseitig) Hypothese erfasst
+wird, muss in jeden Fall zweiseitig getestet werden.
+
+
+Statistische Signifikanz und praktische Bedeutsamkeit:
+
+Ist n hinreichend groί und also [pic] entsprechend klein,  wird  jeder  noch
+so kleine hypothesenkonforme Unterschied signifikant.
+   Ein Beispiel: eine neue Lehrmethode fόhrte bei 100 Schόlern zu
+   durchschnittlich 42 Punkten im Abschlusstest. Der Mittelwert aller Tests
+   vor der neuen Lehrmethode betrug 40 Punkte, die Streuung 0,8 Punkte. Die
+   H1 (die neue Lehrmethode ist besser) wδre hierbei auf einem 1%tigen
+   Alphaniveau signifikant.
+   Wenn wir jetzt statt 100 Schόlern 10.000 untersuchen wόrden, wδre selbst
+   ein Unterschied von 0,19 Punkten bei einem 1%tigen Alphaniveau
+   signifikant
+   Aber hat das noch irgendeine Bedeutung?
+
+Umgekehrt gilt auch, dass groίe (und bedeutsame) Unterschiede bei zu
+kleinen Stichproben nicht signifikant werden, also "unentdeckt" bleiben.
+
+Deswegen benφtigt man Verfahren, die praktische Bedeutsamkeit von
+Untersuchungen erkennen zu kφnnen. Das geht όber die Feststellung der:
+Effektgrφίen und
+Teststδrke
+
+Die korrekte Anwendung eines Signifikanztests und die Interpretation der
+Ergebnisse unter dem Blickwinkel der praktischen Bedeutsamkeit sind
+essentielle und gleichwertige Bestandteile der empirischen
+Hypothesenprόfung.
+
+
+Effektgrφίe:
+
+Der in der H1 behauptete Unterschied wird als Effekt bezeichnet. Um Effekte
+verschiedener Untersuchungen vergleichbar zu machen, werden Effekte zu
+Effektgrφίen standardisiert:
+
+                                   [pic].
+                  Das Epsilon ( ( ) steht fόr Effektgrφίe.
+Die Effektgrφίe gibt also an, inwieweit - in einem speziellen Test - [pic]
+von [pic] entfernt sein sollte, um von einem praktisch bedeutsamen Effekt
+sprechen zu kφnnen.
+
+Wenn man vor einer Untersuchung eine Effektgrφίe festlegt, hat dies den
+Vorteil (neben dem grφίeren Aufwand), dass der Stichprobenumfang
+kalkulierbar ist:
+
+                                   [pic].
+
+Um eine geeignete Teststδrke zu  erzielen,  sollte  vor  einer  Untersuchung
+eine Effektgrφίe festgelegt und n darauf abgestimmt werden.
+
+
+Der Beta-Fehler:
+
+Die Festlegung des [pic]-Fehlers erfolgt wie die Festlegung des [pic]-
+Fehlers (zu finden unter dem Punkt "Bestimmung der
+Irrtumswahrscheinlichkeit"), nur dass das Ganze mit vertauschten Hypothesen
+stattfindet.
+D.h. eigentlich sollte man unendlich viele H1-Stichproben (= unter der
+Bedingung H1) durchfόhren, man geht aber von einer NV aus und macht einen z-
+Test.
+(z.B. bei H1: [pic] 110 wδre [pic] = 110)
+
+Der Beta-Fehler stellt den Bereich dar, bei der wir uns zu [pic] %
+irrtόmlicherweise zugunsten der H0 entscheiden wόrden.
+
+|Unspezifische Alternativhypothesen:                                       |
+|Die Festlegung des [pic]-Fehlers, die mit einer Entscheidung zugunsten der|
+|H0 verbunden ist, kann bei unspezifischen H1 nicht bestimmt werden.       |
+
+Hier das Bild einer spezifischen H1 samt Alpha- & Beta-Fehler-Bereich:
+
+Teils ist der Beta-Fehler durch die Wahl des Alpha-Fehlers festgelegt, d.h.
+er fδngt an der kritischen Grenze (hier links davon) an, die durch die Wahl
+des Alpha-Niveaus entstanden ist.
+Der [pic]-Fehler kann aber auch festgelegt sein. So kφnnen
+Indifferenzbereiche entstehen.
+
+
+Indifferenzbereiche:
+
+Wenn Alpha- und Beta-Niveau festgelegt sind, kann es bei sehr kleinen bzw.
+sehr groίen Effektgrφίen (entweder groίe bzw. kleine Streuung und/oder nahe
+beieinander bzw. weit entfernt liegenden Mittelwerte von H1 und H0) zu
+Indifferenzbereichen kommen.
+
+Das Stichprobenergebnis befindet sich dann in einem Bereich, fόr den
+weder die H0 noch die H1 abgelehnt werden kφnnen        (άberschneidung der
+Kurven)
+oder
+sowohl die H0 als auch die H1 abgelehnt werden mόssen   (kaum
+Kurvenόberschneidung, d.h. nur noch die ganz ganz flachen Bereiche der
+Kurven von H1 und H0 όberschneiden sich ).
+
+
+Teststδrke ("power"):
+
+Die Teststδrke ist die der korrekten Entscheidung fόr die H1 zugeordnete
+Wahrscheinlichkeit, d.h. die Teststδrke gibt an, mit welcher
+Wahrscheinlichkeit ein Signifikanztest zugunsten einer spezifischen H1
+entscheidet.
+                       Die Teststδrke hat den Wert 1((
+
+Da sich [pic] und [pic] gegenseitig beeinflussen, ist die Teststδrke fόr
+[pic] = 0,05 grφίer als fόr [pic] = 0,01.
+
+Eigenschaften der Teststδrke:
+Sie vergrφίert sich:
+mit wachsender Differenz von [pic] und [pic] (also auch mit wachsender
+Effektgrφίe)
+bei kleiner werdender Merkmals (=Populations-) streuung.
+mit grφίer werdendem [pic] (sofern [pic] nicht festgelegt ist).
+mit wachsendem Stichprobenumfang (da der Standardfehler kleiner ist) [pic]
+
+Bei gerichteter Hypothese hat ein einseitiger Test grφίere Power als
+zweiseitiger Test.
+
+
+Bedeutung der Stichprobengrφίe:
+
+Im Allgemeinen kann man sagen, dass groίe Stichproben immer gόnstiger sind
+als kleine, da sie zu genaueren Ergebnissen fόhren. Da groίe Stichproben
+auch mehr kosten, reicht ein "optimaler" Stichprobenumfang.
+
+Stichprobenumfδnge sind dann optimal, wenn sie bei gegebenem [pic], [pic]
+und [pic] eine eindeutige Entscheidung όber die Gόltigkeit von H0 oder H1
+sicherstellen.
+
+|Fόr Stichprobenumfδnge, die kleiner sind als der "optimale", existiert ein|
+|[pic]-Wertebereich, der sowohl mit H0 als auch mit H1 vereinbar ist. Fόr  |
+|grφίere Stichproben gibt es Werte, die weder mit H0 noch mit H1 vereinbar |
+|sind.                                                                     |
+
+
+Monte-Carlo-Studien, Bootstrap-Technik:
+
+Es gibt statistische Kennwerte, deren mathematischer Aufbau so kompliziert
+ist, dass es bis heute nicht gelungen ist, deren Standardfehler auf
+analytischem Wege zu entwickeln.
+In diesen Fδllen kφnnen sogenannte Monte-Carlo-Studien oder die Bootstrap-
+Technik eingesetzt werden, mit denen die unbekannte H0-Verteilung des
+jeweiligen Kennwertes auf einem PC simuliert wird.
+
+Die Monte-Carlo-Methode hat zwei (fόr uns) vorrangige Anwendungsvarianten:
+die Erzeugung der H0-Verteilung eines statistischen Kennwertes
+(man simuliert per PC eine Population, und der PC zieht immer weiter
+Stichproben, er simuliert eine SKV. Mit dieser kόnstlichen SKV kann man
+όberprόfen, ob der reale untersuchte Kennwert signifikant ist oder nicht.)
+die άberprόfung der Folgen, die mit der Verletzung von Voraussetzungen
+eines statistischen Tests verbunden sind.
+(da in der empirischen Forschung oftmals Testvoraussetzungen verletzt
+werden, kann man einen Test auf seine "Robustheit" testen, d.h. beeinflusst
+die Verletzung der Testvoraussetzungen das Ergebnis des Tests oder nicht.)
+Monte-Carlo-Studien sind fόr die empirische Forschung δuίerst wichtig, da
+sie -teils - die Entscheidung darόber erleichtern, wann ein bestimmter Test
+eingesetzt werden kann oder nicht.
+
+
+Die Bootstrap-Technik:
+Die Bootstrap-Technik ist den Monte-Carlo-Studien sehr δhnlich; sie
+unterscheidet sich von der Monte-Carlo-Studie in einem wesentlichen Punkt:
+Die Monte-Carlo-Studien kommen zu generalisierbaren Ergebnissen, die
+Ergebnisse der Bootstrap-Techniken beziehen sich immer nur auf eine
+bestimmte Untersuchung.
+
+Die Bootstrap-Technik simuliert keine Population, sie verwendet
+ausschlieίlich Informationen einer empirisch untersuchten Stichprobe mit
+dem Ziel, eine Vorstellung όber die Variabilitδt des zu prόfenden
+Stichprobenkennwertes zu gewinnen.
+
+Die Bootstrap-Technik zieht aus den einzelnen Werten der empirischen
+Stichprobe immer neue Stichproben, bildet davon Mittelwert und Varianz und
+berechnet schlieίlich ein Konfidenzintervall fόr diese Stichproben. Daran
+wird dann die H0 όberprόft.
+
+
+
+
+Verfahren zur άberprόfung von Unterschiedshypothesen:
+
+Bei den Verfahren zur άberprόfung von Unterschiedshypothesen werden
+normalerweise zwei Stichprobenergebnisse miteinander verglichen; Vergleiche
+eines Stichprobenmittelwertes mit einem Populationsmittelwert gibt es aber
+auch (meist ob ein Stichprobenkennwert zu einer Population gehφrt oder
+nicht).
+
+Dabei gibt es eine Menge von Testverfahren. Bevor man eines auswδhlt, muss
+noch das Skalenniveau festgelegt werden; kann man sich nicht zwischen
+zweien entscheiden, sollten Tests (also unterschiedliche Tests, die
+dasselbe messen) fόr beiden Skalenniveaus durchgefόhrt werden.
+Sind die Ergebnisse gleich, kann das hφhere Skalenniveau nicht angezweifelt
+werden. Unterscheiden sich die Ergebnisse, muss das anforderungslosere
+Skalenniveau gewδhlt werden.
+
+
+Verfahren fόr Intervalldaten:
+
+Die folgenden Verfahren wie z-Test, t-Test, F-Test und [pic]-Test fόr eine
+Varianz, vorgestellt in den Punkten:
+           "Vergleich eines Stichprobenmittelwertes mit einem
+           Populationsparameter"
+           "Vergleich zweier Stichprobenmittelwerte aus unabhδngigen
+           Stichproben"
+           "Vergleich zweier Stichprobenmittelwerte aus abhδngigen
+           Stichproben"
+           "Vergleich einer Stichprobenvarianz mit einer
+           Populationsvarianz"
+           "Vergleich zweier Stichprobenvarianzen"
+
+sind Verfahren fόr Intervalldaten.
+
+
+
+Vergleich eines Stichprobenmittelwertes mit einem Populationsparameter (z-
+Test, t-Test):
+
+Eine Zufallsstichprobe des Umfangs n mit einem Mittelwert [pic] wird
+berechnet.
+Nun soll die Hypothese geprόft werden, ob die Stichprobe zu einer
+Grundgesamtheit mit bekanntem Populationsparameter [pic] gehφrt.
+
+Aufstellen der Hypothesen:        H0:[pic]              H1:[pic]
+
+Bei [pic] und bekannter Populationsvarianz [pic] (und somit bekanntem
+Standardfehler) sowie
+bei [pic] und geschδtzter Populationsvarianz [pic] (und somit geschδtztem
+Standardfehler) kann man einen z-Test durchfόhren:
+Also entweder
+                     [pic]       oder            [pic].
+
+Man berechnet zemp und zkrit. Wenn zemp > zkrit, nehmen wir (bei rechts-
+und ungerichteter H1, also auch hier) die H1 an.
+Zu beachten ist, dass sich das [pic] bei zkrit bei zweiseitigen Tests
+halbiert.
+
+
+Kleine Stichproben:
+Erfόllen unsere Stichprobe und die Population die oben genannten Kriterien
+fόr den z-Test nicht, kann man auf einen t-Test ausweichen.
+Die Hypothesenaufstellung und das Verfahren erfolgen wie beim z-Test, nur
+halt jetzt mit
+t-Werten statt z-Werten.
+Nicht zu vergessen:
+Werden Stichproben des Umfangs n aus einer normalverteilten Population
+(Grundgesamtheit) gezogen, verteilen sie sich entsprechend einer t-
+Verteilung mit n-1 Freiheitsgraden (df = degrees of freedom).
+
+                 [pic], mit df = n(1.
+
+Jetzt werden temp und tkrit berechnet, nur abreitet man mit der t-Tabelle
+statt der z-Tabelle, der Rest lδuft wie beim z-Test.
+
+|Zur Erinnerung: je nach t-Test (links- / rechtsseitig / ungerichtet) ist: |
+|                                                                          |
+|[pic] oder [pic] oder [pic]                                               |
+
+
+
+
+
+
+|Anzahl der Freiheitsgerade:                                               |
+|Freiheitsgrad = Die Anzahl der bei der Berechnung des Kennwertes frei     |
+|variierbaren Werte.                                                       |
+|Die Anzahl der Freiheitsgrade hδngt davon ab, wie viel Werte noch frei    |
+|variieren kφnnen. D.h., wenn 4 von 5 Werten bei einer Additionsaufgabe und|
+|das Ergebnis feststehen, dann ist der Wert des 5. Wertes festgelegt, ergo |
+|unfrei.                                                                   |
+|Beispiel: die 4 Werte ergeben aufaddiert 9. Das Endergebnis ist 10. Welche|
+|Zahl hat wohl der 5. Wert?                                                |
+
+
+
+Vergleich zweier Stichprobenmittelwerte aus unabhδngigen Stichproben (t-
+Test):
+
+Sind bei Gruppenvergleichen die Daten beider Populationen unbekannt,
+vergleicht man anhand von Stichproben.
+Der t-Test fόr unabhδngige Stichproben prόft zwei voneinander unabhδngige
+Stichproben des Umfangs n1 und n2, die aus zwei verschiedenen
+Grundgesamtheiten gezogen wurden.
+
+Die Hypothesen lauten:
+                            H0: [pic]
+                            H1: [pic] (ungerichtet)
+
+[Nullhypothese ausformuliert: Wenn sich beide Populationen nicht
+unterscheiden, mόsste bei (unendlich) vielen Stichproben aus beiden
+Populationen auch kein Unterschied zwischen den Mittelwerten der beiden
+SKVen bestehen.]
+
+Die eigentliche Formel lautet (ist eine Art z-Transformation fόr zwei
+Stichproben):
+
+                           [pic] df = n1 + n2 ( 2
+
+Denn im Nenner steht erneut nur der Standardfehler, nur diesmal fόr die
+Differenz aus beiden Stichproben.
+Und dieser Standardfehler berechnet sich aus dieser einfachen formschφnen
+Formel:
+
+                                    [pic]
+
+(Beide Versionen - also die obere und untere - sind mφgliche Abwandlungen.
+Die obere Version kann man anwenden, wenn beide Populationsvarianzen schon
+geschδtzt wurden.)
+
+Voraussetzungen (fόr einen t-Test fόr unabhδngige Stichproben):
+ . Die Verteilungen der Stichprobenmittelwerte sind NV, bei kleineren
+   Stichproben mόssen die Populationen (goodness-of-fit-Test) normalverteilt
+   sein.
+ . homogene Varianzen
+ . Unabhδngigkeit der Stichproben
+ . Gleiche Stichprobengrφίen (im Allgemeinen)
+
+Noch etwas: ab [pic] kann man auch in der z-Tabelle statt in der t-Tabelle
+nachsehen.
+
+
+Vergleich zweier Stichprobenmittelwerte aus abhδngigen Stichproben (t-
+Test):
+
+Abhδngig sind Stichproben, deren Elemente paarweise einander zugeordnet
+sind. Dies geschieht durch Messwiederholung oder Zuordnung
+(Parallelisierung) nach sinnvollen Kriterien:
+
+Beispiele fόr "paarweise" wδren:
+ . Intelligenz wird bei denselben Probanden zweimal erhoben und es soll
+   untersucht werden, ob sich der Intelligenztestwert von Messung zu Messung
+   verδndert hat (Messwiederholung).
+ . Intelligenz wird bei Zwillingen gemessen.
+ . Stichprobengruppen werden parallelisiert (matched samples)
+
+Beim t-Test fόr abhδngige Stichproben wird berόcksichtigt, dass die Varianz
+des ersten Messzeitpunktes die des zweiten beeinflusst (oder umgekehrt oder
+beides).
+Dadurch kφnnen Mehrfachmessungen (z.B. durch Vorwissen bei einem
+Wissenstest) vermieden werden.
+
+
+
+Voraussetzungen (fόr einen t-Test fόr abhδngige Stichproben)
+ . Die Stichprobenverteilung der mittleren Differenzen ist eine NV (uns
+   interessiert also nicht die Verteilung von Mittelwerten im mφglichst
+   vielen Stichproben, sondern die Verteilung der Differenzen der
+   Mittelwerte.).
+ . Bei kleineren Stichproben mόssen die Populationen normalverteilt sein.
+
+
+Die Hypothesen lauten:
+
+|ungerichtet             |rechtsseitig            |linksseitig             |
+|H0: [pic]               |H0: [pic]               |H0: [pic]               |
+|H1: [pic]               |H1: [pic]               |H1: [pic]               |
+
+
+Vorgehen:
+Zunδchst werden die Differenzen zwischen den Messwerten der ersten  und  der
+zweiten Erhebung berechnet:            di = xi1(xi2.
+
+Dann wird der Mittelwert der Differenzen berechnet:
+                   [pic], mit n: Anzahl der Messwertpaare.
+
+
+
+Dann der geschδtzte Standardfehler ermittelt:
+
+                                    [pic]
+
+
+Die eigentliche Formel lautet (ist eine Art z-Transformation ohne My, da
+[pic]):
+
+                 [pic], mit df = n(1 und dem Standardfehler
+
+
+
+Statistische Entscheidung (fόr alle t-Tests):
+
+|                  |ungerichtet       |rechtsseitig      |linksseitig       |
+|Annahme der H1,   ||temp|>|t(df;     |temp > t(df; 1(() |temp < t(df; ()   |
+|falls ...         |(/2)|             |                  |                  |
+
+
+Bei einem gerichteten t-Test fόr abhδngige Stichproben ist darauf zu
+achten, dass die inhaltliche und die statistische Alternativhypothese
+dieselbe Richtung behaupten; das hδngt davon ab, wie man die Differenzen
+bildet (der Fehler passiert bei Aufgabenblatt 10 in B2).
+
+Deswegen bei di = xi1(xi2 immer die H1-Werte bei x1 einsetzten (dann
+behaupten die inhaltliche und die statistische Alternativhypothese immer
+dieselbe Richtung.).
+
+
+
+|Aus Monte-Carlo-Studien geht hervor, dass der t-Test fόr abhδngige        |
+|Stichproben wie auch der t-Test fόr unabhδngige Stichproben δuίerst robust|
+|auf Verletzungen seiner Voraussetzungen reagiert.                         |
+|Bei einem t-Test fόr unabhδngige Stichproben geht das bei                 |
+|δhnlichen Grundgesamtheiten, mφglichst eingipflig und symmetrisch         |
+|groίen Stichprobenunterschieden, solange die Varianzen gleich sind.       |
+|                                                                          |
+|Bei einem t-Test fόr abhδngige Stichproben sollte                         |
+|die Korrelation positiv sein.                                             |
+
+
+Vergleich einer Stichprobenvarianz mit Populationsvarianz (chi2-Test fόr
+eine Varianz):
+
+Manchmal kann die Varianz einer Stichprobe stark von der der Population
+abweichen, der Mittelwert z.B. aber identisch sein. U.a. aufgrund dessen
+kann es interessant sein, Varianzvergleiche durchzufόhren.
+Der folgende Test - ein (2-Test fόr eine Varianz - όberprόft, ob eine
+Stichprobe aus einer Population mit der Varianz (2 = a stammt.
+
+Voraussetzung:
+ . Sofern die Messwerte (der Population & der Stichprobe) normalverteilt
+   sind, verteilt sich die Prόfgrφίe (=die eigentliche Formel) gemδί einer
+   (2-Verteilung mit n(1 Freiheitsgraden.
+
+Die Nullhypothese (ist immer so):
+                                  H0: [pic]
+
+Die Alternativhypothesen lauten:
+
+
+|              |ungerichtet          |rechtsseitig       |linksseitig       |
+|falls ...     |[pic]                |[pic]              |[pic]             |
+
+
+Vorgehen:
+Standardfehler ausrechen, Werte einsetzten nach folgender Formel.
+
+
+Die eigentliche Formel lautet:
+
+                            [pic], mit df = n(1.
+
+
+Statistische Entscheidung:
+
+|                  |ungerichtet       |rechtsseitig      |linksseitig       |
+|Annahme der H1,   |H1: (2 ( a        |H1: (2 > a        |H1: (2 < a        |
+|falls ...         |                  |                  |                  |
+
+
+Vergleich zweier Stichprobenvarianzen (F-Test):
+
+Der Vergleich von Stichprobenvarianzen mit der Populationsvarianz kommt in
+der Praxis nicht so hδufig vor. Es werden eher zwei Stichprobenvarianzen
+miteinander verglichen. Dies geschieht όber einen F-Test.
+
+Voraussetzungen
+ . Normalverteilung der Grundgesamtheiten,
+ . Unabhδngigkeit der Stichproben.
+
+Die Hypothesen lauten:
+                       [pic]
+                       [pic]  (ungerichtet)
+                       [pic]  (gerichtet)
+
+[Die H0 ausformuliert: es gibt keinen Unterschied in den
+Populationsvarianzen.]
+[Diese Hypothese wird nun anhand von Stichprobenvarianzen όberprόft.]
+
+
+Bei einem einseitigen Test (es kommen fast nur einseitige F-Tests vor)
+kommt die als grφίer erwartete Varianz in den Zδhler, bei einem
+zweiseitigen Test (selten) kommt die empirisch grφίere Varianz in den
+Zδhler.
+
+
+Die eigentliche Formel lautet:
+
+              [pic] mit dfZδhler = n1 ( 1 und dfNenner = n2 ( 1
+
+(Da die Populationsvarianzen nicht bekannt sind, schδtzen wir diese.)
+
+
+Statistische Entscheidung:
+
+|              |ungerichtet                   |gerichtet*                   |
+|falls ...     |Femp > Fn1(1, n2(1, 1((/2     |Femp > Fn1(1, n2(1, 1((      |
+|Annahme der   |H1: [pic]                     |H1: [pic]                    |
+|...           |                              |                             |
+
+* es gibt nur rechtsseitige gerichtete Hypothesen.
+
+Verfahren fόr Ordinaldaten:
+
+Werden in bei den Verfahren fόr Intervalldaten einige Voraussetzungen nicht
+erfόllt, oder hat man in der Untersuchung nur Rangreihen erhoben, muss man
+auf Verfahren fόr Ordinaldaten zurόckgreifen.
+Verfahren fόr Ordinaldaten sind "verteilungsfrei", sie vergleichen nur
+Relationen (= Ordinaldaten) = Rangdaten.
+
+Die folgenden Verfahren U-Test und Wilcoxon-Test, vorgestellt in den
+Punkten:
+
+
+      "Vergleich von zwei unabhδngigen Stichproben hinsichtlich ihrer
+      zentralen Tendenz" und
+      "Vergleich von zwei abhδngigen Stichproben hinsichtlich ihrer
+      zentralen Tendenz"
+
+sind Verfahren fόr Ordinaldaten.
+
+
+Randomisationstest nach Fisher:
+
+Da die hier vorgestellten Verfahren (U-Test & Wilcoxon-Test) auf der
+Randomisationsidee von Fisher basieren, wird diese kurz erklδrt (am
+Beispiel unabhδngiger Gruppen).
+Das ganze Verfahren steht nicht im Bortz (in B3-Folien) und ist auch nur
+als Einleitung gedacht.
+
+In einem Experiment wurden die Vbn zufδllig auf zwei Gruppen (EG und KG)
+aufgeteilt.
+Die H0 wδre: Die Daten stammen aus derselben Population.
+Fishers erstellet eine diskrete Verteilung einer interessierenden Prόfgrφίe
+(z.B. D = [pic]), die auf allen mφglichen Aufteilungen aller Messwerte auf
+die Gruppen basieren. Im Gegensatz zur normalen Stichprobenverteilung,
+konstruiert Fisher eine Verteilung von Prόfgrφίen, die auf Ziehungen ohne
+Zurόcklegen basiert.
+
+Konkret geht Fisher alle mφglichen Kombinationen durch und bildet pro
+Gruppe jeweils den Mittelwert. Dann subtrahiert er den einen Mittelwert vom
+anderen, und erhδlt eine Verteilung.
+                                    [pic]
+Diese Verfahren fόr Ordinaldaten erstellt also eine Hδufigkeitstabelle, an
+der man mit simpler Wahrscheinlichkeitsrechnung feststellen kann, wie groί
+die Irrtumswahrscheinlichkeit eines gemessenen Wertes ist.
+
+
+Vergleich von zwei unabhδngigen Stichproben hinsichtlich zentraler Tendenz
+(U-Test):
+
+Wenn wir die Beeintrδchtigung der Reaktionszeit unter Alkohol mit der
+Beeintrδchtigung der Reaktionszeit unter Alkohol unter Einnahme des
+Prδparates A (soll den negativen Effekt des Alkohols neutralisieren)
+vergleichen wollen, kφnnen wir nicht davon ausgehen, dass die
+Reaktionszeiten normalverteilt sind.
+Dementsprechend kφnnen wir nur ein Verfahren fόr Ordinaldaten anwenden, den
+sogenannten
+U-Test (der funktioniert auch fόr ungleich groίe Stichproben).
+Der U-Test ist so etwas δhnliches wie der t-Test fόr unabhδngige
+Stichproben
+
+Als Beispiel:
+Wir messen bei insgesamt 27 Personen die Reaktionszeiten, bei 12 unter
+Alkohol und bei 15 unter Alkohol unter Einnahme des Prδparates A.
+
+|Mit Alkohol                         |Mit Alkohol und Prδparat A          |
+|Reaktionszeit (ms)|Rangplatz         |Reaktionszeit (ms)|Rangplatz         |
+|85                |4                 |96                |10                |
+|106               |17                |105               |16                |
+|118               |22                |104               |15                |
+|81                |2                 |108               |19                |
+|138               |27                |86                |5                 |
+|90                |8                 |84                |3                 |
+|112               |21                |99                |12                |
+|119               |23                |101               |13                |
+|107               |18                |78                |1                 |
+|95                |9                 |124               |25                |
+|88                |7                 |121               |24                |
+|103               |14                |97                |11                |
+|                  |                  |129               |26                |
+|                  |                  |87                |6                 |
+|                  |                  |109               |20                |
+|                  |T1 = 172          |                  |T2 = 206          |
+
+Tx = Summe der Rangplδtze der Bedingung x               [pic] = 14,33
+[pic] = Durchschnitt (Mittelwert) der Rangplδtze             [pic] = 13,73
+
+
+Bestimmung des U-Wertes:
+Am Beispiel:
+Die erste Person in Gruppe 1 hat den Rangplatz 4. In Gruppe zwei gibt es 13
+Personen mit einem hφheren Platz. Die zweite Person in Gruppe 1 hat den
+Rangplatz 17, der von 5 aus Gruppe 2 όbertroffen wird.
+Die Summe der Rangplatzόberschreitungen ist der U-Wert (also hier:
+13+5+..... etc.).
+Die Summe der Rangplatzunterschreitungen wird mit U' bezeichnet: [pic]
+
+Da das zδhlen sehr langwierig ist, geht das auch mit dieser Formel:
+
+                                    [pic]
+
+Eingesetzt erhalten wir auf das Beispiel bezogen U = 86 und U' = 94. [U'
+erhδlt man, wenn man in der Formel im Zδhler n2 statt n1 und am Ende T2
+statt T1 benutzt.] [Zur Kontrolle kann man [pic] anwenden.]
+
+Wenn n1 oder n2 grφίer als 10 sind, sind die Werte annδhrend normal:
+Dann erfolgt die Ermittlung des Populationsmittelwertes und des
+Standardfehlers:
+
+                                 [pic] [pic]
+
+Die eigentliche Formel lautet dann:
+                                    [pic]
+
+Bei unserem Beispiel erhalten wir z = - 0,20
+Dann entnehmen wir der z-Tabelle, dass auf einem Alphaniveau von 5% dieser
+(negative) Wert kleiner ist als unser empirischer z-Wert => Beibehaltung
+der H0.
+
+Kleinere Stichproben:
+Bei kleineren Stichproben bestimmt man nur U und schaut dann in der U-
+Tabelle nach.
+
+Wichtig:
+ . Bei verbundenen Rangplδtzen (mehrere Personen auf einem Rangplatz) muss
+   die Streuung korrigiert werden (siehe Bortz S. 148)
+ . Beim U-Test muss bei ungerichteter Hypothese das Alphaniveau verdoppelt
+   werden.
+
+
+
+Vergleich von zwei abhδngigen Stichproben bzgl. ihrer zentralen Tendenz
+(Wilcoxon-Test):
+
+Der Wilcoxon-Test ist so etwas δhnliches wie der t-Test fόr abhδngige
+Stichproben.
+Zuerst wird die Differenz zwischen den zwei Messungen di (z.B. "vorher" &
+"nachher") ermittelt. Danach werden die Rangplδtze vom Betrag von di
+aufgestellt.
+Dann werden die Rangplδtze speziell gekennzeichnet, deren Vorzeichen (das
+Vorzeichen bei di) weniger vorkommt.
+Dann werden die Summen der speziell gekennzeichneten und der restlichen
+Rangplδtze aufgestellt.
+           T = Summe der speziell gekennzeichneten Rangplδtze
+           T' = Summe der restlichen Rangplδtze
+
+(Paare mit di = 0 bleiben unberόcksichtigt!)
+Verbundenen Rδngen (z.B. drei Personen auf Platz 2) werden gemittelte
+Rangplδtze vergeben.
+
+Wenn es keinen Unterschied gibt, erwarten wir als T-Wert (nicht t-Wert,
+sondern "T"):
+
+                                    [pic]
+
+n = Anzahl der Messwertpaare, wobei di = 0 unberόcksichtigt bleibt.
+
+Je deutlicher der empirische T-Wert (das ist "T") von [pic] abweicht, desto
+geringer ist die Chance, dass der gefundene Unterschied zufδllig zustande
+kam.
+
+Wenn wir die Summe der speziell gekennzeichneten Rangplδtze (T) ermittelt
+haben, schauen wir in der T-Tabelle (NEIN, NICHT t-Tabelle) beim kritischen
+Alphaniveau nach. Ist der T-Wert grφίer, mόssen wir die H0 beibehalten.
+
+
+Grφίere Stichproben:
+Bei Stichprobengrφίen n > 25 geht die T-Verteilung (auch jetzt NICHT t-
+Verteilung) in eine NV όber, so dass man mit der z-Tabelle arbeiten kann.
+Dazu muss nur noch die Streuung errechnet werden:
+
+                                    [pic]
+
+k = Anzahl der Rangbindungen und ti = Lδnge der Rangbindung i
+
+Und schon kann man die Formel
+                              [pic]     angewendet werden.
+
+(Diesen Formelwald muss man aber nicht kφnnen.)
+
+
+|Der Wilcoxon-Test setzt im Gegensatz zum U-Test Intervallskalenniveau     |
+|voraus. Trotzdem ist er ein Verfahren fόr Ordinaldaten. Wieso?            |
+|Der Wilcoxon-Test vergleicht Rδnge, er kommt im Prinzip mit Ordinaldaten  |
+|aus. Das Problem ist nur, dass er Rangplatzdifferenzen bildet, und so     |
+|Ordinaldatenniveau dafόr nicht mehr ausreicht.                            |
+|Trotzdem ist er jedoch ein nichtparametrisches Verfahren und wird somit   |
+|unter Verfahren fόr Ordinaldaten gehandelt.                               |
+
+
+
+
+Verfahren fόr Nominaldaten:
+
+Nominaldaten sind dann nφtig, wenn Hδufigkeitsunterschiede im Auftreten
+bestimmter Merkmale bzw. Merkmalskombinationen analysiert werden sollen
+Da in fast allen im Bortz in Kapitel 5.3 behandelten Verfahren
+Prόfstatistiken vermittelt werden, die (annδhrend) [pic]-verteilt sind,
+werden die Verfahren zur Analyse von Hδufigkeiten gelegentlich
+vereinfachend als [pic]-Methoden bezeichnet.
+
+[pic]-Verfahren dienen also der Analyse von Hδufigkeiten.
+
+[pic]-Verfahren kφnnen natόrlich auch fόr ordinal- und intervallskalierte
+Variablen eingesetzt werden, wenn die Hδufigkeit bestimmter Merkmale
+untersucht werden soll. Die Merkmale werden dann wie nominalskalierte
+Merkmale behandelt, und somit ist auch das Ordinal- oder
+Intervallskalenniveau im Eimer.
+
+ . Die erwarteten Hδufigkeiten reprδsentieren immer die jeweilige
+   Nullhypothese.
+
+
+
+
+
+
+                     άbersicht όber die [pic]-Verfahren
+
+|             |1 Merkmal                  |2 Merkmale   |M Merkmale        |
+|2fach gestuft|einmalige Untersuchung:    |4-Felder     |Konfigurationsanal|
+|             |eindimensionaler [pic]-Test|[pic]-Test   |yse fόr           |
+|             |                           |             |alternative       |
+|             |zweimalige Untersuchung:   |             |Merkmale          |
+|             |McNemar [pic]-Test         |             |                  |
+|             |mehrmalige Untersuchung:   |             |                  |
+|             |Cochran-Q-Test             |             |                  |
+|mehrfach     | eindimensionaler          |k ( l-(2-Test|Konfigurationsanal|
+|gestuft      |[pic]-Test: Vgl. einer     |             |yse fόr mehrfach  |
+|             |empirischen mit einer      |             |gestufte Merkmale |
+|             |theoretischen Verteilung   |             |                  |
+
+
+
+Vergleich der Hδufigkeit eines zweifach gestuften Merkmals
+(eindimensionaler chi2-Test):
+
+Einmalige Untersuchung:
+An einer Uni sind im Fach Psychologie 869 mδnnliche (Wer's glaubt, wird
+selig.) und 576 weibliche Studenten immatrikuliert.
+Kann man davon ausgehen, dass dieser Unterschied zufδllig zustande kam?
+
+Die Antwort auf diese Frage (und somit der ganze Rechenweg) ist davon
+abhδngig, wie die Nullhypothese formuliert ist. Fragen wir danach, ob das
+Verhδltnis mδnnlich/weiblich an der ganzen Uni so ist, oder, ob das
+Geschlechterverhδltnis im allgemeinen im Bereich Psychologie 50 : 50 ist.
+Um es (mir) einfacher zu machen, nehme ich die zweite Hypothese (50 : 50)
+an.
+
+Aufstellen der Hypothesen:
+          H0: Die empirische Verteilung entspricht der erwarteten
+          Verteilung.
+          H1: Die empirische Verteilung weicht von der erwarteten Verteilung
+          ab.
+
+Zeichenerklδrung:
+
+f      = Hδufigkeit
+[pic]  = beobachtete Hδufigkeit in Kategorie j und
+[pic]  = erwartete Hδufigkeit in Kategorie j,
+k      = Anzahl der Kategorien des Merkmals.
+pej    = erwartete Wahrscheinlichkeit des Merkmals j.
+
+
+Dann Abstimmung der erwarteten Hδufigkeiten:
+
+fej = pej ( n.
+
+D.h. bei unserem Beispiel wδre die Wahrscheinlichkeit fόr (z.B.) Mδnner
+50%, es gibt insgesamt 1445 Psychologiestudenten, also
+
+fej = 0,5 ( 1445 = 722,5
+
+
+Eigentliche Formel:
+                            [pic] mit df = k ( 1
+
+An dieser Formel erkennt man die Grundstruktur aller [pic]-Verfahren: Alle
+[pic]-Verfahren laufen auf einen Vergleich von beobachteten und erwarteten
+Hδufigkeiten hinaus, wobei die erwarteten Hδufigkeiten jeweils die geprόfte
+Nullhypothese reprδsentieren.
+
+Unsere Werte eingesetzt:
+                                    [pic]
+
+Feststellen der Freiheitsgrade:
+
+df = k - 1 es gibt 2 Kategorien (Mδnner/Frauen), also df = 1
+
+Die Freiheitsgrade eines [pic]-Wertes entsprechen der Anzahl der Summanden
+(wie viele Werte gibt es fόr fb? Hier zwei, nδmlich Mδnner und Frauen)
+abzόglich der Bestimmungsstόcke der erwarteten Hδufigkeiten, die aus den
+beobachteten Hδufigkeiten abgeleitet wurden (es gibt hier nur ein
+gemeinsames Bestimmungsstόck: der Stichprobenumfang n: Die Summe der
+beobachteten und erwarteten Hδufigkeiten ergibt jeweils n.).
+
+
+Feststellen von [pic]krit:
+                                    [pic]
+
+
+|Bei einer gerichteten Hypothese in einem [pic]-Verfahren wird das         |
+|Alphaniveau beim Nachschlagen in der Tabelle verdoppelt; soll heiίen: bei |
+|[pic] = 0,05 schlage ich in der Tabelle bei 10% nach.                     |
+|Das liegt daran, dass alle [pic]-Verfahren einseitig getestet werden, denn|
+|man betrachtet nur die rechte Seite der Verteilungen.                     |
+
+|Die άberprόfung einer gerichteten Hypothese ist bei [pic]-Verfahren nur   |
+|mφglich, wenn der resultierende [pic]-Wert einen Freiheitsgrad hat.       |
+|Deswegen kann man bei einer gerichteten Hypothese auch mit der STNV       |
+|testen, sofern man aus dem empirischen und kritischen [pic]-Wert die      |
+|Wurzel zieht.                                                             |
+|Das Ergebnis eines [pic]-Tests erhalten wir auch, wenn die Hδufigkeit der |
+|Alternative 1 (z.B. hier weiblich) όber die Binomialverteilung geprόft    |
+|wird.                                                                     |
+|Ab n < 10 ist das nφtig (bei zwei Merkmalen).                             |
+
+
+Entscheidung:
+Falls [pic], Beibehaltung der H0: Es ist davon auszugehen, dass die
+Verteilung des untersuchten Merkmals nicht von der unter der H0 erwarteten
+Verteilung abweicht.
+
+Entscheidung bei unserem Beispiel:
+[pic] ist bei uns 3,84; [pic] ist bei uns 59,41 => Annahme der H1
+
+
+Voraussetzungen:
+ . Jede untersuchte Einheit kann eindeutig einer Kategorie zugeordnet
+   werden.
+ . Die erwarteten Hδufigkeiten sind in jeder Kategorie grφίer als 5. Im
+   Falle von k = 2 sollten in jeder Kategorie 10 Elemente erwartet werden.
+
+
+
+
+Weitere tolle Modifikationen und Verfahren:
+
+Kontinuitδtskorrektur:
+Die Kontinuitδtskorrektur, auch Yates-Korrektur genannt, schδtzt [pic]
+besser, da Hδufigkeiten diskret, [pic]-Werte aber stetig verteilt sind.
+D.h. jedes [pic] wird um - 0,5 vermindert. Die Kontinuitδtskorrektur wirkt
+der Tendenz nach konservativ (schόtzt H0).
+
+Der McNemar-Test:
+Dieser Test wird bei zweimaliger Untersuchung und Prozentunterschieden
+benutzt, er berόcksichtigt nur diejenigen Fδlle, bei denen eine Verδnderung
+eingetreten ist.
+
+Der Cochran-Q-Test:
+ist eine Erweiterung des McNemar-Tests, gilt auch fόr mehrmalige
+Untersuchungen.
+Nur anzuwenden bei [pic]
+
+(Wer sich das alles - Kontinuitδtskorrektur, McNemar-Test & Cochran-Q-Test
+- antun mφchte: steht alles im Bortz auf S. 155-158)
+
+
+
+
+Vergleich der Hδufigkeit eines k-fach gestuften Merkmals (eindimensionaler
+chi2-Test):
+
+Diese Variation des eindimensionalen [pic]-Tests ist mit dem
+eindimensionalen [pic]-Test fόr zweifachgestufte Merkmale ziemlich
+identisch.
+
+Es gibt zwei Mφglichkeiten:
+     1. Test auf Gleichverteilung (z.B. je 50% Mδnner/Frauen) und
+     2. Test auf andere Verteilungsformen.
+
+Fόr beide Mφglichkeiten gilt:
+
+Die Formel ist mit dem des eindimensionalen [pic]-Test fόr zweifachgestufte
+Merkmale identisch, es gibt halt nur mehr Bedingungen j, ergo wird die
+Berechnung langwieriger.
+
+                             [pic], mit df = k(1
+
+Bei der Frage, ob sich Variable 1 von den anderen unterscheidet, wird von
+den Variablen 2 bis k der Durchschnitt gebildet (fungiert als fe) & mit
+Variable 1 (als fb) όber den (2 - Test verglichen.
+
+Die Voraussetzungen sind ebenso identisch, nur dass man bei weniger als
+fόnf erwarteten Hδufigkeiten pro Kategorie (wie beim eindimensionalen [pic]-
+Test fόr zweifachgestufte Merkmale) anstelle der Binomialverteilung nun
+eine
+Multinominalverteilung rechen sollte.
+
+All das oben genannt galt noch fόr beide Mφglichkeiten. Die erste
+Mφglichkeit ist hiermit abgeschlossen.
+
+
+Das Folgende bezieht sich auf:
+
+                     Tests auf andere Verteilungsformen.
+
+Sofern die H0 nicht behauptet, dass  eine Gleichverteilung vorherrscht
+(z.B. je 50% Mδnner/Frauen ), haben wir es mit Test fόr andere
+Verteilungsformen zu tun, denn
+es ergibt sich bei steigender Variablenanzahl eine theoretische Verteilung,
+die mit einer empirischen (beobachteten) Verteilung verglichen wird.
+
+|Der Vergleich einer empirischen mit einer theoretischen Verteilung heiίt  |
+|Goodness-of-fit-test!                                                     |
+
+Beim Goodness-of-fit-Test werden die erwarteten Hδufigkeiten aus einer
+theoretischen Verteilung abgeleitet:
+Man kann so z.B. prόfen, ob sich eine empirische Verteilung normalverteilt
+oder z.B. nach der Poisson-Verteilung verteilt.
+Der Goodness-of-fit-Test dient also z.B. der άberprόfung der Voraussetzung,
+dass Grundgesamtheit normalverteilt (H0: normalverteilt, H1: nicht
+normalverteilt)
+
+Problem: die H0 als "Wunschhypothese"
+wenn der (2 -Wert auf 5%-Niveau signifikant ist, heiίt das, dass die
+Wahrscheinlichkeit fόr eine Normalverteilung der Werte kleiner als 5% ist,
+wenn es nicht signifikant ist, bedeutet es lediglich, dass es mit mehr als
+5% Wahrscheinlichkeit normalverteilt ist - mehr nicht.
+Wir wollen aber die H0 "beweisen" (sonst will man normalerweise ja die H1
+"beweisen"), deshalb versucht man den Beta-Fehler mφglichst klein zu
+halten, nicht Alpha (ist wurscht).
+Da aber die Hypothese in diesem Fall nicht spezifisch ist, kann der Beta-
+Fehler nicht bestimmt werden, deswegen wird einfach der Alpha-Fehler enorm
+vergrφίert, z.B. auf 25%
+Wenn wir auf 25%tigem Alphaniveau testen und die H1 dann immer noch nicht
+signifikant ist, haben wir H0 gesichert.
+Beachtet: die H0 als Wunschhypothese beizubehalten, wird mit wachsendem
+Stichprobenumfang unwahrscheinlicher!
+
+
+Der Goodness-of-fit-Test:
+Zuerst werden die Daten in Kategorien eingeteilt, d.h. wenn wir einen Wert
+haben, kφnnen wir ihn in eine Kategorie packen. Ein gutes Beispiel wδren
+die gemessenen km/h der Wagen, eingeteilt in 10er-Kategorien, beginnend von
+60km/h bis (sagen wir mal) 220 km/h.
+(Das Ganze lδuft unter der H0, das unsere Kategorien normalverteilt sind.)
+
+Also eine Tabelle:
+
+|Intervall         |Beobachtete       |Erwartete         |[pic]             |
+|                  |Hδufigkeiten      |Hδufigkeiten      |                  |
+|60,0-69,9 km/h    |4                 |3                 |0,33              |
+|70.0-79,9 km/h    |10                |6                 |2,67              |
+|etc.              |etc.              |etc.              |etc.              |
+|                  |                  |                  |Die Summe davon   |
+|                  |                  |                  |ergibt den        |
+|                  |                  |                  |empirischen       |
+|                  |                  |                  |(2 -Wert          |
+
+Der kritische (2 -Wert  lautet ausgeschrieben (2(k(3, 1((),
+
+somit sind die Freiheitsgrade df = k - 3, wobei k die Anzahl der Kategorien
+angibt.
+
+
+Poisson-Verteilung:
+Bei einer Frage nach einer Poisson-Verteilung sind die Freiheitsgrade df =
+k - 2.
+Vom Prinzip lδuft es wie oben, nur werden die erwarteten Hδufigkeiten nach
+der Poisson-Verteilung ermittelt (Formel im Bortz S. 71; der Rest S. 161 &
+162)
+
+
+Vergleich der Hδufigkeiten von zwei alternativen Merkmalen (4-Felder-chi2-
+Test):
+
+Werden n voneinander unabhδngigen Beobachtungen nicht nur einer, sondern
+zwei Merkmalsalternativen zugeordnet, erhalten wir eine 4-Felder-
+Kontingenztafel bzw. eine bivariate Hδufigkeitsverteilung.
+Und schon sind wir bei einem 4-Felder-[pic]-Test.
+(den kann man auch schon k ( l-(2-Test nennen)
+
+Ein Beispiel: 100 Personen sollen auf die Merkmalsalternativen
+mδnnlich/weiblich und Brillentrδger/Nicht-Brillentrδger untersucht werden.
+
+|                  |mδnnlich          |weiblich          |                  |
+|mit Brille        |25                |10                |35                |
+|ohne Brille       |25                |40                |35                |
+|                  |50                |50                |100               |
+
+Jetzt gibt es zwei Mφglichkeiten:
+   1. Vorgegebene erwartete Hδufigkeiten und
+   2. Geschδtzte erwartete Hδufigkeiten
+
+
+Vorgegebene erwartete Hδufigkeiten:
+
+Dann kφnnte unsere vorgegebene H0 lauten:
+Brillentrδger = 30% in der Bevφlkerung
+Mδnner/Frauen ja 50% in der Bevφlkerung
+
+Dementsprechend wδhren unsere Wahrscheinlichkeiten
+p(Brille, Mann)  =0,15
+p(Brille, Frau)        =0,15
+p(ohne Brille, Mann)   =0,35
+p(ohne Brille, Frau)   =0,35
+
+Dann setzten wir das ein in folgende Formel:
+
+                                    [pic]
+
+und bekommen ein [pic]= 11,90
+Die Freiheitsgrade df = 2 x 2 - 1 = 3 df
+Dementsprechend ist unser kritisches [pic]= 11,34 => Annahme der H1, Frauen
+tragen weniger Brillen, Mδnner mehr Brillen als erwartet.
+
+
+
+Geschδtzte erwartete Hδufigkeiten:
+
+Beim 4-Felder-(2-Test entsprechen die erwarteten Zellenhδufigkeiten den  bei
+stochastischer Unabhδngigkeit zu erwartenden:
+                                    [pic]
+
+Der Rest lδuft wie bei vorgegebenen Nullhypothesen, nur sind die
+Freiheitsgrade df = 1 df.
+Dementsprechend ist auch das kritische [pic] anders.
+Auch hier wird όbrigens die H1 angenommen (Bortz S. 164)
+
+
+Kontinuitδtskorrektur:
+Auch hier ist eine Kontinuitδtskorrektur nach Yates mφglich
+
+Prozentunterschiede:
+laufen genauso wie beim eindimensionalen [pic]-Test
+
+
+
+Vergleich der Hδufigkeiten von zwei mehrfach gestuften Merkmalen (k x l-
+chi2-Test):
+
+Im vorherigen Punkt waren beide Merkmale jeweils zweifach gestuft. Beim k (
+l-(2-Test ist die Anzahl der Stufen unwichtig
+Das Merkmal A ist k-fach gestuft und das Merkmal B l-fach.
+
+Der k(l-(2-Test όberprόft die Alternativhypothese:
+ . H1, dass zwischen zwei Merkmalen ein irgendwie gearteter Zusammenhang
+   besteht,
+
+gegen die  Nullhypothese
+ . H0, dass es zwischen den beiden Merkmalen keinen Zusammenhang gibt bzw.
+   die Merkmale stochastisch unabhδngig sind.
+
+
+Das Verfahren lδuft wie beim 4-Felder-[pic]-Test:
+
+                                    [pic]
+
+Beim k(l-(2-Test entsprechen die erwarteten Zellenhδufigkeiten den bei
+stochastischer Unabhδngigkeit zu erwartenden:
+                                    [pic]
+
+Freiheitsgrade:
+Bei geschδtzten erwarteten Hδufigkeiten:     df = (k ( 1)( (l ( 1)
+Bei vorgegebenen erwarteten Hδufigkeiten:    df = (k ( 1)( (l ( 1) - 1
+
+
+Entscheidung
+Falls [pic], Entscheidung fόr die H1: Es ist davon auszugehen, dass die
+Variablen voneinander stochastisch (irgendwie) abhδngig sind.
+
+Voraussetzungen
+ . Jede untersuchte Einheit kann eindeutig den Kategorien (Zellen)
+   zugeordnet werden.
+ . Die erwarteten Hδufigkeiten sind alle grφίer als 5.
+
+
+Der k(l-(2-Test und der 4-Felder-[pic]-Test lassen sich auch mit
+Prozentwerten durchfόhren.
+
+
+
+Vgl. d. Hδufigkeiten von m alternativ/mehrf. gestuften Merkmalen
+(Konfigurationsanalyse):
+
+Verallgemeinern wir das 4-Felder [pic] auf m alternative Merkmale, erhalten
+wir eine mehrdimensionale Kontingenztafel, die mit der
+Konfigurationsanalyse analysiert werden kann.
+
+Ein Beispiel:
+Wir όberprόfen, ob Frauen, die in der Stadt leben, όberzufδllig berufstδtig
+sind ([pic] = 0.01).
+
+Also haben wir drei alternative Merkmale (m = 3):
+                       A= Stadt (+) vs. Land ( - )
+                       B = mδnnlich (+) vs. weiblich ( - )
+                       C = berufstδtig (+) vs. nicht berufstδtig ( - )
+
+|Merkmal                             |Hδufigkeiten                        |
+|           |           |           |           |           |[pic]      |
+|A          |B          |C          |fb         |fe         |           |
+|+          |+          |+          |120        |86,79      |12,71      |
+|+          |+          |-          |15         |63,33      |36,88      |
+|+          |-          |+          |70         |95,32      |6,73       |
+|+          |-          |-          |110        |69,56      |23,51      |
+|-          |+          |+          |160        |89,54      |55,45      |
+|-          |+          |-          |10         |65,34      |46,87      |
+|-          |-          |+          |20         |98,35      |62,42      |
+|-          |-          |-          |135        |71,77      |55,71      |
+|           |           |           |nb = 640   |ne = 640   |[pic] =    |
+|           |           |           |           |           |300,28     |
+
+Die erwarteten Hδufigkeiten werden geschδtzt mit:
+
+                                    [pic]
+
+In unserem Beispiel lauten die Summen
+
+      A(+) = 315 B(+) = 305 C(+) = 370
+      A(-) = 325 B(-) = 335 C(-) = 270
+
+(z.B. fe(+++) = 315 x 305 x 370 / 6402 = 86,79)
+
+
+Freiheitsgrade: df = 1 df
+
+Der kritische Wert (5,43) ist kleiner als der Empirische (6,73) fόr unsere
+These, dass in der Stadt mehr Frauen berufstδtig sind.
+Da das aber unsere H0 war, mόssen wir nun die H0 annehmen bzw. beibehalten
+(nicht davon verwirren lassen, ist ein Fehler bei der
+Hypothesenaufstellung).
+
+
+
+Allgemeine Bemerkungen zu den chi2-Techniken:
+
+[pic]-Techniken gehφren - von der Durchfόhrung her - zu den einfachsten
+Verfahren der Elementarstatistik, wenngleich der mathematische Hintergrund
+dieser Verfahren komplex ist.
+Mit Hilfe der [pic]-Verfahren werden die Wahrscheinlichkeiten
+multinominalverteilter Ereignisse geschδtzt (wobei die Schδtzung erst bei
+[pic] exakt όbereinstimmen).
+
+Deshalb sollte beachtet werden:
+ . Die einzelnen Beobachtungen mόssen voneinander unabhδngig sein (Ausnahme:
+   McNemar- & Cochran-Test)
+ . Jede untersuchte Einheit muss eindeutig einer Kategorie zugeordnet werden
+   kφnnen.
+ . Nicht mehr als 20% der erwarteten Hδufigkeiten in den Kategorien sollten
+   kleiner als 5 sein.
+
+
+
+Verfahren zur άberprόfung von Zusammenhangshypothesen:
+
+Die Verfahren zur άberprόfung von Zusammenhangshypothesen haben der u.a.
+psychologischen Forschung so viel Impulse wie kein anderes statistisches
+Verfahren verliehen.
+Zusammenhδnge sind in der Mathematik und in den Naturwissenschaften
+bekannt, z.B. verδndert sich der Umfang eines Kreises proportional zu
+seinem Umfang.
+Solche exakten, funktionalen Zusammenhδnge haben wir in der Psychologie
+nicht. Deswegen sprechen wir von stochastischen (zufallsabhδngigen)
+Zusammenhδngen, die nach Hφhe des Zusammenhangs unterschiedlich prδzise
+Vorhersagen zulassen.
+(Bei einer Korrelation von +1 oder -1 geht unser stochastischer
+Zusammenhang όber in einen funktionalen, deterministischen Zusammenhang.)
+
+|Im Kapitel "Merkmalszusammenhδnge & -vorhersagen" habe ich einige Punkte  |
+|aus dem 6. Kapitel im Bortz vorgezogen - also bitte nicht wundern, wenn   |
+|jetzt was "fehlt". Die behandelten Punkte waren, bezogen auf die          |
+|Bortz-Unterkapitel:                                                       |
+|6.1 Lineare Regression, dabei: Kovarianz und Regression                   |
+|6.2.1 Kovarianz und Korrelation, dabei: Produkt-Moment-Korrelation;       |
+|Korrelation und Regression; Beobachtete, vorhergesagte und Residualwerte; |
+|Determinationskoeffizient                                                 |
+|6.4 Korrelation und Kausalitδt                                            |
+
+
+
+Die Statistische Absicherung von linearen Regressionen:
+
+Regressionsgleichungen werden auf der Grundlage einer reprδsentativen
+Stichprobe bestimmt, um sie auch auf andere Untersuchungseinheiten, die zur
+selben Population gehφren, anwenden zu kφnnen.
+Das bedeutet aber, dass eine (auf Basis einer Stichprobe gebildete)
+Regressionsgleichung generalisierbar sein muss. Aus dieser Population
+kφnnen wir eine durch (unendlich) viele Stichproben wieder eine SKV bilden.
+Je grφίer aber die Streuung (der Standardfehler) dieser SKV ist, desto
+weniger werden die Werte einer einzelnen Stichprobe (hier: einer einzelnen
+Regressionsgerade) die Regressionsgerade der Population vorhersagen kφnnen.
+Die nach der Methode der kleinsten Quadrate ermittelte Regressionsgleichung
+stellt nur eine Schδtzung der folgenden, in der Population gόltigen,
+Regressionsgerade dar:
+
+                                    [pic]
+[pic] kennzeichnet hierbei einen [pic]-Wert, der aufgrund der Populations-
+Regressionsgleichung vorhergesagt wurde.
+
+|Wichtig: nicht die Punktabstδnde zur Geraden minimieren, sondern die      |
+|Abstδnde in y-Richtung, damit fόr die Vorhersage x auf y optimiert,       |
+|deswegen gibt es fόr eine Regression von y auf x auch andere Koeffizienten|
+|a & b.                                                                    |
+
+Voraussetzungen:
+Unsere SKV verteilt sich (gemδί Abb. 6.7 im Bortz S. 183) als bivariate
+Hδufigkeitsverteilung:
+   a. Die Verteilung der x-Werte muss fόr sich genommen normal sein.
+   b. Die Verteilung der y-Werte muss fόr sich genommen normal sein.
+   c. Die zu einem x-Wert gehφrenden y-Werte (Arrayverteilungen)* mόssen
+      normalverteilt sein.
+   d. Die Mittelwerte der Arrayverteilungen mόssen auf einer Gerade liegen.
+
+* Ein Arrayverteilung von y-Werten (zu natόrlich jeweils zu einem x-Wert
+gehφren) bedeutet, das bei nicht perfektem Zusammenhang gleiche
+Untersuchungen eines bestimmten x-Merkmals verschiedene y-Merkmale
+aufweisen.
+
+
+Die Genauigkeit der Regressionsvorhersagen:
+Die Genauigkeit der Regressionsvorhersagen wird durch den
+Standardschδtzfehler (STSF) bestimmt. (Formel siehe Bortz S. 185)
+Der Standardschδtzfehler kennzeichnet die Streuung der y-Werte um die
+Regressionsgerade und ist damit ein Gόtemaίstab fόr die Genauigkeit der
+Regressionsvorhersagen. Die Genauigkeit einer Regressionsvorhersage wδchst
+mit kleiner werdendem Standardschδtzfehler.
+
+
+
+Determinanten der Vorhersagegenauigkeit (durch Konfidenzintervalle):
+
+Durch Konfidenzintervalle kann man die Vorhersagegenauigkeit einzelner
+Punkt um und auf einer Regressionsgeraden bestimmen.
+
+                            y                     Regressionsgerade
+
+
+
+
+Konfidenzintervalluntergrenze
+
+      Konfidenzintervall-
+   obergrenze
+
+
+                                                                        x
+
+                       Bestimmung der Grφίe des Konfidenzintervalls (KI):
+                    57. Je kleiner der Konfidenzkoeffizient ([pic]), desto
+                        kleiner KI
+                    58. Je kleiner der Standardschδtzfehler (STSF), desto
+                        kleiner KI.
+                    59.  Je kleiner n, desto grφίer KI.
+                    60. Je kleiner die Varianz x (y ist im STSF), desto
+                        kleiner KI.
+
+
+Nonlineare Regression:
+
+Gelegentlich erwartet man, dass eine nicht-lineare Beziehung eine bessere
+Vorhersage macht als eine lineare Beziehung. Als Beispiel mit einer nicht-
+und einer linearen Regression:
+
+
+|X     |1          |1          |2          |2          |4          |4          |
+|Y     |1          |3          |7          |9          |6          |8          |
+
+                                    [pic]
+Hier dόrfte die nicht-lineare Beziehung die Punkte besser vorhersagen
+(Grafik aus den B3-Folien, leicht abgewandelt)
+
+
+Varianten (einige ausgewδhlte):
+
+Umgekehrt U-fφrmige Beziehung (Bortz S. 189):
+Eine umgekehrt U-fφrmige bzw. parabolische Beziehung wird durch eine
+quadratische Regressionsgleichung oder ein Polynom 2. Ordnung modelliert.
+
+                                    [pic]
+
+Polynome hφherer Ordnung:
+Ein (umgekehrt) S-fφrmiger Zusammenhang lδsst sich durch eine kubische
+Regressionsgleichung bzw. ein Polynom 3. Ordnung anpassen:
+
+                                    [pic]
+
+
+Nonlineare Zusammenhδnge, die όber ein Polynom 3. Ordnung hinausgehen,
+kφnnen in der u.a. psychologischen Forschung nur sehr selten begrόndet
+werden. Die Aufstellung eines solchen Polynoms kann bestenfalls ex post (=
+ohne theoretische Vorannahmen) sinnvoll sein.
+[Die Regressionsgleichung wird einfach um weitere b und x erweitert, wobei
+der Exponent pro weiterem b um 1 erhφht wird.]
+
+
+Linearisierung:
+άber Logarithmierung kann man die Funktion von Gleichungen ermitteln.
+Geht man von einem exponentiellen Zusammenhang von zwei Variablen aus,
+erhδlt man die Gleichung:
+                 [pic]
+
+Durch Logarithmierung (siehe Bortz S. 192) gelangt man schlussendlich zu
+folgender Gleichung:
+
+                                    [pic]
+Was verteufelt wie eine lineare Regression aussieht.
+
+[Ganz exakt sind die so ermittelten Regressionskoeffizienten leider nicht,
+sie unterscheiden sich von denen, die wir mit der Methode der kleinsten
+Quadrate ermitteln wόrden.]
+
+----------------------------------------------------------------------------
+---------------------------------
+
+
+
+Interpretationshilfen fόr r:
+
+Angenommen ein Schulpsychologo ermittelt eine Korrelation von r = 0,60
+zwischen Abiturschnitt (y) und Intelligenzquotienten (x).
+Was bedeutet diese Zahl?
+Um das zu veranschaulichen, dichotomisieren wir beide Variablen am Median
+und erhalten eine 4-Felder-Tafel.
+(dichotom = ein Merkmal mit nur zwei Ausprδgungen, z.B. Geschlecht. Man
+kann aber auch intervallskalierte Daten dichotomisieren, d.h. zweiteilen.
+D.h. hier teilen wir am Median in zwei Hδlften.)
+Wenn wir dem Schulpsychologen jetzt auftragen, mal zu schδtzen, wie sich
+die Abiturschnitte und IQs bei 200 Schόlern verteilen, wenn er am Median
+teilen soll, so werden bei keinem Zusammenhang (r = 0) je 50 Schόler pro
+Kategorie verteilt sein.
+Aber es verteilt sich so bei r = 0,60:
+
+|              |              |Abischnitt (y)               |              |
+|              |              |< Mdy         |> Mdy         |              |
+|              |< Mdx         |80            |20            |100           |
+|IQs (x)       |              |              |              |              |
+|              |> Mdx         |20            |80            |100           |
+|              |              |100           |100           |200           |
+
+
+Wieso?
+Bei zwei symmetrischen, mediandichotomisierten Merkmalen gibt r an, um wie
+viel der Fehler minimiert wird.
+Im Beispiel betrug der Fehler bei Zufallsverteilung (je 50 n pro Kategorie)
+50% Diese 50% reduziert um r = 0,60 bzw. 60% von 50 = 30. Diese 30 werden
+einer Korrelation von r = 0,60 nicht mehr falsch eingeordnet, sondern
+richtig, d.h.
+Die Fehler (50%), die wir bei der Vorhersage von x durch y machen (groίes y
+= groίes x), werden bei einer Korrelation von 0,60 um 30 % vermindert.
+
+Mehr Infos Bortz S. 201/202.
+
+
+k-fach gestufte Merkmale:
+
+Diese Variante ist einfach eine Erweiterung der 4-Felder-Matrix um weitere
+Kategorien.
+Eine Besonderheit dabei ist, dass grφίere Abweichungen um mehrere
+Kategorien stδrker "bestraft" werden als andere. Vom Prinzip wie die 4-
+Felder-Matrix, jedoch aufwendiger zu rechnen.
+Wer mehr wissen will: Steht alles im Bortz auf S. 203/204.
+
+
+Korrelation fόr nonlineare Zusammenhδnge:
+
+Der Zusammenhang zwischen nonlinearen Variablen lδsst sich ermitteln, indem
+man die Varianz der vorhergesagten Werte durch die Varianz der
+tatsδchlichen Werte teilt:
+                                    [pic]
+
+
+άberprόfung von Korrelationshypothesen:
+
+Wird aus einer bivariaten, intervallskalierten Grundgesamtheit eine
+Stichprobe gezogen, kann ein Korrelationskoeffizienz r berechnet werden. Er
+zeigt den linearen Zusammenhang zwischen den zwei Merkmalen an, bzw.,
+quadriert (r2), den Anteil gemeinsamer Varianz.
+
+Voraussetzungen:
+Grundgesamtheit bivariat normalverteilt
+Kovarianz & Korrelation der Grundgesamtheit bekannt
+Die einzelnen Merkmalsstufenkombinationen mόssen voneinander unabhδngig
+sein.
+
+Die ganzen Voraussetzungen sind aber ein bisschen schwierig zu erfόllen
+(siehe Bortz S.205), dementsprechend beschrδnkt man sich darauf, dass beide
+einzelnen Merkmale NV sind, die Arrayverteilungen Normalverteilt sind und
+die Varianzen der Arryverteilungen homogen ist.
+
+Wenn man diese Voraussetzungen missachtet, muss man mit grφίerem Alpha- und
+Beta-Fehler rechnen. Trotzdem ist der Test relativ robust.
+
+Signifikanztest:
+Ob eine empirisch ermittelte Korrelation r mit der Hypothese
+
+H0: ( = 0
+
+zu vereinbaren ist, lδsst sich mit folgender Prόfgrφίe testen:
+
+                            [pic], mit df = n(2.
+
+Ab n > 3 kann man zeigen, dass der Ausdruck bei df = n - 2 t-verteilt ist.
+
+Entscheidung:
+
+|              |ungerichtet          |rechtsseitig       |linksseitig       |
+|falls ...     ||temp|>|t(df; (/2)|  |temp > t(df; 1(()  |temp < t(df; ()   |
+|Annahme ...   |H1: ( ( 0            |H1: ( > 0          |H1: ( < 0         |
+
+Fόr den zweiseitigen Test einer Korrelation sind in der Tabelle D (Bortz
+1999, S. 775) kritische Wert fόr ( = 0,05 und ( = 0,01 angegeben. Diese
+Werte erhδlt man, wenn man obige Prόfgrφίe nach r auflφst:
+                                   [pic].
+
+
+Fischers Z-Transformation:
+
+Besteht in der Grundgesamtheit ein Zusammenhang [pic], erhalten wir fόr
+(theoretisch unendlich) viele Stichproben eine rechts- ([pic] > 0) oder
+linkssteile ([pic] < 0) SKV der Korrelationen.
+Eine Nullhypothese mit einem [pic] kann somit nichts mehr messen (da
+asymmetrisch).
+
+Diese rechts- oder linkssteile Verteilung lδsst sich durch Fishers Z-
+Transformation wieder in Normalverteilung transformieren:
+                      [pic] aufgelφst nach r      [pic]
+
+wobei ln = Logarithmus zur Basis [pic].
+Je weiter [pic] von +/-1 entfernt und je grφίer n ist, desto
+normalverteilter ist die Kurve nach Fischers Z-Transformation
+Weiterhin sind die transformierten Werte Teil einer Verhδltnisskala (fester
+Nullpunkt), man kann nδmlich bei einer Korrelation nicht davon ausgehen,
+dass der Zusammenhang bei r = 0,4 halb so groί ist wie bei r = 0,8!
+
+Wenn es transformiert wird zeigt sich: die Zuwachsraten im oberen
+Korrelations-Bereich sind bedeutsamer.
+Auch Mittelwerte & Varianzen von einer Korrelation sind nicht
+interpretierbar, sofern sie nicht transformiert wurden.
+
+Bei Mittelwertsbildung von (z.B. 3) Korrelationen also erst transformieren,
+dann Mittel der Fisher-Z-Werte bilden, dann dieses Mittel
+rόcktransformieren:
+Dabei werden hφhere Korrelationen stδrker berόcksichtigt als niedrige.
+
+
+Es gibt mehrere Variationsmφglichkeiten von Fischers Z-Transformation, sie
+stehen im Bortz auf den Seiten 210 - 214. Wen es interessiert, der mφge es
+nachschlagen.
+Ich glaube aber nicht, dass das fόr die Prόfung in irgendeiner Form
+relevant sein kφnnte.
+
+
+
+Spezielle Korrelationstechniken:
+
+Unter dem Punkt "άberprόfung von Korrelationshypothesen" ging es um die
+Produkt-Moment-Korrelation zweier intervallskalierter Merkmale.
+Das Ganze geht aber natόrlich auch mit ordinal- und nominalskalierten sowie
+dichotomen Merkmalen.
+
+άbersicht der bivariaten Korrelationsarten:
+
+|                  |Merkmal x                                              |
+|                  |                                                       |
+|Merkmal y         |                                                       |
+|                  |Intervallskala    |dichotomes Merkmal|Ordinalskala      |
+|Intervallskala    |Produkt-Moment-Kor|Punkt-biseriale   |Rangkorrelation   |
+|                  |relation          |Korrelation       |                  |
+|dichotomes Merkmal|-                 |[pic]-Koeffizient |Biseriale         |
+|                  |                  |                  |Rangkorrelation   |
+|Ordinalskala      |-                 |-                 |Rangkorrelation   |
+
+Dazu gibt es noch den Kontingenzkoeffizienten, der den Zusammenhang zweier
+nominalskalierter Merkmale bestimmt. Da dieser Koeffizient aber kein
+Korrelationsmaί im engeren Sinn darstellt, ist er nicht in der Tabelle.
+
+
+I.) Korrelation zweier Intervallskalen:
+Berechnung der Produkt-Moment-Korrelation, siehe "άberprόfung von
+Korrelationshypothesen"
+
+
+
+
+II.) Korrelation einer Intervallskala mit einem dichotomen Merkmal:
+
+A.) Punktbiseriale Korrelation:
+Ein Zusammenhang zwischen einem dichotomen Merkmale (z.B.
+mδnnlich/weiblich) und einem intervallskalierten Merkmal (z.B.
+Kφrpergewicht) wird durch eine punktbiseriale Korrelation (auch Produkt-
+Moment-biseriale Korrelation genannt) erfasst.
+
+Eine punktbiseriale Gleichung erhδlt man, wenn die Werte 0 und 1 fόr die
+beiden dichotomen Variablen in die Produkt-Moment-Korrelations-Gleichung
+eingesetzt werden.
+Dadurch vereinfacht sich die Korrelationsformel:
+
+                                    [pic]
+wobei
+n0, n1      =    Anzahl der Untersuchungseinheiten in den
+Merkmalskategorien x0 und x1.
+[pic], [pic]     =     durchschnittliche Ausprδgung des Merkmals y
+      (Kφrpergewicht) bei den
+           Untersuchungseinheiten x0 (Mδnner) und x1 (Frauen).
+n = n0 + n1 =    Gesamtstichprobe
+sy    =     Streuung der kontinuierlichen y-Variablen
+
+
+Die Signifikanzόberprόfung ( H0: [pic] = 0) erfolgt wie bei der Produkt-
+Moment-Korrelation durch:
+
+                                    [pic]
+
+Der so ermittelte t-Wert ist mit n - 2 Freiheitsgraden versehen und in der
+t-Tabelle mit tkrit verglichen.
+
+|Die punktbiseriale Korrelation entspricht ( als Verfahren zur άberprόfung |
+|von Zusammenhangshypothesen) dem t-Test fόr unabhδngige Stichproben ( als |
+|Verfahren zur άberprόfung von Unterschiedshypothesen).                    |
+
+
+B.) Biseriale Korrelation:
+Bei einem kόnstlich dichotomisierten Merkmal und einem intervallskalierten
+Merkmal wird eine biseriale Korrelation (rbis) durchgefόhrt.
+Biseriale Korrelation (rbis) und Punktbiseriale Korrelation (rpb) hδngen
+statistisch zusammen.
+Es gibt auch noch triseriale und polyseriale Korrelation
+Das steht alles im Bortz auf S. 216-218
+
+III.) Korrelation einer Intervallskala mit einer Ordinalskala:
+Richtige Verfahren hierfόr gibt es (noch) nicht. Fόr die Praxis:
+Herabstufung der Intervallskala auf Ordinalskalenniveau, Anwendung der
+Korrelation zweier Ordinalskalen.
+
+IV.) Korrelation fόr zwei dichotome Variablen:
+Wenn die Merkmale x und y jeweils dichotom sind, kann ihr Zusammenhang
+durch den
+Phi-Koeffizienten ([pic]) ermittelt werden
+
+Da es nur 4 Hδufigkeiten gibt...
+
+|              |              |Merkmal (y)                  |              |
+|              |              |0             |1             |              |
+|              |0             |a             |b             |              |
+|Merkmal (x)   |              |              |              |              |
+|              |1             |c             |d             |              |
+|              |              |              |              |              |
+
+....ist die Berechnung von [pic]einfach:
+
+                                    [pic]
+
+Es gibt einen engen Zusammenhang mit dem 4-Felder-(2, deshalb
+Signifikanzprόfung mittels
+
+                              [pic] mit df = 1
+
+Der Zusammenhang zwischen dem 4-Felder-(2 und Phi-Koeffizienten:
+
+                                    [pic]
+
+Achtung:
+Der (-Koeffizient liegt nur im όblichen Wertebereich von -1 bis +1, wenn
+die Aufteilung der Stichprobe in Alternativen von x der in die Alternativen
+von y entspricht, also bei identischen Randverteilungen.
+Ansonsten gibt es einen geringerer (maximal -Wert (ist mit Formel
+berechenbar)
+
+Bei der Bestimmung von (max ist darauf zu achten, dass
+das Vorzeichen von (max mit dem (emp von όbereinstimmt.
+das Vorzeichen von (max beliebig ist.
+
+|Gelegentlich versuchen Einige die Aufwertung eines empirischen (-Wertes am|
+|(max , um es vergleichbar mit der Produkt-Moment-Korrelation zu machen,   |
+|das ist aber fragwόrdig, da auch die Produkt-Moment-Korrelation nur bei   |
+|identischen Randverteilungen einen Wertebereich von                       |
+|-1 bis +1 aufweist.                                                       |
+
+Sind beide Variablen kόnstliche Dichotomien , arbeitet man mit einer
+Tetrachorischen Korrelation. (siehe Bortz S. 220/221)
+
+
+V.) Korrelation eines dichotomen Merkmals mit einer Ordinalskala:
+Die Korrelation eines dichotomen Merkmals mit einer Ordinalskala - auch
+biseriale Rangkorrelation (rbisR) genannt - wird berechnet, wenn ein
+Merkmal (x) in kόnstlicher oder natόrlicher Dichotomie vorliegt und das
+andere Merkmal (y) rangskaliert. (δhnlich dem U-Test)
+
+                                    [pic]
+wobei
+[pic] =     durchschnittlicher Rangplatz der zu x1 gehφrenden
+Untersuchungseinheiten
+[pic] =     durchschnittlicher Rangplatz der zu x2 gehφrenden
+Untersuchungseinheiten
+n =   Umfang der Stichprobe
+
+Der kritische Wert wird - bei hinreichend groίen Stichproben - mit dem U-
+Test berechnet:
+
+                                    [pic]
+
+
+VI.) Korrelation zweier Ordinalskalen (Spearman's Rho):
+Der Zusammenhang zweier ordinalskalierter Merkmale wird durch die
+Rangkorrelation nach Spearman (rs oder [pic] )erfasst.
+
+Eigentliche Formel:                          Errechnung des kritischen
+Wertes ab [pic]
+      [pic]            [pic] df = n - 2
+
+                   (Dieselbe Formel wie bei der punktbiserialen Korrelation)
+bei verbundenen Rδngen gibt es Modifikationen (Bortz S. 224)
+
+
+VII.) "Korrelation" zweier Nominalskalen (Kontingenzkoeffizient):
+Das bekannteste Maί zur Berechnung des Zusammenhangs zweier Nominalskalen
+ist der Kontingenzkoeffizient C.
+Dieser Test hδngt eng mit dem k ( l-(2-Test zusammen, mit dem wir auch die
+H0 όberprόfen, ob zwei nominalskalierte Merkmale stochastisch unabhδngig
+sind.
+
+Eigentliche Formel:
+                                    [pic]
+wobei (2 = -(2Wert des k ( l-(2-Tests.
+
+-----------------------
+[pic]
+
+[pic]
+
+X2
+
+[pic]
+
+[pic]
+
+ ((X + ΅
+
+df ([pic]
+
+ X1 + ... + Xn
+
+ X1 + ... + Xn
+
+                                      F
+                                    x > 0
+                                  df1, df2
+
+                                     (2
+                                    x > 0
+                                     df
+
+                                  Standard-
+                                 normal (z)
+                             ([pic] < x < [pic]
+
+                                   Normal
+                             ([pic] < x < [pic]
+                                    ΅, (
+
+[pic]
+
+                                      t
+                             ([pic] < x < [pic]
+                                     df
+
+
+
+
+
+
+
+

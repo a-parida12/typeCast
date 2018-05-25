@@ -1,0 +1,78 @@
+
+Mathematische Formeln in der Physik
+
+Ein Ziel der Physik ist  es,  Gesetzmδίigkeiten  in  Natur  und  Technik  zu
+erkennen  und  diese  mφglichst  prδzise  festzuhalten.  Dazu  eignen   sich
+insbesondere mathematische Formeln,  in  denen  physikalische  Grφίen  (z.B.
+Masse, Lδnge, ...) zueinander in Beziehung gesetzt  werden.  In  der  Physik
+leitet man Formeln entweder deduktiv (aus schon bekannten Theorien) ab  oder
+man stellt sie empirisch  (d.h.  durch  Beobachtung,  Experimente,  "Raten",
+nδherungsweises Anpassen) auf.
+
+Besonders   wichtig   dabei   ist   das   Finden   und    Formulieren    von
+Proportionalitδten.
+   a) direkte Proportionalitδt: Zwei  physikalische  Grφίen  a  und  b  sind
+      direkt      proportional,      wenn      gilt:       [pic]       (k...
+      Proportionalitδtskonstante). Je grφίer b ist, desto grφίer ist  a  und
+      umgekehrt.
+   b) indirekte Proportionalitδt: Zwei physikalische Grφίen  a  und  b  sind
+      zueinander indirekt proportional, wenn gilt:  [pic]  .  Je  grφίer  b,
+      desto kleiner ist a und umgekehrt.
+
+
+1. Interpretieren von Formeln
+Will man eine physikalische Formel in Worten  ausdrόcken,  bieten  sich  Je-
+Desto-Sδtze an,  die  vorhandene  Proportionalitδten  zwischen  den  in  der
+Formel vorkommenden Grφίen formulieren. Lautet eine Formel  z.B.  [pic],  so
+weiί  man:  Vergrφίert  man  t  oder  u  (und  lδsst  die   anderen   Grφίen
+unverδndert), so vergrφίert sich auch s. Je grφίer allerdings v  ist,  desto
+kleiner wird s (wenn t und u konstant sind). Die Konstante  2/3  hat  keinen
+Einfluss auf die Proportionalitδten.
+
+2. Aufstellen von Formeln
+Um Formeln aufzustellen muss man Proportionalitδten  formulieren  und  diese
+dann in eine Formel όbersetzen. Weiί man z.B. dass  z  (die  Grφίe  die  man
+ausdrόcken will) grφίer wird, wenn man  y  vergrφίert,  so  muss  y  in  der
+gesuchten Formel im Zδhler  stehen.  Wird  z  jedoch  kleiner,  wenn  man  x
+vergrφίert, so muss x im Nenner  stehen.  Die  Formel  kφnnte  also  lauten:
+[pic]. Noch  nicht  bekannt  sind  die  Proportionalitδtskonstante  und  die
+Hochzahlen von y und x. Beides kann durch genaue Messungen und  άberlegungen
+bestimmt werden.
+
+Musterbeispiel und Aufgaben zu 1.)
+    . Die Formel zur Berechnung des Drucks lautet: [pic], wobei p der  Druck
+      ist und F die Kraft, die auf  eine  Flδche  mit  der  Grφίe  A  wirkt.
+      Formuliere Je-Desto-Sδtze!
+   LΦSUNG: Da F im Zδhler steht, ist es direkt proportional zu p - Je grφίer
+   F, desto grφίer auch p. A steht hingegen im Nenner und ist somit indirekt
+   proportional zu p - Je grφίer A, desto kleiner ist p.
+
+
+    . Formuliere Je-Desto-Sδtze zu folgender  Formel:  [pic],  wobei  s  der
+      zurόckgelegte  Weg,  t  die   dafόr   benφtigte   Zeit   und   v   die
+      Geschwindigkeit ist, mit der sich der Kφrper fortbewegt.
+    . Formuliere Je-Desto-Sδtze zu folgender  Formel:  [pic],  wobei  a  die
+      Beschleunigung ist, die ein Kφrper mit Masse  m  bei  Einwirken  einer
+      Kraft F erfδhrt.
+
+Musterbeispiel und Aufgaben zu 2.)
+    . Eine Physikerin  will  feststellen,  wovon  die  Masse  eines  Kφrpers
+      abhδngt. Sie wiegt verschiedene Materialien (Holz,  Metall,  ...)  und
+      bemerkt, dass die Masse umso grφίer ist,  je  grφίer  die  Dichte  des
+      Materials ist. Auίerdem ist es offensichtlich, dass  die  Masse  eines
+      Kφrpers umso grφίer ist, je grφίer das Volumen ist. Stelle eine Formel
+      zur Berechnung der Masse auf! (Verwende: m... Masse des Kφrpers,  ?...
+      Dichte des Kφrpers, V...Volumen)
+   LΦSUNG: Da die Masse grφίer wird, wenn die Dichte  des  Materials  grφίer
+   wird, ist ? direkt  proportional  zu  m.  Auch  das  Volumen  ist  direkt
+   proportional zu m. Also ergibt sich die Formel: [pic].  Eventuell  mόsste
+   man noch eine Proportionalitδtskonstante und/oder Hochzahlen bei  ? und V
+   ergδnzen.
+
+
+    .  Die Stromstδrke ist von zwei Grφίen abhδngig: von der  Spannung,  die
+      angelegt wird, sowie vom Widerstand des Verbrauchers.  Je  grφίer  die
+      Spannung ist, desto grφίer ist die Stromstδrke, die sich einstellt. Je
+      grφίer aber der Widerstand des Verbrauchers,  desto  kleiner  ist  die
+      Stromstδrke. Stelle eine Formel zur Berechnung  der  Stromstδrke  auf!
+      I... Stromstδrke, U.... Spannung, R.... Widerstand

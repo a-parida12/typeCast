@@ -1,0 +1,221 @@
+
+Geschichte der Systematik
+Intuitive  Taxonomie  (v.a.  in  Verbindung  mit  dem  Nahrungserwerb):   im
+nordwestlichen Neuguinea gibt es in einer lokalen Sprache  137  verschiedene
+Namen fόr 138 in der Lokalfauna vorkommende und  wissenschaftliche  erfasste
+Vogelarten (E. Mayr).
+Trivialnamen  in  der  jeweiligen  Landesprache  bzw.  Populδrnamen   ('Folk
+taxonomy') haben vor der  Einfόhrung der binδren Nomenklatur  durch  Carolus
+Linnaeus eine dominierende Rolle gespielt. Die Anfδnge der  Systematik  oder
+Taxonomie liegen aber lange vor Linnι.
+   Anaximander (Griechenland, 6. Jhdt. v. Chr.):  alle  Lebewesen  sind  aus
+Wasser entstanden sind. Die Landtiere inkl. des Menschen stammen direkt  von
+Fischen ab.
+   Aristoteles (Griechenland, 384-322): Begrόnder des  empirischen  Denkens,
+erster sorgfδltiger  Beobachter  pflanzlichen  und  tierischen  Lebens  (der
+"erste Biologe").
+   In  seiner  Historia  Animalia  werden  520  Tierarten  vorgestellt   und
+diskutiert.  Aristoteles  hat  angestrebt   Dinge   oder   Phδnomene   durch
+allgemeine Grundsδtze zu erklδren. Er hat in der Natur  nach  όbergeordneten
+Mustern gesucht und Organismen  nach  Δhnlichkeiten  in  Funktionen  und  im
+Verhalten eingeteilt (vgl. G. Cuvier).
+   Plinius der Δltere (Rom, 23-79 n. Chr.): Encyclopδdie (weit  bis  in  das
+16. Jhdt. verwendet)
+   Porphyrios (Malchos):  Arbor prophyriana (Porphyrs Baum),  hierarchisches
+dichotomes  System  von  allen  Dingen,  Grundlage   fόr   unsere   heutigen
+dichotomen Bestimmungsschlόssel und fόr  hierarchische  Klassifikationen  in
+der Biologie.
+
+
+Christentum und Niedergang
+Mit  dem  Siegeszug  des  Christentums  in  der   Spδtantike   beginnt   ein
+dramatischer Niedergang der Naturwissenschaften.
+Augustin von Hippo: 'Der Gottesstaat',  Hφllenlehre,  Antijudaismus,  'Lehre
+von gerechten Krieg'
+"Die Menschen sollen die Natur ignorieren sollten  und  sich  ausschlieίlich
+auf das Leben nach dem Tode konzentrieren".
+Ein groίer Teil des seit  der  Antike  akkumulierten  Wissens  geht  in  der
+christlichen Spδtantike und im Mittelalter wieder verloren.
+
+
+
+Erste Renaissance der Wissenschaft
+Arabische und jόdische Wissenschaftler im  maurischen  Spanien  haben  viele
+antike griechische Texte erhalten und όbersetzt, aber auch Texte aus  Indien
+entdeckt und zugδnglich gemacht (z.B. Abu-I-Walid Muhammed  Ibn  Achmad  Ibn
+Muhammed Ibn Rushd [=Averroes], Moshe ben Maimon [=Maimonides]).
+   Im Zuge der Reconquista (ab 11. Jhdt.) sind  die  Texte  wieder  mit  der
+christlichen Kultur in  Berόhrung  gekommen.  Die  arabischen  άbersetzungen
+wurden von Mφnchen  ins  Latein  όbersetzt  und  damit  den  abendlδndischen
+Gelehrten zugδnglich gemacht.
+
+
+Buchdruck und Erfindung der Mikroskopie
+Die Verbreitung von Wissen ist durch Gutenbergs Erfindung des Buchdrucks  im
+15. Jahrhundert extrem erleichtert worden. Seit  dem  16.  Jhdt  haben  sich
+durch die Erfindung des Mikroskops ganz neue Mφglichkeiten  der  Beobachtung
+ergeben. Einzellige Organismen wurden entdeckt und in dieser Zeit  hat  auch
+die  wissenschaftliche  Beschδftigung  mit  Insekten  begonnen  (z.B.:   Jan
+Swammerdam: Historia Insectorum generalis).
+
+
+C. Linnaeus (C. v. Linnι)
+Linnaeus hat noch kein evolutives Konzept entwickelt. Er  hat  aber  erkannt
+dass die Natur hierarchisch organisiert ist (vgl. Aristoteles). Er  hat  die
+binδre Nomenklatur eingefόhrt und als erster die gesamte  Organismenwelt  in
+ein konsequent hierarchisches System eingeordnet.
+   J. C. Fabricius (Schόler von Linnι): Beschreibung von 9.776 Insektenarten
+beschrieben
+   Maria  Sybille  Merian  (1647-1717):  Entdeckung  und  Illustration   von
+zahlreichen Insektenarten (v.a. Surinam).
+
+
+   Der Beginn evolutiven Denkens liegt im spδten  17.  Jhdt:  "was  ist  die
+Ursache fόr die  auffallenden  Δhnlichkeiten  oder  natόrlichen  Affinitδten
+zwischen Organismen?", ,"was macht  Gruppen  zu  natόrlichen  Gruppen",  "wo
+liegt der Ursprung der Arten? Wo kommen die Arten her?"
+
+
+Konservative Ansδtze:
+   Johann Jakob Scheuchzer u.a., "Physique sacrιe, ou Histoire Naturelle  de
+la Bible" (Darstellung  der  Schφpfung  fόr  viele  Gruppen),  Jobi  physica
+sacra, Oder Hiobs Natur-Wissenschafft, vergliechen mit der Heutigen,  Zόrich
+1721
+   Scheuchzer hat einen fossilen Riesensalamander (Andrias scheuchzeri)  als
+"betrόbliches Beingerόst eines in der Sintflut  ertrunkenen  armen  Sόnders"
+beschrieben: der konsequente Versuch ausgestorbene Arten in das damals  noch
+vorherrschende Denksystem zu pressen, also  zu  negieren  dass  in  frόheren
+Epochen andere Organismen existiert haben als heute.
+
+Baron Georges Cuvier
+Der franzφsiche Zoologe  Baron  Georges  Cuvier  (1769-1832)  war  am  Musιe
+d'Histoire  Naturelle  in  Paris  beschδftigt.  Er  hat   postuliert,   dass
+natόrliche  Gruppen  auf  Anpassung  beruhen.  Er  hat  eine  Klassifikation
+angestrebt die auf funktionellen Gesetzmδίigkeiten beruht. Er hat  auch  (im
+Gegensatz zu Scheuchzer) postuliert,  dass  Fossilien  echte  άberreste  von
+tierischen Organismen sind. Das stand in Widerspruch zu seiner  άberzeugung,
+dass die Schφpfung um 9 Uhr morgens am 26.10.  4004  v.  Chr.  stattgefunden
+hat (Berechnung Bischoff Ussher  [Irland],  1650).  Das  scheinbare  Dilemma
+lieί sich lφsen indem man angenommen hat dass nicht mehr  existierende  aber
+fossil όberlieferte Lebensformen durch die Sintflut beseitigt wurden.
+
+
+   Etienne Geoffroy St.  Hilaire  (ebenfalls  Musιe  d'Histoire  Naturelle):
+Konzept der Homologie (damals: "Analogie").
+   Jean Baptiste de Lamarck (ebenfalls Musιe d'Histoire Naturelle): Gott hat
+nur  wenige  Formen  geschaffen  hat,  aus  denen   sich   dann   zahlreiche
+unterschiedliche  Arten  entwickelt  haben   (Evolution   statt   einmaligem
+Schφpfungsakt). Organe oder Strukturen werden durch  starken  Gebrauch  όber
+Generationen immer  stδrker  entwickelt  (Bsp.:  Hals  der  Giraffe).  Wenig
+gebrauchte Organe werden immer  stδrker  reduziert  werden  (Bsp.  Auge  von
+Hφhlenfischen) (Lamarckismus).
+   Der Lamarckismus als Mechanismus der Evolution ist widerlegt,  die  Ideen
+wurden aber in der Sowjetunion in den 30er Jahren  von  T.  Lyssenko  wieder
+aufgegriffen.  Der  Lyssenkoismus   ("moderne   Biologie")   hat   die   die
+biologischen Wissenschaften  und  die  Wirtschaft  in  der  Sowjetunion  und
+anderen Lδndern (z.B. DDR) όber Jahrzehnte extrem geschδdigt.
+
+
+Charles Darwin und Alfred Russell Wallace
+Eine der wichtigsten Persφnlichkeiten in der  Geschichte  der  Biologie  war
+Charles   Darwin   (1809-1882).   Er   hat   mit   der    Entwicklung    der
+Evolutionstheorie zu einem entscheidenden Durchbruch  gefόhrt.  Diese  Ideen
+wurden in fast identischer Form  zeitgleich  von  einem  anderen  britischen
+Wissenschaftler entwickelt - Alfred  Russell  Wallace  (1823-1913).  Wallace
+kann  auch  als  der  Begrόnder  der  modernen  Biogeographie  gelten.  Sein
+zweibδndiges Werk "The geographical Distribution of Animals" war fόr ca.  80
+Jahre das maίgebliche Standardwerk.
+   Darwin und Wallace haben postuliert, dass die  heutige  Diversitδt  durch
+όber viele Jahrmillionen akkumulierte  evolutive  Transformationen  zustande
+gekommen sind, und dass alle Organismen in einem hierarchischen  System  von
+natόrlichen  Gruppen  (Abstammungsgemeinschaften)  geordnet  werden  kφnnen.
+Diese  Hierarchie  der  Verwandtschaftsbeziehungen   hat   sich   όber   die
+geologischen Epochen entwickelt.
+   Entscheidend in der von Darwin formulierten Theorie (v.a. 'On the  origin
+of Species') waren vier Hypothesen:
+    -  Verδnderlichkeit  (Varabilitδt):  die  Organismen  unterliegen  einem
+      stδndigen Verδnderungsprozess. Es  treten  zufallsmδίig  positive  und
+      negative Variationen auf.
+    - Gemeinsame Abstammung  ('common  descent'):  alle  Organismen  stammen
+      durch  einen  kontinuierlichen  Verzweigungsprozess  von   gemeinsamen
+      Vorfahren ab.
+    - Kontinuierlichkeit: Die Evolution ist  ein  allmδhlicher  Prozess.  Es
+      findet keine sprunghafte Entwicklung statt.
+    - Natόrliche Auslese ('natural selection'): die  am  besten  angepassten
+      Individuen zeugen am meisten  Nachkommen.  Dadurch  werden  schlechter
+      angepasste   Formen   verdrδngt.   Zufδllig   aufgetretene    positive
+      Verδnderungen werden  also  begόnstigt,  negative  werden  ausgemerzt.
+      Neutrale Verδnderungen werden von  dem  Prozess  der  Selektion  nicht
+      beeinflusst.
+   Darwin hat die  genetischen  Grundlagen  seiner  Theorie  nicht  gekannt.
+Mendel's bahnbrechende Arbeiten erschienen 7 Jahre nach Darwin's  Hauptwerk.
+Sie wurden zunδchst wenig beachtet und sind  Darwin  auch  spδter  unbekannt
+geblieben.
+
+
+
+
+Ernst Haeckel
+Haeckel hat  Darwin's  Theorie  vehement  und  gegen  groίe  Widerstδnde  in
+Deutschland verfochten.
+Bekannt geworden ist er auch durch die Biogenetische  Grundregel,  die  aber
+schon frόher von Karl Ernst von Baehr formuliert wurde.
+Biogenetische  Grundregel:  die  Ontogenie  ist  die  kurze   und   schnelle
+Rekapitulation der Phylogenie
+
+
+Ernst  Mayr
+Herausragende Rolle in der Evolutionsbiologe und Ornithologe  im  20.  Jhdt.
+E. Mayr hat v.a. das Konzept der allopatrischen  Artbildung  entwickelt.  Er
+hat als Systematiker Im Sinne  von  Darwin  gearbeitet.  Er  hat  zahlreiche
+Arbeiten   zur   Evolutionsbiologie   und   Systematik   publiziert    (u.a.
+'Systematics and the Origin of Species', 1942).
+
+
+Numerische Taxonomie (Phδnetik, 'phenetics')
+Von dem Entomologen  Sokal  und  dem  dem  Mikrobiologen  Sneath  wurde  die
+numerische Taxonomie entwickelt ('phenetics'). Es geht dabei v.a. darum  ein
+mφglichst theoriefreies, objektives taxonomisches System zu  erstellen,  das
+fόr verschiedene Disziplinen wie  Φkologie,  Palδontologie  und  Physiologie
+verbindlich sein sollte.
+   Es werden Datenmatrices  mit  morphologischen  Merkmalen  erstellt.  Alle
+Merkmale mόssen quantifizierbar sein.  Mit  Hilfe  der  Clusteranalyse  wird
+dann fόr alle Individuen, Arten bzw. Taxa der Grad an Δhnlichkeit  numerisch
+- also objektiv - berechnet. Wie in der Typologie stehen sich zwei  Taxa  im
+System umso nδher, je hφher das Maί der Δhnlichkeit ist.  Im  Gegensatz  zur
+Typologie ist die Δhnlichkeit jetzt quantifizierbar und  das  Verfahren  ist
+was  die  rechnerische  Prozedur  anbelangt   objektiv.   Ein   wesentlicher
+Unterscheid zur phylogenetischen  Systematik  (Hennig)  ist  dass  keinerlei
+Unterscheid  zwischen  abgeleiteten  und  ursprόnglichen  Merkmalen  gemacht
+wird. und dass kein Anspruch auf genealogische Verwandtschaft erhoben  wird.
+Es geht lediglich um  ein  objektiv  begrόndetes  System  das  explizit  auf
+Δhnlichkeit beruht.
+
+
+Willy Hennig
+In Zusammenhang mit seine insektentaxonomischen Arbeit (Diptera) hat  Hennig
+in den 30-er und 40-er Jahren des 20. Jhdts. die Phylogenetische  Systematik
+entwickelt (v.a. Grundzόge einer Theorie  der  Phylogenetischen  Systematik,
+1950).
+   Begriffe werden  prδzise  definiert  (u.a.  Monophylie,  Grundplan).  Zur
+Rekonstruktion  der  Stammesgeschichte  werden  nur   abgeleitete   Merkmale
+verwendet.
+   Parallelentwicklungen:   W.  Zimmermann  (Botaniker,  Tόbingen),   A.   H
+Sturtevant (Dipterologe)
+
+
+Moderne Entwicklungen
+In den 1970-er Jahren hat  sich  aus  der  Phylogenetischen  Systematik  der
+Cladismus entwickelt, der im wesentlichen  auf  den  gleichen  theoretischen
+Grundlagen   beruht,   sich   aber   deutlich   vom   methodischen    Ansatz
+unterscheidet.  Eine  wichtige   Rolle   im   modernen   Cladismus   spielen
+Computerprogramme  mit  denen  Datenmatrices  v.a.  nach  dem  Prinzip   der
+Parsimonie (Sparsamkeit ausgewertert werden)  (u.a.  Hennig86,  PAUP,  NONA,
+TNT).
+   Seit den 80-er  Jahren  hat  die  molekulare  Systematik  immer  mehr  an
+Bedeutung gewonnen, und ist heute die vorherrschende Methode.  Auch  in  der
+molekularen Systematik wird mit cladistischen Verfahren gearbeitet  (Prinzip
+der Sparsamkeit [Parimonie]). Es werden aber  auch  andere  Analyseverfahren
+angewendet   (z.B.   Maximum   likelihood,   Distanzmatrixverfahren    [vgl.
+Phenetics], Bayesian Analyses).
+

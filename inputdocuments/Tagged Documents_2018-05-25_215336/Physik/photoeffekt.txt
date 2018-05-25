@@ -1,0 +1,283 @@
+Einleitung
+Der lichtelektrische Effekt, die Freisetzung von Elektronen aus einer Metalloberflδche beim Auftreffen von elektromagnetischer Strahlung, wurde 1839 von Alexandre Becquerel erstmals beobachtet und um 1888 von Wilhelm Hallwachs und Heinrich Rudolf Hertz systematisch untersucht. Wδhrend mit einer geladenen Zinkplatte das Grundprinzip veranschaulicht werden kann, ermφglicht eine Vakuum-Fotozelle die Bestimmung der Energie der freigesetzten Elektronen und der Austrittsarbeit des Metalls.
+
+
+Zinkplatte
+"        
+Eine auf ein Elektroskop aufgesteckte Zinkplatte wird mit einem Hochspannungsnetzgerδt elektrisch aufgeladen, das Elektroskop schlδgt aus.
+"        
+Die Zinkplatte wird mit verschiedenen Lichtquellen, z.B. einer Glόhlampe oder einer Quecksilber-Dampflampe, bestrahlt.
+"        
+Sinkt die Ladung des Elektroskops (und damit auch der Zinkplatte), so deutet dies auf eine Freisetzung von Ladungstrδgern hin.
+
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+
+### Drawn Shape (ignored-not implemented yet)
+
+### Drawn Shape (ignored-not implemented yet)
+
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+
+### Drawn Shape (ignored-not implemented yet)
+
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+
+
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+
+
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+
+### Drawn Shape (ignored-not implemented yet)
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+
+
+	Material	Aufbau / Durchfόhrung	
+	1 Elekroskop mit Zinkplatte
+1 Hochspannungsmessgerδt
+1 Hg-Lampe
+Kabel	1. 
+Zinkplatte mit Schmirgelpapier polieren
+2.      
+Platte negativ aufladen (2 kV fόr Vollausschlag)
+3.      
+Platte mit verschiedenen Lichtquellen beleuchten und Zeiger des Elektroskops beobachten
+
+
+
+
+Photoeffekt
+Aufgaben:
+1.      
+Laden Sie die Zinkplatte positiv auf und beleuchten Sie diese mit einer Glόhlampe. Wie δndert sich der Ausschlag des Elektroskops?
+2.      
+Laden Sie die Zinkplatte positiv auf und beleuchten Sie diese mit einer Quecksilberdampf-Lampe. Wie δndert sich der Ausschlag des Elektroskops?
+3.      
+Laden Sie die Zinkplatte negativ auf und beleuchten Sie diese mit einer Glόhlampe. Wie δndert sich der Ausschlag des Elektroskops?
+4.      
+Laden Sie die Zinkplatte negativ auf und beleuchten Sie diese mit einer Quecksilberdampf-Lampe. Wie δndert sich der Ausschlag des Elektroskops?
+
+
+Ergebnisse:
+1.      
+### Drawn Shape (ignored-not implemented yet)
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4770 by 6350, depth 1
+pict001.wmf
+Der Zeiger des Elektroskops verδndert sich nicht, durch die Glόhlampe werden keine positiven Ladungstrδger freigesetzt.
+2.      
+Der Zeiger des Elektroskops verδndert sich nicht, durch die Quecksilberdampf-Lampe werden keine positiven Ladungstrδger freigesetzt.
+### Drawn Shape (ignored-not implemented yet)
+
+Positive Ladung ist in Metallen fest gebunden und lδsst
+sich nicht mit einer elektromagnetischen Welle freisetzen.
+
+
+3.      
+Der Zeiger des Elektroskops verδndert sich nicht, durch die Glόhlampe werden keine negativen Ladungstrδger freigesetzt.
+4.      
+Der Ausschlag des Elektroskops geht schnell auf Null zurόck, Elektronen werden aus der Metalloberflδche ausgelφst.
+### Drawn Shape (ignored-not implemented yet)
+
+Licht ist also in der Lage, aus Metalloberflδchen negative Ladungstrδger, Elektronen, auszulφsen. Nach der klassischen Wellentheorie des Lichtes wόrde man erwarten, dass dieser Effekt von der Intensitδt der elektromagnetischen Welle abhδngt, nicht jedoch von ihrer Frequenz. Dies ist aber, wie der Versuch gezeigt hat, nicht der Fall.
+
+### Drawn Shape (ignored-not implemented yet)
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 21696 by 27093, depth 1
+pict002.wmf
+Die Erklδrung hierfόr lieferte Albert Einstein 1905, indem er annahm, dass die Energie des Lichts nicht kontinuierlich verteilt ist (wie man es von einer Welle erwarten wόrde), sondern quantisiert in Energiepaketen vorliegt, die er Photonen nannte. Die Energie der Photonen ist dabei von der Frequenz f des Lichts abhδngig und betrδgt E=h*f mit dem Planck'schen Wirkungsquantum h=6,62*10-34 Js. Nur wenn die Energie des Photons grφίer als die materialabhδngige Austrittsarbeit WA ist, kann es ein Elektron aus dem Metall herausschlagen.
+
+
+Vakuum-Fotozelle
+"        
+Licht, das auf die Kathode aus Metall an der Rόckwand der Fotozelle fδllt, lφst aus deren Oberflδche Elektronen aus (Photoeffekt).
+"        
+An eine ringfφrmige Anode kann eine Beschleunigungs- oder (bei anderer Polung) Gegenspannung angelegt werden, um die Elektronen zu beschleunigen bzw. abzubremsen.
+"        
+Mit einem Messverstδrker zwischen Ringanode und Kathode lδsst sich der Photostrom messen.
+"        
+Die Fotozelle befindet sich in einer Vakuumrφhre, um Stφίe der Elektronen mit Gasatomen zu vermeiden und damit einen hφheren Stromfluss zu garantieren.
+
+
+
+
+
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+
+### Drawn Shape (ignored-not implemented yet)
+
+### Drawn Shape (ignored-not implemented yet)
+
+### Drawn Shape (ignored-not implemented yet)
+
+### Drawn Shape (ignored-not implemented yet)
+
+### Drawn Shape (ignored-not implemented yet)
+
+### Drawn Shape (ignored-not implemented yet)
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+
+### Drawn Shape (ignored-not implemented yet)
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 36124 by 18803, depth 1
+pict003.wmf
+
+Zusammenhang von Lichtintensitδt und Photostrom
+Aufgaben:
+1.      
+Legen Sie eine Beschleunigungsspannung von 80 V zwischen Kathode und ringfφrmiger Anode an und messen Sie den sog. Photostrom zwischen Anode und Kathode! Als Lichtquelle dient zunδchst eine brennende Kerze, die in 10 cm Abstand zur Fotozelle steht.
+2.      
+Wie δndert sich der Photostrom, wenn neben die erste Kerze eine zweite gestellt wird?
+3.      
+Wie δndert sich der Photostrom, wenn die Kerze aus Aufgabe 1. im Abstand von 20 cm zur Fotozelle positioniert wird?
+
+Ergebnisse:
+1.      
+Da die durch den Photoeffekt an der Kathode freigesetzten Elektronen durch die Beschleunigungsspannung in Richtung Anode bewegt werden, ist ein Stromfluss feststellbar.
+2.      
+Der Photostrom ist bei Verwendung zweier Kerzen doppelt so hoch.
+### Drawn Shape (ignored-not implemented yet)
+
+Der Photostrom hδngt also von der Intensitδt des einfallenden Lichts ab  viele Photonen, vorausgesetzt ihre Energie bzw. Frequenz ist groί genug, setzen natόrlich deutlich mehr Elektronen frei als wenige.
+
+
+3.      
+Verdoppelt man den Abstand zwischen Kerze und Fotozelle, so geht der Photostrom auf ein Viertel des ursprόnglichen Wertes zurόck. Durch die Ausbreitung im Raum nimmt die Intensitδt quadratisch mit dem Abstand ab.
+
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 36124 by 27093, depth 1
+pict004.jpg
+
+Photostrom in Abhδngigkeit der angelegten Spannung
+Aufgabe:
+Bόndeln Sie das Licht einer Quecksilberdampf-Lampe mit mehreren Linsen so, dass es mit groίer Intensitδt auf die Fotozelle fδllt. Messen Sie bei konstanter Beleuchtungsstδrke den Photostrom I bei unterschiedlichen Beschleunigungsspannungen U=-3 V...10 V! Tragen Sie den Photostrom I όber der angelegten Spannung U auf! Wie ist der Kurvenverlauf zu erklδren?
+
+Ergebnis:
+Jedes Photon gibt seine Energie E=h*f an ein Elektron der Kathode ab und setzt dieses dadurch frei. Nach Abzug der Austrittsarbeit WA bleibt den Elektronen dann die kinetische Energie: ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 7620 by 7620, depth 1
+pict005.wmf
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 12065 by 7567, depth 1
+pict006.wmf
+
+"        
+Liegt zwischen Kathode und Anode eine Gegenspannung an, so erreichen die an der Kathode freigesetzten Elektronen nur dann die Anode, wenn ihre kinetische Energie grφίer als der Energieverlust durch die Gegenspannung e*U ist, wenn also gilt: Wkin > e*U. Ab einer gewissen Gegenspannung (in unserem Fall ca. -1V) erreichen όberhaupt keine Elektronen mehr die Anode, schlieίlich ist die Energie der Photonen durch die Frequenz f des Lichts begrenzt.
+"        
+Erhφht man die Gegenspannung weiter, so wird die Anode zur Kathode: aus der ringfφrmigen Elektrode treten durch unvermeidbaren Lichteinfall oder Wδrmestrahlung nun Elektronen aus, die durch die Spannung in Richtung Kathode fliegen, womit sich ein geringer negativer Stromfluss bemerkbar macht.
+"        
+Liegt keine Spannung zwischen Kathode und Anode an, so flieίt ein kleiner Strom, da einige der Elektronen genόgend kinetische Energie Wkin=h*f-WA besitzen, um zur Anode zu gelangen.
+"        
+Liegt eine Beschleunigungsspannung zwischen Kathode und Anode an, so werden auch Elektronen mit geringerer kinetischer Energie Richtung Anode gezogen und kφnnen somit zum Stromfluss beitragen. Je hφher die Spannung ist, desto mehr Elektronen werden von der Anode abgesaugt.
+"        
+Fόr sehr hohe Spannungen ist der Photostrom annδhernd konstant, da jedes emittierte Elektron (gleich welcher kinetischer Energie) zur Anode hin beschleunigt wird und diese erreicht.
+
+Bestimmung von h/e und Austrittsarbeit mittels Gegenspannung
+Aufgaben:
+1.      
+Schalten Sie verschiedene Farbfilter hinter die Quecksilberdampf-Lampe und messen Sie jeweils die Gegenspannung U0, die erforderlich ist, damit der Photostrom gerade Null wird!
+2.      
+Bestimmen Sie aus den Messdaten den Quotienten h/e und die Austrittsarbeit WA des Kathodenmaterials!
+### Drawn Shape (ignored-not implemented yet)
+
+Die kinetische Energie der durch den Photoeffekt von Licht der Frequenz f freigesetzten Elektronen betrδgt: ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 7620 by 7620, depth 1
+pict007.wmf
+Der Photostrom wird genau dann Null, wenn auch die Energie der schnellsten Elektronen nicht mehr ausreicht, um zur Anode zu gelangen, wenn also gilt:
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 6385 by 635, depth 1
+pict008.wmf
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4792 by 1580, depth 1
+pict009.wmf
+Trδgt man also U0 όber der Frequenz f des verwendeten Lichts auf (berechnet mit f=c/» aus der Wellenlδnge des Farbfilters), so ergibt sich eine Gerade mit der Steigung h/e und dem y-Achsenabschnitt WA/e, so dass sich die gesuchten Grφίen aus einer Ausgleichsgeraden der Messwerte ablesen lassen.
+
+
+
+Ergebnisse:
+1.      
+Tabelle mit theoretischen Werten:
+
+
+	Farbe	» (nm)	f (THz)	U0 (V)
+	Gelb	578	519	0,66
+	Grόn	546	549	0,76
+	Blau	436	688	1,35
+	Violett	405	741	1,53
+
+
+2.      
+Der Quotient von Planck-Konstante (h=6,62*10-34 Js) und Elementarladung (e=1,6*10-19 C) betrδgt: h/e=4,14*10-15 Js/C. Die Austrittsarbeit des Kathodenmaterials betrδgt mit obigen Messwerten WA=1,43 eV.
+
+Direkte Bestimmung von h/e und Austrittsarbeit
+Aufgaben:
+1.      
+Schlieίen Sie anstelle des Strommessers und Netzgerδtes ein hochohmiges Spannungsmessgerδt zwischen Anode und Kathode. Was ist nach kurzer Zeit bei Bestrahlung der Vakuum-Fotozelle mit einer Quecksilberdampf-Lampe zu beobachten?
+2.      
+Messen Sie fόr verschiedene Lichtfrequenzen f (erzeugt mit verschiedenen Filtern hinter der Quecksilberdampf-Lampe) die Leerlaufspannung UL!
+3.      
+Bestimmen Sie aus den Messdaten den Quotienten h/e und die Austrittsarbeit WA des Kathodenmaterials!
+### Drawn Shape (ignored-not implemented yet)
+
+Die an der Kathode freigesetzten Elektronen sammeln sich nach kurzer Zeit an der Anode an. Es entsteht dadurch eine Leerlaufspannung UL, ein Gegenfeld. Nur Elektronen, deren Energie Wkin > e*UL ist, kφnnen noch gegen dieses Feld anlaufen. Erhφht sich die Leerlaufspannung UL nicht mehr weiter, gelingt dies auch den schnellsten freigesetzten Elektronen nicht mehr, wie im vorigen Versuchsteil kφnnen wir damit folgern:
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 7228 by 1129, depth 1
+pict010.wmf
+h/e und WA lassen sich also als Steigung und y-Achsenabschnitt der Ausgleichsgeraden im UL-f-Schaubild ablesen.
+
+
+Ergebnisse:
+1.      
+Das eintreffende Licht setzt Elektronen aus der Kathode frei, deren kinetische Energie auch ohne zusδtzliche Beschleunigungsspannung ausreichen kann, um die Anode zu erreichen. Nach kurzer Zeit sammeln sich dort Elektronen an, so dass sich zwischen Kathode und Anode die Leerlaufspannung UL einstellt, die auf dem Spannungsmessgerδt sichtbar wird.
+2.      
+Werte siehe vorherige Aufgabe
+3.      
+Werte siehe vorherige Aufgabe
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+

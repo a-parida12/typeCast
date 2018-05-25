@@ -1,0 +1,228 @@
+1
+
+1
+Die Geschichte der Feuerverzinkung
+M. Huckshold
+
+1.1
+Geschichtliche Entwicklung von Zink
+
+Zink ist ein natürliches Element und demzufolge so alt wie die Erdkruste selbst.
+In der Natur kommt Zink in metallischer Form nicht vor, sondern nur als Bestandteil von Verbindungen wie beispielsweise in Galmeierz (Zinkkarbonat) und
+schwefelhaltigen Zinkblenden.
+Lange vor der Entdeckung von Zink als Metall wurden in China, Indien und
+Persien bereits im Altertum Zinkerze oft unbewusst zur Herstellung von Messing
+(Kupfer-Zink-Legierung) eingesetzt. Weiterhin ist überliefert, dass die Römer unter Kaiser Augustus (20 v. Chr. bis 14 n. Chr.) im heutigem Europa die ersten waren, die aus einer Kupfer- und Zinkerzmischung den Rohstoﬀ für Messingmünzen
+erschmolzen.
+Erst 1374 erkannten die Inder Zink als „neues“ Metall. In alten hinduistischen
+Schriften aus dieser Zeit ﬁnden sich erste Beschreibungen von Herstellungsverfahren für Zinkmetall aus Erzen. Im späten 13. Jahrhundert beschreibt Marco
+Polo die Herstellung von Zinkoxid in Persien. Dort wurde das Oxid zur Behandlung von Augenentzündungen angewendet. Gegen Anfang des 17. Jahrhunderts
+entdeckten auch europäische Wissenschaftler wie der Dominikanermönch Albertus Magnus, der deutsche Gelehrte Georgius Agricola und Paracelsus die
+Bedeutung des neuen Metalls. Bereits 1720 wurde im englischen Swansea in
+größerem Umfang Zink gewonnen. Durch A. Swab wird die Zinkgewinnung aus
+Galmei in Schweden im Jahr 1742 in großem Maßstab realisiert. 1743 errichtete
+William Champion in Bristol die erste Zinkhütte mit einer Jahreskapazität von
+ca. 200 t. Weitere Hütten entstanden anschließend in Oberschlesien (1812) und
+im Aachen-Lütticher Raum [1, 2].
+In Deutschland gelang es erstmals A.S. Marggraf metallisches Zink herzustellen, der 1746 in Berlin Zink durch Destillation von Zinkoxid mit Kohle unter
+Luftabschluss gewann. Zu industrieller Bedeutung in Deutschland kam es jedoch
+erst deutlich später ab dem Jahre 1820 [2]. Nach nur wenigen Jahren war so viel
+Zink auf dem Markt, dass 1826 der „Verein zur Beförderung des Gewerbeﬂeißes
+
+Handbuch Feuerverzinken, 4. Auflage. Peter Peißker und Mark Huckshold.
+© 2016 WILEY-VCH Verlag GmbH & Co. KGaA. Published 2016 by WILEY-VCH Verlag GmbH & Co. KGaA.
+
+2
+
+1 Die Geschichte der Feuerverzinkung
+
+in Preußen“ einen Preis für die Auﬃndung einer Massenanwendung des Zinks
+ausgesetzt hatte [3].
+In den USA begann man mit der Zinkerzeugung erst im Jahre 1838. Die dortige
+Zinkproduktion erfreute sich, bedingt durch die reichen Erzvorkommen, einer
+rasanten Entwicklung. Bereits im Jahre 1907 lag die Jahresproduktion an Zink in
+den USA über der in Deutschland, das bis dahin der größte Zinkerzeuger war [2].
+
+1.2
+Die Erfindung der Feuerverzinkung
+
+Im Jahre 1742 entdeckte der französische Chemiker Malouin die Möglichkeit, Eisen- und Stahlteile in ﬂüssigem Zink mit einem Überzug aus diesem Metall zu
+versehen und erfand damit die Grundlagen des Feuerverzinkens. Verfahrenstechnisch ähnelte seine Beschreibung der heutigen Nassverzinkung, wobei die zu verzinkenden Bauteile durch eine Flussmitteldecke in die Zinkschmelze eingetaucht
+werden. Eine industrielle Anwendung scheiterte zu dieser Zeit jedoch, da es noch
+kein wirtschaftliches Verfahren zur Reinigung von Eisen- bzw. Stahloberﬂächen
+gab.
+Erst viele Jahre später im Jahr 1836 entwickelte der Ingenieur Stanislaus Sorel ein Verfahren zum Reinigen von Eisen- und Stahloberﬂächen durch Beizen.
+Diese Entdeckung wurde am 10. Mai 1837 patentiert und war die Grundlage für
+die praktische Einführung des Feuerverzinkens. Dies war die Geburtsstunde eines
+wirtschaftlichen Verfahrens, Eisen- und Stahlteile nach der Reinigung der Oberﬂächen durch Eintauchen in geschmolzenes Zink gegen Korrosion zu schützen.
+
+1.3
+Der wirtschaftliche Aufstieg der Feuerverzinkung
+
+Mit dem Ausbau der Fabriken und der Infrastruktur stieg im 19. Jahrhundert die
+Nachfrage nach Eisen und Stahl. Zum Schutz gegen Rost musste ein Verfahren
+angewendet werden, das die stählernen Anlagenteile – Signalanlagen, Werkstätten, Bahnhofshallen – vor dem raschen Verfall schützt. Bleiweiß und Mennige
+waren bekannt, aber giftig und teuer. Zinkweißfarben gaben zwar der deutschen
+Farbenindustrie eine enorme Entwicklung, doch wurden die Erwartungen der Eisenbahn mit diesen Zinkfarben in Bezug auf den Rostschutz nicht voll erfüllt [4].
+Zum Schutz des Eisens vor dem Rost bediente man sich zu dieser Zeit bereits des
+Elementes Zinn zur Erzeugung metallischer Überzüge. F. Releaux schrieb im Jahr
+1836:
+„Hiernach lag der Gedanke nahe, das Eisen zu verzinken, da Zink sich gegen
+alle anderen Metalle positiv verhält und diese also durch Berührung mit ihm
+geschützt werden, während es selbst oxydiert wird. . . . Man verzinkt denn
+auch in ziemlicher Ausdehnung Telegraphendrähte, Seildraht, Schrauben
+und Nägel, Steinklammern, Bleche, Kanonenkugeln usw.“
+[5].
+
+1.3 Der wirtschaftliche Aufstieg der Feuerverzinkung
+
+Nach Sorel’s Erﬁndung, die die wirtschaftliche Einführung der Feuerverzinkung
+bedeutete, begann dann in Frankreich und England die Erzeugung feuerverzinkter Gegenstände. Dies führte bald zu einem neuen Produktionszweig. Es entstanden die ersten Feuerverzinkereien für Blechwaren und Geschirre, wie Eimer,
+Gießkannen, Badewannen, Drähte und Eisenkonstruktionen.
+1847 wurde die erste deutsche Feuerverzinkerei in Solingen in Betrieb genommen. Die Feuerverzinkung, damals nach dem Verfahren der Nassverzinkung,
+wurde als Handwerk durchgeführt, mit Zange und Rechen von Hand. Die Beheizung der Verzinkungskessel erfolgte damals noch mit Holzkohle, Kohle oder
+Koks. Eine Regelung der Temperaturen und des Wärmebedarfes erfolgten nur
+bedingt. Hilfs- und Betriebsstoﬀe wurden nach geheimen Rezepten selbst hergestellt [6]. Bis etwa 1920 erfolgte das Feuerverzinken noch „in den Bahnen
+abergläubigster Empirie“ [7]. 1926 haben die Brüder Bablik in Wien den Betrieb
+einer Feuerverzinkerei übernommen und in den 50er-Jahren des 20. Jahrhunderts
+zum Zentrum der Feuerverzinkung entwickelt. Dort wurden systematisch grundlegende wissenschaftliche Erkenntnisse zum Verfahren des Feuerverzinkens erarbeitet, gesammelt und in mehreren Büchern veröﬀentlicht. 1941 erschien das
+Buch „Das Feuerverzinken“ [7], welches über Jahrzehnte das Standardwerk zum
+Feuerverzinken darstellte.
+Die Geschichte des Zinks ist im Vergleich zu der des Eisens eine kurze. Seit rund
+300 Jahren beschäftigt man sich in Europa industriell mit Zink in metallischer
+Form. An die anfängliche Orientierungslosigkeit zur sinnvollen Verwendung von
+Zink schloss sich nach einem jahrzehntelangen Dornröschenschlaf durch begleitende Entdeckungen eine rasante Entwicklung der Herstellung und Anwendung
+von Zink in metallischer Form in Europa an. Als eine wesentliche Anwendung
+zeichnete sich schnell die Verzinkung von Eisen und Stahl ab. In der zweiten
+Hälfte des 19. Jahrhunderts wurden die ersten Feuerverzinkereien errichtet, deren
+Zahl schnell anstieg. Die damalige Arbeitsweise war wesentlich durch Alchemie
+und Empirie geprägt. Erst durch die grundlegenden wissenschaftlichen Arbeiten
+in der ersten Hälfte des 20. Jahrhunderts wurde der Grundstein zur Überführung
+von der handwerklich geprägten Verzinkung hin zu einem industriellen Produktionsverfahren gelegt. Innerhalb dieser Entwicklung veränderte sich auch die Prozesstechnik in den Verzinkereien, die Alchemie wurde überwunden und es zog
+nach und nach eine geregelte Prozesstechnik auf einem technisch ansprechenden Niveau ein. Feuerverzinken ist heute ein nachhaltiges Verfahren mit einer
+umweltfreundlichen und abwasserfreien Verfahrenstechnik. Die Rückgewinnung
+überschüssiger Prozesswärme und interne Stoﬀkreisläufe führen zu einer eﬃzienten Ausnutzung der eingesetzten Betriebsstoﬀe. Die anfallenden Abfälle werden
+recycelt und damit dem regionalen Rohstoﬀkreislauf wieder zugeführt. Vielfach
+sind die Verzinkungslinien mit halbautomatischer und zum Teil mit vollautomatisierter Prozesstechnik ausgestattet. Eine professionalisierte Logistik und elektronische Datenerfassung sichert dem Kunden heute vielfach eine Just-in-TimeFertigung und eine transparente Dokumentation des Verzinkungsprozesses zu.
+Die Verzinkung von Stahl zum Zwecke des Korrosionsschutzes stellt heute in
+Europa und weltweit die größte Anwendung von Zink dar. Weltweit wurden im
+
+3
+
+4
+
+1 Die Geschichte der Feuerverzinkung
+
+Jahr 2013 rund 13 Mio. Tonnen Zink gewonnen. Die Hälfte dieser Menge wird
+zum Korrosionsschutz für Stahl durch Feuerverzinken eingesetzt [1].
+Zeittafel über die geschichtliche Entwicklung des Zink und der Feuerverzinkung [2, 8]
+Altertum
+1420
+1525/1526
+16. und 17. Jh.
+1721
+1742
+1742
+1743
+1746
+ab 1820
+1836
+10.5.1837
+nach 1840
+1846
+1847
+1860
+1880
+1890
+1911
+1920–1930
+1936
+1950
+1951
+1958
+1967
+1967
+1994
+2013
+2015
+
+Herstellung von Messing unter Verwendung von Kupfer und des
+Zinkerzes Galmei in China, Indien und Persien
+Der Erfurter Mönch Valentinus verwendet erstmalig das Wort „Zincum“
+und vermutete hierunter ein „halbmetallisches Produkt“
+Nennt Paracelsus das „Zinck“ einen Bastard der Metalle, benutzt aber
+„Zincken“ auch für Zinkerze (Galmei)
+Zink ist als Handelsartikel aus China und Ostindien in Europa auf dem
+Markt
+Henkel stellt in Oberschlesien erstmals metallisches Zink aus Galmei nach
+einem geheimen Verfahren her
+Erﬁndung der Feuerverzinkung durch den Franzosen Malouin
+Erste Zinkgewinnung in Schweden durch Swab
+Erste großtechnische Anlage zur Zinkgewinnung in England in Bristol
+A.S. Marggraf gelang die Herstellung von Zink in Deutschland
+Zinkgewinnung erlangt industrielle Bedeutung
+Stanislaus Sorel entdeckt ein Verfahren zum Reinigen von Eisen und Stahl
+Patenterteilung für das Verfahren Eisen- und Stahlteile in geschmolzenem
+Zink vor Korrosion zu schützen an Sorel
+Die ersten Feuerverzinkereien entstehen in Frankreich, England und
+Deutschland
+Patentanmeldung zur Feuerverzinkung von Halbzeug, insbesondere
+Blechtafeln
+Gründung der ersten Feuerverzinkerei in Solingen
+Patentanmeldung zur Feuerverzinkung von Draht im kontinuierlichen
+Durchlauf
+Entwicklung von galvanotechnischen Verfahren zum Schutz gegen das
+Rosten von Stahl und Eisen
+Erﬁndung des Sherardisierens durch Sherard Cowper-Coler
+Erﬁndung des Spritzverzinkens durch M.K. Schoop
+Intensive Forschungs- und Entwicklungsarbeit auf dem Gebiet des
+Feuerverzinkens
+Feuerverzinkung von Bändern kontinuierlich durch Th. Sendzimir in Polen
+1. Internationale Verzinkertagung des Europäischen Verbandes für
+allgemeine Verzinkung in Kopenhagen
+Gründung des Gemeinschaftsausschusses Verzinken e. V. (GAV)
+Gründung der Abteilung Lohnverzinkereien im Fachverband
+Stahlblechverarbeitung
+Erste Veröﬀentlichung genormter Richtlinien für Zinküberzüge durch
+Feuerverzinken
+Umwandlung der Abteilung Lohnverzinkereien in den Verband der
+deutschen Feuerverzinkungsindustrie e. V. (VdF)
+Umﬁrmierung des VdF in Industrieverband Feuerverzinken e. V.
+Die Jahresweltproduktion an Zink beträgt 13 Mio. Tonnen, ca. die Hälfte
+davon wird zum Korrosionsschutz durch Verzinken eingesetzt
+Die Jahrestonnage der ca. 160 Feuerverzinkereien in Deutschland beträgt
+rund 1,8 Mio. Tonnen, in Europa gibt es ca. 700 Feuerverzinkereien
+
+Literatur
+
+Literatur
+1 http://www.initiative-zink.de/basiswissen/
+
+5 Releaux, F. (1836) Das Buch der Erﬁn-
+
+das-metall-zink/geschichte-des-zinks,
+
+dungen, Gewerbe und Industrie IV: Die
+Behandlung der Rohstoﬀe, Verlag O.
+Spaner
+6 Kleingarn, J.P. (1975) Korrosionsschutz
+durch Feuerverzinken gestern, heute
+und morgen. Industrie-Anzeiger, 97, 60.
+7 Bablik, H. (1941) Das Feuerverzinken,
+Verlag von Julius Springer, Wien, Teil
+III.
+8 Maaß, P. und Peißker, P. (2008) Handbuch Feuerverzinken, 3. Auﬂ., WileyVCH Verlag, Weinheim.
+
+(15.11.2015)
+2 Johnen, H.J. (1981) Zink – ZinkTaschenbuch, (Hrsg. Zinkberatung
+e. V.), Metall Verlag.
+3 N. N. (1846) Bulletin du musee de
+J’Industrie, 11, 119; daraus: Polytechnisches Zentralblatt, Neue Folge, l, 960
+(1847)
+4 Winterhager, H. (1977) Der Zinck –
+seine Benutzungsarten in Naturwissenschaft und Technik im Laufe der Zeiten,
+in 25 Jahre (1951–1976) Gemeinschaftsanschluss Verzinken e. V., S. 34
+
+5
+
+

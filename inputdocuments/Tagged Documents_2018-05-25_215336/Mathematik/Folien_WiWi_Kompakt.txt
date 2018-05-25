@@ -1,0 +1,4434 @@
+Ableitung
+Eine Funktion f ist in einem Punkt a differenzierbar, wenn der als
+Ableitung bezeichnete Grenzwert
+f (a + h) â f (a)
+hâ0
+h
+
+f 0 (a) = lim
+existiert.
+y
+
+f â˛ (a)
+f (a)
+
+1
+
+a
+
+Analysis 1 â
+
+Differentiation
+
+x
+
+Grundbegriffe
+
+1-1
+
+Geometrisch bedeutet Differenzierbarkeit, dass die Steigungen der
+Sekanten gegen die Steigung der durch
+y = f (a) + f 0 (a)(x â a)
+gegebenen Tangente konvergieren.
+Man schreibt auch
+d
+dy
+f 0 (x) =
+f (x) =
+dx
+dx
+mit y = f (x). Diese Schreibweise symbolisiert den GrenzuĚbergang âx â 0
+in dem Differenzenquotienten
+ây
+f (x + âx) â f (x)
+=
+.
+âx
+x + âx â x
+HoĚhere Ableitungen werden mit f 00 , f 000 , . . . bzw. f (2) , f (3) , . . . bezeichnet.
+Eine Funktion f heiĂt differenzierbar auf einer Menge D, wenn f 0 (x) fuĚr
+alle x â D existiert.
+Analysis 1 â
+
+Differentiation
+
+Grundbegriffe
+
+1-2
+
+LinearitaĚt der Ableitung
+Die Ableitung ist linear, d.h. fuĚr differenzierbare Funktionen f und g gilt
+(rf )0 = rf 0 ,
+0
+
+0
+
+r â R,
+
+0
+
+(f Âą g ) = f Âą g .
+
+Analysis 1 â
+
+Differentiation
+
+Grundbegriffe
+
+4-1
+
+Wichtige Ableitungen
+
+f (x)
+
+f 0 (x)
+
+f (x)
+
+f 0 (x)
+
+c
+
+0
+
+x r , r 6= 0
+
+rx r â1
+
+ex
+
+ex
+
+ln |x|
+
+sin x
+
+cos x
+
+arcsin x
+
+cos x
+
+â sin x
+
+arccos x
+
+tan x
+
+tan2 x + 1
+
+arctan x
+
+cot x
+Analysis 1 â
+
+Differentiation
+
+â
+
+1
+sin2 x
+
+arccot x
+
+1
+x
+1
+â
+1 â x2
+1
+ââ
+1 â x2
+1
+1 + x2
+1
+â
+1 + x2
+
+Grundbegriffe
+
+1-1
+
+Produktregel
+Die Ableitung des Produktes zweier differenzierbarer Funktionen f und g
+ist
+(fg )0 = f 0 g + fg 0 .
+Allgemeiner gilt fuĚr ein Produkt f = f1 Âˇ Âˇ Âˇ fn
+f0 =
+
+n
+X
+i=1
+
+Analysis 1 â
+
+Differentiation
+
+f1 Âˇ Âˇ Âˇ fiâ1 fi 0 fi+1 Âˇ Âˇ Âˇ fn =
+
+n
+X
+
+fi 0
+
+i=1
+
+Ableitungsregeln
+
+f
+.
+fi
+
+1-1
+
+Beispiel:
+Ableitung des Polynoms
+p(x) = (x â 1)(x â 2)(x â 3)
+Produktregel
+p 0 (x) = (x â 2)(x â 3) + (x â 1)(x â 3) + (x â 1)(x â 2)
+an den Nullstellen x = 1, 2, 3 jeweils nur ein Faktor relevant:
+p 0 (1) = (1 â 2)(1 â 3) = 2
+
+p 0 (2) = (2 â 1)(2 â 3) = â1
+
+p 0 (3) = (3 â 1)(3 â 2) = 2
+
+Analysis 1 â
+
+Differentiation
+
+Ableitungsregeln
+
+2-1
+
+analog:
+p(x) = (x â 1) Âˇ Âˇ Âˇ (x â n)
+=â
+p 0 (k) = (k â 1) Âˇ Âˇ Âˇ (k â (k â 1)) Âˇ (k â (k + 1)) Âˇ Âˇ Âˇ (k â n)
+= (â1)nâk (n â k)! (k â 1)!
+
+frĚ k = 1, . . . , n
+
+Analysis 1 â
+
+Differentiation
+
+Ableitungsregeln
+
+2-2
+
+Quotientenregel
+Die Ableitung des Quotienten zweier differenzierbarer Funktionen ist
+ 0
+f
+f 0 g â fg 0
+=
+g
+g2
+an allen Punkten x mit g (x) 6= 0. Insbesondere gilt
+ 0
+1
+g0
+=â 2.
+g
+g
+
+Analysis 1 â
+
+Differentiation
+
+Ableitungsregeln
+
+1-1
+
+Beispiel:
+Ableitung der rationalen Funktion
+f (x)
+1 â 2x
+=
+g (x)
+4 + 3x 2
+Quotientenregel (f /g )0 = (f 0 g â fg 0 )/g 2
+(1 â 2x)0 (4 + 3x 2 ) â (1 â 2x)(4 + 3x 2 )0
+=
+(4 + 3x 2 )2
+â2(4 + 3x 2 ) â (1 â 2x)(6x)
+6x 2 â 6x â 8
+=
+(4 + 3x 2 )2
+(4 + 3x 2 )2
+alternativ: Produktregel und Formel (1/g )0 = âg 0 /g 2
+
+
+1
+(1 â 2x)
+4 + 3x 2
+
+Analysis 1 â
+
+Differentiation
+
+0
+
+= (â2)
+
+1
+â6x
++ (1 â 2x)
+4 + 3x 2
+(4 + 3x 2 )2
+Ableitungsregeln
+
+2-1
+
+Kettenregel
+FuĚr die Verkettung von Funktionen
+h(x) = (f âŚ g ) (x) = f g (x)
+ist die Ableitung
+
+
+
+h0 (x) = f 0 (g (x))g 0 (x) .
+Mit f (y ) = z, g (x) = y , h(x) = z schreibt man auch
+dz
+dz dy
+=
+.
+dx
+dy dx
+
+Analysis 1 â
+
+Differentiation
+
+Ableitungsregeln
+
+1-1
+
+Beispiel:
+Ableitung von
+h(x) = sin ln(1 + x 2 )
+| {z }
+y =g (x)
+
+Kettenregel =â
+h0 (x) =
+
+
+
+
+d
+sin(y )g 0 (x) = cos ln(1 + x 2 ) g 0 (x)
+dy
+
+innere Ableitung, berechnet ebenfalls mit der Kettenregel:
+g 0 (x) =
+
+1
+(2x)
+1 + x2
+
+insgesamt:
+h0 (x) =
+
+Analysis 1 â
+
+Differentiation
+
+2x cos(ln(1 + x 2 ))
+1 + x2
+Ableitungsregeln
+
+2-1
+
+alternativ: Verwendung der differentiellen Schreibweise
+z = sin y , y = ln w , w = 1 + x 2
+ 1
+dz
+dz dy dw
+1
+=
+= cos(y ) 2x = cos ln(1 + x 2 )
+(2x)
+dx
+dy dw dx
+w
+1 + x2
+
+Analysis 1 â
+
+Differentiation
+
+Ableitungsregeln
+
+2-2
+
+Ableitung der Umkehrfunktion
+Ist eine Funktion y = f (x) stetig differenzierbar mit f 0 (x) 6= 0, so ist f in
+einer Umgebung von x invertierbar, und es gilt
+(f â1 )0 (y ) = f 0 (x)â1 ,
+bzw. dx/dy = (dy /dx)â1 ; die Steigungen von f und f â1 sind reziprok.
+y
+
+(f â1 )â˛ (y)
+
+f â˛ (x)
+
+1
+f (a)
+
+1
+
+a
+
+Analysis 1 â
+
+Differentiation
+
+x
+
+Ableitungsregeln
+
+1-1
+
+Beispiel:
+Ableitung der Umkehrfunktion x = arctan y der Tangensfunktion
+d sin x
+cos2 x + sin2 x
+1
+d
+tan x =
+=
+=
+2
+dx
+dx cos x
+cos x
+cos2 x
+Formel fuĚr die Ableitung der Umkehrfunktion =â
+d
+arctan y =
+dy
+
+
+
+1
+cos2 x
+
+â1
+
+= cos2 x
+
+Darstellung als Funktion von y
+1
+sin2 x
+=
+1
++
+= 1 + y2
+cos2 x
+cos2 x
+=â
+
+d
+1
+arctan y =
+dy
+1 + y2
+
+analoge Berechnung der Umkehrfunktion des Kotangens
+Analysis 1 â
+
+Differentiation
+
+Ableitungsregeln
+
+2-1
+
+3
+
+3
+
+2
+
+2
+
+1
+
+1
+
+arctan x
+
+0
+â1
+â3
+
+0
+â1
+
+tan x
+
+â2
+
+â3 â2 â1
+
+Analysis 1 â
+
+Differentiation
+
+0
+
+arccot x
+
+cot x
+
+â2
+
+1
+
+2
+
+3
+
+â3
+
+â3 â2 â1
+
+Ableitungsregeln
+
+0
+
+1
+
+2
+
+3
+
+2-2
+
+Regel von lâHospital
+Haben zwei stetig differenzierbare Funktionen f und g eine gemeinsame
+Nullstelle oder Polstelle in a, so gilt
+f (x)
+f 0 (x)
+= lim 0 ,
+xâa g (x)
+xâa g (x)
+lim
+
+falls der rechte Grenzwert existiert (gegebenenfalls im uneigentlichen Sinn).
+
+Analysis 1 â
+
+Differentiation
+
+Anwendungen
+
+1-1
+
+Beispiel:
+(i) Fall 0/0:
+x 3 â 2x + 1
+3x 2 â 2
+=
+lim
+= â1
+xâ1 6x â 7
+xâ1 3x 2 â 7x + 4
+lim
+
+(ii) Fall ââ/â:
+
+lim x ln(x) = lim
+
+xâ0+
+
+xâ0+
+
+ln(x)
+1/x
+= lim
+= lim âx = 0
+xâ0+ â1/x 2
+xâ0+
+1/x
+
+(iii) Fall x â â:
+Ď/2 â arctan x
+â1/(1 + x 2 )
+= lim
+=1
+xââ
+xââ
+1/x
+â1/x 2
+lim
+
+Analysis 1 â
+
+Differentiation
+
+Anwendungen
+
+2-1
+
+(iv) mehrfache Anwendung:
+
+
+1
+1
+lim
+â
+=
+xâ0 x
+sin(x)
+
+sin(x) â x
+cos(x) â 1
+= lim
+xâ0 x sin(x)
+xâ0 sin(x) + x cos(x)
+â sin(x)
+= lim
+=0
+xâ0 2 cos(x) â x sin(x)
+lim
+
+beachte: Existenz der zu berechnenden Grenzwerte erst durch die Existenz
+der nach Anwendung der Regel von lâHospital enstehenden Grenzwerte
+gesichert
+
+Analysis 1 â
+
+Differentiation
+
+Anwendungen
+
+2-2
+
+Taylor-Polynom
+Das Taylor-Polynom
+pn (x) = f (a) + f 0 (a)(x â a) + Âˇ Âˇ Âˇ +
+
+f (n) (a)
+(x â a)n
+n!
+
+interpoliert die Ableitungen einer Funktion f im Punkt a bis zur Ordnung
+(k)
+n, d. h. pn (a) = f (k) (a) , k = 0, . . . , n.
+Ist f (n + 1)-mal stetig differenzierbar, so gilt
+f (x) = pn (x) + R,
+
+R=
+
+f (n+1) (t)
+(x â a)n+1
+(n + 1)!
+
+fuĚr ein t zwischen a und x.
+
+Analysis 1 â
+
+Differentiation
+
+Anwendungen
+
+1-1
+
+Beispiel:
+(i) Taylor-Polynome der Sinusfunktion f (x) = sin x:
+Ableitungen
+f 0 = cos x,
+
+f 00 = â sin x,
+
+f 000 = â cos x,
+
+f (4) = f = sin x, ...
+
+f 0 (0) = 1, f 00 (0) = 0, f 000 (0) = â1, f (4) (0) = 0, . . .
+p1 (x) = p2 (x) = x
+x3
+6
+x3
+x5
+p5 (x) = p6 (x) = x â
++
+6
+120
+
+p3 (x) = p4 (x) = x â
+
+Analysis 1 â
+
+Differentiation
+
+Anwendungen
+
+2-1
+
+(ii) Taylor-Polynome der Kosinusfunktion f (x) = cos(x):
+
+p0 (x) = p1 (x) = 1
+x2
+2
+x2 x4
+p4 (x) = p5 (x) = 1 â
++
+2
+24
+p2 (x) = p3 (x) = 1 â
+
+(iii) Fehler:
+sehr genaue Approximation fuĚr kleine x, z.B.:
+sin 0.1 â p4 (0.1) = 0.09983...
+Restglied
+|R| =
+
+Analysis 1 â
+
+Differentiation
+
+| cos t|
+1
+0.15 â¤
+â¤ 10â7
+5!
+12000000
+
+Anwendungen
+
+2-2
+
+1.5
+
+p1
+
+1.5
+
+p5
+
+1
+0.5
+
+0.5
+
+0
+
+0
+
+â0.5
+
+p3
+
+sin x
+
+â1
+â1.5
+
+p7
+0
+
+1
+
+2
+
+3
+
+4
+
+p0
+
+1
+
+5
+
+6
+
+cos x
+p4
+
+â0.5
+
+p2
+
+â1
+â1.5
+
+p6
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Fehler der Taylor-Polynome fuĚr einige x-Werte
+x
+p1 (x)
+p3 (x)
+p5 (x)
+p0 (x)
+p2 (x)
+p4 (x)
+Analysis 1 â
+
+Ď
+3.1416
+2.0261
+0.5240
+2.0000
+2.9348
+1.1239
+
+Differentiation
+
+Ď/2
+0.5708
+0.0752
+0.0045
+1.0000
+0.2337
+0.0200
+
+Ď/3
+0.1812
+0.0102
+0.0003
+0.5000
+0.0483
+0.0018
+
+Ď/4
+0.0783
+0.0025
+0.0000
+0.2929
+0.0155
+0.0003
+
+Ď/5
+0.0405
+0.0008
+0.0000
+0.1910
+0.0064
+0.0001
+
+Anwendungen
+
+Ď/6
+0.0236
+0.0003
+0.0000
+0.1340
+0.0031
+0.0000
+2-3
+
+Beispiel:
+quadratisches Taylor-Polynom der Logarithmus-Funktion f (x) = ln x im
+Punkt a = 1
+Ableitungen:
+0
+
+f (x) =
+
+1
+,
+x
+
+00
+
+f (x) = â
+
+1
+,
+x2
+
+000
+
+f (x) =
+
+2
+x3
+
+Auswertung bei x = 1
+1
+p(x) = 0 + (x â 1) â (x â 1)2
+2
+Restglied:
+r (x) = f (x) â p(x) =
+
+1
+1 000
+f (Îž) (x â 1)3 =
+(x â 1)3
+3!
+3 Îž3
+
+mit Îž zwischen x und 1
+Analysis 1 â
+
+Differentiation
+
+Anwendungen
+
+3-1
+
+Extremwert
+Eine Funktion f hat in a ein globales Minimum auf einer Menge D, wenn
+f (a) â¤ f (x)
+
+âx â D .
+
+Bei einem lokalen Minimum ist der Funktionswert f (a) nur in einer
+hinreichend kleinen Umgebung (a â Î´, a + Î´) âŠ D minimal.
+Globales und lokales Maximum sind analog definiert.
+y
+
+globale Extrema
+lokale Extrema
+
+x
+D
+
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+1-1
+
+FuĚr eine stuĚckweise stetig differenzierbare Funktion auf einem
+abgeschlossenen Intervall koĚnnen Extremwerte nur an den Nullstellen der
+Ableitung, Unstetigkeitsstellen oder Randpunkten auftreten. Der Typ kann
+mit Hilfe hoĚherer Ableitungen und durch Vergleichen der Funktionswerte
+ermittelt werden.
+
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+1-2
+
+Beispiel:
+(i) f (x) = x 4 â 2x 2 â x/4, D = R:
+ein lokales und ein globales Minimum, ein lokales Maximum
+kein globales Maximum, da f (x) â â fuĚr x â Âąâ
+3
+2
+
+y = x4 â 2x2 â
+
+x
+4
+
+1
+lokales Maximum
+
+0
+â1
+â2
+Analysis 1 â
+
+lokales Minimum
+globales Minimum
+â2
+
+Differentiation
+
+â1
+
+0
+
+1
+Kurvendiskussion
+
+2
+2-1
+
+(ii) f (x) = 1/x, D = R \ {0}:
+strikt monoton auf (ââ, 0) und (0, â)
+keine Extrema
+
+4
+y=
+
+2
+
+1
+x
+
+0
+â2
+â4
+â4
+Analysis 1 â
+
+Differentiation
+
+â2
+
+0
+
+2
+Kurvendiskussion
+
+4
+2-2
+
+(iii) f (x) = |x + 1| â 2|x| + |x â 3|, D = R:
+Monotoniebereiche: Extrema am Rand
+Bereiche mit konstantem Wert: alle Punkte lokal Extremstellen
+
+5
+
+globales Maximum
+
+4
+3
+2
+1
+
+lokale Maxima
+lokale Minima
+
+lokales Minimum
+y = |x + 1| â 2|x|
++|x â 3|
+
+0
+â1
+â2
+â3
+Analysis 1 â
+
+lokale Maxima
+globales Minimum
+â8
+
+Differentiation
+
+â4
+
+0
+
+lokale Minima
+4
+
+8
+Kurvendiskussion
+
+12
+2-3
+
+(iv) f (x) = âx 3 â x, D = (â1, 1]:
+unter UmstaĚnden kein Extremum bei offenen oder halboffenem
+Definitionsbereich
+
+2
+y = âx3 â x
+
+1
+0
+â1
+â2
+
+globales Minimum
+â1.5 â1 â0.5
+
+Analysis 1 â
+
+Differentiation
+
+0
+
+0.5
+
+1
+
+Kurvendiskussion
+
+1.5
+2-4
+
+Beispiel:
+schnellstmoĚgliche VerbindungsstraĂe vom Dorf D zur Stadt S:
+Durchschnittsgeschwindigkeit:
+va = 120 km/h auf der Autobahn und vn = 60 km/h auf der Nebenstrecke
+x
+
+b x
+
+P
+
+PSfrag repla ements
+
+S
+
+a
+
+D
+
+Fahrtzeit:
+t(x) =
+Analysis 1 â
+
+Differentiation
+
+p
+a2 + x 2 /vn + (b â x)/va
+Kurvendiskussion
+
+3-1
+
+Nullsetzen der Ableitung,
+t 0 (x) = â
+p
+va x = vn a2 + x 2
+
+â
+
+a2
+
+1 !
+x
+â
+= 0,
+2
+v
++ x vn
+a
+
+q
+â
+xm = a2 /((va /vn )2 â 1) = a/ 3
+
+(va /vn = 2)
+Vergleich der Zeit mit Zeiten an den Intervallendpunkten:
+â
+â
+â
+3a + b
+2a + b
+2 a2 + b 2
+t(a/ 3) =
+, t(0) =
+, t(b) =
+va
+va
+va
+t(0) âĽ t(xm ) X
+
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+3-2
+
+â
+xm optimal fuĚr a/ 3 = xm â¤ b, da
+p
+â
+t(b) âĽ t(xm ) â 2 a2 + b 2 âĽ 3a + b
+â
+â 4a2 + 4b 2 âĽ 3a2 + 2 3ab + b 2
+â
+â
+â a2 â 2 3ab + 3b 2 = (a â 3b)2 âĽ 0
+minimale Zeit fuĚr
+x = min(xm , b)
+(Extremum am Rand fuĚr xm âĽ b)
+
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+3-3
+
+Extremwerttest
+Der Typ eines Extremwerts laĚsst sich mit Hilfe hoĚherer Ableitungen
+entscheiden.
+y
+
+f
+x
+fâ˛
+
+f â˛â˛
+
+Ist f zweimal stetig differenzierbar und
+f 0 (a) = 0 ,
+
+f 00 (a) > 0
+
+(f 00 (a) < 0) ,
+
+so hat f ein lokales Minimum (Maximum) bei a.
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+1-1
+
+Verschwindet die zweite Ableitung an der Stelle a, so muĚssen hoĚhere
+Ableitungen zur Entscheidung herangezogen werden. Gilt
+f 0 (a) = f 00 (a) = Âˇ Âˇ Âˇ = f (nâ1) (a) = 0
+
+und
+
+f (n) (a) 6= 0 ,
+
+so hat f in a genau dann eine Extremstelle, wenn n gerade ist. In diesem
+Fall hat f in a ein lokales Maximum bzw. Minimum, wenn f (n) (a) < 0
+bzw. f (n) (a) > 0 ist.
+
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+1-2
+
+Beispiel:
+Extrema des Polynoms
+p(x) = (x + 1)2 x 3 (x â 1)4
+0.2
+0.15
+0.1
+0.05
+0
+â0.05
+â0.1
+â0.15
+â0.2
+â0.25
+
+p(x) = (x + 1)2 x3 (x â 1)4
+
+â1
+Analysis 1 â
+
+Differentiation
+
+â0.5
+
+0
+
+0.5
+
+1
+
+Kurvendiskussion
+
+2-1
+
+keine globalen Extrema, da
+lim p(x) = Âąâ
+
+xâÂąâ
+
+(i) Nullstellen der Ableitung bei x = â1, 0, 1:
+p 0 (â1) = 0, p 00 (â1) = 2(â1)3 (â2)4 < 0
+=â lokales Maximum, Funktionswert 0
+p 0 (0) = p 00 (0) = 0, p 000 (0) 6= 0
+(ungerade Ordnung der ersten nichttrivialen Ableitung)
+=â kein Extremwert
+p 0 (1) = p 00 (1) = p 000 (1) = 0, p (4) (1) = 22 13 4! > 0
+(gerade Ordnung der ersten nichttrivialen Ableitung)
+=â lokales Minimum, Funktionswert 0
+
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+2-2
+
+(ii) weitere Nullstellen von p 0
+p(â1) = p(0) = p(1) = 0
+=â mindestens je eine weitere lokale Extremstelle in (â1, 0) und (0, 1)
+Grad p 0 = 8, Gesamtvielfachheit der Nullstellen von p 0 bei â1, 0, 1 gleich 6
+=â Ableitung an genau zwei Stellen s â (â1, 0) und t â (0, 1) Null
+Typ der Extrema bei Âą1
+lokales Minimum bei s (p < 0 auf (â1, 0)) und lokales Maximum bei t
+(p > 0 auf (0, 1))
+
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+2-3
+
+Beispiel:
+Schachtel moĚglichst groĂen Volumens gemaĚĂ dem abgebildeten
+Schnittmuster
+ďŁź
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ˝
+
+h
+
+Analysis 1 â
+
+(
+
+Differentiation
+
+Kurvendiskussion
+
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁž
+
+1
+
+3-1
+
+Volumen
+1
+V (h) = (1 â 2h) Âˇ (1 â 2h)/2 Âˇ |{z}
+h = 2h3 â 2h2 + h
+| {z } | {z }
+2
+LaĚnge
+
+Breite
+
+HoĚhe
+
+Nullsetzen der Ableitung,
+
+V 0 (h) = 6h2 â 4h +
+1
+h= Âą
+3
+
+r
+
+1 !
+= 0,
+2
+
+1
+1
+1 1
+â
+= Âą
+9 12
+3 6
+
+geometrisch sinnvoll: h = 1/6 mit
+V (1/6) =
+
+2 1 1
+1
+Âˇ Âˇ =
+3 3 6
+27
+
+Maximum auf zulaĚssigem Bereich h â [0, 1/2], da Volumen Null an den
+Randpunkten
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+3-2
+
+Wendepunkte
+An einem Wendepunkt a einer Funktion f wechselt die zweite Ableitung
+das Vorzeichen.
+y
+
+f
+
+x
+
+a
+f â˛â˛
+
+FuĚr eine glatte Funktion ist notwendig, dass f 00 (a) = 0 und hinreichend,
+dass f 000 (a) 6= 0.
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+1-1
+
+Beispiel:
+kubisches Polynom
+1
+0
+â1
+Wendepunkt
+
+â2
+â3
+â4
+
+f (x) = x3 â 3x2
+
+â5
+â6
+â2
+
+f â˛â˛ (x) = 6x â 6
+â1
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+lineare zweite Ableitung
+=â Existenz genau eines Wendepunktes
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+2-1
+
+Asymptoten
+Eine lineare Funktion p(x) = ax + b ist eine Asymptote von f , wenn
+f (x) â p(x) â 0
+
+fuĚr x â â oder x â ââ .
+t1
+
+t4
+
+t3
+
+t2
+
+Wie in der Abbildung illustriert, beschreibt eine Asymptote das Verhalten
+der Funktion f fuĚr groĂe x.
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+1-1
+
+Beispiel:
+Asymptoten der Funktion
+f (x) =
+
+x +1
+2 + ex
+
+0.5
+f (x) =
+
+(x + 1)
+2 + ex
+
+0
+p2 (x) = 0
+
+â0.5
+
+â1
+â3
+
+Analysis 1 â
+
+Differentiation
+
+p1 (x) =
+
+â2
+
+â1
+
+(x + 1)
+2
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Kurvendiskussion
+
+6
+
+2-1
+
+(i) x â â:
+lim f (x) =
+
+xââ
+
+=
+=â x-Achse als Asymptote
+(ii) x â ââ:
+ex â 0 =â Asymptote
+
+Analysis 1 â
+
+Differentiation
+
+lim
+
+xââ
+
+(x + 1) Âˇ e âx
+2 Âˇ e âx + 1
+
+0
+=0
+0+1
+
+p(x) =
+
+x +1
+2
+
+Kurvendiskussion
+
+2-2
+
+Beispiel:
+rationale Funktion
+r (x) =
+
+p(x)
+q(x)
+
+lineare Asymptote, falls Grad p â¤ Grad q + 1
+y
+
+y
+
+y
+
+x
+
+x
+
+x
+
+Grad p < Grad q =â
+lim r (x) = 0 ,
+
+xâÂąâ
+
+x-Achse ist Asymptote
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+3-1
+
+Grad q â¤ Grad p â¤ Grad q + 1
+lineare Asymptote, bestimmt mit Hilfe von Polynomdivision:
+r (x) =
+
+p(x)
+pĚ(x)
+= ax + b +
+q(x)
+q(x)
+
+mit Grad pĚ < Grad q
+waagrechte Asymptote (a = 0), falls Grad p = Grad q
+
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+3-2
+
+Kurvendiskussion
+Zur Beurteilung des qualitativen Verhaltens einer Funktion koĚnnen
+folgende Merkmale herangezogen werden:
+Symmetrien
+PeriodizitaĚt
+Unstetigkeitsstellen
+Nullstellen (â Vorzeichen)
+Extrema (â Monotoniebereiche)
+Wendepunkte (â KonvexitaĚtsbereiche)
+Polstellen
+Asymptoten
+
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+1-1
+
+y
+
+x
+Extremum Polstelle Extremum
+Wendepunkt
+Wendepunkt
+Nullstelle Nullstelle
+Sprungstelle
+Sprungstelle
+
+Eine entsprechende Analyse der Funktion wird als Kurvendiskussion
+bezeichnet.
+
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+1-2
+
+Beispiel:
+Kurvendiskussion der Funktion
+f (x) = sin x +
+
+1
+sin(3x)
+3
+
+(i) Symmetrie:
+undegrade, da sin x = â sin(âx)
+(ii) PeriodizitaĚt:
+Periode 2Ď
+betrachte nur das Intervall [âĎ, Ď]
+(iii) Unstetigkeitsstellen:
+keine
+(iv) Nullstellen:
+Additionstheorem sin(3x) = 3 sin x â 4 sin3 x
+
+
+4
+4
+f (x) = 2 sin x â sin3 x = sin x 2 â sin2 x
+3
+3
+|
+{z
+}
+6=0
+
+=â Nullstellen bei 0 und ÂąĎ
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+2-1
+
+(v) Extrema:
+Ableitung
+f 0 (x) = 2 cos x â 4 sin2 x cos x = â2 cos x + 4 cos3 x
+(sin2 x = 1 â cos2 x)
+â
+Null fuĚr cos x = 0 oder cos x = Âą1/ 2
+x = ÂąĎ/2
+
+â¨
+
+x = ÂąĎ/4
+
+moĚgliche Extrema bei
+â¨
+
+x = Âą3Ď/4
+
+PeriodizitaĚt
+keine Randwerte zu untersuchen
+zweite Ableitung
+f 00 (x) = 2 sin x â 12 cos2 x sin x
+
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+2-2
+
+Vorzeichen der zweiten Ableitung und Vergleich der Funktionswerte
+Typ der Extrema
+
+Analysis 1 â
+
+x
+fâ(x)
+f 00 (x)
+â
+â3Ď/4 â 8/3 2 2 > 0
+âĎ/2
+â2/3
+â2
+â
+â <0
+âĎ/4 ââ 8/3 2 â2 > 0
+Ď/4
+8/3 â2 2 < 0
+Ď/2
+2/3
+2â> 0
+â
+3Ď/4
+8/3 â2 2 < 0
+
+Typ
+globales Minimum
+lokales Maximum
+globales Minimum
+globales Maximum
+lokales Minimum
+globales Maximum
+
+Differentiation
+
+Kurvendiskussion
+
+2-3
+
+(vi) Wendepunkte:
+Umformung der zweiten Ableitung
+f 00 (x) = 2 sin x â 12 cos2 x sin x = â10 sin x + 12 sin3 x
+p
+(cos2 x = 1 â sin2 x) Null fuĚr sin x = 0 oder sin x = Âą 5/6, d.h.
+x =0
+
+â¨
+
+x = ÂąĎ
+
+dritte Ableitung ungleich Null
+
+â¨
+
+x â Âą1.15
+
+â¨
+
+x â Âą1.99
+
+Wendepunkte bei
+
+(0, 0), (ÂąĎ, 0), (â1.99, â0.81), (â1.15, â0.81), (1.15, 0.81), (1.99, 0.81)
+(vii) Polstellen:
+keine
+(viii) Asymptoten:
+keine, da f periodisch und nicht konstant
+
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+2-4
+
+1
+Nullstellen
+0.5
+
+Extrema
+Wendepunkte
+
+0
+
+â0.5
+â1
+
+Analysis 1 â
+
+â3
+
+Differentiation
+
+â2
+
+â1
+
+0
+
+1
+
+Kurvendiskussion
+
+2
+
+3
+
+2-5
+
+Beispiel:
+Kurvendiskussion der Funktion
+f (x) =
+
+5x 3 + 4x
+x2 â 1
+
+(i) Symmetrie:
+ungerade, da Quotient aus ungeradem ZaĚhler und geradem Nenner
+(ii) PeriodizitaĚt:
+nicht periodisch
+(iii) Unstetigkeitsstellen:
+Nennernullstellen Âą1, ZaĚhler ungleich Null
+nicht hebbar
+(iv) Nullstellen:
+ZaĚhler x(5x 2 + 4) Null bei x = 0
+
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+3-1
+
+(v) Extrema:
+Ableitung
+f 0 (x) =
+
+5x 4 â 19x 2 â 4
+(x 2 â 4)(5x 2 + 1) !
+=0
+=
+2
+2
+(x â 1)
+(x 2 â 1)2
+
+moĚgliche Extrema bei x = Âą2
+einfache Pole (Vorzeichenwechsel)
+keine globalen Extrema
+f (x) â ââ fuĚr x â ââ und x â â1
+=â lokales Maximum in (ââ, â1)
+analog lokales Minimum in (1, â)
+lokale Extrema an den beiden Nullstellen der Ableitung
+lokales Maximum: (â2, 16), lokales Minimum: (2, 16)
+(vi) Wendepunkte:
+zweite Ableitung
+18x(x 2 + 3) !
+=0
+f 00 (x) =
+(x 2 â 1)3
+Wendepunkt (0, 0), da dritte Ableitung bei 0 ungleich Null
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+3-2
+
+(vii) Polstellen:
+einfache Polstellen bei x = Âą1
+(viii) Asymptoten:
+Polynomdivision
+f (x) = 5 x + 0 +
+Asymptote: p(x) = 5 x
+
+Analysis 1 â
+
+Differentiation
+
+9x
+â1
+
+x2
+
+Kurvendiskussion
+
+3-3
+
+3
+2
+
+Nullstellen
+Extrema
+Wendepunkte
+
+1
+0
+â1
+â2
+â3
+â5 â4 â3 â2 â1
+Analysis 1 â
+
+Differentiation
+
+0
+
+1
+
+2
+
+Kurvendiskussion
+
+3
+
+4
+
+5
+
+3-4
+
+Beispiel:
+Kurvendiskussion der Funktion
+2
+
+f (x) = eâx +
+
+4|x|
+e4
+
+(i) Symmetrie:
+gerade, da x 2 und |x| gerade
+(ii) PeriodizitaĚt:
+nicht periodisch
+(iii) Unstetigkeitsstellen:
+stetig, Ableitung unstetig bei Null wegen Betragsfunktion
+(iv) Nullstellen:
+keine, wegen PositivitaĚt der Exponential- und Betragsfunktion
+
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+4-1
+
+(v) Extrema:
+Ableitung
+2
+
+f 0 (x) = â2xeâx +
+
+4
+!
+sign(x) = 0,
+e4
+
+x 6= 0
+
+moĚgliche Extrema bei x = Âą2
+zusaĚtzlich Unstetigkeitsstelle der Ableitung bei x = 0
+f (x) â â fuĚr x â Âąâ
+=â kein globales Maximum, mindestens ein globales Minimum
+Vergleich der Funktionswerte der moĚglichen Extrema
+(x, y ) : (â2, 9/e4 ), (0, 1), (2, 9/e4 )
+Symmetrie
+globale Minima bei x = Âą2
+lokales Maximum bei x = 0 wegen Existenz eines Maximums in [â2, 2]
+
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+4-2
+
+(vi) Wendepunkte:
+zweite Ableitung
+2
+
+2
+
+!
+
+f 00 (x) = â2eâx + 4x 2 eâx = 0, x 6= 0
+â
+dritte Ableitung an den Nullstellen x = Âą1/ 2 nicht Null
+
+
+â
+4
+â1/2
+Âą 1/ 2, e
++â
+2 e4
+
+Wendepunkte
+
+(vii) Polstellen:
+keine
+(viii) Asymptoten:
+2
+eâx schneller gegen Null als als |x| fuĚr x â â
+Asymptoten
+â4x
+4x
+p+ (x) = 4 , pâ (x) = 4
+e
+e
+fuĚr x â Âąâ
+Analysis 1 â
+
+Differentiation
+
+Kurvendiskussion
+
+4-3
+
+1
+
+Nullstellen
+Extrema
+
+0.75
+
+Wendepunkte
+
+0.5
+
+0.25
+
+0
+â4
+
+Analysis 1 â
+
+â3
+
+Differentiation
+
+â2
+
+â1
+
+0
+
+1
+
+2
+
+Kurvendiskussion
+
+3
+
+4
+
+4-4
+
+Eigenschaften des Integrals
+Das bestimmte Integral besitzt folgende Eigenschaften:
+Z
+Z
+Z
+Z
+Z
+LinearitaĚt:
+rf = r f ,
+f +g = f + g
+Z
+Z
+Monotonie: f â¤ g =â
+f â¤ g
+Z b
+Z c
+Z c
+AdditivitaĚt:
+f +
+f =
+f
+a
+
+b
+
+a
+
+In
+mit der letzten Eigenschaft definiert man
+R a UĚbereinstimmung
+Rb
+b f =â a f.
+
+Analysis 1 â
+
+Integration
+
+Bestimmtes und unbestimmtes Integral
+
+3-1
+
+Stammfunktion
+Eine Funktion F mit F 0 = f ist eine Stammfunktion von f , und man
+schreibt
+Z
+f (x) dx = F (x) + c
+
+fuĚr die Menge aller Stammfunktionen, die als unbestimmtes Integral von f
+bezeichnet wird.
+Die Integrationskonstante c ist beliebig. Beispielsweise ist
+Z x
+Fa (x) =
+f (t) dt
+a
+
+mit Fa (a) = 0 eine moĚgliche Stammfunktion.
+Nicht zu allen elementaren Funktionen ist die explizite Angabe einer
+
+solchen Stammfunktion moĚglich, ein Beispiel ist f (x) = exp x 2 .
+Analysis 1 â
+
+Integration
+
+Bestimmtes und unbestimmtes Integral
+
+1-1
+
+Stammfunktionen einiger Grundfunktionen
+
+xs
+
+f (x)
+F (x)
+s+1
+, s 6= â1 x /(s + 1)
+
+exp(x)
+sin x
+tan x
+1/(1 + x 2 )
+
+Analysis 1 â
+
+Integration
+
+exp(x)
+â cos x
+â ln(cos x)
+arctan x
+
+f (x)
+1/x
+
+F (x)
+ln |x|
+
+ln(x)
+x ln(x) â x
+cos x
+sin x
+sinâx cos x
+sin2 (x)/2
+1/ 1 â x 2
+arcsin x
+
+Bestimmtes und unbestimmtes Integral
+
+2-1
+
+Hauptsatz der Integralrechnung
+Ist F eine Stammfunktion einer stetigen Funktion f , d.h. f = F 0 , so gilt
+Z
+
+a
+
+bzw. in Kurzschreibweise
+
+b
+
+f (x) dx = F (b) â F (a)
+Z
+
+a
+
+b
+
+f = [F ]ba .
+
+Ein bestimmtes Integral laĚsst sich also als Differenz der Funktionswerte
+einer Stammfunktion an den Intervallendpunkten berechnen.
+
+Analysis 1 â
+
+Integration
+
+Bestimmtes und unbestimmtes Integral
+
+1-1
+
+Beispiel:
+(d/dx) exp (x) = exp (x) =â
+Z b
+a
+
+e x dx = e b â e a
+
+y
+
+y = exp(x)
+e
+
+b
+
+ea
+1
+
+x
+a
+
+b
+
+FlaĚche unter dem Graph zwischen a und b entspricht einem Rechteck mit
+Breite 1 und dem Abstand der Funktionswerte als HoĚhe
+Analysis 1 â
+
+Integration
+
+Bestimmtes und unbestimmtes Integral
+
+2-1
+
+Logarithmusfunktion:
+F (x) = ln(x),
+=â
+
+Z
+
+a
+
+Analysis 1 â
+
+Integration
+
+f (x) = F 0 (x) = 1/x,
+
+x â R+
+
+b
+
+1/x dx = ln(b) â ln(a) ,
+
+a, b â R+
+
+Bestimmtes und unbestimmtes Integral
+
+2-2
+
+Beispiel:
+Arkustangensfunktion: Stammfunktion von f (x) = 1/(1 + x 2 )
+z.B.
+Z 1
+dx
+Ď
+= arctan(1) â arctan(0) =
+2
+4
+0 1+x
+Stammfunktion der Tangensfunkion
+
+F (x) = â ln(cos x),
+
+|x| < Ď/2
+
+(Kettelregel =â F 0 (x) = â| cos x|â1 (â sin x))
+z.B.
+Z Ď/4
+â
+1
+Ď/4
+tan x dx = â [ln(cos x)]0 = â ln(1/ 2) + ln(1) = ln(2) â 0.347
+2
+0
+
+Analysis 1 â
+
+Integration
+
+Bestimmtes und unbestimmtes Integral
+
+3-1
+
+Partielle Integration
+Aus der Produktregel (fg )0 = f 0 g + fg 0 ergibt sich eine analoge Formel fuĚr
+unbestimmte Integrale:
+Z
+Z
+f 0 (x)g (x)dx = f (x)g (x) â f (x)g 0 (x) dx .
+Entsprechend gilt
+
+Z
+
+a
+
+b
+
+0
+
+f g=
+
+[fg ]ba
+
+â
+
+Z
+
+b
+
+fg 0
+
+a
+
+fuĚr bestimmte Integrale.
+Dabei ist zu beachten, dass der Randterm [fg ]ba verschwindet, wenn eine
+der beiden Funktionen an den Intervallendpunkten Null ist. Er entfaĚllt
+ebenfalls fuĚr periodische Funktionen mit PeriodenlaĚnge (b â a).
+
+Analysis 1 â
+
+Integration
+
+Integrationsregeln
+
+1-1
+
+Beispiel:
+R
+
+(1 + x)Îą dx = (1 + x)Îą+1 /(Îą + 1) + c fuĚr Îą 6= â1 =â
+Z
+Z
+â
+2
+2
+3/2
+x 1 + x dx = x (x + 1) â 1 Âˇ (1 + x)3/2 dx
+0
+3
+3
+u
+v
+2
+4
+=
+x(1 + x)3/2 â (1 + x)5/2 + c
+3
+15
+
+analog
+Z
+
+0
+
+1
+
+â
+x 1 â x dx
+u
+
+Analysis 1 â
+
+v0
+
+Integration
+
+
+
+1 Z 1
+2
+2
+3/2
+= âx (1 â x)
++
+1 Âˇ (1 â x)3/2 dx
+3
+3
+0
+0
+
+1
+4
+4
+= 0â
+(1 â x)5/2 =
+15
+15
+0
+
+Integrationsregeln
+
+2-1
+
+Beispiel:
+partielle Integration logarithmischer Faktoren
+z.B.
+Z
+Z
+1
+1
+1
+n+1
+n
+x
+ln |x| â
+x n+1 dx
+x ln |x| dx =
+n+1
+n+1
+x
+1
+1
+=
+x n+1 ln |x| â
+x n+1 + c
+n+1
+(n + 1)2
+analoge Integration von AusdruĚcken der Form
+X
+aj,k x j (ln |x|)k
+j,k
+
+Analysis 1 â
+
+Integration
+
+Integrationsregeln
+
+3-1
+
+Beispiel:
+partielle Integration von Produkten aus Monomen und
+Exponentialfunktionen
+rekursive Berechnung durch Reduktion des Polynomgrades:
+Z
+Z
+n x
+n x
+x e dx = x e â nx nâ1 ex dx
+Z
+n x
+nâ1 x
+= x e â nx
+e + n(n â 1)x nâ2 ex dx
+= ÂˇÂˇÂˇ
+n
+X
+n!
+= ex
+(â1)nâk x k + c
+k!
+k=0
+
+Analysis 1 â
+
+Integration
+
+Integrationsregeln
+
+4-1
+
+analog: partielle Integration von Produkten aus Monomen und Sinus oder
+Kosinus
+Z
+
+x
+
+n
+
+
+
+Analysis 1 â
+
+cos x
+sin x
+
+
+
+Integration
+
+dx = x
+
+n
+
+= ÂˇÂˇÂˇ
+
+
+
+sin x
+â cos x
+
+
+
+â
+
+Z
+
+nx
+
+nâ1
+
+Integrationsregeln
+
+
+
+sin x
+â cos x
+
+
+
+dx
+
+4-2
+
+Beispiel:
+partielle Integration von Produkten aus Exponentialfunktionen und Sinus
+oder Kosinus
+zweimalige partielle Integration
+Z
+Z
+1 ax
+b
+ax
+e sin(bx) dx = e sin(bx) â
+e ax cos(bx) dx
+a
+a
+Z
+b
+b2
+1
+e ax sin(bx) dx
+= e ax sin(bx) â 2 e ax cos(bx) â 2
+a
+a
+a
+Umformung
+Z
+
+Analysis 1 â
+
+e ax sin(bx) dx =
+
+Integration
+
+ae ax sin(bx) â be ax cos(bx)
++c
+a2 + b 2
+
+Integrationsregeln
+
+5-1
+
+Variablensubstitution
+Aus der Kettenregel
+d
+F (g (x)) = f (g (x))g 0 (x),
+dx
+
+f = F 0,
+
+folgt durch Bilden von Stammfunktionen fuĚr eine Substitution y = g (x)
+Z
+Z
+f (g (x))g 0 (x) dx = F (y ) + c = f (y ) dy .
+Entsprechend gilt
+Z
+
+a
+
+b
+
+0
+
+f (g (x))g (x) dx = F (g (b)) â F (g (a)) =
+
+Z
+
+g (b)
+
+f (y ) dy
+
+g (a)
+
+fuĚr bestimmte Integrale.
+
+Analysis 1 â
+
+Integration
+
+Integrationsregeln
+
+1-1
+
+Mit Hilfe von Differentialen laĚĂt sich diese Formel in der Form
+Z b
+Z g (b)
+dy
+f (g (x)) dx =
+f (y ) dy
+dx
+a
+g (a)
+schreiben.
+Ein einfacher Spezialfall ist eine lineare Variablensubstitution:
+x 7â y = px + q .
+In diesem Fall ist
+
+bzw.
+
+Z
+Z
+
+a
+
+Analysis 1 â
+
+Integration
+
+f (px + q) dx =
+b
+
+f (px + q) dx =
+
+1
+F (y ) + c
+p
+1
+pb+q
+[F ]pa+q
+.
+p
+
+Integrationsregeln
+
+1-2
+
+Beispiel:
+einfache Variablensubstitution bei erkennbarer innerer Ableitung
+z.B.
+Z
+(ln x)2
+dx
+x
+Substitution y = g (x) = ln x, g 0 (x) = x1
+Z
+Z
+1
+2 0
+g (x) g (x) dx = y 2 dy = y 3 + c
+3
+RuĚcksubstitution
+Z
+
+Analysis 1 â
+
+Integration
+
+ln x 2
+1
+dx = (ln x)3 + c
+x
+3
+
+Integrationsregeln
+
+2-1
+
+Beispiel:
+Z
+
+Substitution
+
+x = ey
+
+e3y
+dy
+â1
+
+e2y
+,
+
+dx = e y dy
+
+Transformation des Integrals, Partialbruchzerlegung
+
+Z 
+Z
+x2
+1
+dx =
+1+ 2
+dx
+x2 â 1
+x â1
+Z
+Z
+Z
+1/2
+1/2
+dx â
+dx
+=
+1 dx +
+x â1
+x +1
+1
+x â1
+= x + ln
++c
+2
+x +1
+RuĚcksubstitution von x = ey
+F (y ) = ey +
+Analysis 1 â
+
+Integration
+
+1 ey â 1
++c
+2 ey + 1
+Integrationsregeln
+
+3-1
+
+Beispiel:
+Z
+
+0
+
+Ď/Îľ
+
+sin(Îľx)
+dx
+x
+
+1
+Îľ du
+
+Substitution u = Îľx, dx =
+Transformation der Integrationsgrenze x = Ď/Îľ â u = Ď
+Z
+
+Ď/Îľ
+
+0
+
+sin(Îľx)
+dx =
+x
+
+allgemeine Transformationregel:
+Z
+
+a
+
+b
+
+dx
+f (rx)
+=
+x
+
+Z
+
+Z
+
+0
+
+Ď
+
+sin u
+du
+u
+
+rb
+
+ra
+
+f (u)
+
+du
+u
+
+bei Skalierung der Variablen, d.h. u = rx, dx/x = du/u
+
+Analysis 1 â
+
+Integration
+
+Integrationsregeln
+
+4-1
+
+Beispiel:
+Z
+
+â
+
+dx
+=
+x 2 â 6x + 5
+
+Z
+
+dx
+1
+p
+=
+2
+(x â 3)2 â 4
+
+Z
+
+dx
+p
+((x â 3)/2)2 â 1
+
+(i) unbestimmtes Integral
+Substitution y = (x â 3)/2, dx = 2dy
+Z
+Z
+dx
+dy
+â
+p
+=
+x 2 â 6x + 5
+y2 â 1
+
+Substitution y = cosh t, dy = sinh t dt
+Z
+Z
+Z
+dy
+sinh t dt
+p
+=
+= dt = t + c
+sinh t
+y2 â 1
+= arcosh y + c = arcosh((x â 3)/2) + c =
+
+
+x â 3 1p 2
+= ln
++
+x â 6x + 5 + c
+2
+2
+(cosh2 t â 1 = sinh2 t, Formel fuĚr die Umkehrfunktion von cosh)
+Analysis 1 â
+
+Integration
+
+Integrationsregeln
+
+5-1
+
+(ii) Beispiel eines bestimmten Integrals
+Z
+
+5
+
+Analysis 1 â
+
+7
+
+â
+
+x2
+
+Integration
+
+dx
+â 6x + 5
+
+â
+= ln(4/2 + 12/2) â ln 1
+â
+= ln(2 + 3)
+
+Integrationsregeln
+
+5-2
+
+Beispiel:
+Viertelkreis
+
+PSfrag repla K
+ements
+: y = f (x) =
+1:5
+
+p
+
+1 â x 2,
+
+0â¤x â¤1
+
+1
+
+0:5
+1
+0
+100
+
+FlaĚcheninhalt
+
+0:5
+
+Z
+
+0
+
+Analysis 1 â
+
+Integration
+
+1
+
+1
+
+f (x)dx =
+
+1:5
+
+Ď
+4
+Integrationsregeln
+
+6-1
+
+(i) Substitution x = sin u, dx = cos u du mit x = 0 â u = 0,
+x = 1 â u = Ď2 =â
+Z
+
+1
+
+f (x)dx =
+
+0
+
+Z
+
+0
+
+Ď/2 p
+
+|
+
+1Ď
+1 â sin2 u cos u du =
+{z
+}
+2 2
+cos u
+
+(ii) Substitution x = cos u, dx = â sin u du mit x = 0 â u = âĎ/2,
+x = 1 â u = 2Ď =â
+Z 1
+Z 2Ď
+5Ď
+f (x)dx =
+â sin2 u du = â
+4
+0
+âĎ/2
+falsche Berechnung
+der Wurzel.
+â
+richtig: 1 â cos2 u = | sin u|
+korrektes Ergebnis
+Z
+
+1
+
+0
+
+Analysis 1 â
+
+Integration
+
+f (x)dx =
+
+Z
+
+2Ď
+
+âĎ/2
+
+| sin u|(â sin u)du =
+
+Integrationsregeln
+
+Ď
+4
+
+6-2
+
+Elementare rationale Integranden
+Die Stammfunktionen der drei Grundtypen rationaler Funktionen sind
+Z
+dx
+1
+=
+ln |x + b/a| + c
+ax + b
+a
+
+
+Z
+dx
+1
+x âa
+=
+arctan
++c
+(x â a)2 + b 2
+b
+b
+Z
+(x â a)dx
+1
+ln((x â a)2 + b 2 ) + c
+=
+(x â a)2 + b 2
+2
+
+Analysis 1 â
+
+Integration
+
+Rationale Integranden
+
+1-1
+
+Beispiel:
+3
+
+2
+
+1
+
+f (x) = 1/x
+
+0
+
+1
+
+2
+
+3
+
+Inhalt der grauen FlaĚche:
+Z 2
+1
+1
+1
+2 +
+dx = 1 + ln 2 â ln = 1 + ln 4
+2
+x
+2
+1/2
+Analysis 1 â
+
+Integration
+
+Rationale Integranden
+
+2-1
+
+Beispiel:
+2
+1.5
+
+f (x) = 1/(x2 + 1)
+
+1
+0.5
+0
+â3
+
+âa
+
+a
+â2
+
+â1
+
+0
+
+1
+
+2
+
+3
+
+FlaĚche unter dem Graph von f (x) = 1/(x 2 + 1):
+Z a
+dx
+Ď Ď
+lim
+= lim (arctan a â arctan(âa)) = + = Ď
+2
+aââ âa 1 + x
+aââ
+2
+2
+
+Analysis 1 â
+
+Integration
+
+Rationale Integranden
+
+3-1
+
+Beispiel:
+Berechnung der Stammfunktion von
+r (x) =
+
+2x 2
+
+3x + 6
+â 4x + 10
+
+quadratische ErgaĚnzung des Nenners
+2(x 2 â 2x + 5) = 2((x â 1)2 + 22 )
+Anpassung des ZaĚhlers
+3(x + 2) = 3((x â 1) + 3)
+Zerlegung in StandardausdruĚcke:
+r (x) =
+
+Analysis 1 â
+
+Integration
+
+9
+3
+x â1
+1
++
+2
+2
+2 (x â 1) + 2
+2 (x â 1)2 + 22
+Rationale Integranden
+
+4-1
+
+Stammfunktionen der elementaren Integranden
+
+
+Z
+3
+9
+x â1
+2
+r (x) dx = ln ((x â 1) + 4) + arctan
++c
+4
+4
+2
+Berechnung eines bestimmten Integrals durch Einsetzen der Grenzen in die
+Stammfunktion
+z.B.
+Z 3
+r (x) dx =
+1
+
+
+3
+9
+3
+9
+ln 8 â ln 4) + (arctan (1) â arctan (0) = ln 2 +
+Ď
+4
+4
+4
+16
+
+Analysis 1 â
+
+Integration
+
+Rationale Integranden
+
+4-2
+
+Partialbruchzerlegung
+Durch reelle Partialbruchzerlegung laĚsst sich eine reelle rationale Funktion
+als Summe der drei elementaren Grundtypen
+ax n ,
+
+c
+,
+(ax + b)n
+
+c(x â a) + d
+((x â a)2 + b 2 )n
+
+mit n â N0 , a, b, c, d â R darstellen. Mit Hilfe der Stammfunktionen fuĚr
+diese Grundfunktionen koĚnnen somit die Stammfunktionen fuĚr beliebige
+rationale Funktionen bestimmt werden.
+
+Analysis 1 â
+
+Integration
+
+Rationale Integranden
+
+1-1
+
+Beispiel:
+Berechnung von
+Z
+
+r (x)dx,
+
+r (x) =
+
+x 5 + 10x 3 + 52 â x + 25
+x 4 + 8x 2 â 9
+
+mit Partialbruchzerlegung
+Polynomdivision
+r (x) = x +
+
+2x 3 + 5x 2 + 8x + 25
+x 4 + 8x 2 â 9
+
+Faktorisierung des Nenners
+x 4 + 8x 2 â 9 = (x + 1)(x â 1)(x 2 + 9)
+
+Analysis 1 â
+
+Integration
+
+Rationale Integranden
+
+2-1
+
+Ansatz
+
+a
+b
+cx
+d
++
++ 2
++ 2
+x +1 x â1 x +9 x +9
+Multiplikation mit dem Hauptnenner
+r (x) â x =
+
+2x 3 + 5x 2 + 8x + 25 =
+a(x â 1)(x 2 + 9) + b(x + 1)(x 2 + 9) + (cx + d)(x 2 â 1)
+Koeffizienten-Vergleich =â a = â1, b = 2, c = 1 und d = 2
+Stammfunktionen der Grundfunktionen
+Z 5
+x + 10x 3 + 52 â x + 25
+=
+x 4 + 8x 2 â 9
+Z
+Z
+Z
+Z
+Z
+dx
+2dx
+xdx
+2dx
+xdx â
++
++
++
+=
+2
+2
+x +1
+x â1
+x +9
+x +9
+x 
+1 2
+1
+2
+x â ln |x + 1| + 2 ln |x â 1| + ln(x 2 + 9) + arctan
++c
+2
+2
+3
+3
+Analysis 1 â
+
+Integration
+
+Rationale Integranden
+
+2-2
+
+Integration trigonometrischer Polynome
+Trigonometrischer Pythagoras
+sin2 x + cos2 x = 1
+und Additionsthoereme
+sin(x + y ) = sin x cos y + sin y cos x
+cos(x + y ) = cos x cos y â sin x sin y
+werden HaĚufig verwendet, um trigonometrische Integrande, insbesondere
+Polynome in sin und cos, auf elementaren Formen zu bringen.
+Folgende speziallfaĚlle
+sin(2x) = 2 sin x cos x,
+
+cos(2x) = 2 cos2 x â 1 = 1 â 2 sin2 x
+
+sind sehr hilfsreich.
+Analysis 1 â
+
+Integration
+
+Trigonometrische Integranden
+
+1-1
+
+Beispiel:
+Berechnung von
+
+Z
+
+4
+
+sin xdx
+
+=
+
+sin4 x dx
+
+âĎ
+
+partielle Integration:
+Z
+
+Ď
+
+Z
+
+sin x sin3 x dx
+3
+
+Z
+
+cos2 x sin2 x dx
+Z
+Z
+3
+2
+= â cos x sin x + 3 sin x dx â 3 sin4 x dx
+
+= â cos x sin x + 3
+
+(cos2 = 1 â sinR2 )
+AufloĚsen nach sin4
+Z Ď
+Z
+Ď
+1
+3 Ď
+4
+3
+sin x dx = â cos x sin x âĎ +
+sin2 x dx = 0 + 3Ď/4
+4
+4 âĎ
+âĎ
+Analysis 1 â
+
+Integration
+
+Trigonometrische Integranden
+
+2-1
+
+Trigonometrische Substitutionen
+Mit Hilfe der folgenden Substitutionen lassen sich eine Reihe von
+elementaren algebraischen Integranden explizit berechnen:
+x = a sin t :
+x = a tan t :
+x = a/ cos t :
+
+dx = a cos t dt
+dx = a/ cos2 t dt
+dx = a sin t/ cos2 t dt
+
+â
+2
+2
+âa â x = a cos t
+2
+2
+âa + x = a/ cos t
+2
+2
+x â a = a tan t
+
+Gegebenenfalls muĚssen die Argumente der Wurzel zunaĚchst durch
+quadratische ErgaĚnzung auf Standardform gebracht werden.
+
+Analysis 1 â
+
+Integration
+
+Trigonometrische Integranden
+
+1-1
+
+Beispiel:
+Z
+
+0
+
+trigonometrische Substitution:
+x = sin t, dx = cos t dt,
+Z
+
+Ď/6
+
+0
+
+1/2 p
+
+1 â x 2 dx
+
+x = 0 â t = 0, x = 1/2 â t = Ď/6
+
+Ď/6 â
+1
+3
+Ď
+=
+(sin t cos t + t)
++
+cos t dt =
+2
+8
+12
+0
+2
+
+
+
+RuĚcktransformation von [. . .]
+Stammfunktion
+Z p
+xp
+1
+1 â x 2 dx =
+1 â x 2 + arcsin x + c
+2
+2
+p
+â
+(cos t = 1 â sin2 t = 1 â x 2 )
+Analysis 1 â
+
+Integration
+
+Trigonometrische Integranden
+
+2-1
+
+(ii) geometrisches Argument:
+
+1
+B
+A
+0
+
+x
+
+1
+
+â
+FlaĚche unter demâGraph von 1 â x 2 : Summe von zwei TeilflaĚchen
+Dreieck: |A| = x 1 â x 2 /2
+Kreissektor mit OĚffnungswinkel t: |B| = t/2 = (1/2) arcsin x
+gleiche Stammfunktion |A| + |B|
+Analysis 1 â
+
+Integration
+
+Trigonometrische Integranden
+
+2-2
+
+Beispiel:
+Z
+
+dx
+x 1 + x2
+â
+
+trigonometrische Substitution x = tan t, dx = 1/ cos2 t dt
+Z
+
+dt/ cos2 t
+=
+tan t/ cos t
+
+Z
+
+dt
+t
+= ln | tan | + c
+sin t
+2
+
+â
+( 1 + x 2 = 1/ cos t, Formel fuĚr Stammfunktion von 1/ sin)
+RuĚcksubstitution =â
+Z
+dx
+1
+â
+= ln | tan( arctan x)| + c
+2
+2
+x 1+x
+
+Analysis 1 â
+
+Integration
+
+Trigonometrische Integranden
+
+3-1
+
+bestimmtes Integral
+
+Z
+
+â
+
+dx
+x 1 + x2
+1
+Verwendung der berechneten Stammfunktion
+â
+
+â
+â
+Ď
+Ď
+ln | tan | â ln | tan | = ln 1 â ln( 2 â 1) = ln(1 + 2)
+4
+8
+Berechnung von tan(Ď/8) mit Hilfe der Diagonale einer Raute mit spitzem
+Winkel Ď/4
+â
+â
+(1/ 2, 1/ 2)
+
+(0, 0)
+
+â
+â
+(1 + 1/ 2, 1/ 2)
+
+(1, 0)
+
+â
+â
+=â tan(Ď/8) = (1/ 2)/(1/ 2 + 1) =
+Analysis 1 â
+
+Integration
+
+â1
+2+1
+
+=
+
+â
+
+2â1
+
+Trigonometrische Integranden
+
+3-2
+
+Beispiel:
+Z
+
+dx
+â 6x + 5
+quadratische ErgaĚnzung
+Standardform der Wurzel
+Z
+Z
+dx
+dx
+1
+p
+p
+=
+2
+2
+(x â 3) â 4
+((x â 3)/2)2 â 1
+â
+
+x2
+
+vorbereitende Substitution y = (x â 3)/2, dx = 2dy
+Z
+Z
+dx
+dy
+â
+p
+=
+2
+x â 6x + 5
+y2 â 1
+
+Analysis 1 â
+
+Integration
+
+Vereinfachung:
+
+Trigonometrische Integranden
+
+4-1
+
+trigonometrische Substitution y = 1/ cos t, dy = sin t/ cos2 t dt,
+p
+y 2 â 1 = tan t
+Z
+Z
+1
+dy
+dt
+p
+=
+= ln
++ tan t + c
+2
+cos
+t
+cos
+t
+y â1
+R
+(Formel fuĚr cosâ1 , UĚberpruĚfung durch Differenzieren)
+RuĚcksubstitution
+s
+
+p
+x
+â
+3
+x â3 2
+2
+ln y + y y â 1 + c = ln
++
+â1 +c
+2
+2
+
+Analysis 1 â
+
+Integration
+
+Trigonometrische Integranden
+
+4-2
+
+Uneigentliches Integral
+FuĚr eine auf [a, b) stuĚckweise stetige Funktion f wird durch
+Z
+
+b
+
+f = lim
+
+Z
+
+câbâ a
+
+a
+
+c
+
+f
+
+der Integralbegriff auf unendliche Intervalle (b = â) und unbeschraĚnkte
+Integranden (f (b) = Âąâ) erweitert.
+Analog wird eine SingularitaĚt an der unteren oder an beiden Grenzen
+behandelt. Im letzteren Fall muss der Grenzwert unabhaĚngig von der Wahl
+der Folgen c â a+, d â bâ sein. Hinreichend fuĚr die Existenz eines
+uneigentlichen Integrals ist die absolute Intergrierbarkeit von f , d. h.
+Z
+
+c
+
+d
+
+|f (x)| â¤ const
+
+fuĚr alle Teilintervalle [c, d] â (a, b).
+Analysis 1 â
+
+Integration
+
+Uneigentliche Integrale
+
+1-1
+
+Beispiel:
+Berechnung des uneigentlichen Integrals
+Z â
+e âx dx
+0
+
+Grenzwert
+lim
+
+Z
+
+bââ 0
+
+b
+
+
+
+
+b
+e âx dx = lim âe âx 0 = lim âe âb + 1 = 1
+bââ
+
+bââ
+
+direkte Verwendung uneigentlicher Grenzen bei elementaren Grenzwerten:
+Z â
+e âx dx = [âe âx ]â
+0 = 0 â (â1) = 1
+0
+
+Analysis 1 â
+
+Integration
+
+Uneigentliche Integrale
+
+2-1
+
+Beispiel:
+uneigentliches Integral
+
+Z
+
+â
+
+2
+
+1
+dx
+x(ln x)r
+
+Substitution y = ln x, dy = dx/x
+Z
+
+2
+
+b
+
+1
+dx =
+x(ln x)r
+
+Z
+
+ln b
+
+ln 2
+
+ďŁą
+1âr â (ln 2)1âr
+ďŁ˛ (ln b)
+1
+, r 6= 1
+dy =
+1âr
+ďŁł
+yr
+ln(ln b) â ln(ln 2) ,
+r =1
+
+Grenzwert fuĚr b â â existiert genau dann wenn r > 1:
+Z â
+(ln 2)1âr
+1
+dx
+=
+x(ln x)r
+r â1
+2
+
+Analysis 1 â
+
+Integration
+
+Uneigentliche Integrale
+
+3-1
+
+Beispiel:
+uneigentliches Integral
+
+Z
+
+0
+
+SingularitaĚt bei x =
+Z
+
+0
+
+Grenzwert
+Z Ď
+2
+
+0
+
+b
+
+Ď
+2
+
+sin x
+â
+dx
+cos x
+
+betrachte obere Grenze b < Ď/2:
+
+â
+b
+ â
+sin x
+â
+= â2 cos x 0 = â2 cos b + 2
+cos x
+
+sin x
+â
+dx = limĎ
+cos x
+bâ 2
+
+Analysis 1 â
+
+Ď
+2
+
+Integration
+
+Z
+
+0
+
+b
+
+ â
+
+sin x
+â
+= limĎ â2 cos b + 2 = 2
+cos x
+bâ 2
+
+Uneigentliche Integrale
+
+4-1
+
+Beispiel:
+uneigentliches Integral
+
+Z
+
+â
+
+ââ
+
+1 + 2x
+dx
+1 + x2
+
+Stammfuntion des Integranden:
+arctan(x) + ln(1 + x 2 )
+(i) falsche Berechnung:
+Z
+
+â
+
+ââ
+
+1 + 2x
+dx = lim
+bââ
+1 + x2
+
+Z
+
+b
+
+âb
+
+
+b
+1 + 2x
+dx = lim arctan(x) + ln(1 + x 2 ) âb
+2
+bââ
+1+x
+
+= lim (2 arctan(b)) = Ď
+bââ
+
+(arctan(âb) = â arctan(b))
+Analysis 1 â
+
+Integration
+
+Uneigentliche Integrale
+
+5-1
+
+(ii) korrekte Argumentation:
+unabhaĚngige Betrachtung der unteren und oberen Grenze
+Z
+
+Z
+
+0
+
+c
+
+0
+
+d
+
+1 + 2x
+dx
+1 + x2
+1 + 2x
+dx
+1 + x2
+
+=
+=
+
+
+â arctan(c) â ln(1 + c 2 )
+arctan(d) + ln(1 + d 2 )
+
+=â keine endlichen Grenzwerte in beiden FaĚllen
+=â Divergenz des uneigentlichen Integrals
+Z â
+1 + 2x
+dx
+2
+ââ 1 + x
+
+Analysis 1 â
+
+Integration
+
+Uneigentliche Integrale
+
+
+
+5-2
+
+Vektorraum der n-Tupel
+Sei K = R oder C. Ein Element a â K n bezeichnet man als n-Tupel,
+n-Vektor oder einfach Vektor:
+ďŁŤ
+ďŁś
+a1
+ďŁŹ
+ďŁˇ
+a = ďŁ­ ... ďŁ¸ , ai â K .
+an
+
+K n ist mit der komponentenweise definierten Addition und
+Skalarmultiplikation, d.h.
+ďŁŤ
+ďŁś ďŁŤ
+ďŁś ďŁŤ
+ďŁś
+ďŁŤ
+ďŁś ďŁŤ
+ďŁś
+a1
+b1
+a1 + b1
+a1
+Îť Âˇ a1
+ďŁŹ .. ďŁˇ ďŁŹ .. ďŁˇ ďŁŹ
+ďŁˇ
+ďŁŹ . ďŁˇ ďŁŹ . ďŁˇ
+..
+ďŁ­ . ďŁ¸+ďŁ­ . ďŁ¸=ďŁ­
+ďŁ¸ und Îť Âˇ ďŁ­ .. ďŁ¸ = ďŁ­ .. ďŁ¸
+.
+an
+bn
+an + bn
+an
+Îť Âˇ an
+fuĚr ai , bi , Îť â K , ein Vektorraum.
+Lineare Algebra â
+
+VektorraĚume
+
+Vektorraum der n-Tupel
+
+25-1
+
+Oft ist es bequem, n-Tupel als Zeilenvektor
+at = (a1 , . . . , an )
+
+bzw. a = (a1 , . . . , an )t
+
+zu schreiben. Durch das Symbol tâ der Transposition wird von der
+â
+Standardkonvention als Spaltenvektor unterschieden.
+
+Lineare Algebra â
+
+VektorraĚume
+
+Vektorraum der n-Tupel
+
+25-2
+
+Linearkombination
+FuĚr Vektoren v1 , v2 , . . . , vm â K n bezeichnet man
+Îť1 Âˇ v1 + Îť2 Âˇ v2 + Âˇ Âˇ Âˇ + Îťm Âˇ vm =
+
+m
+X
+i=1
+
+Îťi Âˇ vi
+
+mit Skalaren Îťi â K als Linearkombination der Vektoren vi .
+Die Menge aller solchen Linearkombinationen nennt man die lineare HuĚlle
+der vi :
+( m
+)
+X
+span(v1 , . . . , vm ) =
+Îťi Âˇ vi : Îťi â K .
+i=0
+
+Lineare Algebra â
+
+VektorraĚume
+
+Linearkombination
+
+26-1
+
+Beispiel:
+(i) v = (1, 2, 3)t ist eine Linearkombination der Vektoren
+v1 = (3, 4, 5)t , v2 = (1, 1, 1)t ,
+denn
+v = v1 â 2v2 .
+ii) v = (1, 0)t ist keine Linearkombination der Vektoren
+v1 = (0, 1)t , v2 = (0, 2)t ,
+denn jede Linearkombination von v1 und v2 hat die Form (0, ?)t .
+iii) v = (0, 0, 0, 0)t ist auf verschiedene Art als Linearkombination von
+v1 = (1, 1, 0, 0)t , v2 = (0, 2, 2, 0)t , v3 = (0, 0, 3, 3)t , v4 = (4, 0, 0, 4)t
+darstellbar:
+v = Îť(12v1 â 6v2 + 4v3 â 3v4 ),
+Lineare Algebra â
+
+VektorraĚume
+
+ÎťâR
+
+Linearkombination
+
+27-1
+
+Beispiel:
+V = R3
+(i) v1 = (1, â1, 0)t , v2 = (0, 1, â1)t :
+span(v1 , v2 ) = {Îť1 (1, â1, 0)t + Îť2 (0, 1, â1)t : Îťi â R}
+= {(Îť1 , Îť2 â Îť1 , âÎť2 )t : Îťi â R}
+
+Ebene, orthogonal zu (1, 1, 1)t
+(ii) v3 = (â1, 0, 1)t :
+gleiche lineare HuĚlle, da
+v3 = âv1 â v2
+(darstellbar als Linearkombination von v1 und v2 )
+keine eindeutige Darstellung von Vektoren in span(v1 , v2 , v3 ):
+(0, 0, 0)t = Îť(v1 + v2 + v3 ),
+
+Lineare Algebra â
+
+VektorraĚume
+
+ÎťâR
+
+Linearkombination
+
+28-1
+
+Matrix
+Unter einer (m Ă n)-Matrix (m, n â N) uĚber K versteht man ein
+Rechteckschema
+ďŁŤ
+ďŁś
+a11 a12 Âˇ Âˇ Âˇ a1n
+ďŁŹ a21 a22 Âˇ Âˇ Âˇ a2n ďŁˇ
+ďŁŹ
+ďŁˇ
+A = (aij ) = ďŁŹ .
+..
+.. ďŁˇ , aij â K .
+ďŁ­ ..
+.
+. ďŁ¸
+am1 am2 Âˇ Âˇ Âˇ amn
+
+Man bezeichnet (ai1 , ai2 , . . . , ain ) als i-ten Zeilen- und (a1j , a2j , . . . , amj )t
+als j-ten Spaltenvektor von A. Speziell ist eine (n Ă 1)-Matrix ein Spaltenund eine (1 Ă n)-Matrix ein Zeilenvektor.
+
+Lineare Algebra â
+
+Matrizen
+
+Matrix
+
+33-1
+
+Die (n Ă m)-Matrizen bilden den Vektorraum K nĂm ; RnĂm (CnĂm )
+bezeichnet die reellen (komplexen) Matrizen. Die Vektorraumoperationen
+sind komponentenweise definiert:
+C = A Âą B â cij = aij Âą bij
+B = ÎťA â bij = Îťaij
+
+Lineare Algebra â
+
+Matrizen
+
+Matrix
+
+33-2
+
+Beispiel:
+Verschiedene Matrixdimensionen
+ďŁŤ
+
+ďŁś
+31
+ďŁ­ 57 ďŁ¸ ,
+97
+
+(i, 1 + i, â1, 3i) ,
+
+ďŁŤ
+
+ďŁś
+0
+1
+0
+ďŁ­
+1 + i âi ďŁ¸ ,
+â i
+3 + 3i 7543 17
+
+ďŁŤ
+
+ďŁś
+11 12
+ďŁ­ 21 22 ďŁ¸
+31 32
+
+Spalten- bzw. Zeilenvektor, quadratische und rechteckige Matrix
+
+Lineare Algebra â
+
+Matrizen
+
+Matrix
+
+34-1
+
+LinearitaĚt, Bild und Kern
+Sei A eine (m Ă n)-Matrix. Die durch die Multiplikation der Matrix A mit
+einem Vektor v
+v 7â Av
+definierte Abbildung ist linear, d.h.
+A(u + v ) = Au + Av , A(Îťv ) = Îť(Av )
+fuĚr alle Vektoren u, v â K n und Skalare Îť â K .
+Man bezeichnet mit
+Kern A = {v â K n : Av = 0} â K n
+den Kern und mit
+Bild A = {w â K m : âv â K n mit Av = w } â K m
+das Bild von A.
+Lineare Algebra â
+
+Matrizen
+
+LinearitaĚt, Bild und Kern
+
+37-1
+
+Matrix-Multiplikation
+Das Produkt einer (` Ă m)-Matrix A und einer (m Ă n)-Matrix B ist die
+(` Ă n)-Matrix
+m
+X
+C = AB ,
+cik =
+aij bjk ,
+j=1
+
+d.h. zur Definition von cik werden die Produkte der Elemente aus Zeile i
+von A und Spalte k von B summiert:
+ďŁŤ
+ďŁś ďŁŤ
+ďŁśďŁŤ
+ďŁś
+b1k
+ďŁŹ
+ďŁˇ ďŁŹ
+ďŁˇďŁŹ
+ďŁˇ
+..
+ďŁŹ
+ďŁˇ ďŁŹ
+ďŁˇďŁŹ
+ďŁˇ
+.
+ďŁŹ
+ďŁˇ ďŁŹ
+ďŁˇďŁŹ
+ďŁˇ
+ďŁŹ
+ďŁˇ
+ďŁŹ
+ďŁˇ
+ďŁŹ
+ďŁˇ
+c
+a
+Âˇ
+Âˇ
+Âˇ
+a
+Âˇ
+Âˇ
+Âˇ
+a
+b
+=
+i1
+ij
+im
+ik
+jk
+ďŁŹ
+ďŁˇ ďŁŹ
+ďŁˇďŁŹ
+ďŁˇ
+ďŁŹ
+ďŁˇ ďŁŹ
+ďŁˇďŁŹ
+ďŁˇ
+..
+ďŁ­
+ďŁ¸ ďŁ­
+ďŁ¸ďŁ­
+ďŁ¸
+.
+bmk
+Man beachte, dass dazu die Spaltenzahl von A mit der Zeilenzahl von B
+uĚbereinstimmen muss.
+Lineare Algebra â
+
+Matrizen
+
+Matrix-Operationen
+
+1-1
+
+Die Matrixmultiplikation entspricht der Komposition der linearen
+Abbildungen
+T : u 7â v = Bu, S : v 7â w = Av ,
+d.h. C = AB ist die Matrixdarstellung von S âŚ T .
+Die Matrix-Multiplikation ist i.a. nicht kommutativ.
+
+Lineare Algebra â
+
+Matrizen
+
+Matrix-Operationen
+
+1-2
+
+Beispiel:
+einige konkrete Matrix-Produkte:
+ďŁŤ
+ďŁś
+
+ 1 3 2
+1 10 100 ďŁ­
+2 1 3 ďŁ¸
+100 10
+1
+3 2 1
+ďŁŤ ďŁś
+1
+
+ďŁ­ 2 ďŁ¸ 0 â1
+3
+ 
+ 3
+3 4
+4
+
+ 
+1 i
+1
+i 1
+i
+
+Lineare Algebra â
+
+Matrizen
+
+=
+
+
+
+321 213 132
+123 312 231
+
+
+
+ďŁŤ
+
+ďŁś
+0 â1
+= ďŁ­ 0 â2 ďŁ¸
+0 â3
+= 25
+=
+
+
+
+0
+2i
+
+
+
+Matrix-Operationen
+
+2-1
+
+

@@ -1,0 +1,2125 @@
+
+
+Teil 3: Medizin
+
+
+
+
+
+Kapitel 3.1: Physik und Medizin
+
+
+In  der  Forschung  sind   Teilchenphysiker   auf   der   Suche   nach   den
+fundamentalsten Teilchen und ihren Krδften. Mit  Hilfe  von  technisch  hoch
+entwickelten und speziell fόr  bestimmte  Messungen  entwickelte  Detektoren
+kφnnen die Teilchen nachgewiesen werden. Um die Eigenschaften der  kleinsten
+Bausteine der Materie zu untersuchen,  stellen  Hochenergiephysiker  hφchste
+Anforderungen  an  ihre  Experimente  in  den  Teilchenbeschleunigeranlagen.
+Prδzision und Qualitδt  der  benφtigten  Messtechniken  und  -methoden  sind
+unerlδsslich, um  Energie,  Impuls  oder  Positionierung  des  Teilchens  zu
+erkunden und sie somit zu identifizieren.
+
+Die modernen Technologien der  Forschung  sind  aber  nicht  nur  mittelbare
+Faktoren    fόr    die    Erforschung    fundamentaler    wissenschaftlicher
+Fragestellungen. Sie bringen auch   direkt  unmittelbar  anwendbaren  Nutzen
+fόr  die  AllgemeinheitMenschen.  Die  in  der   Wissenschaft   entwickelten
+Nachweisgerδte fόr die physikalischen Experimente kφnnen darόber hinaus,  z.
+B. in der Medizin, zur Darstellung der nicht direkt sichtbaren Bereiche  des
+menschlichen  Kφrpers  (Bildgebung)  genutzt  werden.  Mit   Hilfe   solcher
+bildgebenden    Systeme    werden    verschiedene    Verfahren    wie    die
+Transmissionsradiographie   und   Computer   Tomographie   (CT)    in    der
+Rφntgendiagnostik oder  Single-Photon-Emission-Computer-Tomography  (SPECT)-
+und Positron-Emission-Tomography (PET)-Verfahren in der  Nuklearmedizin  zur
+Diagnose von Krankheiten angewandt. Erkrankte Bereiche  des  Kφrpers  werden
+so  identifiziert  und  sichtbar  gemacht.  Aber  auch  die  Behandlung  von
+Tumorkrankheiten wird  durch  die  Schwerionentherapie  erfolgreicher.  Alle
+diese   Techniken   basieren   auf    kern-    und    teilchenphysikalischer
+Grundlagenforschung und werden im Zuge des Fortschritts in Wissenschaft  und
+Technik stδndig verfeinert.
+
+Teilchen  sind  mit  bloίem  Auge  nicht  sichtbar  und   nur   durch   ihre
+Wechselwirkungen mit Materie nachweisbar. Beim Flug geladener und  neutraler
+Teilchen,  z.   B.   Photonen,   durch   Materie   treten   unterschiedliche
+Wechselwirkungen  auf.  Photonen  erzeugen  beim  Durchqueren  der   Materie
+geladene  Teilchen  durch  Fotoeffekt,  Compton-Streuung  oder  Paarbildung.
+Ionisation  und  Anregung  von  Atomen  sind  Prozesse,  die  bei  geladenen
+Teilchen wie Elektronen auftreten. In  den  folgenden  Kapiteln  sollen  die
+Wechselwirkungen beider Teilchenarten mit Materie erlδutert  werden.  Danach
+werden  verschiedene  Detektionsverfahren  erklδrt.  Zum  Schluss  soll  der
+Zusammenhang teilchenphysikalischer Forschung  und  medizinischer  Anwendung
+der Detektorsysteme nδher betrachtet werden.
+
+
+Umsetzung in der Schule:
+
+Ziel dieser Einheit ist es, eine Einleitung  und  Einfόhrung  in  das  Thema
+"Medizin und Physik" zu bieten.  Beispielhaft  werden  Anwendungen  aus  dem
+Alltag  beschrieben,  um  den  unmittelbaren   Nutzen   fόr   die   Menschen
+darzustellen.
+Um  diesen  Themenbereich  im  Unterricht  einzufόhren,  kann  man  mit  der
+Entdeckung der Rφntgenstrahlung beginnen. Ein Rόckblick in  das  Jahr  1895,
+als Wilhelm Conrad Rφntgen durch Zufall  die  nach  ihm  benannte  Strahlung
+entdeckte und nachwies, zeigt, dass die  neue  Erkenntnis  nicht  nur  einen
+wissenschaftlichen Fortschritt auf dem Gebiet der Physik brachte. Durch  die
+Entwicklung   der   Rφntgenbildtechnik   konnten   auch   Erfolge   in   der
+medizinischen Diagnostik verzeichnet werden. Rφntgen erhielt daraufhin  1901
+den ersten Nobelpreis in Physik.
+Diese motivierende  Einfόhrung  soll  das  Interesse  der  Schόler  fόr  den
+Zusammenhang zwischen Physik und Medizin wecken. Waren es doch immer  wieder
+die eher zufδlligen physikalischen Entdeckungen,  die  in  der  Medizin  als
+Grundlage fόr ungeahnte Fortschritte bei der Erkennung  und  Bekδmpfung  von
+Krankheiten  dienten.  Es  ist  davon  auszugehen,  dass  Rφntgenbilder  den
+Schόlern allgemein vertraut sind.  Die  Physik  der  Rφntgenstrahlen  eignet
+sich damit hervorragend als Beispiel fόr die Hinfόhrung zu der  behandelnden
+Thematik .
+Auf weitere Hintergrundinformationen  zu  Erzeugung  und  Eigenschaften  der
+Rφntgenstrahlen wird  hier  nicht  weiter  eingegangen,  da  sie  nicht  zum
+Verstδndnis von Detektoren in der Teilchenphysik und deren Anwendung in  der
+Medizin nφtig sind. Ist von Seiten der Schόler weiteres Interesse zum  Thema
+der Rφntgenstrahlung vorhanden, so kann man nδher auf die  historischen  und
+physikalischen  Hintergrόnde  der  Rφntgenstrahlen  eingehen.   In   einigen
+Bόchern[1] der Sekundarstufe  I  wird  die  Rφntgenstrahlung  erwδhnt.  Ihre
+genaue Entstehung wird dort allerdings nicht besprochen.
+Ausfόhrlichere  Hintergrόnde  und   Erklδrungen   erhδlt   man   unter   dem
+angegebenen Link zur Rφntgenstrahlung[2], unter  dem  eine  Bearbeitung  zur
+Vereinfachung  der  Thematik   steht.   Auf   den   Seiten   des   Deutschen
+Rφntgenmuseums[3]  werden  unter   anderem   spektakulδre   Rφntgenaufnahmen
+gezeigt, die sicherlich geeignet sind, die Aufmerksamkeit und das  Interesse
+von Schόlern zu erhφhen.
+Des Weiteren muss der aktuelle Bezug  der  Physik  zur  Medizin  hergestellt
+werden. Die Schόler sollen erfahren, dass  gerade  neuere  Erkenntnisse  der
+modernen Teilchenphysik in der Medizin die Basis  fόr  mφgliche  Anwendungen
+bieten. Hierbei handelt es  sich  um  Anwendungen  physikalischer  Techniken
+sowohl in  der  medizinischen  Diagnostik  als  auch  in  der  Therapie  von
+Krankheiten.  An  dieser  Stelle  kφnnen   bildgebende   Verfahren[4]   oder
+Strahlentherapie[5]  kurz  erlδutert  oder  als  eigenes  Thema   vorgezogen
+werden. Auf die technischen Zusammenhδnge mit  den  Teilchendetektoren  kann
+dann spδter fakultativ eingegangen werden.
+Will man die Teilchenphysik den medizinischen Anwendungen jedoch  vorziehen,
+empfiehlt sich eine Verdeutlichung der Vorgδnge zur Detektion von  Teilchen.
+Eine  Mφglichkeit  der  Behandlung  von  Teilchendetektoren  liegt  in   dem
+Unterrichtsvorschlag, wie er in  den  Unterrichtseinheiten  όber  Kern-  und
+Teilchenphysik[6]  beschrieben  ist.  Hier   kann   man   die   Seiten   der
+Teilchenidentifikation[7] nutzen, um den Sinn und Zweck  von  Detektoren  zu
+erlδutern. Dies ist aber nicht zwingend notwendig, da man auch  erst  einmal
+das Thema allgemein behandeln  kann, ohne sich nδher mit Detektorbildern  zu
+beschδftigen.
+Man sollte dem Schόler nun verdeutlichen,  wie  der  Nachweis  von  Teilchen
+όberhaupt gefόhrt wird. Dem Schόler sollte bewusst sein, dass  Teilchen  mit
+bloίen Augen nicht wahrzunehmen sind. Vielmehr werden  die  Wechselwirkungen
+zwischen Teilchen und Materie genutzt, um die Spur des Teilchens auf  seinem
+Weg durch die Materie wahrzunehmen.  Daher  benφtigt  man  spezielle  Gerδte
+(Detektoren) zur Untersuchung der Teilchen.
+Welche genauen Wechselwirkungen zwischen  Materie  und  Teilchen  auftreten,
+wird in  den  nδchsten  beiden  Einheit  nδher  beschrieben.  Dieses  Skript
+beschrδnkt  sich  auf  Photonen  und   elektromagnetische   Wechselwirkungen
+geladener  Teilchen,  wie  Elektronen  und  positive  Ionen.  Starke   Kern-
+Wechselwirkungen werden nicht erwδhnt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kapitel 3.2: Photonen in Materie
+
+
+
+Haben Photonen eine hohe Energie, kφnnen sie Materie sehr gut  durchdringen,
+gehen dort aber auch Wechselwirkungen mit den vorhandenen Atomen ein.  Diese
+Prozesse  kφnnen  sogar  schon  in  dem  Wellenlδngenbereich  von   UV-Licht
+auftreten. Durch den daraus resultierenden Energieverlust erhalten sie  eine
+Schwδchung und werden abgebremst.
+Photonen werden nicht direkt nachgewiesen, sondern όber die Elektronen,  die
+sie durch die  Energieabgabe  freisetzen.  Ein  einzelnes  Photon  όbertrδgt
+seine gesamte  Energie  auf  ein  Elektron,  so  dass  es  von  der  Materie
+absorbiert wird. Das Elektron wird dadurch freigesetzt.
+Ein Photonenstrahl wird durch diese Absorption geschwδcht, denn  die  Anzahl
+seiner Photonen nimmt mit dem Weg durch die Materie ab.
+Die  Schwδchung  der  Photonen  ist  von  deren  Anfangsenergie  unabhδngig.
+Grundsδtzlich  wird  ein  Ensemble  (Strahl)   von   Photonen   exponentiell
+geschwδcht. Fόr die Intensitδt I der Teilchen gilt:
+
+                                   [pic].
+
+Dabei ist I0 die Anfangsintensitδt und  (  der  Absorptionskoeffizient.  Ein
+einzelnes Photon erfδhrt beim  Durchqueren  der  Materie  keinen  partiellen
+Energieverlust, es gibt entweder  seine  Gesamtenergie  ab  oder  es  behδlt
+seine gesamte  Energie.  Die  Photonen  werden  nicht  abgebremst,  nur  der
+Photonenstrahl wird geschwδcht.  Die  mφglichen  Reichweiten  der  einzelnen
+Photonen  haben  unterschiedliche   Werte,   im   Gegensatz   zu   geladenen
+Teilchen.[8] Photoeffekt, Compton-Streuung und  Paarbildung  sind  die  drei
+Effekte, die auftreten kφnnen, wenn Photonen Materie durchdringen.
+
+Photoeffekt:
+Trifft ein Rφntgenquant auf ein Elektron  im  Atom  und  ist  seine  Energie
+grφίer als die Bindungsenergie  des  Elektrons,  so  gibt  das  Atom  dieses
+Elektron ab, wie die folgende Abbildung[9] zeigt:
+
+
+                                    [pic]
+
+Es fliegt dann als  sogenanntes  freies  Elektron  durch  die  Materie.  Bei
+diesem Ionisationsvorgang erfolgt ein vollstδndiger Energieόbertrag  ER  vom
+Rφntgenquant auf ein Elektron mit der  Bindungsenergie  Em.  Im  allgemeinen
+kann das Elektron mit einer kinetischen Energie von
+
+                                    [pic]
+
+aus dem Atom herausgelφst werden.
+Elektronen  einer  hφheren  Quantenzahl  kφnnen  den  freigewordenen   Platz
+besetzen. Durch diesen Prozess wird  eine  diskrete  Energie,  die  von  der
+jeweiligen Quantenzahl  abhδngt,  in  Form  von  einem  Photon  frei.  Diese
+Quanten haben eine geringere Energie als die eingestrahlten.
+
+Streuung:
+Wird ein Photon in der  Materie  von  einem  Hόllenelektron  absorbiert,  so
+όbergibt es seine Energie an  dieses  Teilchen.  Entsteht  dabei  ein  neues
+Photon niedrigerer Energie, so hat ein Streuung stattgefunden.
+Bei der Compton-Streuung wird das Hόllenelektron vom Atom nach Aufnahme  der
+Photonenenergie emittiert. Ein Teil dieser ursprόnglichen Energie  gibt  das
+frei gewordene  Elektron  ab  und  sendet  so  ein  neues  Photon  aus.  Der
+Unterschied zum Photoeffekt  ist,  dass  dort  das  neue  Photon  von  einem
+weiteren Elektron,  dass  in  das  freigewordene,  niedrigere  Energieniveau
+nachrόckt, emittiert wird.
+Klassisch betrachtet man die Compton-Streuung als inkohδrente Streuung.  Das
+eingestrahlte Photon erfδhrt  beim  Stoί  mit  einem  als  frei  behandeltes
+Hόllenelektron einen Energieverlust und eine Richtungsδnderung. Es  wird  am
+Elektron gestreut.
+
+
+                                    [pic]
+
+
+Das Elektron erhδlt dabei durch den inelastischen  Stoί  eine  Energiezufuhr
+und wird beschleunigt.
+Bei der Rayleigh-Streuung, die vor allem bei kleinen  Photonenenergien  eine
+Rolle spielt, wird das eingesrahlte Photon absorbiert. Das Elektron wird  zu
+einer Schwingung  angeregt.  Nach  kurzer  Zeit  wird  ein  Photon  mit  der
+gleichen Frequenz wieder abgestrahlt. Das Elektron bleibt  auf  seiner  Bahn
+und δndert seine Energie vor und nach der Schwingung nicht.
+Klassisch betrachtet handelt es sich dabei um eine kohδrente Streuung.
+Die  klassische  Betrachtung  der   Rayleigh-Streuung   besagt,   dass   dem
+eingestrahltem  Photon  bei  dem  Stoί  mit  einem  Elektron   der   gesamte
+Energiebetrag erhalten bleibt. Dieser Fall liegt vor, wenn die  Energie  des
+Quants nicht groί genug ist, um das Elektron  aus  seiner  Bindung  mit  dem
+Atomkern zu lφsen. Solche Stφίe bewirken eine Schwingung  des  Elektrons  im
+Atom.
+
+
+
+Paarbildung:
+Hat ein Photon eine Energie von mindestens 1,022 MeV und  befindet  es  sich
+in dem Coulombfeld  eines  Atomkerns,  kann  es  ein  Elektron-Positron-Paar
+erzeugen.  Die  beiden  entstandenen,  geladenen   Teilchen   fliegen   dann
+vorrangig in Vorwδrtsrichtung auseinander.
+
+                                    [pic]
+
+Ein Positron wird nach kurzer Zeit auf ein  weiteres  Elektron  treffen  und
+hat so nur eine geringe Reichweite.  In  einer  Teilchenreaktion  vernichten
+sich beide Teilchen gegenseitig  und  es  wird  Energie  in  Form  von  zwei
+Photonen frei. Deren Energie von jeweils 0,511 MeV  ist  meist  kleiner  als
+die Energie der eingestrahlten Photonen.
+
+Die drei  Prozesse  liefern  unabhδngige  Beitrδge  zur  Abschwδchung  eines
+Strahls von Photonen, so dass man  die  Summe  der  Absorptionskoeffizienten
+(ph,   (comp,    (paar    der    drei    Effekte     zu    einem    gesamten
+Absorptionskoeffizienten ( zusammenfassen  kann:
+
+                           ( = (ph + (comp + (paar
+
+Dies wird durch folgende Abbildung[10] verdeutlicht:
+
+                                    [pic]
+
+
+Der Photoeffekt spielt bei Energien oberhalb von 1  MeV  keine  Rolle  mehr.
+Der Comptoneffekt hat typischerweise Einfluss bei Energien zwischen 0,1 MeV-
+10MeV.  Die Paarbildung beginnt erst bei einer Mindestenergie  der  Photonen
+von 1,022 MeV. Bei hφheren Energien dominiert die Paarbildung vφllig.
+
+
+
+Die  gegenwδrtigen   Verfahren   der   medizinischen   Diagnostik   benutzen
+hauptsδchlich  Gamma-  und  Rφntgenstrahlen  zur  Bildgebung.  Diese  beiden
+Strahlungsarten unterscheiden sich  durch  ihre  Entstehung.  Gammastrahlung
+entsteht  bei  Kernumwandlungsprozessen   im   Rahmen   eines   radioaktiven
+Zerfalls. Rφntgenstrahlen werden bei  der  Abbremsung  schneller  Elektronen
+durch Materie im Bereich der Atomhόlle erzeugt.
+Die Quanten haben sehr kurze Wellenlδngen und  somit  hohe  Frequenzen  bzw.
+hohe Energien und eignen sich daher gut  zur  Detektion.  Zur  Bilderzeugung
+werden   Rφntgenstrahlen   bei   der   Transmissionsradiographie   in    der
+Rφntgendiagnostik angewendet, wδhrend in  der  Nuklearmedizin  Gammastrahlen
+genutzt werden. Photonen werden direkt, wie beim fotografischen  Film,  oder
+indirekt durch  frei gewordene Elektronen, die bei  den  oben  geschilderten
+Prozessen in Materie entstehen, nachgewiesen.
+
+
+
+Umsetzung in der Schule:
+
+Ziel dieser Einheit ist es  zu  klδren  und  verdeutlichen,  wie  und  warum
+Photonen als neutrale Teilchen mit der Materie  in  Wechselwirkungen  treten
+und wie  die  daraus  resultierenden  Elektronen  Spuren  ihrer  Anwesenheit
+hinterlassen.  Das  ist  wichtig,  um   spδter   zu   verstehen,   wie   man
+beispielsweise Gamma- oder Rφntgenstrahlen nachweisen kann.
+Einen άberblick zu dieser Thematik erhδlt man,  wenn  man  zuerst  allgemein
+auf die   Prozesse,  die  zwischen  Photonen  und  den  Atomen  der  Materie
+stattfinden, eingeht.
+
+Folgender   Versuch   eignet   sich   gut,   um   zu   demonstrieren,   dass
+Wechselwirkungen   zwischen   Photonen   und   Materie   stattfinden.   Eine
+Zinkplatte,  die  auf  einem  Elektrometer  aufliegt,  wird  mit  UV   Licht
+bestrahlt.[11]  Die  Photonen  treffen  auf  die  Platte  und   setzen   die
+Elektronen der Atome frei. Dadurch erfδhrt die Materie eine  Ionisation,  d.
+h. die Platte lδdt sich positiv auf. Das Elektrometer bestδtigt  dies  durch
+den Ausschlag seines Zeigers. Die Ionisation der Zinkplatte durch das  Licht
+zeigt, dass die Photonen mit der Materie Wechselwirkungen  eingegangen  sind
+und dort Energie abgegeben haben.
+Die Schόler sollen erfahren,  dass  Photonen   indirekt  όber  Prozesse  wie
+Photoeffekt, Streuung  und  Paarbildung  nachgewiesen  werden.  Die  dadurch
+erzeugten Elektronen  ionisieren  die  Materie   und  kφnnen  so  detektiert
+werden.
+Nun  hδngt  es  von  dem  Auffassungsvermφgen  der  Schόler  und   von   der
+vorhandenen Unterrichtszeit ab, ob die einzelnen Prozesse, die  Photonen  in
+Materie nach sich ziehen, im Detail anzusprechen sind.  Erfahrungsgemδί  ist
+dies in der Sekundarstufe I  nicht problemlos zu bewδltigen.
+Der  Photoeffekt  lδsst  sich  anhand  der  Stoίprozesse  beim  Billardspiel
+erlδutern. Es ist allerdings  darauf  zu  achten,  dass  die  physikalischen
+Stossprozesse nicht Gegenstand des Unterrichts  der  Sekundarstufe  I  sind.
+Eine qualitative  Betrachtung  der  Stφίe  ist  in  der  10.  Klasse  jedoch
+durchaus mφglich. Das Billardspiel oder  δhnliche  Veranschaulichungen  sind
+den meisten Schόlern aus dem Alltag bekannt.
+Beim Photoeffekt wird die gesamte Photonenenergie  auf  die  Elektronen  der
+Materie όbertragen. Vergleicht man die Energieόbergabe zwischen  Photon  und
+Elektron mit Kugelstφίen, so  muss  man  beachten,  dass  das  Photon  durch
+diesen Prozess verschwindet, wδhrend die stoίende Kugel auch nach  dem  Stoί
+noch vorhanden ist. Die  Kugel  hat  einzig  ihre  gesamte  Bewegungsenergie
+abgegeben. Es ist  ein  Versuch,  den  Photoeffekt  in  der  10.  Klasse  zu
+erklδren.
+Ein weiteres Beispiel  aus  dem  Alltag  ist  das  Kugelbandpendel  ("Klick-
+Klack"), bei dem durch einen zentralen Stoί Energien weitergegeben werden..
+Die Streuung sollte im  Vergleich  zum  Photoeffekt  leichter  zu  verstehen
+sein. Klassisch betrachtet verschwindet bei der  Streuung  das  Photon  bzw.
+die  stoίende  Kugel   nach   dem   Stoί   nicht,   sondern   erfδhrt   eine
+Richtungsδnderung und eine Abnahme  der  Energie.  Das  Billardspiel  stellt
+hierbei erneut eine gute Analogie zur Erklδrung der Streuung dar, da  solche
+Vorgδnge auch in der Realitδt zu beobachten sind.
+Die  Paarbildung  ist  den   Schόlern   schon   aus   den   Grundlagen   der
+Teilchenphysik[12]    bekannt    und    stellt    im    Themenbereich    des
+Teilchennachweises eine Anwendung dieses Wissens dar. An dieser Stelle  kann
+der Begriff der Paarbildung bzw. elektromagnetischer  Wechselwirkungen  noch
+einmal wiederholt werden.
+
+Am Ende dieser Einheit sollte den Schόlern bekannt sein, dass
+  .  Photonen   mit   Materie   in   Wechselwirkung   treten,   wobei   ein
+    Energieόbertrag auf die dabei frei werdenden Elektronen stattfindet.
+  . Photoeffekt, Streuung und Paarbildung Prozesse sind,  bei  denen  freie
+    Elektronen erzeugt werden.
+  . ein einzelnes Photon nicht direkt, sondern  όber  Sekundδrprozesse  der
+    erzeugten freien Elektronen nachgewiesen wird.
+
+
+
+
+
+
+
+
+
+
+
+Kapitel 3.3: Geladene Teilchen in Materie
+
+
+Fόr  geladene  Teichen  gibt   es   wie   bei   den   Photonen   spezifische
+Wechselwirkungen mit Materie. Beim  Durchqueren  der  Materie  erfahren  sie
+einen Energieverlust und werden abgebremst.  Ihre Energie  geben  sie  meist
+durch Wechselwirkungen mit den Elektronen der Atomhόllen ab. Bei Stφίen  mit
+den Kernen wird Ihre Energie dagegen im allgemeinen nur wenig verringert.
+Im Gegensatz zu einem Photonenstrahl erfolgt  das  Abbremsen  eines  Strahls
+geladener Teilchen nicht exponentiell.  Ihre  Reichweite  richtet  sich  zum
+einen nach ihrem Anfangsimpuls, zum anderen nach der Art der Materie,  durch
+die sie fliegen.  Eine schnelles  Teilchen  erfδhrt  weniger  Energieverlust
+als ein langsames, da die Zeit, in der es auf  ein  Hόllenelektron  Einfluss
+nehmen kann, wesentlich kόrzer ist. Es hat weniger Zeit  Energie  abzugeben.
+Der Hauptteil der Energieabgabe erfolgt daher am Ende ihrer Bahn,  wenn  die
+geladenen Teilchen  schon  ein  wenig  langsamer  geworden  sind.   Mit  der
+Abnahme der Geschwindigkeit der geladenen Teilchen, d.   h.  mit  der  Tiefe
+ihres Eindringens, ergibt sich also eine Zunahme der Wechselwirkungen.
+
+Der Verlust der Energie erfolgt durch  Anregung  der  Hόllenelektronen  oder
+durch Ionisation der Materie.
+Beim Ionisationsprozess, der meist dominiert, stφίt  ein  Teilchen  auf  ein
+Elektron  der  Atomhόlle  und  όbertrδgt  ihm  einen  Teil  seiner  Energie.
+άbertrifft die Teilchenenergie die atomare  Bindungsenergie  des  Elektrons,
+so wird dieses aus dem Atomverbund gestoίen. Durch diesen Vorgang  entstehen
+entlang des Weges eines geladenen Teilchens  Ladungstrδgerpaare,  Elektronen
+und positive Ionen. Geladene Teilchen kφnnen also  so  durch  die  Erzeugung
+von Ladungstrδgerpaaren nachgewiesen werden.
+Der Energieverlust geladener Teilchen in Materie hδngt nicht von der  Masse,
+sondern nur von der Geschwindigkeit  und  Ladung  der  Teilchen  ab.  Gleich
+geladene  Teilchen  mit  identischer  Anfangsgeschwindigkeit   besitzen  den
+gleichen Energieverlust.
+Daher kann man bei Experimenten von der Reichweite eines Teilchens auch  auf
+seine Energie schlieίen, wenn man die Masse des  Teilchens  kennt.  Sie  ist
+nicht wie bei einem Photonenstrahl exponentiell verteilt,  sondern  schwankt
+statistisch nur minimal um einen bestimmten Wert.
+
+Aufgrund ihrer Flugbahnen kann man zwischen schweren und leichten  geladenen
+Teilchen,  wie  zum  Beispiel  Ionen  und  Elektronen,  unterscheiden.   Die
+Elektronen erfahren im Gegensatz zu  den  Ionen  auf  ihrem  Weg  durch  die
+Materie Streuprozesse, die sie von ihrer Bahn ablenken.
+Die Kenntnisse όber  das  Verhalten  von  schweren,  geladenen  Teilchen  in
+Materie werden in der Medizin zur Schwerionentherapie[13] angewandt.
+
+
+Umsetzung in der Schule:
+
+Den Schόlern sollte bekannt sein,  dass  es  kein  menschliches  Sinnesorgan
+gibt, dass geladene Teilchen  wahrnehmen  kann.  (Dies  gilt  auch  fόr  die
+meisten neutralen Teilchen, mit Ausnahme der Photonen zwischen mit  Energien
+von 1,5 eV  und 3 eV im sichtbaren Bereich.) Geladene Teilchen  werden,  wie
+die Photonen, durch ihre Energieabgabe an die Materie,  durch  die  man  sie
+schickt, nachgewiesen. Sie bewirken in der Materie eine  Ionisation,  d.  h.
+sie erzeugen entlang ihres Weges Ladungstrδgerpaare.
+Die Schόler sollten darauf aufmerksam gemacht werden, dass ein  Elektron  im
+Gegensatz  zu  einem  Photon  auch  direkt  nachgewiesen  werden  kann.   So
+hinterlδsst  beispielsweise  ein  Elektron   in   einer   Nebelkammer   eine
+Ionisationsspur. Dies kann man mit dem Kondensstreifen vergleichen, den  ein
+Flugzeug am Himmel hinterlδsst. Sowohl die Flugbahn des Flugzeuges als  auch
+die des geladenen Teilchens sind so nachzuweisen.
+Im Hinblick auf die Schwerionentherapie ist  es  wichtig,  den  Schόlern  zu
+erklδren, dass ein Ensemble (Strahl) von geladenen Teilchen im Gegensatz  zu
+einem Ensemble (Strahl) von  Photonen  die  Eigenschaft  hat,  den  Groίteil
+seiner  Energie erst am Ende seiner  Flugbahn abzugeben. Die Tatsache,  dass
+die Reichweite eines geladenen Teilchens von  seiner  Anfangsgeschwindigkeit
+abhδngt, ist dabei sowohl fόr die  Schwerionentherapie,  als  auch  fόr  die
+Detektoren der  Teilchenphysikexperimente  relevant.  Statistisch  schwanken
+die Werte  der  Reichweite  geladener  Teilchen  nur  sehr  wenig,  wie  das
+Rasierpinselartige Bild von Alphateilchen in Luft zeigt.[14]
+
+Die Schόler sollten erkennen, dass Elektronen und Ionen  bzw.  Atomkerne  zu
+den geladenen Teilchen zδhlen. Die  Unterschiede  der  beiden  Teilchenarten
+wurden bereits im Materieaufbau erklδrt. Hier muss  daran  erinnert  werden,
+dass Atomkerne schwerer als  Elektronen  sind.  Dies  wirkt  sich  auf  ihre
+Ionisationseigenschaften aus.
+Diesen  Zusammenhang  kann  man  den  Schόlern  anhand   eines   Kegelspiels
+erklδren. Lδsst man eine schwere Kugel  auf  ein  paar  Kegel  zurollen,  so
+werden diese Hindernisse die Kugel nicht stark aufhalten. Die schwere  Kugel
+ist von ihrer Bahn kaum abzubringen.  Ersetzt  man  nun  die  schwere  Kugel
+durch  einen  leichten  Schaumstoffball,  so  kann  dieser  an  den   Kegeln
+abprallen und in seiner Bahn abgelenkt werden.
+Hat man sich mit den Wechselwirkungen  von  geladenen  Teilchen  in  Materie
+beschδftigt, kann man diese  sowohl  als  Grundlage  fόr  die  verschiedenen
+Detektorarten als auch fόr das Thema der Schwerionentherapie nutzen.  Weiter
+kann man durch  den  Ionisationseffekt  eines  geladenen  Teilchens  in  der
+Materie auch den  Strahlenschutz,  der  Teilgebiet  der  Kernphysik  in  die
+Sekundarstufe I ist, behandeln. Die Themenwahl hδngt von dem  Interesse  der
+Schόler ab.
+
+Die Schόler sollten am Ende dieser Einheit
+
+  .   das   Verhalten   von   geladenen   Teilchen   in   Materie    kennen
+    (Ionisationseffekt).
+  . die Unterschiede zwischen geladenen und neutralen Teilchen in Bezug auf
+    Ihre Wechselwirkung in Materie erklδren kφnnen.
+  .  die  Eigenschaften  geladener  Teilchen,  wie  die  Abhδngigkeit   des
+    Energieverlusts von ihrer Geschwindigkeit oder Masse kennen.
+
+
+
+
+
+
+Kapitel 3.4: Detektoren
+
+
+Da die subatomaren Teilchen zu winzig sind, um mit bloίen Augen  registriert
+zu werden, erfolgt der Nachweis  hochenergetischer  Teilchen  όber  Prozesse
+zwischen Teilchen und Materie. Hierbei  dominieren  die  elektromagnetischen
+Wechselwirkungen.
+Nur geladene Teilchen kφnnen durch ein messbares Signal direkt  nachgewiesen
+werden. Die Detektion von neutralen Teilchen, wie  Photonen,  erfolgt  meist
+όber sekundδr durch Photoeffekt,  Comptoneffekt  oder  Paarbildung  erzeugte
+Elektronen.  Diese  Elektronen  kφnnen  mit  Hilfe  verschiedener  Verfahren
+detektiert werden.
+
+Detektoren wie  der  Gasdetektor  oder  der  Halbleiterdetektor  nutzen  den
+Ionisationseffekt von Elektronen in Materie. Sie sind entwickelt worden,  um
+die Elektronen und positiven Ionen, die ein Elektron erzeugt  hat,  in  Form
+von Strompulsen zu messen.
+Die  Szintillationsdetektoren  dagegen  verstδrken  das  Signal  der   durch
+Photonen ausgelφsten Elektronen.
+
+Im Folgenden sollen einige Beispiele zum Nachweis von  Teilchen  beschrieben
+werden.
+
+Filmaufnahme:
+Eine    Mφglichkeit,    Photonen    direkt    nachzuweisen,    bietet    die
+Filmentwicklungstechnik. Bei den photochemischen Verfahren ergibt sich  eine
+Schwδrzung  eines  photographischen  Filmes  durch  die  Quanten.  Je   nach
+Intensitδt der Strahlen wird der Film entsprechend  dunkel  oder  hell.  Bei
+Filmen mit  Verstδrkerfolie  spielt  der  photographische  Effekt  nur  eine
+relativ kleine Rolle. Der  grφίte  Teil  der  Filmschwδrzung  geht  auf  die
+Fluoreszenz in der Verstδrkerfolie zurόck. Unter  Fluoreszenz  versteht  man
+die Lichtemission durch einen Stoff beim Auftreffen von Rφntgenstrahlen.  Es
+kommt zu einer Intensitδtsverstδrkung.
+
+Filmaufnahmen  werden  in  der  Rφntgendiagnostik   verwendet.   Die   heute
+verwendeten  digitalen  Systeme  zur  Bildrekonstruktion   erzielen   hφhere
+Kontraste. So kφnnen Bilder mit schδrferen Kontrasten erzeugt werden.
+
+
+Gasdetektoren:
+Ein Gasdetektor bzw. eine Ionisationskammer  besteht  aus  einem  gasdichten
+Gehδuse, das mit einem leicht  ionisierbaren  Gasgemisch  gefόllt  ist.  Das
+Gasgemisch hat die Eigenschaft, das Driften von geladenen  Teilchen  entlang
+von  Feldlinien  zuzulassen.  Innerhalb  des  Gehδuses  ist   eine   Kathode
+gegenόber einer Anode eingebaut. Die an die  Elektroden  angelegte  Spannung
+erzeugt ein homogenes elektrisches Feld.
+Fliegt ein geladenes  Teilchen  durch  die  Kammer  und  ionisiert  das  Gas
+entlang  seiner  Bahn,  so  driften  die  erzeugten  Ladungen  entlang   der
+Feldlinien zu den entgegengesetzten Elektroden.  An  den  Elektroden  werden
+dadurch Signale erzeugt, die mit Hilfe eines Verstδrkers messbar sind.
+Das Signal ist dabei wesentlich  von  der  Stδrke  des  elektrischen  Feldes
+abhδngig.  Ist die Spannungsdifferenz  zwischen  den  Elektroden  zu  klein,
+wird eine Rekombination der  Elektron-Ionen-Paare  ermφglicht  und  nur  ein
+geringer   Anteil   der   Ladungstrδger   erreicht   die   Elektroden.   Die
+Rekombination  dieser  Ladungstrδger  kann  verhindert  werden,  indem   ein
+genόgend starkes elektrisches Feld angelegt  wird,  so  dass  die  positiven
+Ladungen zur Anode und die negativen Ladungen zur  Kathode  wandern.  Erhφht
+man die Spannungsdifferenz όber den Punkt,  bei  dem  die  Elektronen-Ionen-
+Paare rekombinieren kφnnen,  so  entspricht  das  Signal  der  tatsδchlichen
+Anzahl   der   Ionisationen.   Durch   Sekundδrprozesse,   die   durch   die
+beschleunigten Elektronen und Ionen verursacht werden,  wird  dieses  Signal
+proportional verstδrkt.  Ist  die  Spannungsdifferenz  allerdings  zu  groί,
+kφnnen zu viele Sekundδrprozesse das  Signal  verfδlschen.  So  bekommt  man
+zwar immer noch Informationen όber den Ort der Ionisation, aber man  bekommt
+keine Information όber den tatsδchlichen  Energieverlust  des  ionisierenden
+Teilchens. Dieses kann dadurch nicht mehr identifiziert werden. So muss  man
+darauf achten, dass das Ausgangssignal erhalten bleibt oder verstδrkt,  aber
+nicht verδndert wird.
+Die erhaltene Intensitδt der Signale ist meist  sehr  gering,  so  dass  man
+einen Verstδrker benφtigt.
+Gasdetektoren  besitzen  eine  sehr  gute  Energieauflφsung  und  sind   zur
+άberwachung von Personen-Strahlungsdosen geeignet. Frόher  wurden  sie  auch
+zur Messung von Reichweiten von Alphateilchen verwendet.
+
+Halbleiterdetektoren:
+Die  Halbleiterdetektortechnik ist eine weitere Mφglichkeit  des  indirekten
+Nachweises von Quanten.
+Festkφrper, sind aus vielen Atomen aufgebaut. Betrachtet man  ein  einzelnes
+Atom, so stellt man fest, dass dieses diskrete  Energieniveaus  besitzt.  In
+einem Verbund aus mehreren Atomen, wie in einem Halbleiter, όberlappen  sich
+die  Atomhόllen  und  es  erfolgt   eine   Aufspaltung   der   Niveaus   der
+Valenzelektronen.  Die  Anzahl  der  Atome  ist  dabei  so  groί,  dass  die
+Energiedifferenzen  der  Niveaus  sehr  klein  sind   und   die   Elektronen
+ungehindert    zwischen    ihnen    wechseln     kφnnen.     Diese     dicht
+aufeinanderfolgenden Niveaus bezeichnet man als  Band.  Das  Band,  das  von
+Valenzelektronen besetzt ist, nennt man Valenzband. Das Leitungsband  bildet
+sich  aus   dem   energetisch   niedrigsten,   nichtbesetzten   Niveau   des
+Grundzustandes.  Den  Bereich  zwischen  den  beiden   Bδndern   nennt   man
+Bandlόcke. Ihre Grφίe entscheidet, ob das Material ein Halbleiter  ist  oder
+nicht.
+Ist die Lόcke zwischen den Bδndern groί, so dass  keine  Elektronen  in  das
+Leitungsband gelangen kφnnen, liegt ein Isolator vor.  άberlappen  sich  die
+Bδnder  oder  ist  das  Valenzband  nur  teilweise  gefόllt,  so  dass   die
+Elektronen durch Anregung leicht in die darόber liegenden  Niveaus  gelangen
+kφnnen, handelt es sich um einen Leiter. Ist die  Energielόcke  sehr  klein,
+kφnnen  Elektronen  durch  ihre  Energie   bei   Zimmertemperatur   in   das
+Leitungsband angehoben werden, und das Material ist ein Halbleiter.
+Durch Anregung, zum  Beispiel  durch  Absorption  eines  Photons,  kann  man
+zusδtzlich Elektronen in  das  Leitungsband  heben,  wodurch  im  Valenzband
+Lφcher entstehen, die als positive Ladungen gewertet werden.
+Die  technisch  genutzten  Halbleiter   sind   meist   sogenannte   dotierte
+Halbleiter.
+In einem Siliziumkristall beispielsweise  gehen  alle  vier  Auίenelektronen
+Bindungen ein. Ersetzt man nun ein Siliziumatom  durch  ein  Arsenatom,  das
+fόnf  Auίenelektronen  besitzt,  so  nehmen  wiederum  vier  davon  an   den
+Bindungen teil. Das  fόnfte  Elektron  ist  nur  schwach  an  das  Arsenatom
+gebunden. Es kann  daher  sehr  leicht  angeregt  und  an  das  Leitungsband
+abgegeben werden, so dass es zur elektrischen Leitfδhigkeit beitrδgt.  Diese
+Zustδnde heiίen Donator-Niveaus. Einen solchen "negativen" Halbleiter  nennt
+man n-Halbleiter.
+Dotiert man den  Kristall  dagegen  mit  einem  Galliumatom,  das  nur  drei
+Auίenelektronen fόr die Bindung bereit hδlt, so muss das  fehlende  Elektron
+durch ein Elektron des Valenzbandes  ersetzt  werden.  Dadurch  entsteht  in
+diesem  Band  ein  Loch.  Diese   Niveaus   heiίen   Akzeptor-Niveaus.   Den
+"positiven" Halbleiter nennt man auch p-Halbleiter.
+In  Halbleiterbauelementen  wie  z.  B  Dioden  sind  n-  und   p-Halbleiter
+miteinander  kombiniert.  Berόhren   sich   diese   beiden   Schichten,   so
+diffundieren    die    Elektronen     der     n-Schicht     aufgrund     des
+Konzentrationsgefδlles   so   lange    in    die    p-Schicht,    bis    ein
+Gleichgewichtszustand erreicht ist. Durch die Abgabe der Elektronen ist  der
+vorher neutrale n-Halbleiter positiv geworden, wδhrend der p-Halbleiter  nun
+einen άberschuss an negativer Ladung erhalten  hat.  Durch  die  potentielle
+Energie der Elektronen sind alle Bδnder des  p-Halbleiters  gegenόber  denen
+des n-Halbleiters angehoben. Es  besteht  eine  Potentialdifferenz  zwischen
+den beiden Schichten. An der Grenzschicht  bzw.  Sperrschicht  herrscht  nun
+eine sogenannte ladungsfreie Zone, da positive und  negative  Ladungen  dort
+rekombiniert sind.
+
+                                    [pic]
+
+Da die beiden Schichten elektrisch voneinander isoliert  sind,  bewirkt  die
+Sperrschicht der Diode einen hohen Widerstand.
+Legt man eine positive Spannung U an die Diode an, wobei  der  positive  Pol
+an die p-Schicht angeschlossen ist, so lδsst  das  elektrische  Feld  Lφcher
+der p-Schicht und Elektronen der n-Schicht zur Grenzschicht wandern, wo  sie
+rekombinieren kφnnen. Die Diode ist  in  Durchlassrichtung  geschaltet,  das
+heiίt, es kann Strom flieίen.
+
+                                    [pic]
+
+Legt man dagegen eine  negative  Spannung  U  an,  so  vergrφίert  sich  die
+isolierende Sperrschicht, da die freien Ladungstrδger von  der  Grenzschicht
+weiter weggesogen werden. Die Diode  ist  in  Sperrrichtung  geschaltet,  so
+dass kein Strom flieίen kann.
+
+                                    [pic]
+
+Halbleiter-Teilchendetektoren sind eine Anwendung von  Halbleitern  mit  pn-
+άbergδngen. Sie bestehen aus eine Halbleiterdiode mit breiter  Sperrschicht,
+so dass vorerst kein Strom flieίen kann.  Durchquert  ein  hochenergetisches
+Teilchen wie z. B. ein Photon den  Halbleiter,  so  setzt  es  ein  Elektron
+frei, welches durch Ionisation freie Ladungstrδger in der  vφllig  verarmten
+Sperrschicht  erzeugt.  Die  freien  Ladungstrδger  driften   aufgrund   der
+angelegten Spannung  zu  den  Elektroden  und  werden  dort  als  Strompulse
+wahrgenommen. Die  Ladungen  erzeugen  Strompulse,  die  als  Hinweis  dafόr
+gelten, das ein Photon den Halbleiter durchquert hat. Die Strompulse  werden
+verstδrkt und schlieίlich digital verarbeitet.
+Die  folgende  Abbildung[15]  zeigt  die  Ionisationsspur   bzw.  Spur   der
+Ladungsbildung  aufgrund  eines  durch  Elektrons,  das  durch  ein   Photon
+freigesetzt wurde:
+
+                                    [pic]
+
+Der   Siliziumdetektor   ist   ein   Beispiel   fόr   einen   gebrδuchlichen
+Halbleiterdetektor.
+
+
+Szintillationsdetektoren:
+Ihre  Technik  beruht  auf  der  Fδhigkeit  eines   Szintillationskristalls,
+Gammaquanten in sichtbares Licht zu verwandeln.
+Szintillatoren sind z. B. anorganische Ionenkristalle, wie NaI. Tritt ein
+Photon durch einen solchen Kristall hindurch, wird es von den Atomen
+absorbiert und hebt die Elektronen in hφhere Zustδnde. Fallen die
+Elektronen zurόck, so wird wieder Energie in Form von Lichtquanten frei.
+Diese optischen, relativ energiearmen Photonen kφnnen durch einen
+Lichtleiter in einen Photomultiplier gelangen. Durch den Photoeffekt  lφsen
+sie  dort auf einer Photokathode Elektronen aus. Die Elektronen werden
+durch eine Spannung von mehreren Elektroden beschleunigt und lφsen auf
+jeder Elektrode (=Dynode) weitere Elektronen aus. Durch mehrere
+Verstδrkungsstufen entsteht schlieίlich ein gut messbarer Strom. Das
+relativ schwache Photonensignal wurde in einen nachweisbaren elektrischen
+Impuls umgewandelt. Diese Signale werden als Information in einem Computer
+digital verarbeitet.
+Die   Abbildung[16]    zeigt    eine    schematische    Darstellung    eines
+Szintillationszδhlers mit einem Photomultiplier:
+
+                                    [pic]
+
+
+
+Bestimmte  Detektortypen  werden  fόr  unterschiedliche  Aufgaben   in   der
+Wissenschaft  eingesetzt.  So  dient   der   Gasdetektor   zur   Orts-   und
+Ionisationsmessung von Teilchen. Halbleiterdetektoren dagegen  konzentrieren
+sich  auf  Ortsmessungen  geladener  Teilchen.  Der   Szintillationsdetektor
+liefert dagegen im allgemeinen nur sehr grobe  Ortsinformationen  aber  eine
+sehr gute Energieinformation, weil die  Teilchen  ihre  gesamte  Energie  im
+Detektor abgeben.
+
+Die in der Forschung verwendeten Detektoren dienen den Teilchenphysikern  zu
+Positions- und Energiemessungen.  Mit Hilfe dieser Techniken ist  man  heute
+in  der  Lage  Teilchen  zu  identifizieren  und   ihre   Eigenschaften   zu
+untersuchen. So kann man einzelne Teilchenspuren verfolgen oder auf die  Art
+der Teilchen schlieίen.
+
+Unter  den  vielfδltigen  Anwendungen  von  Teilchendetektoren   sind   auch
+bildgebende Verfahren der Medizin zu finden. Die ausgefeilten Techniken  des
+Teilchennachweises sind dort von Nutzen, um Krankheiten  zu  diagnostizieren
+oder zu therapieren.
+Detektorsysteme   dienen   zur   Aufnahme   von   Rφntgenbildern   in    der
+Transmissionsradiographie. Dort bestimmen  sie  die  prozentuale  Absorption
+der Rφntgenstrahlen.  Bei  PET  oder  SPECT  dienen  sie  hauptsδchlich  zur
+Bestimmung ihres Ursprungs. So kφnnen  innere  Strukturen  und  Stoffwechsel
+von Organen untersucht werden.[17]
+
+
+Umsetzung in der Schule:
+
+Haben die Schόler sich mit der Frage, wie man Teilchen nachweist und  welche
+Prozesse zwischen Teilchen  und  Materie  ablaufen,  auseinandergesetzt,  so
+kann  man  zu  den  konkreten  Detektoren  όbergehen.  Die  Schόler  sollten
+verstanden haben, das Photonen in der Materie Elektronen frei setzen.
+Ein Beispiel, die Photonen direkt nachzuweisen, ist der fotografische  Film.
+Die Funktionsweise des  fotographischen  Filmes  ist  allerdings  Stoff  des
+Chemieunterrichts und sollte nicht im  Physikunterricht  besprochen  werden,
+auch  wenn  er  in  Physik-Schulbόchern  der  Sekundarstufe  I   als   Thema
+auftaucht. Der fotografische Film zδhlt nicht zu den in  der  Teilchenphysik
+όblicherweise verwendeten Detektoren.  Trotzdem  ist  es  sinnvoll,  ihn  zu
+erwδhnen, da Fotonegative und Rφntgenaufnahmen aus dem Alltag bekannt sind.
+
+Den Schόlern sollte bewusst sein, dass  ein  Photon  seine  Energie  in  der
+Materie an ein Elektron abgibt und dieses daher freisetzt.  Dieses  Elektron
+kann aufgrund seiner Ionisationswirkung in der Materie nachgewiesen werden.
+Ein Beispiel dafόr ist die Nebelkammer. Durchfliegt ein  geladenes  Teilchen
+das Gas dieser Ionisationskammer, hinterlδsst es eine  Spur  entlang  seines
+Weges aufgrund der  entstehenden  Ladungstrδgerpaare.  Im  Gas  bilden  sich
+dadurch Trφpfchen, eine Art Nebel, den man sehen kann. Um ein  Beispiel  aus
+der Lebenswirklichkeit der  Schόler  zu  nennen,  bietet  es  sich  an,  zum
+Vergleich den Kondensstreifen eines  Flugzeuges  am  Himmel  zu  betrachten.
+Sowohl die Flugbahn  des  Teilchens  in  der  Gaskammer  als  auch  die  des
+Flugzeuges in der Atmosphδre ist optisch gut zu verfolgen.
+
+Elektronen  kφnnen  auch  als  elektronisches  Signal  nachgewiesen  werden.
+Allerdings ist es nicht  mφglich  ein  einzelnes  Elektron  als  Stromsignal
+nachzuweisen. Bei  1010  Elektronen  mit  der  Ladung  Q  (mit  Q=  e)  kann
+typischerweise ein Strom I ( mit I=Q/t) von 1 mA 1 (s lang gemessen  werden.
+Daher  kann  es  nur  indirekt  όber  die  Sekundδrprozesse  der  Elektronen
+detektiert   werden.   Elektronen   dagegen   werden   direkt   όber    ihre
+Ionisationswirkung nachgewiesen. Bei dieser Ionisation entstehen sehr  viele
+Elektronen und Ionen, die man dann noch 106-fach verstδrken kann.
+
+In einem Gasdetektor bzw. einer Ionisationskammer kφnnen die Elektron-Ionen-
+Paare beispielsweise durch ein auίen angelegtes Feld als Strompuls  gemessen
+werden. Dabei werden die Ladungstrδgerpaare von  den  Elektroden  regelrecht
+"abgesaugt". Einen weiterer Gasdetektor  stellt  das  Geiger-Mόller-Zδhlrohr
+da.
+
+Halbleiterdetektoren mόssen in der  Sekundarstufe  I  nicht  von  Grund  auf
+erklδrt  werden.  Die  Eigenschaften  eines  Halbleiters,  pn-άbergδnge  und
+Dioden mόssen in diesem Zusammenhang nicht erwδhnt werden.  Es  reicht  aus,
+wenn die Schόler lernen, dass geladene Teilchen eine Ionisation in  Materie,
+also auch in Festkφrpern, verursachen. Ist dieser  Festkφrper  auίerdem  ein
+spezieller Leiter, ein Halbleiter,  so  kφnnen  die  von  dem  ionisierenden
+geladenen Teilchen entlang des Weges erzeugten  Ladungstrδgerpaare  von  den
+Elektroden abgesaugt werden. So  kφnnen  entstandenen  Strompulse  verstδrkt
+und gemessen werden.
+
+Damit die Schόler den Szintillationsdetektor  grundlegend begreifen,  sollte
+man diese durch eine einfache Abfolge von Ereignissen erklδren.  Das  Photon
+trifft auf einen Kristall, der das Licht  verstδrkt.  Das  verstδrkte  Licht
+fδllt auf die Photokathode. Dort lφst ein Photon ein Elektron heraus.  Jedes
+Mal, wenn ein  Elektron  auf  eine  dieser  Dynoden  trifft,  setzt  es  ein
+weiteres Elektron frei. So findet eine  Verstδrkung  der  Elektronen  statt,
+damit schlieίlich ein messbares Signal  entstehen  kann.  In  diesen  groben
+Zusammenhδngen kann der Szinitllationszδhler als Beispiel  fόr  das  Prinzip
+der Detektion eines Photons erfolgen.  Auίerdem  kann  die  Verstδrkung  der
+Elektronenanzahl  aufgezeigt  werden.[18]   Die   Schόler   sollten   weiter
+erfahren, dass Szintillatoren bei SPECT eingesetzt werden.
+
+Ziel dieser Einheit ist es zusδtzlich, den Schόlern einen  Einblick  in  die
+Forschungsmethoden  der  Teilchenphysiker  zu  geben.  Die   Webseiten   der
+Teilchenidentifikation kφnnen dazu eingesetzt werden. Man muss auίerdem  auf
+die Ziele und Absichten der Experimente hinweisen. Detektoren werden in  der
+Forschung  benφtigt,  um  die  Energie  und  die  Spur  eines  Teilchens  zu
+verfolgen, damit man diese identifizieren kann.
+In der Medizin dagegen benutzt man Detektoren hauptsδchlich zur  Bildgebung.
+Ein Bild kann beispielsweise bei  der  Transmissionsradiographie  durch  die
+Intensitδtsmessungen  von  Rφntgenstrahlung  entstehen.   Dabei   wird   das
+Durchlassungsvermφgen von Objekten betrachtet.
+In der Nuklearmedizin kφnnen mit Hilfe von Detektoren  Strahlungsquellen  im
+Kφrper geortet werden, und so ein Bild der inneren  Organe  in  Abhδngigkeit
+des Stoffwechsels wiedergeben.
+Als Beispiel fόr medizinische Anwendung kφnnen hier die Rφntgendiagnostik,
+SPECT oder PET im Unterricht besprochen werden.[19]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kapitel 3.5: Rφntgendiagnostik
+
+
+Die Rφntgenstrahlung wurde nach  ihrem  Entdecker,  dem  deutschen  Physiker
+Wilhelm Conrad Rφntgen (1845-1923), benannt. 1895  untersuchte  Rφntgen  den
+Transport elektrischer Ladung in Gasen an einer Entladungsrφhre.
+Die Elektronen, die aus einer  Glόhkathode  der  Entladungsrφhre  austreten,
+werden durch eine angelegte Spannung  beschleunigt. Sie  treffen  mit  hoher
+Geschwindigkeit auf die Anode, wo sie abgebremst werden und die  sogenannten
+Rφntgenstrahlen erzeugen.
+
+[pic]
+
+Fόr diese Entdeckung wurde W.C. Rφntgen 1901 als erster Preistrδger mit  dem
+Nobelpreis fόr Physik ausgezeichnet, da die Entwicklung  von  Rφntgenbildern
+einen ungeahnten Fortschritt in der medizinischen Diagnostik nach sich  zog.
+
+
+Die  Rφntgenstrahlung  besteht  aus   Photonen,   die   grundsδtzlich   alle
+Materialien  durchdringen  kφnnen.  Diese  Durchlδssigkeit  nimmt  aber  mit
+steigender  Dichte  des  Materials  ab.[20]  Auf  den  genauen  Vorgang  der
+Erzeugung von Rφntgenstrahlen und auf weitere Einzelheiten soll  hier  nicht
+eingegangen werden.
+
+Durchdringen Rφntgenstrahlen  Materie,  so  werden  sie  durch  verschiedene
+Effekte  geschwδcht.[21]  Diese   Absorption   ist   materialabhδngig.   Die
+dominanten Effekte zur Schwδchung  sind  Photoeffekt  und  Compton-Streuung.
+Diese  Bremsmechanismen, die  von  dem  Energiebetrag  der  Rφntgenstrahlung
+abhδngen, sind die wichtigsten Faktoren bei  der  Bilderzeugung,  wobei  die
+Raileigh-Streuung, die im abzulichtendem  Material  stattfindet,  allerdings
+eher zu einer Bildverschlechterung fόhrt.
+
+Die durch ihre Energien bedingte hohe Eindringtiefe der Rφntgenstrahlen  ist
+fόr   die   Anwendung    bei    Dichtemessungen,    Materialprόfungen    und
+Qualitδtssicherung nόtzlich.
+Die   Dichteabhδngigkeit   der   Durchlδssigkeit   und   der   Nutzen    zur
+photographischen  Aufnahme  wurden  nicht  lange  nach  der  Entdeckung  der
+Strahlung die Grundlage zu ihrem  direkten  medizinischen  Nutzen.  Vor  der
+Entwicklung von Rφntgenbildern hatte es keine Mφglichkeiten gegeben, in  das
+Innere eines Menschen zu sehen, ohne ein  Skalpell  einzusetzen.  Durch  die
+Rφntgenaufnahmen waren Δrzte nun in der  Lage,  schon  vor  einer  Operation
+bestimmte Prognosen zu Krankheiten und Verletzungen zu stellen.
+Zur Bilderzeugung wird normalerweise die Bremsstrahlung genutzt. Dabei  wird
+die von der Anode ausgehende Rφntgenstrahlung mit Hilfe von  Blendensystemen
+auf ein Nutzstrahlbόndel eingeblendet. Die Rφntgenstrahlen  werden  von  dem
+durchstrahlten   Objekt   durch    Absorption    geschwδcht.    Durch    den
+photographischen Effekt oder  Fluoreszenzeffekt werden  Rφntgenstrahlen  auf
+einer Photoplatte  sichtbar.  Der  Anteil  der  Strahlung,  der  das  Objekt
+durchdrungen hat, wird zur  Bilderzeugung  genutzt.  Dichte  und  Dicke  der
+Objekte spielen dabei die entscheidende Rolle  Der  Film  wird  entsprechend
+der Anzahl der auf  den  Film  auftreffenden  Photonen  stark  oder  schwach
+geschwδrzt.  Bei  hoher  Absorption,  wie   beispielsweise   durch   Knochen
+hervorgerufen, liegt eine geringere Schwδrzung vor. Die  Knochen  erscheinen
+auf einer Rφntgenaufnahme hell.  Heutige  moderne  Rφntgenanlagen  verwenden
+auch  oft   Detektoren  anstelle  von   Photoplatten   zur   Detektion   der
+Rφntgenstrahlung. Sie wandeln diese direkt in ein Bildsignal um.
+
+Die  Zweidimensionalitδt   herkφmmlicher   Rφntgenaufnahmen   stellt   einen
+gewissen  Nachteil dar. Durch άberlagerungen  aller  inneren  Schichten  des
+inhomogenen Objekts (meist Dichteinhomogenitδten) ergibt sich ein  ungenaues
+Bild, da sich die Projektionen aufsummieren. Ein  vorteilhafteres  Verfahren
+zur Erzeugung von Schnittbildern eines Kφrpers liefert die Rφntgen-Computer-
+Tomographie (Schichtaufnahmeverfahren).  Dabei  werden  Rφntgenstrahlen  mit
+Hilfe  von  modernen  Detektoren  aufgenommen.  Die  Messungen  werden   aus
+verschiedenen  Durchstrahlrichtungen  so  vorgenommen,   dass   sich   viele
+verschiedene Projektionen des Objekts aus verschiedenen Blickrichtungen  und
+Ebenen  ergeben.  Aus  diesen   Daten   kφnnen   Computer   zweidimensionale
+Schnittbilder bzw. auch schon ein dreidimensionales Bild berechnen,  in  dem
+die tatsδchlichen Dichteverteilungen des Objektes zu erkennen sind.
+Es gibt  zwei  Verfahren,  durch  die  solche  Schichtaufnahmen  vorgenommen
+werden   kφnnen.   Beim   Fδcherstrahlgerδt   rotieren   Rφntgenrφhre    und
+Detektorsystem um das zu untersuchende  Objekt.  Beim  Ringdetektor  dagegen
+sind stationδre Detektoren ringfφrmig um das Objekt angeordnet, wδhrend  die
+Rφhre allein innerhalb des Ringes rotiert. Folgende  Abbildungen[22]  machen
+das Prinzip noch einmal deutlich:
+
+                                    [pic]
+
+                                    [pic]
+
+Die Computertomographie (CT) war das  erste  radiologische  Verfahren,  dass
+ausschlieίlich errechnete digitale Bilder zur Verfόgung stellte.  Es  bietet
+so dreidimensionale Aufnahmen, wobei einzelne  Ebenen  Schicht  fόr  Schicht
+aufgenommen werden.
+In der medizinischen Untersuchung hat man heute neben  der  Einzelschicht-CT
+auίerdem die Mφglichkeit einer Spiral-CT. Dabei stόtzt sich die  Technologie
+auf  kontinuierlich  rotierende  CT-Messsysteme,   die   aus   verschiedenen
+Winkelpositionen  Aufnahmen  machen.  Es   handelt   sich   dabei   um   ein
+Volumenaufnahmeverfahren,  dessen   Prinzip   in   folgender   Abbildung[23]
+dargestellt ist:
+
+[pic]
+
+Die Rφntgenrφhre wird spiralfφrmig relativ zur Kφrperachse gedreht.
+Der Vorteil der Spiral-CT im Vergleich zur Einzelschicht-CT liegt  in  einer
+kόrzeren Messzeit, wodurch die Strahlenbelastung der Kφrperzellen sinkt.
+
+Δhnliche Prinzipien findet man bei  PET  (Positron-Emission-Tomography)  und
+SPECT (Single-Photon-Emission-Computer-Tomography).
+Ohne die eher zufδllige Entdeckung der Rφntgenstrahlung  hδtten  sich  viele
+Fortschritte in der Medizin bis heute nicht verwirklichen lassen.
+Bereits kurze  Zeit  nach  den  ersten  Rφntgenaufnahmen  wurde  klar,  dass
+Rφntgenstrahlen auch eine schδdigende Wirkung haben.  Aufgrund  ihrer  hohen
+Energien und  Wechselwirkungen  mit  dem  Gewebe  sind  sie  gefδhrlich  fόr
+Zellkφrper, sofern diese hδufiger Bestrahlung ausgesetzt sind.  Verschiedene
+Krankheiten und Dauerschδden treten  bei  einer  άberbelastung  des  Kφrpers
+durch die  gefδhrliche,  ionisierende  Strahlung  auf.  Viele  Physiker  und
+Mediziner starben an den Spδtfolgen ihrer Experimente,  bei  denen  sie  aus
+Unwissenheit ohne Strahlenschutz gearbeitet hatten.  Strahlenschutzmaίnahmen
+waren eine notwendige Folge. Diese sind durch die  "Verordnung  όber  Schutz
+vor Schδden durch Rφntgenstrahlen, Rφntgenverordnung - (1987)" festgelegt.
+
+
+
+Umsetzung in der Schule:
+
+
+Fόr den Unterricht  reicht  es  aus,  wenn  die  Schόler  wissen,  dass  die
+Rφntgenstrahlen   durch  das  Abbremsen  schneller  Elektronen  in   Materie
+entstehen und auίerdem aufgrund ihrer Energie Atome und Molekόle  ionisieren
+kφnnen.
+Bei der Behandlung der Rφntgendiagnostik in der Schule im  Zusammenhang  mit
+Teilchendetektoren,  ist  es  wichtig  die  grundlegenden  Kriterien  dieses
+Verfahrens zu erlδutern.  Man  sollte  betonen,  dass  es  sich  bei  dieser
+Methode um eine Bilderzeugung  aufgrund  einer  Durchleuchtung  handelt.  Im
+Gegensatz  zu  SPECT  und  PET,  bei  denen  Strahlungsquellen   im   Kφrper
+positioniert werden, wird das  Objekt  mit  Photonen,  den  Rφntgenstrahlen,
+durchleuchtet.  Es  handelt  sich  hierbei  also  um  eine   Art   negatives
+Schattenbild. Die Schόler sollten wissen, dass Rφntgenstrahlen  Materie  gut
+durchdringen kφnnen. Je nach Dichte der Materie werden  sie  unterschiedlich
+abgeschwδcht, d. h. sie werden absorbiert.  Die  Ursache  dieser  Absorption
+sind die  bereits bekannten Prozesse des  Photoeffekts,  oder  der  Compton-
+Streuung.
+Bei der Rφntgendiagnostik ist entscheidend, dass man durch den Nachweis  der
+Teilchen auf die Dichte und die Art des Gewebes  schlieίen  kann.  Erreichen
+viele  Photonen  den  Detektor,  kann   man   davon   ausgehen,   dass   die
+Materiedichte, wie zum Beispiel das Muskelgewebe, nicht groί  genug  war  um
+die Strahlung nennenswert zu schwδchen. Durchdringt  die  Strahlung  dagegen
+Knochen,  die  eine  hohe  Dichte  besitzen,  so  werden  deutlich   weniger
+Rφntgenstrahlen am Detektor registriert.
+
+An dieser Stelle kann man den Schόlern  begreiflich  machen,  dass  mit  der
+Rφntgenaufnahme  eine   άberlagerung   der   verschiedenen   Gewebeschichten
+dargestellt  wird.   Somit   erhδlt   man   keine   exakte   Abbildung   des
+Objektinneren. Um weitere Methoden von optimierten bildgebenden Systemen  zu
+vertiefen, kann man sich auf den Internetseiten zu  "Physik  2000"  Anregung
+holen. Dort ist beispielsweise die Rφntgen-CT  detailliert  beschrieben  und
+fόr ein gutes Verstδndnis konzeptioniert.
+
+Die bereits erwδhnten Prozesse  der  Strahlungsabschwδchung  kφnnen  benutzt
+werden, um den Schόlern die Schδdigung des Gewebes durch  die  energetischen
+Rφntgenstrahlen  zu  erklδren.  Dabei  kann   auch   der   Ionisationseffekt
+geladener Teilchen aufgegriffen werden. Sowohl  Rφntgenstrahlung,  als  auch
+radioaktive Strahlung kann  zu  einer  Schδdigung  des  organischen  Gewebes
+fόhren und damit verschiedene Krankheiten auslφsen. Aus diesem  Grund  wurde
+die Strahlenschutzverordnung erlassen.
+In dem Zusammenhang ist es dennoch wichtig, den Schόlern die mφgliche  Angst
+vor dem Rφntgen zu nehmen. Sie sollen wissen, dass der dabei  mφglicherweise
+entstehende Schaden gegen den offensichtlichen Nutzen einer  Rφntgenaufnahme
+abzuwδgen ist. Dabei wδre es nόtzlich, an  einigen  ausgewδhlten  Beispielen
+die typische Strahlendosis eine  Rφntgenaufnahme  mit  anderen  Quellen  der
+Strahlenbelastung zu vergleichen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kapitel 3.6: Nuklearmedizin
+
+
+
+
+Radionuklide:
+
+In der Nuklearmedizin werden die  Eigenschaften  von  instabilen  Atomkernen
+fόr diagnostische Bildaufnahmen genutzt, um Organfunktionen zu  untersuchen.
+Dem Patienten wird eine Substanz  verabreicht,  die  mit  einem  Radionuklid
+"markiert"  ist  (Tracer).  Die  verschiedenen  Substanzen   reichern   sich
+aufgrund  des  Stoffwechsels  in  bestimmten   Organen   des   Kφrpers   an.
+Platzieren sich die Radionuklide  als  innere  Strahlungsquelle  im  Kφrper,
+kann die radioaktive Strahlung mit Hilfe von Detektoren geortet werden.
+
+Atomkerne sind durch die Anzahl der Neutronen und  Protonen  gekennzeichnet.
+Man unterscheidet drei Arten von radioaktiven Zerfδllen:
+
+    . Alpha-Zerfall: Ein Atomkern wandelt sich in einen leichteren  Kern um,
+      indem er einen Helium-Kern emittiert. Seine Ladung δndert  sich  dabei
+      um zwei und seine Masse um vier Einheiten:
+
+                                    [pic]
+
+    . Beta-Zerfall: Der Atomkern δndert seine Ladung  um  eine  Einheit  und
+      sendet dabei ein Positron und ein Neutrino oder ein Elektron  und  ein
+      Antineutrino aus. Die Massenzahl bleibt dabei konstant:
+
+                                    [pic]
+
+    . Gamma-Zerfall: Durch Emission eines Photons δndert der Atomkern  seine
+      Energie. Ladungs- und Massenzahl bleiben dabei erhalten.
+
+
+
+
+
+
+Single-Photon-Emission-Computer-Tomography (SPECT):
+SPECT  ist  ein  bildgebendes  Verfahren  in  der  Nuklearmedizin,  das  zur
+Beobachtung  von  dynamischen  Prozessen  im   Kφrper,   wie   physiologisch
+chemischen Stoffwechselvorgδngen, in der Medizin eingesetzt wird. Bei  SPECT
+kommen Einzelphotonenemitter zum Einsatz, die dem Gammazerfall  unterliegen.
+Die einzeln emittierten Photonen  werden  dann  mit  Hilfe  von  Detektoren,
+meist Szintillationsdetektoren bzw. Gammakameras, registriert.  Die  Signale
+werden durch Photomultiplier verstδrkt. So kφnnen Strahlungsquellen  geortet
+werden, und ein Computer berechnet die erhaltende  Information  und  wandelt
+sie in ein zweidimensionales Bild der Aktivitδt des  Organs  um.  Durch  den
+zeitlichen   Verlauf   dieser   Aktivitδt   kann   man   Rόckschlόsse    auf
+Stoffwechselvorgδnge des Kφrpers ziehen.
+
+
+Die Gammaquanten werden von den Detektoren wie  Gammakameras   wahrgenommen.
+Dabei werden die Detektoren auf einer Kreisbahn um das Objekt  gefόhrt.  Die
+groίflδchigen Detektorplatten ermφglichen  eine  gleichzeitige  Untersuchung
+mehrerer benachbarter Objektschichten.  Folgende  Abbildung[24]  zeigt  eine
+schematische Darstellung der SPECT-Aufnahme:
+
+
+                                    [pic]
+
+Die  Drehung  um  das  Objekt  ermφglicht  es,   Daten   aus   verschiedenen
+Blickwinkeln zu erhalten, um die  Position  und  Konzentration  der  Photon-
+Emissionsquellen  zu  bestimmen.  Bei  SPECT  handelt   es   sich   um   ein
+Schnittbildverfahren. Es  gilt  als  das  nuklearmedizinische  Analogon  zur
+Rφntgen-CT. Diese funktionsorientierte Untersuchungsmethode ist aber  anders
+als bei der Rφntgenaufnahme nicht fόr tote Materie geeignet, da  die  es  an
+erhaltende Lebensvorgδnge mit Durchblutung und Stoffwechsel gebunden ist.
+Um die Projektionsrichtung  des  Bildes  festzulegen,  wird  ein  Kollimator
+benφtigt,   der   das   Objekt   in    schmale    Kanδle    aufteilt.    Die
+Szintillationsdetektoren, die  einzelne  Gammateilchen  aufzeichnen,  fangen
+diese Photonen so in  gerader  Richtung  auf.  Schrδg  einfallende  Photonen
+werden dagegen aussortiert und man erhδlt nur in einer  bestimmten  Richtung
+Information όber das Objekt. Mehrfachinformationen werden so vermieden.
+Die Zahl der  eingefangenen  Photonen  hδngt  von  der  Grφίe  und  Art  des
+Kollimatorloches ab, was sich sowohl auf die rδumliche  Auflφsung  als  auch
+auf die Empfindlichkeit des Systems auswirkt. Liegt ein  Detektorsystem  mit
+vielen kleinen Kollimatoren vor, so ergibt sich eine gute  Auflφsung.  Durch
+die groίe Packungsdichte der kleinen  Gerδte  kφnnen  die  Strahlungsquellen
+exakter geortet  werden.  Die  geometrische  Empfindlichkeit,  die  von  der
+Absorptionswahrscheinlichkeit abhδngt, verschlechtert sich dagegen.  Da  bei
+SPECT die Gόte des Auflφsungsvermφgens  und  die  Gόte  der  Empfindlichkeit
+voneinander abhδngig sind, muss  ein  Kompromiss  gefunden  werden,  um  das
+Aufnahmeverfahren zu optimieren.
+Die Streuung der Gammastrahlen im Gewebe ist ein weiterer  Faktor,  der  die
+Schδrfe  des  Bildes  beeintrδchtigt.  Durch  diese  Streustrahlung   kφnnen
+Fehlinformationen in die Bildverarbeitung mit eingehen.
+
+Heute kφnnen sogar wie bei der Spiral-CT dreidimensionale  Bilder  einzelner
+Kφrperregionen mit Hilfe des Computers erzeugt werden.
+
+
+
+Positron-Emission-Tomography (PET):
+
+Ein weiteres bildgebendes Verfahren in der  Nuklearmedizin  ist  PET.  Diese
+Untersuchung fordert, wie bei SPECT, einen Einsatz  von  Radionukliden.  Sie
+nutzen  die  Eigenschaften  von  Positronenemittern  und  Annihilation   von
+Teilchen-Antiteilchenpaaren  aus.  Dem  Patienten  werden  die  radioaktiven
+Substanzen  verabreicht,  von  denen  man  weiί,   dass   sie   sich   durch
+Stoffwechselfunktionen an dem zu untersuchenden Organ anreichern.
+
+Die hier am hδufigsten benutzten Radionuklide sind 11C, 13N,  15O  und  18F.
+Sie besitzen instabile Kerne, die sich  ohne  δuίere  Einwirkung   όber  den
+Beta-Plus  Zerfall  in  die  Nachbarkerne  mit  Z-1  umwandeln   und   somit
+Positronen erzeugen. Die Verwendung von  11C,  13N  und  15O  erfordert  den
+Einsatz am Ort des Tomographen, da ihre Halbwertzeiten δuίerst gering  sind.
+Sie bewirken keine Verδnderungen der Biochemie und  liefern  so  Abbildungen
+eines ungestφrten Stoffwechsels. 18F dagegen hat eine Halbwertzeit  von  110
+Minuten und kann deshalb όber eine gewisse Entfernung transportiert  werden.
+Die  metabolischen[25]  Verδnderungen  beim  Einsatz  dieses  Tracers   sind
+entweder gewollt oder nur minimal. Damit kφnnen Untersuchungen  an  lebenden
+Menschen   ohne   Beeintrδchtigung   durchgefόhrt   werden.   Die   folgende
+Tabelle[26] zeigt die Eigenschaften gebrδuchlicher Positronenemitter auf:
+
+|Positronenstr|Halbwertze|Max.              |Max. lin.       |Mittlere       |
+|ahler        |it/       |Positronenenergie/|Reichweite/     |Reichweite/    |
+|             |min       |MeV               |mm (Gewebe)     |mm (Gewebe)    |
+|11C          |20,4      |0,69              |5               |0,3            |
+|13N          |9,9       |1,19              |5,4             |0,4            |
+|15O          |2,9       |1,72              |8,2             |1,5            |
+|18F          |110       |0,64              |2,4             |0,2            |
+
+
+Ein Positron ist das Antiteilchen des Elektrons. Sobald es auf  ein  Hόllen-
+Elektron im Gewebe trifft, vernichten sich die beiden unter  Aussendung  von
+zwei Photonen, die in entgegengesetzte Richtungen fliegen:
+
+                                   [pic].
+
+Durch die Massen des Teilchen-Antiteilchenpaares addieren sich die  Energien
+der  beiden  erzeugten  Photonen  dabei  aufgrund  der  Erhaltungssδtze   zu
+1,022MeV.
+Die maximale  Reichweite  eines  Positrons  im  Gewebe  betrδgt  nur  wenige
+Millimeter,  bevor  es  dann  mit  einem  Elektron  zu   zwei   Gammaquanten
+zerstrahlt.  Gammaquanten  dagegen  kφnnen  auch   dickere   Gewebeschichten
+durchdringen und sind somit auίerhalb des Kφrpers nachweisbar.
+
+Die Positronen kφnnen bei PET nicht  direkt  nachgewiesen  werden.  Vielmehr
+werden die  zwei  bei  der  Elektron-Positron-Paar-Vernichtung  entstandenen
+Photonen  gemessen.  Die  Photonen  werden  in  alle  mφglichen   Richtungen
+emittiert. Werden  zwei  Energiequanten  von  gegenόberliegenden  Detektoren
+gleichzeitig  innerhalb  einer  bestimmten  Zeit  von  wenigen  Nanosekunden
+gemessen, so liegt die Vermutung nahe, dass der Ort der Paarvernichtung  auf
+der Verbindungslinie zwischen den beiden Detektoren liegt.  Daher  wird  ein
+Ring aus  Detektoren  verwendet,  wie  die  folgende  Abbildung  schematisch
+zeigt:
+
+                                    [pic]
+
+Die Gleichzeitigkeit der Signale gegenόberliegender  Detektoren  entscheidet
+also όber die  Wertung  des  Ereignisses.  Eine  Erhφhung  des  Untergrundes
+ergibt  sich  jedoch  aus  Signalen  von  gestreuten  Teilchen  oder  zweier
+unterschiedlicher  Ereignisse,  die  aber  dennoch   gleichzeitig   gemessen
+werden. Die Auflφsung des  rekonstruierten  Bildes  verschlechtert  sich  in
+diesen Fδllen.
+
+Kennt man die Verbindungslinie zwischen zwei  Detektoren,  auf  welcher  der
+Ort der Aktivitδt liegt, so ergibt sich  noch  keine  genaue  Lokalisierung.
+Daher werden mehrere Detektoren, wie bei  der  CT,  kreisfφrmig  um  das  zu
+betrachtende   Objekt   (z.B.   Patient)   angeordnet,   um   eine    exakte
+Aktivitδtsverteilung zu rekonstruieren.  Im  Computer  entsteht  schlieίlich
+ein zweidimensionales Bild des Objektinneren. Dieses sogenannte  Szintigramm
+ist eine bildliche Darstellung  der  Aktivitδtsverteilung.  Dreidimensionale
+Rekonstruktionen kφnnen wie bei der CT  mit  zweidimensionalen  Projektionen
+aus mehrere Winkeln erfolgen.
+
+Das  Auflφsungsvermφgen  von  PET  wird  durch  die  Grφίe   der   einzelnen
+Detektoren bestimmt. Dabei gilt: Je grφίer der Detektor, desto mehr  Signale
+nimmt er auf und desto unschδrfer  wird  das  Bild.  Eine  Verbesserung  der
+Auflφsung durch kleinere Detektoren ist allerdings durch zwei  physikalische
+Effekte begrenzt. Zum  einem  bewirken  Restimpulse  des  Elektron-Positron-
+Paares, dass die beiden Photonen nicht genau in entgegengesetzte  Richtungen
+fliegen.  Zwei  kleine,  gegenόberliegende  Detektoren   kφnnen   so   unter
+Umstδnden die  beiden  Signale  der  Gammaquanten  nicht  registrieren.  Zum
+anderen wird bei dem Verfahren nicht der Ort der  Positronemission,  sondern
+jener der Annihilaton bestimmt. Der Abstand  dieser  beiden  hδngt  von  der
+Reichweite der Positronen bzw. ihrer kinetischen Energie ab.
+
+Durch das Messverfahren wie  bei  PET,  mit  dem  immer  zwei  gleichzeitige
+Signale an gegenόberliegenden Stellen gemessen werden, benφtigt  man  keinen
+Kollimator,  der  die  ankommenden  Photonen  abschirmt   und   nur   wenige
+durchlδsst.   Gegenόber   SPECT   gewinnt   man    dadurch    eine    hφhere
+Empfindlichkeit.  Die  bei  SPECT  όblichen  Nδherungsverfahren  sind  nicht
+nφtig.
+
+Die  klinischen  Anwendungen   von   PET   liegen   hauptsδchlich   in   der
+Krebsdiagnostik im Gehirn, Brust, Herz und Lungen. Neurologen erhoffen  sich
+Ergebnisse  aus  entsprechenden  Studien  von  Epilepsie-,  Hirnschlag-  und
+Alzheimerpatienten.
+
+
+
+
+
+Umsetzung in der Schule:
+
+Um die Verfahrensweise der Bildgebung in  der  Nuklearmedizin  zu  erklδren,
+muss man zunδchst auf die  Eigenschaften  von  Radionukliden  eingehen.  Die
+radioaktive Strahlung sollte im Unterricht behandelt  worden  sein.[27]  Den
+Schόlern  sollten  die  drei  verschiedenen  Arten  radioaktiver   Strahlung
+bekannt sein.
+Die Schόler sollten wissen, dass zur Bildgebung in der Nuklearmedizin  diese
+Radionuklide  zusammen  mit  Substanzen  eingesetzt  werden,  die  sich   in
+bestimmten  Organen  des  Kφrpers  anreichern.  Von  dort  wirken  sie   als
+Strahlungsquelle. Es darf nicht vergessen werden zu  erwδhnen,  dass  solche
+Untersuchungen nur an Lebewesen vollzogen werden kφnnen, da  PET  und  SPECT
+auf Stoffwechselvorgδnge im  Kφrper  beruhen.  Eine  Untersuchung  am  toten
+Objekt ist nur mit Hilfe der Rφntgendiagnostik mφglich.
+
+Behandelt man  das  SPECT-Verfahren,  so  muss  klar  werden,  dass  hierbei
+Radionuklide eingesetzt  werden,  die  dem  Gamma-Zerfall  unterliegen.  Das
+heiίt, es werden  Gammastrahlen,  Photonen,  von  der  Strahlungsquelle  aus
+emittiert.  Die  Photonen  kφnnen  mit  Hilfe  von  Detektoren  nachgewiesen
+werden. Danach berechnet ein Computer den Ort der Strahlungsquelle.
+Die bei SPECT verwendeten Detektoren sind hδufig Gammakameras.  Die  Schόler
+sollten  eine  Vorstellung  davon  bekommen,  wie  diese  Kameras  bei   der
+Untersuchung eingesetzt werden. Den dabei verwendeten  Kollimator  kann  man
+als eine Art Trichter auffassen. So  sollen  die  Schόler  den  Zusammenhang
+zwischen  den  Eigenschaften  des  Kollimators  und  der   Genauigkeit   des
+entstehenden Bildes erkennen. Folgende Abbildung[28] zeigt  ein  Skizze  der
+Gammakamera nach Anger:
+
+[pic]
+
+Ist  der  Trichter  groί,  kann  er  auf  der  einen  Seite  viele  Photonen
+einfangen, auf der anderen Seite aber  den  Ort  eines  einzelnen  Teilchens
+nicht so gut herausfinden. Ist der  Trichter  dagegen  klein,  so  fδngt  er
+wenig Photonen ein, kann aber den Ort eines Photons recht  genau  bestimmen.
+άber diese Eigenschaften des  Kollimators  kann  in  der  Klasse  diskutiert
+werden.
+Hat man zuvor die Rφntgen-CT behandelt, sollte man erwδhnen,  dass  bei  der
+δhnlichen SPECT-Untersuchung die Kameras auch um den Patienten rotieren,  um
+so Aufnahmen aus allen Perspektiven zu machen.
+
+Wird im Unterricht PET angesprochen, so  muss  den  Schόlern  bewusst  sein,
+dass  hierbei  Radionuklide  verwendet  werden,  die  dem  Beta-Plus-Zerfall
+unterliegen. Wie bei SPECT werden Substanzen mit Radionukliden markiert  und
+gelangen  durch  den  Stoffwechsel  in  die  jeweiligen  Organe.  Von   dort
+emittieren  sie  Positronen.  Aus  den  Grundlagen  der  Teilchenphysik  ist
+bekannt, dass ein Positron zusammen mit  einem  Elektron  zu  zwei  Photonen
+zerstrahlt, sobald sie aufeinandertreffen. Diese beiden Photonen fliegen  in
+entgegengesetzte Richtungen und  kφnnen  von  gegenόberliegenden  Detektoren
+registriert werden. Hier liegt ein wichtiger Unterschied zwischen SPECT  und
+PET.  Bei  der  PET-Untersuchung  rotieren  die  Detektoren  nicht  um   den
+Patienten. Die Schόler sollten  am  Ende  wissen,  dass  eine  gleichzeitige
+Registrierung der Signale zweier Photonen darauf schlieίen lδsst,  dass  der
+Ort  der  Elektron-Positron-Paarvernichtung   auf   einer   Verbindungslinie
+zwischen den beteiligten Detektoren  liegt.  Der  eigentliche  Erzeugungsort
+der Positronen liegt  in  der  Nδhe  der  Teilchen-Antiteilchen-Vernichtung.
+Wenn die  Schόler  weiteres  Interesse  zeigen,  kann  man  mit  ihnen  όber
+mφgliche Fehlerquellen dieses Verfahrens diskutieren.  Auίerdem  kφnnen  die
+Vor- und Nachteile von SPECT und PET in Augenschein genommen werden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kapitel 3.7: Schwerionenionentherapie
+
+
+Im Rahmen der Kern- und Elementarteilchenphysik hat man  viele  Erkenntnisse
+gewonnen, die nicht nur in der medizinischen  Diagnostik  Anwendung  finden.
+Beispielsweise wird der Schaden, den ionisierende Strahlung an  biologischem
+Gewebe verursacht, in der Strahlentherapie benutzt,  um  krankes  Gewebe  zu
+zerstφren. Anregung und Ionisation der durchstrahlten Materie spielen  dabei
+eine wichtige Rolle. Verschieden Strahlungsarten  haben  dabei  verschiedene
+Schδdigungsgrade.
+Die  Strahlenwirkung  lδuft  in  vier  Stufen  ab.  Man  unterscheidet   die
+Physikalische,  die  Physikalisch-Chemische,  die   Biochemische   und   die
+Biologische  Phase.[29]  Fόr  diesen  Themenbereich  ist  es   hauptsδchlich
+interessant, dass durch die  Wechselwirkungen  zwischen  geladenen  Teilchen
+und der Materie durch  Energieabsorption eine Ionisation,  Molekόlanregungen
+oder Wδrmeentwicklung auftreten kann.
+
+Ursprόnglich wurden Tumore mit Gammastrahlen behandelt. Da aber  ein  Strahl
+aus Photonen in Materie seine Energie exponentiell abgibt,  wird  dabei  der
+Groίteil der Energie  im gesunden Gewebe deponiert,  bevor  der  Strahl  den
+Tumor erreicht. Dieses klassische Verfahren  der  Strahlentherapie  schδdigt
+daher eher die δuίeren Kφrperzellen als den tief liegenden Tumor.
+Beim Beschuss der  Krebszellen  deponieren  geladene  Teilchen  dagegen  den
+grφίten Teil ihrer hohen Energie erst am Ende ihrer  Flugbahn.  Wδhrend  des
+Weges verlieren die Teilchen weniger  Energie ,  so  dass  dem  umliegenden,
+gesunden  Gewebe  daher  kein  unnφtiger  Schaden  zugefόgt  wird  und  kaum
+Nebenwirkungen bei der Behandlung auftreten. Durch diese Eigenschaften  kann
+man tiefsitzende Tumore gezielt behandeln.
+Da leichte geladene Teilchen in Materie streuen,  werden  schwere,  geladene
+Teilchen, wie Ionen, bevorzugt.
+Durch die maximale  Energieabgabe  im  Tumor  am  Ende  der  Reichweite  der
+schweren  Ionen  erreicht  man   eine   Schδdigung   bzw.   Zerstφrung   des
+Tumorgewebes. Dieses kann zerstφrt oder im Wachstum unterbrochen werden,  so
+dass der Krebs besiegt werden kann. Die Lδnge der Flugbahn lδsst sich  durch
+die Anfangsenergie, mit der  die  geladenen  Teilchen  beschleunigt  werden,
+regulieren.
+
+Bei  der  Schwerionentherapie  handelt  es  sich  um  eine  Bestrahlung  des
+Tumorgewebes mit hochenergetischen Kohlenstoffionen.  Diese  Ionen  besitzen
+zwφlf Protonen, zehn bis elf Neutronen und  weniger  als  zwφlf  Elektronen,
+weswegen sie verhδltnismδίig schwere, elektrisch positiv  geladene  Teilchen
+sind.  Aufgrund ihrer hohen Masse werden  die  Ionen  in  der  Materie  kaum
+abgelenkt. Dadurch wird ein scharf begrenztes  Strahlenbόndel  der  Teilchen
+erzeugt. Das gesunde Gewebe wird daher kaum belastet.
+So   liegt   in    der    Schwerionentherapie    eine    Anwendung    dieser
+teilchenphysikalischen Grundlagen, Techniken  und  Methoden.  Sie  ist  eine
+Mφglichkeit  der  Krebsbekδmpfung   bzw.   Behandlung   von   Tumoren.   Die
+Gesellschaft fόr Schwerionenforschung (GSI) startete im Dezember  1997  eine
+Reihe von Untersuchungen bzgl. dieser  Strahlentherapie.  Eine  Analyse  der
+beiden ersten Patienten ergab eine unerwartet schnelle Tumorrόckbildung.
+
+Man unterschiedet zwischen direkter und indirekter  Strahleneinwirkung.  Die
+direkte Strahlenwirkung ist von der Anzahl der Treffer  und  somit  von  der
+Strahlendosis abhδngig, durch die  ein  Absterben  oder  eine  Mutation  der
+Zellen angestrebt wird.  Die  Ionen  lφsen  in  den  Molekόlen  des  Gewebes
+Bindungselektronen  heraus.  Dadurch  verlieren   diese   ihre   biologische
+Eigenschaften, was zum Absterben der Zellen fόhren kann.
+Bei der indirekten Strahlenwirkung wird ein Wassermolekόl zum  hochreaktiven
+Radikal, wenn es ein Bindungselektron verliert. Es holt  sich  ein  Elektron
+aus einem organischen Molekόl, was zum Verlust der biologischen  Wirksamkeit
+von DNS und RNS fόhren kann.
+
+Die Kohlenstoffionen werden durch elektrische Felder  gezielt  beschleunigt.
+Dabei  werden  unterschiedliche  Energien  E  =  qU  zugefόhrt,  welche  die
+angestrebte Reichweite der Teilchen bestimmen. Zum  Bestimmungsort  gelangen
+die Ionen mit Hilfe von Magnetfeldern. Dort werden sie in ihrer Flugbahn  so
+abgelenkt, dass sie mit hoher Prδzision  ihren  Bestimmungsort,  den  Tumor,
+erreichen, wie folgende Abbildung[30] schematisch zeigt:
+
+[pic]
+
+PET  gilt  als  bekannte,  nicht  invasive  Methode  zur   άberwachung   des
+Ionenstrahls  durch  eine  Kamera,  welche  die  Lage  des  Strahls  prδzise
+kontrollieren und die Dosis  όberwachen  kann,  indem  die  Wechselwirkungen
+zwischen Ionen und Gewebe sichtbar gemacht werden.
+
+Die Behandlungsmethode zielt bevorzugt auf tief liegende Tumore im Kopf  und
+in der Nδhe des Rόckenmarks.
+
+Der fόr das Verfahren der Krebsbekδmpfung  erzeugte  Schwerionenstrahl  muss
+mit Hilfe eines Beschleunigers  aufwendig  produziert  werden.  Dies  stellt
+einen Nachteil der Therapie dar.
+Die Behandlung ist nicht fόr schnell wachsende und  metastasenreiche  Tumore
+geeignet.   Kinder   unter   18   Jahren   sind   per   Gesetz   nicht   zur
+Schwerionentherapie zugelassen.
+
+
+
+
+
+
+
+Umsetzung in der Schule:
+
+In  diesem  Themenbereich  sollen  die  Schόler  lernen,  dass   nicht   nur
+Diagnoseverfahren, sondern auch die Therapie von Krankheiten eine  Anwendung
+der Teilchenphysik darstellt.
+Mit den Wissen,  dass  geladene  Teilchen  Materie  ionisieren,  sollen  die
+Schόler  erkennen,  dass  eine   solche   Strahlung   nicht   nur   negative
+Auswirkungen auf die Gesundheit des Menschen hat. Vielmehr kann  man  gerade
+die ionisierenden Eigenschaften[31] schwerer, geladener  Teilchen,  wie  zum
+Beispiel Kohlenstoffionen, nutzen, um ein Bestrahlung in  der  Krebstherapie
+zu ermφglichen. Die Schόler sollen lernen,  dass  Tumore  gezielt  bestrahlt
+werden kφnnen. Geladene Teilchen geben den Groίteil ihrer  Energie  erst  am
+Ende ihrer Bahn ab, so dass gesundes Gewebe dadurch kaum belastet wird.
+Die Reichweite geladener Teilchen ist abhδngig  von  ihrer   Anfangsenergie.
+Daher kann man mit Hilfe eines  Beschleunigers  sehr  genau  festlegen,  wie
+weit  die  Teilchen  fliegen  sollen.  So  finden   die   Schόler   in   der
+Tumorbestrahlung  eine  direkte  Anwendung   der   Beschleuniger   aus   den
+teilchenphysikalischen Experimenten.
+An dieser Stelle sollen  die  Schόler  erkennen,  dass  man  mit  Hilfe  von
+Magnetfeldern den Strahl geladener Teilchen lenken kann, so dass seine  Bahn
+genau im Tumor endet. Diesen Vorgang  kann  man  anhand  von  Elektronen  in
+einer  Braunschen  Rφhre  und  eines  von  auίen   angelegten   Magnetfeldes
+(Hufeisenmagnet)   verdeutlichen.   Die   Elektronen   werden   durch    die
+Lorentzkraft abgelenkt. Dabei gilt fόr die Ablenkung der negativen  Teilchen
+die Linke-Hand-Regel. Bei den positiven Ionen,  krόmmt  sich  die  Spur  der
+Teilchen jedoch in die entgegengesetzte Richtung. Es gilt  die  Rechte-Hand-
+Regel.
+Detektoren werden auch in der Krebstherapie genutzt. Mit Hilfe von PET  kann
+man die Bestrahlung όberwachen.
+
+
+
+
+
+
+Teil 4: Zusammenfassung:
+
+In der Schule bilden die Kontexte eines Unterrichtsfaches die  Verknόpfungen
+zwischen  reinem  Grundlagenwissen  und  den  aus   dem   Alltag   bekannten
+Anwendungen. Diese  Verbindungen  sind  sowohl  als  motivierender  Einstieg
+einer  Unterrichtseinheit,  als  auch  als   Begleitung   und   anschauliche
+Anwendung der Unterrichtinhalte im Schulalltag unverzichtbar. Dabei  spielen
+Faktoren, wie Motivation und Interesse der Schόler fόr das Verstδndnis  eine
+entscheidende Rolle.
+Gerade  die  Teilchenphysik  kann  den  Physikunterricht  als  eine  moderne
+Wissenschaft mit ihren Forschungsthemen und neuesten  Ergebnissen  aktueller
+gestalten, um so das Interesse der Schόler zu fφrdern. Wenn Fragen nach  dem
+Sinn und Zweck des Gelernten nur unbefriedigt beantwortet werden,  verlieren
+die Schόler schnell die Lust am Lernen und am  Unterricht.  Anwendungen  der
+Teilchenphysik,   welche   die   Schόler   in    ihrer    Lebenswirklichkeit
+wiederfinden, eignen sich hervorragend,  den  Wissensdurst  der  Schόler  zu
+wecken und sie zu weiteren Studien aufzufordern. Die Schόler sollen  dadurch
+Spaί und Begeisterung an  der Physik entwickeln.
+Sowohl in der Kosmologie als auch in der Medizin findet man Anwendungen  der
+Teilchenphysik.
+Die Grundlagenforschung in Teilchenphysik und Astronomie hδngt eng  mit  dem
+Forschungsgebiet  der   Kosmologie   zusammen.   Einzelprozesse,   wie   sie
+wahrscheinlich  im  frόhen  Universum  abgelaufen  sind,   werden   an   den
+Teilchenbeschleunigern simuliert. So  kφnnen  Theorien  zur  Entstehung  und
+Entwicklung des Universums aufgestellt werden.
+In  der  Medizin  finden  Techniken,  wie  beispielsweise   Detektoren   und
+Beschleuniger,  die  in   teilchenphysikalischen   Experimenten   eingesetzt
+werden, eine Anwendung. Die Forschungsergebnisse, Gerδte und  Messverfahren,
+die Teilchenphysiker zur Teilchenidentifikation aufgrund  von  Energie-  und
+Positionsmessungen  benφtigen,  kφnnen  direkt  in  der   Medizin   in   der
+Diagnostik zur Bildgebung genutzt werden. Durch die Schwerionentherapie  ist
+auch eine Bekδmpfung von Krebstumoren mφglich.
+
+Da  zu  den  meisten  Inhalten  dieses  Skriptes  kaum   Anschauungsmaterial
+existiert, wurde ein Websystem erstellt, das  die  einzelnen  Themenbereiche
+erklδrt, und ein bereits vorhandenes Web System όber Teilchenphysik[32]  mit
+Kontexten ergδnzt. Der Computer kann so als Medium im Unterricht  eingesetzt
+werden. Versuche, Aufgaben, Modelle und Bilder waren  allerdings  schwer  zu
+finden.
+In diesem Skript werden eine  Reihe  von  mφglichen  Kontexten  zur  Auswahl
+angeboten.  Wie  sich  jedoch  herausgestellt  hat,  eigenen   sich   einige
+physikalische Inhalte nicht  unbedingt  fόr  die  Sekundarstufe  I  (z.  B.:
+Photoeffekt, Compton-Streuung,  Halbleitertechnik,  Szintillatoren).  Andere
+Teilthemen schweifen vom Thema der Teilchenphysik ab, entpuppten  sich  aber
+als interessante, naturwissenschaftliche Betrachtungen (z.  B.:  Torus  oder
+Luftballon  als  zweidimensionale  Modelle   des   Weltalls,   kosmologische
+Grundlagen).
+Ein hδufig  auftretendes  Problem  bestand  in  dem  Versuch,  physikalische
+Erklδrungen   ohne    Welleneigenschaften    insbesondere    von    Photonen
+einzubeziehen. Licht kennen die Schόler der  Sekundarstufe  I  nur  aus  der
+Strahlenoptik. Der Wellenbegriff ist, wenn όberhaupt, nur  aus  der  Akustik
+bekannt. Das  Websystem  versucht  daher,  viele  Zusammenhδnge  ohne  diese
+quantenmechanische Betrachtungsweise zu erklδren.
+Die  Zusammenhδnge  zwischen  Alter,  Ausdehnung  Temperatur,  Energie   und
+Materieaufbau des  Universums  sind  nφtig,  um  die  teilchenphysikalischen
+Vorgδnge wδhrend seiner Entwicklung  zu  verstehen.  Dazu  sollte  man  auch
+erwδhnen,    welchen    Beitrag    die    Hochenergie-Teilchenphysik     als
+Forschungsgebiet  mit  Hilfe  ihrer   Experimente  leistet.  Die   Kosmische
+Hintergrundstrahlung  liefert   zusδtzliche  Anhaltspunkte  zur  Entwicklung
+einer Urknalltheorie. Die Grόnde fόr die Schwierigkeiten, Theorien όber  die
+Entstehung  des   Universums  experimentell  zu  testen,  sollten  ebenfalls
+aufgegriffen werden.
+Um die Prinzipien von Detektoren zu verstehen, ist  es  nφtig,  sich  vorher
+einen άberblick όber die stattfindenden Wechselwirkungen  zwischen  Teilchen
+und Materie, durch die das Teilchen fliegt, zu verschaffen.  Wahlweise  kann
+man    dazu     medizinische     Detektionsverfahren     wie     bei     der
+Transmissionsradiographie  (Rφntgendiagnostik)  oder  Nuklearmedizin   (PET,
+SPECT)  oder  die  Schwerionentherapie,  die   eine   Anwendung    schwerer,
+geladener Teilchen dar stellt,  in  den  Unterricht  mit  einbeziehen.  Eine
+weitere Mφglichkeit, die Medizin als  Anwendungsbereich  der  Teilchenphysik
+zu  betrachten,  bietet  sich  bei  einem  Vergleich  Teilchenphysikalischer
+Forschungsziele, wie der Teilchenidentifikation,  und  medizinischer  Ziele,
+wie bildgebende Verfahren sowohl in der medizinischen  Diagnostik  als  auch
+bei der Krebstherapie.
+
+
+
+Einen άberblick όber die  im  Unterricht  der  Sekundarstufe  I  anwendbaren
+Teilchenphysik-Kontexte liefert folgende Liste:
+
+Kosmologie:
+
+  . Zusammenhang zwischen Temperatur und Energie
+    ( Kapitel 2.1
+  . Zusammenhang zwischen Temperatur und Materiezustand
+    ( Kapitel 2.1
+  . Zusammenhang zwischen Ausdehnung des Universums und Zeit (Alter des
+    Universums)
+    ( Kapitel 2.4
+  . Zusammenhang zwischen Temperatur und Ausdehnung des Universums
+    ( Kapitel 2.4
+  . Teilchenphysikalische Betrachtung der Entwicklung des Universums
+            ( Kapitel 2.7
+  . Interpretation der Kosmischen Hintergrundsstrahlung
+    ( Kapitel 2.5
+  . Teilchen-Antiteilchen-Vernichtung im frόhen Universum
+    ( Kapitel 2.7
+  . Simulation von Einzelprozessen durch Experimente an den Beschleunigern
+       ( Kapitel 2.1
+  . Unmφglichkeit von kosmologischen Experimenten
+    ( Kapitel 2.8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medizin:
+
+
+   . Teilchen in Materie (Photonen und geladene Teilchen)
+     ( Kapitel 3.2, Kapitel 3.3
+   . Nebelkammer, d.h. Ionisationsspur geladener Teilchen
+     ( Kapitel 3.4
+   . Gasdetektor, d.h. verstδrkter Strompuls aufgrund der durch Ionisation
+     erzeugter Ladungstrδgerpaare (Geiger-Mόller-Zδhlrohr)
+     ( Kapitel 3.4
+   . Anwendung von Detektoren in der Medizin durch Rφntgendiagnostik, PET
+     und SPECT
+     ( Kapitel 3.5, Kapitel 3.6
+   . Vergleich teilchenphysikalischer und medizinischer Ziele
+     ( Kapitel 3.4
+   . Anwendung kern- und teilchenphysikalischer Grundlagen im Bereich der
+     Krebsbekδmpfung (Schwerionentherapie)
+     ( Kapitel 3.7
+   . Strahlenschutz
+     ( Kapitel 3.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Literaturverzeichnis
+
+
+Monographien:
+
+[1]   DORN, F./BADER, F.               Physik, Mittelstufe,
+                                       Schroedel Schulbuchverlag GmbH,
+                                       Hannover 1980
+
+
+[2]   BERGMANN, F./SCHRΦDER, H.   Einfόhrung in die Physik,
+                                       Sekundarstufe I,
+                                       Verlag Moritz Diesterweg,
+                                       Frankfurt a. M. 1994
+
+[3]   BERGMANN, L./SCHAEFER, C.        Lehrbuch der Experimentalphysik,
+                                       Band 7, Sterne und Weltraum,
+                                       Walter de Gruyter Verlag,
+                                       Berlin 1998
+
+[4]   BERGMANN, L./SCHAEFER, C.        Lehrbuch der Experimentalphysik,
+                                       Band 1, Mechanik Akustik Wδrme,
+                                       Walter de Gruyter Verlag,
+                                       Berlin 1990
+
+
+[5]   BERGMANN, L./SCHAEFER, C.        Lehrbuch der Experimentalphysik,
+                                       Band 4, Teilchen,
+                                       Walter de Gruyter Verlag,
+                                       Berlin 1992
+
+
+[6]   BETHGE, K./WALTER, G./           Kernphysik, Eine Einfόhrung,
+      WIEDEMANN, B           Spektrum Verlag,
+                                       Berlin/Heidelberg 2001
+
+
+
+
+[7]   DAS, A./FERBEL, Th.              Kern- und Teilchenphysik, Einfόhrung
+
+                                       Probleme άbungen,
+                                       Spektrum Akademischer Verlag,
+                                       Heidelberg/Berlin 1995
+
+[8]   DEMTRΦDER, W.                    Experimentalphysik 1, Mechanik und
+                                       Wδrme,
+                                       Springer-Verlag,
+                                       Berlin/Heidelberg 1998
+
+
+[8]   DEMTRΦDER, W.                    Experimentalphysik 4, Kerne-,
+                                       Teilchen und Astrophysik,
+                                       Springer-Verlag,
+                                       Berlin/Heidelberg 1998
+
+
+[9]   FRAUENFELDER,                    Teilchen und Kerne, Die Welt der
+      H./HENLEY, E.M.                   subatomaren Physik,
+                                       Oldenburg Verlag,
+                                       Mόnchen/Wien 1999
+
+
+
+
+[10]  GERTHSEN, C./VOGEL, H.           Physik,
+                                       Springer Verlag,
+                                       Berlin/Heidelberg 1997
+
+
+[11]  GREHN, J.                        Metzler Physik,
+                                       Metzler Schulbuchverlag GmbH,
+                                       Hannover 1992
+
+
+[12]  GRUPEN, C.                       Teilchendetektoren,
+                                       BI Wissenschaftsverlag,
+                                       Mannheim/Leipzig 1992
+
+
+
+
+[13]  HAWKING, St.W.                   Eine kurze Geschichte der Zeit
+                                       - Die Suche nach der Urkraft des
+                                       Universums,
+                                       Rowohlt Verlag GmbH,
+                                       Reinbek bei Hamburg 1994
+
+
+[14]  KULTUSMINISTERIUM                Richtlinien und Lehrplδne Chemie,
+      DES LANDES                  Gymnasium, Sekundarstufe I., NORDRHEIN-
+      WESTPHALEN       Verlagsgesellschaft Ritterbach mbH,
+                                       Frechen 2001
+
+
+[15]  ders.                            Richtlinien und Lehrplδne Physik,
+                                       Gymnasium, Sekundarstufe I.,
+                                 Verlagsgesellschaft Ritterbach mbH,
+                                       Frechen 1999
+
+[16]  ders.                            Richtlinien und Lehrplδne
+Mathematik,
+                                       Gymnasium, Sekundarstufe I.,
+                                       Verlagsgesellschaft Ritterbach mbH,
+                                       Frechen 1997
+
+
+[17]  LIDDLE, A.R.                     N Introduction To Modern Cosmology,
+                                       John Wiley & Sons,
+                                       Chichester 1989
+
+
+[18]  MORNEBURG, H. (Hrsg.)            Bildgebende Systeme fόr die
+                                       medizinische Diagnostik,
+                                       Siemens, Publicis MCD Verlag,
+                                       Erlangen 1995
+
+
+
+
+
+
+
+
+
+
+[19]  POVH, B./RITH, K.                      Teilchen und Kerne,
+      SCHOLZ, Chr./ZETSCHE, F.          Eine Einfόhrung in die
+      physikalischen
+                                       Konzepte,
+                                       Springer-Verlag,
+                                       Berlin/Heidelberg 1999
+
+
+
+
+
+
+[20]  POPPE, H./LOHSTΦTER, I.          Technik der Rφntgendiagnostik,
+      LAUWERS, Ph.                      Georg Thieme Verlag,
+                                             Stuttgart 1966
+
+
+[21]  STΦCKER, H.                      Taschenbuch der Physik,
+                                       Verlag Harri Deutsch,
+                                       Frankfurt am Main 1994
+
+
+[22]  TIPLER, P.A.                     Physik,
+                                       Spektrum Akademischer Verlag,
+                                       Heidelberg/Berlin 1988
+
+
+[23]  TREICHEL, M.                     Teilchenphysik und Kosmologie,
+                                       Eine Einfόhrung in die Grundlagen
+                                       und Zusammenhδnge,
+                                       Springer Verlag,
+                                       Berlin/Heidelberg 2000
+
+
+[23]  WEINBERG, S.                     Die ersten drei Minuten
+                                        - Der Ursprung des Universums,
+                                       Piper Verlag GmbH,
+                                       Mόnchen/Zόrich 2001
+
+
+
+
+Zeitschriften und Artikel:
+
+
+[25]  Praxis der Natur-                Physik, Themenheft: Astronomie
+      wissenschaften              - Astrophysik II,
+                                       Heft 3/47,
+                                       Jahrgang 1998
+
+[26]  Praxis der Natur-                Physik, Themenheft: Der Doppler-
+      wissenschaften              Effekt in Astronomie und Physik,
+                                       Heft1/48,
+                                       Jahrgang 1999
+
+[27]  BENDER, R./HOPP, U.              Galaxien in der Tiefe der Zeit,
+      SAGLIA, R.P.                      in: Sterne und Weltraum,
+                                            November 1997
+
+
+[28]  SCHULZ, H./BENDER, R.            Geheimnisvolle Schattenwelten
+                                       - Die Erforschung der Dunklen
+                                       Materie,
+                                       in: Sterne und Weltraum,
+                                            November 1997
+
+
+[29]  NECKEL, Th.                      Die Schφpfung im Blick,
+                                       in: Sterne und Weltraum,
+                                            November 1997
+
+
+[30]  KAYSER, R.                       Licht und Asche des Urknall,
+                                       in: Sterne und Weltraum,
+                                            November 1997
+
+
+[31]  BΦRNER, G.                       Die erste Sekunde,
+                                       in: Sterne und Weltraum,
+                                            November 1997
+
+
+[32]  HOGAN, C.J./KIRSHNER, R.P.       Surveying Space-time with SUNTZEFF,
+      N.B.                   Supernovae,
+                                       in: Scientific American,
+                                            Januar 1999
+
+
+[33]  KRAUSS, L.M.                     cosmological Antigravity,
+                                       in: Scientific American,
+                                            Januar 1999
+
+
+[34]  BUCHER, M.A./SPERGEL, D.N.       Inflation in a Low-Density Universe,
+
+                                       in: Scientific American,
+                                            Januar 1999
+
+
+[35]  LUMINET, J-P./STARKMAN, G.D.     Is Space Finite?,
+      WEEKS, J.R.                 in: Scientific American,
+                                            April 1999
+
+
+[36]  KRAUSS, L.M./STARKMAN, G.D. The Fate Of Life In The Universe,
+                                       in: Scientific American,
+                                            November 1999
+
+
+[37]  REES, M.:                        Exploring Our Universe and Others,
+                                       in: Scientific American,
+                                            Dezember 1999
+
+
+
+
+[38]  SPEKTRUM DER WISSENSCHAFT   Dossier, Kosmologie
+                                       2/2000
+
+[39]  CALDWELL, R.R.                   Echoes from the Big Bang,
+      KAMIONKOWSKI, M.            in: Scientific American,
+                                            Januar 2001
+
+
+[40]  BENNETT, C.L./HINSHAW, G.F.      A Cosmic Cartographer,
+      PAGE, L.                          in: Scientific American,
+                                            Januar 2001
+
+
+[41]  OSTRIKER, J.P./STEINHARDT, P.J.  Quintessential Universe,
+                                       in: Scientific American,
+                                            Januar 2001
+
+
+[42]  PEEBLES, P.J.E.                  Making Sense of Modern Cosmology,
+                                       in: Scientific American,
+                                            Januar 2001
+
+
+[43]  BACHMANN, K.                     Universum ohne Grenzen,
+                                       in: GEO,
+                                            Januar 2002
+
+
+
+Sonstiges:
+
+
+[44]  GArcνa-bellido, j.               Astrophysics And Cosmology,
+                                       Theoretical Physics Group,
+                                       Imperial College Of Science,
+                                       London
+
+
+[45]  LINDENER, M.                     Entwicklungen eines zδhlenden
+                                       Pixeldetektors fόr "Digitales
+                                 Rφntgen",
+                                       Dissertation,
+                                       Mathematisch-Naturwissenschaftliche
+                                       Fakultδt der Universitδt Bonn,
+                                       Bonn August 2001
+
+
+
+
+
+
+
+
+
+
+[46]  Schmitz, D.                      Konzeption und Erstellung von
+                                       interaktiven multimedialen
+                                       Lehrmaterial όber Atom-, Kern- und
+                                       Teilchenphysik fόr die Sekundarstufe
+                                       I, Staatsexamensarbeit fόr das
+                                       Lehramt (Sekundarstufe I+II),
+                                       Universitδt Bonn,
+                                       Bonn 2001
+
+
+[47]  STAATSINSTITUT FάR SCHUL-        Sinnstiftende Kontexte,
+      PΔDAGOGIK UND                     Methodikόberlegungen fόr den
+      BILDUNGSFORSCHUNG (ISB),          mathematisch-
+      naturwissenschaftlichen
+      MάNCHEN                           Unterricht,
+                                       Mόnchen September 2000
+
+
+[58]  WERMES, N.:                      Vortrδge zur Kosmologie,
+                                       Universitδt Bonn
+                                       Bonn 2000
+
+
+
+
+[59]  DUDEN:                           Deutsches Universalwφrterbuch A-Z,
+                                       Dudenverlag,
+                                       Mannheim/Wien/Zόrich 1989
+
+
+
+
+
+
+Internetadressen:
+
+
+
+Physik (allgemein und fόr die Schule):
+
+  . http://opal.physik.uni-bonn.de/~mkobel/TPLernen.htm:
+     "Teilchenphysik fόr alle" ,Links zu Teilchenphysik-Lehrsystemen
+
+  . http://opal.physik.uni-bonn.de/~mkobel/Neu/teilchenphysik.htm:
+    Teilchenphysik fόr die Sekundarstufe I, Dagmar Schmitz
+
+
+  . http://www.iap.uni-bonn.de/p2k/index.html:
+     "Physik 2000"
+
+  . http://www.dhm.de/lemo/html/kaiserreich/wissenschaft/nobelpreis/physik/:
+    "Nobelpreis fόr Physik"
+
+  . http://www.astro.uni-bonn.de/~deboer/pdm/pdm.html:
+    "Physik des Monats"
+
+
+  . http://www.physics.otago.ac.nz/Physics100/simulations/Gamelan/:
+    Interactive Physics and Math with Java
+
+
+  . http://www.ha.shuttle.de/ha/hildegardis/mint/physik/links.htm:
+    Linksammlung fόr die Schule
+
+
+  . http://www.schulphysik.uni-bonn.de/:
+    Schulphysik, Seite der Universitδt Bonn
+
+  . http://opal.physik.uni-bonn.de/~mkobel/schnupper/home.html:
+    Identifizieren von Elementarteilchen
+
+  .                                                   http://www.physik.uni-
+    muenchen.de/didaktik/U_materialien/leifiphysik/index.htm:
+    Natur und Technik, Europδisches Rupprecht Gymnasium Mόnchen
+
+  . http://www.physik-astro.uni-bonn.de/outreach/:
+    Deutsche Web-Seiten der "European Particle Physics Oureach Group"
+
+  . http://www.cip.physik.uni-muenchen.de/~milq/milq_basiskursp01.html:
+    milq: Mόnchner Internet-Projekt zur Lehrerfortbildung in Quantenmechanik
+
+
+  . http://home.a-city.de/walter.fendt/:
+    Homepage Walter Fendt, Multimedia
+
+  . http://www.unidata.ucar.edu/staff/blynds/tmp.html#Tmp:
+    "About Temperatur"
+
+  .                                                          http://www.uni-
+    muenster.de/Physik/DP/Seminare/VertiefungWS2000_01/Schnicke_EntropieVertW
+    S00_01.pdf:
+    "Die Begriffe Energie und Energieentwertung  in  der  Schule",  Benjamin
+    Schicke
+
+  . http://www.zum.de/dwu/umapaz.htm:
+    Unterrichtsmaterialien
+
+
+
+Kosmologie:
+
+  .
+    http://www.schoolscience.co.uk/content/4/physics/particles/particlesbigban
+    g1.html:
+     "A World Of Particles - The Big Bang"
+
+  . http://www.dpg-physik.de/fachgremien/t/urknall4.html:
+    "Die Reise zum Urknall"
+
+  . http://www.astro.uni-bonn.de/~deboer/pdm/pdmcosmo.htm:
+    "άberblick Kosmologie"
+
+  . http://windows.arc.nasa.gov/tour/link=/the_universe/Cosmology.html:
+    "The Cosmos"
+
+  . http://www.astro.uni-bonn.de/:
+    Astronomische Institute der Universitδt Bonn
+
+  . http://home.t-online.de/home/gerald.plewa/weltraum/lexikon.htm:
+    Lexikon der Kosmologie
+
+
+  . http://svs.gsfc.nasa.gov/vis/a000000/a000100/a000182/:
+    Nasa Goddard Space Fight Center: Scientific Visualization Studio
+
+  . http://www.physik.uni-karlsruhe.de/lehrer00/kampert/p001.html:
+
+    "Urknall und Kosmologie", Karl-Heinz Kampert, Universitδt Karlsruhe
+
+
+
+  . http://www.physik.rwth-aachen.de/~hebbeker/cosmol/cosmol.pdf:
+    "Neues aus Kosmologie und Astrophysik", Thomas Hebbeker, RWTH Aachen
+
+  . http://nedwww.ipac.caltech.edu/level5/Peacock/Peacock3_3.html:
+    "Common Big Bang Mosconceptions"
+
+
+
+
+
+
+
+
+Medizin:
+
+  . http://www.desy.de/pr-info/roentgen-light/index.html:
+     "Roentgen-Light"
+
+  .  http://brighamrad.harvard.edu/education/online/BrainSPECT/BrSPECT.html:
+    "Atlas Of Brain Perfusion SPECT"
+
+  . http://www.roentgen-museum.de/:
+    Homepage des Deutschen Rφntgenmuseums in Remscheid
+
+  .                                                          http://www.uni-
+    regensburg.de/Fakultaeten/Medizin/Nuklearmedizin/1kursus/1pet1.htm:
+    "Kursus der Nuklearmedizin"
+
+  . http://imasun.lbl.gov/~budinger/medhome.html:
+     "Medical Imaging Techniques"
+
+  . http://www.bae.ncsu.edu/bae/courses/bae590f/1995/scarfone/:
+    "SPECT"
+
+  .                                                          http://www.uni-
+    regensburg.de/Fakultaeten/Medizin/Nuklearmedizin/1kursus/1pet1.htm:
+    PET, Lehre der Nuklearmedizin, Klinikum der Universitδt Regensburg
+
+  . http://www-ap.gsi.de/~bio/therapy.html:
+    Gesellschaft fόr Schwerionenforschung, Darmstadt
+
+  . http://www.insel.ch/nukmed/glossar/themen/anger-body-de.html:
+    "Die Gammakamera"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   Anhang
+
+
+
+
+
+
+
+
+Das Websystem
+
+
+Dieses Websystem wurde im Rahmen der  1.  Staatsexamensarbeit  erstellt.  Es
+richtet sich hauptsδchlich an Schόler der 10. Klasse.
+
+Unter grundsδtzlicher Berόcksichtigung der  Lehrplδne  der  Sekundarstufe  I
+fόr Physik, Chemie und Mathematik wurden die Themenbereiche  Kosmologie  und
+Medizin als  Kontexte  zur  Kern-  und  Teilchenphysik  visuell  bearbeitet.
+Teilweise wird  dabei  auch  auf  Unterrichtsinhalte  der  Sekundarstufe  II
+vorgegriffen.  Zusδtzlich  setzt  das  Programm   Inhalte   des   Websystems
+"Teilchenphysik in der Sekundarstufe I"[33] voraus, da hier  die  Grundlagen
+zu Kern- und Teilchenphysik behandelt werden.
+Beide  Programme  ergδnzen  sich  gegenseitig   und   sind   deshalb   durch
+Querverbindungen miteinander verknόpft. In diesem  Websystem  kommt  es  auf
+einen direkten Bezug der Anwendungen  in  anderen  Wissenschaftsgebieten  zu
+den kern- und teilchenphysikalischen Hintergrόnden an. Es versucht  so,  den
+Zusammenhang zwischen der Kosmologie bzw. der  Medizin  und  der  Kern-  und
+Teilchenphysik zu verdeutlichen. Auf diesen Grundlagen aufbauend sollen  die
+Inhalte wie Urknalltheorie, medizinische Diagnostik und Therapie  verstanden
+werden.
+In Ergδnzung dazu sollen  spδter  auch  direkte  Verknόpfungen  des  bereits
+vorhandenen Websystems "Teilchenphysik in der Sekundarstufe  I"2  zu  diesem
+neu erstellten, ergδnzenden Websystem mit den Anwendungen in der  Kosmologie
+und Medizin eingearbeitet werden. Der Benutzer erkennt  so  die  Anwendungen
+der reinen Physik.
+
+Mit  Texten,  Bildern,  Links,  alltδglichen  Beispielen  und   interaktiven
+Anwendungen versucht das Programm  den  Benutzer  abwechslungsreich  an  die
+Themen  heranzufόhren  und  sein   Interesse   zu   gewinnen.   Dabei   sind
+verschiedene  Aufgaben  mit  Unterstόtzung  des  Systems   zu   lφsen.   Die
+jeweiligen   Ergebnisse   werden   dann    altersgerecht    wissenschaftlich
+dargestellt und durch nδhere Erlδuterungen beschrieben.
+Die  schwierigen  Sachverhalte  erlauben  oft  nur  eine  Vereinfachung  der
+Inhalte, da z. B. nicht viele Modelle zur Veranschaulichung existieren.
+
+Fόr den Schulunterricht  kφnnen  je  nach  Interesse  der  Schόler  einzelne
+Kapitel aus dem Programm verwendet werden. Diese sind  meist  so  gestaltet,
+dass sie auch fόr sich  alleine  fόr  eine  Einheit  darstellen.  Zusδtzlich
+eignet sich dieses Websystem zusammen mit dem Websystem  "Teilchenphysik  in
+der Sekundarstufe I" auch  fόr  eine  autodidaktische  Heranfόhrung  an  die
+Inhalte.
+
+Beide Websysteme mόssen im Unterricht eingesetzt  werden,  um  das  Programm
+unter realistischen, schulischen Verhδltnissen zu  testen  und  so  mφgliche
+Fehlerquellen in ihrer Konzeption zu erkennen  und  zu  beseitigen.  Nur  so
+kann eine Optimierung  des  Konzepts  "Kern-  und  Teilchenphysik  und  ihre
+Kontexte"  stattfinden  und   die   Teilchenphysik   damit   als   sinnvolle
+Unterrichtseinheit in die Lehrplδne der Sekundarstufe I  aufgenommen  werden
+kann.
+
+Das Websystem wurde mindestens fόr den Internet-Explorer  4.0  und  Netscape
+4.7 erstellt. Fόr das  "Hefekuchen-Applett"  in  dem  Kapitel   "Ausdehnung"
+benφtigt man Java.
+
+
+
+
+
+
+-----------------------
+[1] [1]
+[2] http://www.desy.de/pr-info/roentgen-light/index.html
+[3] http://www.roentgen-museum.de/
+[4] vgl. Kapitel 3.5 ; Kapitel 3.6
+[5] vgl. Kapitel 3.7
+[6] [46]
+[7] http://opal.physik.uni-bonn.de/~mkobel/schnupper/home.html
+[8] vgl. Kapitel 3.3
+[9] [18]
+[10] [7]
+[11] vgl. Webseite 3.2.1
+[12] [46]
+[13] vgl. Kapitel 3.7
+[14] vgl. Webseite 3.3.2
+[15] [45]
+[16] [11]
+[17] vgl. Kapitel 3.6
+[18] vgl. Webseiten 3.4: Animation
+[19] vgl. Kapitel 3.6
+[20] vgl. Kapitel 3.2
+[21] vgl. Kapitel 3.2
+[22] [18]
+[23] [18]
+[24] [18]
+[25] den Stoffwechsel betreffend
+[26] http://www.uni-
+regensburg.de/Fakultaeten/Medizin/Nuklearmedizin/1kursus/1pet1.htm
+[27] [46]
+[28] http://www.insel.ch/nukmed/glossar/themen/anger-body-de.html
+[29] [46]
+[30] http://www-ap.gsi.de/~bio/therapy.html
+[31] vgl. Kapitel 3.3
+[32] [46]
+[33] [46]
+

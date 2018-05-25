@@ -1,0 +1,142 @@
+ADAC Fahrzeugtechnik
+04.08.1010 - 28639 – STAND 03-2016
+
+Ein Überblick
+
+Scheinwerfersysteme im Auto
+Schon bald nach Erfindung des Automobils entstand der Wunsch,
+nächtliche Ausfahrten zu ermöglichen, so dass anfangs Beleuchtungseinrichtungen zum Einsatz kamen, die von den Kutschen
+bekannt waren – Kerzen- und Petroleum-Lampen.
+Aufgrund der zunehmenden Geschwindigkeiten der Fahrzeuge
+wurden jedoch größere Leuchtweiten verlangt, die Karbidleuchte
+kam zum Einsatz. Der Betrieb war sehr aufwändig, Wasser tropfte
+auf ein Karbidstück, das entstehende Gas wurde in der Leuchte
+verbrannt. Nach der Fahrt musste das System gründlich gereinigt
+werden.
+Der Glühlampenscheinwerfer
+1911 wurde die elektrische Beleuchtung für den Einsatz im Automobil vorgestellt. Mittels Strom
+und einer Glühbirne wurde Licht erzeugt – ein Prinzip, das bis heute Bestand hat und verbessert
+wurde durch den Einsatz besserer Glühfäden und eines Halogengasgemisches im Glaskolben
+zur Erhöhung der Lichtleistung und der Lebensdauer.
+Die Leuchten wurden optimiert mit guten
+Reflektoren und Streuscheiben, um das Licht aus
+den hellen Lampen blendfrei auf die Fahrbahn zu
+verteilen.
+
+Durch den Einsatz von computerberechneten
+Freiflächenreflektoren konnten klare Abdeckscheiben eingesetzt werden, die Lichtausbeute wurde
+gesteigert.
+Allgemeiner Deutscher Automobil-Club e.V.
+Hansastraße 19
+80686 München
+www.adac.de
+
+ADAC-Info-Service 0800 5 10 11 12
+(Mo – Sa 08:00 – 20.00 Uhr)
+
+Seite 1 von 4
+
+Der Xenonscheinwerfer
+Anstatt eines Glühfadens wird in der Xenonlampe ein Lichtbogen verwendet, um Licht zu
+erzeugen. Ein Lichtbogen ist wie ein Lichtblitz bei einem Gewitter, nur sehr viel kleiner und
+dauernd leuchtend. Das geschieht unter sehr hohem Druck und mit hohen Zündspannungen (bis
+rund 23.000 Volt). Ist der Lichtbogen zustande gekommen, reichen jedoch kleinere Spannungen
+zum Betrieb aus, die aber immer noch höher liegen als die 12 Volt des Autobordnetzes. Dafür
+sind spezielle Vorschaltgeräte erforderlich.
+Die Vorteile überwiegen jedoch, denn ein Lichtbogen ist erschütterungsunempfindlich und gibt
+etwa 5-mal so viel Licht ab wie eine Glühwendel der
+Halogenlampe. Neben einer helleren Fahrbahnausleuchtung wird daher auch eine Senkung des
+Energieverbrauchs im Fahrzeug erreicht.
+Das Licht wird über einen kleinen Reflektor (1)
+umgelenkt und über eine Linse (4) gebündelt. Bei
+einem Bi-Xenon-System (Abbildung links) werden
+Abblend- und Fernlicht in einem Scheinwerfer
+vereint, schaltbare Blenden (3) decken den Fernlichtbereich ab, wenn er nicht benötigt wird.
+Für helle Systeme wie die Xenonscheinwerfer ist
+eine automatische Leuchtweitenregulierung vorgeschrieben, über 2000 Lumen Leuchtstärke sind
+Scheinwerferreinigungsanlagen erforderlich.
+Der LED-Scheinwerfer
+LEDs sind vielen Anwendern als Kontrollleuchten bei allen möglichen Geräten und Maschinen
+geläufig. Doch ist es inzwischen gelungen, die Effizienz der Leuchtdioden so immens zu steigern,
+dass sie Licht für Beleuchtungsaufgaben abgeben können. Wie in Industrie und Haushalt haben
+LEDs zur Beleuchtung auch im Fahrzeug Einzug erhalten, anfangs für Innenraum-, Kennzeichenund Schlussleuchten, nun auch für Scheinwerfer. LEDs strahlen Licht nur zu einer Seite aus, es
+muss also weniger aufwändig über Reflektoren in Fahrtrichtung umgeleitet werden, für das
+Fernlicht werden meistens nur noch Linsen eingesetzt.
+
+Die Energieeffizienz ist inzwischen besser als bei Xenon-Gas-Entladungs-Lampen. Und LEDs
+erzeugen 10-mal so viel Licht je Watt wie eine Halogenlampe – Tendenz weiter steigend. Sie sind
+absolut resistent gegen Erschütterungen, sie überleben Crashs genauso wie Raketenstarts. Ein
+weiterer Vorteil ist die sehr hohe Lebensdauer – ein Autoleben lang sollen sie halten.
+Da ein einzelner LED-Chip nicht allein die Lichtleistung abgeben kann zur Ausleuchtung der
+gesamten Fahrbahn, werden sie zusammengefügt zu Gruppen (Arrays, Module), um gemeinsam
+für genügend Licht zu sorgen.
+Allgemeiner Deutscher Automobil-Club e.V.
+Hansastraße 19
+80686 München
+www.adac.de
+
+ADAC-Info-Service 0800 5 10 11 12
+(Mo – Sa 08:00 – 20.00 Uhr)
+
+Seite 2 von 4
+
+LEDs benötigen nur kleine Spannungen, aufwändige Vorschalt- und Zündgeräte wie bei der
+Xenontechnik entfallen. Sie können durch intelligente elektronische Systeme angesteuert
+werden. Das ermöglicht komplett neue Lichtfunktionen, bei denen situationsabhängig Teilbereiche zusätzlich ausgeleuchtet oder ausgeblendet werden können, Funktionen wie
+beispielsweise das adaptive Fernlicht, bei dem nur der entgegenkommende Verkehrsteilnehmer
+nicht angeleuchtet und abgeschattet wird. Auch können alle Lichtfunktionen in einem
+Scheinwerfer zusammengefasst werden, wie etwa Standlicht, Tagfahrlicht, Blinker, Parkplatzausleuchtung, Willkommenslicht.
+
+In Matrix-LED-Scheinwerfern wird das Lichtbild zusammengesetzt aus sehr vielen kleinen
+Lichtpunkten oder -Balken, ähnlich wie bei einem Beamer (siehe Grafik oben).
+Bei Laserlichteinheiten werden Laserstrahlen auf eine kleine Fläche gerichtet, die mittels einer
+speziellen Beschichtung das unsichtbare Laserlicht in sichtbares Licht umwandelt.
+Was bringt die Zukunft?
+Sind LED-Scheinwerfer derzeit überwiegend Premiumfahrzeugen vorbehalten und bei den
+meisten Herstellern nur als aufpreispflichtige Option zu erwerben, so werden sie aufgrund der
+stark steigenden Stückzahlen und den sinkenden Herstellungskosten bald zur Serienausstattung
+im Fahrzeug gehören. Aufgrund
+der sehr kleinen Abmessungen
+der LEDs sind viel kleinere
+Scheinwerferbauarten möglich,
+bis hin zur Auflösung des
+typischen Scheinwerfererscheinungsbildes in Form von z. B.
+Lichtleisten oder Designelementen, die das Licht abgeben. In
+Zukunft sind nur noch die Ideen
+die Grenzen – die Technik nicht.
+Fazit
+Wer nachts außerorts unterwegs sein will, sollte sich unbedingt ein (optionales) LED-System
+leisten, denn das Licht und die Sichtweite mit LED-Scheinwerfern ist extrem besser als bei
+Halogenscheinwerfern, was der Ermüdung der Augen vorbeugt und der Verkehrssicherheit dient
+durch die frühere Erkennbarkeit von Hindernissen. Wer zudem maximalen Komfort haben
+möchte, greift auf LED-Systeme mit adaptivem Fernlicht zurück, bei dem das Fernlicht
+Allgemeiner Deutscher Automobil-Club e.V.
+Hansastraße 19
+80686 München
+www.adac.de
+
+ADAC-Info-Service 0800 5 10 11 12
+(Mo – Sa 08:00 – 20.00 Uhr)
+
+Seite 3 von 4
+
+automatisch genau die Teilbereiche ausblendet, in denen andere Verkehrsteilnehmer geblendet
+würden.
+Die Scheinwerfer sind auf die Lebenszeit des Fahrzeugs ausgelegt, das heißt im Normalfall ist
+nicht mit dem (Teil-)Ausfall zu rechnen. Jedoch hat ein Ausfall zurzeit noch den Vollaustausch
+des Scheinwerfers zu Folge, was dann recht teuer ist. Hier sind die Hersteller aufgefordert
+Lösungen anzubieten, bei denen Baugruppen im LED-Scheinwerfer getauscht werden können
+und so eine Reparatur möglich wird.
+© Bilder und Grafiken: Hella; Daimler-Benz; Böttcher; ADAC
+
+Allgemeiner Deutscher Automobil-Club e.V.
+Hansastraße 19
+80686 München
+www.adac.de
+
+ADAC-Info-Service 0800 5 10 11 12
+(Mo – Sa 08:00 – 20.00 Uhr)
+
+Seite 4 von 4
+
+

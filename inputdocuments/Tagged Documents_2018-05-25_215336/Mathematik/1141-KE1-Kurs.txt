@@ -1,0 +1,7054 @@
+Mathematische Grundlagen
+Kurseinheit 1:
+Grundlagen
+
+Autorin: Luise Unger
+In LATEX gesetzt von Luise Unger
+
+c 2007 Fernuniversität in Hagen
+Fachbereich Mathematik
+
+· · · · · · · · · (10/05)
+
+Alle Rechte vorbehalten
+
+01141-4-01-S 1
+
+Das Werk ist urheberrechtlich geschützt. Die dadurch begründeten Rechte, insbesondere das Recht der Vervielfältigung
+und Verbreitung sowie der Übersetzung und des Nachdrucks bleiben, auch bei nur auszugsweiser Verwertung, vorbehalten. Kein Teil des Werkes darf in irgendeiner Form (Druck, Fotokopie, Mikrofilm oder ein anderes Verfahren) ohne
+schriftliche Genehmigung der FernUniversität reproduziert oder unter Verwendung elektronischer Systeme verarbeitet,
+vervielfältigt oder verbreitet werden.
+
+Inhaltsverzeichnis
+1
+
+Kurseinheit 1
+
+9
+
+1 Einiges zum Sprachgebrauch
+1.1 Das Summensymbol Σ . . . . . . . . . . . . . .
+1.2 Aussagen . . . . . . . . . . . . . . . . . . . . . .
+1.2.1 Junktoren . . . . . . . . . . . . . . . . .
+1.2.2 Quantoren . . . . . . . . . . . . . . . . .
+1.2.3 Negation von All- und Existenzaussagen
+1.2.4 Vollständige Induktion . . . . . . . . . .
+1.2.5 Beweise . . . . . . . . . . . . . . . . . .
+1.2.6 Satz, Proposition, Korollar, . . . ? . . . .
+1.3 Mengen . . . . . . . . . . . . . . . . . . . . . .
+1.4 Abbildungen . . . . . . . . . . . . . . . . . . . .
+1.4.1 Was ist eigentlich eine Abbildung? . . .
+1.4.2 Bild und Urbilder . . . . . . . . . . . . .
+1.4.3 Komposition von Abbildungen . . . . . .
+1.5 Verknüpfungen . . . . . . . . . . . . . . . . . .
+1.6 Körper . . . . . . . . . . . . . . . . . . . . . . .
+2 Matrizenrechnung
+2.1 Matrizenaddition . . . . . . . . . . . . . .
+2.2 Skalarmultiplikation . . . . . . . . . . . .
+2.3 Matrizenmultiplikation . . . . . . . . . . .
+2.3.1 Einführendes Beispiel . . . . . . . .
+2.3.2 Wie man Matrizen multipliziert . .
+2.3.3 Regeln der Matrizenmultiplikation
+2.4 Gemischte Rechenregeln für Matrizen . . .
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+17
+17
+19
+19
+25
+26
+28
+32
+34
+34
+38
+38
+40
+44
+47
+52
+
+.
+.
+.
+.
+.
+.
+.
+
+65
+65
+67
+69
+69
+70
+73
+77
+
+3 Zeilenäquivalente Matrizen
+87
+3.1 Elementare Zeilenumformungen . . . . . . . . . . . . . . . . . . . . 87
+3.2 Elementare Zeilenumformungen und Matrizen . . . . . . . . . . . . 88
+3
+
+4
+
+INHALTSVERZEICHNIS
+
+3.3
+
+2
+
+3.2.1 Matrizen mit genau einer 1 . . . . . . . . . . . . . . . . . . . 88
+3.2.2 Elementarmatrizen . . . . . . . . . . . . . . . . . . . . . . . 89
+Zeilenäquivalenz . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
+
+Kurseinheit 2
+
+99
+
+4 Gaußalgorithmus
+4.1 Treppennormalformen . . . . . . . . . . . .
+4.2 Der Gaußalgorithmus . . . . . . . . . . . . .
+4.3 Transformationsmatrix des Gaußalgorithmus
+4.4 Eindeutigkeit der Treppennomalform . . . .
+4.5 Der Rang einer Matrix . . . . . . . . . . . .
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+107
+107
+109
+114
+115
+120
+
+5 Lineare Gleichungssysteme
+5.1 Definitionen und Beispiele . . . . . . . . . . . . . . . . . . . . . .
+5.2 Struktur der Lösungsmenge eines linearen Gleichungssystems . . .
+5.3 Zusammenfassung . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+137
+. 137
+. 139
+. 151
+
+6 Vektorräume
+6.1 Definitionen und Beispiele . . . . . .
+6.1.1 Einführung: Vektoren im R2 .
+6.1.2 Definition von Vektorräumen
+6.1.3 Beispiele . . . . . . . . . . . .
+6.2 Unterräume . . . . . . . . . . . . . .
+6.3 Endlich erzeugte Vektorräume . . . .
+
+.
+.
+.
+.
+.
+.
+
+3
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+Kurseinheit 3
+
+7 Basen und Dimension
+7.1 Lineare Unabhängigkeit . . . . . . . . . . .
+7.2 Basen endlich erzeugter Vektorräume . . . .
+7.3 Der Austauschsatz von Steinitz . . . . . . .
+7.3.1 Austauschlemma und Austauschsatz
+7.3.2 Folgerungen aus dem Austauschsatz .
+7.4 Dimension . . . . . . . . . . . . . . . . . . .
+7.4.1 Definition und Beispiele . . . . . . .
+7.4.2 Dimensionsformeln . . . . . . . . . .
+
+165
+165
+165
+167
+171
+174
+177
+
+191
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+199
+. 199
+. 203
+. 207
+. 207
+. 210
+. 211
+. 212
+. 213
+
+8 Lineare Abbildungen
+227
+8.1 Definition, Beispiele und erste Eigenschaften . . . . . . . . . . . . . 227
+
+INHALTSVERZEICHNIS
+
+8.2
+8.3
+
+8.4
+
+5
+
+Isomorphe Vektorräume . . . . . . . . . .
+Kern und Bild . . . . . . . . . . . . . . . .
+8.3.1 Das Bild einer linearen Abbildung .
+8.3.2 Der Kern einer linearen Abbildung
+8.3.3 Der Rangsatz . . . . . . . . . . . .
+Lineare Abbildungen und Basen . . . . . .
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+232
+235
+235
+238
+240
+244
+
+9 Lineare Abbildungen und Matrizen
+255
+9.1 Der Vektorraum HomK (V, W ) . . . . . . . . . . . . . . . . . . . . . 256
+9.2 Koordinatenvektoren und Matrixdarstellungen . . . . . . . . . . . . 262
+9.3 Matrizenprodukt und Komposition . . . . . . . . . . . . . . . . . . 265
+10 Abstrakte versus konkrete Lineare Algebra
+
+4
+
+271
+
+Kurseinheit 4
+
+275
+
+11 Die reellen Zahlen
+11.1 Die Axiome der reellen Zahlen . . . . . . . . .
+11.1.1 Die Körperaxiome . . . . . . . . . . . .
+11.1.2 Die Ordnungsaxiome . . . . . . . . . .
+11.1.3 Das Schnittaxiom . . . . . . . . . . . .
+11.2 Erste Folgerungen aus den Axiomen . . . . . .
+11.2.1 Folgerungen aus den Körperaxiomen .
+11.2.2 Folgerungen aus den Ordnungsaxiomen
+11.2.3 Folgerungen aus dem Schnittaxiom . .
+11.2.4 p-te Wurzeln . . . . . . . . . . . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+283
+284
+284
+285
+286
+287
+287
+289
+302
+309
+
+12 Grenzwerte von Folgen
+12.1 Der Grenzwertbegriff . . . . . . . . . .
+12.2 Eigenschaften konvergenter Folgen . . .
+12.3 Divergente Folgen . . . . . . . . . . . .
+12.4 Das Rechnen mit konvergenten Folgen
+12.5 Vier Prinzipien der Konvergenztheorie
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+327
+327
+332
+334
+336
+341
+
+5
+
+Kurseinheit 5
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+357
+
+13 Funktionen
+363
+13.1 Grundlagen und erste Beispiele . . . . . . . . . . . . . . . . . . . . 363
+13.2 Beispiele . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 372
+13.2.1 Polynomfunktionen . . . . . . . . . . . . . . . . . . . . . . . 373
+
+6
+
+INHALTSVERZEICHNIS
+
+13.2.2
+13.2.3
+13.2.4
+13.2.5
+
+Rationale Funktionen
+Allgemeine Potenz .
+Exponentialfunktion
+Logarithmus . . . . .
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+379
+381
+388
+393
+
+14 Stetigkeit
+403
+14.1 Grundlagen, Beispiele, erste Eigenschaften . . . . . . . . . . . . . . 403
+14.2 Stetige Funktionen auf Intervallen . . . . . . . . . . . . . . . . . . . 407
+14.3 Grenzwerte von Funktionen . . . . . . . . . . . . . . . . . . . . . . 414
+15 Differenzierbarkeit
+15.1 Die Ableitung einer Funktion . . . . . . . . . . . . . . .
+15.2 Differentiationsregeln . . . . . . . . . . . . . . . . . . . .
+15.3 Beispiele differenzierbarer Funktionen . . . . . . . . . . .
+15.3.1 Polynomfunktionen . . . . . . . . . . . . . . . . .
+15.3.2 Rationale Funktionen . . . . . . . . . . . . . . . .
+15.3.3 Exponentialfunktion, Logarithmus und allgemeine
+15.3.4 Sinus und Kosinus . . . . . . . . . . . . . . . . .
+
+6
+
+. . . .
+. . . .
+. . . .
+. . . .
+. . . .
+Potenz
+. . . .
+
+.
+.
+.
+.
+.
+.
+.
+
+Kurseinheit 6
+
+445
+
+16 Höhere Ableitungen
+16.1 Der Mittelwertsatz . . . . . . . . . . . . . . . . . . . . . . .
+16.1.1 Der Satz von Rolle und der Mittelwertsatz . . . . . .
+16.1.2 Folgerungen aus dem Mittelwertsatz . . . . . . . . .
+16.1.3 Die Regel von de l’Hospital . . . . . . . . . . . . . .
+16.2 Approximationen von Funktionen durch Polynomfunktionen
+16.2.1 Taylorpolynome . . . . . . . . . . . . . . . . . . . . .
+16.2.2 Der Satz von Taylor . . . . . . . . . . . . . . . . . .
+16.2.3 Folgerungen aus dem Satz von Taylor . . . . . . . . .
+17 Reihen
+17.1 Definitionen, Beispiele, erste Eigenschaften . . . .
+17.2 Konvergenzkriterien für Reihen . . . . . . . . . .
+17.2.1 Das Majoranten-Kriterium . . . . . . . . .
+17.2.2 Das Quotienten- und das Wurzelkriterium
+17.2.3 Alternierende Reihen . . . . . . . . . . . .
+17.3 Absolute Konvergenz . . . . . . . . . . . . . . . .
+17.4 Potenzreihen . . . . . . . . . . . . . . . . . . . . .
+17.5 Potenzreihen und Summenfunktionen . . . . . . .
+
+427
+. 427
+. 432
+. 435
+. 435
+. 436
+. 436
+. 438
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+453
+. 455
+. 455
+. 456
+. 462
+. 464
+. 465
+. 468
+. 475
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+483
+. 483
+. 491
+. 491
+. 492
+. 498
+. 500
+. 503
+. 508
+
+INHALTSVERZEICHNIS
+
+7
+
+18 Elementare Funktionen
+523
+18.1 Trigonometrische Funktionen . . . . . . . . . . . . . . . . . . . . . 523
+18.2 Zyklometrische Funktionen . . . . . . . . . . . . . . . . . . . . . . . 531
+18.3 Exponentialfunktion, Logarithmus und allgemeine Potenz . . . . . . 534
+
+7
+
+Kurseinheit 7
+
+539
+
+19 Integration
+545
+19.1 Das Riemann-Integral . . . . . . . . . . . . . . . . . . . . . . . . . 545
+19.2 Der Zusammenhang zwischen Differential- und Integralrechnung . . 557
+20 Logik
+20.1 Aussagenlogik . . . . . . . . . . . . . .
+20.1.1 Syntax . . . . . . . . . . . . . .
+20.1.2 Semantik . . . . . . . . . . . .
+20.1.3 Normalformen . . . . . . . . . .
+20.1.4 Formale Beweise . . . . . . . .
+20.1.5 Aussagenlogische Modellierung .
+20.2 Prädikatenlogik . . . . . . . . . . . . .
+20.2.1 Einführung . . . . . . . . . . .
+20.2.2 Syntax . . . . . . . . . . . . . .
+20.2.3 Semantik . . . . . . . . . . . .
+20.2.4 Normalformen . . . . . . . . . .
+20.2.5 Formale Beweise . . . . . . . .
+
+Anhang
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+569
+570
+570
+572
+581
+585
+593
+594
+594
+596
+601
+609
+612
+
+631
+
+8
+
+INHALTSVERZEICHNIS
+
+Teil 1
+Kurseinheit 1
+
+9
+
+Studierhinweise
+Bevor ich eine Übersicht darüber gebe, was Sie in der ersten Kurseinheit erwarten
+wird, einige Worte dazu, wie man mit einem mathematischen Text arbeitet.
+Einen mathematischen Text darf man nicht lesen wie einen Roman, man muss ihn
+sich erarbeiten.
+Ich möchte Ihnen hier einige Hilfestellungen an die Hand geben, wie dies geschehen
+kann.
+Der mathematische Sprachstil ist minimalistisch, es gibt in einem mathematischen
+Text wenig Überflüssiges. Daher ist die wichtigste Regel: Lesen Sie langsam; lesen
+Sie Wort für Wort und Symbol für Symbol.
+Ein gutes und wichtiges Hilfsmittel, die Lesegeschwindigkeit zu drosseln, ist Papier
+und Schreibzeug. Wenn Sie einen Beweis durcharbeiten (oder eine Definition oder
+die Aussage eines Satzes verstehen wollen), schreiben Sie mit. Beantworten Sie sich
+bei jedem Satz, den Sie schreiben, die Frage: Habe ich verstanden, warum b aus
+a folgt? Welche Informationen waren für diese Schlussfolgerung nötig? Fügen Sie
+Details, die im Text nicht erwähnt werden, ein.
+Stellen Sie sich bei jeder Definition und jedem beschriebenen Sachverhalt die Frage:
+Kenne ich ein Beispiel für diesen Sachverhalt? Und kenne ich ein Beispiel, wo die
+Voraussetzungen nicht erfüllt sind?
+Wenn Sie die Formulierung eines Satzes oder einer Proposition gelesen haben,
+steigen Sie nicht gleich in den Beweis ein. Überlegen Sie zuerst: Was sind die
+Voraussetzungen (also die Annahmen, die erfüllt sein müssen), und was ist die Behauptung? Was ist im Beweis zu tun, um aus den Voraussetzungen die Behauptung
+herzuleiten?
+Versuchen Sie, jeden Satz und jede Definition mit eigenen Worten zu formulieren.
+Notieren Sie Ihre Formulierung und vergleichen Sie mit der im Lehrtext. Besagen
+sie dasselbe?
+11
+
+12
+
+Studierhinweise zu Kurseinheit 1
+
+Lernen Sie Definitionen, bei denen Sie Schwierigkeiten haben oder auf die als
+besonders wichtig hingewiesen wurde, auswendig. Gewisse Dinge brauchen einfach
+Zeit, sich zu setzen.
+Scheuen Sie sich nicht, gewisse Passagen laut zu lesen. Über Mathematik zu sprechen ist gar nicht einfach, und das laute Lesen ist eine gute Übung.
+Lösen Sie die im Text gestellten Übungsaufgaben und beschäftigen Sie sich ausführlich mit den Einsendeaufgaben. Versuchen Sie sich an den Übungsaufgaben
+dann, wenn Sie im Text auf sie treffen. Sie sollen Ihnen helfen, sich an einen neuen Begriff zu gewöhnen und sich zu kontrollieren, ob Sie damit umgehen können.
+Niemand lernt ein Musikinstrument, weil er Noten beherrscht und sich in Harmonielehre und Musikgeschichte auskennt. Genauso lernt niemand Mathematik durch
+passives Aufnehmen von Lehrstoff. Sie müssen mit den Begriffen, Konzepten und
+Fakten umgehen können, und dies geschieht nur durch Üben, Üben und Üben.
+Nehmen Sie also die Aufgaben ernst.
+Wie beim Erlernen einer Sprache, eines Musikinstruments oder einer Sportart gilt
+auch für die Mathematik: Arbeiten Sie kontinuierlich. Besser ein bis zwei Stunden
+täglich als zwei Wochenenden ohne Pause. Da kann nicht viel hängenbleiben. Wenn
+Sie sich pro Woche etwa 20 Stunden mit dem Lehrtext und den Einsendeaufgaben
+beschäftigen, würde ich das nicht als zu viel erachten.
+Der Kurs setzt voraus, dass Sie die Schulmathematik verstanden haben. Sollten
+Sie sich dabei unsicher fühlen, so sollten Sie sich eines der unzähligen Bücher, in
+denen die Schulmathematik noch einmal kurz zusammengestellt wird, kaufen und
+gegebenenfalls nachschlagen.
+Die Kurseinheiten bauen aufeinander auf. In Kurseinheit 3 brauchen Sie alles (bis
+auf Kapitel 1), was vorher bereitgestellt wurde. Je mehr Ihnen bis dahin in Fleisch
+und Blut übergegangen ist, desto mehr haben Sie den Kopf frei um Neues aufzunehmen.
+Zum Schluss einige Hinweise zum Stil des Kurses.
+• Die meisten Sätze, Propositionen, und Korollare haben ein Stichwort, meist
+eine Kurzfassung des behandelten Inhaltes. Auf diese wird beim Verweisen
+oft hingewiesen. Nicht die Nummern der Aussagen sind wichtig. Versuchen
+Sie, sich die Stichworte zu merken.
+• Das Ende eines Beweises oder das Ende einer Aussage, die meines Erachtens keines Beweises mehr bedarf, wird durch das Beweisabschlusszeichen 
+angezeigt.
+• Bei Definitionen erkennt man die zu definierenden Begriffe daran, dass sie
+
+Studierhinweise zu Kurseinheit 1
+
+13
+
+fett gedruckt sind.
+Kommen wir nun zu den Inhalten der ersten Kurseinheit. Im ersten Kapitel geht
+es darum, Begriffe und Konzepte, die in der Mathematik immer wieder verwendet
+werden, vorzustellen und erste Eigenschaften nachzuweisen. Darüber hinaus soll
+Kapitel 1 dazu dienen, eine gemeinsame Sprache und Symbolik festzulegen und
+Notation zu vereinbaren.
+Im Einzelnen sind zu nennen:
+Abschnitt 1.1: Hier lernen Sie das Summensymbol Σ kennen, das eine handliche
+Abkürzung zur Schreibweise von Summen mit vielen Summanden liefert.
+Nach Durcharbeiten dieses Abschnittes sollten Sie keine Angst vor Doppelsummen
+haben.
+Abschnitt 1.2: Eine Aussage ist jeder Satz der Umgangssprache, dem die Eigenschaft „wahr“ zu sein oder „falsch“ zu sein, zugesprochen werden kann. Mit
+Hilfe so genannter Junktoren können aus Aussagen weitere Aussagen konstruiert
+werden. Wie dies geschieht, sehen Sie in Abschnitt 1.2.
+Nach Durcharbeiten dieses Abschnitts sollten Sie die Wahrheitstafeln der Junktoren kennen, nicht übermäßig komplexe Aussagen durch Quantoren ausdrücken
+können und in der Lage sein, Aussagen in Quantoren-Schreibweise in Umgangssprache zu übersetzen. Weiter sollten Sie die Negation von Aussagen bilden können.
+Sie sollten sensibel für die verschiedenen Beweisprinzipien sein, die in der Mathematik verwendet werden und die wir in 1.2.5 vorstellen werden. Wir werden Sie im
+Kurs darauf hinweisen, wenn sie eingesetzt werden. Das Prinzip der vollständigen
+Induktion ist zentral in der Mathematik. Dies müssen Sie verstanden haben und
+in Beispielen verwenden können.
+Abschnitt 1.3: Die Verständigung in der modernen Mathematik stützt sich auf
+den Begriff der Menge. In Abschnitt 1.3 werden im Wesentlichen nur Begriffe im
+Zusammenhang mit Mengen zusammengetragen, die im Folgenden immer wieder
+verwendet werden.
+Nach Durcharbeiten von Abschnitt 1.3 sollten Sie mit folgenden Begriffen umgehen
+können: Vereinigung, Durchschnitt und Produkt von Mengen, Differenzmengen
+und Gleichheit von Mengen.
+Abschnitt 1.4: Jetzt wird es langsam ernst, wir reden über Abbildungen. Viele
+Aussagen in der Mathematik werden mit Hilfe von Abbildungen formuliert. Nachdem in Abschnitt 1.4.1 der Begriff einer Abbildung definiert wird, kommen wir in
+Abschnitt 1.4.2 zu zwei sehr wichtigen Mengen, die im Zusammenhang mit Abbildungen auftauchen: dem Bild einer Abbildung und der Menge der Urbilder eines
+
+14
+
+Studierhinweise zu Kurseinheit 1
+
+Elements unter einer Abbildung. Die Frage, ob und wie viele Urbilder Elemente
+unter einer Abbildung haben, führt zu den Begriffen injektiver, surjektiver und
+bijektiver Abbildungen. Diese Begriffe werden Ihnen in der Mathematik immer
+wieder begegnen, wir werden in Kurseinheit 3 wieder auf sie treffen. In Abschnitt
+1.4.3 wird die Komposition von Abbildungen eingeführt, und es wird untersucht,
+welche Abbildungen invertierbar sind. Unser erstes großes Ergebnis, das wir oft
+benutzen werden, ist die Charakterisierung invertierbarer Abbildungen, Korollar
+1.4.22.
+Nach Durcharbeiten von Abschnitt 1.4 sollten Sie mit folgenden Begriffen umgehen können: Abbildung, Bild und Urbild von Abbildungen, injektive, surjektive
+und bijektive Abbildungen, Invertierbarkeit von Abbildungen, Komposition von
+Abbildungen, Gleichheit von Abbildungen.
+Abschnitt 1.5: Verknüpfungen, die wir in Abschnitt 1.5 vorstellen, sind spezielle
+Abbildungen. Zwei Elementen einer Menge wird ein drittes Element dieser Menge
+zugeordnet. Typische Beispiele sind die Addition und die Multiplikation reeller
+Zahlen. In der Mathematik interessiert man sich für Verknüpfungen mit schönen
+Eigenschaften. Welches solche Eigenschaften sind, wird in Abschnitt 1.5 erklärt –
+im Wesentlichen handelt es sich um Eigenschaften, die denen ähneln, die wir vom
+Rechnen mit ganzen Zahlen schon kennen. Das Wichtige in Abschnitt 1.5 sind die
+Beispiele.
+Abschnitt 1.6: In diesem Abschnitt geht es um Körper. Körper sind Mengen, in
+denen wir Elemente addieren und multiplizieren können, wobei jedoch eine Reihe
+von Regeln erfüllt sein müssen. Beispiele für Körper sind die rationalen und die
+reellen Zahlen. Es gibt aber noch viel mehr Beispiele für Körper – einen weiteren,
+den Körper F2 mit zwei Elementen, werden Sie in Abschnitt 1.6 kennen lernen.
+Dieser Körper sollte Ihnen in Fleisch und Blut übergehen.
+Nachdem wir in Kapitel 1 die grundlegenden Begriffe vorgestellt haben, führen wir
+in Kapitel 2 Matrizen ein und erklären, wie mit ihnen gerechnet wird.
+Nach Durcharbeiten dieses Kapitels sollten Sie entscheiden können, welche Matrizen Sie addieren und welche Sie multiplizieren dürfen, und Sie sollten die Rechnungen durchführen können. Kapitel 2 ist etwas trocken. Beißen Sie sich trotzdem
+durch, die Matrizenrechnung ist eine Grundlage für die weiteren Kurseinheiten,
+und die sollten Sie dann beherrschen.
+In Kapitel 3 geht es um spezielle Matrizen, so genannte Elementarmatrizen. Wenn
+man Elementarmatrizen von links an eine Matrix multipliziert, so werden zwei
+Zeilen vertauscht, oder eine Zeile wird mit einem Körperelement multipliziert,
+oder das Vielfache einer Zeile wird zu einer anderen addiert.
+
+Studierhinweise zu Kurseinheit 1
+
+15
+
+Nach Durcharbeiten dieses Kapitels sollten Sie wissen, welche Elementarmatrix
+welche elementare Zeilenumformung bewirkt, und sie sollten wissen, dass Elementarmatrizen invertierbar sind, und dass ihre Inversen ebenfalls Elementarmatrizen
+sind. Diese Tatsache werden wir später immer wieder ausnutzen.
+
+16
+
+Studierhinweise zu Kurseinheit 1
+
+Kapitel 1
+Einiges zum Sprachgebrauch
+In diesem einleitenden Kapitel werden wir zunächst etwas Notation festlegen und
+einige Begriffe klären, damit wir nicht aneinander vorbeireden.
+
+1.1
+
+Das Summensymbol Σ
+
+Oft müssen wir Summen mit vielen Summanden untersuchen. Etwa:
+(a) 9 + 16 + 25 + 36 + 49 + 64 + 81 + 100
+(b)
+
+n n
+n
++ + ··· +
+2
+3
+k
+
+(c) t1 + 2t2 + 3t3 + · · · + ntn
+(d) 1 + 1 + 1 + 1 + 1
+P
+
+Um das kompakt schreiben zu können, benutzen wir das Summationssymbol .
+P
+Das Symbol , der griechische Buchstabe Sigma, der dem deutschen S entspricht,
+steht für „Summe“. Man spricht dieses Symbol „Summe“ aus.
+Analysieren wir, was wir in den Beispielen gemacht haben:
+(a) Wir addieren alle Quadrate der Zahlen von 3 bis 10. Dafür schreibt man
+
+10
+X
+
+i2
+
+i=3
+
+oder
+
+X
+
+i2 . Gesprochen wird das „Summe der i2 für i von 3 bis 10“.
+
+3≤i≤10
+
+(b) Wir summieren Brüche, deren Zähler immer n ist und bei denen im Nenner
+17
+
+18
+
+1.1. Das Summensymbol Σ
+
+alle Zahlen zwischen 2 und k stehen. Dafür schreiben wir
+
+k
+X
+
+X n
+n
+oder
+.
+j=2 j
+2≤j≤k j
+
+(c) Wir haben Zahlen t1 , . . . , tn gegeben und müssen jede Zahl mit ihrem Index
+multiplizieren und aufaddieren. Dafür kann man
+
+n
+X
+
+ktk oder
+
+k=1
+
+X
+
+ktk schrei-
+
+1≤k≤n
+
+ben.
+(d) Wir müssen 5 mal 1 addieren. Dafür sind
+
+5
+X
+
+1 oder
+
+r=1
+
+zungen.
+
+X
+
+1 mögliche Abkür-
+
+1≤r≤5
+
+Es ist gleichgültig, ob wir die Summationsindizes mit i, j, k, r oder anders benennen, zum Beispiel ist
+
+10
+X
+
+i2 =
+
+i=1
+
+10
+X
+
+j 2.
+
+j=1
+
+Wir können auch Summen aufaddieren und erhalten Doppelsummen.
+X
+
+X
+
+X
+
+aij =
+
+1≤i≤m 1≤j≤n
+
+(ai1 + ai2 + · · · + ain )
+
+1≤i≤m
+
+= (a11 + a12 + · · · + a1n ) + (a21 + a22 + · · · + a2n )
++ · · · + (am1 + am2 + · · · + amn ).
+Statt
+
+X
+
+X
+
+aij schreibt man auch
+
+1≤i≤m 1≤j≤n
+
+X
+
+aij . Vertauschen wir nun die Sum-
+
+1≤i≤m
+1≤j≤n
+
+mensymbole:
+X
+
+X
+
+aij =
+
+1≤j≤n 1≤i≤m
+
+X
+
+(a1j + a2j + · · · + amj )
+
+1≤j≤n
+
+= (a11 + a21 + · · · + am1 ) + (a12 + a22 + · · · + am2 )
++ · · · + (a1n + a2n + · · · + amn )
+= (aX
+11 + a
+12 + · · · + a1n ) + · · · + (am1 + am2 + · · · + amn )
+X
+=
+aij .
+1≤i≤m 1≤j≤n
+
+Wir sehen also:
+1.1.1 Merkregel: Wenn Klammern um Summen weggelassen und Summanden
+vertauscht werden dürfen, so dürfen die Summensymbole in Doppelsummen vertauscht werden.
+X
+
+1.1.2 Aufgabe: Schreiben Sie folgenden Ausdruck als Summe:
+
+aij .
+
+1≤i≤3
+4≤j≤6
+
+1.1.3 Aufgabe: Schreiben Sie folgenden Ausdruck mit Hilfe des
+
+P
+
+(b63 + b73 + b83 ) + (b64 + b74 + b84 ) + (b65 + b75 + b85 )
+
+-Symbols:
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+1.1.4 Aufgabe: Berechnen Sie
+
+5
+X
+
+19
+
+i2 .
+
+i=1
+
+1.2
+
+Aussagen
+
+In der klassischen Logik wird unter einer Aussage jeder Satz der Umgangssprache
+verstanden, dem die Eigenschaft, entweder „wahr“ zu sein oder „falsch“ zu sein,
+zugesprochen werden kann. Jede Aussage ist also entweder wahr oder falsch, und
+welche dieser Eigenschaften auf eine Aussage zutrifft, soll prinzipiell feststehen,
+ohne dass man im Einzelfall in der Lage sein muss, effektiv entscheiden zu können,
+welcher der beiden Fälle zutrifft.
+1.2.1 Beispiel: „Es gibt unendlich viele natürliche Zahlen x, y, z, so dass die
+Gleichung x2 + y 2 = z 2 lösbar ist.“
+Obgleich Sie vermutlich nicht wissen, ob dieser Satz richtig oder falsch ist, handelt
+es sich um eine Aussage. Entweder gibt es unendlich viele natürliche Zahlen x, y, z,
+die die Eigenschaft haben, dass x2 + y 2 = z 2 ist, oder nicht. Beides gleichzeitig ist
+nicht möglich, nichts von beiden ebenfalls nicht, also ist dieser Satz eine Aussage.
+Diese Aussage ist übrigens wahr, einen Beweis dafür, das heißt, eine Begründung
+dafür, dass diese Aussage wahr ist, lernen Studierende der Mathematik in einem
+Kurs oder einer Vorlesung über elementare Zahlentheorie.
+1.2.2 Aufgabe: Sind die folgenden Sätze Aussagen? Begründen Sie Ihre Antwort.
+1. Es gibt unendlich viele gerade Primzahlen.
+2. (a + b)2 .
+3. Für jede reelle Zahl a gilt a · 0 = 0.
+4. Wenn 12 ≥ 9, so folgt 6 ≥ 7 und 2 · 2 = 4.
+
+1.2.1
+
+Junktoren
+
+Aus gegebenen Aussagen können neue Aussagen gebildet werden. Dies geschieht
+durch sogenannte Junktoren (iungere = verbinden, lateinisch), die durch die Symbole ¬, ∧, ∨, ⇒ und ⇔ bezeichnet werden, und die wir hier erklären wollen.
+(a) Die Negation ¬: Wenn A eine Aussage ist, so kann A die Eigenschaft wahr
+oder falsch zugeordnet werden.
+
+20
+
+1.2. Aussagen
+
+1.2.3 Definition: Die Negation ¬A von A ist diejenige Aussage, die falsch
+ist, wenn A wahr ist, und die wahr ist, wenn A falsch ist.
+Die Negation von A wird mit ¬A bezeichnet. Ausgesprochen wird dies als
+„nicht A“ oder „Negation von A“. Ordnen wir einer wahren Aussage den
+Wert w und einer falschen Aussage den Wert f zu, so lässt sich die Definition
+der Negation von A folgendermaßen tabellarisch zusammenfassen:
+A
+w
+f
+
+¬A
+f
+w
+
+(b) Die Konjunktion ∧: Seien A und B Aussagen.
+1.2.4 Definition: Die Konjunktion A∧B von A und B ist diejenige Aussage,
+die genau dann wahr ist, wenn A und B beide wahr sind.
+Die Konjunktion von A und B wird mit A ∧ B bezeichnet, und A ∧ B wird „A
+und B“ ausgesprochen. Fassen wir die Konjunktion von zwei Aussagen noch
+einmal tabellarisch zusammen. Die Aussagen A beziehungsweise B können
+wahr oder falsch sein. Wir haben also folgende Kombinationen:
+A B
+w w
+w f
+f w
+f f.
+Da A ∧ B genau dann wahr ist, wenn A und B beide wahr sind, erhalten wir:
+A B
+w w
+w f
+f w
+f f
+
+A∧B
+w
+f
+f
+f.
+
+Beispiel: Sei A die Aussage „3 ≥ 2“, und sei B die Aussage „9 ist eine Primzahl“. Die Aussage A ist wahr, die Aussage B ist falsch. Aus der Tabelle lesen
+wir ab, dass die Aussage „3 ≥ 2 und 9 ist eine Primzahl“ falsch ist.
+(c) Die Disjunktion ∨: Seien A und B Aussagen.
+1.2.5 Definition: Die Disjunktion A∨B von A und B ist diejenige Aussage,
+die genau dann wahr ist, wenn mindestens eine der Aussagen A oder B wahr
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+21
+
+sind.
+Die Disjunktion von A und B wird mit A∨B bezeichnet und „A oder B“ ausgesprochen. Wie bei der Konjunktion können wir die Definition der Disjunktion
+in Abhängigkeit vom Wahrheitswert von A und B tabellarisch zusammenfassen:
+A B
+w w
+w f
+f w
+f f
+
+A∨B
+w
+w
+w
+f.
+
+Beispiel: Sei A die Aussage „3 ≥ 2“, und sei B die Aussage „9 ist eine Primzahl“. Mit der Tabelle folgt, dass die Aussage „3 ≥ 2 oder 9 ist eine Primzahl“
+wahr ist.
+(d) Die Implikation ⇒: Seien wieder A und B Aussagen.
+1.2.6 Definition: Die Implikation A ⇒ B von A und B ist diejenige Aussage, die genau dann falsch ist, wenn A wahr und B falsch ist.
+Die Implikation von A und B wird mit A ⇒ B bezeichnet und „A impliziert
+B“ oder „aus A folgt B“ oder „wenn A, dann B“ ausgesprochen.
+1.2.7 Definition: Die Aussage A heißt die Prämisse oder die Voraussetzung der Implikation A ⇒ B, und die Aussage B wird die Konklusion oder
+der Schluss der Implikation genannt.
+Wieder fassen wir die Definition von A ⇒ B tabellarisch zusammen:
+A B
+w w
+w f
+f w
+f f
+
+A⇒B
+w
+f
+w
+w.
+
+Beispiel: Sei A die Aussage „3 ≥ 2“, und sei B die Aussage „9 ist eine Primzahl“. Mit der Tabelle folgt, dass die Aussage „Wenn 3 ≥ 2 ist, dann ist 9 eine
+Primzahl“ falsch ist. Das ist beruhigend.
+Der mathematische Gebrauch des Junktors ⇒ bürstet den umgangssprachlichen Gebrauch der Satzkonstruktion „Wenn A, dann B“ ziemlich gegen den
+Strich. In der Umgangssprache müssen die Aussagen A und B miteinander in
+
+22
+
+1.2. Aussagen
+
+Beziehung stehen. In der Mathematik, formal gesehen, nicht. In der Mathematik geht die Aussage „Wenn 3 ≥ 2 ist, dann ist 17 ungerade“ als wahre
+Aussage durch, denn beide Teilaussagen sind wahr. In der Umgangssprache
+würde man dieselbe Aussage vermutlich als falsch empfinden. Es wird Sie aber
+vielleicht beruhigen, dass auch in der Mathematik Prämisse und Konklusion
+einer Implikation immer etwas miteinander zu tun haben werden.
+Sie sollten die Tabelle für die Implikation folgendermaßen interpretieren: Aus
+einer wahren Prämisse kann man niemals etwas Falsches folgern. Ist die Prämisse hingegen falsch, so kann alles passieren, die Konklusion kann richtig oder
+aber falsch sein.
+(e) Die Äquivalenz ⇔: Seien A und B Aussagen.
+1.2.8 Definition: Die Äquivalenz A ⇔ B von A und B ist diejenige Aussage, die genau dann wahr ist, wenn A und B beide wahr sind oder A und B
+beide falsch sind.
+Die Äquivalenz von A und B wird mit A ⇔ B bezeichnet und „A genau dann,
+wenn B“ oder „A ist äquivalent zu B“ ausgesprochen. Tabellarisch fassen wir
+die Definition folgendermaßen zusammen:
+A B
+w w
+w f
+f w
+f f
+
+A⇔B
+w
+f
+f
+w.
+
+Beispiel: Sei A die Aussage „3 ≥ 2“, und sei B die Aussage „9 ist eine Primzahl“. Mit der Tabelle folgt, dass die Aussage „Genau dann ist 3 ≥ 2, wenn 9
+eine Primzahl ist“ falsch ist.
+Hingegen würde die Aussage „Genau dann ist 3 ≥ 2, wenn 7 eine Primzahl
+ist“ wahr sein, denn beide Teilaussagen sind wahr. Das sieht vermutlich jeder
+Nicht-Mathematiker, Nicht-Logiker oder Nicht-Philosoph anders.
+1.2.9 Definition: Die Tabellen, die wir oben aufgestellt haben, heißen Wahrheitstafeln. In ihnen wird aufgelistet, unter welchen Umständen eine Aussage
+(etwa A ∧ B oder A ⇒ B) wahr oder falsch ist.
+Mit Hilfe von Wahrheitstafeln können wir auch die Wahrheitstafeln für komplexere
+Aussagen aufstellen, wie folgende Beispiele zeigen. Dazu seien A und B Aussagen.
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+23
+
+1.2.10 Beispiele: (a) Behauptung: Die Wahrheitstafeln von A ⇒ B und von
+(¬B) ⇒ (¬A) sind gleich.
+Beweis: Wir haben folgende Kombinationsmöglichkeiten der Wahrheitsgehalte der Aussagen A und B:
+A B
+w w
+w f
+f w
+f f.
+Wir tragen die Wahrheitswerte für ¬B und ¬A ein, und dann, mit Hilfe der
+Wahrheitstafel für die Implikation, die Wahrheitswerte für (¬B) ⇒ (¬A). Wir
+erhalten:
+A B
+w w
+w f
+f w
+f f
+
+¬B
+f
+w
+f
+w
+
+¬A
+f
+f
+w
+w
+
+(¬B) ⇒ (¬A)
+w
+f
+w
+w.
+
+Interpretieren wir die beiden mittleren Spalten als Nebenrechnungen, so erhalten wir als Wahrheitstafel für (¬B) ⇒ (¬A) die Tabelle
+A B
+w w
+w f
+f w
+f f
+
+(¬B) ⇒ (¬A)
+w
+f
+w
+w.
+
+Diese stimmt mit den Einträgen in der Tabelle
+A B
+w w
+w f
+f w
+f f
+für A ⇒ B überein.
+
+A⇒B
+w
+f
+w
+w
+
+
+(b) Behauptung: Die Wahrheitstafeln von A ⇔ B und (A ⇒ B) ∧ (B ⇒ A) sind
+gleich.
+Beweis: Analog zu Beispiel (a) bestimmen wir die Wahrheitstafel für (A ⇒
+B) ∧ (B ⇒ A).
+
+24
+
+1.2. Aussagen
+
+A B
+w w
+w f
+f w
+f f
+
+A⇒B
+w
+f
+w
+w
+
+B⇒A
+w
+w
+f
+w
+
+(A ⇒ B) ∧ (B ⇒ A)
+w
+f
+f
+w.
+
+Die Wahrheitstafel für (A ⇒ B) ∧ (B ⇒ A) ist damit
+A B
+w w
+w f
+f w
+f f
+
+(A ⇒ B) ∧ (B ⇒ A)
+w
+f
+f
+w,
+
+und die Einträge stimmen mit denen der Wahrheitstafel für A ⇔ B überein.
+
+Versuchen Sie es doch bitte selbst einmal.
+1.2.11 Aufgabe: Beweisen Sie, dass die Wahrheitstafeln von ¬(A∨B) und (¬A)∧
+(¬B) gleich sind.
+1.2.12 Aufgabe: Beweisen Sie, dass die Wahrheitstafeln von ¬(A∧B) und (¬A)∨
+(¬B) gleich sind.
+1.2.13 Definition: Wenn zwei Aussagen dieselben Wahrheitstafeln haben, so sagen wir, dass die Aussagen logisch äquivalent sind.
+1.2.14 Aufgabe: Geben Sie ein Beispiel für zwei Aussagen A und B, so dass
+A ⇒ B wahr ist und B ⇒ A falsch ist.
+
+Die Gleichheit der Wahrheitstafeln, und damit die logische Äquivalenz der Aussagen in den Beispielen oben und den Übungsaufgaben sind der Grund für gewisse
+Beweisprinzipien in der Mathematik. Wenn wir eine Behauptung der Form „Wenn
+A, dann B“ beweisen müssen, dann können wir statt dessen die Behauptung „Wenn
+¬B, dann ¬A“ beweisen. Das ist vielleicht manchmal einfacher.
+Analog, wenn wir „A genau dann, wenn B“ beweisen wollen, so zerlegen wir den
+Beweis in zwei Schritte. Wir beweisen zunächst die Aussage „Wenn A, dann B“
+und dann die Aussage „Wenn B, dann A“.
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+1.2.2
+
+25
+
+Quantoren
+
+In der Mathematik wird nicht nur untersucht, ob eine Eigenschaft auf ein bestimmtes Ding zutrifft oder nicht. Oft wird auch gefragt, wieviele (lateinisch: quanti)
+Dinge eine gegebene Eigenschaft besitzen. Operatoren, die solche Zusammenhänge beschreiben, werden in der mathematischen Logik Quantoren genannt. Für
+die am häufigsten vorkommenden Quantoren gibt es wiederum Abkürzungen.
+1.2.15 Definition: Existenzquantor ∃: Das Symbol ∃ wird verbal durch „Es
+gibt ein“ ausgedrückt.
+1.2.16 Merkregel: In der Mathematik wird „Es gibt ein“ im Sinne von „Es gibt
+mindestens ein.“ verwendet.
+Die Aussage „Es gibt eine gerade Zahl“ ist also eine wahre Aussage. Da es unendlich viele gerade Zahlen gibt, gibt es insbesondere eine gerade Zahl.
+Eine Aussage
+„Es gibt ein x mit A“
+wird mit Hilfe von Quantoren durch
+∃x : A
+ausgedrückt. Im Zusammenhang mit dem Existenzquantor ∃ wird der Doppelpunkt
+zu „mit“.
+1.2.17 Definition: Allquantor ∀: Das Symbol ∀ wird verbal durch „Für alle“
+ausgedrückt.
+Eine Aussage
+„Für alle x gilt A“
+wird mit Hilfe von Quantoren durch
+∀x : A
+ausgedrückt. Sie sehen, dass der Doppelpunkt im Zusammenhang mit dem Allquantor ∀ als das Verb „gilt“ gelesen wird.
+Für die folgenden Aufgaben müssen wir noch etwas Notation festlegen: Mit N
+bezeichnen wir die Menge der natürlichen Zahlen {1, 2, 3, . . . }, und das Symbol ∈
+bedeutet, dass das Objekt links von ∈ Element der Menge ist, die rechts von ∈
+steht.
+
+26
+
+1.2. Aussagen
+
+1.2.18 Aufgabe: Drücken Sie die folgenden Aussagen verbal aus.
+1. ∃n ∈ N : (∀m ∈ N : n ≤ m)
+2. ∃n ∈ N : n teilt 17
+1.2.19 Aufgabe: Drücken Sie die folgenden Aussagen mit Hilfe von Quantoren
+aus.
+1. Es gibt eine Primzahl p, die durch 3 teilbar ist.
+2. Für alle natürlichen Zahlen n gilt n ≥ 1.
+Quantoren lassen sich beliebig verschachteln, nur sollte man dann die Aussagen
+klammern, um nicht den Überblick zu verlieren.
+Beispiel: Der Ausdruck ∀ε > 0 : (∃nε ∈ N : (∀n ≥ nε : |an − a| < ε)) bedeutet
+„Für alle ε > 0 gilt: Es gibt ein nε ∈ N mit der Eigenschaft, dass für alle n ≥ nε
+gilt, dass |an − a| < ε ist“. Oder, weniger holprig ausgedrückt: „Für alle ε > 0 gibt
+es ein nε ∈ N, so dass |an − a| < ε für alle n ≥ nε gilt.“
+1.2.20 Aufgabe: Drücken Sie die folgenden Aussagen mit Hilfe von Quantoren
+aus.
+1. Für alle y ∈ Y gibt es ein x ∈ X mit f (x) = y.
+2. Es gibt ein a ∈ R mit ax = x für alle x ∈ R.
+Der Gebrauch von Quantoren ist Geschmacksache. Es ist ziemlich mühsam, einen
+Satz wie etwa
+∀n ∈ N : (∃m ∈ N : m ≥ n)
+zu lesen, insbesondere, wenn derselbe Sachverhalt durch
+Für alle natürlichen Zahlen n gibt es ein m ∈ N mit m ≥ n.
+ausgedrückt werden kann.
+
+1.2.3
+
+Negation von All- und Existenzaussagen
+
+Die Negation der Aussage
+„Es gibt ein x mit A“ also, in Quantorensprache, ∃x : A
+ist die Aussage
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+27
+
+„Für alle x gilt die Aussage ¬A“, also ∀x : ¬A.
+1.2.21 Merkregel: Bei der Negation einer Existenzaussage ∃x : A wird der Existenzquantor in einen Allquantor umgewandelt, und die Aussage A wird negiert.
+1.2.22 Aufgabe: Wahr oder falsch? Die Negation der Aussage
+1. „Es gibt eine Primzahl p mit p gerade und p ≥ 3“ ist „Für alle Primzahlen
+p gilt p ist ungerade oder p < 3.“
+2. „Es gibt eine reelle Zahl x mit x2 + 1 < 0“ ist „Für alle reellen Zahlen x gilt
+x2 + 1 ≥ 0“.
+3. „Es gibt eine ganze Zahl a ∈ Z mit a > 3 und a < 4“ ist „Für alle ganzen
+Zahlen a ∈ Z gilt a ≤ 3 oder a ≥ 4.“
+Die Negation des Satzes
+„Für alle x gilt A“ also ∀x : A
+ist die Aussage
+„Es gibt ein x mit ¬A“, also ∃x : ¬A.
+1.2.23 Merkregel: Bei der Negation einer Allaussage ∀x : A wird der Allquantor
+in einen Existenzquantor umgewandelt, und die Aussage A wird negiert.
+1.2.24 Aufgabe: Wahr oder falsch? Die Negation der Aussage
+1. „Für alle n ≥ 3 hat die Gleichung xn + y n = z n eine Lösung“ ist „Es gibt
+ein n ≥ 3, so dass die Gleichung xn + y n = z n keine Lösung hat.“
+2. „Für alle x ∈ X gilt x ist gerade oder eine Primzahl“ ist „Es gibt ein x ∈ X,
+das ungerade oder keine Primzahl ist.“.
+3. „Für alle n ≥ 5 ist an < 0“ ist „Es gibt ein n ≥ 5, so dass an ≥ 0 ist.“.
+4. „Für alle a mit a ≥ 5 und a ≤ 7 gilt 2a ≥ 10 und 2a ≤ 14“ ist „Es gibt ein
+a mit a ≥ 5 und a ≤ 7 mit 2a < 10 oder 2a > 14.“
+Mit Hilfe von Quantoren und der Merkregeln lassen sich auch komplexere Aussagen
+einfach negieren. Betrachten wir das Beispiel der Aussage „Für alle ε > 0 gibt es
+ein nε ∈ N, so dass |an − a| < ε ist, für alle n ≥ nε “ aus dem letzten Abschnitt.
+In Quantorenschreibweise lautet diese Aussage
+∀ε > 0 : (∃nε ∈ N : (∀n ≥ nε : |an − a| < ε)).
+
+28
+
+1.2. Aussagen
+
+Was ist die Negation dieser Aussage? Die Aussage ist von der Form
+∀ε > 0 : A, wobei A die Aussage (∃nε ∈ N : (∀n ≥ nε : |an − a| < ε)) ist.
+Merkregel 1.2.21 sagt, was zu tun ist, die Negation von ∀ε > 0 : A ist
+∃ε > 0 : ¬A
+Die Aussage A ist von der Form
+∃nε ∈ N : B, wobei B die Aussage ∀n ≥ nε : |an − a| < ε ist.
+Mit Merkregel 1.2.23 ist ¬A damit von der Form
+∀nε ∈ N : ¬B.
+Die Aussage B ist von der Form
+∀n ≥ nε : |an − a| < ε,
+mit Merkregel 1.2.21 ist ¬B die Aussage
+∃n ≥ nε : |an − a| ≥ ε.
+Nun müssen wir nur noch einsetzen. Die gesuchte Negation ist
+∃ε > 0 : (∀nε ∈ N : (∃n ≥ nε : |an − a| ≥ ε)).
+1.2.25 Aufgabe: Bestimmen Sie die Negationen folgender Aussagen.
+1. Es gibt ein n ∈ N, das die Eigenschaft n ≤ m für alle m ∈ N hat.
+2. Für alle y ∈ Y gibt es ein x ∈ X mit f (x) = y.
+
+1.2.4
+
+Vollständige Induktion
+
+Das Prinzip der vollständigen Induktion, das in diesem Abschnitt erklärt wird, ist
+ein zentrales Prinzip der Beweisführung.
+Mit N0 bezeichnen wir die Menge {0, 1, 2, . . . }.
+Sei n0 ∈ N0 fest gewählt, und sei A(n) für alle n ∈ N0 , n ≥ n0 eine Aussage.
+Angenommen, wir können zeigen:
+(i) Induktionsanfang: A(n0 ) ist richtig.
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+29
+
+(ii) Induktionsschritt: Für alle n ≥ n0 folgt: Ist A(n) richtig, so auch A(n + 1).
+Das Prinzip der vollständigen Induktion besagt: Unter diesen Voraussetzungen ist A(n) für alle n ≥ n0 richtig.
+Wenn wir also wissen, dass A(n0 ) wahr ist, und weiter wissen, dass wir für alle
+n ≥ n0 aus der Gültigkeit von A(n) auf die Gültigkeit von A(n + 1) schließen
+können, dann können wir über die Kette A(n0 ) ⇒ A(n0 + 1) ⇒ A(n0 + 2) ⇒ . . .
+die Aussage für jede natürliche Zahl, die größer als n0 ist, beweisen.
+Oft wird ein Induktionsbeweis in drei Schritte unterteilt.
+1. Zunächst wird der Induktionsanfang formuliert.
+2. Dann wird die so genannte Induktionsannahme, das ist die Aussage A(n),
+formuliert.
+3. Im Induktionsschritt wird gezeigt, dass die Aussage A(n) die Aussage
+A(n + 1) impliziert.
+Oft wird auf die explizite Formulierung der Induktionsannahme aber auch verzichtet.
+Beispiele:
+(a) Behauptung: Für alle n ∈ N0 ist
+
+n
+X
+
+i=
+
+i=0
+
+n(n + 1)
+.
+2
+
+Beweis:
+Induktionsanfang: Sei n0 = 0. Für den Induktionsanfang müssen wir die
+0
+X
+0(0 + 1)
+Gültigkeit der Aussage
+i=
+beweisen. Links des Gleichheits2
+i=0
+zeichens haben wir
+
+0
+X
+
+i = 0 und rechts des Gleichheitszeichens ebenso.
+
+i=0
+
+Es ist also 0 = 0 (offenbar eine wahre Aussage), und damit gilt der Induktionsanfang.
+Induktionsannahme Sei n ≥ 0 und
+
+n
+X
+i=0
+
+i=
+
+n(n + 1)
+.
+2
+
+Induktionsschritt: Zu zeigen ist, dass diese Annahme
+
+n+1
+X
+i=0
+
+i=
+
+(n + 1)(n + 2)
+2
+
+30
+
+1.2. Aussagen
+
+impliziert.
+n+1
+X
+i=0
+
+i =
+
+n
+X
+
+i + (n + 1)
+
+i=0
+
+n(n + 1)
++ (n + 1) nach Induktionsannahme
+2
+n(n + 1) + 2n + 2
+=
+2
+n2 + 3n + 2
+=
+2
+(n + 1)(n + 2)
+.
+=
+2
+=
+
+Wir haben also die Aussage „Wenn
+
+n
+X
+
+i=
+
+i=0
+
+n(n + 1)
+erfüllt ist, so folgt
+2
+
+n+1
+X
+
+(n + 1)(n + 2)
+i=
+“ bewiesen, und das Prinzip der vollständigen In2
+i=0
+n
+X
+n(n + 1)
+i=
+duktion besagt, dass
+für alle n ≥ 0 gilt.
+
+2
+i=0
+(b) Behauptung: Für alle n ∈ N0 ist an = 6n+2 + 72n+1 durch 43 teilbar.
+Beweis: Wir beweisen die Behauptung mit Induktion nach n.
+Im Induktionsanfang sei n0 = 0. Dann ist a0 = 62 + 7 = 43, also ist a0 durch
+43 teilbar, und es gilt der Induktionsanfang.
+Für den Induktionsschritt sei n ≥ 0. Wir nehmen an, dass an durch 43 teilbar
+ist, und müssen zeigen, dass an+1 durch 43 teilbar ist. Es ist
+an+1 = 6(n+1)+2 + 72(n+1)+1
+= 6n+3 + 72n+3
+= 6(6n+2 ) + 72 (72n+1 )
+= 6(6n+2 ) + (43 + 6)72n+1
+= 6(6n+2 + 72n+1 ) + 43 · 72n+1 .
+43 teilt 6(6n+2 + 72n+1 ), denn 43 teilt 6n+2 + 72n+1 nach Annahme, und 43
+teilt 43 · 72n+1 . Somit ist an+1 durch 43 teilbar, und mit dem Prinzip der
+vollständigen Induktion folgt die Behauptung.
+
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+31
+
+(c) Behauptung: Für alle n ∈ N gilt
+
+n
+X
+
+1
+(i + 1)i = n(n + 1)(n + 2).
+3
+i=1
+
+Beweis: Wir beweisen die Behauptung mit Induktion nach n.
+Im Induktionsanfang sei n0 = 1. Es ist
+
+1
+X
+
+(i+1)i = 2·1 = 2, und
+
+i=1
+
+Somit gilt
+
+1
+X
+
+1
+·1·2·3 = 2.
+3
+
+1
+· 1(1 + 1)(1 + 2), der Induktionsanfang.
+3
+
+(i + 1)i =
+
+i=1
+
+Sei nun n ≥ 1. Für den Induktionsschritt nehmen wir an, dass
+n
+X
+
+1
+(i + 1)i = n(n + 1)(n + 2)
+3
+i=1
+
+gilt, und wir müssen
+n+1
+X
+
+1
+(i + 1)i = (n + 1)(n + 2)(n + 3)
+3
+i=1
+
+herleiten.
+Es gilt
+n+1
+X
+
+n
+X
+
+i=1
+
+i=1
+
+(i + 1)i =
+
+=
+
+!
+
+(i + 1)i + (n + 2)(n + 1)
+
+1
+n(n + 1)(n + 2) + (n + 2)(n + 1)
+3
+
+1
+= ( n + 1)(n + 1)(n + 2)
+3
+=
+
+1
+(n + 3)(n + 1)(n + 2)
+3
+
+1
+(n + 1)(n + 2)(n + 3).
+3
+Mit dem Prinzip der vollständigen Induktion folgt die Behauptung.
+=
+
+
+
+1.2.26 Aufgabe: Beweisen Sie folgende Aussage mit vollständiger Induktion.
+n
+X
+
+1
+1
+=1−
+für alle n ∈ N.
+n+1
+i=1 i(i + 1)
+
+Mehr Übungsmaterial zu Beweisen mit vollständiger Induktion finden Sie im LVU
+zu diesem Kurs.
+
+32
+
+1.2.5
+
+1.2. Aussagen
+
+Beweise
+
+Alle mathematischen Texte, seien es Lehrbücher, Studienbriefe oder wissenschaftliche Forschungsarbeiten, haben im Prinzip denselben Grundaufbau. Sie enthalten
+relativ wenig Prosa. Es werden Behauptungen formuliert, und dann folgt ein Beweis der Behauptung. Gerade zu Beginn des Studiums stellt sich häufig die Frage,
+was eigentlich ein Beweis ist. Und ob sich Beweise standardisieren lassen, ob es
+also ein Schema gibt, mit dem sich Beweise einfach abarbeiten lassen. Die schlechte
+Nachricht ist: Nein, so ein Schema gibt es nicht, und schon gar nicht lassen sich
+komplexe Beweise auf Wahrheitstafeln zurückführen.
+Grundsätzlich sind fast alle mathematische Sätze „wenn-dann-Aussagen“. Aus gewissen Aussagen (den Voraussetzungen) wird eine weitere Aussage (die Behauptung) mit den Gesetzen der Logik abgeleitet, und dies geschieht im Beweis. Die
+Struktur des Beweises ist natürlich stark abhängig von den gegebenen Voraussetzungen und der gegebenen Behauptung – hier dürfen wir kein festes Schema
+erwarten.
+Aussagen zu beweisen lässt sich nur durch Übung erlernen, und dadurch, dass
+andere unsere Bemühungen kritisch hinterfragen und auf Lücken hinweisen. (Hier
+singe ich das hohe Lied auf das Lösen von Einsendeaufgaben.)
+Trotzdem gibt es bei Beweisen einige Tricks, die auf den Prinzipien der Logik, wie
+wir sie oben vorgestellt haben, basieren, und die sollen an dieser Stelle verraten
+werden.
+
+Das Prinzip der vollständigen Induktion
+Dieses Prinzip haben wir oben in Abschnitt 1.2.4 vorgestellt. Wenn immer Sie auf
+Aussagen der Form „Beweisen Sie, dass für alle n ∈ N folgendes gilt . . . “ treffen,
+sollten Sie sich dieses Prinzip in Erinnerung rufen. Vielleicht hilft dieser Ansatz
+weiter.
+
+Direkte Beweise
+Die Struktur eines Satzes (oder einer Übungsaufgabe) ist immer A ⇒ B, wobei A
+die Voraussetzungen und B die Behauptung sind.
+Auch Äquivalenzaussagen A ⇔ B passen in dieses Schema. Bei ihnen handelt es
+sich um zwei Aussagen nach unserem Grundschema, nämlich A ⇒ B und B ⇒ A.
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+33
+
+(Vergleiche Beispiel 1.2.10 (b).) Vor Beweisen von Äquivalenzaussagen deutet man
+durch Pfeile ⇒ und ⇐ an, welche Implikation bewiesen wird.
+In einem so genannten direkten Beweis der Aussage A ⇒ B nimmt man an, die
+Aussage A würde gelten und schließt dann, dass auch B gelten muss.
+Beweise durch Kontraposition
+Wir haben oben in Beispiel 1.2.10 (a) gesehen, dass logisch äquivalent zur Aussage
+„A ⇒ B“ die Aussage „¬B ⇒ ¬A“ ist. Ein Beweis der Aussage A ⇒ B durch
+Kontraposition läuft nach folgendem Schema ab:
+Wir nehmen an, es gelte ¬B und folgern, dass ¬A gilt.
+Indirekte Beweise (auch genannt: Beweise durch Widerspruch)
+Manchmal zieht man einen Beweis der Aussage A ⇒ B auch folgendermaßen auf:
+Es gelte A. Angenommen, B wäre falsch. Dann schließt man auf einen Widerspruch
+(zur Voraussetzung, oder zu einer vorher bewiesenen Tatsache, oder zur Definition,
+. . . ). Dieser Widerspruch zeigt, dass die Annahme „B ist falsch“ selbst falsch war,
+und es folgt, dass B richtig sein muss.
+Ein Widerspruchsbeweis beruht auf der Tatsache, die wir in Abschnitt 1.2 gesehen
+haben, dass aus einer wahren Aussage mit den Gesetzen der Logik nicht etwas
+Falsches geschlossen werden kann. Wenn aus „B ist falsch“ mit den Gesetzen der
+Logik auf offensichtlichen Unsinn geschlossen werden kann, dann muss die Aussage
+„B ist falsch“ verworfen werden.
+Ringschlüsse
+Oft müssen Aussagen der Form
+„wenn A gilt, dann sind die Aussagen (i), (ii) und (iii) äquivalent“
+bewiesen werden.
+Wir könnten natürlich A voraussetzen und dann die Aussagen (i) ⇒ (ii), (ii) ⇒
+(i), (ii) ⇒ (iii), (iii) ⇒ (ii), (iii) ⇒ (i) und (i) ⇒ (iii) beweisen.
+Aber es geht viel schneller. Wenn Sie (i) ⇒ (ii), (ii) ⇒ (iii) und (iii) ⇒ (i) bewiesen
+haben, dann sind Sie schon fertig. Sie kommen von jeder Aussage zu jeder anderen,
+
+34
+
+1.3. Mengen
+
+indem Sie den Implikationspfeilen folgen. Der Beweis der Aussage (ii) ⇒ (i) erfolgt
+beispielsweise, indem Sie (ii) ⇒ (iii) ⇒ (i) folgen.
+
+1.2.6
+
+Satz, Proposition, Korollar, . . . ?
+
+In diesem Kurs werden Sie mathematische Aussagen sehen, die als Satz, Proposition oder Korollar, Lemma oder Bemerkung bezeichnet werden. Was ist
+was?
+Der Begriff Satz ist am schwierigsten einzugrenzen. Es gibt Autoren, die jede zu
+beweisende Aussage einen Satz nennen. Das wird in diesem Kurs nicht der Fall sein.
+Hier wird als Satz nur ein tiefes, wichtiges Resultat bezeichnet. Man findet auch
+die Bezeichnung Theorem für ein besonders wichtiges Ergebnis. Dieser Terminus
+wird allerdings immer seltener verwendet, denn im Englischen, der wichtigsten
+Sprache für die Mathematik, entspricht das englische Wort Theorem gerade dem
+deutschen Wort Satz. In diesem Kurs werden Sie häufig den Begriff Proposition
+finden. Das ist die lateinische Übersetzung des Wortes Satz. Ich verwende es für
+Ergebnisse, die wichtig, allerdings nicht so wichtig wie ein Satz sind.
+Lemma stammt aus dem Griechischen und bedeutet so viel wie „Hauptgedanke“.
+Bei einem Lemma handelt es sich also um einen ganz besonders wichtigen Schlüsselgedanken, der in vielen Situationen hilfreich ist. Heute wird Lemma aber auch
+im Sinne von „Hilfssatz“ gebraucht. Also eine technische Aussage, die vielleicht
+sogar einen komplizierten Beweis hat, die aber den Beweis des folgenden Satzes
+dann sehr elegant macht. Der Plural von Lemma ist Lemmata.
+Ein Korollar (Betonung auf der letzten Silbe) ist eine Folgerung aus einem Satz
+oder einer Proposition beziehungsweise aus deren Beweis. Bei einem Korollar muss
+man immer angeben können, woraus es eine Folgerung ist. Als sehr schlechter mathematischer Stil gilt es, ein Korollar aus einer Definition oder einem Lemma zu
+ziehen. Natürlich sollte man sich bei einer Definition zunächst einmal Gedanken
+machen, was es mit diesem Begriff überhaupt auf sich hat und erste Schlussfolgerungen schließen. Aber das sollte man dann nicht als Korollar, sondern in einer
+Bemerkung oder einer Beobachtung machen.
+
+1.3
+
+Mengen
+
+Die Verständigung in der modernen Mathematik stützt sich auf den Begriff der
+Menge. Dabei wollen wir uns eine Menge als „Zusammenfassung“ von Objekten
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+35
+
+vorstellen, wobei immer klar sein soll, ob ein Objekt zu dieser Menge gehört oder
+nicht. Die Objekte in einer Menge M nennen wir Elemente von M .
+Wir schreiben ∈ für „ist Element von“, also m ∈ M für „m ist Element der Menge
+M “, und ∈
+/ für „ist nicht Element von“, also m ∈
+/ M für „m ist nicht Element der
+Menge M “.
+1.3.1 Definitionen: (i) Eine Menge N heißt Teilmenge einer Menge M , wenn
+jedes Element aus N auch zu M gehört, wenn also ∀x : (x ∈ N ⇒ x ∈ M ).
+Um eine Teilmengenbeziehung auszudrücken benutzen wir das Symbol ⊆.
+(ii) Zwei Mengen M und N sind gleich, falls M ⊆ N und N ⊆ M , wenn also
+M und N die gleichen Elemente enthalten.
+(iii) Die leere Menge ist diejenige Menge, die kein einziges Element besitzt. Sie
+wird mit ∅ bezeichnet.
+Mengen werden oft in der Form M = {x | pipapo} angegeben. Dies steht für die
+Aussage „M ist die Menge aller x, die die Eigenschaft pipapo haben.“
+Bei der Definition neuer Mengen verwendet man oft nicht das Gleichheitszeichen,
+sondern das Symbol :=. Der Doppelpunkt steht auf der Seite des Gleichheitszeichens, auf der die neu definierte Menge steht.
+1.3.2 Beispiel: Die Schreibweise M := {2i | i ist eine gerade Zahl} bedeutet: M
+wird definiert als die Menge {. . . , 2−6 , 2−4 , 2−2 , 20 , 22 , 24 , 26 . . . }.
+1.3.3 Definitionen: Seien M und N Mengen.
+(i) Die Vereinigung von M und N wird mit ∪ bezeichnet und ist definiert als
+M ∪ N := {x | x ∈ M oder x ∈ N },
+
+(gesprochen: M vereinigt N ).
+
+(ii) Der Durchschnitt von M und N wird mit ∩ bezeichnet und ist definiert als
+M ∩ N := {x | x ∈ M und x ∈ N },
+
+(gesprochen: M geschnitten N ).
+
+(iii) Die Differenzmenge von M und N wird mit \ bezeichnet und ist definiert
+als
+M \ N := {x | x ∈ M und x ∈
+/ N },
+
+(gesprochen: M ohne N ).
+
+(iv) Zwei Mengen M und N heißen disjunkt, falls M ∩ N = ∅ gilt.
+
+36
+
+1.3. Mengen
+
+1.3.4 Beispiele: (a) Seien M := {1, 2, 3, 4, 5, 6} und N := {4, 5, 6, 7, 8}. Dann
+gilt:
+M ∪ N = {1, 2, 3, 4, 5, 6, 7, 8}
+M ∩ N = {4, 5, 6}
+M \ N = {1, 2, 3}.
+(b) Sei Z die Menge der ganzen Zahlen, also Z = {. . . , −2, −1, 0, 1, 2, . . . }. Dann
+gilt:
+N∪Z
+N∩Z
+N\Z
+Z\N
+
+=
+=
+=
+=
+
+Z
+N
+∅
+{. . . , −2, −1, 0}
+
+1.3.5 Definition: Besitzt eine Menge M nur endlich viele Elemente, so sagen wir,
+dass M eine endliche Menge ist. Anderenfalls nennen wir M eine unendliche
+Menge.
+1.3.6 Aufgabe: Sind folgende Aussagen wahr oder falsch? Begründen Sie Ihre
+Antwort.
+1. Wenn M \ N = ∅ für zwei Mengen M und N gilt, so folgt M = N.
+2. Wenn M ∪ N endlich ist, dann sind M und N endlich.
+3. Wenn M ∩ N endlich ist, dann sind M und N endlich.
+Sei M eine Menge. Wir schreiben
+(
+
+|M | =
+
+n, falls M genau n Elemente besitzt, n ∈ N0
+∞, falls M eine unendliche Menge ist
+
+Die auf der Seite liegende Acht, also ∞, ist das mathematische Zeichen für „unendlich“, und es wird auch als „unendlich“ ausgesprochen.
+1.3.7 Definition: Sei M eine Menge. Wir nennen |M | die Mächtigkeit oder
+die Kardinalität von M .
+1.3.8 Aufgabe: Sind folgende Aussagen wahr oder falsch? Begründen Sie Ihre
+Antwort.
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+37
+
+1. Wenn |M ∪N | = |M |+|N | für endliche Mengen M und N , so folgt M ∩N = ∅.
+2. Für endliche Mengen M und N gilt: Wenn M ∩ N = ∅, so folgt |M ∪ N | =
+|M | + |N |.
+1.3.9 Definitionen: Sind M und N nicht leere Mengen, so definieren wir die
+Produktmenge M × N von M und N durch
+M × N := {(m, n) | m ∈ M und n ∈ N }.
+Dabei nennen wir (m, n) ein geordnetes Paar, und man definiert die Gleichheit
+von geordneten Paaren durch: (m, n) = (m0 , n0 ) genau dann, wenn m = m0 und
+n = n0 ist.
+Sie haben alle schon mit Produktmengen gerechnet, und zwar im Mittelstufenunterricht. Damals haben Sie ein Koordinatensystem gezeichnet, an die horizontale
+Achse x und an die vertikale Achse y geschrieben.
+Zur Erinnerung:
+y
+
+b
+
+(a,b)
+
+a
+
+x
+
+Die x-Achse symbolisierte die reellen Zahlen, die mit R bezeichnet werden, und die
+y-Achse ebenfalls. Ein Punkt in der Ebene wurde durch seine Koordinaten (a, b),
+dabei a auf der x- und b auf der y-Achse, angegeben. Genau genommen haben Sie
+im Mittelstufenunterricht mit der Produktmenge R × R gearbeitet. Dieses Beispiel
+sollte klar machen, warum man bei Produktmengen von geordneten Paaren spricht:
+Es ist wichtig, ob ein Element an der ersten oder der zweiten Stelle vorkommt. Der
+Punkt (1, 0) ist ein anderer als der Punkt (0, 1).
+Sind die Mengen M und N Intervalle in R, so lässt sich die Produktmenge M × N
+in einem Koordinatensystem wieder sehr gut veranschaulichen. Seien etwa
+M := {x ∈ R | a ≤ x ≤ b} und N := {x ∈ R | c ≤ x ≤ d}
+mit a, b, c, d ∈ R, a < b und c < d. Die Produktmenge M × N besteht dann aus
+den Punkten in dem Kästchen:
+
+38
+
+1.4. Abbildungen
+
+y
+
+d
+c
+a
+
+b
+
+x
+
+Bei der allgemeinen Definition von Produktmengen lässt man beliebige Mengen
+zu, die keine Teilmengen der reellen Zahlen sein müssen. Dann sind die Bilder, wie
+wir sie oben gezeichnet haben, nicht mehr sehr hilfreich.
+1.3.10 Aufgabe: Ist folgende Aussage wahr oder falsch? Begründen Sie Ihre Antwort.
+Sind M und N endliche, nicht leere Mengen, so ist |M × N | = |M | · |N |.
+
+1.4
+1.4.1
+
+Abbildungen
+Was ist eigentlich eine Abbildung?
+
+Die meisten von Ihnen werden von dem Begriff einer Abbildung zwischen Mengen
+bereits gehört haben. In der Schule haben Sie vermutlich etwa Folgendes gelernt:
+„Eine Abbildung f : M → N (wobei M und N Mengen sind) ist eine Vorschrift,
+die jedem m ∈ M genau ein n ∈ N zuordnet.“
+Diese Formulierung ist ziemlich unpräzise, denn was genau ist eine Vorschrift? Mit
+Hilfe von Mengen können wir die schwammige Definition klar formulieren. Tasten
+wir uns langsam ran: Bei einer Abbildung f von einer Menge M in eine Menge
+N müssen wir beide Mengen M und N im Auge behalten. Die Elemente m ∈ M
+haben Partner (nämlich f (m)) in N . Fassen wir die Partner zu geordneten Paaren
+(m, f (m)) zusammen, so erhalten wir eine Teilmenge der Produktmenge M × N .
+Wir können uns eine Abbildung also vorstellen als eine Teilmenge von M × N .
+Eine beliebige Teilmenge? Nein, denn wir haben ja noch zusätzliche Bedingungen.
+Zum einen, jedes Element m ∈ M hat einen Partner n ∈ N . Unsere Teilmenge
+muss also so geschaffen sein, dass jedes m in M als erster Eintrag in einem der
+geordneten Paare vorkommt. Wenn wir ein Element m ∈ M festhalten, können
+dann (m, n) und (m, n0 ) beide in unserer Teilmenge liegen, falls n und n0 verschieden sind? Die Antwort ist „nein“, denn das würde ja bedeuten, dass unser festes
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+39
+
+m zwei verschiedene Partner in N hätte. Und wir wollten ja gerade haben, dass
+jedes Element m ∈ M genau einen Partner in N hat. Jetzt haben wir aber alle
+Bedingungen zusammen, die unsere Teilmenge haben muss, und wir definieren:
+1.4.1 Definition: Seien M und N Mengen. Eine Abbildung von M nach N ist
+eine Teilmenge f ⊆ M × N , so dass folgende Eigenschaften gelten:
+(i) Für alle m ∈ M gibt es ein n ∈ N , so dass (m, n) ∈ f .
+(ii) Wenn (m, n) ∈ f und (m, n0 ) ∈ f , so folgt n = n0 .
+1.4.2 Aufgabe: Welche der folgenden Teilmengen von R × R definieren Abbildungen vom R nach R?
+(a) f := {(5, x) | x ∈ R}
+(b) f := {(x, 5) | x ∈ R}
+Nachdem wir die beiden Eigenschaften, die eine Abbildung definieren, nun präzise
+ausgedrückt haben, ist das weitere Vorgehen nur noch eine Frage der Schreibweise,
+also der Notation.
+1.4.3 Notation: Sei f ⊆ M × N eine Abbildung. Dann schreiben wir dafür
+f : M → N (gesprochen: f ist eine Abbildung von M nach N ), und wir bezeichnen
+das zu m ∈ M eindeutig bestimmte n ∈ N , für das (m, n) ∈ f gilt, mit n = f (m).
+Ist m ∈ M , so schreiben wir auch m 7→ f (m) (gesprochen: m wird auf f (m)
+abgebildet).
+1.4.4 Beispiel: Die Teilmenge f = {(x, x2 ) | x ∈ R} ⊆ R × R ist eine Abbildung
+im Sinne der Definition 1.4.1. Mit der gerade eingeführten Notation wird diese
+Abbildung zu dem, was Sie von der Schule her kennen, nämlich f : R → R,
+definiert durch f (x) = x2 für alle x ∈ R.
+1.4.5 Definition: Zwei Abbildungen f : M → N und g : M 0 → N 0 heißen gleich,
+falls M = M 0 und N = N 0 und f (m) = g(m) für alle m ∈ M gilt.
+Der Begriff der Abbildung ist in der Mathematik nicht vom Himmel gefallen. Es
+dauerte lange, bis aus den vielfältigen Entwicklungen in den verschiedensten Gebieten der Mathematik der ganz allgemeine und universell anwendbare Abbildungsbegriff entstand, wie er oben in 1.4.1 definiert wurde. Hier gleich eine Antwort auf
+die Frage, was der Unterschied zwischen einer Abbildung und einer Funktion ist.
+Es gibt keinen. Nur, dass man in der Analysis in der Regel den Begriff „Funktion“
+benutzt und in der Algebra eher von Abbildungen spricht.
+
+40
+
+1.4.2
+
+1.4. Abbildungen
+
+Bild und Urbilder
+
+Wir kommen zu zwei wichtigen Begriffen im Zusammenhang mit Abbildungen.
+1.4.6 Definitionen: Sei f : M → N eine Abbildung, und sei m ∈ M . Man
+nennt f (m) das Bild von m unter f . Die Teilmenge {n ∈ N | es gibt ein m ∈
+M mit f (m) = n} von N heißt das Bild von f und wird mit Bild(f ) oder f (M )
+bezeichnet. Ist n ∈ Bild(f ), so wird ein m ∈ M mit f (m) = n ein Urbild von n
+unter f genannt.
+1.4.7 Aufgabe: Sei f : R → R definiert durch f (x) = x2 für alle x ∈ R. Skizzieren
+Sie den Funktionsgraphen von f . Welche reellen Zahlen liegen im Bild von f ? Wie
+viele Urbilder haben diejenigen Elemente, die in Bild(f ) liegen?
+Wenn Sie mehr Beispiele sehen wollen, haben wir Ihnen in der Virtuellen Universität einige Applets zur Verfügung gestellt. Im folgenden Applet können Sie
+verschiedene Abbildungen auswählen. Wenn Sie auf die x-Achse klicken, wird das
+Bild des Elements angezeigt. Hier sehen Sie nur einen Screenshot. Wenn Sie diesen
+anklicken oder den Links in der Virtuellen Universität folgen, werden Sie zu dem
+Applet weitergeleitet.
+
+Bild eines Elements unter einer Abbildung
+
+Mit dem folgenden Applet können Sie sich die Bilder verschiedener Abbildungen ansehen. Sie müssen auf den Button „Bild“ klicken. Wieder können Sie den
+Screenshot anklicken und sich weiterleiten lassen oder den Links in der Virtuellen
+Universität folgen.
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+41
+
+Bild einer Abbildung
+
+Das folgende Applet soll Ihnen ein Gefühl dafür vermitteln, was Urbilder von
+Elementen unter einer Abbildung sind. Wenn Sie einen Punkt auf der y-Achse
+anklicken, werden die Urbilder dieses Punktes konstruiert.
+
+Urbilder eines Elements unter einer Abbildung
+
+Das Beispiel in Aufgabe 1.4.7 ist im gewissen Sinne typisch für die Phänomene,
+die bei Bildern und Urbildern auftreten können. Fassen wir diese kurz zusammen:
+1.4.8 Beobachtung: Sei f : M → N eine Abbildung.
+(a) Jedes Element m ∈ M besitzt genau ein Bild unter f . Dies ist gerade die
+
+42
+
+1.4. Abbildungen
+
+Forderung, dass f eine Abbildung ist.
+(b) Nicht jedes Element n ∈ N muss im Bild von f liegen. In dem Beispiel in
+Aufgabe 1.4.7 liegen beispielsweise die negativen reellen Zahlen nicht im Bild
+von f .
+(c) Wenn n im Bild von f liegt, dann kann es zu n durchaus mehrere Urbilder
+geben. Beispielsweise liegt 4 im Bild der Abbildung in Aufgabe 1.4.7, und es
+sind 2 und −2 Urbilder von 4 unter f .
+Die Fälle, in denen Abbildungen f : M → N die Eigenschaften haben, dass jedes
+Element in N im Bild von f oder jedes Element in Bild(f ) genau ein Urbild besitzt,
+sind so wichtig (schön), dass sie eine eigene Definition wert sind.
+1.4.9 Definition: Sei f : M → N eine Abbildung.
+(i) f heißt surjektiv, wenn jedes Element n ∈ N im Bild von f liegt.
+(ii) f heißt injektiv, wenn jedes Element im Bild von f genau ein Urbild besitzt.
+(iii) f heißt bijektiv, wenn f sowohl surjektiv als auch injektiv ist.
+Mit dem folgenden Applet können Sie sich mit der Definition vertraut machen.
+
+Unter den Beispielen finden Sie Abbildungen, die injektiv, surjektiv, aber auch
+nichts von alledem sind. Klicken Sie wie beim letzten Applet auf die y-Achse.
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+43
+
+Um die Surjektivität einer Abbildung f : M → N zu beweisen, muss man mit
+einem beliebigen Element n ∈ N beginnen und ein Element m ∈ M explizit
+angeben, für das f (m) = n gilt. Wenn man beweisen will, dass f nicht surjektiv
+ist, reicht es aus, ein einziges Element n ∈ N anzugeben, das nicht im Bild von f
+liegt.
+1.4.10 Beispiele: (a) Sei f : R × R → R definiert durch f ((x, y)) = x + y für alle
+(x, y) ∈ R×R. Dann ist f surjektiv, denn wenn z ∈ R, dann gilt (0, z) ∈ R×R,
+und es ist f ((0, z)) = 0 + z = z. Jedes z ∈ R besitzt also ein Urbild unter f .
+(b) Sei g : N → Z definiert durch f (n) = −n für alle n ∈ N. Dann ist g nicht
+surjektiv, denn das Element 0 ∈ Z besitzt kein Urbild.
+Um die Injektivität einer Abbildung zu beweisen, geht man folgendermaßen vor:
+Wir geben uns ein beliebiges Element n ∈ Bild(f ) vor und nehmen an, dieses
+Element hätte die Urbilder m und m0 , also f (m) = f (m0 ). Dann leiten wir aus
+dieser Gleichung her, dass m = m0 sein muss, dass n also nur ein einziges Urbild
+hat. Um zu beweisen, dass f nicht injektiv ist, reicht es aus, zwei verschiedene
+Elemente m und m0 in M anzugeben, für die f (m) = f (m0 ) ist.
+1.4.11 Beispiele: (a) Sei f : R × R → R definiert durch f ((x, y)) = x + y für
+alle (x, y) ∈ R × R. Dann ist f nicht injektiv, denn es sind (0, 3) und (1, 2)
+verschiedene Elemente in R × R, für die f ((0, 3)) = f ((1, 2)) = 3 gilt.
+(b) Sei g : N → Z definiert durch f (n) = −n für alle n ∈ N. Dann ist g injektiv,
+denn wenn z = g(m) = g(m0 ) für Elemente m, m0 ∈ N gilt, so folgt −m = −m0 ,
+also m = m0 .
+1.4.12 Aufgabe: Sei f : Z → Z × Z definiert durch f (z) = (z, z + 1) für alle
+z ∈ Z. Untersuchen Sie, ob f injektiv oder surjektiv oder bijektiv ist.
+Es gibt eine besonders langweilige Abbildung, die allerdings so wichtig ist, dass sie
+eine eigene Bezeichnung erhält:
+1.4.13 Definition: Sei M eine Menge. Die Abbildung von M nach M , die jedes
+Element m ∈ M auf m abbildet, wird die identische Abbildung auf M genannt
+und mit idM bezeichnet.
+Es ist also idM : M → M definiert durch idM (m) = m für alle m ∈ M . Diese
+Abbildung ist injektiv und surjektiv, also bijektiv.
+
+44
+
+1.4.3
+
+1.4. Abbildungen
+
+Komposition von Abbildungen
+
+1.4.14 Definition: Seien L, M und N Mengen, und seien f : L → M und
+g : M → N Abbildungen. Dann wird g ◦ f : L → N definiert durch (g ◦ f )(l) =
+g(f (l)) für alle l ∈ L. Sie wird die Hintereinanderausführung oder die Komposition von f und g genannt.
+Warnung: Anders als Sie es vielleicht von der Schule gewohnt sind, gilt: Um g ◦ f
+bilden zu können, muss der Wertebereich von f gleich dem Definitionsbereich von
+g sein.
+Das Symbol ◦ wird „Kringel “ oder „komponiert mit“ ausgesprochen.
+1.4.15 Beispiel: Zu einer reellen Zahl x ∈ R bezeichnen wir mit |x| die Zahl x,
+falls x ≥ 0 ist, und |x| = −x, falls x < 0 ist. Seien nun
+f : Z → N0 mit f (x) = |x| für alle x ∈ Z
+und
+g : N0 → Z mit g(x) = x − 3 für alle x ∈ N0 .
+Dann ist g ◦ f eine Abbildung von Z nach Z, und sie ist definiert durch (g ◦ f )(x) =
+g(f (x)) = g(|x|) = |x| − 3 für alle x ∈ Z. Weiter ist f ◦ g eine Abbildung von N0
+nach N0 , definiert durch (f ◦ g)(x) = f (g(x)) = f (x − 3) = |x − 3| für alle x ∈ N0 .
+Für x = 1 gilt etwa (g ◦ f )(1) = −2 und (f ◦ g)(1) = 2.
+Achtung: Die Abbildung g ◦ f wird „von rechts nach links“ ausgeführt. Daran
+gewöhnt man sich aber schnell.
+1.4.16 Proposition: Seien L, M und N Mengen, und seien f : L → M und
+g : M → N Abbildungen.
+(a) Wenn f und g surjektiv sind, dann ist g ◦ f surjektiv.
+(b) Wenn f und g injektiv sind, dann ist g ◦ f injektiv.
+(c) Wenn f und g bijektiv sind, dann ist g ◦ f bijektiv.
+Beweis:
+(a) Seien f und g surjektiv. Wir zeigen, dass g ◦ f surjektiv ist. Dazu sei n ∈ N .
+Da g surjektiv ist, gibt es ein m ∈ M mit g(m) = n. Da f surjektiv ist, gibt
+es ein l ∈ L mit f (l) = m. Dann gilt (g ◦ f )(l) = g(f (l)) = g(m) = n. Da jedes
+n ∈ N ein Urbild unter g ◦ f besitzt, ist g ◦ f surjektiv.
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+45
+
+(b) Seien f und g injektiv. Wir zeigen jetzt, dass g ◦ f injektiv ist. Dazu seien
+l, l0 ∈ L mit (g ◦ f )(l) = (g ◦ f )(l0 ). Es folgt g(f (l)) = g(f (l0 )). Da g injektiv ist,
+gilt f (l) = f (l0 ), und da f injektiv ist, gilt l = l0 . Jedes Element in Bild(g ◦ f )
+besitzt also genau ein Urbild. Somit ist g ◦ f injektiv.
+(c) Seien f und g bijektiv. Da g ◦ f injektiv und surjektiv ist, ist g ◦ f bijektiv.
+2
+Betrachten wir jetzt ein einfaches aber wichtiges Beispiel für die Komposition von
+Abbildungen:
+1.4.17 Beispiel: Sei f : L → M eine Abbildung. Dann gilt
+(idM ◦ f )(l) = idM (f (l)) = f (l) für alle l ∈ L,
+und
+(f ◦ idL )(l) = f (l) für alle l ∈ L,
+und wir sehen, dass idM ◦ f = f und f ◦ idL = f sind.
+1.4.18 Definition: Sei f : M → N eine Abbildung. f heißt invertierbar, wenn
+es eine Abbildung f −1 : N → M gibt, so dass f −1 ◦ f = idM und f ◦ f −1 = idN
+ist. Wir nennen f −1 invers zu f .
+Dies bedeutet, dass (f −1 ◦ f )(m) = m für alle m ∈ M und (f ◦ f −1 )(n) = n für
+alle n ∈ N ist.
+1.4.19 Aufgabe: Geben Sie ein Beispiel für Mengen M und N und Abbildungen
+f : M → N und g : N → M , so dass g ◦ f = idM und f ◦ g 6= idN ist.
+Wir werden jetzt untersuchen, welche Abbildungen invertierbar sind. Ein erstes
+Indiz gibt die folgende Proposition.
+1.4.20 Proposition: Bijektive Abbildungen sind invertierbar.
+Beweis: Sei f : M → N eine bijektive Abbildung. Jedes Element n ∈ N ist
+von der Form f (m) für ein m ∈ M , denn f ist surjektiv. Da f auch injektiv ist,
+gibt es zu gegebenem n ∈ N genau ein Element m ∈ M mit f (m) = n. Für alle
+n ∈ N definieren wir f −1 (n) als das Element m ∈ M mit f (m) = n. Dann ist
+f −1 : N → M mit n 7→ f −1 (n) für alle n ∈ N eine Abbildung. Sei m ∈ M . Dann
+gilt (f −1 ◦ f )(m) = f −1 (f (m)) = m, also f −1 ◦ f = idM . Sei n ∈ N . Dann gilt
+(f ◦ f −1 )(n) = f (f −1 (n)) = n, also f ◦ f −1 = idN . Es folgt, dass f invertierbar ist.
+2
+
+46
+
+1.4. Abbildungen
+
+Es gilt auch:
+1.4.21 Proposition: Invertierbare Abbildungen sind bijektiv.
+Beweis: Sei f : M → N eine invertierbare Abbildung. Nach Definition gibt es
+eine Abbildung f −1 : N → M mit f −1 ◦ f = idM und f ◦ f −1 = idN . Wir müssen
+zeigen, dass f injektiv und surjektiv ist.
+Seien m, m0 ∈ M mit f (m) = f (m0 ). Wir wenden f −1 auf diese Gleichung an und
+erhalten f −1 (f (m)) = f −1 (f (m0 )). Nun ist aber f −1 (f (m)) gerade (f −1 ◦ f )(m),
+also gleich m. Analog ist f −1 (f (m0 )) = (f −1 ◦ f )(m0 ) = m0 . Also folgt aus f (m) =
+f (m0 ) die Gleichung f −1 (f (m)) = f −1 (f (m0 )), und damit m = m0 . Somit ist f
+injektiv.
+Sei n ∈ N . Sei m = f −1 (n). Dann gilt f (m) = f (f −1 (n)) = (f ◦ f −1 )(n) = n, und
+das war der Beweis der Surjektivität von f .
+Da f injektiv und surjektiv ist, folgt, dass f bijektiv ist.
+
+2
+
+Kombinieren wir die Propositionen 1.4.20 und 1.4.21, so erhalten wir eine Charakterisierung invertierbarer Abbildungen:
+1.4.22 Korollar: (Charakterisierung invertierbarer Abbildungen)
+Sei f : M → N eine Abbildung. Die folgenden Aussagen sind äquivalent:
+(a) f ist bijektiv.
+(b) f ist invertierbar.
+
+
+
+Dieses Korollar ermöglicht uns, zu entscheiden, ob eine Abbildung f invertierbar
+ist. Wir müssen untersuchen, ob f injektiv und surjektiv, also bijektiv ist. Wie das
+gemacht wird, haben Sie im letzten Abschnitt gesehen.
+Die folgende Proposition ist ausgesprochen nützlich. Sie besagt, dass wir, wenn
+wir mehrere Abbildungen komponieren, Klammern setzen dürfen, wie es uns am
+günstigsten erscheint. Eine solche Eigenschaft nennt man „Assoziativität“. Mehr
+dazu gibt es im folgenden Abschnitt.
+1.4.23 Proposition: (Assoziativgesetz der Komposition)
+Die Komposition von Abbildungen ist assoziativ, das heißt, für alle Mengen L,
+M , N , X und alle Abbildungen f : L → M , g : M → N und h : N → X gilt
+(h ◦ g) ◦ f = h ◦ (g ◦ f ).
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+47
+
+Beweis: Da f : L → M und g : M → N Abbildungen sind, ist g ◦ f definiert, und
+g ◦ f ist eine Abbildung von L nach N . Da h eine Abbildung von N nach X ist,
+ist h ◦ (g ◦ f ) definiert, und h ◦ (g ◦ f ) ist eine Abbildung von L nach X. Da g eine
+Abbildung von M nach N ist, und da h eine Abbildung von N nach X ist, ist h ◦ g
+definiert und eine Abbildung von M nach X. Da f eine Abbildung von L nach M
+ist, ist auch (h ◦ g) ◦ f definiert, und (h ◦ g) ◦ f ist eine Abbildung von L nach X.
+Beide Kompositionen sind also definiert, und sie haben denselben Definitions- und
+Wertebereich. Sei l ∈ L. Setze f 0 = h ◦ g und g 0 = g ◦ f . Dann gilt:
+((h ◦ g) ◦ f )(l) =
+=
+=
+=
+(h ◦ (g ◦ f ))(l) =
+=
+=
+=
+
+(f 0 ◦ f )(l)
+f 0 (f (l))
+(h ◦ g)(f (l))
+h(g(f (l)))
+(h ◦ g 0 )(l)
+h(g 0 (l))
+h((g ◦ f )(l))
+h(g(f (l))).
+
+nach Definition der Komposition
+nach Definition der Komposition.
+
+Es gilt also ((h ◦ g) ◦ f )(l) = (h ◦ (g ◦ f ))(l), und da wir an l keinerlei Bedingungen
+gestellt haben, gilt diese Gleichung für alle l ∈ L. Es folgt (h ◦ g) ◦ f = h ◦ (g ◦ f ),
+die Behauptung.
+2
+
+1.5
+
+Verknüpfungen
+
+Die Mengen, die in der Schule betrachtet wurden, waren in der Regel Mengen
+von Zahlen. Also etwa die ganzen Zahlen Z, die rationalen Zahlen Q, wobei Q :=
+{ ab | a, b ∈ Z und b 6= 0}, die reellen Zahlen R oder die komplexen Zahlen C. Mit
+diesen Zahlen konnten wir rechnen – im einfachsten Fall sie addieren und multiplizieren. In der Mathematik gibt es weit mehr Mengen als die gerade aufgeführten
+Beispiele, bei denen wir die Elemente addieren oder multiplizieren können. Beispielsweise werden Sie noch in dieser Kurseinheit lernen, Matrizen zu addieren.
+All diese Konstruktionen haben eine Sache gemeinsam: zwei beliebigen Elementen einer vorgegebenen Menge wird ein eindeutig bestimmtes Element zugeordnet,
+das wieder in der vorgegebenen Menge liegt. Diesen Sachverhalt können wir mit
+Abbildungen präzise ausdrücken:
+1.5.1 Definition: Sei M eine Menge. Eine Verknüpfung auf M ist eine Abbildung von M × M nach M .
+
+48
+
+1.5. Verknüpfungen
+
+1.5.2 Bezeichnung: Verknüpfungen auf einer Menge M bezeichnet man in der
+Regel durch Symbole wie ◦, ∗, #, + oder ·. Ist ◦ : M × M → M eine Verknüpfung
+auf einer Menge M , und sind m, m0 ∈ M , so schreiben wir an Stelle von ◦(m, m0 )
+einfach m ◦ m0 .
+Betrachten wir erst einmal Beispiele für Verknüpfungen und für Abbildungen, die
+keine Verknüpfungen sind.
+1.5.3 Beispiele: (a) Es ist + eine Verknüpfung auf N, denn durch + wird je zwei
+Elementen a, b ∈ N ein eindeutig bestimmtes Element a + b zugeordnet, das
+in N liegt.
+(b) Es ist − keine Verknüpfung auf N, denn wenn a und b in N liegen, dann muss
+a − b nicht in N sein. Für a = 1 und b = 17 ist dies zum Beispiel der Fall.
+(c) Es ist · eine Verknüpfung auf Z, denn durch · wird je zwei Elementen a, b ∈ Z
+genau ein Element a · b zugeordnet, das in Z liegt.
+(d) Es ist − eine Verknüpfung auf Z, denn durch − wird je zwei Elementen a, b ∈ Z
+genau ein Element a − b zugeordnet, das in Z liegt.
+(e) Sei M eine Menge, und sei Abb(M, M ) := {f | f : M → M ist Abbildung}.
+Sind f, g ∈ Abb(M, M ), so ist f ◦ g ebenfalls in Abb(M, M ). Somit ist ◦ eine
+Verknüpfung auf Abb(M, M ).
+1.5.4 Aufgabe: Es ist : keine Verknüpfung auf Q. Warum nicht?
+Wir hatten oben in 1.5.1 eine Verknüpfung auf einer Menge M ganz allgemein
+als Abbildung von M × M nach M definiert. Nun interessiert man sich in der
+Mathematik aber gar nicht für so allgemeine Verknüpfungen. Vielmehr ist man
+interessiert an Verknüpfungen, die Zusatzeigenschaften haben, die denen ähneln,
+die wir vom Rechnen mit Zahlen bereits kennen. Zu nennen wären da etwa:
+1.5.5 Definitionen: Sei ◦ eine Verknüpfung auf einer Menge M .
+(i) Die Verknüpfung ◦ heißt kommutativ, falls für je zwei Elemente a, b ∈ M
+gilt, dass a ◦ b = b ◦ a ist.
+(ii) Die Verknüpfung ◦ heißt assoziativ, falls für je drei Elemente a, b, c ∈ M
+(die nicht verschieden sein müssen) gilt, dass (a ◦ b) ◦ c = a ◦ (b ◦ c) gilt.
+(iii) Wir sagen, dass die Verknüpfung ◦ ein neutrales Element e besitzt, wenn
+es ein Element e in M so gibt, dass a ◦ e = a und e ◦ a = a für alle a ∈ M
+erfüllt ist.
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+49
+
+1.5.6 Beispiele: (a) Die Verknüpfung + auf Z ist kommutativ (es gilt a+b = b+a
+für alle a, b ∈ Z), sie ist assoziativ (es gilt a + (b + c) = (a + b) + c für alle
+a, b, c ∈ Z), und sie besitzt ein neutrales Element e, nämlich e = 0.
+(b) Die Verknüpfung · auf Z ist kommutativ (es gilt a · b = b · a für alle a, b ∈ Z),
+sie ist assoziativ (es gilt a · (b · c) = (a · b) · c für alle a, b, c ∈ Z), und sie besitzt
+ein neutrales Element e, nämlich e = 1.
+(c) Die Verknüpfung ◦ auf Abb(M, M ) ist in der Regel nicht kommutativ. Sei etwa
+M = {1, 2}, und seien f, g ∈ Abb(M, M ) definiert durch f (1) = f (2) = 1 und
+g(1) = g(2) = 2. Dann gilt (f ◦ g)(1) = 1 und (g ◦ f )(1) = 2. Somit ist
+f ◦ g 6= g ◦ f . Die Verknüpfung ◦ ist assoziativ (vergleiche Proposition 1.4.23),
+und sie besitzt ein neutrales Element, nämlich idM (vergleiche Beispiel 1.4.17).
+1.5.7 Definitionen: Sei ◦ eine Verknüpfung auf einer Menge M , die ein neutrales
+Element e besitzt.
+(i) Ein Element m ∈ M heißt invertierbar, wenn es ein Element m0 ∈ M so
+gibt, dass m ◦ m0 = e und m0 ◦ m = e ist.
+(ii) Ist m ∈ M invertierbar, und gilt m ◦ m0 = m0 ◦ m = e für ein Element
+m0 ∈ M , so sagen wir, dass m0 invers zu m ist.
+1.5.8 Beispiele: (a) Wir betrachten wie oben Z mit der Verknüpfung +. Jedes
+Element a ∈ Z ist invertierbar, denn wenn a ∈ Z, dann gilt auch −a ∈ Z.
+Dann haben wir a + (−a) = 0 und (−a) + a = 0, und dies ist ja gerade die
+Forderung, die für invertierbare Elemente erfüllt sein muss.
+(b) Jetzt betrachten wir Z mit der Verknüpfung ·. Bezüglich · sind nur wenige
+Elemente invertierbar . Zunächst einmal ist das Element 0 nicht invertierbar.
+Es gibt nämlich keine ganze Zahl z, die die Gleichung z · 0 = 1 erfüllen würde.
+Nehmen wir nun an, a wäre eine ganze Zahl, die weder 0 noch 1 noch −1 ist.
+Für alle z ∈ Z gilt a · z 6= 1, denn entweder ist z = 0 oder a · z ist eine Zahl,
+deren Betrag größer als 1 ist. Nur die Element 1 und −1 sind in Z bezüglich
+der Verknüpfung · invertierbar. Invers zu 1 ist 1, und invers zu −1 ist −1.
+(c) Sei M eine Menge. Wenn M mehr als ein Element besitzt, dann ist die Abbildung, die jedes Element m ∈ M auf ein festes Element in M abbildet,
+nicht bijektiv, also mit Korollar 1.4.22 nicht invertierbar. Es folgt, dass in
+Abb(M, M ) nicht alle Abbildungen invertierbar sind.
+1.5.9 Aufgabe: Welche Elemente sind in Q mit der Verknüpfung · invertierbar?
+Welche in Q mit der Verknüpfung +?
+
+50
+
+1.5. Verknüpfungen
+
+Als Sie in Schulzeiten mit ganzen Zahlen gerechnet haben, haben Sie Z simultan
+mit den Verknüpfungen + und · betrachtet. Dabei waren wieder gewisse Regeln zu
+beachten, beispielsweise konnten Sie ausklammern. Das Phänomen des „Ausklammerns“ findet sich auch bei anderen Mengen mit anderen Verknüpfungen, und es
+wird mit einer eigenen Definition bedacht:
+1.5.10 Definition: Sei M eine Menge mit zwei Verknüpfungen ◦ und #. Wir
+sagen, dass in M die Distributivgesetze gelten, falls für alle m1 , m2 , m3 ∈ M
+(die nicht verschieden sein müssen) die folgenden beiden Regeln gelten:
+(i) m1 ◦ (m2 #m3 ) = (m1 ◦ m2 )#(m1 ◦ m3 ), und
+(ii) (m1 #m2 ) ◦ m3 = (m1 ◦ m3 )#(m2 ◦ m3 ).
+Wenn Sie in dieser Definition M durch Z (oder Q oder R) und ◦ durch · und #
+durch + ersetzen, werden Sie die bekannten Regeln des Ausklammerns wiedererkennen.
+1.5.11 Beispiel: Sei F2 eine Menge mit zwei Elementen, die wir mit 0 und 1
+bezeichnen, also F2 := {0, 1}. Dabei sollten Sie bei 0 und 1 nicht an ganze Zahlen
+denken, sondern einfach als abstrakte Bezeichnung der Elemente. Auf F2 definieren
+wir zwei Verknüpfungen, die wir + und · nennen. Aus Gründen der Übersichtlichkeit haben wir das in Form von Tabellen gemacht: Im Schnittpunkt der Zeile, in
+der i (wobei i ∈ F2 ) an erster Stelle steht, mit der Spalte, in der j (wieder j ∈ F2 )
+an erster Stelle steht, haben wir i + j beziehungsweise i · j notiert.
++ 0
+0 0
+1 1
+
+1
+1
+0
+
+· 0
+0 0
+1 0
+
+1
+0
+1
+
+Wir untersuchen nun, welche der oben aufgelisteten Eigenschaften diese Verknüpfungen haben. Dabei beginnen wir mit den Eigenschaften in Definition 1.5.5.
+(i) Die Tabellen sind symmetrisch entlang der Diagonalen. Es gilt also i+j = j+i
+und i · j = j · i für alle i, j ∈ F2 . Somit sind die Verknüpfungen + und · auf
+F2 kommutativ.
+(ii) Um zu überprüfen, ob + und · assoziativ sind, müssen wir für je drei Elemente
+i, j, k ∈ F2 untersuchen, ob (i + j) + k = i + (j + k) beziehungsweise i · (j · k) =
+(i · j) · k gilt. Da wir in F2 nur zwei verschiedene Elemente zur Verfügung
+haben, kommen in diesen Gleichungen Elemente mehr als ein Mal vor. Auf
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+51
+
+geht es:
+0 + (0 + 0) = 0 = (0 + 0) + 0
+0 + (0 + 1) = 1 = (0 + 0) + 1
+0 + (1 + 0) = 1 = (0 + 1) + 0
+0 + (1 + 1) = 0 = (0 + 1) + 1
+1 + (0 + 0) = 1 = (1 + 0) + 0
+1 + (0 + 1) = 0 = (1 + 0) + 1
+1 + (1 + 0) = 0 = (1 + 1) + 0
+1 + (1 + 1) = 1 = (1 + 1) + 1
+
+und
+und
+und
+und
+und
+und
+und
+und
+
+0 · (0 · 0) = 0 = (0 · 0) · 0
+0 · (0 · 1) = 0 = (0 · 0) · 1
+0 · (1 · 0) = 0 = (0 · 1) · 0
+0 · (1 · 1) = 0 = (0 · 1) · 1
+1 · (0 · 0) = 0 = (1 · 0) · 0
+1 · (0 · 1) = 0 = (1 · 0) · 1
+1 · (1 · 0) = 0 = (1 · 1) · 0
+1 · (1 · 1) = 1 = (1 · 1) · 1.
+
+Es folgt, dass + und · assoziativ sind.
+(iii) Bezüglich der Verknüpfung + ist das Element 0 das neutrale Element. Bezüglich · ist 1 das neutrale Element.
+Wir haben also gesehen, dass + und · Verknüpfungen sind, die beide ein neutrales
+Element besitzen. Gehen wir nun zu Definition 1.5.7 und untersuchen, wie es um
+Invertierbarkeit steht.
+Bezüglich + ist jedes Element in F2 invertierbar. Es gilt nämlich 0 + 0 = 0, das
+heißt, 0 ist zu 0 invers, und 1 + 1 = 0, das heißt, 1 ist zu 1 invers.
+Bezüglich · ist das Element 0 nicht invertierbar, denn es gibt kein Element i ∈ F2
+mit 0 · i = i · 0 = 1. Das Element 1 ist invertierbar, denn 1 · 1 = 1. Das heißt, invers
+zu 1 ist 1.
+Wenden wir uns zum Schluss der Definition 1.5.10 zu und untersuchen, ob die
+Distributivgesetze in F2 gelten.
+0 · (0 + 0) = 0 = 0 · 0 + 0 · 0
+0 · (0 + 1) = 0 = 0 · 0 + 0 · 1
+0 · (1 + 0) = 0 = 0 · 1 + 0 · 0
+0 · (1 + 1) = 0 = 0 · 1 + 0 · 1
+1 · (0 + 0) = 0 = 1 · 0 + 1 · 0
+1 · (0 + 1) = 1 = 1 · 0 + 1 · 1
+1 · (1 + 0) = 1 = 1 · 1 + 1 · 0
+1 · (1 + 1) = 0 = 1 · 1 + 1 · 1
+
+und
+und
+und
+und
+und
+und
+und
+und
+
+(0 + 0) · 0 = 0 = 0 · 0 + 0 · 0
+(0 + 0) · 1 = 0 = 0 · 1 + 0 · 1
+(0 + 1) · 0 = 0 = 0 · 0 + 1 · 0
+(0 + 1) · 1 = 1 = 0 · 1 + 1 · 1
+(1 + 0) · 0 = 0 = 1 · 0 + 0 · 0
+(1 + 0) · 1 = 1 = 1 · 1 + 0 · 1
+(1 + 1) · 0 = 0 = 1 · 0 + 1 · 0
+(1 + 1) · 1 = 0 = 1 · 1 + 1 · 1.
+
+Somit gelten auch die Distributivgesetze in F2 .
+
+52
+
+1.6
+
+1.6. Körper
+
+Körper
+
+In Beispiel 1.5.11 haben Sie eine Menge mit zwei Verknüpfungen, die wir + und
+· genannt haben, kennen gelernt, in der die uns von Q und R vertrauten Rechenregeln gelten. Es gibt noch viele solcher mathematischen Strukturen, so dass man
+diese unter einem Oberbegriff zusammenfasst. Das ist der Begriff des Körpers, auf
+englisch „field“, was auch erklärt, warum man als Abkürzung der Menge in Beispiel
+1.5.11 den Buchstaben F verwendet.
+1.6.1 Definition: Ein Körper ist eine Menge K mit zwei Verknüpfungen + und
+· und zwei verschiedenen, ausgezeichneten Elementen 0 und 1, so dass folgende
+Regeln gelten:
+(i) (a) a + b = b + a gilt für alle a, b ∈ K (das heißt, + ist kommutativ).
+(b) (a+b)+c = a+(b+c) gilt für alle a, b, c ∈ K (das heißt, + ist assoziativ).
+(c) 0 + a = a gilt für alle a ∈ K (das heißt, + ist eine Verknüpfung mit
+neutralem Element 0, denn da + kommutativ ist, gilt auch a + 0 = a).
+(d) Zu jedem a ∈ K gibt es ein a0 ∈ K, so dass a+a0 = 0 ist (das heißt, jedes
+Element a ∈ K ist bezüglich + invertierbar, denn da + kommutativ ist,
+gilt auch a0 + a = 0).
+(ii) (a) a · b = b · a gilt für alle a, b ∈ K (das heißt, · ist kommutativ).
+(b) (a · b) · c = a · (b · c) gilt für alle a, b, c ∈ K (das heißt, · ist assoziativ).
+(c) 1 · a = a gilt für alle a ∈ K (das heißt, · ist eine Verknüpfung mit
+neutralem Element 1, denn da · kommutativ ist, gilt auch a · 1 = a).
+(d) Zu jedem a ∈ K mit a 6= 0 gibt es ein Element a∗ ∈ K, so dass a · a∗ = 1
+ist (das heißt, jedes Element a ∈ K \ {0} ist bezüglich · invertierbar,
+denn da · kommutativ ist, gilt auch a∗ · a = 1).
+(iii) Für alle a, b, c ∈ K gilt a · (b + c) = a · b + a · c (Distributivgesetz).
+1.6.2 Aufgabe: Die Menge Z mit den Verknüpfungen + und · ist kein Körper.
+Warum nicht?
+1.6.3 Aufgabe: Wenn K ein Körper ist, dann gilt automatisch schon das in der
+Definition 1.6.1 nicht aufgeführte zweite Distributivgesetz aus Definition 1.5.10.
+Begründen Sie, warum dies der Fall ist.
+Die Mengen Q und R sind mit den Verknüpfungen + und · Körper. Diejenigen unter
+
+Kapitel 1. Einiges zum Sprachgebrauch
+
+53
+
+Ihnen, die die komplexen Zahlen C bereits kennen, sollten sich davon überzeugen,
+dass auch C mit den Verknüpfungen + und · ein Körper ist. In Beispiel 1.5.11 haben
+wir mit F2 ein Beispiel für einen Körper mit zwei Elementen kennen gelernt. Es
+gibt viele weitere Beispiele für Körper. In diesem Kurs wird es – anders als im
+Analysis-Teil – nicht darauf ankommen, welchen speziellen Körper wir betrachten.
+Unsere Ergebnisse werden für alle Körper richtig sein. Zu Beginn ist es übrigens
+völlig in Ordnung, wenn Sie – sobald ich schreibe: „Sei K ein Körper.“ – denken:
+„Sei K zum Beispiel Q, R oder F2 “.
+Wir leiten noch einige Rechenregeln für Körper aus der Definition 1.6.1 her.
+1.6.4 Proposition: (Rechenregeln für Körper)
+Sei K ein Körper. Dann gilt:
+(a) Es gilt a · 0 = 0 für alle a ∈ K.
+(b) Wenn a, b ∈ K, und wenn a · b = 0 ist, so folgt a = 0 oder b = 0.
+(c) Sind a + b = 0 und a + c = 0 für Elemente a, b, c ∈ K, so folgt b = c.
+(d) Ist a 6= 0, und gilt a · b = 1 und a · c = 1 für Elemente a, b, c ∈ K, so folgt
+b = c.
+Beweis:
+1. Sei a ∈ K. Dann gilt
+a · 0 = a · (0 + 0), denn 0 ist das neutrale Element der Addition
+= a · 0 + a · 0 mit (iii) in der Definition 1.6.1.
+Da jedes Element in K bezüglich + invertierbar ist, ist auch a·0 invertierbar.
+Sei x invers zu a · 0. Wir addieren x auf beiden Seiten der Gleichung und
+erhalten x + a · 0 = (x + a · 0) + a · 0, also 0 = a · 0, die Behauptung.
+2. Seien a, b ∈ K mit a · b = 0. Wenn a = 0 ist, dann ist die Behauptung schon
+bewiesen. Wir können also annehmen, dass a 6= 0 ist, und müssen zeigen,
+dass b = 0 ist. Da jedes Element 6= 0 bezüglich · invertierbar ist, folgt, dass a
+invertierbar ist. Sei a∗ invers zu a. Wir multiplizieren die Gleichung a · b = 0
+mit a∗ und erhalten a∗ · a · b = a∗ · 0. Da a∗ · a = 1, folgt 1 · b = a∗ · 0. Mit
+der Bedingung (ii) in Definition 1.6.1 gilt 1 · b = b, und mit dem ersten Teil
+dieser Proposition gilt a∗ · 0 = 0. Es folgt b = 0, die Behauptung.
+3. Seien a, b, c ∈ K, und sei a + b = a + c = 0. Sei a0 invers zu a bezüglich +.
+Wir addieren a0 zu der Gleichung und erhalten (a0 + a) + b = (a0 + a) + c,
+also 0 + b = 0 + c. Es folgt b = c, die Behauptung.
+
+54
+
+1.6. Körper
+
+4. Sei a 6= 0, und sei a · b = a · c = 1. Sei a∗ invers zu a bezüglich ·. Wir
+multiplizieren die Gleichung mit a∗ und erhalten (a∗ · a) · b = (a∗ · a) · c, also
+1 · b = 1 · c. Es folgt b = c, die Behauptung.
+2
+Die Bedingungen (c) und (d) der Proposition 1.6.4 besagen, dass Elemente, die
+bezüglich + oder · invers sind, eindeutig sind. Es gibt in einem Körper K zu einem
+Element a ∈ K genau ein bezüglich + inverses Element, und ist a 6= 0, so gibt es
+genau ein bezüglich · inverses Element zu a.
+Wir schließen diesen Abschnitt mit einigen Bezeichnungen.
+1.6.5 Notationen: Sei K ein Körper, und sei a ∈ K.
+1. Wir bezeichnen das zu a bezüglich + inverse Element mit −a. Ist b ∈ K, so
+schreiben wir an Stelle von b + (−a) nur b − a.
+2. Sei a 6= 0. Wir bezeichnen das zu a bezüglich · inverse Element a∗ mit a−1
+oder mit a1 . Ist b ∈ K, so schreiben wir an Stelle von a · b auch ab und an
+Stelle von b · a1 einfach ab .
+Mit diesen Bezeichnungen gilt in einem beliebigen Körper K die folgende Rechenregel, die uns für Q oder R gut bekannt ist:
+1.6.6 Bemerkung: Sei K ein Körper, und sei a ∈ K. Dann gilt (−1)a = −a.
+Beweis: Die Behauptung dieser Bemerkung ist, dass (−1)a das zu a bezüglich +
+inverse Element ist. Um dies zu verifizieren, müssen wir (−1)a und a addieren und
+nachsehen, ob 0 raus kommt. Auf geht es:
+(−1)a + a = (−1)a + 1 · a = (−1 + 1)a = 0 · a = 0.
+Beim ersten Gleichheitszeichen haben wir benutzt, dass 1 das neutrale Element
+bezüglich · ist, beim zweiten Gleichheitszeichen das Distributivgesetz und beim
+letzen Gleichheitszeichen die Kommutativität der Multiplikation in K und Proposition 1.6.4.
+2
+
+Lösungen der Aufgaben
+Lösungen der Aufgaben in 1.1
+Aufgabe 1.1.2
+X
+
+aij =
+
+1≤i≤3
+4≤j≤6
+
+X
+
+(a1j + a2j + a3j )
+
+4≤j≤6
+
+= (a14 + a24 + a34 ) + (a15 + a25 + a35 ) + (a16 + a26 + a36 ).
+Aufgabe 1.1.3
+(b63 + b73 + b83 ) + (b64 + b74 + b84 ) + (b65 + b75 + b85 ) =
+
+X
+
+(b6j + b7j + b8j )
+
+3≤j≤5
+
+=
+
+X
+
+X
+
+bij
+
+3≤j≤5 6≤i≤8
+
+=
+
+X
+
+bij .
+
+6≤i≤8
+3≤j≤5
+
+Aufgabe 1.1.4 Es sind 12 = 1, 22 = 4, 32 = 9, 42 = 16 und 52 = 25. Somit gilt
+5
+X
+
+i2 = 1 + 4 + 9 + 16 + 25 = 55.
+
+i=1
+
+Lösungen der Aufgaben in 1.2
+Aufgabe 1.2.2
+1. Es handelt sich um eine Aussage, da wir dem Satz die Eigenschaft „falsch“
+zuordnen können.
+55
+
+56
+
+Lösungen der Aufgaben zu Kapitel 1
+
+2. Dieses ist keine Aussage, denn es ist keine Behauptung aufgestellt worden,
+der wir das Attribut „wahr“ oder „falsch“ zuordnen können.
+3. Obwohl wir natürlich nicht nachschauen können, ob diese Gleichung für alle
+a erfüllt ist, lässt sich diesem Satz das Attribut „wahr“ oder „falsch“ (das
+heißt, es gibt eine reelle Zahl a, für die a · 0 6= 0 ist) zuordnen. Es handelt
+sich daher um eine Aussage.
+4. Obgleich dieser Satz nicht sinnvoll ist, handelt es sich um eine Aussage, denn
+wir können ihm die Eigenschaft „falsch“ zuordnen.
+Aufgabe 1.2.11 Analog zu den Beispielen bestimmen wir die Wahrheitstafel für
+¬(A ∨ B) und erhalten
+A B
+w w
+w f
+f w
+f f
+
+A∨B
+w
+w
+w
+f
+
+¬(A ∨ B)
+f
+f
+f
+w.
+
+Somit ist die Wahrheitstafel für ¬(A ∨ B) die Tabelle
+A B
+w w
+w f
+f w
+f f
+
+¬(A ∨ B)
+f
+f
+f
+w.
+
+Nun berechnen wir die Wahrheitstafel für (¬A) ∧ (¬B).
+A B
+w w
+w f
+f w
+f f
+
+¬A
+f
+f
+w
+w
+
+¬B
+f
+w
+f
+w
+
+(¬A) ∧ (¬B)
+f
+f
+f
+w,
+
+also
+A B
+w w
+w f
+f w
+f f
+
+(¬A) ∧ (¬B)
+f
+f
+f
+w.
+
+Da beide Tabellen übereinstimmen, ist die Behauptung bewiesen.
+
+Lösungen der Aufgaben zu Kapitel 1
+
+57
+
+Aufgabe 1.2.12 Wir berechnen die Tabelle für ¬(A ∧ B) und erhalten
+A B
+w w
+w f
+f w
+f f
+
+A∧B
+w
+f
+f
+f
+
+¬(A ∧ B)
+f
+w
+w
+w.
+
+Die Wahrheitstafel für ¬(A ∧ B) ist damit
+A B
+w w
+w f
+f w
+f f
+
+¬(A ∧ B)
+f
+w
+w
+w.
+
+Nun berechnen wir die Tabelle von (¬A) ∨ (¬B)
+A B
+w w
+w f
+f w
+f f
+
+¬A ¬B
+f
+f
+f
+w
+w
+f
+w
+w
+
+(¬A) ∨ (¬B)
+f
+w
+w
+w,
+
+also
+A B
+w w
+w f
+f w
+f f
+
+(¬A) ∨ (¬B)
+f
+w
+w
+w.
+
+Da beide Tabellen übereinstimmen, sind wir fertig.
+Aufgabe 1.2.14 Sei A die Aussage 2 ≥ 3, also eine falsche Aussage, und sei B
+die Aussage „17 ist eine Primzahl“, also eine wahre Aussage. Dann ist A ⇒ B eine
+wahre Aussage, und B ⇒ A ist eine falsche Aussage.
+Aufgabe 1.2.18
+1. Es gibt ein n ∈ N, das die Eigenschaft n ≤ m für alle m ∈ N hat. (Nebenbei
+bemerkt, das ist das Element n = 1.)
+2. Es gibt ein n ∈ N mit der Eigenschaft, 17 zu teilen.
+Aufgabe 1.2.19
+
+58
+
+Lösungen der Aufgaben zu Kapitel 1
+
+1. ∃p Primzahl : 3 teilt p.
+2. ∀n ∈ N : n ≥ 1.
+Aufgabe 1.2.20
+1. ∀y ∈ Y : (∃x ∈ X : f (x) = y).
+2. ∃a ∈ R : (∀x ∈ R : ax = x). (Wir haben hier gerade über das Element a = 1
+gesprochen.)
+Aufgabe 1.2.22
+1. Wahr.
+2. Wahr.
+3. Wahr.
+Aufgabe 1.2.24
+1. Wahr.
+2. Falsch, denn in der Negation wird ein „oder“ zu einem „und“.
+3. Wahr.
+4. Wahr.
+Aufgabe 1.2.25
+1. Mit Quantoren ausgedrückt lautet die Aussage
+∃n ∈ N : (∀m ∈ N : n ≤ m).
+Die Negation ist daher von der Form
+∀n ∈ N : ¬(∀m ∈ N : n ≤ m),
+also
+∀n ∈ N : (∃m ∈ N : n > m).
+In Worten ausgedrückt:
+Für alle n ∈ N gilt: Es gibt ein m ∈ N mit n > m.
+2. Mit Quantoren ausgedrückt lautet die Aussage
+∀y ∈ Y : (∃x ∈ X : f (x) = y)
+Die Negation ist dann von der Form
+∃y ∈ Y : (∀x ∈ X : f (x) 6= y).
+
+Lösungen der Aufgaben zu Kapitel 1
+
+59
+
+In Worten:
+Es gibt ein y ∈ Y , so dass für alle x ∈ X gilt: f (x) 6= y.
+Aufgabe 1.2.26
+Induktionsanfang: n0 = 1.
+Es ist
+
+1
+X
+
+1
+1
+1
+= , und es ist 1 − 1+1
+= 12 . Es gilt also der Induktionsanfang.
+1
+·
+2
+2
+i=1
+
+Induktionsschritt: Für n ≥ 1 gelte
+n
+X
+
+1
+1
+=1−
+.
+n+1
+i=1 i(i + 1)
+
+Damit folgt:
+n+1
+X
+
+1
+=
+i=1 i(i + 1)
+=
+=
+=
+=
+
+n
+X
+
+1
+1
++
+(n + 1)(n + 2)
+i=1 i(i + 1)
+1
+1
+1 − n+1
++ (n+1)(n+2)
+(n+2)−1
+1 − (n+1)(n+2)
+n+1
+1 − (n+1)(n+2)
+1
+1 − n+2
+
+Wir haben also die Aussage: Aus
+
+n
+X
+
+n+1
+X
+1
+1
+1
+= 1−
+folgt
+=
+n+1
+i=1 i(i + 1)
+i=1 i(i + 1)
+
+1
+bewiesen, und mit dem Prinzip der vollständigen Induktion folgt
+n+2
+n
+X
+1
+1
+=1−
+ist.
+für alle n ∈ N, dass
+n+1
+i=1 i(i + 1)
+1−
+
+Lösungen der Aufgaben in 1.3
+Aufgabe 1.3.6
+1. Diese Aussage ist falsch.
+Es ist beispielsweise {1, 2} \ {1, 2, 3, 4} = ∅, aber {1, 2} =
+6 {1, 2, 3, 4}.
+Hinweis: Wenn Sie eine Aussage widerlegen wollen, hier etwa die Aussage
+„Wenn die Differenzmenge von zwei Mengen leer ist, dann sind die Mengen
+gleich“ reicht es aus, ein Gegenbeispiel anzugeben.
+
+60
+
+Lösungen der Aufgaben zu Kapitel 1
+
+2. Behauptung: Wenn M ∪ N endlich ist, dann sind M und N endlich.
+Beweis: Sei M ∪N endlich. Es ist M ⊆ M ∪N , und da Teilmengen endlicher
+Mengen endlich sind, folgt, dass M endlich ist. Analog ist N ⊆ M ∪ N , und
+damit ist auch N endlich.
+3. Diese Aussage ist falsch.
+Sei zum Beispiel M = {. . . , −2, −1, 0} die Menge der nicht positiven ganzen
+Zahlen, und sei N = {0, 1, 2, . . . } die Menge der nicht negativen ganzen
+Zahlen. Dann ist M ∩ N = {0}, also endlich, aber M und N sind nicht
+endlich.
+Aufgabe 1.3.8
+1. Behauptung: Für endliche Mengen M und N gilt:
+Wenn |M ∪ N | = |M | + |N |, so folgt M ∩ N = ∅.
+Beweis: Seien M und N endliche Mengen. Zunächst behandeln wir den
+Spezialfall, dass M oder N leer sind. Dann gilt |M ∪ N | = |M | + |N |, die
+Voraussetzung ist also erfüllt. Es gilt dann aber auch die Behauptung, dass
+M ∩ N = ∅, die Aussage ist damit für diesen Spezialfall bewiesen.
+Seien also nun M und N nicht leere, endliche Mengen. Dann haben M und
+N die Form M = {x1 , . . . , xm } und N = {y1 , . . . , yn } für gewisse m, n ∈ N.
+Sei |M ∪ N | = |M | + |N |. Dann hat M ∪ N die Form {x1 , . . . xm , y1 , . . . , yn },
+es gilt also xi 6= yj für alle 1 ≤ i ≤ m und 1 ≤ j ≤ n. Somit gilt xi ∈
+/ N für
+alle 1 ≤ i ≤ m und yj ∈
+/ M für alle 1 ≤ j ≤ n. Es folgt also M ∩ N = ∅, die
+Behauptung.
+2. Behauptung: Für endliche Mengen M und N gilt:
+Wenn M ∩ N = ∅, so folgt |M ∪ N | = |M | + |N |.
+Beweis: Seien M und N endlich, und sei M ∩ N = ∅. Wir unterscheiden
+drei Fälle.
+1. Fall: M = ∅. Dann gilt |M ∪ N | = |∅ ∪ N | = |N | = 0 + |N | = |∅| + |N |.
+Die Behauptung gilt also in diesem Spezialfall.
+2. Fall: N = ∅. Die Behauptung wird analog zum ersten Fall bewiesen.
+3. Fall: Weder M noch N sind leer.
+Sei M = {x1 , . . . , xm } und sei N = {y1 , . . . , yn }. Da M ∩ N = ∅, gilt
+xi 6= yj für alle 1 ≤ i ≤ m und alle 1 ≤ j ≤ n. Es ist also M ∪ N =
+{x1 , . . . , xm , y1 , . . . , yn }, und damit |M ∪ N | = m + n = |M | + |N |.
+
+Lösungen der Aufgaben zu Kapitel 1
+
+61
+
+Da die drei Spezialfälle alle Möglichkeiten für endliche Mengen umfassen,
+folgt, dass die Aussage für alle endlichen Mengen M und N richtig ist.
+Aufgabe 1.3.10 Behauptung: Für endliche, nicht leere Mengen M und N gilt
+|M × N | = |M | · |N |.
+Beweis: Sei M = {x1 , . . . , xm } und sei N = {y1 , . . . , yn }. Sei xi ∈ M . Es gibt n
+geordnete Paare (xi , y1 ), · · · , (xi , yn ), und da es m Möglichkeiten für xi gibt, folgt,
+dass es m · n Paare in M × N gibt.
+
+Lösungen der Aufgaben in 1.4
+Aufgabe 1.4.2
+(a) Die Teilmenge f := {(5, x) | x ∈ R} von R × R ist keine Abbildung von R
+nach R. Zum Einen, nur für x = 5 gibt es ein Element (x, y), das in f liegt,
+aber nicht für jedes Element x ∈ R gibt es ein geordnetes Paar (x, y) ∈ f .
+Zum Anderen gibt es für x = 5 verschiedene y und y 0 in R, so dass (5, y) und
+(5, y 0 ) beide in f liegen. Auch das darf bei einer Abbildung nicht passieren.
+(b) Die Teilmenge f := {(x, 5) | x ∈ R} von R × R ist eine Abbildung von R
+nach R. Zu jedem x ∈ R gibt es genau ein y ∈ R (nämlich y = 5), so dass das
+geordnete Paar (x, y) in f liegt.
+Aufgabe 1.4.7 Die Abbildung beschreibt eine Parabel.
+80.0
+60.0
+40.0
+20.0
+-5.0
+
+5.0
+
+Im Bild liegen die reellen Zahlen, die größer oder gleich 0 sind. Das Element 0 hat
+genau ein Urbild, alle positiven reellen Zahlen y ∈ R haben genau zwei Urbilder,
+√
+√
+nämlich y und − y. Die negativen reellen Zahlen haben keine Urbilder unter f .
+Aufgabe 1.4.12
+Behauptung: Die Abbildung f ist injektiv.
+Beweis: Seien z und z 0 in Z mit f (z) = f (z 0 ). Dann gilt (z, z + 1) = (z 0 , z 0 + 1).
+Es folgt z = z 0 , das heißt, f ist injektiv.
+
+62
+
+Lösungen der Aufgaben zu Kapitel 1
+
+Behauptung: Die Abbildung f ist nicht surjektiv.
+Beweis: Es ist (0, 2) ∈ Z × Z, aber es gibt kein z ∈ Z mit (z, z + 1) = (0, 2).
+Somit besitzt nicht jedes Element in Z × Z ein Urbild unter f , das heißt, f ist
+nicht surjektiv.
+Da f nicht surjektiv ist, ist f auch nicht bijektiv.
+Aufgabe 1.4.19 Sei M := {1}, und sei N := {1, 2}. Sei f : M → N definiert
+durch f (1) = 1, und sei g : N → M definiert durch g(1) = 1 und g(2) = 1. Dann
+gilt
+(g ◦ f )(1) = g(f (1)) = g(1) = 1 = idM (1), also g ◦ f = idM und
+(f ◦ g)(2) = f (g(2)) = f (1) = 1 6= idN (2). Somit gilt f ◦ g 6= idN .
+
+Lösungen der Aufgaben in 1.5
+Aufgabe 1.5.4 Es ist 0 ∈ Q, also ist (a, 0) für alle a ∈ Q ein Element in Q × Q.
+Da a : 0 für kein a ∈ Q definiert ist, denn durch 0 kann nicht geteilt werden, ist :
+keine Verknüpfung auf Q.
+Aufgabe 1.5.9
+1. Das Element 0 ∈ Q ist bezüglich · nicht invertierbar, denn es gibt keine
+rationale Zahl x ∈ Q, so dass 0 · x = 1 ist. Jede andere rationale Zahl ist
+bezüglich · invertierbar, denn sei ab ∈ Q mit ab 6= 0. Dann gilt a 6= 0 und
+b 6= 0. Es folgt ab ∈ Q, und ab · ab = 1. Es gilt auch ab · ab = 1. Es folgt, dass ab
+invers zu ab ist.
+2. Bezüglich + ist jedes Element in Q invertierbar, denn mit x ∈ Q liegt auch
+−x in Q. Es folgt x + (−x) = 0 = (−x) + x.
+
+Lösungen der Aufgaben in 1.6
+Aufgabe 1.6.2 In einem Körper muss jedes Element x 6= 0 bezüglich · invertierbar
+sein. Wir haben aber in Beispiel 1.5.8 gesehen, dass in Z nur die Elemente 1 und
+−1 bezüglich · invertierbar sind.
+Aufgabe 1.6.3 Sei K ein Körper, und seien a, b, c ∈ K. Wir wollen zeigen, dass
+(a + b) · c = a · c + b · c gilt. Dabei dürfen wir nur die Regeln (i), (ii) und (iii) der
+
+Lösungen der Aufgaben zu Kapitel 1
+
+63
+
+Definition 1.6.1 benutzen. Es gilt:
+(a + b) · c = c · (a + b), denn · ist kommutativ
+= c · a + c · b mit Bedingung (iii) in Definition 1.6.1
+= a · c + b · c, denn · ist kommutativ.
+Somit gilt (a + b) · c = a · c + b · c für alle a, b, c ∈ K. Das ist aber gerade das zweite
+Distributivgesetz aus Definition 1.5.10.
+
+64
+
+Lösungen der Aufgaben zu Kapitel 1
+
+Kapitel 2
+Matrizenrechnung
+Nachdem wir im ersten Kapitel im Wesentlichen Notation festgelegt haben, geht
+es in diesem Kapitel nun richtig mit der Linearen Algebra los.
+
+2.1
+
+Matrizenaddition
+
+In diesem Kapitel sei K ein Körper, und m, n seien fest gewählte natürliche Zahlen.
+2.1.1 Definitionen: Eine rechteckige Anordnung
+
+
+a11
+
+ a21
+A=
+ ..
+ .
+
+a12
+a22
+..
+.
+
+···
+···
+...
+
+am1 am2 · · ·
+
+
+
+a1n
+a2n 
+
+.. 
+ mit aij ∈ K für alle 1 ≤ i ≤ m, 1 ≤ j ≤ n
+. 
+amn
+
+wird eine m × n-Matrix über K genannt. Ein Element aij in einer Matrix A heißt
+Eintrag an der Stelle (i, j) in A. Ist m = n, so heißt A eine quadratische
+Matrix und wir nennen die Elemente aii Diagonalelemente.
+Ausgesprochen wird m × n-Matrix als „m Kreuz n Matrix“, mit Betonung bei
+Matrix auf der ersten Silbe. Der Plural von Matrix ist Matrizen (mit Betonung
+auf der zweiten Silbe). An Stelle von A schreiben wir auch A = (aij )1≤i≤m oder,
+1≤j≤n
+
+wenn klar ist, was m und n sind, nur A = (aij ).
+
+
+2.1.2 Definition: Sei A = (aij ) eine m × n-Matrix. Man nennt ak1 · · ·
+65
+
+akn
+
+
+
+66
+
+2.1. Matrizenaddition
+
+
+
+
+a1k
+ . 
+
+die k-te Zeile und  .. 
+ die k-te Spalte von A.
+amk
+2.1.3 Bezeichnung: Wir bezeichnen mit Mmn (K) die Menge aller m×n-Matrizen
+über K.
+1. Bestimmen Sie m und nfür folgendeMatrizen in Mmn (R):
+0 0 3 0
+
+
+1 2 0
+
+
+A=
+, B = 1 0 1 und C = 2 3 2 1.
+0 1 1
+0 2 1 1
+
+2.1.4 Aufgabe:
+
+!
+
+2. Bestimmen Sie, falls dies möglich ist, die Einträge an der Stelle (1, 3) in A,
+B und C.
+3. Bestimmen Sie, falls dies möglich ist, die Diagonalelemente von A, B und C.
+2.1.5 Definition: Auf Mmn (K) definieren wir eine Verknüpfung +, genannt Matrizenaddition, wie folgt:
+
+
+
+
+
+
+
+
+b11 · · · b1n
+a11 · · · a1n
+ .
+
+
+.
+.. 
+..
+...
+ und B =  ..
+.
+.
+Für A = 
+.
+.
+.
+.
+. 
+
+
+
+ in Mmn (K) setzen wir
+a
+· · · amn
+bm1 · · · bmn
+ m1
+
+a11 + b11 · · · a1n + b1n
+
+
+..
+..
+..
+
+ . Dabei ist aij + bij die Summe in K.
+A+B =
+.
+.
+.
+
+am1 + bm1 · · · amn + bmn
+Es ist + in der Tat eine Verknüpfung im Sinne der Definition 1.5.1 auf Mmn (K),
+denn + ist eine Abbildung von Mmn (K) × Mmn (K) → Mmn (K), ordnet also jedem
+geordneten Paar (A, B) von m × n-Matrizen eine m × n-Matrix A + B zu.
+2.1.6 Aufgabe: Können Sie irgendwelche der Matrizen in Aufgabe 2.1.4 addieren?
+!
+
+2.1.7 Aufgabe: Seien A =
+
+1 0 1
+1 1 1
+
+!
+
+und B =
+
+0 1 0
+. Bilden Sie A + B,
+1 1 0
+
+wobei Sie
+1. A und B als Matrizen über R auffassen.
+2. A und B als Matrizen über F2 auffassen.
+Untersuchen wir nun, welche derjenigen Eigenschaften, die wir in den Definitionen
+1.5.5 und 1.5.7 für wichtig erachtet hatten, auf die Matrizenaddition zutreffen.
+
+Kapitel 2. Matrizenrechnung
+
+67
+
+Da + in K kommutativ ist, folgt, dass A + B = B + A für alle A, B ∈ Mmn (K)
+gilt. Die Verknüpfung + auf Mmn (K) ist also kommutativ.
+Da + in K assoziativ ist, folgt auch, dass die Verknüpfung + auf Mmn (K) assoziativ
+ist, es gilt also (A + B) + C = A + (B + C) für alle Matrizen A, B, C ∈ Mmn (K).
+Die Verknüpfung + auf Mmn (K) besitzt ein neutrales Element, nämlich die m × n
+Matrix, deren Einträge alle 0 sind.
+2.1.8 Definition: Die m×n Matrix, deren Einträge alle 0 sind, wird Nullmatrix
+in Mmn (K) genannt und mit 0 bezeichnet.
+Es mag zu Beginn etwas verwirrend sein, dass sowohl das neutrale Element der
+Addition in K als auch das neutrale Element der Addition von Matrizen in Mmn (K)
+mit 0 bezeichnet werden. Man gewöhnt sich aber schnell daran, diese verschiedenen
+neutralen Elemente auseinander zu halten.
+Ist A = (aij ) ∈ Mmn (K), und ist A0 = (−aij ), so gilt A + A0 = 0 ∈ Mmn (K). Jedes
+Element A ∈ Mmn (K) besitzt also ein bezüglich + inverses Element. Die Matrix
+A0 = (−aij ) bezeichnen wir mit −A.
+2.1.9 Aufgabe: Seien m, n ∈ N, und sei A ∈ Mmn (F2 ). Beweisen Sie, dass A =
+−A gilt.
+Fassen wir unsere bisherigen Überlegungen zusammen, so erhalten wir:
+2.1.10 Proposition: (Regeln der Matrizenaddition)
+Sei K ein Körper, und seien m, n ∈ N. Es ist + eine Verknüpfung auf Mmn (K).
+Diese Verknüpfung ist kommutativ, assoziativ, besitzt ein neutrales Element, und
+jede Matrix in Mmn (K) ist bezüglich + invertierbar.
+
+
+2.2
+
+Skalarmultiplikation
+
+Sei r ∈ K, und sei A = (aij ) ∈ Mmn (K). Mit rA bezeichnen wir die Matrix
+rA = (raij ) ∈ Mmn (K). Formal definiert diese Konstruktion eine Abbildung
+· : K × Mmn (K) → Mmn (K)
+(r, (aij ))
+7→ (raij )
+für alle (r, (aij )) ∈ K × Mmn (K). Diese Abbildung, beziehungsweise diese Konstruktion, ist so wichtig, dass man sie mit einer eigenen Definition versieht:
+
+68
+
+2.2. Skalarmultiplikation
+
+2.2.1 Definition: Die Abbildung · : K×Mmn (K) → Mmn (K) mit (r, A) 7→ rA für
+alle (r, A) ∈ K × Mmn (K) wird Skalarmultiplikation genannt, und die Elemente
+r ∈ K bezeichnet man als Skalare.
+!
+
+!
+
+1 2 3
+2 1 3
+2.2.2 Aufgabe: Seien A =
+und B =
+in M23 (Q).
+1 0 1
+2 2 1
+Berechnen Sie 2A − 3B.
+Fassen wir einige Regeln der Skalarmultiplikation zusammen:
+2.2.3 Proposition: (Regeln der Skalarmultiplikation)
+Seien A = (aij ) und B = (bij ) ∈ Mmn (K), und seien r, s ∈ K. Dann gilt:
+(a) (rs)A = r(sA).
+(b) (r + s)A = rA + sA.
+(c) r(A + B) = rA + rB.
+(d) 1A = A.
+Beweis:
+(a) Es gilt
+(rs)A = ((rs)aij ) = (r(saij )) = r(sA),
+die Behauptung.
+(b) Es gilt
+(r + s)A = ((r + s)aij ) = (raij + saij ) = (raij ) + (saij ) = rA + sA,
+und das war zu zeigen.
+(c)
+r(A+B) = r(aij +bij ) = (r(aij +bij )) = (raij +rbij ) = (raij )+(rbij ) = rA+rB.
+(d)
+1A = 1(aij ) = (1aij ) = (aij ) = A.
+In allen Fällen haben wir innerhalb der Klammern die Rechengesetze in K verwendet.
+2
+
+Kapitel 2. Matrizenrechnung
+
+2.3
+2.3.1
+
+69
+
+Matrizenmultiplikation
+Einführendes Beispiel
+
+In diesem Abschnitt werden wir eine Matrizenmultiplikation definieren, die auf
+den ersten Blick sehr kompliziert und an den Haaren herbeigezogen aussieht. Dass
+dies nicht der Fall ist, und dass die Matrizenmultiplikation wirklich im täglichen
+Leben auftritt, soll das folgende Beispiel zeigen.
+Ein Unternehmen stellt n Produkte P1 , . . . , Pn her. Eine Mengeneinheit des Produkts Pi , 1 ≤ i ≤ n, kostet
+pi Euro. Wir fassen die n Preise zu einer Spalte, also
+
+p1
+ . 
+
+einer n × 1-Matrix 
+ .. , zusammen.
+pn
+Nehmen wir an, das Unternehmen hätte m Kunden, die Aufträge
+für die Produkte
+
+
+gegeben haben. Die Auftragsmengen für den Kunden 1 seien q11 . . . q1n , dabei
+bezeichnet der erste Index den Kunden und der zweite Index die Produktnummer.
+Als Beispiel: q14 sagt aus, dass Kunde 1 q14 Einheiten von Produkt P4 bestellt hat.
+Analog seien die Auftragsmengen für die Kunden 2, . . . , m:
+
+
+
+
+q21 · · ·
+..
+.
+
+qm1 · · ·
+
+q2n
+
+
+
+
+
+qmn .
+
+Fassen wir die Auftragsmengen für die m Kunden in einer Matrix zusammen, so
+erhalten wir folgende m × n-Matrix:
+
+
+q11
+ .
+ .
+ .
+
+qm1
+
+
+
+· · · q1n
+.. 
+..
+.
+. 
+.
+· · · qmn
+
+Wir wollen nun den Erlös aus der Bestellung des Kunden i berechnen. Dazu nehmen wir die i-te Zeile dieser Matrix, multiplizieren die Bestellmengen der einzelnen
+Produkte mit deren Preis und addieren alle Produkte:
+qi1 p1 + qi2 p2 + · · · + qin pn =
+
+n
+X
+
+qik pk .
+
+k=1
+
+Das Ergebnis ist der Erlös aus der Bestellung des Kunden i.
+Vereinbaren wir nun eine Multiplikation einer 1 × n-Matrix (einer Zeile mit n
+Einträgen) mit einer n × 1-Matrix (einer Spalte mit n Einträgen) in der gerade
+
+70
+
+2.3. Matrizenmultiplikation
+
+durchgeführten Weise, so ist der Erlösaus der Bestellung des Kunden i gerade das
+Produkt der i-ten Zeile qi1 · · · qin der Bestellmengenmatrix mit der Preisma 
+p1
+ . 
+
+trix 
+ .. .
+pn
+Führen wir diese Rechnungen nun für alle m Kunden durch und schreiben die
+jeweiligen Erlöse wieder in eine Spalte, so erhalten wir:
+
+
+
+
+
+
+q11
+..
+.
+qm1
+
+
+
+
+
+p1
+· · · q1n
+ . 
+.. 
+..
+
+
+.
+.   .. 
+=
+pn
+· · · qmn
+
+
+ n
+X
+q
+p
+1k k 
+
+
+ k=1
+
+
+
+
+..
+.
+
+.
+
+
+n
+
+X
+
+
+
+qmk pk
+
+k=1
+
+In der Spalte rechts des Gleichheitszeichens stehen die Erlöse aus den Bestellungen
+der Kunden des Unternehmens.
+Was Sie hier gesehen haben ist ein Beispiel für die Multiplikation einer m × nMatrix (der Bestellmengenmatrix) mit einer n × 1-Matrix (der Preismatrix). Das
+Ergebnis ist eine m×1-Matrix, in der die Erlöse aus den Bestellungen der einzelnen
+Kunden aufgelistet sind. Wir werden die in diesem Beispiel vorgeführte Art der
+Multiplikation von Matrizen in den folgenden Abschnitten verallgemeinern und
+einige Rechenregeln herleiten.
+
+2.3.2
+
+Wie man Matrizen multipliziert
+
+Wir definieren nun formal eine Multiplikation von Matrizen. Dazu seien
+a11
+ .
+ ..
+
+a12
+..
+.
+
+···
+
+a
+A=
+ i1
+ ..
+ .
+
+ai2
+..
+.
+
+···
+
+
+
+
+
+am1 am2 · · ·
+
+a1n
+.. 
+. 
+
+
+b11 · · ·
+
+
+b21 · · ·
+
+ain 
+ ∈ Mmn (K), B = 
+.
+
+ ..
+.. 
+
+. 
+bn1 · · ·
+amn
+
+
+b1k · · ·
+b2k · · ·
+..
+.
+bnk · · ·
+
+
+
+b1s
+b2s 
+
+.. 
+ ∈ Mns (K).
+. 
+bns
+
+Kapitel 2. Matrizenrechnung
+
+71
+
+Wir setzen
+
+AB = (
+
+n
+X
+
+aij bjk )1≤i≤m =
+1≤k≤s
+
+j=1
+
+ n
+X
+a1j bj1
+
+ j=1
+
+n
+X
+
+
+a2j bj1
+
+ j=1
+
+..
+
+
+.
+ n
+X
+
+a b
+
+n
+X
+j=1
+n
+X
+j=1
+n
+X
+
+mj j1
+
+j=1
+
+a1j bj2
+a2j bj2
+..
+.
+
+···
+···
+...
+
+amj bj2 · · ·
+
+j=1
+
+n
+X
+j=1
+n
+X
+
+
+
+a1j bjs 
+
+
+
+
+
+a2j bjs 
+
+
+j=1
+
+..
+
+
+.
+
+n
+
+X
+a b 
+
+∈ Mms (K).
+
+mj js
+
+j=1
+
+So, tief durchatmen, und dann gehen wir die Definition noch einmal durch.
+Genau dann dürfen wir zwei Matrizen A und B miteinander multiplizieren, wenn
+gilt:
+A hat m Zeilen und n Spalten, und B hat n Zeilen und s Spalten. Das Ergebnis
+hat dann m Zeilen und s Spalten, also AB ∈ Mms (K).
+2.3.1 Aufgabe: Es bezeichne (r × s) eine Matrix in Mrs (K). Wie viele Zeilen und
+Spalten haben die Produkte, falls sie definiert sind?
+(2×3)(3×4), (4×1)(1×2), (1×2)(3×1), (5×2)(2×3), (3×4)(3×4), (2×2)(2×4).
+Um das Produkt AB = C = (cik )1≤i≤m zu berechnen, müssen wir für alle 1 ≤ i ≤ m
+1≤k≤s
+
+und 1 ≤ k ≤ s angeben, was der Eintrag cik in C ist. Dazu folgende
+2.3.2 Merkregel: Um cik zu ermitteln, legen wir die i-te Zeile von A und die
+k-te Spalte von B übereinander, multiplizieren das, was aufeinander liegt und
+summieren dann alles auf.
+Also: Wenn wir cik bei der Matrizenmultiplikation
+..
+..
+.
+ .
+
+ai1 ai2 · · ·
+
+..
+..
+.
+.
+
+
+
+···
+..
+. 
+· · ·
+ain 
+
+
+..  
+.
+···
+
+
+
+b1k · · ·
+
+b2k · · · 
+=
+· · ·
+..
+
+
+
+.
+bnk · · ·
+
+
+
+
+..
+.
+
+cik · · ·
+
+
+..
+.
+
+
+
+
+bestimmen wollen, legen wir die i-te Zeile ai1 ai2 . . . ain und die k-te Spalte
+
+
+b1k
+
+
+
+
+ai1 ai2 . . . ain
+ b2k 
+ .  übereinander: 
+ multiplizieren das, was übereinander . 
+b1k b2k . . . bnk ,
+ . 
+bnk
+
+72
+
+2.3. Matrizenmultiplikation
+
+liegt: ai1 b1k , ai2 b2k , . . . , ain bnk und bilden die Summe: cik = ai1 b1k + ai2 b2k + · · · +
+ain bnk =
+
+n
+X
+
+aij bjk .
+
+j=1
+
+!
+
+
+
+x
+2.3.3 Beispiele: (a) Seien
+∈ M21 (K) und u v ∈ M12 (K). Dann gilt
+y
+!
+
+!
+
+
+x 
+xu xv
+u v =
+∈ M22 (K)
+y
+yu yv
+
+und
+
+
+u v
+
+
+
+!
+
+x
+= (ux + vy) ∈ M11 (K).
+y
+
+
+
+
+1 0 1 0
+1 0 1
+
+(b) Seien A =
+∈ M23 (R) und B = 
+0 1 0 0 ∈ M34 (R). Dann gilt
+0 1 0
+0 0 1 1
+!
+
+
+
+
+
+1 0 1 0
+1 0 1 
+
+0 1 0 0 =
+0 1 0
+0 0 1 1
+!
+
+!
+
+1·1+0·0+1·0 1·0+0·1+1·0 1·1+0·0+1·1 1·0+0·0+1·1
+=
+0·1+1·0+0·0 0·0+1·1+0·0 0·1+1·0+0·1 0·0+1·0+0·1
+!
+
+1 0 2 1
+∈ M24 (R).
+0 1 0 0
+Das Produkt BA ist nicht definiert.
+2.3.4 Aufgabe: Berechnen Sie folgende Produkte AB und BA von Matrizen A
+und B über R, falls sie definiert sind.
+!
+
+!
+
+1 3
+2 0 −4
+(a) A =
+,B =
+.
+2 −1
+3 −2 6
+!
+
+1 −2 0
+(b) A = 2 1 , B =
+.
+4 5 −3
+
+
+
+
+
+
+
+
+!
+2 −1
+1 −2 −5
+
+
+0 ,B =
+(c) A =  1
+.
+3 4
+0
+−3 4
+
+Kapitel 2. Matrizenrechnung
+
+2.3.3
+
+73
+
+Regeln der Matrizenmultiplikation
+
+Es gibt eine Matrix, bei der sich die Matrizenmultiplikation ausgesprochen einfach
+gestaltet, und diese Matrix ist so wichtig, dass sie einen Namen bekommt.
+2.3.5 Definition: Die Matrix Im = (aij ) ∈ Mmm (K) mit aii = 1 für alle 1 ≤ i ≤ m
+und aij = 0 für alle i 6= j wird die m × m-Einheitsmatrix genannt.
+0 ···
+1 ···
+.. . .
+.
+.
+0 0 ···
+1 und deren übrige Einträge
+
+
+1
+
+0
+Es ist also Im = 
+ ..
+.
+
+
+
+0
+0
+
+.. 
+ ∈ Mmm (K) die Matrix, deren Diagonalelemente
+.
+1
+0 sind.
+
+2.3.6 Proposition: (Regeln der Matrizenmultiplikation)
+Seien A = (aij ) ∈ Mmn (K), B = (bij ) ∈ Mns (K), C = (cij ) ∈ Mst (K). Dann gilt:
+(a) (Assoziativgesetz:) (AB)C = A(BC).
+(b) (Eins:) Im A = A.
+(c) (Eins0 :) AIn = A.
+
+Beweis:
+(a) Sei D = (dij ) = (AB)C. Es ist AB ∈ Mms (K) und C ∈ Mst (K), also D ∈
+Mmt (K).
+Sei D0 = (d0ij ) = A(BC). Es ist A ∈ Mmn (K) und BC ∈ Mnt (K), also D0 ∈
+Mmt (K).
+Wir müssen zeigen, dass dil = d0il gilt, für alle 1 ≤ i ≤ m und 1 ≤ l ≤ t.
+Um dil zu berechnen, müssen wir die i-te Zeile von AB betrachten
+und die l-te
+!
+Spalte von C. Es sind
+
+n
+X
+
+j=1
+
+aij bj1
+
+n
+X
+
+j=1
+
+aij bj2 · · ·
+
+n
+X
+
+j=1
+
+aij bjs
+
+die i-te Zeile von
+
+74
+
+2.3. Matrizenmultiplikation
+
+
+
+
+c1l
+ 
+c2l 
+
+AB und 
+ ..  die l-te Spalte von C. Dann gilt:
+ . 
+csl
+dil = (
+=
+
+n
+X
+
+aij bj1 )c1l + (
+
+n
+X
+
+aij bj2 )c2l + · · · + (
+
+n
+X
+
+j=1
+n
+X
+
+j=1
+n
+X
+
+j=1
+n
+X
+
+j=1
+
+j=1
+
+j=1
+
+(aij bj1 )c1l +
+
+(aij bj2 )c2l + · · · +
+
+aij bjs )csl
+
+(aij bjs )csl
+
+denn in K gelten die Distributivgesetze
+=
+=
+=
+
+s X
+n
+X
+
+(aij bjk )ckl
+
+k=1 j=1
+n X
+s
+X
+
+(aij bjk )ckl mit der Merkregel 1.1.1
+
+j=1 k=1
+n X
+s
+X
+
+aij (bjk ckl ).
+
+j=1 k=1
+
+
+
+Um d0il zu berechnen, betrachten wir die i-te Zeile ai1 ai2 · · ·
+
+und die l-te Spalte
+
+
+ s
+X
+b1k ckl 
+
+
+ k=1
+
+ s
+
+X
+
+b2k ckl 
+
+
+
+ k=1
+
+
+
+
+.
+..
+
+
+
+
+s
+
+X
+
+
+
+
+
+ain von A
+
+von BC.
+
+bnk ckl
+
+k=1
+
+Es folgt:
+d0il = ai1
+=
+=
+
+s
+X
+
+s
+X
+
+b1k ckl + ai2
+
+k=1
+
+ai1 (b1k ckl )
+k=1
+n X
+s
+X
+
++
+
+s
+X
+
+b2k ckl + · · · + ain
+
+s
+X
+
+bnk ckl
+
+k=1
+s
+X
+
+k=1
+s
+X
+
+k=1
+
+k=1
+
+ai2 (b2k ckl ) + · · · +
+
+ain (bnk ckl )
+
+aij (bjk ckl )
+
+j=1 k=1
+
+= dil , und wir haben es geschafft.
+(b) Sei D = (dij ) = Im A ∈ Mmn (K). Für alle 1 ≤ i ≤ m und alle 1 ≤ j ≤ n gilt
+dij = 0 · a1j + 0 · a2j + · · · + 0 · ai−1,j + 1 · aij + 0 · ai+1,j · · · + 0 · amj = aij .
+Es folgt Im A = A.
+
+Kapitel 2. Matrizenrechnung
+
+75
+
+(c) Analog zu (b).
+2
+Die Matrizenmultiplikation ist keine Verknüpfung auf Mmn (K), denn wenn m und
+n verschieden sind, können wir zwei m × n-Matrizen nicht miteinander multiplizieren. Das ist anders, wenn m = n ist. Zwei n × n-Matrizen können wir miteinander
+multiplizieren, und das Ergebnis ist wieder eine n × n-Matrix. Proposition 2.3.6
+sichert, dass diese Verknüpfung assoziativ ist und ein neutrales Element besitzt,
+nämlich die n × n-Einheitsmatrix In . Wie steht es mit der Kommutativität? Gilt
+für je zwei n × n-Matrizen A und B, dass AB = BA gilt? Die Antwort ist ein
+klares „nein“, oder besser ein „fast immer nein“. Wenn A = (a) und B = (b) beide
+1 × 1-Matrizen sind, dann gilt natürlich AB = (ab) = (ba) = BA. Wenn n aber
+größer als 1 ist, dann gibt es immer Matrizen A, B ∈ Mnn (K), für die AB 6= BA
+gilt. Als Beispiel betrachten wir für n > 1 folgende Matrizen:
+0 ··· 0 0
+0
+
+0 · · · 0 0
+
+0
+und B = 
+.. . . .. .. 
+ ..
+. . .
+
+.
+.
+0 0 ··· 0 0
+0
+
+
+
+
+
+1
+
+0
+A=
+ ..
+.
+
+
+
+
+
+0 ··· 0 1
+0 · · · 0 0
+
+in Mnn (K). Dann gilt
+.. . . .. .. 
+. . .
+
+.
+0 ··· 0 0
+
+
+0 ··· 0 0
+0 0
+
+0 · · · 0 0  0 0
+
+.. . . .. .. 
+  .. ..
+.
+.
+. . . .
+0 0 ··· 0 0
+0 0
+
+··· 0 1
+0
+
+
+· · · 0 0  0
+=
+. . .. .. 
+ ..
+. . .
+
+.
+··· 0 0
+0
+
+0 ··· 0 1
+0 · · · 0 0
+
+=B
+.. . . .. .. 
+. . .
+
+.
+0 ··· 0 0
+
+1 0
+0 ··· 0 1
+
+0 · · · 0 0 0 0
+. .
+.. . . .. .. 
+
+. . .
+  .. ..
+.
+0 0 ··· 0 0
+0 0
+
+··· 0 0
+0
+
+
+· · · 0 0  0
+=
+. . .. .. 
+ ..
+. . .
+
+.
+··· 0 0
+0
+
+0 ··· 0 0
+0 · · · 0 0
+
+= 0,
+.. . . .. .. 
+. . .
+
+.
+0 ··· 0 0
+
+1
+
+0
+AB = 
+ ..
+.
+
+
+
+
+
+
+
+
+
+und
+
+
+0
+
+0
+BA = 
+ ..
+.
+
+
+
+
+
+
+
+
+
+also AB 6= BA.
+2.3.7 Aufgabe: Geben Sie ein Beispiel für eine 2 × 2-Matrix A, die nicht die
+Nullmatrix ist, und für die A2 = A · A = 0 gilt. (Achtung, hier ist 0 die Nullmatrix,
+also eine 2 × 2-Matrix.)
+Halten wir unsere Überlegungen fest:
+2.3.8 Proposition: Die Matrizenmultiplikation ist eine Vernüpfung auf Mnn (K).
+Sie ist assoziativ und besitzt ein neutrales Element, nämlich In . Für n > 1 ist sie
+nicht kommutativ.
+
+
+76
+
+2.3. Matrizenmultiplikation
+
+Wie immer bei Mengen mit einer Verknüpfung, die ein neutrales Element besitzt,
+interessiert man sich auch bei der Matrizenmultiplikation quadratischer Matrizen
+für Invertierbarkeit. Noch einmal zur Erinnerung (vergleichen Sie mit Definition
+1.5.7):
+2.3.9 Definition: Eine Matrix A ∈ Mnn (K) heißt invertierbar, wenn es eine
+Matrix A−1 in Mnn (K) so gibt, dass A−1 A = AA−1 = In ist.
+Ist A invertierbar, so ist auch A−1 invertierbar. Invers zu A−1 ist A.
+Im Gegensatz zu den Fällen, die wir bisher diskutiert haben (invertierbare Elemente in Körpern oder invertierbare Elemente in Z), wird die Frage, welche quadratischen Matrizen invertierbar sind, und wie man inverse Elemente zu invertierbaren
+Matrizen finden kann, gar nicht einfach zu beantworten sein. Wir werden uns mit
+der Klärung dieser Frage in Kapitel 4.5 beschäftigen.
+!
+
+!
+
+1 0
+a b
+2.3.10 Aufgabe: Sei A =
+∈ M22 (K). Sei B =
+eine beliebige
+0 0
+c d
+Matrix in M22 (K). Berechnen Sie AB. Beweisen Sie, dass A nicht invertierbar ist.
+2.3.11 Aufgabe: Sei A ∈ Mmm (K) invertierbar. Seien B, C ∈ Mmm (K) Matrizen,
+für die AB = BA = Im und AC = CA = Im gilt. Lassen Sie sich vom Beweis
+von Proposition 1.6.4 inspirieren, und beweisen Sie, dass B = C gilt, dass also das
+inverse Element zu einer invertierbaren Matrix eindeutig ist.
+Produkte invertierbarer Matrizen sind invertierbar, wie die folgende Proposition
+zeigt. Allerdings müssen wir die Reihenfolge der Matrizen beachten. Das ist nicht
+überraschend und passiert auch im täglichen Leben: Der inverse Vorgang von „Einsteigen und Türen schließen“ ist „Türen öffnen und aussteigen“ und nicht „Aussteigen und Türen öffnen„.
+2.3.12 Proposition: Seien A1 , . . . , Am invertierbare Matrizen in Mnn (K). Dann
+−1
+ist das Produkt A = A1 · · · Am invertierbar, und A−1 = A−1
+m · · · A1 .
+Beweis: Wir beweisen die Behauptung mit Induktion nach m (vergleiche Abschnitt 1.2.4).
+Im Induktionsanfang setzen wir m = 1. Nach Annahme ist A = A1 invertierbar,
+und es gilt A−1 = A−1
+1 .
+Als Induktionsannahme nehmen wir an, dass die Behauptung für m ≥ 1 invertierbare Matrizen A1 , . . . , Am richtig ist. Im Induktionsschritt betrachten wir m + 1
+
+Kapitel 2. Matrizenrechnung
+
+77
+
+invertierbare Matrizen A1 , . . . , Am , Am+1 in Mnn (K). Es gilt
+A1 · · · Am · Am+1 = (A1 · · · Am ) · Am+1 .
+Nach Induktionsannahme ist A = A1 · · · Am invertierbar. Auch Am+1 ist invertierbar, und es gilt
+−1
+−1
+−1
+= AIn A−1 = AA−1 = In
+(AAm+1 )(A−1
+m+1 A ) = A(Am+1 Am+1 )A
+
+und
+−1
+−1
+−1
+−1
+−1
+(A−1
+m+1 A )(AAm+1 ) = Am+1 (A A)Am+1 = Am+1 In Am+1 = Am+1 Am+1 = In .
+−1
+Somit ist AAm+1 = A1 · · · Am ·Am+1 invertierbar und invers zu AAm+1 ist A−1
+m+1 A .
+−1
+−1
+−1
+Nach Induktionsannahme ist A = Am · · · A1 , und es folgt
+−1
+−1
+−1
+(A1 · · · Am · Am+1 )−1 = A−1
+= A−1
+m+1 A
+m+1 Am · · · A1 .
+
+Mit dem Prinzip der vollständigen Induktion folgt die Behauptung.
+
+2.4
+
+2
+
+Gemischte Rechenregeln für Matrizen
+
+Während sich die Propositionen in den letzten Abschnitten jeweils mit einer Rechenoperation wie Matrizenaddition, der Skalarmultiplikation und der Matrizenmultiplikation beschäftigten, werden wir hier untersuchen, wie das Zusammenspiel
+der verschiedenen Rechenoperationen funktioniert.
+2.4.1 Proposition: (Gemischte Rechenregeln für Matrizen)
+Seien A = (aij ), A0 = (a0ij ) ∈ Mmn (K), B = (bij ), B 0 = (b0ij ) ∈ Mns (K), und sei
+r ∈ K. Dann gilt:
+(a) (Distributivgesetz:) (A + A0 )B = AB + A0 B.
+(b) (Distributivgesetz:) A(B + B 0 ) = AB + AB 0 .
+(c) (rA)B = r(AB) = A(rB)
+(d) (−1)A = −A.
+Beweis:
+
+78
+
+2.4. Gemischte Rechenregeln für Matrizen
+
+(a) Sei D = (A + A0 )B = (dik )1≤i≤m ∈ Mms (K).
+1≤k≤s
+
+b11 · · · b1s
+a011 · · · a01n
+a11 · · · a1n
+ .
+
+
+
+
+.
+.
+.
+.
+0
+. . . .. 
+.
+.
+
+
+
+..
+.. 
+..
+.. 
+(A + A )B = 
+. 
+
+ ..
++ ..
+ ..
+0
+0
+bn1 · · · bns
+am1 · · · amn
+am1 · · · amn
+
+
+ 
+
+
+
+a11 + a011
+
+..
+=
+.
+
+
+
+am1 + a0m1
+
+
+
+b11 · · · b1s
+· · · a1n + a01n
+ .
+. 
+..
+..
+..
+
+
+. .. 
+.
+.
+
+  ..
+bn1 · · · bns
+· · · amn + a0mn
+
+
+
+
+Es folgt
+dik = (ai1 + a0i1 )b1k + (ai2 + a0i2 )b2k + · · · + (ain + a0in )bnk
+= ai1 b1k + a0i1 b1k + ai2 b2k + a0i2 b2k + · · · + ain bnk + a0in bnk
+= (ai1 b1k + ai2 b2k + · · · + ain bnk ) + (a0i1 b1k + a0i2 b2k + · · · + a0in bnk )
+=
+
+n
+X
+
+aij bjk +
+
+j=1
+
+Nun ist
+
+n
+X
+
+n
+X
+
+a0ij bjk .
+
+j=1
+
+aij bjk aber gerade der Eintrag im Schnittpunkt der i-ten Zeile und
+
+j=1
+
+der k-ten Spalte von AB, und
+
+n
+X
+
+a0ij bjk ist der Eintrag im Schnittpunkt der
+
+j=1
+
+i-ten Zeile mit der k-ten Spalte von A0 B. Es gilt also (A + A0 )B = AB + A0 B,
+die Behauptung.
+(b) Der Beweis ist analog zu (a).
+(c)
+
+
+
+
+
+
+ra11 · · · ra1n
+b11 · · · b1s
+ .
+ .
+.
+.
+. . . .. 
+
+..
+.. 
+(rA)B = 
+. 
+ ..
+  ..
+
+ram1 · · · ramn
+bn1 · · · bns
+
+=
+
+ n
+X
+ra1j bj1
+
+
+ j=1
+
+..
+
+.
+
+ n
+X
+
+ramj bj1
+j=1
+
+···
+
+n
+X
+
+
+
+ra1j bjs 
+
+
+
+
+..
+
+.
+
+
+n
+X
+
+ramj bjs 
+j=1
+
+...
+···
+
+j=1
+
+= r(AB)
+
+Kapitel 2. Matrizenrechnung
+
+=
+
+ n
+X
+a1j rbj1
+
+
+ j=1
+
+..
+
+.
+
+ n
+X
+
+amj rbj1
+j=1
+
+79
+
+···
+
+n
+X
+
+
+
+a1j rbjs 
+
+
+
+
+..
+
+.
+
+
+n
+X
+
+amj rbjs 
+j=1
+
+..
+
+.
+
+···
+
+= A(rB)
+
+j=1
+
+(d)
+(−1)A = (−1)(aij ) = ((−1)aij ) = (−aij ) = −A.
+Beim dritten Gleichheitszeichen haben wir benutzt, dass (−1)a = −a für alle
+a ∈ K gilt (vergleichen Sie mit Bemerkung 1.6.6)
+2
+Wenn Sie üben wollen, mehr Beispiele möchten, und überprüfen möchten, ob Sie
+richtig gerechnet haben, können Sie unseren Matrizentaschenrechner verwenden.
+
+Vorweg: Den können Sie nur online benutzen. Mit „Auswahl der Grundeinstellungen“ können Sie die Größen der Matrizen wählen, und wenn Sie dann den Button
+„zur Verarbeitung“ betätigen, dann können Sie für A und B Matrizen zufällig
+
+80
+
+2.4. Gemischte Rechenregeln für Matrizen
+
+erzeugen lassen. Einige Buttons werden Ihnen (noch) nichts sagen. Aber die müssen Sie ja nicht bedienen. Die Grundrechenarten mit Matrizen können Sie aber
+duchführen. Bevor es losgeht eine Warnung: Wenn Sie längere Zeit mit dem Applet nicht arbeiten, werden Sie vom Computing-Server abgeklemmt. Sie müssen
+dann auf „neu laden“ oder „Aktualisieren“ in Ihrem Browserfenster drücken. Die
+Einstellungen, die Sie vorher vorgenommen haben, sind dann allerdings weg. Sie
+finden den Matrizentaschenrechner indem sie den Links in der Virtuellen Universität folgen oder den Screenshot anklicken.
+
+Lösungen der Aufgaben
+Lösungen der Aufgaben in 2.1
+Aufgabe 2.1.4
+!
+
+1 2 0
+1. Es sind A =
+∈ M23 (R), also m = 2 und n =
+0 1 1
+
+0 0 3
+
+M13 (R), also m = 1 und n = 3, und C = 2 3 2
+0 2 1
+m = 3 und n = 4.
+
+
+
+
+
+3, B = 1 0 1 ∈
+
+
+0
+1
+ ∈ M34 (R), also
+1
+
+2. Der Eintrag an der Stelle (1, 3) in A ist 0, der Eintrag an der Stelle (1, 3) in
+B ist 1, und der Eintrag an der Stelle (1, 3) in C ist 3.
+3. Diagonalelemente sind nur für quadratische Matrizen definiert. Da A, B
+und C nicht quadratisch sind, lassen sich also keine Diagonalelemente dieser
+Matrizen bestimmen.
+Aufgabe 2.1.6 Wir können natürlich A + A, B + B und C + C bilden. Andere
+Summen lassen sich allerdings nicht bilden, denn weder A noch B noch C haben
+dieselbe Anzahl von Zeilen und Spalten.
+!
+
+Aufgabe 2.1.7 Seien A =
+
+1 0 1
+1 1 1
+
+!
+
+und B =
+
+0 1 0
+. Es ist A + B =
+1 1 0
+
+!
+
+1+0 0+1 1+0
+.
+1+1 1+1 1+0
+!
+
+1 1 1
+1. Es folgt A+B =
+, wenn wir A und B als Matrizen über R auffassen.
+2 2 1
+!
+
+2. Es folgt A + B =
+
+1 1 1
+, wenn wir A und B als Matrizen über F2
+0 0 1
+81
+
+82
+
+Lösungen der Aufgaben zu Kapitel 2
+
+auffassen, denn 1 + 1 = 0 in F2 .
+Aufgabe 2.1.9
+Behauptung Seien m, n ∈ N, und sei A ∈ Mmn (F2 ). Es gilt A = −A.
+
+
+
+
+a11 · · · a1n
+ .
+.. 
+...
+
+Beweis: Sei A =  ..
+. 
+ ∈ Mmn (F2 ).
+am1 · · · amn
+Um die Behauptung zu beweisen, müssen wir zeigen, dass A + A = 0 ist (hier
+bezeichnet 0 die m × n-Nullmatrix). Wenn wir dies gezeigt haben, dann ist A
+das bezüglich der Addition zu A inverse Element, und das hatten wir mit −A
+bezeichnet.
+
+
+
+
+a11 + a11 · · · a1n + a1n
+
+
+..
+..
+..
+. Für alle 1 ≤ i ≤ m und 1 ≤ j ≤ n
+
+Es ist A + A = 
+.
+.
+.
+
+am1 + am1 · · · amn + amn
+gilt aij + aij = 0, denn wenn aij = 0 ist, so folgt 0 + 0 = 0, und wenn aij = 1 ist,
+so gilt 1 + 1 = 0 in F2 . Somit gilt
+
+
+a11 + a11
+
+..
+A+A=
+.
+
+
+···
+...
+
+am1 + am1 · · ·
+
+
+
+
+
+
+
+a1n + a1n
+0 ··· 0
+
+
+. .
+..
+ = .
+. . ... 
+.
+
+.
+,
+amn + amn
+0 ··· 0
+
+und es folgt – wie wir oben überlegt hatten – die Behauptung.
+
+Lösung der Aufgabe in 2.2
+!
+
+!
+
+1 2 3
+2 1 3
+Aufgabe 2.2.2 Seien A =
+und B =
+in M23 (Q).
+1 0 1
+2 2 1
+Es ist
+!
+
+2A =
+
+2·1 2·2 2·3
+2·1 2·0 2·1
+!
+
+=
+
+2 4 6
+2 0 2
+
+Lösungen der Aufgaben zu Kapitel 2
+
+83
+
+Weiter ist
+
+!
+
+3B =
+
+3·2 3·1 3·3
+3·2 3·2 3·1
+!
+
+=
+
+6 3 9
+6 6 3
+
+Somit gilt
+!
+
+2A − 3B =
+
+!
+
+2 4 6
+6 3 9
+−
+2 0 2
+6 6 3
+!
+
+=
+
+−4 1 −3
+−4 −6 −1
+
+Lösungen der Aufgaben in 2.3
+Aufgabe 2.3.1
+1. Es ist (2 × 3)(3 × 4) eine 2 × 4-Matrix, das Produkt hat also 2 Zeilen und 4
+Spalten.
+2. Es ist (4 × 1)(1 × 2) eine 4 × 2-Matrix, das Produkt hat also 4 Zeilen und 2
+Spalten.
+3. Bei (1 × 2) und (3 × 1) sind die inneren Zahlen, also 2 und 3 verschieden.
+Das Produkt ist also nicht definiert.
+4. Es ist (5 × 2)(2 × 3) eine 5 × 3-Matrix, das Produkt hat also 5 Zeilen und 3
+Spalten.
+5. Das Produkt ist nicht definiert.
+6. Es ist (2 × 2)(2 × 4) eine 2 × 4-Matrix, das Produkt hat also 2 Zeilen und 4
+Spalten.
+Aufgabe 2.3.4
+!
+
+!
+
+2 0 −4
+1 3
+1. Da A =
+eine 2 × 2 und B =
+eine 2 × 3-Matrix ist,
+3 −2 6
+2 −1
+ist das Produkt AB definiert, und AB ist eine 2 × 3-Matrix.
+Um die Einträge in der ersten Zeile von AB zu berechnen,
+wir
+!
+!
+! multiplizieren
+
+
+2
+0
+−4
+und
+von B.
+die erste Zeile 1 3 von A mit den Spalten
+,
+3
+−2
+6
+
+84
+
+Lösungen der Aufgaben zu Kapitel 2
+
+Um die Einträge in der zweiten Zeile von AB zu berechnen,
+multiplizieren
+!
+!
+!
+
+
+2
+0
+−4
+wir die zweite Zeile 2 −1 von A mit den Spalten
+,
+und
+3
+−2
+6
+von B.
+!
+
+1·2+3·3
+1 · 0 + 3 · (−2)
+1 · (−4) + 3 · 6
+2 · 2 + (−1) · 3 2 · 0 + (−1) · (−2) 2 · (−4) + (−1) · 6
+
+AB =
+
+!
+
+11 −6 14
+1 2 −14
+
+=
+
+Es ist B eine 2×3-Matrix, und A ist eine 2×2-Matrix. Da die inneren Zahlen
+3 und 2 verschieden sind, ist das Produkt BA nicht definiert.
+!
+
+1 −2 0
+2. Da A = 2 1 eine 1 × 2-Matrix und B =
+eine 2 × 3-Matrix
+4 5 −3
+ist, ist das Produkt AB definiert, und AB ist eine 1 × 3-Matrix. AB ist also
+eine Zeile mit drei Einträgen. Um diese zu ermitteln, multiplizieren wir die
+(einzige) Zeile von A mit allen Spalten von B.
+
+
+
+
+AB =
+
+
+
+2 · 1 + 1 · 4 2 · (−2) + 1 · 5 2 · 0 + 1 · (−3)
+
+=
+
+
+
+6 1 −3
+
+
+
+
+
+Es ist B eine 2×3-Matrix, und A ist eine 1×2-Matrix. Da die inneren Zahlen
+3 und 1 verschieden sind, ist das Produkt BA nicht definiert.
+
+
+
+
+!
+2 −1
+1 −2 −5
+
+
+0  eine 3 × 2-Matrix und B =
+3. Da A =  1
+eine 2 × 33 4
+0
+−3 4
+Matrix ist, ist das Produkt AB definiert, und AB ist eine 3 × 3-Matrix.
+
+
+
+
+2 − 3 −4 − 4 −10 + 0
+
+
+AB =  1 + 0 −2 + 0 −5 + 0 
+−3 + 12 6 + 16 15 + 0
+
+
+
+
+−1 −8 −10
+
+=  1 −2 −5 
+
+9 22 15
+Da B eine 2 × 3-Matrix und A eine 3 × 2-Matrix ist, ist das Produkt BA
+
+Lösungen der Aufgaben zu Kapitel 2
+
+85
+
+definiert, und BA ist eine 2 × 2-Matrix.
+!
+
+BA =
+
+2 − 2 + 15 −1 + 0 − 20
+6 + 4 + 0 −3 + 0 + 0
+!
+
+=
+
+15 −21
+10 −3
+
+Aufgabe 2.3.7 Gesucht ist ein Beispiel für eine 2 × 2-Matrix A, die nicht die
+Nullmatrix ist, und für die A2 = A! · A = 0 gilt. Um so ein Beispiel zu!finden,
+a b
+a2 + bc ab + bd
+machen wir den Ansatz A =
+und bilden A2 =
+. Jetzt
+c d
+ca + dc cb + d2
+versuchen wir, a, b, c und d so zu wählen, dass nicht alle Null sind, dass aber
+a2 + bc = 0, ab + bd = 0, ca + dc = 0 und cb + d2 = 0 !ist. Möglich wäre da zum
+!
+0 1
+0
+0
+Beispiel a = 0, b = 1, c = 0 und d = 0. Für A =
+gilt dann A2 =
+,
+0 0
+0 0
+und A ist nicht die Nullmatrix.
+!
+
+!
+
+1 0
+a b
+Aufgabe 2.3.10 Sei A =
+∈ M22 (K). Sei B =
+eine beliebige Matrix
+0 0
+c d
+!
+a b
+in M22 (K). Dann gilt AB =
+.
+0 0
+!
+
+1 0
+Behauptung Die Matrix A =
+∈ M22 (K) ist nicht invertierbar.
+0 0
+Beweis: Wir führen den Beweis durch Widerspruch (vergleiche Abschnitt 1.2.5).
+Das bedeutet, wir werden annehmen, A sei invertierbar, und diese Annahme zu
+einem Widerspruch führen:
+!
+
+Angenommen, A ist invertierbar. Dann gibt es eine Matrix A−1 =
+
+a b
+c d
+
+∈
+
+M22 (K), so dass gilt:
+AA
+
+−1
+
+1 0
+=
+0 0
+
+!
+
+!
+
+!
+
+!
+
+a b
+a b
+1 0
+=
+=
+.
+c d
+0 0
+0 1
+
+Indem wir die Einträge in den letzten beiden Matrizen in dieser Gleichungskette
+vergleichen, sehen wir, dass 1 = 0 sein muss. Das ist ein Widerspruch, denn in
+einem Körper sind die Elemente 1 und 0 immer verschieden. Dieser Widerspruch
+zeigt, dass die Annahme, A sei invertierbar, falsch gewesen ist, und es folgt dass
+A nicht invertierbar ist. Das ist aber gerade die Behauptung.
+2
+
+86
+
+Lösungen der Aufgaben zu Kapitel 2
+
+Aufgabe 2.3.11 Sei A ∈ Mmm (K) invertierbar. Seien B, C ∈ Mmm (K) Matrizen,
+für die AB = BA = Im und AC = CA = Im gilt.
+Behauptung Es gilt B = C.
+Beweis: Nach Voraussetzung gilt AB = AC. Da A invertierbar ist, gibt es eine
+Matrix A−1 ∈ Mmm (K) mit A−1 A = Im . Wir multiplizieren die Gleichung AB =
+AC von links mit A−1 und erhalten
+A−1 (AB) = A−1 (AC).
+Da das Assoziativgesetz gilt (siehe Proposition 2.3.6), können wir umklammern
+und erhalten
+(A−1 A)B = (A−1 A)C, also Im B = Im C.
+Mit Proposition 2.3.6 folgt B = C, die Behauptung.
+
+2
+
+Kapitel 3
+Zeilenäquivalente Matrizen
+Sei K ein Körper, seien m, n ∈ N, und sei A ∈ Mmn (K).
+Wir werden Matrizen mit Hilfe von drei Regeln umformen, die wir im folgenden
+Abschnitt formulieren werden. Diese Regeln nennen wir elementare Zeilenumformungen. Mit Hilfe von elementaren Zeilenumformungen werden wir im nächsten
+Kapitel Matrizen A in eine einfachere Form, die so genannte Treppennormalform
+zu A, überführen und unter anderem die in Abschnitt 2.3 bereits gestellte Frage,
+wann quadratische Matrizen invertierbar sind und wie wir gegebenenfalls die zu
+einer Matrix A inverse Matrix finden können, beantworten.
+
+3.1
+
+Elementare Zeilenumformungen
+
+Formulieren wir zunächst unsere Umformungsregeln:
+3.1.1 Definition: Die folgenden Manipulationen an A ∈ Mmn (K) nennen wir
+elementare Zeilenumformungen:
+Zij : Vertausche die i-te Zeile mit der j-ten Zeile, wobei i 6= j ist.
+Zi (r): Multipliziere die i-te Zeile mit einem Skalar r ∈ K, wobei r nicht 0 sein
+darf.
+Zij (s): Addiere das s-fache der j-ten Zeile zur i-ten Zeile, wobei s ∈ K und i 6= j
+sind.
+
+
+
+
+1 2 3 0
+
+
+3.1.2 Beispiel: A = 2 4 2 2 ∈ M34 (R).
+3 6 4 3
+87
+
+88
+
+3.2. Elementare Zeilenumformungen und Matrizen
+
+Wenden wir die elementare Zeilenumformung Z23 auf A an, so erhalten wir
+
+
+
+
+
+
+
+
+1 2 3 0
+1 2 3 0
+
+
+
+4 2 2
+3 6 4 3, wenden wir Z3 (6) auf A an, so erhalten wir  2
+, und
+2 4 2 2
+18 36 24 18
+
+
+1 2 3 0
+
+
+wenden wir Z31 (−2) auf A an, so erhalten wir 2 4 2 2.
+1 2 −2 3
+
+3.2
+
+Elementare Zeilenumformungen und Matrizen
+
+Wir werden in diesem Abschnitt zeigen, dass wir elementare Zeilenumformungen
+durch Matrixmultiplikationen realisieren können. Genauer, wir werden zeigen, dass
+es Matrizen Pij , Di (r), Tij (s) (genannt Elementarmatrizen) in Mmm (K) gibt, so
+dass gilt:
+Pij A ist die Matrix, die wir erhalten, indem wir Zij auf A anwenden,
+Di (r)A ist die Matrix, die wir erhalten, indem wir Zi (r) auf A anwenden, und
+Tij (s)A ist die Matrix, die wir erhalten, indem wir Zij (s) auf A anwenden.
+
+3.2.1
+
+Matrizen mit genau einer 1
+
+Wir beginnen mit ganz einfachen Matrizen, nämlich solchen, die genau einen Eintrag 1 besitzen, und deren übrige Einträge 0 sind. Was geschieht, wenn wir solche
+Matrizen von links an eine Matrix A multiplizieren, werden wir jetzt überlegen.
+3.2.1 Definition: Sei Eij ∈ Mmn (K) die Matrix, die an der Stelle (i, j) den Eintrag 1 hat, und deren übrige Einträge 0 sind.
+0
+0
+∈ M44 (R) ist die Matrix 
+
+0
+0
+
+
+Als Beispiel: E24
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+0
+1
+
+.
+0
+0
+
+
+Kapitel 3. Zeilenäquivalente Matrizen
+
+89
+
+1
+ 0
+
+∈ M44 (R), und sei A = 
+−2
+7
+
+
+3.2.2 Aufgabe: Sei E24
+
+2
+1
+4
+6
+
+0
+1
+2
+5
+
+1
+0
+0
+4
+
+0
+1
+
+ ∈ M45 (R).
+6
+3
+
+
+Berechnen Sie E24 A.
+Wenn Sie diese Aufgabe gerechnet haben, wird Sie das folgende Ergebnis nicht
+überraschen.
+3.2.3 Bemerkung: Sei Eij ∈ Mmm (K), und sei A = (aij ) ∈ Mmn (K). Die i-te
+Zeile von Eij A ist die j-te Zeile von A, und die übrigen Einträge von Eij A sind 0.
+Beweis: Sei C = Eij A. Um den Eintrag clk von C zu berechnen, müssen wir die l-te
+Zeile von Eij mit der k-ten Spalte von A multiplizieren. Wenn l 6= i ist, besteht die
+l-te Zeile von Eij nur aus Nullen, es ist also clk = 0 für alle l 6= i und alle 1 ≤ k ≤ n.
+Für l = i ist cik = 0 · a1k + · · · + 0 · aj−1,k + 1 · ajk + 0 · aj+1,k + · · · + 0 · amk = ajk .
+Die i-te Zeile von Eij A ist also die j-te Zeile von A.
+2
+Was geschieht, wenn wir quadratische Matrizen der Form Eij miteinander multiplizieren? Die folgende Proposition gibt darüber Auskunft.
+3.2.4 Proposition: (Multiplikation von Matrizen der Form Eij )
+(
+
+Seien Eij , Ekl ∈ Mmm (K). Dann gilt Eij Ekl =
+
+0 ∈ Mmm (K), falls k =
+6 j
+Eil ,
+falls k = j.
+
+Beweis: Mit 3.2.3 gilt: Die i-te Zeile von Eij Ekl ist die j-te Zeile von Ekl , und alle
+weiteren Einträge sind 0. Wenn k 6= j ist, dann ist die j-te Zeile von Ekl eine Nullzeile, das heißt, alle Einträge der Zeile sind 0. Dann ist Eij E
+ kl die Nullmatrix. Wenn
+
+k = j ist, dann ist die j-te Zeile von Ejl von der Form 0 · · · 0 1 0 · · · 0 ,
+wobei die 1 an der l-ten Stelle steht. Es ist also Eij Ejl = Eil .
+2
+3.2.5 Aufgabe: Die folgenden Matrizen seien in M55 (F2 ). Benutzen Sie Proposition 3.2.4 um ohne Rechnerei die Produkte folgender Matrizen zu bestimmen:
+E23 E23 , E23 E32 und E34 E13 .
+
+3.2.2
+
+Elementarmatrizen
+
+Wir kommen nun zur formalen Definition der Elementarmatrizen. Der Formalismus
+ist hilfreich bei Rechnungen mit diesen Matrizen – wie Sie sich die Definitionen
+
+90
+
+3.2. Elementare Zeilenumformungen und Matrizen
+
+merken können, sagt die Merkregel, die der Definition folgt.
+3.2.6 Definition: Seien Eii , Eij , Ejj , Eji ∈ Mmm (K).
+(a) Für i 6= j sei Pij = Im − Eii + Eij − Ejj + Eji .
+(b) Für r ∈ K \ {0} sei Di (r) = Im + (r − 1)Eii .
+(c) Für i 6= j sei Tij (s) = Im + sEij .
+Die Matrizen Pij , Di (r) und Tij (s) werden Elementarmatrizen genannt.
+3.2.7 Aufgabe: Bilden Sie P24 , D2 (3) und T54 (−2) in M55 (R).
+3.2.8 Merkregel: (a) Die Matrix Pij ∈ Mmm (K) erhalten wir, indem wir eine
+elementare Zeilenumformung vom Typ Zij auf Im anwenden.
+(b) Die Matrix Di (r) ∈ Mmm (K) erhalten wir, indem wir eine elementare Zeilenumformung vom Typ Zi (r) auf Im anwenden.
+(c) Die Matrix Tij (s) ∈ Mmm (K) erhalten wir, indem wir eine elementare Zeilenumformung vom Typ Zij (s) auf Im anwenden.
+Elementarmatrizen tun das, was ich versprochen habe, wie die folgende Proposition
+zeigt:
+3.2.9 Proposition: Sei A ∈ Mmn (K), und seien Pij , Di (r) und Tij (s) Elementarmatrizen in Mmm (K). Dann gilt:
+(a) Pij A ist die Matrix, die wir erhalten, indem wir die elementare Zeilenumformung Zij auf A anwenden.
+(b) Di (r)A ist die Matrix, die wir erhalten, indem wir die elementare Zeilenumformung Zi (r) auf A anwenden.
+(c) Tij (s)A ist die Matrix, die wir erhalten, indem wir die elementare Zeilenumformung Zij (s) auf A anwenden.
+Beweis:
+(a) Es gilt
+Pij A = (Im − Eii + Eij − Ejj + Eji )A
+= Im A − Eii A + Eij A − Ejj A + Eji A
+= (A − Eii A − Ejj A) + (Eij A + Eji A).
+Mit Bemerkung 3.2.3 ist A − Eii A − Ejj A diejenige Matrix, deren Einträge
+
+Kapitel 3. Zeilenäquivalente Matrizen
+
+91
+
+in der i-ten und der j-ten Zeile 0 sind, und deren übrige Einträge mit denen
+in A übereinstimmen. Eij A + Eji A ist diejenige Matrix, deren i-te Zeile die
+j-te Zeile von A ist, deren j-te Zeile die i-te Zeile von A ist, und deren übrige
+Einträge 0 sind. Die Summe (A−Eii A−Ejj A)+(Eij A+Eji A) beider Matrizen
+hat also die in der Behauptung geforderte Gestalt.
+(b) Es gilt
+Di (r)A = (Im + (r − 1)Eii )A
+= (A − Eii A) + rEii A.
+Die i-te Zeile von A − Eii A ist also eine Nullzeile, die übrigen Einträge von
+A − Eii A entsprechen denen von A. Die i-te Zeile von rEii A ist das r-fache der
+i-ten Zeile von A, die übrigen Einträge sind 0. Die Summe (A − Eii A) + rEii A
+hat also die geforderte Gestalt.
+(c) Es gilt
+Tij (s)A = (Im + sEij )A
+= A + sEij A.
+Die i-te Zeile von sEij A ist das s-fache der j-ten Zeile von A, die übrigen Einträge von sEij A sind 0. Die Summe beider Matrizen hat damit die geforderte
+Gestalt.
+2
+
+
+
+
+1 2 3 4
+
+3.2.10 Aufgabe: Sei A = 5 6 7 8
+, und sei B die Matrix, die aus A entsteht,
+9 0 1 2
+indem wir die erste und die dritte Zeile von A vertauschen, dann die neue erste
+Zeile mit 6 multiplizieren und dann die zweite Zeile zur dritten addieren. Berechnen
+Sie B und bestimmen Sie eine 3 × 3-Matrix S, so dass SA = B ist.
+Elementarmatrizen sind invertierbar, wie das folgende Ergebnis zeigt:
+3.2.11 Proposition: Elementarmatrizen sind invertierbar, und ihre inversen Matrizen sind wieder Elementarmatrizen.
+Beweis: Wir beweisen die Behauptung getrennt nach den verschiedenen Typen
+von Elementarmatrizen.
+(a) Sei Pij ∈ Mmm (K). Die Matrix Pij entsteht aus der Einheitsmatrix, indem
+wir in Im die i-te und die j-te Zeile vertauschen. Im ist also die Matrix, die
+aus Pij hervorgeht, indem wir in Pij die i-te und die j-te Zeile vertauschen.
+
+92
+
+3.3. Zeilenäquivalenz
+
+Mit Proposition 3.2.9, Teil (a), gilt dann Pij Pij = Im . Die Matrix Pij ist also
+invertierbar und zu sich selbst invers.
+(b) Sei Di (r) ∈ Mmm (K), r 6= 0. Es ist Di ( 1r )Di (r) die Matrix, die aus Di (r) durch
+eine elementare Zeilenumformung vom Typ Zi ( 1r ) hervorgeht, das heißt, der
+Eintrag r an der Stelle (i, i) wird durch 1r r = 1 ersetzt. Es ist also Di ( 1r )Di (r) =
+Im . Analog zeigt man, dass Di (r)Di ( 1r ) = Im ist, und dies zeigt, dass Di (r)
+invertierbar mit inverser Matrix Di ( 1r ) ist.
+(c) Sei Tij (s) ∈ Mmm (K). Es ist Tij (−s)Tij (s) die Matrix, die aus Tij (s) durch
+eine elementare Zeilenumformung vom Typ Zij (−s) hervorgeht. Damit wird
+der Eintrag s an der Stelle (i, j) durch s − s = 0 ersetzt, und das Resultat ist
+die Einheitsmatrix. Somit gilt Tij (−s)Tij (s) = Im , und analog wird gezeigt,
+dass Tij (s)Tij (−s) = Im ist. Somit ist Tij (s) invertierbar mit inverser Matrix
+Tij (−s).
+2
+3.2.12 Aufgabe: Welches sind die inversen Matrizen zu P24 , D2 (3) und T54 (−2)
+in M55 (R)?
+
+3.3
+
+Zeilenäquivalenz
+
+Seien A, B ∈ Mmn (K). Angenommen, A geht aus B durch endlich viele elementare
+Zeilenumformungen hervor. Im letzten Abschnitt haben wir gesehen, dass es dann
+endlich viele Elementarmatrizen E1 , . . . , Er gibt, so dass A = E1 E2 · · · Er B ist. Da
+E1 , . . . , Er invertierbar sind, können wir E1−1 , . . . , Er−1 bilden. Wir multiplizieren
+die Gleichung von links mit E1−1 , dann mit E2−1 und so weiter, bis Er−1 , und erhalten
+Er−1 · · · E1−1 A = Er−1 · · · E1−1 E1 · · · Er B = Im B = B.
+Da Inverse von Elementarmatrizen Elementarmatrizen sind, zeigt diese Überlegung:
+3.3.1 Bemerkung: Seien A, B ∈ Mmn (K), und sei A = E1 E2 · · · Er B für Elementarmatrizen E1 , . . . , Er . Dann gilt für die Elementarmatrizen E1−1 , . . . , Er−1 ,
+dass Er−1 · · · E1−1 A = B ist.
+
+In der Sprache der elementaren Zeilenumformungen ausgedrückt, bedeutet Bemerkung 3.3.1 gerade: Wenn A durch elementare Zeilenumformungen aus B hervorgeht, dann geht B durch elementare Zeilenumformungen aus A hervor. Diese
+Überlegung führt zu folgender Definition:
+
+Kapitel 3. Zeilenäquivalente Matrizen
+
+93
+
+3.3.2 Definition: Seien A, B ∈ Mmn (K). Wir nennen A und B zeilenäquivalent
+und schreiben A ∼Z B, wenn es endlich viele Elementarmatrizen E1 , . . . , Er gibt,
+so dass
+A = E1 E2 · · · Er B ist.
+Gesprochen wird A ∼Z B als „A ist zeilenäquivalent zu B“. Wir haben in 3.3.1
+gesehen, dass A ∼Z B genau dann gilt, wenn B ∼Z A gilt. Eine weitere Eigenschaft
+zeilenäquivalenter Matrizen ist:
+3.3.3 Bemerkung: Seien A, B, C ∈ Mmn (K). Dann gilt:
+Wenn A zeilenäquivalent zu B und B zeilenäquivalent zu C ist, dann ist A zeilenäquivalent zu C.
+Beweis: Sei A = E1 E2 · · · Er B und sei B = F1 F2 · · · Fs C, wobei E1 , . . . , Er , F1 , . . . Fs
+Elementarmatrizen sind. Es folgt A = E1 · · · Er F1 · · · Fs C, also A ∼Z C.
+2
+Wir wissen jetzt, wann zwei Matrizen A und B in Mmn (K) zeilenäquivalent heißen.
+Allerdings ist folgende Frage noch völlig offen:
+3.3.4 Frage: Seien A, B ∈ Mmn (K) gegeben. Wie können wir entscheiden, ob A
+und B zeilenäquivalent sind?
+Eine Antwort auf diese Frage muss ich an dieser Stelle schuldig bleiben und Sie
+auf Korollar 4.4.5 in Kapitel 4.4 der nächsten Kurseinheit vertrösten.
+
+94
+
+3.3. Zeilenäquivalenz
+
+Lösungen der Aufgaben
+
+Lösungen der Aufgaben in 3.2
+1
+ 0
+
+∈ M44 (R), und sei A = 
+−2
+7
+
+0 0 0
+5 4 3
+
+.
+0 0 0
+0 0 0
+
+
+Aufgabe 3.2.2 Sei E24
+0 0
+6
+0
+0 0
+
+
+
+Dann gilt E24 A =
+
+7
+
+
+0
+
+
+
+Aufgabe 3.2.5 Mit Proposition 3.2.4 gilt
+
+
+
+E22
+
+0
+
+0
+
+=
+0
+
+0
+0
+
+0
+1
+0
+0
+0
+
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+
+
+
+
+
+0
+0
+
+
+0
+0
+
+
+0
+0
+und
+E
+E
+=
+34 13
+
+
+
+
+0
+0
+0
+0
+
+
+Aufgabe 3.2.7 Es sind P24
+
+1
+
+0
+
+=
+0
+
+0
+0
+
+0
+0
+0
+1
+0
+
+0
+0
+1
+0
+0
+95
+
+0
+
+0
+
+E23 E23 = 
+0
+
+0
+0
+
+0 0 0 0
+
+0 0 0 0
+
+0 0 0 0
+.
+0 0 0 0
+
+0 0 0 0
+0
+1
+0
+0
+0
+
+
+
+2
+1
+4
+6
+
+0
+1
+2
+5
+
+1
+0
+0
+4
+
+0
+1
+
+ ∈ M45 (R).
+6
+3
+
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+
+0
+
+0
+
+0
+, E23 E32 =
+0
+
+0
+
+0
+3
+0
+0
+0
+
+0
+0
+1
+0
+0
+
+
+
+0
+1
+
+
+0
+0
+
+
+
+0
+, D2 (3) = 0
+
+
+0
+0
+1
+0
+
+
+
+
+
+0
+0
+0
+1
+0
+
+
+
+0
+
+0
+
+0
+ und
+0
+
+1
+
+96
+
+Lösungen der Aufgaben zu Kapitel 3
+
+
+1
+
+0
+
+T54 (−2) = 
+0
+
+0
+0
+
+0
+1
+0
+0
+0
+
+0 0
+0 0
+1 0
+0 1
+0 −2
+
+
+
+0
+
+0
+
+0
+.
+0
+
+1
+
+
+
+
+1 2 3 4
+
+Aufgabe 3.2.10 Sei A = 5 6 7 8
+. Wenn wir die 3 × 3-Matrix P13 von links
+9 0 1 2
+an A multiplizieren, so erhalten wir die Matrix, die aus A entsteht, wenn wir
+die erste und dritte Zeile von A vertauschen. Multiplizieren wir P13 A von links
+mit der 3 × 3-Matrix D1 (6), so wird die erste Zeile von P13 A mit 6 multipliziert.
+Multiplizieren wir jetzt die Matrix D1 (6)P13 A von links mit T32 (1), so wird die
+zweite Zeile von D1 (6)P13 A zur dritten addiert, und es gilt
+T32 (1)D1 (6)P13 A = B.
+Die Matrix S, die wir suchen, ist dann T32 (1)D1 (6)P13 . Und ob das wirklich geklappt hat, werden wir jetzt nachrechnen.
+Zunächst berechnen wir B. Wir vertauschen die erste und die dritte Zeile von A
+und erhalten
+
+
+9 0 1 2
+
+
+5 6 7 8 .
+1 2 3 4
+Wir multiplizieren die erste Zeile dieser Matrix mit 6:
+
+
+
+
+54 0 6 12
+
+
+ 5 6 7 8 .
+1 2 3 4
+Zum Schluss addieren wir die zweite Zeile zur dritten und erhalten
+
+
+
+
+54 0 6 12
+
+
+B =  5 6 7 8 .
+6 8 10 12
+
+
+
+
+
+
+
+
+
+
+
+
+0 0 1
+6 0 0
+1 0 0
+
+
+
+
+
+
+Es sind P13 = 0 1 0 und D1 (6) = 0 1 0 und T32 (1) = 0 1 0. Jetzt
+1 0 0
+0 0 1
+0 1 1
+bilden wir das Produkt T32 (1)D1 (6)P13 :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 0 0
+6 0 0
+0 0 1
+1 0 0
+0 0 6
+0 0 6
+
+
+
+
+
+
+
+
+
+0 1 0 0 1 0 0 1 0 = 0 1 0 0 1 0 = 0 1 0 .
+0 1 1
+0 0 1
+1 0 0
+0 1 1
+1 0 0
+1 1 0
+
+Lösungen der Aufgaben zu Kapitel 3
+
+97
+
+
+
+
+0 0 6
+
+Wie wir oben überlegt haben, sollte damit S = 0 1 0
+ gelten. Wir rechnen
+1 1 0
+nach
+
+
+
+
+
+0 0 6
+1 2 3 4
+54 0 6 12
+
+
+
+
+
+SA = 0 1 0 5 6 7 8 =  5 6 7 8  = B,
+1 1 0
+9 0 1 2
+6 8 10 12
+und stellen fest, dass dies wirklich der Fall ist.
+Aufgabe 3.2.12 Die Inversen zu Elementarmatrizen wurden im Beweis von Proposition 3.2.11 explizit angegeben. Invers zu P24 ist P24 , invers zu D2 (3) ist D2 ( 31 ),
+und invers zu T54 (−2) ist T54 (2).
+
+98
+
+Lösungen der Aufgaben zu Kapitel 3
+
+

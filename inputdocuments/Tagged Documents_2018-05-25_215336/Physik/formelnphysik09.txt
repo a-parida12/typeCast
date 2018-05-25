@@ -1,0 +1,501 @@
+Formeln zur Physik 7–10
+
+1
+elektrischer Strom
+
+Stromstärke und Ladung:
+
+I=
+
+elektrischer Widerstand:
+
+∆Q
+∆t
+
+R=
+
+Hintereinanderschaltung von
+Widerständen:
+
+Gesetz von Ohm:
+Bei konstanter Temperatur sind U
+und I proportional, d.h. R = const.
+
+U
+I
+
+Parallelschaltung von Widerständen:
+
+1
+
+RErsatz = R1 + R2 + ....
+
+=
+
+RErsatz
+
+1
+1
++
++ ....
+R1
+R2
+
+idealer Transformator mit np Primärund ns Sekundärwindungen
+
+Up
+Us
+
+np
+
+=
+
+ns
+
+Dichte, Kräfte
+Dichte:
+
+ρ=
+
+m
+V
+
+Gewichtskraft:
+
+Federkraft (Hooke):
+
+Gleitreibungkraft:
+
+FG = m ⋅ g
+
+F = D⋅s
+
+FR = µ ⋅ FN
+
+Hangabtriebs- und Normalkraft an einer
+schiefen Ebene mit dem Neigungswinkel
+
+Luftreibungskraft bei turbulenter Strömung:
+
+FR = ½ cW ⋅ ρL ⋅ A ⋅ v2
+
+α:
+
+FH = FG ⋅ sin α
+FN = FG ⋅ cos α
+
+cW: Luftwiderstandsbeiwert; ρL: Luftdichte;
+A: Querschnittsfläche; v: Geschwindigkeit
+
+Kraft und Bewegung
+konstant beschleunigte Bewegung (a = const)
+mit Anfangsgeschwindigkeit vo
+
+Grundgesetz der Mechanik (Newton II):
+
+F = m⋅a
+
+v = vo + a ⋅ t
+s = vo⋅t + ½ a t2
+v2 = vo2 + 2 a s
+
+∆v
+Dabei ist a =
+die Beschleunigung des Körpers.
+∆t
+
+Energie
+kinetische Energie:
+
+potentielle (Höhen-)Energie:
+
+Spannenergie:
+
+Epot = m⋅g⋅h
+
+Esp = ½ Ds2
+
+Änderung der inneren Energie:
+
+mechanische Arbeit:
+
+elektrische Arbeit:
+
+∆Ei = c⋅m⋅∆ϑ
+
+W = F⋅s
+
+Wel = U⋅I⋅t
+
+Ekin = ½ mv
+
+Leistung:
+
+P=
+
+2
+
+W
+t
+
+Wirkungsgrad:
+
+η
+
+=
+
+Wnutz
+Wzu
+
+Energieerhaltung: Im abgeschlossenen System ist
+
+Einsteins Formel:
+
+E = mc2
+
+Egesamt = const.
+
+Impuls
+p = m⋅v
+
+F=
+
+∆p
+∆t
+
+Kelvin- und Celsius-Temperatur:
+
+T (in K ) = ϑ(in °C) + 273
+
+Impulserhaltung: Im abgeschlossenen System ist
+
+Temperatur, Druck, ideales Gas
+Druck:
+F
+p=
+A
+
+pgesamt = const.
+
+ideales Gas:
+
+p ⋅V
+= const
+T
+
+Gravitation, Planetenbewegung
+Gravitationsgesetz:
+
+F = G⋅
+
+m1 ⋅ m2
+r2
+
+Kepler I:
+
+Kepler II:
+
+Kepler III:
+
+Die Planetenbahnen sind
+Ellipsen mit dem Zentralkörper in einem Brennpunkt.
+
+Der Fahrstrahl überstreicht
+in gleichen Zeitabschnitten
+gleich große Flächenstücke.
+
+T12
+a13
+=
+T22
+a23
+
+Formeln zur Physik 7–10
+
+2
+harmonische Schwingung
+
+y = A ⋅ sin(ωt)
+
+Auslenkung:
+rücktreibende Kraft:
+
+oder
+
+Federpendel:
+
+F = −D ⋅ y
+
+y = A ⋅ cos(ωt)
+T = 2π ⋅
+
+mit
+
+ω = 2π ⋅ f =
+
+Fadenpendel:
+
+m
+D
+
+2π
+T
+
+T = 2π ⋅
+
+L
+g
+
+gleichförmige Kreisbewegung
+Winkelgeschwindigkeit:
+
+Umfangsgeschwindigkeit:
+
+2π
+ω = 2π ⋅ f =
+T
+
+v = ω⋅r
+
+Zentripetalkraft:
+
+FZ = mω2r =
+
+mv2
+r
+
+Wellen, Quanten
+Für alle Wellen gilt:
+
+c = λ⋅f
+
+Zweisender-Interferenz: Bedingung für ...
+Maxima:
+
+∆s = k ⋅ λ ;
+
+k = 0, 1, 2, ...
+
+Minima:
+
+∆s = (k − ½ ) ⋅ λ ;
+
+k = 1, 2, 3, ...
+
+Energie und Wellenlänge eines Photons:
+
+EPh
+
+h⋅c
+1,24 ⋅ 10 −6 eVm
+= h⋅f =
+=
+λ
+λ
+
+Formelsymbole, Maßeinheiten
+Beschleunigung
+[m/s2]
+Q elektrische Ladung
+a
+große Halbachse einer Bahnellipse
+[m]
+r Radius, Abstand
+2
+Flächeninhalt
+[m ]
+R elektrischer Widerstand
+A
+Amplitude
+[m]
+s Weg, Ort, Federdehnung
+c
+D
+E
+F
+f
+h
+I
+L
+m
+P
+
+spezifische Wärmekapazität
+
+[J/kg⋅K]
+
+Wellenausbreitungsgeschwindigkeit
+
+[m/s]
+
+T
+
+U
+Energie
+[J = Nm = VAs]
+v
+2
+Kraft
+[N = kg⋅m/s ]
+V
+Frequenz
+[Hz = 1/s]
+W
+Höhe
+[m]
+y
+elektrische Stromstärke
+[A]
+η
+Fadenlänge
+[m]
+λ
+Masse
+[kg]
+µ
+Leistung
+[W = J/s]
+ρ
+Impuls
+[kg⋅m/s]
+ϑ
+p
+2
+−5
+Druck
+[pa = N/m = 10 bar] ω
+Federkonstante
+
+g
+Elementarladung:
+e
+Lichtgeschwindigkeit:
+c
+Astronomische Einheit: AE
+Ortsfaktor (Europa):
+
+n
+
+Nano
+
+Version 09
+
+10
+
+−9
+
+[N/m]
+
+=
+=
+=
+=
+
+µ Mikro 10
+
+= As]
+[m]
+
+[Ω
+
+= V/A]
+[m]
+
+Kelvin-Temperatur
+
+[K]
+
+Periodendauer
+
+[s]
+
+elektr. Spannung
+
+[V]
+
+Geschwindigkeit
+
+[m/s
+
+= 3,6 km/h]
+
+Volumen
+
+[m3]
+
+Arbeit
+
+[J]
+
+Auslenkung
+
+[m]
+
+Wirkungsgrad
+
+[%]
+
+Wellenlänge
+
+[m]
+
+Reibungszahl
+
+[-]
+[kg/m3]
+
+Dichte
+Celsius-Temperatur
+
+[°C]
+
+Winkelgeschwindigkeit
+
+[1/s]
+
+Naturkonstanten, astronomische Größen
+9,81 N/kg
+Gravitationskonstante: G
+−19
+1,60 ⋅ 10 As
+atomare Masseneinheit: u
+8
+3,00 ⋅ 10 m/s
+Planck-Konstante:
+h
+9
+149,6 ⋅ 10 m
+mittlerer Erdradius:
+rE
+−6
+
+[C
+
+Vorsätze zu Maßeinheiten
+m Milli 10−3
+k Kilo 10 3
+
+M
+
+=
+=
+=
+=
+
+Mega
+
+6,67 ⋅ 10−11 Nm2/kg2
+1,66 ⋅ 10−27 kg
+6,63 ⋅ 10−34 Js
+6370 km
+10 6
+
+G
+
+Giga
+
+10 9
+
+ 2009 A. Urban, Lenggries
+
+

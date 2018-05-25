@@ -1,0 +1,352 @@
+5.3 Keramik im Auto, denn ohne ist man nicht mobil
+
+•
+
+Dr.-Ing. Peter Stingl
+CeramTec AG
+Lauf a. d. Pegnitz
+
+•
+
+Ines Durmann
+Sembach GmbH & Co. KG
+Lauf a. d. Pegnitz
+
+Die Folien finden Sie ab Seite 495.
+
+Teile aus Hochleistungskeramik haben sich mittlerweile einen festen
+Platz im Automobilbau erobert. Als meist unsichtbare Helfer tragen sie
+dazu bei, Fahrsicherheit, Komfort und Umweltverträglichkeit des Fahrzeugs zu optimieren. Mehr noch: Bei vielen neuen Entwicklungen steht
+der Einsatz von keramischen Komponenten im Mittelpunkt. Dies trifft
+vor allem auf piezokeramische Bauteile zu.
+
+Bild 1: Vielfalt der keramischen Bauteile im Automobil
+483
+
+Vortragsblock 4
+
+5.3.1. Alt Bewährtes
+2001 feierte die Zündkerze mit dem keramischen Isolationskörper aus
+Aluminiumoxid ihren 100. (!!) Geburtstag. Dies dürfte wohl der erste
+Einsatz von Keramik im Automobil gewesen sein. Im Jahr 1902 fertigte
+die Fa. Bosch 300 Kerzen / Jahr; derzeit werden allein im Werk Bamberg über 1 Million Zündkerzen pro Tag (!!) hergestellt.
+
+Bild 2: Zündkerze, Bosch
+
+484
+
+Bild 3: Abgaskatalysator
+Siliciumcarbid ist seit fast 2 Jahrzehnten der Werkstoff der Wahl für
+Gleitringdichtungen in Kühlwasserpumpen.
+Der keramische Abgaskatalysator zum Abbau der Schadstoffe CO,
+HC und NOx ist seit vielen Jahren Stand der Technik. Hier wurden in
+der Vergangenheit auch Distanzringe aus Aluminiumtitanat eingesetzt.
+
+Bild 4: Stützkeramik aus Steatit in der Lambdasonde
+485
+
+Vortragsblock 4
+
+In Verbindung mit dem Dreiwegekatalysator kommt seit 1976 die
+Lambda – Sonde zum Einsatz. Herzstück der Fingersonde ist eine
+ZrO2 – Keramik, die für eine stöchiometrische Verbrennung ( = 1) des
+Luft – Kraftstoffgemisches sorgt.
+Die planare Lambda – Sonde ist die Weiterentwicklung der Fingersonde. Bei dieser Sonde bilden keramische Folien den Festkörperelektrolyten. Das Aufeinanderlaminieren verschiedener bedruckter Folien
+macht es möglich, einen Heizer im Sensorelement zu integrieren.
+
+Bild 5: Keramische Substrate
+Weiterer wichtiger Bestandteil montierter Lambda – Sonden (bei Fingersonde und Planarsonde) sind isolierende Stützkeramiken aus Steatit, einer Magnesiumsilicatkeramik. Auch diese Bauteile werden heute
+in äußerst komplexen Formen millionenfach produziert und verbaut.
+Piezokeramische Bauelemente haben sich mittlerweile auf breiter
+Basis insbesondere im Bereich Sensorik etabliert. In erster Linie sind
+hier Klopf- und Rückfahrsensoren sowie Verzögerungssensoren zu
+nennen.
+Bauteile aus Aluminiumoxid oder Aluminiumnitrid werden als keramische Substrate für Hochleistungsschaltungen in der Hybridtechnik
+verwendet. Hybridschaltungen bilden die Grundlage für unterschiedlichste Anwendungen im Automobil. Sie sind für extreme thermische
+und elektrische Beanspruchungen ausgelegt und arbeiten in Systemen
+wie ABS, ASR, Airbag, l – Sonde sowie in der Sensorik.
+
+486
+
+Im Bereich der Lichttechnik (Halogen, Xenon) werden wegen der erforderlichen Temperaturstabilität silicatkeramische Halterungen und
+Sockel serienmäßig eingesetzt.
+In all diesen Bereichen beweisen keramische Bauteile seit vielen Jahren, dass sie die hohen Ansprüche der Automobilindustrie hinsichtlich
+Qualität, Funktion und Wirtschaftlichkeit zuverlässig erfüllen. Viele
+keramische Großserienanwendungen sind weitgehend unbekannt
+geblieben, da die Komponenten nicht sichtbar in Systeme integriert
+sind.
+
+5.3.2. Neuere Entwicklungen in der Serie
+In all diesen Bereichen beweisen keramische Bauteile seit vielen Jahren, dass sie die hohen Ansprüche der Automobilindustrie hinsichtlich
+Qualität, Funktion und Wirtschaftlichkeit zuverlässig erfüllen. Viele
+keramische Großserienanwendungen sind weitgehend unbekannt
+geblieben, da die Komponenten nicht sichtbar in Systeme integriert
+sind.
+
+Bild 6: Partikelfilter Systeme; Quelle: Kfztech.de
+
+487
+
+Vortragsblock 4
+
+Die inzwischen etablierte Partikelfilter – Technologie, ist derzeit die
+effektivste technische Lösung, um die bei Dieselfahrzeugen auftretende Russemission wirksam zu vermeiden. Herzstück des Systems ist
+ein Wabenkörper aus porösem Siliciumcarbid. Über einen Drucksensor wird gemessen, wie sich der Filter allmählich mit Ruß zusetzt. Der
+entstehende Ruß muss in regelmäßigen Abständen verbrannt werden,
+damit der Filter funktionsfähig bleibt.
+
+Bild 7: Prinzip der Partikelregeneration; Quelle: Kfztech.de
+Im Durchschnitt emittiert der Peugeot – Motor mit SiC – Filter 10.000 –
+mal weniger Russpartikel in die Umwelt als ein moderner Common–
+Rail – Diesel ohne Partikelfilter. Durch die Einführung der Common–
+Rail – Technik mit Einspritzdrücken von bis zu 1.600 bar wurde vor
+einigen Jahren die Dieseltechnologie revolutionär verbessert. Seitdem
+nimmt der Anteil an Dieselfahrzeugen beständig zu und hat bei einigen
+Automobilherstellern bereits die 50% - Marke überschritten.
+Der Einspritzvorgang wird mittels Magnetventilen gesteuert, die pro
+Zündzyklus zweimal Dieselkraftstoff einspritzen. Noch schneller geht
+es, wenn die hydraulischen Einspritzventile von piezokeramischen
+Stellelementen betätigt werden. Kernstück der neuen Technologie
+sind piezokeramische Multilayer – Aktoren, die sich beim Anlegen
+488
+
+einer elektrischen Spannung ausdehnen (inverser Piezoeffekt). Dies
+geschieht im Bereich von Bruchteilen von Millisekunden sowie mit
+hoher Stellkraft und Präzision. Es sind 4-fach schnellere Schaltzeiten
+als beim Magnetventil realisierbar. Damit ist ein modulierter Einspritzverlauf mit bis zu fünf Teileinspritzungen möglich. Dies bringt erhebliche Vorteile hinsichtlich Kraftstoffverbrauch, Geräuschentwicklung und
+Abgasemission. Außerdem lässt sich eine späte Nacheinspritzung
+verwirklichen, wie sie z. B. beim Betrieb eines Partikelfilters vorteilhaft
+ist. Eine Milliarde Einspritzvorgänge muss ein Piezo-Aktor während
+eines „Autolebens“ mindestens schaffen, pro Zündung bis zu fünf.
+
+Bild 8: Piezokeramischen Stellelement; Quelle: Volkswagen
+
+5.3.3. Mögliche Ansätze für die Zukunft
+Der Trend zum zunehmenden Einsatz von Leichtbaumaterialien wird
+sich weiter fortsetzen. Leichtmetalle haben jedoch hinsichtlich Verschleiß und Festigkeit ihre Grenzen. Derzeitige Entwicklungen zielen
+darauf ab, die Schwächen von Leichtmetall durch die Verstärkung mit
+keramischen Partikeln oder Fasern zu kompensieren, ohne das spezifische Gewicht zu erhöhen. Metallkeramische Verbundwerkstoffe sind
+bei geringem Gewicht sehr formstabil und verschleißbeständig. Erste
+Bauteile befinden sich in der Testphase.
+489
+
+Vortragsblock 4
+
+Bild 9: Preforms; Quelle: CeramTec
+Piezokeramische Werkstoffe haben auch bei vielen neuen Entwicklungen im Bereich der Automobiltechnik gute Chancen. Aufgrund der
+sehr kurzen Ansprechzeiten sowie der hohen Kräfte wird insbesondere
+den piezokeramischen Multilayer-Aktoren ein hohes Zukunftspotential
+zugeschrieben. Arbeitsschwerpunkte liegen hier z. B. im Bereich der
+elektropneumatischen Ventile oder der Benzin-Direkteinspritzung.
+
+Bild 10: Benzindirekteinspritzung; Quelle: Volkswagen
+490
+
+Ein weiterer interessanter keramischer Forschungsschwerpunkt der
+letzten Jahre ist die Entwicklung sog. Adaptiver Werkstoffe.
+Im Automobil wird zunehmend mit leichten Werkstoffen gearbeitet.
+Nur: je leichter die Bauteile, desto stärker vibrieren sie und erzeugen
+Lärm. Intelligente adaptive Werkstoffe können hier Abhilfe schaffen.
+Die Basis dafür bilden beispielsweise piezokeramische Fasern und
+Folien mit adaptiven Reglern. Es wird ein Faserverbund aufgebaut, der
+nicht nur tragende Funktionen übernimmt, sondern auch aktorische
+und sensorische Fähigkeiten besitzt. Solche Elemente können auf
+äußere Veränderungen reagieren, bevor störende Verformungen auftreten. Piezokeramische Bauteile können helfen, die Schwingungen
+stark zu verringern. Sie registrieren die Vibrationen und werden dann
+über einen Regler mit genau derselben Frequenz angeregt, in der das
+Fahrzeug schwingt. Die Schwingungen werden zeitlich so versetzt,
+dass sie sich gegenseitig auslöschen. So lassen sich Schwingungen
+und Körperschallprobleme schon dort unterbinden, wo sie entstehen.
+Damit kann der Gewichtsvorteil der Leichtbauwerkstoffe genutzt und
+gleichzeitig der Komfort für die Insassen erhöht werden, da der Lärmpegel im Fahrzeug gesenkt wird. Derzeit experimentiert man mit dem
+Einbau von piezokeramischen Folien in das Autodach. Die Folien werden an bekannt neuralgischen Punkten angebracht und sorgen dafür,
+dass sich der Körperschall nicht länger über das vibrierende Dach und
+damit auf die Insassen überträgt.
+
+Quellen:
+•
+
+„Auto 2020“, Manager Magazin, Heft 6, 2006
+
+•
+
+„Mobilität – die Autos der Zukunft“, wissen.de
+
+•
+
+„Partikelfiltersystem“, kfztech.de
+
+•
+
+„Keramik im Automobil – Vision oder Wirklichkeit“, Dr.-Ing.
+Peter Stingl, VKI Seminarreihe 2005
+
+491
+
+Vortragsblock 4
+
+Bild 11: Adaptronik; Quelle: Fraunhofer Allianz Adaptronik
+
+5.3.4. Das Automobil 2020
+Das Auto der Zukunft soll sicherer, sparsamer, umweltfreundlicher und
+dennoch leistungsfähiger sein als seine Vorgänger. Den Hightechkürzeln ABS (Antiblokiersystem), ASR (Antischlupfregelung), ESP (Elektronisches Stabilisierungsprogramm), BAS (Bremsassistent), ABC
+(Active Body Control, Wankminderung) oder ACC (Adaptive Cruise
+Control) werden weitere folgen.
+
+492
+
+Bild 12: 1 – Liter – Auto Volkswagen
+Wird das Auto der Zukunft sich in Parklücken schlängeln können wie
+eine Katze? Oder wird sich der Auspuff zum „Frischluft – Auspuff“
+entwickeln? Wird das Auto der Zukunft auch ohne Fahrer auskommen, der sich unterwegs entspannt dem neuesten Videospiel widmen
+kann? Wird es das individualisierte Auto geben oder der Preis einem
+Wildwuchs der Wünsche den Riegel vorschieben? Wird es das 1 –
+Liter – Auto auch für eine vierköpfige Familie mit Gepäck geben?
+
+Bild 13: F400 Carving Mercedes
+Die Technik wird auf jeden Fall weiterhin rasant voranschreiten und
+der Werkstoff Keramik hat sicher auch weiterhin gute Chancen auf
+seinen Platz im Fahrzeug der Zukunft, wenn es den Werkstoffentwicklern gelingt am Ball zu bleiben.
+
+493
+
+Vortragsblock 4
+
+Bild 14: Suzuki Mobile Terrace
+
+Die verwendeten Vortragsfolien (Nr. 1 bis 26) finden sich auf den
+folgenden Seiten.
+
+494
+
+5.3 Keramik im Auto - Folie 1
+
+495
+
+Vortragsblock 4
+
+5.3 Keramik im Auto - Folie 2
+
+496
+
+5.3 Keramik im Auto - Folie 3
+
+497
+
+Vortragsblock 4
+
+5.3 Keramik im Auto - Folie 4
+
+498
+
+5.3 Keramik im Auto - Folie 5
+
+499
+
+Vortragsblock 4
+
+5.3 Keramik im Auto - Folie 6
+
+500
+
+5.3 Keramik im Auto - Folie 7
+
+501
+
+Vortragsblock 4
+
+5.3 Keramik im Auto - Folie 8
+
+502
+
+5.3 Keramik im Auto - Folie 9
+
+503
+
+Vortragsblock 4
+
+5.3 Keramik im Auto - Folie 10
+
+504
+
+5.3 Keramik im Auto - Folie 11
+
+505
+
+Vortragsblock 4
+
+5.3 Keramik im Auto - Folie 12
+
+506
+
+5.3 Keramik im Auto - Folie 13
+
+507
+
+Vortragsblock 4
+
+5.3 Keramik im Auto - Folie 14
+
+508
+
+5.3 Keramik im Auto - Folie 15
+
+509
+
+Vortragsblock 4
+
+5.3 Keramik im Auto - Folie 16
+
+510
+
+5.3 Keramik im Auto - Folie 17
+
+511
+
+Vortragsblock 4
+
+5.3 Keramik im Auto - Folie 18
+
+512
+
+5.3 Keramik im Auto - Folie 19
+
+513
+
+Vortragsblock 4
+
+5.3 Keramik im Auto - Folie 20
+
+514
+
+5.3 Keramik im Auto - Folie 21
+
+515
+
+Vortragsblock 4
+
+5.3 Keramik im Auto - Folie 22
+
+516
+
+5.3 Keramik im Auto - Folie 23
+
+517
+
+Vortragsblock 4
+
+5.3 Keramik im Auto - Folie 24
+
+518
+
+5.3 Keramik im Auto - Folie 25
+
+519
+
+Vortragsblock 4
+
+5.3 Keramik im Auto - Folie 26
+
+520
+
+

@@ -1,0 +1,247 @@
+TRENDS
+
+17. August 2017
+
+BOOM DER KRYPTOWÄHRUNGEN
+von Marlene Bubb und Dr. Jörn Quitzau
+
+Kryptowährungen sorgen täglich für Schlagzeilen.1 Der
+Preis des „Marktführers“ Bitcoin eilt von einem Rekord
+zum nächsten. In dieser Woche kostete ein Bitcoin erstmals
+über 4.000 US-Dollar und hat sich damit seit Jahresanfang
+mehr als vervierfacht (Abbildung 1). Gerade einmal zwei
+Wochen zuvor hatte dem Bitcoin noch der Untergang gedroht, da er am 1. August aufgespalten wurde – seither
+existiert neben dem „ursprünglichen“ Bitcoin die neue
+Version „Bitcoin Cash“. Bisher hat diese Spaltung der Popularität aber nicht geschadet.
+
+den Jahr eine noch deutlich beeindruckendere Kursentwicklung auf als Bitcoin: der Preis lag zu Jahresbeginn bei
+8 US-Dollar und ist seither um rund 3.900 % auf 309 USDollar gestiegen. Genau wie Bitcoin hat Ethereum allerdings mit erheblichen Kursschwankungen und temporären
+Rückschlägen zu kämpfen. Im Juni erlebte Ethereum zudem einen „Flash-Crash“: Innerhalb weniger Minuten
+stürzte der Preis von rund 300 auf 13 US-Dollar, auf einer
+Handelsplattform sogar auf unter einen US-Dollar. Der
+Preis erholte sich allerdings ebenso schnell wieder.
+
+Abb. 1: Wechselkurs Bitcoin/US-Dollar
+
+Während die Anzahl von Bitcoin auf maximal 21 Mio. beschränkt ist, gibt es bei Ethereum keine Obergrenze. Der
+jährliche Zuwachs ist auf 18 Mio. Ether limitiert, das sind
+25 % des Anfangsbestandes. Momentan wird dieses Geldschöpfungspotential allerdings nur gut zur Hälfte genutzt.
+
+4500
+4000
+3500
+3000
+
+2500
+
+Zahlreiche „Neugründungen“
+Kryptowährungen schießen derzeit wie Pilze aus dem Boden. Allein seit Anfang April 2017 ist die Gesamtzahl um
+rund 300 auf inzwischen 1 065 gestiegen.
+
+2000
+1500
+
+1000
+500
+0
+Aug 11
+
+Aug 12
+
+Aug 13
+
+Aug 14
+
+Aug 15
+
+Aug 16
+
+Aug 17
+
+Abb. 2: Anzahl der Kryptowährungen
+
+1100
+In US-Dollar. Quelle: Bloomberg.
+
+Ethereum tritt aus dem Bitcoin-Schatten heraus
+Inzwischen treten Kryptowährungen wie Ethereum aus
+dem Bitcoin-Schatten heraus.2 Ethereum weist im laufen-
+
+1065
+
+1000
+971
+
+900
+800
+
+In unserer Studie „Die Zukunft des Geldes – Das Geld der
+Zukunft“ haben wir die Grundlagen der sogenannten Digitaloder Kryptowährungen ausführlich dargestellt.
+2 Genaugenommen heißt die Währung Ether. Sie basiert auf der
+Blockchain Ethereum. Ether ist notwendig um die Ethereum
+Blockchain, die sogenannte Smart Contracts unterstützt, zu verwenden. Diese automatisierten Verträge enthalten die vereinbarten Konditionen und kontrollieren und initiieren deren Umsetzung. Das vereinfacht insbesondere die Handhabung von, zum
+Beispiel, Software-Lizenzen. Die Rechenleistung die dieser Prozess erfordert, wird, wie auch bei Bitcoin, von den sogenannten
+Minern zur Verfügung gestellt, die dafür in Ether bezahlt werden.
+Ether erhält dadurch einen intrinsischen Wert, der an die Benutzung von Smart Contracts gekoppelt ist und ist somit keine klas1
+
+1
+
+700
+
+830
+
+871
+
+782
+
+600
+05.04.17 22.05.17 12.06.17 13.07.17 17.08.17
+Quelle: Coinmarketcap.com.
+
+Der sprunghafte Anstieg ist möglich, weil Kryptowährungen nicht von Staaten oder Zentralbanken herausgegeben,
+sische Währung. Als Zahlungsmittel außerhalb der Smart
+Contracts ist Ether nicht vertreten.
+Trends | 17. August 2017
+
+1/4
+
+sondern im Regelfall von privaten Programmierern geschaffen werden. Somit gibt es kaum Markteintrittsbarrieren – prinzipiell kann jeder, der über die nötigen Programmierfähigkeiten verfügt, eine Kryptowährung ins Leben
+rufen.
+Was steckt hinter dem neuen Hype?
+Die Hausse nährt die Hausse. Solange die Preise im Trend
+steil nach oben gehen, ziehen Bitcoin & Co. die öffentliche
+Aufmerksamkeit auf sich und locken immer neue Anleger
+und Spekulanten an. Zwischenzeitliche Kurseinbrüche
+schrecken bislang offenbar noch nicht ab. Entsprechend
+eindrucksvoll hat sich auch die Marktkapitalisierung im
+Jahresverlauf entwickelt (Abbildung 3).
+Abb. 3: Marktkapitalisierung der Kryptowährungen
+
+150
+130
+
+142
+
+110
+
+112
+
+90
+70
+
+80
+
+86
+
+79
+
+50
+30
+10
+-10
+
+27
+05.04.17 22.05.17 12.06.17 13.07.17 18.07.17 17.08.17
+
+In Mrd. US-Dollar. Quelle: Coinmarketcap.com.
+
+Bitcoin ist für Anleger wegen der strikten Mengenobergrenze von 21 Millionen Einheiten besonders attraktiv. Die
+damit verbundene (angeblich) unveränderbare Knappheit
+ist ein wesentlicher Unterschied zu den etablierten Papiergeldwährungen, bei denen die Geldmenge jederzeit durch
+die Zentralbank ausgeweitet werden kann. Viele Marktakteure sehen in Bitcoin deshalb offenbar eher einen knappen
+Rohstoff (wie Gold), in den man investieren kann, als ein
+Zahlungsmittel. Dies dürfte nun umso mehr gelten, nachdem „Bitcoin Cash“, der für Transaktionen eingesetzt werden soll, im Umlauf ist.
+Doch wie stichhaltig ist das Knappheits-Argument? Sofern
+man der Unveränderbarkeit des Bitcoin-Algorithmus traut,
+ist das Argument der Unvermehrbarkeit für sich genommen zutreffend. Trotzdem steht es auf tönernen Füßen:
+Der zahlenmäßige Anstieg neuer Digitalwährungen zeigt,
+dass der Markt für Kryptowährungen ein bestreitbarer
+
+Markt ist. Die Konkurrenz kann und wird also angreifen,
+um ein Monopol des Bitcoin zu verhindern. Somit lassen
+sich zwar Bitcoin nicht vermehren, die Anzahl „baugleicher“ Währungen hingegen schon. Letztlich geht es also
+um die Frage, welche der vielen Kryptowährungen sich als
+Standard wird etablieren können. Bitcoin profitiert sicher
+vom „First Mover Advantage“ und kann durch diesen Vorsprung Netzwerkvorteile realisieren – denn je mehr Menschen weltweit Bitcoin kennen und akzeptieren, umso besser. Ob der First Mover Advantage allein allerdings reicht,
+darf bezweifelt werden. Wichtiger wäre, den Netzwerkvorteil vollumfänglich zu nutzen. Das wäre der Fall, wenn sich
+der Bitcoin als Transaktions- bzw. Zahlungsmittel etablieren würde. Genau das ist ihm aber bisher nicht gelungen.
+Ob dies nach der Abspaltung des „Bitcoin Cash“, der ja
+nun die Transaktionsfunktion übernehmen soll, besser
+gelingen wird, ist sehr fraglich.
+Insgesamt zeigt sich, dass digitale Währungen bzw. digitales
+Geld aus dem Nichts geschaffen werden. Eine solche Geldschöpfung „aus dem Nichts“ wurde und wird bei den etablierten Papiergeldwährungen vielfach vehement kritisiert.
+Der limitierte Bitcoin sollte in dieser Hinsicht für eine bessere Welt sorgen. Nun wird mit den vielen neuen Kryptowährungen aber deutlich, dass der hohe Anspruch nicht
+erreicht wird.3
+Ausblick
+Nicht alle Kryptowährungen, die bisher entstanden sind
+oder künftig noch auf den Markt kommen, werden langfristig Erfolg haben. Doch grundsätzlich verfügen die digitalen
+Währungen über Eigenschaften, die zumindest für einige
+eine Art Bestandsgarantie sind.4 Unter anderem die Möglichkeit, mit ihnen Werte anonym transferieren zu können,
+dürfte für die Nutzer ein wichtiges Argument bleiben oder
+sogar noch wichtiger werden – wenn zum Beispiel das Bargeld in einigen Ländern verschwindet. Auch für Menschen
+in Ländern mit mangelhafter Finanzinfrastruktur sind
+Kryptowährungen eine einfache und kostengünstige Möglichkeit, Überweisungen zu tätigen.
+Allerdings dürften die Vorteile eher dazu geeignet sein,
+Bitcoin & Co. in der Nische zum Erfolg zu verhelfen. Die
+Seit einiger Zeit beschaffen sich Startup-Unternehmen Kapital
+über digitale Währungen (Initial Coin Offerings, ICO). Auch auf
+diese Weise wird digitales Geld aus dem Nichts geschaffen.
+4 Vgl. dazu ausführlich erneut unserer Studie „Die Zukunft des
+Geldes – Das Geld der Zukunft“.
+3
+
+Trends | 17. August 2017
+
+2/4
+
+Geld-Revolution wird hingegen sehr wahrscheinlich ausbleiben. Um die etablierten Währungen vom Thron zu
+stoßen, müssten nahezu unüberwindbare Hürden genommen werden.
+Über den weiteren Kursverlauf sind in diesem Umfeld seriöse Prognosen kaum möglich. Der Preis-Boom kann sich
+noch lange fortsetzen und die Notierungen von Bitcoin,
+Ethereum etc. können sich abermals vervielfachen. Solange
+Anleger und Spekulanten an die Fortsetzung des Booms
+glauben, werden die Preise weiter steigen. Trotz der erheblichen medialen Aufmerksamkeit sind Investments in Bitcoin bei weitem noch kein Massenphänomen. Somit ist das
+Nachfragepotential noch nicht ausgeschöpft. Ebenso ist
+aber auch ein abruptes Ende der Euphorie möglich. Es
+bleibt deshalb dabei: Digitalwährungen eignen sich für Spekulanten, aber nicht für konservative Anleger.
+
+Trends | 17. August 2017
+
+3/4
+
+IMPRESSUM
+
+Makro-Team Hamburg
+Dr. Holger Schmieding | Chefvolkswirt
++49 40 350 60-8021 | holger.schmieding@berenberg.de
+Wolf-Fabian Hungerland
++49 40 350 60-8165 | wolf-fabian.hungerland@berenberg.de
+
+Berenberg Makro erscheint
+zu folgenden Themen:
+Konjunktur
+Geldpolitik
+Währungen
+Rohstoffe
+Emerging Markets
+Osteuropa
+► Trends
+www.berenberg.de/publikationen
+
+Cornelia Koller
++49 40 350 60-198 | cornelia.koller@berenberg.de
+Dr. Jörn Quitzau
++49 40 350 60-113 | joern.quitzau@berenberg.de
+
+Wichtige Hinweise: Dieses Dokument stellt keine Finanzanalyse im Sinne des § 34b WpHG, keine Anlageberatung, Anlageempfehlung oder Aufforderung zum Kauf von Finanzinstrumenten dar. Es ersetzt keine rechtliche, steuerliche und finanzielle
+Beratung. Die in diesem Dokument enthaltenen Aussagen basieren auf allgemein zugänglichen Quellen und berücksichtigen den
+Stand bis zum Tag vor der Veröffentlichung. Nachträglich eintretende Änderungen können nicht berücksichtigt werden.
+
+Joh. Berenberg, Gossler & Co. KG
+Neuer Jungfernstieg 20
+20354 Hamburg
+Telefon +49 40 350 60-0
+www.berenberg.de
+info@berenberg.de
+
+

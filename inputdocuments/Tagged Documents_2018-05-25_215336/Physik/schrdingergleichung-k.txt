@@ -1,0 +1,564 @@
+
+Dr. Josef Kόblbeck, Neckarstr. 12, 74379 Ingersheim, j.kueblbeck@gmx.de
+
+Ein Unterrichtsvorschlag zur Beschreibung von Energieniveaus und Orbitalen
+mit einem zeitgemδίen Atommodell
+
+Ein Atommodell, das mit den Grundzόgen der Quantenphysik konsistent sein
+soll, kommt heutzutage ohne Schrφdingergleichung nicht aus. In diesem
+Artikel wird ein erprobter Unterrichtsgang vorgestellt, in dessen Verlauf
+die zeitunabhδngige Schrφdingergleichung fόr immer schwierigere Potentiale
+intuitiv gelφst wird, bevor die Energieniveaus und die
+Wahrscheinlichkeitsverteilungen mit Computerhilfe exakt bestimmt werden.
+
+1. Vorbemerkungen
+
+  Das Atommodell von Bohr hat viele Jahrzehnte die Atomphysik im
+Schulunterricht bestimmt. Einfachheit und Anschaulichkeit sind seine
+Vorzόge, aber auch seine "tφdlichen" Schwδchen.
+  Bohr postuliert diskrete Bahnen, auf denen die Elektronen kreisen. Diese
+Vorstellung ist derart unvereinbar mit den Wesenszόgen der Quantenphysik
+(wie z.B. der Heisenbergschen Unbestimmtheitsrelation), dass ein Schόler
+vorher in der Quantenphysik Gelerntes in Frage stellen muss: "Gelten diese
+Wesenszόge etwa nicht mehr, wenn sich die Quantenobjekte im Feld eines
+Atomkerns aufhalten?" Zudem mόssten bekanntlich die kreisenden Elektronen
+Energie abstrahlen und in den Kern stόrzen und zwar in einer Zeit, die um
+etwa 40 Grφίenordnungen kleiner als der experimentelle Wert fόr die
+Lebensdauer der Atome ist. Eine derart eklatante Diskrepanz kann
+befriedigend nicht durch ein Postulat weggeschoben werden, welches
+festschreibt, dass die Elektronen "strahlungsfrei" kreisen. Zudem hat die
+Formel fόr die Energieniveaus in Bohrs Atommodell keine groίe
+Allgemeingόltigkeit. Es gelingt allein die quantitative Beschreibung des
+unbeeinflussten Wasserstoffatoms (und mit nicht allzu groίer Genauigkeit
+die Nδherung fόr die K(-Linien nach Moseley). Fόr Wasserstoff in
+elektrischen oder magnetischen Feldern und fόr alle anderen Atome oder
+Molekόle versagt das Modell.
+  Auch die diskreten Energieniveaus musste Bohr postulieren. Um sie zu
+"begrόnden", wird als Aufsatz auf Bohrs Atommodell oft die Welle im
+unendlich hohen Potential betrachtet. Dies ist natόrlich kaum zu motivieren
+und zu rechtfertigen, wenn man mit den Schόlern vorher ein Quantenphysik-
+Modell entwickelt hat, das dem Wellenmodell weit όberlegen ist.
+Wenn es also eine quantitative Beschreibung der Atome gibt, die
+1. allgemeingόltiger ist,
+2. die quantenphysialischen Wesenszόge widerspiegelt und
+3. in der Schule vermittelbar ist,
+dann ist dieser Beschreibung unbedingt der Vorzug vor Bohrs Atommodell zu
+geben.
+  Ein Atommodell mit der Schrφdingergleichung ist sicherlich 1. beliebig
+weit ausbaubar, also allgemeingόltig und 2. konsistent mit der
+Quantenphysik. Auf einem solchen Modell kann in der Hochschule aufgebaut
+werden, ohne dass Schόler liebgewonnene Vorstellungen wieder aufgeben
+mόssen.
+  Wie steht es aber um 3., die Vermittelbarkeit eines solchen Modells? Eine
+Lφsung des Wasserstoffproblems kann aufgrund der mathematischen
+Schwierigkeiten in der Schule ohne Computerhilfe nicht geleistet werden. Es
+ist aber auch unbefriedigend, ein Computerprogramm mit der
+Schrφdingergleichung zu fόttern, ohne dass die Schόler ein "Gefόhl" dafόr
+haben, wie die Lφsungen ungefδhr aussehen mόssen. (Dies ist δhnlich wie bei
+Computeralgebra-Systemen zur Kurvendiskussion. Bevor Schόler sie nutzen,
+sollten sie wissen, wie eine Kurvendiskussion durchgefόhrt wird.)
+  Um ein solches "Gefόhl" fόr die Schrφdingergleichung zu bekommen, wird
+ein intuitiver Krόmmungsbegriff bei Funktionen einfόhrt. Diese Idee ist
+nicht neu. Bereits in δlteren Lehrwerken zur Quantenphysik wird auf diese
+Weise die Schrφdingergleichung qualitativ gelφst (s. z.B. [1], S. 16/14f.).
+Aufgegriffen wird die Idee z.B. von der Bremer Arbeitsgruppe [2]. In diesem
+Konzept werden die Wellengleichung fόr ein Seil mit unterschiedlicher
+Massenbelegung und die Schrφdingergleichung parallel intuitiv gelφst, bevor
+mit der Modellbildungs-Software "MODELLUS" der Computer die Rechenarbeit
+όbernimmt.
+  Im vorliegenden Artikel wird im Detail ausgefόhrt, wie man das "Gefόhl"
+fόr die Schrφdingergleichung und ihre Lφsungen in der Schule einόben kann.
+Ausgehend vom einfachsten Kastenpotential bis zum Wasserstoffproblem werden
+qualitative Lφsungen erschlossen.
+  Eine Veranschaulichung mit Hilfe der Seilwellen erscheint uns dann nicht
+mehr notwendig. Die Anschauung kann hier sogar (wie so oft in der
+Quantenphysik) in die Irre fόhren: Wδhrend sich das Seil schwingend bewegt,
+sind sδmtliche beobachtbaren Grφίen in den Lφsungen der stationδren
+Schrφdingergleichung unabhδngig von der Zeit. (Tatsδchlich ist die Funktion
+?(x) ja zeitabhδngig, allerdings kann sie selbst nicht beobachtet werden.
+Sie existiert nur in unseren Kφpfen.) Im Bremer Konzept wird deshalb
+vorgeschlagen, nicht das Seil selbst, sondern die Einhόllende zu
+betrachten.
+  Da der hier vorgestellte Unterrichtsteil im Anschluss an eine Einheit
+όber Quantenphysik gedacht ist, soll das Wiederaufleben einer
+Wellenvorstellung vermieden werden. Dieses Gesamtkonzept zu Quantenphysik
+und Atomphysik, konform zu den neuen Lehrplδnen Baden-Wόrttembergs ab 2002,
+ist in [10] beschrieben. Zudem wurde der hier vorgestellte Zugang teilweise
+integriert in das MILQ-Projekt [5] der Mόnchner Didaktik-Gruppe.
+
+
+Die Schrφdingergleichung
+
+  Mit der komplexwertigen Schrφdingergleichung gelingt die Beschreibung von
+zeitabhδngigen Phδnomenen. Wenn keine Krδfte wirken wie bei den
+Ausbreitungsphδnomenen (z.B. beim Doppelspaltversuch) reduziert sich die
+Schrφdingergleichung zu einer einfachen Wellengleichung, so dass
+Wahrscheinlichkeitsvorhersagen mit dem Zeigerformalismus wie in der
+Wellenoptik mφglich sind. Elektronen sind allerdings im Atom Krδften
+ausgesetzt, so dass eine Beschreibung mit Zeigern nicht mehr gelingt. Dafόr
+sind die Zustδnde nun meist in guter Nδherung stationδr, so dass statt mit
+der komplexen, zeitabhδngigen nun mit der reellen, zeitunabhδngigen
+Schrφdingergleichung gearbeitet werden kann:
+  (''(x)  =  K ( [pic] ( [pic]           mit K = [pic]
+  Diese Gleichung enthδlt Bestandteile, die auf den ersten Blick nicht
+zusammenpassen: E ist die Gesamtenergie des Mikroobjekts.
+Erstaunlicherweise kφnnen dafόr genaue Werte angegeben werden, wδhrend die
+Teilenergien (potentielle und kinetische Energie) aufgrund der
+Unbestimmtheitsrelation nicht genau bestimmt sind. EL(x) ist hingegen das
+Potential, also die Lageenergie, die ein klassisches Teilchen in diesem
+Potential hδtte. Wie kann ein solches Konstrukt motiviert oder legitimiert
+werden?
+  Vor dem Hintergrund der Modellbildung (im Sinne von Theoriebildung) halte
+ich eine Herleitung der Schrφdingergleichung im Unterricht nicht unbedingt
+fόr erforderlich. Es genόgt zu sagen, dass es dem Nobelpreistrδger E.
+Schrφdinger mit Intuition und scharfem Nachdenken gelungen ist, eine
+Gleichung aufzustellen, welche die Welt der Quanten hervorragend bescheibt
+- und die Gleichung anzugeben (s.a. [1] S.16/12). Diese Vorgehensweise mag
+όbermδίig pragmatisch und heuristisch erscheinen. Eine fachlich
+befriedigende Herleitung im Rahmen des formalen Quantenphysik-Modells ist
+jedoch erst mit Hochschulmathematik mφglich.
+  Nun ist auch diese zeitunabhδngige Schrφdingergleichung leichter oder
+schwieriger zu lφsen, je nachdem welche Form das Potential EL(x) hat, in
+dem sich das Quantenobjekt aufhδlt. Wenn EL(x) ( 0 ist, so erhalten wir den
+ortsabhδngigen Teil der Wellengleichung fόr ((x).
+  Da wir in der Schule speziell an der Beschreibung von Atomen interessiert
+sind, soll die Schrφdingergleichung mit Coulombpotential untersucht werden.
+  (''(x)  =  K ( [pic] ( [pic]
+  Diese Differentialgleichung kann mit den Schόlern nicht ohne
+Computerhilfe gelφst werden. Wie eingangs erwδhnt, halte ich es aber auch
+nicht fόr legitim, nun die Differentialgleichung einfach numerisch zu
+lφsen, ohne dass die Schόler die Lφsungen wenigstens qualitativ verstehen.
+Damit ist gemeint, dass die Schόler verstehen, ERSTENS wie eine Lφsung ((x)
+fόr ein bestimmtes Potential ungefδhr aussehen muss und ZWEITENS wie es zu
+diskreten Energieniveaus kommt.
+
+
+"Gekrόmmtheit"
+
+  Zu ERSTENS: (''(x) kφnnte man "Gekrόmmtheit"[1] der Kurve nennen. Ist
+(''(x) > 0 macht das Schaubild fόr wachsende x eine Linkskurve und
+umgekehrt.
+Betrachten wir den Fall EL(x) ( 0,
+also: (''(x)  =  K ( [pic] ( E ,
+dann ist die Gekrόmmtheit proportional
+zu - ((x). Wenn also z.B. ((x) positiv ist und ansteigt (s. Abb. 1), dann
+ist die Gekrόmmtheit zunehmend negativ, also eine immer stδrkere
+Rechtskurve. Wenn ((x) daraufhin maximal wird und danach wieder abnimmt,
+nimmt auch die Rechtskrόmmung ab, bis ((x) die x-Achse schneidet. Dort hat
+die Kurve einen Wendepunkt, ((x) wird negativ und macht folglich jetzt eine
+Linkskurve. Diese Linkskurve wird um so stδrker, je negativer ((x) wird,
+bis es auch hier sein Extremum erreicht und wieder der x-Achse zustrebt.
+((x) fόhrt also eine Schwingung um ( = 0 aus. Bekanntlich ist die Lφsung
+der Differentialgleichung eine Sinus-Schwingung.
+  Nach dieser Analyse ist es ein Leichtes, den Einfluss von einfachen
+Potentialen auf ((x) vorherzusagen: Angenommen EL(x) steigt mit wachsendem
+x langsam an (s. Abb. 2 oben), und E sei 0, so ist die Differenz E - EL(x)
+in der Schrφdingergleichung weiterhin positiv, ihr Betrag nimmt aber stetig
+ab. Infolgedessen nimmt auch die Gekrόmmtheit der Einzelschwingungen von
+((x) mit wachsendem x ab (s. Abb. 2 unten).
+  Da auch das 1/x-Potential nach rechts ansteigt, zeigt unser ((x) bereits
+die wichtigsten Eigenschaften der (-Funktionen im Wasserstoffpotential.
+  Zu ZWEITENS: Warum gibt es diskrete Energieniveaus? Die ((x)-Funktionen
+mόssen physikalisch sinnvoll sein, d.h. ihr Betragsquadrat muss auίerhalb
+des Potentialbereichs gegen 0 gehen, ansonsten wόrde man das Quantenobjekt
+hauptsδchlich im klassisch verbotenen Bereich finden. Dies widerspricht den
+experimentellen Ergebnissen.
+  Ein Beispiel: Gegeben ist ein Kastenpotential mit endlicher Tiefe
+(s. Abb. 3), und weiterhin sei E=0. Im x-Bereich, wo EL(x) < 0, bekommen
+wir die vertrauten Schwingungen, fόr die x-Werte, wo das Potential einen
+Sprung macht, hat ((x) nun einen Wendepunkt (gestrichelte Linien).
+Auίerhalb davon muss die ((x)-Funktion die Gleichung
+  (''(x) ~ + ((x)
+lφsen, sie verhδlt sich also exponentiell. Physikalisch sinnvoll ist
+allein, wenn ((x) sich an die x-Achse anschmiegt. Die Wahrscheinlichkeit
+(2(x) ist nun im klassisch verbotenen Bereich klein, aber endlich.
+Tatsδchlich kφnnen Quantenobjekte auch solche Bereiche durchqueren. Dies
+ist der Tunneleffekt. Er wurde experimentell nachgewiesen.
+  Wenn nun ((x) an einer Seite festgehalten wird und die Energie E nach
+oben bzw. unten variiert wird, so wird auch die Krόmmung von ((x) im
+gesamten Bereich grφίer bzw. kleiner. Wir haben also "Glόck gehabt", wenn
+sich fόr unsere Energie E = 0 die Kurve von ((x) fόr groίe x an die x-Achse
+anschmiegt. Eine etwas grφίere Energie wόrde zu stδrkerer Oszillation von
+((x) fόhren, so dass ((x) nach rechts unten hin exponentiell steigen wόrde
+(s. Abb. 4). Umgekehrt wόrde eine etwas kleinere Energie dazu fόhren, dass
+((x) nach rechts oben "entweichen" wόrde. Erst wenn die Energie deutlich
+hφher oder niedriger wδre, kφnnte eine halbe Oszillation mehr oder weniger
+in den Topfbereich passen, so dass ((x) wieder asymptotisch gegen 0 ginge.
+Die Randbedingungen werden also im allgemeinen fόr mehrere, ganz bestimmte
+diskrete Energien gelφst.
+
+
+
+
+Lφsung mit dem Computer
+
+  Nachdem nun die wesentlichen Ideen bei der Lφsung der
+Schrφdingergleichung fόr verschiedene Potentiale verstanden wurden, kann
+man die numerische Feinarbeit an den Computer abgeben. Dazu kann man ein
+Modellbildungssystem nehmen (z.B. MODELLUS [3] oder MOEBIUS [4]). Es
+existiert aber auch eine Vielfalt spezieller Software, die eigens
+geschrieben wurde, um die Schrφdingergleichung fόr verschiedene Potentiale
+zu lφsen. Ein Vertreter findet sich im Software-Paket von F. Bader [5], ein
+anderer, der besonders flexibles Einstellen der Potentiale erlaubt ist im
+Programm-Paket ALEA (erhδltlich beim Klett-Verlag) enthalten. Vom Autor
+dieses Artikels existieren zwei Programme, die speziell fόr den hier
+vorgestellten Unterrichtsgang programmiert wurden [6].
+1. In "Schrφdingers Wippe" kann man in einem Kastenpotential die Neigung
+  des Kastenbodens verstellen und so den Einfluss von EL(x) auf die ((x)-
+  Kurve studieren.
+2. "Schrφdingers Schlange" lφst die Schrφdingergleichung fόr das Coulomb-,
+  das harmonische und das Kastenpotential mit endlicher Tiefe. Dabei kφnnen
+  die Energieniveaus durch Verschieben von mehreren Reglern auf sechs
+  Stellen genau eingestellt werden, bis sich die ((x)-Kurve erkennbar gut
+  an die x-Achse anschmiegt.
+
+Zu den Orbitalen
+
+  Aus dem Verlauf von ((x) erhδlt man durch Quadrieren die
+Wahrscheinlichkeit P(x), das Elektron bei einer Ortsmessung am Ort x
+nachzuweisen. Durch άbertragung der zugehφrigen P(x)-Funktionen auf die
+drei Raumrichtungen erhδlt man den rδumlichen Verlauf von P(x) und damit
+eine stimmige Interpretation der aus der Chemie gelδufigen Orbitale.
+  Ich empfehle, dazu die P(x)-Funktionen vom Potentialtopf zu nehmen. Der
+Grund ist, dass die Schrφdingergleichung fόr das H-Atom eigentlich
+dreidimensional gelφst werden mόsste. Dies fόhrt zwar zur gleichen
+Schrφdingergleichung (in Abhδngigkeit vom Radius r), allerdings sind die
+sich ergebenden Lφsungen keine (-Funktionen, sondern r(-Funktionen. Die ist
+auch der Grund, warum die Lφsungen fόr x = 0 gegen 0 gehen, obwohl die s-
+Orbitale in der Nδhe des Atomkerns besonders hohe P(x)-Werte anzeigen.
+Damit das r aus den r(-Funktionen nicht herausgerechnet werden muss,
+begnόgt man sich mit den Orbitalen, die sich in einem dreidimensionalen
+Topf ergeben wόrden. Die wesentlichen Gesichtspunkte treten auch hier
+zutage:
+  Die erste (-Funktion im Potentialtopf hat einen Bauch, die zweite zwei
+usw. Entsprechend hat die erste P(x)-Funktion P1(x) ein Gebiet maximaler
+Wahrscheinlichkeit, die zweite P2(x) zwei solche Gebiete usw. Ist P([pic])
+in allen drei Raumrichtungen durch P1(x) gegeben, so erhδlt man ein s-
+Orbital (s. Abb. 5). Ist P([pic]) in zwei Raumrichtungen durch P1(x)
+gegeben und in der dritten durch P2(x), so erhδlt man ein p-Orbital, usw.
+(s.a. [6], S.280). Auch die Bildung eines sp-Hybrid-Orbitals ist durch
+άberlagerung der ersten mit der zweiten (-Funktion verstδndlich.
+  Mit den mδchtigen Werkzeugen Schrφdingergleichung und Computer ist es nun
+mφglich, auch fόr komplexere Situationen Vohersagen zu machen, z.B. fόr
+solche mit δuίeren elektrischen oder magnetischen Felder oder fόr
+kompliziertere Atome und Molekόle. Dazu muss jeweils das richtige Potential
+gefunden werden bzw. die (-Funktion so abgeδndert werden, dass sie mehrere
+Elektronen beschreibt. Diese nichttrivialen Erweiterungen sollen aber dem
+Hochschulstudium vorbehalten bleiben. Was aber durch diesen Weg gelegt
+wurde, ist ein Fundament, auf das Erweiterungen aufgesetzt werden kφnnen,
+ohne dass es eingerissen und neu aufgebaut werden muss.
+  Wer an expliziten, erprobten Arbeitsblδttern im Word-Format interessiert
+ist, kann diese entweder dort finden oder auch direkt unter meiner Email-
+Adresse anfordern. Eine Kostprobe:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Abb. 5: Orbitale, wie sie aus dem Kastenpotential folgen wόrden.
+
+
+
+Beispielaufgabe:
+Gegeben sind zwei Potentiale (s. Abb. 6).
+Welche (-Funktionen sind sicher keine Lφsungen der Schrφdingergleichung fόr
+das darόberstehende Potential mit der eingezeichneten Energie E.
+Begrόndung!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Abb. 6: Welche ?-Funktionen passen nicht zum Potential?
+
+
+Lφsung:
+Linkes Potential:
+Bei der oberen Lφsung wird die Krόmmung
+zum rechten Rand hin kleiner, bei der
+unteren grφίer.
+Da die Differenz zwischen EL(x) und E
+zum rechten Rand hin abnimmt,
+kann hφchstens die obere Lφsung richtig sein.
+
+Rechtes Potential:
+Bei der oberen Lφsung ist der Wendepunkt
+nicht da, wo EL(x) = E ist, sondern
+viel zu weit links (s. Abb. 7). Folglich ist diese
+Lφsung falsch.
+Wenn man die untere Lφsung
+quadriert bekommt man nicht
+verschwindendes P(x) auch rechts vom
+Rand. Das ist verboten.
+Also ist auch diese Lφsung falsch.
+Auίerdem ist die Krόmmung
+der (-Funktion im linken Teil
+unsymmetrisch.
+
+
+
+
+
+
+
+
+                   Abb. 7: Beide "Lφsungen" passen nicht.
+
+
+
+Literatur:
+[1] R.P. Feynman - R.B. Leighton - M. Sands: The Feynman Lectures on
+   Physics, Volume III,  Addison-Wesley, Reading, 1964.
+[2] H. Niedderer - J. Petri, Mit der Schrφdinger-Gleichung vom H-Atom zum
+   Festkφrper, Unterrichtskonzept fόr Lehrer, 1997 und 2000.
+[3] V.D. Teodoro, MODELLUS, gleichungsorientierte Modellbildungssoftware
+   fόr PC, http://phoenix.sce.fct.unl.pt/modellus.
+[4] J. Kόblbeck, Quantenphysik unter besonderer Berόcksichtigung der
+   Modellbildung mit Unterrichtsmaterial fόr die Oberstufe, LEU
+[5] H. Hoff, R. Mόller, H. Wiesner, Mόnchner Internet-Projekt zur
+   Lehrerfortbildung in Quantenmechanik (MILQ), www.physik.uni-
+   muenchen.de/didaktik/milq.
+[6] W.P. Hirlinger, Schrφdingergleichung in der Schule, http://www.t-
+   online.de/home/W.P.H
+[7] D. Hoche, MOEBIUS,
+[8] F.Bader, Eine Quantenwelt ohne Dualismus, Schroedel, Hannover, 1996.
+      www.physik.uni-muenchen.de/didaktik.
+[9] F.Bader - F.Dorn, "Gymnasium Sek II", Schroedel, Hannover, 2000.
+[10] J. Kόblbeck, Rainer Mόller, Praxis Schriftenreihe Band 60, Die
+   Wesenszόge der Quantenphysik, Aulis- Verlag
+
+
+  -----------------------
+[1] Die Krόmmung im  mathematischen  Sinn  ist  dagegen  eine  Funktion  der
+zweiten und der ersten Ableitung.
+
+-----------------------
+x
+
+((x)
+
+
+                    Abb. 1: Lφsung von (''(x) ~ (- ((x))
+
+
+
+x
+
+EL(x)
+
+x
+
+((x)
+
+
+                    Abb. 2:  ((x) bei geneigtem Topfboden
+
+
+
+x
+
+EL(x)
+
+x
+
+((x)
+
+
+                  Abb. 3:  ((x) im endlichen Potentialtopf
+
+
+
+
+                Abb. 4:  Die Randbedingung ist nicht erfόllt.
+
+
+
+x
+
+((x)
+
+P12(x)
+
+(1(x) + (2(x)
+
+P12(x)
+
+P1(x)
+
+P1(x)
+
+sp-Hybrid
+
+E2
+
+E1
+
+P2(x)
+
+P1(x)
+
+P1(x)
+
+P1(x)
+
+P1(x)
+
+P1(x)
+
+s-Orbital
+
+p-Orbital
+
+EL(x)
+
+(2(x)
+
+P1(x)
+
+P2(x)
+
+(1(x)
+
+x
+
+EL(x)
+
+x
+
+EL(x)
+
+x
+
+((x)
+
+x
+
+((x)
+
+x
+
+((x)
+
+x
+
+((x)
+
+E
+
+E
+
+x
+
+EL(x)
+
+x
+
+((x)
+
+x
+
+((x)
+
+E
+
+

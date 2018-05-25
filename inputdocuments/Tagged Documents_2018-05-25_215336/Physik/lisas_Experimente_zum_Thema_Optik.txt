@@ -1,0 +1,108 @@
+
+Experimente zum Thema Optik
+                                                                        von
+Lisa Fitz
+
+
+Definition von Optik:
+Optik (griech. optike "Lehre vom Sichtbaren") ist ein Bereich der Physik,
+der sich mit der Ausbreitung von Licht und dessen Wechselwirkung mit
+Materie beschдftigt.
+Unter Licht versteht man in der Regel den sichtbaren Teil des
+elektromagnetischen Spektrums. Viele Gesetzmдяigkeiten und Methoden der
+klassischen Optik gelten allerdings auch auяerhalb des Bereichs sichtbaren
+Lichts. Dies erlaubt eine №bertragung der Erkenntnisse der Optik auf andere
+Spektralbereiche (z.B. Rцntgenoptik), oder auf ganz andere Strahlungsarten
+(z.B. Elektronenoptik).
+
+    . Erstes Experiment:    Der versilberte Lцffel
+
+
+Was benцtigen wir:  einen Teelцffel, eine kleine Kerze, ein Glas Wasser
+Vorgehensweise:  Der Lцffel wird vorsichtig in einige Zentimeter Entfernung
+ьber die Flamme gehalten bis er mit Ruя bedeckt ist, also bis er ganz
+schwarz ist. Dann taucht man den ruяigen Teelцffel ganz vorsichtig in das
+Wasserglas. Plцtzlich scheint der Lцffel nicht mehr hдsslich schwarz,
+sondern glдnzt silbern wie zuvor. Doch wenn man den Lцffel wieder aus dem
+Wasser zieht, kommt wieder die schwarze, ruяige Oberflдche zum Vorschein.
+Erwachsenenerklдrung: der Grund fьr dieses Phдnomen ist die Lichtbrechung.
+Ob der Lцffel fьr uns Silber aussieht oder nicht hдngt von verschiedenen
+Faktoren ab, nдmlich von dem Einfallswinkel des Lichtes, der Brechung und
+am Winkel des Betrachtens (Durch einige Versuchswiederholungen stellte ich
+fest, dass nicht immer der Lцffel Silber ist)
+Definition der Brechung: Brechung bezeichnet die Richtungsдnderung einer
+Welle aufgrund einer lokalen ƒnderung ihrer Ausbreitungsgeschwindigkeit.
+Treffen Licht- oder andere elektromagnetische Wellen von einem Medium (zum
+Beispiel Luft) auf ein anderes (zum Beispiel Glas), dessen Brechungsindex
+sich von dem des ersten unterscheidet, wird ein Teil des Lichts
+reflektiert, ein anderer erfдhrt eine Ablenkung gemдя dem Snelliusschen
+Brechungsgesetz. Beim №bertritt in ein optisch dichteres Medium wird der
+Strahl zum Lot der Trennflдche gebrochen, also steiler, und bei einem
+dьnneren Medium vom Lot.
+Durch die Brechung werden eben die Lichtstrahlen so gebrochen und auf
+unsere Netzhaut geworfen, das die Oberflдche fьr uns Silbern erscheint. ( =
+Optische Tдuschung)
+Kindgerechte Erklдrung:  Wieso glдnzt eine ruяbedeckte Oberflдche nicht?
+Dies liegt daran, dass Ruя eine raue Oberflдche hat. Unter dem Mikroskop
+hat die Oberflдcheganz viele kleine Berge und Tдler, welche fьr unser Auge
+nicht sichtbar sind. Solche rauen Flдchen glдnzen und spiegeln nicht.
+
+Doch wenn man nun den Metalllцffel in das Glas Wasser taucht, bleiben in
+den vielen kleinen Tдlern winzig kleine Luftblдschen hдngen. Sie kцnnen
+dort nicht weg und bilden deswegen eine vollkommen glatte Oberflдche.
+Sie sind sogar so glatt und gleichmдяig, dass sie wie ein Spiegel wirken.
+Da ganz viele Luftblдschen dicht nebeneinander kleben, sieht es aus als ob
+der Lцffel selbst versilbert worden wдre. Wenn man den Lцffel wieder aus
+dem Glas Wasser hinaus zieht, platzen alle kleinen Blasen wieder, und der
+Lцffel ist wieder genauso schwarz wie vorher.
+Reflexion:  Fьr die Kinder war das Experiment faszinierend. Es war fьr sie
+wie Zauberei sie wollten es immer und immer wieder wiederholen, da sie es
+so interessant fanden und sich zuerst gar nicht vorstellen konnten wie,
+dies funktionieren sollte. Doch mit einer kindgemдяen Erklдrung und den
+richtigen Medien konnte ich ihnen das Experiment erklдren und
+verdeutlichen.
+Tipp: Dadurch, dass man sich leicht ruяig machen kann, wьrde ich empfehlen,
+dass die Kinder sich Malkitteln anziehen, um Flecken im Gewand zu
+vermeiden. Auяerdem wьrde ich diesen Versuch nur in der Kleingruppe
+durchfьhren, da dadurch jedes Kind besser sieht und das Experiment besser
+erleben kann.
+
+    . Zweites Experiment: Warum ist der Himmel blau?
+
+
+ Was benцtigen wir:  hohes, durchsichtiges Glas, Wasser, Milch,
+Taschenlampe
+ Vorgehensweise: Der Behдlter wird mit Wasser gefьllt. Nun fьgt man so viel
+Wasser dazu, dass das Wasser stark getrьbt ist. Unter das Glas hдlt man
+dann eine Taschenlampe, so dass sie nach oben durch die Flьssigkeit
+leuchtet. Bei genauerer Beobachtung sieht man, dass das oben angekommene
+Licht rцtlich erscheint. Doch betrachtet man das Glas von der Seite,
+erscheint die Flьssigkeit leicht blдulich.
+Erwachsenenerklдrung: Das von der Taschenlampe ausgestrahlte Licht besitzt
+ein Spektrum von Violett bis Rot. Das energiereiche violette Licht wird von
+den Milchmolekьlen im Wasser, wie auch von den Luftmolekьlen in der
+Atmosphдre, stдrker gestreut als das rote Licht. Wдhrend uns ein groяer
+Teil des roten Lichts direkt erreicht, steuert der blaue Anteil sein Ziel
+eher indirekt an. Daher erscheint auch der Zylinder von der Seite
+betrachtet blдulich zu leuchten.
+Dies wird auch bei Aufnahmen der Erdoberflдche ausgenьtzt. Wertet man den
+Blauanteil des beim Satelliten ankommenden Lichts aus, so enthдlt dieses
+viele Informationen ьber die Wolkendecke. Die roten Anteile lassen sich
+dagegen von der Atmosphдre weniger beeinflussen und eignen sich daher eher
+fьr Oberflдchenaufnahmen.
+Kindgerechte Erklдrung:  Der Himmel ist nur tagsьber blau, also muss das
+irgendwie mit der Sonne zusammenhдngen.... Das Licht der Sonne besteht aus
+verschiedenen Farben (rot, orange, gelb, grьn, blau, indigo und violett)
+die  - zusammengemischt - weiяes Licht ergeben. Wenn das Sonnenlicht auf
+die Luftteilchen in der Atmosphдre (so nennt man die Lufthьlle, die unsere
+Erde umgibt) trifft, wird dieses Licht gebrochen. Ein Teil der
+verschiedenen Lichtanteile wird dabei von der Luft wieder in den Weltraum
+zurьckgestrahlt (reflektiert). Nur die blauen Anteile des Lichts schaffen
+es, sich an den Luftteilchen "vorbeizumogeln". Deshalb strahlt der Himmel
+so schцn blau. Wenn nur grьnes Licht zurьckgeworfen wird wie bei grьnen
+Blдttern, erscheint der Gegenstand grьn.
+Reflexion:  Die Kinder waren sehr erstaunt von meinen Versuch. Der Versuch
+eignet sich jedoch nur fьr Vorschul- bzw. Schulkinder, da es fьr die Kinder
+nicht ganz einfach ist dieses Phдnomen zu begreifen.
+Tipp: Am besten eignet sich fьr diesen Versuch ein vollkommen glattes Glas,
+dadurch sind die Fдrbungen besser zuerkennen.

@@ -1,0 +1,356 @@
+
+Einleitende Bemerkungen zum Modul
+                "Spezifisches Methodenrepertoire der Physik"
+                      der ZPG-Fortbildung zur Kursstufe
+
+                Computerunterstόtztes Messwerterfassungs- und
+                  Auswertesystem CASSY im Schόlerpraktikum
+
+Vorwort
+Das vorliegende  Skript  mit  den  dazugehφrigen  ausfόhrlich  beschriebenen
+Experimenten wδre nicht mφglich gewesen ohne die konstruktive  Beratung  und
+Mithilfe meines Kollegen Werner Schich, bei dem ich mich fόr die  wertvollen
+Ideen und  Ratschlδge,  tatkrδftige  Unterstόtzung  und  ermutigenden  Worte
+bedanken mφchte.
+
+Kompetenzen und Inhalte des Bildungsplans 2004
+
+4. Spezifisches Methodenrepertoire der Physik
+Klasse 10:  Die Schόlerinnen und Schόler kφnnen computerunterstόtzte
+Messwerterfassungs- und           Auswertesysteme im Praktikum unter
+Anleitung einsetzen.
+
+Klasse 12:  Die Schόlerinnen und Schόler kφnnen computerunterstόtzte
+Messwerterfassungs- und           Auswertesysteme im Praktikum
+selbststδndig einsetzen.
+
+Ziel des Moduls
+Ziel  des  Moduls  ist  es,  den  Kolleginnen  und  Kollegen  Ideen  und  im
+Unterricht direkt einsetzbare Materialien anzubieten, um sie in die Lage  zu
+versetzen, die oben genannte Kompetenz bei ihren Schόlerinnen  und  Schόlern
+der Kursstufe auszubilden. Dazu war es notwendig, sich  auf  ein  spezielles
+Messwerterfassungs- und Auswertesystem zu beziehen. Exemplarisch wird  daher
+ein  Lehrgang  fόr  das   Messwerterfassungs-   und   Auswertesystem   CASSY
+vorgestellt. Eine Anpassung des Skripts an ein anderes  System  ist  mφglich
+und durchaus gewόnscht.
+
+Experimentiermaterial und verwendete Sensoren
+Neben dem  Messwerterfassungs-  und  -auswertesystem  CASSY  werden  in  den
+vorgestellten    Versuchen    Experimentiermaterialien    verwendet,     die
+grφίtenteils in den Physiksammlungen der  Schulen  vorhanden  sind.  Nur  in
+wenigen   Fδllen   mόssen   Kleinmaterialien   (z.B.   12V-Energiesparlampe)
+beschafft werden. Wenn es sich um  Gerδte  der  Firma  LD-Didactic  handelt,
+sind die Bestellnummern angegeben.  Diese  Materialien  kφnnen  jedoch  auch
+durch δhnliche andere Materialien ersetzt werden.
+Das verwendete Messwerterfassungs- und Auswertesystem ist  CASSY  der  Firma
+LD-Didactic. Einige Grόnde dafόr sind:
+      .  Das  CASSY-System  wird  bereits  an  vielen  Schulen  in   Baden-
+        Wόrttemberg  in  den  Fδchern  Physik,  Chemie,  Biologie  und  NwT
+        eingesetzt.
+      .  Es  arbeitet  sehr  zuverlδssig,  ist  bedienerfreundlich,  leicht
+        erlernbar und universell einsetzbar.
+      . Es liegen viele positive Erfahrungen aus dem eigenen Unterricht der
+        Mittel- und Oberstufe des  Autors  sowie  aus  der  Ausbildung  von
+        Referendarinnen und Referendaren vor.
+Da es um  den  Einsatz  im  Schόlerpraktikum  geht,  wird  das  Pocket-CASSY
+verwendet, das insbesondere fόr die Nutzung durch Schόlerinnen  und  Schόler
+konzipiert wurde. Um die Kosten so gering wie mφglich zu  halten,  sind  die
+vorgestellten Versuche  so  ausgearbeitet,  dass  nur  wenige  Sensoren  zum
+Einsatz kommen. Als hervorragender universell einsetzbarer Sensor  hat  sich
+dabei der UIP-Sensor bewδhrt. Mit ihm  sind  sehr  viele  Versuche  mφglich,
+jedoch   beschrδnken   sich   daher   die   Versuche   zunδchst   auf    die
+Elektrizitδtslehre. Da diese jedoch im Unterricht der Kursstufe einen  hohen
+Stellenwert einnimmt, ist  dies  vertretbar.  Nur  in  wenigen  Fδllen  sind
+weitere Sensoren notwendig. In der  Tabelle  (1)  ist  eine  Auflistung  der
+vorgestellten Experimente mit den benφtigten Sensoren zu finden.
+
+|                               |Anzahl der |                  |Weitere       |
+|                               |benφtigten |                  |Sensoren      |
+|Thema des Versuches            |Pocket-CASS|Notwendige        |wόnschenswert,|
+|                               |Y's pro    |Sensoren          |aber nicht    |
+|                               |Arbeitsplat|                  |dringend      |
+|                               |z          |                  |notwendig     |
+|Der Ohm'sche Widerstand        |1          |1 UIP-Sensor      |keine         |
+|I-U-Kennlinien einer Glόhlampe |1          |1 UIP-Sensor      |keine         |
+|und Glόhfadentemperatur        |           |                  |              |
+|Einschaltvorgang eines         |1          |1 UIP-Sensor      |keine         |
+|Glόhlδmpchens                  |           |                  |              |
+|I-U-Kennlinie einer            |1          |1 UIP-Sensor      |keine         |
+|Bleistiftmine                  |           |                  |              |
+|I-U-Kennlinie einer            |2          |1 UIP-Sensor      |keine         |
+|Halogenlampe und               |           |1 Lux-Sensor mit  |              |
+|Beleuchtungsstδrke             |           |Lux- Adapter      |              |
+|Energiesparlampen              |2          |1 UIP-Sensor      |keine         |
+|                               |           |1 Lux-Sensor mit  |              |
+|                               |           |Lux- Adapter      |              |
+|Betrieb einer LED              |1          |1 UIP-Sensor      |keine         |
+|Der Lichtsensor                |2          |1 UIP-Sensor      |keine         |
+|                               |           |1 Lux-Sensor mit  |              |
+|                               |           |Lux- Adapter      |              |
+|Belastungskennlinie einer 4,5  |1          |1 UIP-Sensor      |keine         |
+|V-Batterie                     |           |                  |              |
+|Entladevorgang eines           |1          |1 UIP-Sensor      |keine         |
+|Kondensators mit Modellbildung |           |                  |              |
+|Elektromagnetische Induktion   |1 - 2      |1 UIP-Sensor      |1             |
+|durch einen rotierenden        |           |                  |Magnetfeldsens|
+|Magneten                       |           |                  |or            |
+|Induktion und freier Fall      |1          |1 UIP-Sensor      |keine         |
+|Einschaltvorgang einer Spule   |1          |1 UIP-Sensor      |keine         |
+|mit Modellbildung              |           |                  |              |
+|Diode und Widerstand im        |2          |2 UIP-Sensoren    |keine         |
+|Wechselstromkreis              |           |                  |              |
+|Schwingung eines Federpendels  |1          |1                 |keine         |
+|mit Modellbildung - Versuch mit|           |Ultraschall-Bewegu|              |
+|Ultraschall-Bewegungssensor    |           |ngssensor         |              |
+|Schwingung eines Federpendels  |1          |1                 |keine         |
+|mit Modellbildung - Versuch mit|           |Kombi-Lichtschrank|              |
+|Speichenrad und Lichtschranke  |           |e, 1 Speichenrad, |              |
+|                               |           |1 Timer S         |              |
+|Der elektromagnetische         |1          |1 UIP-Sensor      |keine         |
+|Schwingkreis                   |           |                  |              |
+
+
+Tabelle (1): Auflistung aller notwendigen  Sensoren  fόr  die  vorgestellten
+Versuche
+Der Einsatz des Pocket-CASSY im Schόlerpraktikum ist  aber  keinesfalls  auf
+die Elektrizitδtslehre beschrδnkt. Mit den entsprechenden Sensoren  ist  die
+Durchfόhrung  von  Schόlerexperimenten  mit     CASSY  in  praktisch   jedem
+physikalischen Gebiet mφglich. Die Einsatzmφglichkeiten sind vielfδltig  und
+nahezu unbeschrδnkt. Insbesondere wδre auch ein Einsatz in  der  Mittelstufe
+denkbar (siehe Kompetenz im Bildungsplan 2004,  Klasse  10).  Neben  einigen
+der hier vorgestellten Versuche aus der Elektrizitδtslehre ist  ein  Einsatz
+von CASSY in der Mittelstufe in Bereichen der Akustik (Sensor  Mikrofon  S),
+der   Wδrmelehre   (Temperatursensor)   sowie    in    der    Bewegungslehre
+(Fahrbahnversuche) mφglich. Hierfόr liegen ebenfalls gute  Erfahrungen  vor,
+werden  hier  aber  nicht  weiter  vorgestellt.  Vorschlδge   fόr   mφgliche
+Anschaffungen   sind   im   Kapitel   "Pocket-CASSY   fόr   Schόlerversuche"
+aufgefόhrt.
+
+Neuere Version der Software - CASSY Lab 2
+Seit Mitte 2010 bietet LD-Didactic neben dem neuen Datenlogger  Sensor-CASSY
+2 auch eine όberarbeitete Software CASSY Lab 2 an.  Das  vorliegende  Skript
+wurde jedoch zunδchst fόr das "alte" CASSY  Lab  (CASSY-Lab  1)  angefertigt
+und  dort  ausfόhrlich  erprobt.  Da  viele  Schulen  bereits  CASSY-Lab   1
+besitzen, kann das Skript sofort im Unterricht  mit  dieser  alten  Software
+eingesetzt werden. Schulen,  die  CASSY  neu  erwerben,  erhalten  die  neue
+Software CASSY-Lab 2. Eine Anpassung des vorliegenden Skripts auf  CASSY-Lab
+2 (insbesondere die "Einfόhrung CASSY-Lab" sowie die Versuchsanleitungen  im
+Ordner  "Experimente")  wurde  vorgenommen,  es  liegen  mit  dieser   neuen
+Software jedoch noch wenige  Erfahrungen  vor.  Weitere  Neuaktualisierungen
+dieser Software seit November  2010  konnten  nicht  berόcksichtigt  werden.
+Alle Versuche, die mit CASSY-Lab  1  aufgenommen  wurden,  kφnnen  auch  mit
+CASSY-Lab 2 geladen und bearbeitet werden.
+
+Idee und Aufbau des Lehrganges
+Zum selbststδndigen Umgang mit einem Messwerterfassungs- und  Auswertesystem
+gehφrt  neben  den  experimentellen   Fertigkeiten   und   Fδhigkeiten   der
+Schόlerinnen  und  Schόler  eine  Auseinandersetzung  mit  der   zugehφrigen
+Software zur Messwerterfassung und zur Auswertung der Messwerte.
+Daher ist der Lehrgang in drei Schritte gegliedert:
+           1. Schritt:      Selbststδndiges Kennenlernen der Software unter
+           Anleitung
+           2.  Schritt:  Messwertaufnahme  und  Auswertung  der   Messwerte
+           zunδchst    unter            Anleitung,    danach    mit    mehr
+           Selbststδndigkeit und steigendem             Schwierigkeitsgrad
+           3.  Schritt:  Selbststδndiges  Experimentieren   und   Auswerten
+           unterrichtsbegleitend       sowie im Praktikum
+
+
+Zum 1. Schritt:
+Die Schόlerinnen und Schόler erhalten die Arbeitsblδtter "Einfόhrung in  den
+Gebrauch des Pocket-CASSY im Physikunterricht" Seiten 1  -  7.  Damit  lφsen
+Sie als  Hausaufgabe  oder  in  einer  Planarbeit  im  Unterricht  die  dort
+genannten Aufgaben 1 und 2. Als Hausaufgabe laden sich die Schόlerinnen  und
+Schόler die Software CASSY Lab aus dem Internet  auf  ihren  PC  daheim  und
+erarbeiten sich erste Grundlagen im Umgang mit der  Software.  Im  Anschluss
+daran beantworten sie selbststδndig in einer  Form  der  Selbstdiagnose  die
+Kontrollfragen auf Seite 7.
+Zeitdauer:       1 Doppelstunde oder 90 min hδusliche Arbeitszeit
+
+Zum 2. Schritt:
+In der darauffolgenden Unterrichtsstunde zeigt der Lehrer  in  Demonstration
+mit dem Pocket-CASSY,  wie  eine  Messwertaufnahme  mit  CASSY  durchgefόhrt
+wird. (Vorbereitung der Aufgabe 3:  Ohm'scher  Widerstand).  Die  gewonnenen
+Messdaten erhalten die Schόlerinnen und Schόler als  Datei  auf  einem  USB-
+Stick oder per E-Mail. Zu Hause oder in Planarbeit im Unterricht  lφsen  sie
+die Aufgabe 3. Natόrlich ist es auch denkbar, dass bereits die  Schόlerinnen
+und Schόler selbst im Unterricht die Messwerte aufnehmen.
+Zeitdauer:       1 Doppelstunde oder 90 min hδusliche Arbeitszeit
+
+Im Anschluss daran findet ein Praktikum statt. Die Schόlerinnen und  Schόler
+lφsen zunehmend selbststδndiger die Aufgaben 4 - 7 und  werden  dabei  immer
+stδrker in die Mφglichkeiten der Auswertungen von Messdaten  mit  CASSY  Lab
+eingefόhrt. Auίerdem wiederholen die  Schόlerinnen  und  Schόler  dabei  ihr
+Grundwissen zu Kennlinien (Ohm'scher Widerstand, Glόhlampe, Halbleiter)  aus
+der Mittelstufe und erfahren interessante Erweiterungen.
+Es wδre mφglich, die Messwertaufnahme im Unterricht und  die  entsprechenden
+Auswertungen als Hausaufgabe durchzufόhren.
+Zeitdauer:       1-2 Doppelstunden + 90 min hδusliche Arbeitszeit
+
+Fazit:  Die   Schόlerinnen   und   Schόler   sollten   nun   die   Kompetenz
+"Selbststδndiger Umgang mit einem  Messwerterfassungs-  und  Auswertesystem"
+erworben haben.
+
+Zum 3. Schritt:
+Aus den vorgestellten Versuchen kann nun  eine  Auswahl  fόr  das  Praktikum
+oder unterrichtsbegleitend getroffen werden. Die  Schόlerinnen  und  Schόler
+festigen dabei ihre Kenntnisse, Fertigkeiten und Fδhigkeiten im  Umgang  mit
+dem Messwerterfassungs- und Auswertesystem  und  setzen  es  zur  fachlichen
+Erkenntnisgewinnung   ein.   In   den   Versuchen   "Entladevorgang    eines
+Kondensators",  "Einschaltvorgang  einer  Spule"   und   "Schwingung   eines
+Federpendels" kommt hierbei der neue Aspekt  der  Modellbildung  hinzu,  auf
+den  in  der  Einfόhrung  zur  Reduzierung   der   Schwierigkeiten   bewusst
+verzichtet wurde.  In  allen  drei  Versuchen  wird  das  Vorgehen  bei  der
+Modellbildung detailliert erlδutert.
+Zeitdauer pro Versuch:      1- 2 Doppelstunden + hδusliche Arbeitszeit
+
+Zur Modellbildung mit CASSY
+Die in drei Versuchen vorgenommene Modellbildung soll u.a. deutlich  machen,
+welch  leistungsfδhiges  Werkzeug  CASSY  Lab  fόr  die   Versuchsauswertung
+darstellt. Bei  der  Modellbildung  in  CASSY  Lab  ist  es  notwendig,  die
+zugehφrigen   Differenzialgleichungen   einzugeben.    Dies    ist    sicher
+unproblematisch,  wenn   diese   Differenzialgleichungen   Bestandteil   des
+Unterrichts waren. Insgesamt bleibt jedoch die Modellbildung  an  sich,  die
+Idee bzw. der mathematische Hintergrund, fόr die  Schόlerinnen  und  Schόler
+verborgen.
+Aus diesem Grund ist  die  Modellbildung  fόr  den  "Einschaltvorgang  einer
+Spule" und den "Entladevorgang eines Kondensators" zusδtzlich in  EXCEL  als
+Tabellenkalkulation in einer Arbeitsmappe durchgefόhrt  worden  (vgl.  Dorn-
+Bader: Physik Gymnasium (G8), 11/12. Schroedel 2010, S. 31 und S.  77).  Die
+Messdaten wurden zum Vergleich mit den Daten  der  Modellbildung  aus  CASSY
+Lab in EXCEL  kopiert.  Beim  Φffnen  des  EXCEL-Programmes  mόssen  "Makros
+aktiviert" werden.
+Fόr Interessierte ist die  Modellbildung  fόr  den  "Einschaltvorgang  einer
+Spule" auίerdem als Programm fόr  den  graphikfδhigen  Taschenrechner  TI-83
+o.δ. beigefόgt.
+
+Begrόndung der Versuchsauswahl
+Im Unterricht der Kursstufe nimmt das Thema Elektrizitδtslehre einen  groίen
+Raum ein. Mechanische und elektromagnetische Schwingungen,  Induktion  sowie
+die Modellbildung sind vom  Bildungsplan  vorgeschriebene  Inhalte.  In  den
+Mustercurricula der  Kursstufe  (www.bildung-staerkt-menschen.de)  wird  das
+Thema "Kennlinien von  Gerδten"  explizit  als  Wiederholungsthema  aus  der
+Mittelstufe im Kerncurriculum genannt mit dem Hinweis zur Mφglichkeit  eines
+Praktikums sowie der Arbeit im Team.
+Fόr  die  einfόhrenden  Versuche  wurde  daher  das  Thema  "Kennlinien  von
+Gerδten" bewusst ausgewδhlt. Da es in der Einfόhrung in erster  Linie  darum
+geht,  die  Schόlerinnen  und  Schόler  mit  dem   Messwerterfassungs-   und
+Auswertesystem CASSY vertraut zu machen, bieten sich einfache  Versuche  mit
+Wiederholungscharakter an,  so  dass  das  Lernen  nicht  durch  zusδtzliche
+fachliche Schwierigkeiten  unnφtig  erschwert  wird.  Ein  weiterer  Vorteil
+dieser  Einfόhrung  mit  einfachen  Versuchen  besteht   darin,   dass   die
+Kolleginnen und Kollegen diese bereits in der Mittelstufe  (Klasse  10)  mit
+wenigen inhaltlichen Δnderungen einsetzen kφnnten, da der  Bildungsplan  den
+Einsatz des Messwerterfassungs- und Auswertesystems unter Anleitung  bereits
+am Ende der Mittelstufe einfordert.
+Die vorgestellten Praktikumsexperimente lassen sich grob in vier  Kategorien
+einteilen:
+
+           1. άbliche Schόlerversuche, nun mit CASSY
+                  . Der Ohm'sche Widerstand
+                  . U-I-Kennlinie einer Glόhlampe und Glόhfadentemperatur
+                  . U-I-Kennlinie einer Bleistiftmine
+                  . Entladevorgang eines Kondensators mit Modellbildung
+                  . Belastungskennlinie einer 4,5 V-Batterie
+
+
+           2. Versuche aus dem  Unterricht,  nun  als  Schόlerversuche  mit
+           CASSY
+                  . Einschaltvorgang einer Spule mit Modellbildung
+                  . Der elektromagnetische Schwingkreis
+                  . Schwingung eines Federpendels mit Modellbildung
+
+
+           3. Interessante Anwendungen
+                  . Einschaltvorgang eines Glόhlδmpchens
+                  . Induktion durch einen rotierenden Magneten
+                  . Induktion und freier Fall
+                  . Diode und Widerstand im Wechselstromkreis
+                  . U-I-Kennlinie einer Halogenlampe und Beleuchtungsstδrke
+
+
+           4. Interessante Anwendungen im erweiterten Kontext
+                  . Energiesparlampen
+                  . Betrieb einer LED
+                  . Der Lichtsensor
+
+Die  Versuchsanleitungen  kφnnen  den  Schόlerinnen  und   Schόlern   direkt
+ausgeteilt werden. Sie  sind  alle  nach  demselben  Prinzip  aufgebaut.  Im
+Anhang jeden Versuches sind die Lφsungen eines Versuchsbeispiels  (Foto  des
+Versuchsaufbaus,   Diagramme)   dargestellt.   Auch   diese   kφnnten    den
+Schόlerinnen und Schόlern zur Selbstkontrolle mitgegeben werden.
+Alle Versuche sind praktisch erprobt, einige wurden  bereits  im  Unterricht
+eingesetzt. Die Messdateien mit den erforderlichen  CASSY  Lab-Einstellungen
+und einem Versuchsbeispiel sind in dem Ordner "Messdaten" abgelegt.
+
+Die  dargestellten  Experimente  sind  als  Anregungen  zu  verstehen.  Alle
+Materialien kφnnen sofort im Unterricht eingesetzt werden, dόrfen aber  auch
+verδndert  und  fόr  den  eigenen  Unterrichtsgang  angepasst  werden.   Die
+Versuche sind auch mit anderen Messwerterfassungssystemen durchfόhrbar.  Das
+vorliegende Material muss dann entsprechend verδndert werden.
+
+
+Inhalte des Moduls
+   1. Computerunterstόtzte Messwerterfassung und -auswertung mit CASSY
+         > Ordner "1. Einleitung"
+               o "Einleitende Bemerkungen.doc" (7 Seiten)
+               o "Zusammenstellung Messwerterfassungssysteme" (2 Seiten)
+                 ( Auflistung von Messwerterfassungs- und -auswertesystemen
+                 einschlieίlich Sensoren verschiedener Firmen
+               o "Pocket-CASSY fόr Schόlerversuche.doc" (5 Seiten)
+                 ( Kurze Vorstellung des Pocket-CASSY und verwendeter
+        Sensoren
+
+
+   2. Einfόhrung in den Gebrauch des Pocket-CASSY's im Physikunterricht
+         > Ordner "2.Einfόhrende Versuche"
+               o "Einfόhrung CASSY.doc" (15 Seiten)
+                 ( Schόlerarbeitsmaterial fόr Schritt 1 und 2
+
+
+   3. Praktikumsexperimente
+         > Ordner "3.Experimente"
+               o "Belastungskennlinie einer 4,5 V-Batterie.doc"
+               o "Betrieb einer LED.doc"
+               o "Diode und Widerstand.doc"
+               o "Einschaltvorgang einer Spule mit Modellbildung.doc"
+               o "Elektromagnetischer Schwingkreis.doc"
+               o "Energiesparlampe.doc"
+               o "Entladevorgang eines Kondensators mit Modellbildung.doc"
+               o "Induktion bei rotierendem Magneten.doc"
+               o "Induktion und freier Fall.doc"
+               o "Lichtsensor.doc"
+               o "Schwingung Federpendel mit Modellbildung.doc"
+               o "Schwingung Federpendel Speichenrad.doc"
+                 ( Schόlerarbeitsmaterial fόr Schritt 3
+
+
+   4. Messdateien in elektronischer Form
+         > Ordner "4. Messdaten"
+        ( Alle Messdateien der vorgestellten Versuche als CASSY-Lab-
+        Dateien.
+
+
+   5. Modellbildung in EXCEL und mit GTR
+         > Ordner "5. Modellbildung"
+               o "Modellbildung Spule und Kondensator.xls"
+               o Einschaltvorgang Spule_GTR.doc"
+
+   6. Ergδnzendes Material
+         > Ordner "Ergδnzendes Material"
+               o "Umgang mit unbekannten Formeln.doc" (4 Seiten)
+                 ( Erprobtes Unterrichtsmaterial zur Kompetenz des
+           Bildungsplans "Umgang  mit unbekannten Formeln"
+
+Quellenverzeichnis:
+      . www.bildung-staerkt-menschen.de
+      . Produktkatalog Physik 2010 der Fa. LD Didactic und Preisliste 2009
+      . Software CASSY-Lab 1 und CASSY-Lab 2, deren Online-Hilfen und
+        Handbuch CASSY
+      . Homepage der Fa. LD Didactic: www.ld-didactic.de
+      . Homepage der Fa. Phywe: www.phywe.de
+      . Homepage der Fa. Conatex: www.conatex.com
+      . Homepage der Fa. Vernier: www.vernier-in-der-schule.de
+      . Homepage der Fa. Conrad Electronic: www.conrad.de
+
+

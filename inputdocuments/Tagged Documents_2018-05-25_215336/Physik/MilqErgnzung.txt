@@ -1,0 +1,334 @@
+
+
+
+
+
+
+
+
+
+
+
+		zu Seite 17, letzter Satz von Kapitel 3.2:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anders formuliert gehorcht dieser Effekt dem Korrespondenzprinzip: Werden sehr viele Teilchen betrachtet, so gehen die Gesetze der Quantenphysik in die Klassische Physik über.
+
+24			3. Das Doppelspaltexperiment
+
+
+3.5   Materiewellen
+
+Du hast gesehen, dass Elektronen beim Doppelspaltexperiment auf dem Schirm ein Interferenzmuster erzeugen. Deswegen können wir sie als Materiewellen interpretieren und ihre Wellenlänge aus der Lage der Maxima berechnen.
+
+Experiment (Computersimulation): Stelle wieder Elektronen der Energie 50 keV, Spaltbreiten von 300 nm sowie einen Spaltabstand von 1000 nm ein und wähle am Schirm „theo. Verlauf“. Zähle den Abstand mehrerer Minima und lies deren Abstand auf der Skala des Schirms ab. Berechne daraus mit Hilfe der Formel  k? = d sin ?k  die Wellenlänge dieser Elektronen !
+
+Louis de Broglie erhielt für den Zusammenhang zwischen dem Impuls von Teilchen und der Wellenlänge von Materiewellen den Nobelpreis für Physik. Es gilt ? = . 
+Wie auch das Experiment von Jönsson drückt diese Beziehung den Dualismus von Welle (linke Seite) und Teilchen (rechte Seite) aus, vermittelt durch das Plancksche Wirkungsquantum h.
+Weil h = 6,67 ? 10-34 Js so außerordentlich klein ist, ergibt sich ein sehr kleiner Wert für ?. Welche Wellenlänge hättest du selbst bei einem Dauerlauf? (Kontrollergebnis ca. 10-36 m)
+
+
+Lernzielkontrolle zu Kapitel 3
+
+3.1	Welche Verteilung erwartest du im Doppelspaltexperiment bei klassischen Teilchen, 
+	a)	wenn nur ein Spalt geöffnet ist ?
+	b)	wenn beide Spalte geöffnet sind ?
+	c)	Kannst du eine Formel angeben, wie diese beiden Verteilungen zusammenhängen ?
+
+3.2	Welche Verteilung erwartest du im Doppelspaltexperiment bei Elektronen, 
+	d) 	wenn nur ein Spalt geöffnet ist ?
+	e) 	wenn beide Spalte geöffnet sind ?
+	f) 	Kannst du eine Formel angeben, wie diese beiden Verteilungen zusammenhängen ?
+	g)	Im Film ist das Muster der Elektronen erst nach und nach entstanden.
+		Erkläre, ob ein Teil des Experiments für den Wellencharakter der Elektronen spricht, 
+		ein Teil dagegen für deren Teilchencharakter !
+
+		h)	Welche Verteilung erwartest du, wenn du das Experiment mit den zwei geöffneten 
+			Spalten nun mit Licht anstelle von Elektronen durchführst? 
+
+3.3 	i)	Welche Verteilung erwartest du im Doppelspaltexperiment bei Elektronen,
+		wenn du dabei misst, durch welchen Spalt sie fliegen ?
+	j)	Erkläre „die Elektronen besitzen in der Ebene des Doppelspalts nicht mehr 
+		die Eigenschaft ,Ort’“!
+	k)	Gib ein Beispiel dafür, dass ein Quantenobjekt eine Eigenschaft erst dann hat, 
+		wenn man sie misst !
+	l)	Was bedeutet „Ortseigenschaft am Spalt und Interferenzmuster auf dem Schirm 
+		sind zueinander komplementär“ ?
+
+*	m)	Worum geht es beim Gedankenexperiment „Schrödingers Katze“ ?
+	;-)	Ist der Mond auch dann da, wenn man ihn nicht misst (d.h. wenn niemand hinsieht)?
+		 
+3.5 	n)	Gib eine Gleichung für die Wellenlänge von Materiewellen an und bestimme die
+		Wellenlänge eines Elektrons, me = 9,1?10-34 kg, von v = 0,11 c. (Da ist Ekin  ? 3 keV)
+
+
+
+
+
+
+
+
+
+
+
+
+Lernzielkontrolle zu Kapitel 4
+
+Jede Zweiergruppe notiere mindestens zwei Fragen oder Aufgaben zu diesem Kapitel, die im Plenum besprochen werden sollen. Davon sollte eine der Fragen bzw. Aufgaben von ihr erläutert oder gelöst werden können. Diese Aufgaben bzw. Fragen können sowohl einfacher, wiederholender Natur sein als auch Verständnisprobleme umfassen. Die einzelnen Fragen werden auf Karteikarten geschrieben, dann gemischt und ausgeteilt.
+
+
+
+
+
+
+
+
+
+	1.3     Licht: Welle oder Teilchen?    .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .      8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Quellen
+	
+		Kugel-Wurfmaschine 	(Java-Applet)  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .    10
+  			-  	
+		doubleslite-n.wmv   	(Film von Hitachi)        .  .  ..  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .    11, 17
+   			http://www.youtube.com/watch?v=ZJ-0PBRuthc		z.B. re Maustaste, Ziel speichern unter...
+		Doppelspaltversuch.exe 	(Computersimulation)   .  .  .  .  .  .  .  .  .  .  .     13, 14, 15, 21, 22, 28
+			http://www.physik.de.rs/schule/qm 
+		Weitere:
+			www.youtube.com/watch?v=3ohjOltaO6Y 		Zeichentrickfilm zum Doppelspaltexperiment  
+			…					Filme zu Zufall und Wahrscheinlichkeitswelle 
+		http://www.leifiphysik.de/themenbereiche/quantenobjekt-elektron		  Leifi
+		http://www.elsenbruch.info/ph13_elektronenbeugung.htm
+		Silvia Arroyo Camejo: Skurrile Quantenwelt, 12,95 €, geschrieben mit 17 Jahren, vor ihrem Abitur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.3   Licht: Welle oder Teilchen?   	
+
+Experiment: Ein Laserstrahl fällt durch einen Doppelspalt. Er wird an diesem gebeugt und erzeugt ein Muster. Miss die nötigen Größen und bestimme aus ihnen die Wellenlänge des Lichts! 
+
+Das Muster auf dem Schirm ist eine Interferenzfigur. Mit dem Spaltabstand und der Lage der Maxima kannst du den Zusammenhang  k? = d sin ?k auswerten: Bei rotem Licht ist ? ? 650 nm.
+Wir haben gesehen: Licht verhält sich in diesem Experiment wie eine Welle.
+
+Experiment: Licht fällt auf eine negativ geladene Zinkplatte. Ob eine Entladung stattfindet und wie viel Energie die Elektronen erhalten, hängt nicht von der Intensität des Lichts ab, sondern nur von seiner Farbe; dann beginnt die Entladung sofort. Erkläre diesen Effekt mit einem Modell!
+
+Mit dem Versuch zum Photoeffekt lässt sich die Energie eines Lichtquants bestimmen: E = h?.
+Wir haben gesehen: Licht verhält sich in diesem Experiment wie Teilchen.
+
+Verschiedene Modelle für Licht helfen uns bei verschieden abstakten Vorstellungen:
+- Lichtstrahlen stützen unsere Erklärungen in der geometrischen Optik der Mittelstufe,
+- Photonen nützen uns beim Beschreiben der Teilcheneigenschaften,
+- Elektromagnetische Wellen verwenden wir zum Beschreiben der Welleneigenschaften,
+- die Quantenphysik beseitigt den scheinbaren Widerspruch auf einer höheren Erkenntnisebene.
+
+Wellen- und Teilcheneigenschaften treten nicht nur bei Licht auf, sondern auch bei massiven Körpern wie Elektronen, Atomkernen und sogar Fullerenen. Das untersuchen wir im Folgenden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Veralteter Zusatzaufdruck für das Titelblatt:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			http://doku.cc/2008/03/24/die-quantenphysik/
+
+
+
+
+
+
+
+
+
+
+http://www.didaktik.physik.uni-muenchen.de/materialien/inhalt_materialien/quantenphysik_sek1/index.html  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Übersicht über die Experimente dieses Kurses
+
+Nr.	Medium	Titel	Seite 	
+1	Realexperiment	Zwei Lautsprecher	.   .   .   .	     7	
+2	Java-Applet	Kugel-Wurfmaschine1	.   .   .   .	   10	
+3	Realexperiment	Kathodenstrahlröhre	.   .   .   .	   11	
+4, 8 ,9	Film	doubleslite-n.wmv2	.   .   .   . 	11, 17	
+5-7, 10-12	Computersimulation	Doppelspaltversuch.exe3	13, 14, 15, 21, 22, 28
+			
+
+1 
+2 
+3 
+
+Weitere:
+	http://www.youtube.com/watch?v=CF3u40087Oc 
+	http://www.youtube.com/watch?v=Ia5IsjVE-EM 
+http://milq.tu-bs.de/index.php/ueberblick/wegentscheidung-und-messprozess.html?showall=1 
+http://de.wikipedia.org/wiki/Schr%C3%B6dingers_Katze#Das_Gedankenexperiment
+http://milq.tu-bs.de/index.php/hinweise.html 
+
+
+Bessere Kapitelunterteilung:	
+
+3.3   „Elektronen-Skilauf“ mit Baum
+
+3.4   „Elektronen-Skilauf“ mit Kamera
+
+Exkurs: Schrödingers Katze
+
+3.5   Materiewellen
+
+
+
+
+Lampe in Bild 3.14 mit gelbem Stift nachcolorieren!

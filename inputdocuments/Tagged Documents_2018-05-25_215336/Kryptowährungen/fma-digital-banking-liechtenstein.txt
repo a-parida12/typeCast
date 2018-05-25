@@ -1,0 +1,389 @@
+30.10.2017
+
+Kryptowährungen –
+und was machen die Regulatoren?
+Patrick Bont, 26. Oktober 2017
+
+Regulatorische Herausforderung «Internet of Money»
+
+1
+
+30.10.2017
+
+Regulierung 2017
+•
+
+Aufgaben des Regulators / der Aufsicht:
+•
+
+Kundenschutz,
+
+•
+
+Missbrauchsbekämpfung und
+
+•
+
+Systemstabilität.
+
+•
+
+Extreme Zunahme der Regulierungsdichte seit 2011;
+
+•
+
+Ist nach der Finanzkrise vor der Finanzkrise?
+
+26. Oktober 2017 I 2
+
+Money, Money, Money
+Oktober 2017
+• Bitcoin: USD ca. 5700, Marktkapitalisierung
+ca. USD 95 Mia.
+• Marktkapitalisierung total: ca. USD 175 Mia.
+(entspricht ca. Novartis)
+
+Januar 2016
+• Bitcoin: ca. USD 430, Marktkapitalisierung
+ca. USD 6.5 Mia.
+• Marktkapitalisierung total: ca. USD 7 Mia.
+
+26. Oktober 2017 I 3
+
+2
+
+30.10.2017
+
+Tulip Mania 2.0 ?
+
+Quelle: http://www.richardcayne.com/richard-cayne-meyer/tulip-mania-bubble-or-no-bubble/
+
+26. Oktober 2017 I 4
+
+Regulierungsbedarf ?
+•
+•
+
+Was ist da passiert?
+Wieso soll man das regulieren?
+•
+•
+•
+
+•
+
+Kundenschutz;
+Missbrauchsbekämpfung, Anti-Geldwäscherei;
+Systemstabilität.
+
+Was soll reguliert werden:
+•
+•
+•
+•
+
+Technologien?
+Hersteller?
+Anwendungen?
+Teilnehmer / Funktionen?
+26. Oktober 2017 I 5
+
+3
+
+30.10.2017
+
+Regulierungsansätze
+•
+
+•
+•
+
+Aus Sicht Finanzmarktregulierung sind v.a. Dienstleistungserbringer im
+Fokus, sofern sie Finanzdienstleistungen erbringen oder Finanzprodukte
+herstellen und vertreiben;
+Wichtigstes „Finanzprodukt“ auf Basis Blockchain: Kryptowährungen;
+Herausforderungen:
+•
+•
+•
+•
+•
+•
+
+Anonymität, Geldwäscherei;
+Globales System, virtueller Raum;
+Decentralized Autonomous Organizations;
+Zuständigkeitsfragen, beschränkter Geltungsbereich nationalen Rechts;
+Regelsetzung, fehlende internationale Standards;
+Enforcement, Durchsetzung der Regulierung.
+26. Oktober 2017 I 6
+
+Was sind Kryptowährungen?
+•
+
+•
+
+Die regulatorische Einordnung von Kryptowährungen ist entscheidend für
+mögliche rechtliche Konsequenzen sowie für die Bewilligung und
+Beaufsichtigung von Geschäftsmodellen durch die Finanzmarktaufsicht;
+Sind Kryptowährungen:
+•
+•
+•
+•
+•
+
+•
+
+Währungen / Devisen?
+Finanzinstrumente?
+Wertpapiere?
+E-Geld?
+Commodities?
+
+Der rechtliche Status von Kryptowährungen ist (international) nicht
+einheitlich geregelt!
+26. Oktober 2017 I 7
+
+4
+
+30.10.2017
+
+Prudentielle Regulierung von Kryptowährungen
+
+Europa (EU)
+•
+•
+
+Kryptowährungen werden im EU-Recht bislang nicht genannt;
+Die Europäische Bankenaufsicht (EBA) publizierte 2013 einen
+“Warnhinweis für Verbraucher vor virtuellen Währungen“ und 2014 eine
+„EBA Opinion on virtual currencies“:
+•
+
+•
+
+•
+
+Virtuelle Währungen werden definiert als „digitale Abbildung eines Wertes, der
+nicht von einer Zentralbank oder Behörde geschaffen wird und auch keine
+Verbindung zu gesetzlichen Zahlungsmitteln haben muss“;
+Virtuelle Währungen können demnach als „private money“ oder „commodity“
+betrachtet werden;
+
+EU-Aufsichtsbehörden befassen sich intensiv mit dem Thema.
+26. Oktober 2017 I 9
+
+5
+
+30.10.2017
+
+Österreich
+•
+•
+•
+•
+•
+•
+
+Keine Regulierung von Kryptowährungen;
+Kryptowährungen werden als „Commodity“ behandelt;
+Gewisse Geschäftsmodelle benötigen eine Bewilligung durch die
+Finanzmarktaufsicht (FMA) Österreich;
+Sowohl die FMA Österreich wie auch die Österreichische Nationalbank
+(OeNB) weisen auf die Risiken von Kryptowährungen hin;
+Die OeNB sieht bei Bitcoin („strikte Mengenbegrenzung, keine stabilisierende Zentralinstanz“) zentrale Geldeigenschaften als nicht erfüllt an;
+OeNB-Gouverneur Ewald Nowotny: „Bitcoin ist keine Währung, Bitcoin hat
+nichts, was eine gute Währung auszeichnet, nämlich in erster Linie
+Stabilität.“
+26. Oktober 2017 I 10
+
+Deutschland
+•
+
+Qualifizierung durch die Bundesanstalt für Finanzdienstleistungsaufsicht
+(BaFin) als Finanzinstrumente!
+•
+
+•
+
+•
+•
+
+Konkret als den „Devisen gleichgestellte Rechnungseinheiten“;
+
+Finanzkommissionsgeschäfte (Brokerage) und der Betreib von
+multilateralen Handelssysteme (Kryptowährungsbörsen) sind, mit
+Ausnahmen, bewilligungspflichtig;
+Vermittlung und Eigenhandel können bewilligungspflichtig sein;
+Deutsche Bundesbank Vorstandsmitglied Carl-Ludwig Thiele:
+“Der Bitcoin ist ein Tauschmittel, das nicht von einer Zentralbank
+herausgegeben wird, sondern von nicht bekannten Akteuren. Ich sehe ihn
+nicht als Währung.”
+26. Oktober 2017 I 11
+
+6
+
+30.10.2017
+
+Schweiz
+•
+•
+•
+•
+•
+•
+
+Keine Regulierung von Kryptowährungen, private Zahlungsmittel sind in
+der Schweiz erlaubt;
+Bewilligung der FINMA als Bank notwendig, wenn von Kunden Bitcoins
+angenommen und Guthaben geführt werden (ungleich Wallet Provider!);
+In der Stadt Zug werden Bitcoins zur Bezahlung von Gebühren der
+Verwaltung akzeptiert;
+In Chiasso können ab 2018 Steuern in Bitcoin bezahlt werden;
+Bislang keine Äusserungen der Schweizerischen Nationalbank zu
+Kryptowährungen;
+Generell eher Kryptowährungs-freundliches Umfeld.
+26. Oktober 2017 I 12
+
+Liechtenstein
+•
+•
+•
+
+•
+
+Keine nationale Gesetzgebung i.S. Kryptowährungen;
+Anwendung Bankgesetz, E-Geldgesetz oder Zahlungsdienstegesetz?
+Herstellung und Nutzung von Kryptowährungen als Zahlungsmittel
+unterstehen keiner spezialgesetzlichen Bewilligungspflicht, aber…
+• je nach Ausgestaltung des Geschäftsmodells können trotzdem
+Bewilligungspflichten in Frage kommen!
+• Grundsätzlich werden Kryptowährungen als „Commodities“ betrachtet;
+• Zu Berücksichtigen ist aber insbesondere die Definition
+Finanzinstrumente / Wertpapier gemäss MiFiD;
+Beurteilung durch die FMA auf Basis Einzellfall.
+26. Oktober 2017 I 13
+
+7
+
+30.10.2017
+
+Global „Blockchain gut – Bitcoin böse“
+Zahlreiche Zentralbanken und Behörden arbeiten an Blockchain-basierten
+Transaktionssystemen oder sogar an nationalen Kryptowährungen, z.B.:
+• STELLA – Projekt der EZB und Bank of Japan;
+• Kryptowährungsprojekte in Asien: Singapur, Hong Kong, China;
+• Niederlande: DNBCoin;
+• Russland: Projekt für nationale Kryptowährung;
+• Dubai: Blockchain Strategy 2020.
+Bitcoin wird zumeist als vorübergehendes Phänomen betrachtet, während die
+Technologie als sehr zukunftsträchtig bezeichnet wird.
+26. Oktober 2017 I 14
+
+Geldwäscherei-Bekämpfung und -Regulierung
+
+8
+
+30.10.2017
+
+Fokus Geldwäscherei
+•
+•
+•
+•
+
+•
+
+Kryptowährungen stehen im Ruf, für Geldwäscherei missbraucht zu
+werden;
+Auf Ebene EU sollen Kryptowährungen (bzw. virtuelle Währungen) deshalb
+vom Anti-Geldwäscherei-Regime erfasst werden;
+Vorschlag der EU-Kommission zur Anpassung der GeldwäschereiRichtlinie im Juli 2016 erfasst Umtauschplattformen und Wallets;
+Tendenziell ist eine strenge Regulierung zu erwarten. Wie genau die
+Sorgfaltspflichten von den einzelnen Anbietern umgesetzt werden müssen,
+ist fraglich (public blockchains);
+Liechtenstein: Wechselstuben (Fiat vs. Kryptowährungen) sind seit 1.
+September 2017 sorgfaltspflichtig.
+26. Oktober 2017 I 16
+
+Initial Coin Offering (ICO) / Token Generating Event (TGE)
+
+9
+
+30.10.2017
+
+Token-Economy
+
+26. Oktober 2017 I 18
+
+ICO / TGE
+•
+•
+•
+•
+•
+
+Finanzierung von Projekten bzw. Start-ups;
+Verkauf von sog. Token gegen Kryptowährungen;
+Die Token können, je nach Projekt und Ausgestaltung, Anteile am
+Unternehmen oder Nutzungsrechte an einem Produkt darstellen;
+Token sind zumeist an Kyryptowährungs-Börsen handelbar;
+Zahlreiche ICO-Anfragen in Liechtenstein.
+
+26. Oktober 2017 I 19
+
+10
+
+30.10.2017
+
+Was sind Tokens?
+•
+•
+
+•
+
+Einordnung von Tokens ist schwierig;
+Funktion ist entscheidend:
+• Tokens, welche die Nutzung einer Software oder Teilnahme an einem
+(IT-)System ermöglich, sind Nutzungsrechte oder Lizenzrechte;
+• Tokens, die Eigenschaften von Beteiligungspapieren aufweisen bzw.
+Investmentcharakter haben, sind „ digitalisierte“ Wertschriften und
+fallen damit unter die einschlägigen Bestimmungen.
+FMA-Faktenblatt: https://www.fma-li.li/files/fma/fma-faktenblatt-ico.pdf
+
+26. Oktober 2017 I 20
+
+Ausblick
+
+11
+
+30.10.2017
+
+Ausblick: «Internet of money» Regulierung
+•
+•
+
+Regulatoren befinden sich in einem Lernprozess;
+Regulierung ist mit Sicherheit zu erwarten:
+•
+•
+
+•
+•
+•
+
+Anti-Geldwäscherei-Regeln werden relativ bald Anwendung finden;
+Weitere Regulierungen zu Verbriefung und Verwahrung, Kategorisierung von
+virtuellen Währungen / Token, spezifischen Lizenzen etc. werden mehr Zeit
+benötigen.
+
+Selbstregulierungsinitiativen der Branche könnten Standards setzen;
+Wettbewerb der Standorte wird Regulierung beeinflussen;
+Nicht nur Finanzmarktregulierung wird angepasst werden müssen, um das
+«Internet of Money» zu verwirklichen.
+26. Oktober 2017 I 22
+
+12
+
+

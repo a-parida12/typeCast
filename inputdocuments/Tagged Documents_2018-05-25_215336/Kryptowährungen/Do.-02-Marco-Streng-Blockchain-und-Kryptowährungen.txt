@@ -1,0 +1,505 @@
+Blockchain & Cryptocurrency Mining
+Ein Überblick
+Marco Streng
+
+Founder Blockchain Consulting GmbH
+Co-Founder & CEO Genesis Group
+
+1
+
+01.
+
+/ Was ist die Blockchain
+
+“The horse is here to stay
+
+but the automobile is just
+a novelty, a fad.”
+
+Grundlagen
+/ Das Ökosystem der digitalen Währung
+/ Was ist Mining
+
+02.
+
+Chancen im Mining
+/ Hochskaliertes Bitcoin Mining
+/ Automatisierter Handel mit Kryptowährungen
+
+- Ratschlag des Präsidenten der Michigan Savings Bank
+an Henry Fords Rechtsanwalt, Horace Rackham,
+nicht in die Ford Motor Company zu investieren, 1903.
+
+/ Sicherheiten im Mining
+
+03.
+
+Ausblick in die Zukunft
+
+2
+
+Was die Blockchain bietet:
+Datensicherung in chronologisch gereihten Blöcken
+Blöcke können nicht geändert oder manipuliert werden
+Zustandsänderung mittels digitaler Authentifizierung
+
+3
+
+Private Blockchains
+
+Öffentliche Blockchains
+
+(Zugriffs-beschränkt)
+
+(berechtigungs-frei)
+
+ausgewählte Einzelpersonen /
+Gruppen
+
+Wer ist der Betreiber?
+
+jeder, der motiviert ist
+
+Renommee, Ansehen
+
+Was ist der Reiz für den Betreiber?
+
+ökonomischer Nutzen
+
+berechtigte Personen
+(z.B. Bankkunden)
+
+Wer produziert die Daten?
+
+Benutzer
+
+normalerweise die Betreiber
+
+Wer hat Zugriff auf die Datenbank?
+
+jeder
+
+Zentralserver
+
+Wo wird sie gespeichert?
+
+dezentrale Verteilung
+
+benötigt Vertrauen in die Autorität
+der Betreiber
+
+Vertrauen, Manipulation, Zensur?
+
+resistent = Sicherung über das
+Netzwerk
+
+abhängig von der Infrastruktur
+
+Ledger-Verwaltungskosten
+
+Transaktionsgebühr (Miner)
+
+4
+
+Eigenschaften von Krypto-Währungen 1/2
+
+Endliche Geldmenge
+
+Maximal 21 Millionen
+Bitcoin können erschaffen
+werden.
+
+Globaler Zugang
+
+Jeder Mensch mit Computer &
+Internetzugang kann direkt
+teilnehmen
+
+Peer-To-Peer
+
+Teilbar
+
+Ein Bitcoin kann in kleinere
+Einheiten unterteilt werden.
+
+Zahlungen erfolgen direkt
+von Nutzer zu Nutzer, ohne
+dass Drittparteien (wie z.B.
+Banken) involviert sind.
+
+Pseudonym
+
+Zahlungen erfolgen unter
+einem Pseudonym.
+
+Fälschungssicher
+
+Durch die weltweite,
+unabhängige Bestätigung aller
+Miner ist eine manipulation der
+Transaktionen unmöglich.
+
+5
+
+Eigenschaften von Krypto-Währungen 2/2
+
+Irreversibel
+
+In der Blockchain bestätigte
+Transaktionen können nicht
+rückgängig gemacht werden
+
+Beständig
+
+Bitcoin verfallen nicht; nur ein
+Zugang zum Internet ist nötig.
+
+Niedrige Transaktionskosten
+Jede Transaktion kostet eine
+minimale Gebühr die unabhängig
+von der Höhe des Betrages ist
+
+Dezentral
+
+Das System kommt ohne
+zentrale Knoten aus.
+
+Schnelle Zahlungen
+
+Zahlungen erscheinen instantan auf der
+Blockchain und werden innerhalb von
+ca. 10 Minuten bestätigt (abhängig von
+der Miner-Gebühr)
+
+Open Source
+
+Der Quellcode der Software
+liegt vollständig offen und
+kann von jedem eingesehen
+und verbessert werden.
+
+6
+
+Digitales Geld / Dezentralität
+
+●
+●
+
+●
+●
+
+●
+
+Digital? Euro / USD ⇒ fast digital
+Was bedeutet “dezentral”?
+○ keine zentrale Knotenpunkte / kein SPOV
+○ jeder Knoten verfügt über dieselben Informationen
+Warum dezentral? ⇒ E-Gold (1996 - 2009)
+Was sind die Vorteile?
+○ Zensur-Resistenz
+○ Widerstandsfähigkeit (“resilience”)
+○ kein Vertrauen in eine Gegenpartei nötig
+Was sind die Nachteile?
+○ Ineffizienz
+○ Schwierigkeit der Konsensfindung
+
+Bitcoin ist die erste dezentrale Währung!
+
+Netzwerk Topologie
+von Bitcoin
+
+7
+
+Was ist eine “gute” Form von Geld?
+
+Ein Gut muss über bestimmte Eigenschaften verfügen, damit es als Geld anerkannt
+werden kann. Ist Bitcoin eine gute Form von Geld?
+Gold
+
+Bitcoin
+
+Beständigkeit
+
+Sehr hoch: Gold ist nahezu nicht zerstörbar
+
+Sehr hoch: Bitcoin codes können in
+verschiedener Form gelagert werden. Die
+Einträge in der Blockchain bestehen für
+immer.
+
+Transportierbar
+
+Mittel: Gold hat ein hohes Wert-GewichtSehr hoch: jeder Betrag leicht elektronisch
+Verhältnis; Transport ist trotzdem aufwendig transportiert werden; ggf. kann sich der
+Zugangscode auch gemerkt werden.
+
+Fungibel
+
+Ja.
+
+Ja.
+
+Teilbar
+
+Mittel: das Teilen von Gold erfordert
+Aufwand.
+
+Sehr hoch: jedes Bitcoin besteht aus 100
+Millionen kleinere Einheiten, die auch als
+“Satoshis” bezeichnet werden.
+
+Seltenheit
+
+Endliche Goldmenge, aber die Gesamtmenge Es kann niemals mehr als 21 Millionen
+ist unbekannt. Es wird immer noch viel Gold Bitcoin geben
+gefunden.
+
+Fälschungssicher
+
+Mittel: es ist aufwendig, um die Echtheit von Ja. Die Echtheit wird durch die Software
+Gold zu überprüfen (Wolfram hat bspw. eine und Mathematik garantiert.
+sehr ähnliche Dichte).
+
+8
+
+Digitale Währungen sind ein selbstregulierendes Netzwerk!
+Die zugrunde liegende Blockchain - Technologie ist von der Anwendung abhängig.
+Spezifische Charakteristika, so wie Zensurresistenz und
+
+das dezentralisierte Vertrauen verursachen Kosten,
+aber auch kreativen und innovativen Handelsraum.
+
+Handels- und
+Transaktionsplattformen
+Verbinden das Netzwerk
+
+Die primäre Anwendung für Bitcoin, Ethereum und
+andere Kryptowährungen ist der Nutzen als digitale
+Währung oder als Wertanlage.
+Diese Werte (Benutzertransaktionen) werden von
+einem Netzwerk an Verknüpfungen (Miners) validiert
+
+und im Konto (ledger) protokolliert.
+
+Benutzer
+& Händler
+Beleben das Netzwerk
+
+Miners
+Sichern das Netzwerk
+
+Handelsplattformen (exchanges) dienen als Zugang zu
+den Weltmärkten.
+
+9
+
+Die Blockchain Giganten
+Überregional akzeptiert, gründlich getestet, mit einem Aufwärtstrend im Wert
+
+Bitcoin
+
+Ethereum
+Schnellere Transaktionen
+
+On Chain Scaling (SegWit / Schnorr Sigs)
+2nd level layer (Lightning / Thunder Network)
+
+Sidechains / Rootstock / Smart Contracts
+
+Noch schnellere Abregelungen
+Arbiträre Ortung auf der Chain
+Smart Contracts (DAPPS)
+
+10
+
+Beide Blockchain Arten benötigen Sicherheit
+und ein verlässliches Konsenssystem.
+Das Proof-Of-Work Konzept ist die passende Lösung.
+
+Mining ist bisher der beste
+Konsensmechanismus für öffentliche
+Blockchains.
+Miners schützen die Blockchain und
+bilden so ein verlässliches
+Transaktionsnetzwerk.
+Miner werden mit frisch erzeugten
+Währungseinheiten belohnt.
+
+11
+
+Ein Blick auf die Evolution der Mining Hardware
+Mehr Hashes pro Sekunde erhöhen die Wahrscheinlichkeit, einen Block zu finden.
+
+~2x
+
+~10x
+
+CPU Mining (2010)
+über Standard Computer CPUs
+
+GPU Mining (2011)
+über Grafikkarten
+
+~100x
+
+FPGA Mining (2012)
+field-programmable
+
+ASIC Mining (2013)
+application-specific
+
+gate arrays
+
+integrated circuits
+
+12
+
+Home Mining/Privates Mining
+Mining-Hardware muss vom Hersteller
+oder Einzelhändler gekauft werden.
+
+Hardware-Installation mittels des
+Standard PC-Zubehörs (PSU etc.).
+Software-Installation mittels
+gemeinschaftlich betriebener Open Source
+Programme.
+
+13
+
+Large Scale Mining/Kommerzielles Mining
+Miners werden in Großaufträgen direkt vom
+Hersteller gekauft.
+Hardware-Installation findet in
+großflächigen Anlagen mit optimierter
+Infrastruktur statt.
+
+Genesis Enigma Ethereum Mine
+
+Individuell angepasste Software für
+Kontrollprozesse und zur Optimierung von
+Hashpower wird installiert (e.g. Genesis Hive).
+
+Genesis Bitcoin Mine
+
+14
+
+Investitionsmöglichkeiten
+
+15
+
+Schlüsselaspekte im Mining
+
+Hardware-Effizienz
+Starke Leistung der ASIC chips, der PCBs und anderer
+Hardwarekomponenten.
+Infrastruktur-Effizienz
+A)
+
+Kühlung der Mining-Anlage und generellen
+Struktur. Economy of scale.
+
+B)
+
+Überwachung und Instandhaltung der
+Hard- und Software. Oversight of all processes.
+
+Strompreise
+Der Strompreis sollte in optimaler Relation zur Skalierung
+stehen.
+
+Die Graphik zeigt, dass im Falle einer kontinuierlichen
+Profitabilitätsabnahme nur der Miner mit der höchsten
+Effizienz weiterhin mined und seinen Ertrag erhöht,
+während andere Miner gezwungenermaßen das
+Minen aufgeben müssen.
+Effizienz ist entscheidend!
+
+16
+
+Optimisierungsmöglichkeiten: Genesis Hive
+
+Einsatz & Überwachung
+- Sofortige Integrierung und Konfiguration der neuen Mining
+Hardware
+- Detailreiche Echtzeit-Statistiken aller Mining-Operationen
+
+Management & Automatisierung
+- Leistungsstarke Kontrolle über die Mining Pools und die
+gesamte Farmaktivität
+- Optimierung der Mining-Leistung
+- Regelbasierte, automatische Anpassung an individuelle
+Maschinen
+
+17
+
+Automatisiertes Handeln von Mining Erträgen
+Portfolio Optimierung
+User Mining Rigs
+angemietete
+Hashpower
+
+Alcoin Trader
+profitabelste
+Konvertierung
+
+Control Unit
+
+User Wallets
+von CU zugewiesen
+
+Mining Allocation
+
+01
+
+Portfolio Optimierung
+Der altcoin Portfolio-Optimierer
+bestimmt zu jeder Zeit das
+profitabelste Mining-Portfolio!
+
+02
+
+Altcoin Trader
+Der Genesis Mining Trader handelt mit dem
+Mining portfolio zum profitabelsten Preis
+und konvertiert den Ertrag automatisch in
+Bitcoin. Bitcoins werden dem Benutzer jeden
+Tag ausgezahlt.
+
+18
+
+Investition in einen regulierten Mining Fonds
+
+Der weltweit erste Bitcoin Mining Fonds!
+Komplett reguliert von SEC and BaFin.
+Ermöglicht größere Investitionen in eine
+sichere und regulierte Fonds-Struktur.
+Profite aufgrund von langjähriger
+Markterfahrung, fortschrittlichen
+Technologien und optimierten MiningPlätzen.
+
+19
+
+Jetzt ist die Zeit zu Minen!
+
+Nur noch 25%
+Bitcoins können gemined werden
+
+Schätzungen zufolge können noch
+15% Ether gemined werden
+
+Steigende Nachfrage bei zunehmender Akzeptanz
++ stetige Verknappung aufgrund der Reduzierung
+der Mining-Versorgung
+
+= Höherer Wert der Kryptowährungen
+20
+
+Vielen Dank!
+Marco Streng
+
+Founder Blockchain Consulting GmbH
+Co-Founder & CEO Genesis Group
+
+21
+
+

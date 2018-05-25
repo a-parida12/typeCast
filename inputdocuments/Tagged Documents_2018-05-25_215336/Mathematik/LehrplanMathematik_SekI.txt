@@ -1,0 +1,303 @@
+MATHEMATIK
+
+
+Bildungs- und Lehraufgabe:
+
+Die Schülerinnen und Schüler sollen 
+-	in den verschiedenen Bereichen des Mathematikunterrichts Handlungen und Begriffe nach Möglichkeit mit vielfältigen Vorstellungen verbinden und somit Mathematik als beziehungsreichen Tätigkeitsbereich erleben; 
+-	mathematisches Können und Wissen aus verschiedenen Bereichen ihrer Erlebnis- und Wissenswelt nutzen sowie durch Verwenden von Informationsquellen weiter entwickeln. Das Bilden mathematischer Modelle und das Erkennen ihrer Grenzen soll zu einem verantwortungsvollen Umgang mit Aussagen führen, die mittels mathematischer Methoden entstanden sind; 
+-	durch Reflektieren mathematischen Handelns und Wissens Einblicke in Zusammenhänge gewinnen und Begriffe bilden; 
+-	in Verfolgung entsprechender Lernziele produktives geistiges Arbeiten, Argumentieren und exaktes Arbeiten, kritisches Denken, Darstellen und Interpretieren als mathematische Grundtätigkeiten durchführen, wobei sie dazu hingeführt werden sollen, Lernprozesse selbstständig zu gestalten; 
+-	durch das Benutzen entsprechender Arbeitstechniken, Lernstrategien und heuristischer Methoden Lösungswege und -schritte bei Aufgaben und Problemstellungen planen und in der Durchführung erproben; 
+-	verschiedene Technologien (zB Computer) einsetzen können.
+
+Unterrichtsziele und Unterrichtsinhalte:
+
+Die Schülerinnen und Schüler sollen durch Erwerb und Nutzung grundlegender Kenntnisse, Fertigkeiten und Fähigkeiten Einsichten in die Gebiete Arithmetik, elementare Algebra und Geometrie gewinnen. 
+-	Arithmetik: mit rationalen Zahlen rechnen, Rechenergebnisse abschätzen, elektronische Hilfsmittel benutzen können, Gesetzmäßigkeiten des Rechnens kennen und anwenden können;
+-	elementare Algebra: Variablen als Mittel zum Beschreiben von Sachverhalten, insbesondere von Gesetzmäßigkeiten und funktionalen Beziehungen, und zum Lösen von Problemen verwenden können; algebraische Ausdrücke und Formeln bzw Gleichungen umformen können;
+-	Geometrie: mit grundlegenden geometrischen Objekten und mit Beziehungen zwischen diesen Objekten vertraut werden, zeichnerische Darstellungen von ebenen und räumlichen Gebilden anfertigen können, räumliches Vorstellungsvermögen entwickeln und Längen-, Flächen- und Volumsberechnungen durchführen können, geeignete Sachverhalte geometrisch darstellen und umgekehrt solche Darstellungen deuten können.
+
+Folgende mathematischen Grundtätigkeiten sind zu entwickeln: 
+-	Produktives geistiges Arbeiten, insbesondere: Kombinieren vertrauter Methoden; Analysieren von Problemen, Begründungen, Darstellungen, mathematischen Objekten; Anwenden bekannter Verfahren, auch in teilweise neuartigen Situationen; Abstrahieren und Konkretisieren; Verallgemeinern und Spezialisieren.
+-	Argumentieren und exaktes Arbeiten, insbesondere: präzises Beschreiben von Sachverhalten, Eigenschaften und Begriffen (Definieren); Arbeiten unter bewusster Verwendung von Regeln; Begründen (Beweisen); Arbeiten mit logischen Schlussweisen; Rechtfertigen von Entscheidungen (etwa der Wahl eines Lösungsweges oder einer Darstellungsform).
+-	Kritisches Denken, insbesondere: Überprüfen von Vermutungen; Überprüfen von Ergebnissen; Erkennen von Unzulänglichkeiten mathematischer Modelle; Erkennen von Mängeln in Darstellungen oder Begründungen; Überlegen von Bedeutungen mathematischer Methoden und Denkweisen; Überlegen der Bedeutung des Mathematikunterrichts für die eigene Person.
+-	Darstellen und Interpretieren, insbesondere: verbales, formales oder graphisches Darstellen von Sachverhalten; geometrisch-zeichnerisches Darstellen von Objekten; Finden und Interpretieren graphischer Darstellungen; Erstellen und Interpretieren von mathematischen Modellen außermathematischer Sachverhalte.
+
+Beitrag zur Aufgabe der Schule:
+
+Der Mathematikunterricht soll folgende miteinander vielfältig verknüpfte Grunderfahrungen ermöglichen:
+-	Erscheinungen der Welt um uns (in fachbezogener Art wahrzunehmen und zu verstehen),
+-	Problemlösefähigkeiten zu erwerben, die über die Mathematik hinausgehen.
+Diese Grunderfahrungen sollen zur Entwicklung von Verantwortungsbewusstsein den Mitmenschen und der Umwelt gegenüber führen und zur Erkenntnis beitragen, dass Phänomene und Bereiche existieren, die unabhängig von der augenblicklichen Befindlichkeit des Menschen sind (rationale Distanz).
+
+Beiträge zu den Bildungsbereichen:
+
+Natur und Technik:
+Die Ziele und Aufgaben tragen in ihrer Gesamtheit zu diesem Bildungsbereich bei.
+Sprache und Kommunikation:
+Beschreiben von Objekten und Prozessen;
+Präzision der Sprachverwendung;
+Gebrauch und Bedeutung von Definitionen, Vorgänge des Klassifizierens;
+Umsetzen von Texten in mathematische Handlungen;
+Konzentrieren von Sachverhalten in mathematische Formeln;
+Auflösen von Formeln in sprachliche Formulierungen;
+Vermitteln und verwenden einer Fachsprache mit spezifischen grammatikalischen Strukturen.
+Mensch und Gesellschaft:
+Untersuchen von Situationen und Problemen mit Hilfe rationalen Denkens;
+Erkennen der Stärken und Grenzen der mathematischen Denkweise;
+Aufarbeiten gesellschaftlicher Themen mit mathematischen Methoden (zB Statistik);
+Kritischer Umgang mit empirischem Datenmaterial;
+Planmäßiges, sorgfältiges und konzentriertes Arbeiten.
+Kreativität und Gestaltung:
+Entwickeln verschiedener Lösungswege zu mathematischen Fragestellungen;
+Nutzen heuristischer Strategien.
+Gesundheit und Bewegung:
+Berechnungen, Statistiken und Auswertungen im Gesundheits- und Ernährungsbereich (Energieverbrauch, Nährwerttabellen, Belastungskurven).
+
+
+Didaktische Grundsätze:
+
+Jahresplanung:
+Aufbauend auf die Grundschule ist der weitere Bildungserwerb unter besonderer Berücksichtigung der Kenntnisse und Fähigkeiten der Schülerinnen und Schüler zu planen und durchzuführen. Unter Berücksichtigung des Schulprogramms sind in der Jahresplanung die Ziele und Inhalte sowohl von Kern- als auch Erweiterungsbereich zeitlich anzuordnen und zu gewichten (siehe auch Abschnitt ”Kern- und Erweiterungsbereich” im dritten Teil). 
+
+In der Jahresplanung ist ein Freiraum für Bedürfnisse von Schülergruppen vorzusehen, in dem Interessensschwerpunkte der Schülerinnen und Schüler Berücksichtigung finden, insbesondere wenn regionale, schulische oder berufsvorbereitende Erfordernisse dies nahe legen. 
+
+Wesentliche Orientierungsmerkmale für die Jahresplanung sind die Abgrenzung von Kern- und Erweiterungsbereich sowie die für das Ende der 4. Klasse angestrebten Kenntnisse, Fertigkeiten und Fähigkeiten der Schülerinnen und Schüler.
+
+Systematisches und situationsbezogenes Lernen, verständnisvolles Lernen: 
+Ein konstruktives Verhältnis der Schülerinnen und Schüler zur Mathematik soll gefördert werden. Verständnisvolles Lernen ist ein individueller, aktiver und konstruktiver Prozess. Die Schülerinnen und Schüler sind nicht Konsumierende eines fix vorgegebenen Wissens, sondern Produzierende ihres Wissens, mit Betonung auf aktives Erarbeiten, Erforschen, Darstellen, Reflektieren. Mathematische Begriffe und Verfahren werden durch die eigenen Aktivitäten von den Schülerinnen und Schülern in ihr Wissenssystem eingebaut. Im Unterricht ist eine Balance zwischen systematischem Lernen und situationsbezogenem Lernen im praktischen Umgang mit lebensweltlichen Fragestellungen herzustellen. 
+
+Unterrichtsformen:
+Einzelarbeit, Partnerarbeit, Gruppenarbeit und projektorientierter Unterricht sollen die bestimmenden Unterrichtsformen des Mathematikunterrichts sein. Schriftliche Darstellungen von Lösungswegen sollen erst dann angeboten werden, wenn sich die Schülerinnen und Schüler mit einer Aufgabe - zumindest teilweise - auseinander gesetzt haben. Auch bei leistungsstärkeren Schülerinnen und Schülern ist handlungsorientiert vorzugehen. Keinesfalls darf der Unterricht auf das Erlernen von Verfahren und Fertigkeiten beschränkt werden.
+Motivierung der Schülerinnen und Schüler:
+Mit Hilfe von Problemstellungen aus Themenkreisen, die den Erfahrungen und Interessen der Schülerinnen und Schüler entsprechen, sollen mathematisches Wissen und Können entwickelt und gefestigt werden. Dabei soll die Nützlichkeit der Mathematik in verschiedenen Lebens- und Wissensbereichen erfahren werden. Wünschenswert für diese Phase ist eine Mitverantwortung durch die Schülerinnen und Schüler. Hilfen oder Informationen sollen dann erfolgen, wenn sie verlangt oder benötigt werden. Selbstständiges Entdecken und Erfolgserlebnisse sind ein wesentlicher Beitrag zur Motivation.
+
+Unterrichten in Phasen, Vernetzung, Querverbindungen:
+Unter Beachtung der Vorkenntnisse sollen Inhalte in einer ersten Phase nur um einige Gesichtspunkte erweitert, bei einfachen Anwendungen erprobt und erst in einer späteren Phase vertieft und ergänzt werden. Vernetzungen der Inhalte durch geeignete Unterrichtssequenzen und Aufgabenstellungen sind anzustreben. 
+Querverbindungen zu anderen Unterrichtsgegenständen sowie zur Lebenswelt der Schülerinnen und Schüler sind herzustellen.
+
+Sicherung des Unterrichtsertrages:
+Die Schülerinnen und Schüler sollen Gedankengänge, die zum Erwerb mathematischen Wissens geführt haben, wiederholen und dabei lernen, erworbenes Wissen zu rekonstruieren, eigenständig darzustellen und auch zu begründen.
+Üben soll nicht nur auf die Festigung von Fertigkeiten beschränkt bleiben, sondern den Schülerinnen und Schülern sollen auch planmäßig Arbeitsaufträge zur Schulung der mathematischen Grundtätigkeiten erteilt werden.
+Für die Nachsteuerung des Lernprozesses ist die Beobachtung des Lernfortschrittes notwendig, ohne dass damit ein Notendruck verbunden sein darf. 
+
+Individualisierung und Differenzierung (siehe auch Abschnitt ”Förderung durch Differenzierung und Individualisierung” im zweiten Teil):
+Durch Differenzierungsmaßnahmen sollen die Schülerinnen und Schüler entsprechend ihren individuellen Begabungen, Fähigkeiten, Neigungen, Bedürfnissen und Interessen bestmöglich gefördert werden.
+Zur Bewältigung von mathematischen Alltagsproblemen sollen thematische Schwerpunkte gesetzt werden. Zu solchen Schwerpunktthemen sollen vielfältige mathematische Zugänge und didaktische Einstiegsmöglichkeiten geboten werden.
+Die Differenzierung und Individualisierung erfolgt unter Berücksichtigung des Arbeitstempos der Schülerinnen und Schüler durch den methodischen Zugang, nach Umfang und Komplexität der Aufgabenstellung sowie nach dem Anspruchsniveau, das mit der jeweiligen Aufgabenstellung verbunden ist. 
+
+Lesen mathematischer Texte, Fachsprache:
+Ab der 1. Klasse ist darauf Bedacht zu nehmen, dass die Schülerinnen und Schüler sich mit Mathematik auch in Textform auseinander setzen (zB selbstständiges Erarbeiten aus Musterbeispielen und Erklärungstexten). 
+Mathematische Inhalte können etwa durch Üben von Beschreibungen, Erklärungen und Kurzaufsätzen oder Erstellen von Zusammenfassungen unterschiedlich dargestellt werden. Elementare Begriffe, Symbole und Darstellungsformen können zur Beschreibung mathematischer und außermathematischer Sachverhalte sinnvoll verwendet werden. Mit wachsender Geläufigkeit im Umgang mit mathematischer Sprache und Symbolik kann diese Verwendung auch zur Klärung von Begriffen und zur Klärung von logischen Zusammenhängen dienen.
+Der Nutzen von Nachschlagwerken soll erkannt und der Gebrauch von Formelsammlungen, Tabellen und ähnlichem gelernt werden.
+
+Aufgabenstellungen:
+Sowohl der Prozess der Problemlösung als auch das Produkt haben eigenständige Bedeutung. Aufgaben sollen nach Möglichkeit so gestellt sein, dass ein Scheitern an einer Teilaufgabe die weitere Bearbeitung nicht völlig unmöglich macht. Aufgaben, die sich auf elementare Tätigkeiten beziehen, und solche mit aufeinander aufbauenden Lösungsschritten sind möglich und wünschenswert. 
+Aufgabenstellungen sind so zu wählen, dass sie in verständlicher Sprache und übersichtlicher Form abgefasst sind, die thematische Verankerung altersadäquat ist und dass ohne Zeitdruck gearbeitet werden kann. Unterschiedliche korrekte Interpretationen sind zu akzeptieren.
+
+Arbeiten mit dem Taschenrechner und dem Computer:
+Grundsätzlich sind schon ab der 1. Klasse Einsatzmöglichkeiten zur planmäßigen Nutzung von elektronischen Hilfen beim Bearbeiten von Fragestellungen der Mathematik und als informationstechnische Hilfe (in Form von elektronischen Lexika, Statistiken, Fahrplänen, Datenbanken, ...) gegeben.
+Die Möglichkeiten elektronischer Systeme bei der Unterstützung schülerzentrierter experimenteller Lernformen sind zu nutzen. 
+Das kritische Vergleichen von Eingaben und Ausgaben bei verschiedenen Programmen und Geräten bezüglich der Problemstellung kann zum Entwickeln eines problem- und softwareadäquaten Analysierens, Formulierens und Auswertens beitragen.
+
+Historische Betrachtungen:
+Den Schülerinnen und Schülern ist an geeigneten Themen Einblick in die Entwicklung mathematischer Begriffe und Methoden zu geben. Sie sollen einige Persönlichkeiten der Mathematikgeschichte kennen lernen. Die Mathematik soll als dynamische Wissenschaft dargestellt und ihre Bedeutung bei der Entwicklung der abendländischen Kultur gezeigt werden. Die Bedeutung der Mathematik in der Gegenwart soll in den Unterricht einfließen.
+
+Der Zeitrahmen für Schularbeiten ist dem Abschnitt ”Leistungsfeststellung” des dritten Teils zu entnehmen. 
+
+
+Lehrstoff:
+
+Kernbereich:
+
+Die Schülerinnen und Schüler sollen praxisorentierte Aufgaben unter dem Aspekt der Modellbildung möglichst oft rechnerisch, geometrisch und graphisch darstellen, lösen und kritisch betrachten können. Dabei sollen sie von ihrer unmittelbaren Erlebniswelt ausgehen und ihre Erfahrungen auch in fächerübergreifende Vorhaben einbringen.
+
+Die Schülerinnen und Schüler sollen ebenso grundlegendes mathematisches Wissen und Können erwerben und abstraktes Denken und formale Fähigkeiten entwickeln. Sie sollen im präzisen Arbeiten und Argumentieren ausgebildet werden und mit mathematischen Darstellungsformen vertraut werden.
+
+Sie sollen elektronische Hilfen und (auch selbst erstellte) Formelsammlungen in steigendem Ausmaß ab der 1. Klasse verwenden und wiederholt Gelegenheit haben, ihr Vorstellungsvermögen auch computerunterstützt zu schulen.
+
+Um den Schülerinnen und Schülern einen kontinuierlichen Aufbau ihrer Kenntnisse und Fähigkeiten zu ermöglichen, sind Stoffangaben der unteren Klassen in den oberen Klassen mit zu berücksichtigen.
+
+Die Abfolge der Stoffangaben ist nicht als Hinweis auf die Reihenfolge für die unterrichtliche Planung zu betrachten.
+
+
+1.	Klasse:
+
+1.1.	Arbeiten mit Zahlen und Maßen
+
+- Kenntnisse und Fähigkeiten im Umgang mit natürlichen Zahlen vertiefen, dabei auch große natürliche Zahlen verwenden und mehrstellige Multiplikationen und Divisionen durchführen können,
+- Rechnen mit Maßen und Umwandlungen zur Bearbeitung von Sachaufgaben und geometrischen Berechnungen, 
+-	anhand von Teilern und Vielfachen Einblicke in Zusammenhänge zwischen natürlichen Zahlen gewinnen;
+-	Vorstellungen mit positiven rationalen Zahlen verbinden, 
+- mit der Darstellung in Dezimal- und Bruchschreibweise vertraut sein,
+- einfache Ungleichungen zum Einschranken benützen;
+-	mit den positiven rationalen Zahlen Rechnungen mit leicht abschätzbaren Ergebnissen durchführen und zur Lösung von Problemen in Sachsituationen vielfältig anwenden können, 
+-	Rechnen mit Brüchen, nur in einfachen Fällen, die anschaulich deutbar sind,
+-	grundlegende Sicherheit im Kopfrechnen gewinnen,
+-	elektronische Rechenhilfsmittel einsetzen können,
+-	Kenntnisse über Umkehroperationen erweitern,
+-	die Regeln über die Reihenfolge von Rechenoperationen, einschließlich der Klammerregeln, anwenden können.
+
+
+1.2 Arbeiten mit Variablen
+
+-	Mit Variablen allgemeine Sachverhalte beschreiben können, zB gleichartige Rechenabläufe, die sich nur durch unterschiedliche Zahlen unterscheiden, oder allgemeine Beziehungen zwischen Größen, 
+-	insbesondere Formeln bzw. Gleichungen aufstellen,
+-	Lösungen zu einfachen linearen Gleichungen finden können,
+-	Formeln anwenden und interpretieren können.
+
+1.3 Arbeiten mit Figuren und Körpern
+
+-	ausgehend von Objekten der Umwelt durch Idealisierung und Abstraktion geometrische Figuren und Körper sowie ihre Eigenschaften erkennen und beschreiben können,
+-	aufbauend auf die Grundschule Kenntnisse über grundlegende geometrische Begriffe gewinnen,
+-	Skizzen von Rechtecken, Kreisen, Kreisteilen, Quadern und ihren Netzen anfertigen können,
+-	Zeichengeräte zum Konstruieren von Rechtecken, Kreisen und Schrägrissen gebrauchen können,
+-	Maßstabszeichnungen anfertigen und Längen daraus ermitteln können;
+
+-	Umfangs- und Flächenberechnungen an Rechtecken (und einfachen daraus zusammengesetzten Figuren),
+-	sowie Volums- und Oberflächenberechnungen an Quadern (und einfachen daraus zusammengesetzten Körpern) durchführen können, 
+-	Formeln für diese Umfangs-, Flächen- und Volumsberechnungen aufstellen können;
+
+-	Winkel im Umfeld finden und skizzieren,
+-	Gradeinteilung von Winkel kennen,
+-	Winkel mit dem Winkelmesser (Geodreieck) zeichnen können;
+
+-	einfache symmetrische Figuren erkennen und herstellen können.
+
+1.4.	Arbeiten mit Modellen, Statistik
+
+-	direkte Proportionalitäten erkennen (zB Warenmenge-Geld, Zeit-Weg),
+-	entsprechende Fragestellungen finden und Berechnungen durchführen können,
+-	mit realen Gegebenheiten vergleichen,
+-	grundlegende Überlegungen zur Sinnhaftigkeit von Modellen für die Praxis anstellen,
+-	Tabellen und graphische Darstellungen zum Erfassen von Datenmengen verwenden können.
+
+2.	Klasse
+
+2.1.	Arbeiten mit Zahlen und Maßen
+
+-	Festigen und Vertiefen der Fähigkeiten beim Arbeiten mit positiven rationalen Zahlen, um vielfältige und komplexere Probleme in Sachsituationen bearbeiten zu können, 
+-	Rechnen mit Brüchen (mit kleinen Zählern und Nennern), damit die Rechenregeln im Hinblick auf die Algebra sicher beherrscht werden,
+-	diese Rechenregeln für das Bruchrechnen begründen können, 
+-	Bruchdarstellung in Dezimaldarstellung überführen und umgekehrt,
+-	wichtige Teilbarkeitsregeln kennen und anwenden können;
+
+-	Rechnen mit Prozenten in vielfältigen Zusammenhängen;
+
+-	Maße verwenden und Umwandlungen durchführen können in dem Ausmaß, wie es die Bearbeitung von Sachaufgaben und geometrischen Aufgaben erfordert und es dem Vorstellungsvermögen der Schülerinnen und Schüler entspricht.
+
+2.2.	Arbeiten mit Variablen
+
+-	mit Variablen allgemeine Sachverhalte beschreiben,
+-	Gleichungen und Formeln aufstellen, insbesondere auch in Sachsituationen,
+-	unter Verwendung von Umkehroperationen einfache lineare Gleichungen mit einer Unbekannten lösen und Formeln umformen,
+-	Formeln interpretieren.
+
+2.3.	Arbeiten mit Figuren und Körpern
+
+-	Dreiecke, Vierecke und regelmäßige Vielecke untersuchen, wesentliche Eigenschaften feststellen,
+-	die Figuren skizzieren und konstruieren können,
+-	Erkennen, ob Angaben nicht in Konstruktionen umgesetzt werden können oder ob sie mehrdeutig sind,
+-	kongruente Figuren herstellen können, die Kongruenz begründen können;
+
+-	Eigenschaften von Strecken- und Winkelsymmetralen kennen 
+-	und für Konstruktion anwenden können;
+
+-	Flächeninhalte von Figuren berechnen können, die sich durch Zerlegen oder Ergänzen auf Rechtecke zurückführen lassen,
+-	Volumina von Prismen berechnen, möglichst in Anwendungsaufgaben.
+
+2.4.	Arbeiten mit Modellen, Statistik
+
+-	charakteristische Kennzeichen von indirekten und direkten Proportionalitäten an Beispielen angeben können,
+-	einfache Fragestellungen dazu formulieren, sie graphisch darstellen und lösen können,
+-	Fragen zu sinnvollen Anwendungsbereichen für solche Proportionalitäten stellen;
+
+-	relative Häufigkeiten ermitteln können,
+-	entsprechende graphische Darstellungen lesen, anfertigen und kritisch betrachten können,
+-	Manipulationsmöglichkeiten erkennen.
+
+3. Klasse
+
+3.1	Arbeiten mit Zahlen und Maßen
+
+- rationale Zahlen in verschiedenen Formen deuten können,
+- als Zustände gegenüber einem Nullpunkt,
+- als Punkte auf einer Zahlengeraden,
+- Erkennen und Beschreiben von Kleiner-Größer-Beziehungen;
+
+- rationale Zahlen für Darstellungen in Koordinatensystemen verwenden können;
+
+-	die Regeln für das Rechnen mit rationalen Zahlen wissen und bei Rechenbeispielen (mit einfachen Zahlen) mit Sicherheit anwenden können;
+
+-	Verketten der vier Grundrechnungsarten und derart entstehende Terme auch mit elektronischen Rechenhilfsmitteln berechnen können,
+-	Sicherheit im Kopfrechnen gewinnen;
+
+-	Potenzschreibweise kennen und anwenden können,
+-	Zahlen, vor allem in Sachsituationen, unter Verwendung von Zehnerpotenzen darstellen können.
+
+3.2 Arbeiten mit Variablen
+
+-	Formeln (bzw Terme) umformen und durch Rechenregeln begründen können,
+-	mit einfachen Potenzen arbeiten können, 
+- Formeln in Sachsituationen und in der Geometrie aufstellen können,
+- Aufgaben aus Anwendungsbereichen und aus der Geometrie durch Umformungen von Formeln oder Termen lösen können, 
+-	dabei auch Aufgaben variieren und graphische Darstellungen nutzen können,
+-	Lösen von linearen Gleichungen mit einer Unbekannten.
+
+3.3 Arbeiten mit Figuren und Körpern
+
+- Vergrößern und Verkleinern von Figuren,
+- Ähnliche Figuren erkennen und beschreiben;
+-	Formeln für Flächeninhalte von Dreiecken und Vierecken begründen und damit Flächeninhalte berechnen können,
+- Umkehraufgaben lösen können,
+- Gegenstände, die die Gestalt eines Prismas oder einer Pyramide haben, zeichnerisch darstellen können,
+- Oberfläche, Rauminhalt und Gewicht von Gegenständen, die die Gestalt eines Prismas oder einer Pyramide haben, berechnen können;
+- den Lehrsatz des Pythagoras für Berechnungen in ebenen Figuren nutzen können.
+
+3.4 Arbeiten mit Modellen, Statistik
+
+-	lineare Wachstums- und Abnahmeprozesse mit verschiedenen Annahmen unter Zuhilfenahme von elektronischen Rechenhilfsmitteln untersuchen können (zB Zinssätze),
+-	funktionale Abhängigkeiten erkennen, formelmäßig und graphisch darstellen;
+-	Untersuchen und Darstellen von Datenmengen.
+
+4. Klasse 
+
+4.1 Arbeiten mit Zahlen und Maßne
+
+- Durch zusammenfassendes Betrachten das Zahlenverständnis vertiefen,
+- Anhand einfacher Beispiele erkennen, dass es Rechensituationen gibt, die nicht mit Hilfe der rationalen Zahlen lösbar sind,
+-	Näherungswerte oder Schranken für irrationale Zahlen angeben können, auch unter Verwendung elektronischer Hilfsmittel,
+-	bei Anwendungen Überlegungen zur sinnvollen Genauigkeit anstellen.
+
+
+4.2 Arbeiten mit Variablen
+
+-	Sicherheit beim Arbeiten mit Variablen, Termen, Formeln und Gleichungen steigern,
+-	Arbeiten mit einfachen Bruchtermen  
+-	lineare Gleichungen mit zwei Variablen graphisch darstellen und Lösungen angeben können, 
+-	Verfahren zum Lösen von linearen Gleichungssystemen (zwei Gleichungen mit zwei Variablen) nutzen können  
+-	durch das Arbeiten mit funktionalen Abhängigkeiten einen intuitiven Funktionsbegriff erarbeiten. 
+
+
+4.3 Arbeiten mit Figuren und Körpern
+
+-	den Lehrsatz des Pythagoras für Berechnungen in ebenen Figuren und in Körpern nutzen können, 
+-	eine Begründung des Lehrsatzes des Pythagoras verstehen, 
+-	Berechnungsmöglichkeiten mit Variablen darstellen können; 
+
+-	Schranken für Umfang und Inhalt des Kreises angeben können,
+- Formeln für die Berechnung von Umfang und Flächeninhalt des Kreises wissen und anwenden können,
+- Formeln für die Länge eines Kreisbogens und für die Flächeninhalte von Kreisteilen herleiten und anwenden können;
+
+-	Formeln für die Berechnung der Oberfläche und des Volumens von Drehzylindern und Drehkegeln sowie für die Kugel erarbeiten und nutzen können.
+
+4.4 Arbeiten mit Modellen, Statistik
+
+-	Wachstums- und Abnahmeprozesse mit verschiedenen Annahmen unter Zuhilfenahme von elektronischen Rechenhilfsmitteln untersuchen können,
+-	funktionale Abhängigkeiten untersuchen und darstellen;
+
+-	Untersuchen und Darstellen von Datenmengen unter Verwendung statistischer Kennzahlen (zB Mittelwert, Median, Quartil, relative Häufigkeit, Streudiagramm).
+
+Erweiterungsbereich: 
+Die Inhalte des Erweiterungsbereichs werden unter Berücksichtigung der Bildungs- und Lehraufgabe sowie der Didaktischen Grundsätze festgelegt (siehe den Abschnitt ”Kern- und Erweiterungsbereich” im dritten Teil).

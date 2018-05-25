@@ -1,0 +1,808 @@
+Bitcoin: Die ultimative Einführung in die Kryptowährung
+Bitcoin, endlich richtig verständlich erklärt:
+Was ist eigentlich Bitcoin, wieso sind Bits und Bytes Geld wert –
+und wie funktioniert das eigentlich alles? Eine detaillierte Einführung
+in die Funktionsweise der Kryptowährung.
+Im April 1923 eine Tasse Kaffee zu bestellen, war eine riskante Angelegenheit. Betrug der
+Preis für das heiße Getränk bei der Bestellung noch vielleicht 6.000 Mark, konnte sich die
+Rechnung des Kellners schon auf 8.000 Mark belaufen. Arbeiter, die ihre Lohntüte erhielten,
+kauften Lebensmittel möglichst im Stechschritt für den ganzen Monat ein – oder noch weiter im Voraus, wenn das Geld reichte.
+Eine Hyperinflation hielt Deutschland damals im Griff. Die Notenpressen der Reichsbank
+druckten bis zum Kriegsende zur Finanzierung des Krieges enorme Geldmengen, sie stieg
+von 13 Milliarden zu Kriegsanfang auf 60 Milliarden zu Kriegsende an, verbunden mit einem
+schrumpfenden Gütermarkt war das der Grundstein für die Entwicklung. Ein Trauma, das der
+deutschen Bevölkerung bis heute in den Knochen steckt – aber nicht nur der deutschen.
+Unter dem Pseudonym Satoshi Nakamoto postete 2008 ein Nutzer – oder
+eine Gruppe von Nutzern, es ist bis
+heute unklar wer Satoshi Nakamoto
+wirklich ist – ein Whitepaper in einer
+Mailingliste, das eine kryptografische
+Währung vorstellte. Nakamoto war
+der Meinung, dass die Geschichte des
+staatlich gestützten Geldes voll von
+Verrat am Vertrauen der Nutzer steckt
+– wie im Fall der deutschen Hyperinflation.
+Lissabon 2015: Demonstranten der „Occupy-Bewegung“ überwinden eine
+Polizei-Barriere vor dem Parlament. (Foto: Luis Bras / Shutterstock.com
+
+„Das Kernproblem konventioneller Währungen ist das Ausmaß an Vertrauen, das nötig
+ist, damit sie funktionieren. Der Zentralbank muss vertraut werden, dass sie die Währung
+nicht entwertet, doch die Geschichte des Fiatgeldes ist voll von Verrat an diesem Vertrauen. Banken muss vertraut werden, dass sie unser Geld aufbewahren und es elektronisch
+transferieren, doch sie verleihen es in Wellen von Kreditblasen mit einem kleinen Bruchteil
+an Deckung. Wir müssen den Banken unsere Privatsphäre anvertrauen, vertrauen, dass sie
+Identitätsdieben nicht die Möglichkeit geben, unsere Konten leerzuräumen. Ihre massiven
+Zusatzkosten machen Micropayments unmöglich.
+Eine Generation früher hatten Nutzer von Time-Sharing-Computersystemen ein ähnliches
+Problem. Vor dem Aufkommen starker Verschlüsselung mussten die User sich auf den
+Passwortschutz für ihre Daten verlassen und dem Systemadministrator vertrauen, dass er
+ihre Informationen vertraulich hielt. Diese Privatsphäre konnte jederzeit aufgehoben werden, wenn der Administrator zu dem Schluss kam, dass sie weniger wog als andere Belange, oder auf Anweisung seiner Vorgesetzten. Dann aber wurde starke Verschlüsselung für
+die Masse der Nutzer verfügbar, und Vertrauen war nicht länger nötig. Daten konnten auf
+2. - Seite 14
+
+eine Weise gesichert werden, die einen Zugriff durch Dritte – egal aus welchem Grund, egal
+mit wie guten Entschuldigungen, egal was sonst – unmöglich machten.
+Es ist Zeit, dass wir dasselbe mit Geld machen. Mit einer elektronischen Währung, die auf
+einem kryptografischen Beweis beruht und kein Vertrauen in Mittelsmänner benötigt, ist
+Geld sicher und kann mühelos transferiert werden.“
+Am 3. Januar 2009 verwirklichte Nakamoto seinen Traum mit dem Erschaffen der ersten 50
+Einheiten seiner Krypto-Währung. Der Bitcoin war geboren.
+
+Wie der Bitcoin die Bühne betritt:
+Ein Reise durch die Geschichte der Währungen
+Doch wie kann eine Sammlung von
+Bits und Bytes zu einer Währung
+werden? Wieso sind Bitcoins eigentlich überhaupt etwas wert? Die
+Antwort auf diese Frage hat eigentlich wenig mit dem Bitcoin selbst zu
+tun, sondern mehr mit der Geschichte des Geldes – oder besser gesagt:
+mit der Geschichte der Währungen.
+
+(Foto: Shutterstock/Rocksweeper und 123dartist , Montage: t3n)
+
+Zwischen 9.000 und 6.000 vor Christus war der direkte Tauschhandel üblich, so wurde mal
+eben ein neuer Tisch gegen eine Kuh getauscht. Tische gegen Kühe ist für den Handel auf
+Dauer eine etwas beschwerliche Methode. Aus der puren Notwendigkeit heraus entstanden
+deshalb in den späteren Abschnitten dieser Periode Warengelder wie Getreide und Gemüse
+als Tauschmittel. Die Menschheit entwickelte sich ab hier schneller, um 1.200 vor Christus
+tauchten die ersten Muscheln als Währung auf, die schon 500 vor Christus schließlich von
+Münzen aus Gold, Silber und anderen Metallen abgelöst wurden. China, das schon bei den
+Muscheln die Nase vorne hatte, brachte schließlich um 800 nach Christus das erste Papiergeld heraus.
+Geld wird durch eine gesetzliche
+Regelung zum Bestandteil einer
+Währung, die Regeln überwacht eine
+zentrale Einrichtung, im EU-Binnenraum ist die Geldordnung in die
+Hände der nationalen Zentralbanken
+gelegt worden, die mit der übergeordneten Europäischen Zentralbank
+(EZB) zusammen ein System bilden,
+das über das Wirtschaftsleben der
+EU wacht und es mit verschiedenen
+Maßnahmen steuert, um seine Geldund Wirtschaftspolitik umzusetzen.
+Vor der Einführung des Geldes wurden Waren getauscht. (Foto: Surkov Dimitri /
+Shutterstock.com
+
+2. - Seite 15
+
+Geld ist nichts wert.
+Um von der Währung wieder zurück zum Geld zu kommen: Bei dieser kleinen Geschichtsreise sind uns zwei Geldsysteme begegnet: das Warengeld und das Fiatgeld. Warengeld besitzt
+in sich schon einen Wert, egal ob man es als Währung betrachtet oder nicht. Eine Kuh bleibt
+eine Kuh und eine Goldmünze kann man einschmelzen, der Goldwert aber bleibt unvermindert erhalten. Anders sieht es mit dem Fiatgeld aus, wie es schon der Name ahnen lässt, der
+sich vom lateinischen „Es werde“ ableitet: Das Fiatgeld besitzt in sich keinen Wert, sondern
+wird durch allgemeine Vereinbarung zum Ersatz für das Warengeld, zum neuen Tauschmittel. Ein Staat definiert eine Währung und einen Wert – und jeder, der am öffentlichen Handel
+teilnimmt, muss diesen Wert akzeptieren.
+Die Regierung verspricht dabei, den
+Wert der von ihr herausgegebenen
+Währung zu sichern. Besonders
+plastisch demonstriert das Großbritannien: Auf der englischen FünfPfund-Note ist neben dem Konterfei
+der Queen der albern anmutende
+Satz „Ich verspreche dem Besitzer den Gegenwert von 5 Pfund zu
+bezahlen“ zu finden. Und wir, die
+Handelsteilnehmer, wir vertrauen auf
+dieses Versprechen.
+
+Vertrauen verleiht Geld einen
+Wert.
+
+„I promise to Pay the Bearer on demand the sum of five Pounds.“
+(Grafik: Bank of England)
+
+So liefert eine der wenigen gemeinsamen Eigenschaften von Fiatgeld
+und Bitcoin auch die Erklärung dafür,
+wieso Bitcoins überhaupt etwas wert
+sind: Die Bitcoin-Community vertraut auf den Bitcoin und durch die
+gemeinsame Vereinbarung, den Bitcoin zu nutzen und zu akzeptieren,
+wird Bitcoin zum Geld. Und durch die
+vorgegebenen Regeln des BitcoinSystems, die quasi eine Währungsordnung bilden, wird Bitcoin sinngemäß zur Währung.
+
+Welche Schwierigkeiten sich beim Erschaffen einer Währung ergeben
+Wer eine Währung erschaffen will, noch dazu eine digitale Währung, muss dabei allerdings
+eine Menge bedenken. Angefangen bei den Mechanismen, die verhindern, dass das nur virtuell vorhandene Geld nicht gefälscht oder gar doppelt ausgegeben wird, muss, in Gedenken
+an die stark inflationäre Kaffeetasse, auch verhindert werden, dass unkontrolliert in Unmengen Geld erzeugt wird. Außerdem müssen technische Probleme gelöst werden – von der
+Sicherung über die Verarbeitung der Transaktionen bis hin zur sicheren Verwaltung dieser
+Transakionen –, ohne dabei eine zentrale Instanz einzurichten, die den Nutzern die Kontrolle
+des neuen Währungssystems aus der Hand nimmt.
+2. - Seite 16
+
+Nakamoto hat mit seinem Bitcoin-System, bestehend aus dem Bitcoin-Protokoll, der Bitcoin-Infrastruktur und dem Bitcoin selbst, ein Währungssystem geschaffen, das Lösungen
+für diese Schwierigkeiten bietet – auch wenn bisher noch Schwachstellen bekannt sind.
+
+Die Bitcoin-Infrastruktur
+Die Bitcoin-Infrastruktur besteht aus einem Netzwerk aus verteilten Software-Clients, die
+gemeinsam das Backbone des Bitcoin-Systems bilden und für die Verarbeitung und Prüfung
+von Transaktionen zuständig sind: die Bitcoin-Clients. Alle Transaktionen werden in einer Datenbank abgespeichert – genauer: in einer Textdatei namens „Blockchain“. Die vollständige
+Blockchain befindet sich im Prinzip auf jedem Rechner, der einen Bitcoin-Client betreibt.
+Die Speicherung neuer Transaktionen in der Blockchain erfolgt durch Nutzer, die sogenannten Miner, die mit einem Bitcoin-Client oder spezieller Mining-Software die erst anfallenden
+Transaktionen aus dem Netzwerk aufnehmen, dann prüfen, ob die Transaktionen korrekt
+sind und schließlich die Transaktionen blockweise in die Blockchain schreiben: Block für
+2. - Seite 17
+
+Block aneinandergekettet ergibt die Blockchain so die zentrale Zahlungshistorie für das
+ganze Netzwerk.
+Um Bitcoins zu benutzen, wird eine Wallet benötigt. Es gibt verschiedene Versionen dieser
+digitalen Brieftasche: Jeder Bitcoin-Client besitzt eine solche Wallet-Funktion – allerdings
+haben diese Clients auch die vollständige Blockchain gespeichert und erfüllen so nicht nur
+eine Funktion als Brieftasche, sondern auch als sogenannte vollständige „Node“, die Funktion der Transaktionsverarbeitung und -prüfung. Nodes sind zentrale Kommunikationsknotenpunkte und in der Funktion vergleichbar mit einem Router, sie nehmen Transaktionen
+auf und verbreiten sie nach einer Gültigkeitsprüfung weiter an andere Nodes und tragen die
+Transaktion so bis in den letzten Winkel des Bitcoin Netzwerkes.
+Es existieren aber auch leichtgewichtige Bitcoin-Clients (SPV-Clients), die das Bitcoin-Protokoll nicht vollständig implementiert haben und so nicht die komplette Blockchain auf dem
+Rechner benötigen: Diese Clients dienen dann nur als Wallets, nicht als Node. Wieso diese
+Differenzierung nötig ist, wird schnell deutlich, wenn man die Größe der Blockchain-Datei
+berücksichtigt: Rund 55 Gigabyte an gespeicherten Transaktionsdaten muss ein Bitcoin-Client aktuell verarbeiten, das ist beispielsweise für ein Wallet in Form einer Smartphone-App
+wenig praktikabel. Und ebenso wenig praktikabel für weniger versierte Nutzer, die Bitcoin nur
+als Verbraucher nutzen wollen.
+
+Wie Bitcoins „erschaffen“
+werden
+Am 3. Januar 2009 wurden die
+ersten 50 Bitcoins erschaffen, beim
+aktuellen Kurs von rund 366 Euro
+pro Bitcoin würde das heute mehr
+als 18.000 Euro entsprechen – damals waren die Bitcoins noch völlig
+wertlos. Das wäre auch so geblieben,
+könnte jeder Nutzer Bitcoins nach
+Lust und Laune erschaffen. Deshalb
+wurde ein geregelter Mechanismus
+konstruiert, der in der Anfangsphase
+des Bitcoin-Währungssystems dafür
+sorgt, dass ausreichend Bitcoins
+produziert werden: das „Mining“.
+
+Die Miner im Bitcoin-Netzwerk kennen wir bisher als die Transaktionsverarbeiter, sie erfüllen
+aber auch gleichzeitig die Funktion der Geldschöpfung: Beide Funktionen sind im Mining geschickt miteinander verknüpft. Damit die Nutzer motiviert sind, dem Bitcoin-Netzwerk ihre
+Rechenkapazität für die Verarbeitung der Transaktionen zur Verfügung zu stellen, bekommen Sie dafür eine Belohnung: Für jeden erfolgreich in die Blockchain geschriebenen Block
+bekommt ein Miner Bitcoins gutgeschrieben. So werden mit einem Block bis zu 2.400 Transaktionen von Bitcoin-Nutzern verarbeitet und in die Blockchain geschrieben.
+Damit nun nicht willkürlich Unmengen von Bitcoins produziert werden, regelt das BitcoinSystem beim Mining die Produktion von Bitcoins mit künstlicher Verknappung und versieht
+das „Minen“ mit einem künstlichen Schwierigkeitsgrad, der sicherstellt, dass es Rechenleistung, Energie (Strom) und Zeit kostet.
+2. - Seite 18
+
+Beginnen wir mit dem künstlichen Schwierigkeitsgrad: Um einen Block zur Blockchain hinzuzufügen, muss der Miner mit seiner Software ein mathematisches Problem lösen. Mit
+einer Art „Zufallsgenerator“ werden Werte generiert, die mit einem vom Bitcoin-Netzwerk zur
+Verfügung gestellten Zielwert, dem „Target Value“, verglichen werden. Erfüllt die Prüfsumme,
+der „Hash“ , eine bestimmte Ähnlichkeit oder ist gar identisch, dann ist das mathematische
+Puzzle gelöst, der Miner darf den
+Block zur Blockchain hinzufügen
+und im Nebeneffekt sind die im Bitcoin-Netzwerk getätigten Transaktion geprüft und verarbeitet worden.
+Das Ergebnis dieses Prozesses wird
+als „Proof of Work“ bezeichnet.
+Das Bitcoin-System sieht vor, dass
+der Schwierigkeitsgrad des „Proof
+of Work“, die „Mining Difficulty“,
+regelmäßig alle 2.016 generierten
+Blöcke angepasst wird, um sicherzustellen, dass die Bitcoins nicht zu
+leicht zu erschaffen sind: Der Proofof-Work muss aufwendig bleiben.
+Die „Mining Difficulty“ wird deshalb
+anhand der Block-GenerierungsRate, der durchschnittlichen Generierungszeit für einen Block und
+der Anzahl der im Netzwerk tätigen
+Miner neu eingestellt, sodass alle
+Miner gemeinsam durchschnittlich
+nur alle zehn Minuten einen Block in
+der Blockchain generieren können.
+Infografik von Bitcoinmining.com : So funktioniert der Proof-of-Work.
+Wie lange die Generierung eines
+(Grafik: Bitcoin Mining / Patricia Estevao)
+Blocks aus Sicht eines einzelnen
+Miners dauert, lässt sich hingegen
+nicht exakt vorhersagen.
+Der Begriff der künstlichen Verknappung bezieht sich beim Bitcoin auf die Geldbasis, also
+die ausgegebene Menge an Geld. Die Miner haben in der Anfangszeit mit jedem neu generierten Block 50 Bitcoins produziert, aktuell sind es nur noch 25 Bitcoins. Das Bitcoin-System sieht vor, dass alle 210.000 Blocks die Belohnung für die Miner halbiert wird. Als Folge
+werden jetzt mit jedem neuen Block, alle zehn Minuten, statt 50 nur noch 25 Bitcoins ins
+Netzwerk gespült, 210.000 Blocks später sind es dann nur noch 12,50 Bitcoins. Die ausgegebene Geldmenge wird also immer geringer, das sorgt für steigende Wertstabilität und wirkt
+so einer Inflation entgegen – neben den Zinsen ist die umlaufende Geldmenge auch bei
+Zentralbanken das wichtigste Instrument, um Inflation oder Deflation entgegenzuwirken.
+Übrigens ist die Anzahl der Miner mittlerweile so hoch, dass die „Mining Difficulty“ mittlerweile das Mining ziemlich unattraktiv für den Normalanwender gemacht hat. Mit einem
+stinknormalen Rechner verbraucht das Mining so viel Zeit und Strom, dass Minen unwirtschaftlich geworden ist. Willst du Minen, schließt du dich heute in der Regel einem MiningPool an, einem Verbund von Nutzern, die mit spezialisierter Hardware arbeiten. Jeder Miner
+im Pool nutzt Mining-Software, die rein auf das Minen ausgelegt ist und sich mit einem als
+„Full Node“ agierenden Bitcoin-Client auf dem zentralen Pool-Server ans Bitcoin-Netzwerk
+anschließt.
+2. - Seite 19
+
+Bitcoins nutzen: So laufen
+Transaktionen ab
+Im folgenden Abschnitt klären wir,
+wie Transaktionen zwischen BitcoinNutzer abgewickelt und durch das
+Netzwerk verarbeitet werden. Einen
+etwas anwendungsbezogeneren
+Ansatz findest du in unserem t3nRatgeber, der dir erklärt, wie du
+Bitcoins einfach und sicher kaufen
+und aufbewahren oder „Bitcoins
+rechtssicher und sinnvoll in deinen
+Onlineshop als Zahlungsart integrieren kannst“.
+
+(Grafik: Shutterstock
+
+Um Bitcoins zu nutzen, benötigt jeder Nutzer eine Wallet. Bei der ersten Installation generiert
+sie einen „Private Key“ oder „Seed Key“. Er ist wichtig, denn er gibt Zugriff auf die Wallet. Wer
+den Key hat, kann die dort einsehbaren Bitcoins ausgeben. Die Wallet dient zur Verwaltung
+der Bitcoin-Guthaben, die in der Blockchain verzeichnet sind. Dieser Punkt ist wichtig, denn
+im Gegensatz zum umgangssprachlichen Gebrauch sind in einer Wallet technisch gesehen
+keine Bitcoins gespeichert. Im ihr werden die Bitcoin-Adressen verwaltet, die für den Empfang von Bitcoins dienen. Denn: Empfangene Bitcoins sind fest an eine Adresse gebunden,
+ihr Wert in Bitcoins ist in der Blockchain verzeichnet. Bitcoin-Adressen sind also keine Kontonummern, sondern Transaktionsadressen. Durch die Sammlung aller Transaktionsadressen gibt die Wallet Auskunft über das Gesamtguthaben des Besitzers.
+Ein Beispiel: Peter generiert für Paul und Maria zwei Bitcoin-Adressen, Paul transferiert fünf
+Bitcoins (BTC) und Maria sechs Bitcoins (BTC). Peters Wallet zeigt jetzt das kumulierte Guthaben seiner Bitcoin-Adressen an: elf Bitcoins (BTC).
+Erstellt ein Nutzer eine Transaktion, gibt er den Betrag ein, die Empfänger-Bitcoin-Adresse
+und entweder seinen „Seed Key“ oder – falls er eine benutzerfreundliche Wallet verwendet
+– ein Passwort. Je nach Wallet wird jetzt automatisch oder manuell eine Information in die
+Transaktion eingefügt, wie viele Transaktionsgebühren der Nutzer bereit ist für diese Transaktion an einen Miner zu bezahlen, damit er sie verarbeitet. Die Transaktion wird von der
+Wallet, die – wie schon erwähnt – entweder eine Node oder auch nur eine Wallet sein kann
+(SPV-Client), an die umliegenden Nodes weitergegeben, die diese Transaktion anhand festgelegter Kriterien auf ihre Gültigkeit prüfen und im Transaktionspool der Node speichern und
+an weitere Nodes im Netzwerk weiterreichen.
+Jetzt setzt in den meisten Wallets ein Geschehen ein, das schon für Bitcoin-Verluste bei
+Nutzern gesorgt hat: Die Wallet nimmt bei der Transaktion den Bitcoin-Wert der Adresse,
+transferiert den eingegebenen Betrag zur Empfänger-Adresse, den verbleibenden Betrag auf
+eine „Change-Adresse“ – also sozusagen eine „Wechselgeld-Adresse“ – und die ursprüngliche Adresse ist mit keinen Bitcoins mehr verknüpft. Das Bitcoin-System ist nämlich nicht so
+ausgelegt, dass Adressen mehrfach verwendet werden – das würde hohe Risiken für Sender
+und Empfänger einer Transaktion bergen.
+2. - Seite 20
+
+Wieso Bitcoin-Adressen nicht wiederverwendet werden dürfen? Die Blockchain ist öffentlich,
+jede Transaktion ist überprüfbar. Was auf der einen Seite die Vertrauensbasis des BitcoinNetzwerkes bildet, würde es bei der Wiederverwendung von Adressen ermöglichen, alle
+Transaktionen zurückzuverfolgen.
+Auch hier ein Beispiel: Dein Chef überweist dir einen Bonus in Bitcoins, die du für Alkohol
+und Pornografie ausgibst. Mit der selben Adresse, was dazu führt, dass dein Chef in der
+Blockchain nachverfolgen könnte, was mit deinem Bonus passiert ist. Ein peinliches, aber
+noch ungefährliches Szenario, das sich allerdings sofort „bedrohlich“ verändert, sobald der
+Gleichung noch ein Erpresser hinzugefügt wird.
+Im nächsten Schritt begegnen wir den Minern wieder, die sich aus dem Transaktionspool
+bedienen, um Blöcke zu generieren. Für das Verarbeiten der Transaktionen bekommen die
+Miner eine Transaktionsgebühr, die an jede Bitcoin-Transaktion angehängt wird.
+Bitcoin lässt Nutzern die Freiheit, selbst zu entscheiden, ob und wie viele Transaktionsgebühren bezahlt werden, stellt jedoch mit eigenen Gebührenregeln sicher, dass Transaktionen
+jeglicher Art auch wirklich verarbeitet werden: Die Transaktionen werden für die Verarbeitung
+priorisiert, die Priorisierung wird errechnet aus dem Alter der Transaktion und der Größe
+der Transaktion – damit ist nicht der Bitcoin-Betrag, sondern die Dateigröße gemeint. Eine
+Bitcoin-Transaktion, die aus vielen Adressen zusammengestellt wird, erzeugt beispielsweise
+eine größere Transaktionsdatei. In der Praxis fällt immer eine Transaktionsgebühr an, denn
+Transaktionen unterhalb einer Größe von 1.000 Byte werden automatisch mit einer Gebühr
+von 0.0001 BTC belegt.
+Damit auch Transaktionen mit niedriger Priorität und niedrigen Transaktionsgebühren verarbeitet werden, sind Transaktionen mit hoher Priorität auf die ersten 50 Kilobit eines Blocks
+beschränkt, der Rest muss mit niedrig priorisierten Transaktionen aufgefüllt werden.
+Der Miner mit einer Full Node verarbeitet jetzt mit dem Proof of Work den erstellten Block
+und meldet nach erfolgreicher Lösung des mathematischen Puzzles den geschriebenen
+Block ans Netzwerk, worauf weitere Nodes den Block aufnehmen und prüfen. Spätestens
+jetzt ist die Transaktion bestätigt und gilt als durchgeführt.
+
+Vertrauen durch Kryptografie und Peer2Peer-Architektur
+Das Bitcoin-System realisiert die Sicherheit des Netzwerks an mehren Stellen mit Regeln,
+die im Protokoll verankert sind. Transaktionen werden geprüft, das Schreiben der Transaktionen in Blöcke wird geprüft und das Generieren der Blöcke wird überprüft. Damit eine Überprüfung erfolgreich absolviert wird, muss das Netzwerk einen mehrheitlichen Konsens über
+das Resultat dieser Prüfungen erreichen.
+Normalerweise wird bei einem elektronischen Zahlungsverkehr eine zentrale Instanz dazwischen geschaltet, die Transaktionen auf Gültigkeit überprüft. Diese zentrale Instanz wird im
+Bitcoin-Netzwerk durch das Zusammenspiel vieler Nutzer, nämlich der Miner, die eine „Full
+Node“ betreiben, und der Blockchain gebildet. Jede Transaktion, jeder neu generierte Block,
+wird an das gesamten Netzwerk „propagiert“. Jede Node nimmt gemeldete Blöcke und
+Transaktionen entgegen, prüft sie in der Blockchain gegen und gibt sie an die benachbarten
+Nodes weiter. So erhält das gesamte Netzwerk Kenntnis und erlangt durch die gemeinsame
+Basis der Prüfungen, die Blockchain, eine gemeinsame, identische Sicht: den Konsens. Der
+ist erreicht, wenn 51 Prozent des Bitcoin-Netzwerks eine einheitliche Sicht erlangen.
+2. - Seite 21
+
+Schritt 1: Die Transaktionen
+Wie schon im Abschnitt weiter oben
+erklärt, verfügt eine Bitcoin-Adresse
+über zwei Bitcoin-Schlüssel, die
+unter der Oberfläche der Wallet für
+Transaktionen benötigt werden:
+einen öffentlichen, den „Public Key“,
+und den geheimen, den „Private
+Key“. Der Public Key wird mit Hilfe
+des Private Key generiert und teilt
+sich so eine mathematische Basis,
+die es später einem Verifizierungsal(Screenshot: Cryptocompare.com)
+gorithmus erlaubt zu prüfen, ob eine
+Transaktion tatsächlich vom Absender kommt. Die Transaktion wird beim Absenden mit dem Public Key ausgestattet, dann mit
+dem eigentlichen Inhalt der Transaktion und schließlich mit einem Signierungsalgorithmus
+signiert.
+Nutzer, die ihre Wallet auf einem Bitcoin-Client nutzen, der als Node agiert, prüfen die Transaktion vollständig selbst und warten die Bestätigung der benachbarten Nodes ab, denn die
+Transaktion wandert jetzt weiter durchs Netzwerk und wird von jeder Node auf Gültigkeit
+überprüft. Eine ausführliche, gute Erläuterung zur Bitcoin.Signatur und dem Verifikationsprozess findet sich für technisch-mathematisch interessierte Leser bei Cryptocompare.
+
+Etwas anders läuft die Transaktionsprüfung bei reinen Wallets ab, den sogenannten Simplified-Payment-Verification-Clients (SPV-Clients). Da sie nicht die Blockchain auf ihrem
+Endgerät speichern (beispielsweise auf einem Smartphone) prüfen sie nicht selbst die
+Transakktionen, sondern zählen quasi die Bestätigungen hoch, die vom Bitcoin-Netzwerk
+gemeldet werden, um so sicherzustellen, dass die Wahrscheinlichkeit für eine ungültige
+Transaktion sehr gering ist.
+
+Schritt 2: Die Transaktionsverarbeitung
+Wie schon erläutert, müssen Miner sehr mühsam den Proof of Work und einen Hash-Wert
+erzeugen, der sich einem bestimmten, vorgegebenen Zielwert nähert. Dieser Hash wird als
+Sicherheitsmechanismus in jeden Block eingefügt. Jede Node kann prüfen, ob der Hash, der
+in den Block eingefügt wurde, tatsächlich zum Zielwert, dem „Target Value“, passt. Wäre der
+Hash nicht treffend, würde das Netzwerk die Transaktion abweisen.
+Wird der Block in die Blockchain geschrieben und akzeptiert, ist immer der Hash des vorherigen Blocks in den neuen Block integriert worden. So ist ein hierarchischer Aufbau gesichert, die Blöcke, und damit auch die Transaktionen, kommen in eine zeitliche Abfolge – sie
+werden aneinandergekettet. Durch diesen Mechanismus kann das Bitcoin-Netzwerk seinen
+Konsens erreichen, und so ist eine einheitliche Blockchain gesichert.
+
+2. - Seite 22
+
+Vertrauen durch Verschlüsselung:
+So geht das Bitcoin-Netzwerk mit Unstimmigkeiten um
+Eine Unstimmigkeit, die regelmäßig entstehen kann, ist ein Blockchain-Fork, ein Zweig in
+der Kette der Blöcke, der beispielsweise entsteht, wenn von Minern mit wenigen Sekunden
+Abstand zwei Blöcke erzeugt werden. Je nach Geschwindigkeit, mit der sich die propagierten Blöcke im Netzwerk verbreiten, können langsamere Nodes mit der Generierung ihres
+Blocks auf den „falschen“ Zweig setzen. Hier setzt wieder der Konsens ein, in diesem Fall gilt
+die Regel: Der längere Zweig gewinnt, der kürze Zweig wird nicht fortgesetzt und die Blöcke
+werden vom Netzwerk mehrheitlich als nicht gültig anerkannt. Es entstehen „verwaiste“ Blöcke. (Orphan Blocks). Die in den Blöcken enthaltenen Transaktionen sind somit noch nicht
+verarbeitet, wenn es gültige Transaktionen sind, wandern sie zurück in den Transaktionspool.
+Eine eventuell an einen Miner ausgeschüttete Belohnung für den oder die generierten Blöcke
+verfällt.
+Als längeren Zweig erkennt das Bitcoin-Netzwerk den Zweig an, für den mehr Arbeit aufgewendet wurde: Die addierte Mining Difficulty zählt hierbei als Länge, nicht die Anzahl der
+Blöcke in dem Blockchain-Fork.
+Eine der bekanntesten Bitcoin-Schwachstellen in diesem Zusammenhang ist die 51-Prozent-Attacke, die den Konsens des Netzwerks an sich reißen würde. Würde ein Miner versuchen, einen ungültigen Block in die Blockchain zu schmuggeln, wird das Netzwerk ihn
+abweisen. Aber was passiert, wenn der Miner mehr als 51 Prozent der Rechenkraft des gesamten Bitcoin-Netzwerks repräsentieren würde? Dann könnte er seinen Block quasi selbst
+mehrheitlich bestätigen und einen Zweig, einen Fork der Blockchain, an dieser Stelle erzeugen. Durch seine überlegene Rechenkraft würde dieser Zweig schneller wachsen als der
+korrekte Zweig und müsste so vom Netzwerk als der korrekte Zweig anerkannt werden.
+In der Realität ist das momentan nicht zu befürchten, denn die hohe Mining Difficulty sorgt
+dafür, dass der Aufwand an Ressourcen für eine solche Attacke nahezu unerreichbar groß
+und intensiv im Stromverbrauch ist. Generell kann sich das Netzwerk – oder ein Nutzer –
+technisch gegen so eine Attacke schützen, indem auf möglichst viele Bestätigungen gewartet wird . Das verhindert zwar die Attacke nicht, erhöht aber den Aufwand – oder erzeugt
+große Verzögerungen, die Gegenmaßnahmen erlauben.
+
+Der Bitcoin ist jetzt eine Währung, aber wo geht die Reise hin?
+Weit über 15 Millionen Bitcoins wurden bisher generiert, hochgerechnet dürfte so bis 2030
+die finale Menge von 21 Millionen Bitcoins erreicht sein. Bei der Erstellung dieses Artikel liegt
+der Bitcoin-Kurs bei 314,50 Euro, damit sind Bitcoins im Wert von mehr als fünf Milliarden
+Euro im Umlauf, allerdings erreichte der Bitcoin in der Vergangenheit schon andere Höhenflüge: Im Jahr 2013 raste er beispielsweise innerhalb weniger Monate von unter 20 Euro auf
+über 600 Euro. 2011 waren die Schwankungen noch gewaltiger: Die Inflation am Anfang der
+Existenz dieser Währung ist nur der Beginn der Erklärung für die hohe Volatilität des Bitcoins
+– ein Begriff, der vereinfacht ausgedrückt für die Schwankungsbreite eines Währungskurses
+steht. Steht eine Währung am Anfang, sind noch geringe Geldmengen im Umlauf, dann beeinflussen schon kleine Käufe den Kurs. Die Währung wird also stabiler, je mehr Geld im Umlauf ist. Wie sich der Bitcoin hier in Zukunft entwickeln wird, ist schwer zu prognostizieren.
+Was sich feststellen lässt ist, dass es sich beim Bitcoin eindeutig um eine Währung handelt.
+Zwar kann die Blockchain-Technologie noch für viele andere Zwecke eingesetzt werden (Das
+Bitcoin-Protokoll kann theoretisch für jeden Wert, nicht nur für Geld eingesetzt werden), aber
+betrachten wir den Bitcoin rein als Geld, erfüllt er die Kriterien einer Währung . Es gibt eine
+2. - Seite 23
+
+Geld- und Währungsordnung, es existiert ein Wirtschaftsraum und viele Nutzer akzeptieren
+die Währung und schenken ihr in einem gewissen Rahmen Vertrauen. Es wird vielfach argumentiert, Bitcoin sei keine Währung, weil sie nicht staatlich ausgegeben werde und nicht mit
+einer gesetzlichen Regelung versehen sei. Im Geiste des nicht minder geisterhaften Satoshi
+Nakamoto lässt sich da nur feststellen, dass das die falsche Sichtweise ist: Der Bitcoin ist
+die erste echte Währung, die sich den Status einer Währung unabhängig von staatlichen
+Institutionen und Zentralinstanzen erarbeitet hat.
+Unabhängig davon hängt die Zukunft des Bitcoins von seiner weiteren technischen Entwicklung ab. Das System kann aufgrund technischer Beschränkungen nicht ewig unverändert
+weiterbestehen, das ist im Moment der einzige Punkt, in dem die sonst oft uneinige BitcoinCommunity sich einig ist. Eines ist jedoch ziemlich sicher: „Die Bitcoin Ära beginnt gerade
+erst“.
+
+Quelle: t3n digital pioneers
+Autor: Jochen G. Fuchs
+Datum: 11.04.2016, 08:13 Uhr
+Thema: Bitcoin
+
+Bitcoins einfach und sicher kaufen und aufbewahren:
+Der t3n-Praxis-Test
+Bitcoins kaufen, Bitcoins verwahren? Wie geht das eigentlich? Und am besten einfach und sicher? Wir zeigen euch Schritt für Schritt, wie ihr an Bitcoins kommt und welche Anbieter dafür einen guten Weg bieten.
+Die virtuelle Währung Bitcoin verbreitet sich immer weiter. Noch ist Bitcoin als Zahlungsmethode nicht alltäglich, aber es gibt immer wieder Möglichkeiten die Kryptowährung auch im
+Alltag einzusetzen. In manchen Onlineshops kann mit Bitcoin bezahlt werden, es gibt erste
+Startups, die Bitcoin als Zahlungsmöglichkeit in den lokalen Handel bringen, kurzum: Wer
+Bitcoin gerne ausprobieren möchte, wird schnell fündig.
+Aber wie kann ein Normalanwender Bitcoins einfach und sicher kaufen und möglichst sicher
+aufbewahren? Nach unserem Erklärstück darüber, wie Bitcoins überhaupt funktionieren,
+erklären wir euch jetzt die Grundausstattung für Bitcoin, wie diese Grundausstattung funktioniert und führen euch durch den sicheren und möglichst einfachen Kauf eurer ersten Bitcoins.
+
+Bitcoin: Basiswissen zur Grundausstattung und Sicherheit
+Die Grundausstattung besteht aus einem Wallet, um die Bitcoins für den täglichen Bedarf
+zu verwalten und Transaktionen auszuführen. Dann folgt ein Vault, ein Tresor, um die Bitcoins, die gerade nicht benötigt werden, sicher auszulagern. Vorzugsweise als sogenannter
+„Cold Storage“. Vereinfacht ausgedrückt werden bei diesem Vault die Bitcoins von Hand
+vom Anbieter in einen Tresor verschoben und sind nicht mehr über das Netz erreichbar. Und
+schließlich nutzen wir zum Erwerb der Bitcoins einen Bitcoin-Marktplatz.
+2. - Seite 24
+
+So funktioniert die BitcoinGrundausstattung
+Die Wallet verwaltet Bitcoins und
+kann somit Bitcoins versenden und
+empfangen. Um Bitcoins zu empfangen besitzt jede Wallet einen AdressGenerator. Die Bitcoin-Adressen
+sind Transaktionsnummern, die zur
+Übertragung der Bitcoins dienen. Sie
+werden einmal für jede Transaktion
+genutzt, die Empfänger-Wallet speichert die Adressen und bietet damit
+Unser t3n-Ratgeber erklärt wie Bitcoins sicher gekauft und aufbewahrt werden
+einen Zugriff auf die für diese Adreskönnen. (Foto: Shutterstock )
+se vermerkten Bitcoins – Bitcoins
+werden technisch nicht direkt im Wallet abgespeichert, sondern in einer zentralen Transaktionshistorie im Bitcoin-Netzwerk: Der sogenannten Blockchain.
+Eine Wallet kann entweder client-seitig oder online betrieben werden. Online und bei einem
+fremden Anbieter ist das ein Risiko, denn bei einem fremden Zugriff auf den Server könnten
+Bitcoins entwendet werden. Bei einer Insolvenz des Anbieters gehen unter Umständen Wallets und Bitcoins verloren.
+Führt man eine Transaktion durch, wird der Wert sinngemäß von der bisherigen Adresse
+auf eine neue Bitcoin-Adresse bewegt, die alte Adresse enthält am Ende einer Transaktion
+normalerweise keine Bitcoins mehr – eventuell verbleibende Restbeträge werden vom Wallet
+auf eine neue Adresse, die sogenannte Change-Adresse, bewegt.
+
+Bitcoin und Sicherheit
+Hier sprechen wir von einfach und sicher. Die Verwendung dieser beiden Eigenschaftswörter
+ist eigentlich ein Widerspruch in sich, das gilt auch für Bitcoins:. Je sicherer der Nutzer die
+Anwendung und die Verwahrung von Bitcoins betreiben möchte, desto umständlicher ist die
+Bitcoin-Nutzung. Die größten Risiken sind:
+
+1. Ein Verlust der Wallet
+
+(Screenshot: Bither)
+
+Eine Möglichkeit seine Bitcoins zu
+verlieren, ist der Verlust der Wallet.
+Entweder, weil jemand sich Zugang
+dazu verschafft hat oder weil der
+Nutzer dass Passwort vergessen hat.
+Kein Passwort, keine Bitcoins – denn
+es gibt für Wallets keine „PasswortVergessen-Funktion“. Durch ein unsicheres Passwort das Wallet zu verlieren, wäre eine andere Möglichkeit
+– empfohlen ist daher ein Passwort
+mit einer Länge von mindestens
+16 Zeichen. In diesem Bitcoin-Wiki
+werden weitere Hintergründe und
+Methoden zur Datensicherung bei
+Wallets tiefergehender erklärt .
+2. - Seite 25
+
+Wie oben schon erwähnt, sind die Bitcoins ebenfalls verloren, sobald das Online-Wallet nicht
+mehr erreichbar ist.
+
+2. Ein Wertverlust durch Kursschwankungen
+Bitcoins sind keine stabile Wertanlage, der Kurs der virtuellen Währung kann sich jederzeit
+drastisch verschlechtern. Also sollte nur ein Betrag in Bitcoins umgewandelt werden, der
+ohne Schmerzen verloren gehen könnte.
+Als Faustregel lässt sich festhalten: Bitcoins nicht online, sondern offline speichern. Immer
+so schnell wie möglich aus einer angreifbaren Online-Umgebung herausholen und in sicherere Umgebungen verlagern. Es gibt sehr aufwendige Methoden um Bitcoins zu speichern,
+zu anonymisieren und anzuwenden. Wir haben uns für einen Mittelweg aus Komfort und
+Sicherheit entschieden: Geringe Anonymität, gute Bedienbarkeit und vertretbare Sicherheit.
+
+So kaufst und lagerst du deine
+Bitcoins einfach und sicher
+Wallet installieren: Bither
+
+Bitcoins sicher aufbewahren: Das Wallet „Bither“ bietet verlässlichen Speicherplatz. (Screenshot: Bither)
+
+Für unseren Test nutzen wir Bither ,
+ein Bitcoin-Wallet, das auf deinem
+Smartphone installiert wird. Für
+Bither haben wir uns aus drei Gründen entschieden: Es ist als lokal auf
+deinem Handy installiertes „OfflineWallet“ nutzbar, der offengelegte
+Quellcode ist hinlänglich bekannt
+und von der Community untersucht
+worden – und Bither ist sowohl für
+iOS als auch für Android verfügbar.
+Mehr Wallets und Hintergrundinfos
+zu den Wallets findet Ihr bei Bitcoin.
+org .
+
+Wir entscheiden uns für einen „HD-Account“, der direkt auf dem Smartphone abgelegt wird.
+Später wird ein Backup vom Smartphone angelegt, dass die Wallet mitsichert. Betreiben
+werden wir das Wallet zusammen mit der Funktion „XRandom“, so erhalten wir für jede
+Transaktion eine neue „Kontonummer“ im Wallet angezeigt. Das verringert das Risiko der
+Kompromittierung.
+Ein Passwort mit 20 Zeichen anhand einer Passwort-Phrase anlegen und die Einrichtung der
+Wallet ist abgeschlossen. Die „Wegwerf-Kontonummer“ für Einzahlungen zeigt Bither entweder direkt im Klartext an oder bietet einen QR-Code zum Abscannen. Ebenfalls als Phrase
+oder als QR-Code wird ein Sicherheitsmechanismus angeboten, mit dem die Wallet wiederhergestellt werden kann.
+Die Sicherheit von Bither lässt sich noch steigern mit dem „Hot- und Cold-Mode“. Ein Anwendungsbeispiel wäre die Nutzung von Bither auf dem iPhone im „Hot Mode“, auf dem
+iPad im „Cold Mode“. Bither im „Cold Mode“ lässt sich nur starten, wenn das Gerät keinerlei
+Netzwerkverbindung hat – Bitcoins können dann vom iPad-Wallet auf die iPhone-Wallet zur
+weiteren Verwendung übertragen werden. Für noch mehr Sicherheit wird ein Vault, ein Bitcoin-Tresor, benötigt.
+2. - Seite 26
+
+Vault einrichten: Xapo
+
+Nach Einrichtung und Verifizierung managed die Xapo App eine Wallet und den Vault – zweites und viertes Symbol unten.
+(Screenshot: Xapo)
+
+Wir nutzen den Anbieter Xapo, der seinen „Cold Storage“ mit mehrere weltweit tätigen Versicherungen absichert . Bei Xapo erhalten wir gleichzeitig eine Online-Wallet, die benötigt
+wird, um Bitcoin-Einzahlungen temporär bei Xapo entgegen zu nehmen und dann in den
+Vault zu transferieren. Xapo beachtet, wie alle kommerziellen Anbieter, die aktuellen gesetzlichen Geldwäsche-Bestimmungen, diese sind auch bekannt unter dem Stichwort „KnowYour-Customer “. Deshalb müssen wir jetzt während der Registrierung online die Personalausweisdaten eingeben, samt Ausweisnummer und allen personenbezogenen Daten. Nach
+der Verifizierung von E-Mail-Adresse und Mobilfunknummer können wir Xapo sofort nutzen.
+
+Marktplatz-Konto eröffnen: Bitcoin.de
+
+Bitcoins kaufen: Bitcoin.de wickelt den An- und Vrkauf über die deutsche Fidor-Bank ab.(Screenshot: Bitcoin.de)
+
+2. - Seite 27
+
+Aus Sicherheitsgründen entscheiden wir uns für Bitcoin.de , einen deutschen Marktplatz.
+Bitcoin.de arbeitet mit der Fidor-Bank zusammen, um den An- und Verkauf der Bitcoins
+abzuwickeln und ist rechtlich betrachtet ein „vertraglich gebundener Vermittler“ der Fidor
+Bank AG und muss sich an die Vorgaben des deutschen Kreditwesengesetz halten. Trotz der
+erhöhten rechtlichen Sicherheit für die Transaktion ist anzumerken, dass die bei Bitcoin.de
+gespeicherten Bitcoins nicht durch die Einlagensicherung der Fidor Bank abgesichert sind.
+Salopp gesagt: Geht Bitcoin.de pleite, sind die bei Bitcoin.de gespeicherten Bitcoins weg.
+Für uns kein Thema, wir transferieren die Bitcoins direkt nach dem Kauf in unser Wallet.
+Bitcoin möchte während der Registrierung das Bankkonto und die Mobilfunkrufnummer verifizieren. Ist das geschehen, können sofort Bitcoins gekauft und verkauft werden. Allerdings
+nur bis zu einem jährlichen Gesamtwert von 2.500 Euro. Nach der vollständigen Legitimierung wird diese Beschränkung aufgehoben. Die Verifizierung des Bankkontos geschieht per
+Sofort-Überweisung, Nutzern mit einer Abneigung gegen diese Methode bietet der Kundendienst eine manuelle Verifizierungsmethode an. Alternativ kann auch ein kostenloses
+Girokonto der Fidor-Bank beantragt und genutzt werden. Das bietet den Vorteil, dass dieses
+Konto gleich für die vollständige Legitimierung genutzt werden kann. Alternativ kann ein
+Postident-Verfahren für 7,90 Euro durchgeführt werden.
+
+Bitcoins auf dem Marktplatz kaufen
+Auf Bitcoin.de wählen wir, vergleichbar mit dem Ablauf einer Transaktion auf eBay, ein Verkaufsangebot aus und erwerben Bitcoins. Verkäufer hinterlegen bei Bitcoin.de ihre Bitcoins
+zum Verkauf. Sobald ein Angebot eingestellt wurde, blockiert Bitcoin.de die entsprechenden
+Bitcoins auf dem Verkäuferkonto. Geht eine Kaufanfrage ein, bekommt der Käufer die direkte
+Bankverbindung des Verkaufers und überweist online. Sollten Probleme auftauchen, weil der
+Verkäufer die Bitcoins nicht freigibt, prüft Bitcoin.de den Kontoauszug und gibt die Bitcoins
+direkt frei. Einen Tag nach dem Kauf hat unser Verkäufer im Test die Bezahlung bestätigt und
+die Bitcoins wurden direkt dem Bitcoin.de-Online-Wallet gutgeschrieben.
+2. - Seite 28
+
+Bitcoins vom Marktplatz in die Wallet übertragen
+Jetzt überweise ich den bei Bitcoin.
+de erworbenen Betrag vom Bitcoin.
+de-Onlinewallet an mein Wallet auf
+meinem iPhone. Dazu klicke ich bei
+Bitcoin.de auf „Auszahlung“, gebe
+den „Private Key“ meines Wallets an,
+löse die Transaktion mit dem Passwort meines Bitcoin-Onlinewallets
+aus und bestätige die Transaktion
+mit dem SMS-TAN, den mir Bitcoin.
+de zugesandt hat. Damit liegen die
+Bitcoins sicher auf meinem Smartphone.
+Eine schnellere Alternative zu Bitcoin.de wäre Clevercoin aus den
+Niederlanden, die der dortigen gesetzlichen Aufsicht unterliegen und
+einen Echtzeit-Kauf per Kreditkarte
+anbieten. Wer lieber einen Account
+weniger haben möchte, kann auch
+bei Xapo Bitcoins erwerben – der
+Kauf erfolgt dort per SEPA-Überweisung an ein slowenisches Konto.
+Uns war für den Test die Variante auf
+„deutschem Boden“ am liebsten.
+Jetzt besitzt du Bitcoins und kannst
+sie ausgeben.
+
+2. - Seite 29
+
+Bitcoins vom Wallet in den Vault übertragen
+Nach dem Login bei Xapo die „überzähligen“ Bitcoins, die in Sicherheit gebracht werden
+sollen vom Smartphone-Wallet Bither in das Online-Wallet bei Xapo senden. Dort mit einem
+Klick auf „Vault“ vom Wallet in den Tresor verlegen. Möchtest du die Bitcoins später aus dem
+Tresor holen, musst du bis zu 48 Stunden Geduld aufbringen – solange kann es dauern bis
+Xapo deine Bitcoins aus dem Tresor zurück in deine Wallet bewegt hat.
+
+Noch ein wenig mehr Sicherheit: Bitcoin-Geldautomat und Paper-Wallet
+Eine Stufe mehr Sicherheit beim Kaufen der Bitcoins bieten Dienste, die Bitcoins gegen
+Bargeld einwechseln. In Deutschland gibt es einige Bitcoin-Automaten, die Bargeld gegen
+Bitcoins tauschen. Beispielsweise hat das Bitcoin-Startup Pey einen solchen Bitcoin-Automaten in Hannover in Betrieb.
+Statt eines Vaults kann auch ein sogenanntes Paper-Wallet erzeugt werden, beispielsweise bei Bitadress.org , einem client-seitigen Walletgenerator. Jetzt werden die Bitcoins aus
+dem Online-Wallet an die erzeugte Adresse versandt, dann wird das Wallet ausgedruckt:
+Dabei werden vereinfach ausgedrückt die Bitcoins in Form einer Wallet-Adresse und einem
+Passwort, dem Private-Key für den Zugriff auf die Adresse ausgedruckt. Legst du dieses
+Papier in einen Banktresor oder bringst es sonstwie in Sicherheit, besitzt du quasi deinen
+eigenen „Vault“. Bitcoin-Nutzer mit extremen Sicherheitsbedürfnis nutzen den BitadressGenerator offline auf ihrem Rechner, um eine Kompromittierung der Bitcoin-Adresse
+auszuschließenIMG_4956-ja-nee
+Um die Bitcoins auf dem Paper-Wallet zu nutzen, wird die Adresse wieder in ein SoftwareWallet importiert. Bei der Nutzung einer Paper-Wallet, sollten Nutzer darauf achten, dass das
+Paper-Wallet nach einer Transaktion in der Regel keine Bitcoins mehr enthält. Wie Eingangs
+erklärt, transferiert die Software-Wallet nach eine Transaktion den Restbetrag auf eine neue
+Adresse. Möchte der Nutzer die Bitcoins wieder aus dem Software-Wallet entfernen, sollte
+jetzt ein neues Paper-Wallet generiert werden und die Bitcoins auf die neue Adresse des
+Paper-Wallets übertragen werden. Dass dann wieder sicher offline verwahrt wird.
+
+Quelle: t3n digital pioneers
+Autor: Jochen G. Fuchs
+Datum: 11.04.2016, 08:27 Uhr
+Thema: Bitcoin
+
+2. - Seite 30
+
+Kryptonit fürs Kapital – Die Bitcoin-Ära beginnt gerade erst
+Seit dem großen Hype 2013 hat Bitcoin mehr als zwei Drittel seines Werts
+verloren. Geschadet hat das dem digitalen Geld allerdings kaum: Das Interesse wächst rasant. Denn mittlerweile zeigt sich, was die Stärken der
+digitalen Währung und der ihr zugrunde liegenden Blockchain-Technologie
+sind. Das eröffnet Chancen für alle, deren Alltag untrennbar mit dem Netz
+verbunden ist – und darüber hinaus.
+Es ist viel passiert, seit das Bitcoin-Protokoll am 3. Januar 2009 seine Arbeit aufgenommen
+hat. Lange Zeit diskutierte nur ein kleiner Kreis interessierter Entwickler über das digitale
+Geld. Später trat es vor allem im Darknet und im Zusammenhang mit zwielichtigen DrogenGeschäften sowie Glücksspiel in Erscheinung. Bis heute belächelt die Öffentlichkeit es vielfach als Hacker-Spielgeld. Mehr als 70 Mal haben die Medien Bitcoin nun schon totgeschrieben . Doch nie ist eingetreten, was viele Kritiker gehofft haben: Dass Bitcoin eine temporäre
+Erscheinung ist, eine fixe Idee, die früher oder später von alleine wieder verschwindet. Im
+Gegenteil.
+Mehr als sechseinhalb Jahre warten die Bitcoin-Gegner nun schon darauf, dass sich das
+„Problem“ von alleine löst. Doch mit jedem Tag glauben weniger Menschen, dass das wirklich noch passieren wird. Selbst die Banken, deren bequemes Geschäftsmodell im digitalen
+Zeitalter durch ein freies und kostengünstiges Open-Source-Geld wie Bitcoin unmittelbar
+gefährdet ist, sind still geworden. Viel mehr noch. Sie richten mittlerweile selbst eigene
+Blockchain-Forschungslabore ein und investieren in Bitcoin-Startups . Denn sie sehen die
+virtuelle Währung nicht mehr nur als Gefahr, sondern als Chance, um neue Dienstleistungen
+zu entwickeln – oder zumindest die eigene, in die Jahre gekommene IT-Infrastruktur effizienter, billiger und sicherer zu gestalten.
+Keine Konkurrenz zum Euro
+Grundlage dafür ist auch die gewachsene Erkenntnis, dass Bitcoin in erster Linie eine innovative Technologie ist und weniger, wie von den frühen Enthusiasten propagiert, die Alternative zu Euro und Dollar. Dafür ist die Vorliebe der Menschen für Bargeld ohnehin viel zu groß.
+In Deutschland wickeln die Menschen seit Jahren konstant rund vier von fünf Transaktionen
+mit Bargeld ab . Wer selbst einmal versucht hat in der Berliner Bitcoin-Bar „Room 77“ an
+einem gut besuchten Abend sein Bier in Bitcoin zu bezahlen, erkennt dass das zwar ein faszinierender Vorgang ist – aber aufwendiger und spürbar langwieriger, als mal eben ein paar
+Münzen auf den Tresen zu legen.
+Und dennoch: Auch wenn es im deutschen Alltag kaum auffällt, so wächst
+das Interesse an Bitcoin und der Blockchain doch rasant. Seit 2011 hat sich
+jährlich die Anzahl wissenschaftlicher
+Publikationen verdreifacht. Auch immer mehr Investoren entdecken das
+Thema für sich. Investierten Risikokapitalgeber 2012 noch rund zwei Millionen
+US-Dollar in Bitcoin-Startups , waren
+es 2014 schon fast 350 Millionen. Ende
+dieses Jahres, so die Erwartungen, wird
+die Milliardengrenze durchbrochen.
+Die Berliner Bar „Room 77“ ist eine der Bitcoin-Zentralen. Hier kann man nicht
+nur mit Bitcoin zahlen, hier treffen sich auch Anhänger der virtuellen Währung.
+
+Das allein steht für sich. Was diese
+2. - Seite 31
+
+Zahlen aber besonders macht, ist der Bitcoin-Preis. Denn das Interesse an Bitcoin wächst,
+obwohl das digitale Geld seit Dezember 2013 mehr als zwei Drittel seines Werts verloren hat.
+Es stellt sich also die Frage: Wenn es nicht der Preis ist, was macht Bitcoin dann so spannend?
+Info: Was ist die Blockchain?
+Die Blockchain ist die Architektur hinter der Kryptowährung Bitcoin. Vereinfacht gesagt handelt es sich dabei um eine gigantische, verschlüsselte Textdatei, die alle jemals getätigten
+Bitcoin-Transaktionen beinhaltet. Dabei besteht jede Transaktion aus sogenannten „Blocks“,
+die alle relevanten Informationen der Transaktionen speichern – so ähnlich wie ein Kontoauszug. Jeder neue Block hängt sich an den vorherigen in der Blockchain. Die Summe aller Blocks
+bildet die Blockchain. Das kann man sich vorstellen wie einen riesigen Stapel an Kontoauszügen.Dadurch dass die Blöcke, also die Transaktionen, von zwei Teilnehmern direkt zusammenhängen, braucht Bitcoin keine dritte Instanz wie eine Bank – was der größte Vorteil und
+auch der Grund für den schnellen und kostengünstigen Transfer ist. Technisch gesehen ist die
+Blockchain eine einzige große Log-Datei, die alle Peer-to-Peer-Verbindungen aufzeichnet –
+angefangen beim sogenannten Genesis-Block, also dem allerersten Block mit der allerersten
+Transaktion. Die Blockchain selbst wird bei jeder Transaktion auf Echtheit geprüft.
+
+Nach dem Goldrausch
+Die Antwort darauf lautet: Bitcoin funktioniert. Das klingt banal, ist allerdings alles andere als selbstverständlich. Immerhin verwaltet die Blockchain Bitcoins im Gesamtwert von
+mehr als vier Milliarden US-Dollar und ist damit ein höchst attraktives Ziel für Angriffe und
+Manipulationen. Zumal der Quellcode und alle Daten offen liegen. Trotzdem konnten selbst
+mit erheblichen Finanzmitteln ausgestattete Hacker das Blockchain-System bislang nicht
+aushebeln. Lediglich schlecht gesicherte Bitcoin-Börsen machten aufgrund fehlender Sicherheitsvorkehrungen immer wieder von sich Reden.
+Die Öffentlichkeit setzte Pleiten – wie die der ehemals wichtigsten Bitcoin-Börse Mt.Gox im
+Frühjahr 2014 – oft pauschal mit dem Ende von Bitcoin gleich. Das ist jedoch ebenso falsch
+wie irreführend. Zwar war Mt.Gox ein zentrales Element des Bitcoin-Ökosystems. Doch das
+Scheitern der Börse war das eines grottenschlecht organisierten Unternehmens und nicht
+das der digitalen Währung. Die Mt.Gox-Pleite war vielmehr ein Weckruf für die Community,
+sich Gedanken zu machen, wie sich Bitcoins künftig sicher verwahren und handeln lassen.
+Eine Konsequenz daraus war zum Beispiel die zeitnahe Entwicklung von Multi-SignatureWallets. Diese Maßnahme verhindert unbefugte Transaktionen, indem nicht mehr nur einer,
+sondern M-von-N Schlüssel notwendig sind, um Bitcoins zu versenden. Sie gehört seitdem
+ebenso wie die Zwei-Faktor-Authentifizierung zum branchenweiten Sicherheitsstandard. So
+gesehen ist Bitcoin am Scheitern von Mt.Gox sogar gewachsen.
+Wachsendes Vertrauen für die Krypotwährung
+Es sind vor allem diese beiden Eigenschaften – die Robustheit der Blockchain und die Fähigkeit der globalen Bitcoin-Community, mit Krisen umzugehen – die immer mehr Menschen
+dazu bewegen, ihre anfängliche Skepsis zu überdenken. Mehr und mehr Menschen lassen
+sich darauf ein, dass Bitcoin das erste tatsächlich funktionierende digitale Geld ist.
+Auch wenn das ein Umdenken erfordert – schließlich war es nie das Ziel von Bitcoin, das
+Konzept des Euro ins Digitale zu übertragen. Vielmehr sollte es die Ideale des Internets konsequent auf das Thema Geld übertragen. Dass sich Bitcoin nun also in seinen Eigenschaften
+2. - Seite 32
+
+deutlich von klassischen Staatswährungen unterscheidet, bricht mit unseren tiefsitzenden
+Gewohnheiten. Aber warum muss eine Geldeinheit immer hundert Untereinheiten haben?
+Warum können es nicht, wie im Fall von Bitcoin, hundert Millionen Untereinheiten sein?
+Genau dieses Hinterfragen und Umdenken macht Bitcoin für die vernetzte Gesellschaft relevant und zeitgemäß. Eine Währung in nur hundert Untereinheiten zu teilen hat sich zwar im
+analogen Alltag als praktikabel erwiesen. Die digitale Gesellschaft zeigt aber andere Bedürfnisse. Bitcoin berücksichtigt diese: Da Bitcoin nur im Netz und nicht physisch existiert, hat
+es auch die Eigenschaften des Netzes. Es kennt keine Geschäftszeiten, keine Landesgrenzen, es ist frei von politischer Einflussnahme, dezentral organisiert und für jeden Menschen
+frei zugänglich. Das macht Bitcoin innovativ und zeigt wo seine wahre Stärke liegt. Als Geld
+aus dem Internet ist es das ideale Geld für das Internet.
+Wo kommt Bitcoin heute überall zum
+Einsatz: Die Coinmap zeigt es. Das wachsende Interesse hängt nicht mit dem Kurs
+der digitalen Währung zusammen, sondern mit ihrem freiheitlichen und dezentral
+organisierten Wesen.
+
+Mehr als nur ein Bezahlsystem
+Was das im Einzelnen bedeutet, versuchen Menschen auf der ganzen Welt derzeit herauszufinden. Die Möglichkeit, Geld transnational, schnell und kostengünstig zu versenden, trifft
+zum Beispiel in vielen Entwicklungsländern auf enormes Interesse. Denn Internet und Mobiltelefone sind dort in der Regel weit verbreitet – es fehlt jedoch eine funktionierende BankenInfrastruktur.
+Rund 2,5 Milliarden Menschen gelten daher als „unbanked“ – also als Bankkonto-los. Arbeiter, die daher Geld aus dem Ausland zu ihren Familien in die Heimat schicken, zahlen für die
+Transferdienstleistung bis zu zwanzig Prozent Gebühren. Startups in Südostasien, Lateinamerika und Afrika wollen das nun mittels Bitcoin deutlich günstiger anbieten. Dass sie damit Erfolg haben werden gilt als sicher. Zum einen liegen die Grundkosten für eine einfache
+Bitcoin-Transaktion bei gerade einmal rund 0,4 Cent. Zum anderen ist der Markt gigantisch.
+Die Weltbank erwartet, dass allein in diesem Jahr rund 250 Millionen Migranten rund 440
+Milliarden US-Dollar nach Hause schicken.
+
+Kleinvieh macht auch Mist
+Trotzdem ist der Markt dieser sogenannten „Remittances“ nur ein winziger Bereich des
+Spektrums an Anwendungsmöglichkeiten für Bitcoin. Ein anderer hängt direkt mit der
+Teilbarkeit von Bitcoin zusammen. Die hundert Millionen Untereinheiten und die geringen
+Transaktionsgebühren erlauben Entwicklern und Gründern das Thema Micropayment neu
+zu definieren. Bislang waren echte Kleinstzahlungen im Netz faktisch unmöglich. Die Mindestgebühr bei PayPal-Transaktionen beträgt elf Cent. Summen darunter lassen sich nicht
+verschicken.
+2. - Seite 33
+
+Dabei ist die Zahl denkbarer Anwendung für Mikro- und Nanotransaktionen enorm. Einen
+Like-Button klicken, der einen Zehntel Cent überweist; sekundengenau die gesehenen Video-Inhalte abrechnen oder spontan einige Cents für einen besonders hilfreichen Kommentar verschicken – das alles ist möglich und sogar auch umgesetzt.
+Pay-per-Tweet ist mit Anbietern wie ChangeTip schon lange Realität, und die neue Welt der
+Mikrotransaktionen bietet besonders für Content-Produzenten neue Wege, um ihre Inhalte
+im Netz zeitgemäß zu vermarkten. Nie war es leichter, eine kleine Paywall im eigenen Blog
+einzurichten. Keine Anmeldung, kein externer Dienstleister, kein Mindestumsatz, um eine
+Auszahlung rentabel zu machen. Ein Widget und eine Bitcoin-Wallet reichen, um direkte
+und schnelle Zahlungen billig und rund um die Uhr zu ermöglichen. Selbst wenn es nur um
+ein paar Cent geht.
+
+Programmierbares Geld
+
+Pay per Tweet: Micro-Payment-Dienste wie etwa ChangeTip ermöglichen es,
+Bitcoins via Social Media, E-Mail oder Skype zu verschicken und so für OnlineContent zu bezahlen.
+
+Dabei ist Bitcoin kein Thema mehr,
+das nur kleine Entwicklergruppen
+beschäftigt. Auch Global Player zeigen mittlerweile großes Interesse an
+der Technologie. IBM und Samsung
+beispielsweise arbeiten bereits
+gemeinsam daran, die nötige Infrastruktur für das Internet der Dinge zu
+entwickeln. Die Blockchain-Technologie ist dabei neben BitTorrent und
+TeleHash elementarer Bestandteil
+des Konzepts . Denn nur mit Hilfe belastbarer und ausfallsicherer Peerto-Peer-Netzwerke ist es überhaupt
+möglich, Milliarden potentieller Geräte zuverlässig zu vernetzen.
+
+Die Waschmaschine der Zukunft – so die Vision – soll sich dann selbst mit Firmware-Updates versorgen und im Falle eines Defekts ihren Garantiestatus überprüfen, die nötigen
+Ersatzteile bestellen, einen Techniker organisieren und auch die finanziellen Details eigenständig regeln. Dafür soll aber nicht Bitcoin, sondern ein vielversprechendes Bitcoin-2.0Projekt namens Ethereum zum Einsatz kommen. Dieses arbeitet derzeit an einer eigenen
+Blockchain, die nicht mehr nur Bitcoins verwalten können soll, sondern komplexe Verträge,
+sogenannte Smart Contracts.
+Waschmaschinen, die ihren eigenen Garantiestatus erkennen, sind jedoch nur der Anfang.
+Das Ziel von Ethereum ist es, jede zentrale Institution digital im Netz zu ersetzen. Noch ist
+das Projekt in der Entwicklung. Dennoch hat es bereits eindrucksvoll gezeigt, dass zum Beispiel eine erfolgreiche Unternehmensfinanzierung künftig auch ohne zentrale Institutionen
+wie Banken und Börsen funktionieren kann. In einer Crowdfunding-Aktion hat Ethereum im
+Sommer 2014 mehr als 18 Millionen US-Dollar eingesammelt. Von diesem Vorgang hat die
+klassische Finanzwelt jedoch kaum etwas mitbekommen. Die einzige Möglichkeit, Anteile an
+Ethereum zu erwerben, war mittels Bitcoin.
+
+2. - Seite34
+
+Fazit: Das ist erst der Anfang
+Das Phänomen Bitcoin ist vielschichtig und komplex. Wir sind noch weit davon entfernt,
+überhaupt zu erkennen, was mit der Blockchain noch so alles möglich ist. In der BitcoinCommunity gibt es daher einen beliebten Vergleich: Bitcoin sei heute wie das Internet vor
+zwanzig Jahren. Damals konnte sich auch niemand vorstellen, wie sehr das Netz die Welt
+verändern wird.
+An genau diesem Punkt steht Bitcoin nach Meinung vieler heute. Vieles spricht tatsächlich
+dafür, dass Bitcoin vor einer ähnlich steilen Karriere steht wie einst das Internet. Dass Bitcoin keine temporäre Erscheinung ist, keine fixe Idee und kein Hacker-Spielgeld, das wird
+auf jeden Fall immer offensichtlicher. Sich auf das digitale Geld einzulassen eröffnet viele
+Chancen.
+Der Autor
+Friedemann Brenneis Friedemann Brenneis ist Hörfunk- und Online-Journalist und wollte 2013 eigentlich nur einen kurzen Radiobeitrag über Bitcoin machen. Dann fing er an zu
+recherchieren und hörte nicht mehr auf. Seine Ergebnisse veröffentlicht er vor allem auf
+coinspondent.de , um Bitcoin und digitales Geld dort aktuell, hintergründig und verständlich
+einzuordnen.
+
+Bitcoin auf der Lohnabrechnung:
+
+t3n gibt als erster Arbeitgeber dem Kryptogeld eine Chance
+Wir wagen ein Experiment: Als erster
+Arbeitgeber in Deutschland zahlt t3n
+seinen Angestellten einen Teil des
+Gehalts in Bitcoin aus. Seit November
+2015 testen wir das Verfahren zusammen mit dem Startup PEY aus Hannover.
+
+Bitcoin-Experiment: t3n zahlt Gehalt in Kryptogeld aus
+Mit der Gehaltsauszahlung in Form von Bitcoin wollen wir einen zusätzlichen Weg schaffen, an die digitale Währung zu gelangen.
+Denn momentan gibt es dazu noch nicht allzu
+viele Anlaufstellen: In Hannover beispielsweise erhält man das Kryptogeld sonst nur am
+„Bitcoin ATM“ im Coworking-Space „Edelstall“ , einem Geldautomaten, an dem man
+Euro-Bargeld einzahlt und dafür Bitcoin gutgeschrieben bekommt.
+
+So würde eine Abrechnung eines t3n-Mitarbeiters aussehen, der sein
+Gehalt teilweise in Bitcoin ausgezahlt bekommt.
+
+2. - Seite 35
+
+Um an dem neuen Verfahren teilzunehmen, müssen t3n-Mitarbeiter sich nur auf der Plattform des Bitcoin-Startups PEY anmelden, den Betrag der Umwandlung angeben und die
+kostenlose Pey-App mit ihrer Bitcoin-Wallet verknüpfen. Die Lohnabrechnung muss dann die
+Höhe des Betrags und einen Nettoabzugshinweis enthalten. Und so sieht das in der Praxis
+aus:
+
+Neuen Technologien zum Durchbruch verhelfen
+Seit November wird das Verfahren intern mit einigen Mitarbeitern getestet und wird jetzt
+Schritt für Schritt unternehmensweit ausgerollt. Dabei liegt der Betrag, der in Bitcoin umgewandelt wird, momentan bei 20 Euro pro Lohnabrechnung. Je nach Kursentwicklung kann
+diese Summe schnell mehr werden, aber natürlich auch an Wert verlieren: Was sie aus der
+Bitcoin-Zahlung machen, liegt also an den Mitarbeitern selbst.
+Eine Motivation, die neue Form der Gehaltsauszahlung umzusetzen, liegt natürlich in unserem redaktionell bedingten Interesse an neuen Technologien und ihrer Adaption durch
+Nutzer im Alltag. Mit Bitcoin als Währung entstehen gerade völlig neue Möglichkeiten, Dienste, Services und Startups – t3n will diese Entwicklung nicht nur aus der Beobachter-Rolle
+beschreiben, sondern selbst mitmischen.
+
+Immer mehr Geschäfte akzeptieren Bitcoin-Zahlungen
+Mit Bitcoin einkaufen kann man außer im Internet auf so genannten „Bitcoinboulevards“ von
+Geschäften, die entsprechende Zahlterminals besitzen. Auf diesem Themengebiet ist auch
+das Startup PEY zuhause, das ein solches Terminal entwickelt hat und Inhabern von Ladengeschäften anbietet, diese kostenlos zu testen (mehr Infos dazu gibt es auf der Website von
+PEY ).
+In Hannover können wir zum Beispiel die längste Bitcoin-Einkaufsmeile Europas in Linden,
+einem Szenestadtteil, besuchen. Dort akzeptieren unter anderem diverse Restaurants und
+Kneipen, ein Friseur mit mehreren Filialen, ein Fotofachgeschäft, ein Reisebüro und ein Theater das Kryptogeld. Auch im Szene-Restaurant Boca nahe des t3n-Hauptquartiers können
+wir unser Essen so bezahlen. Wir halten euch über den Fortschritt unseres Experiments auf
+dem Laufenden!
+
+Quelle: t3n digital pioneers
+Autor: t3n Redaktion
+Datum: 21.03.2016, 15:29 Uhr
+Thema: Bitcoin
+2. - Seite 36
+
+

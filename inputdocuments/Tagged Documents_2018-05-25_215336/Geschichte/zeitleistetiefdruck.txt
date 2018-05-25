@@ -1,0 +1,704 @@
+
+
+Das Druckprinzip Tiefdruck - alte und neue Technik
+
+
+άberblick:
+
+nach Dipl.-Ing. Otto M. Lilien, Druckhistoriker (1907-1991) und Ergδnzung
+
+1430
+Erste nachgewiesene Kupferstiche  im  oberdeutschen  Raum.  Der  Kupferstich
+gehφrt vom Prinzip her zur Familie der Tiefdruckverfahren, da das  druckende
+Bild mit einem Stichel spanabhebend in eine  Kupferplatte  "gegraben"  wird.
+Die dadurch entstehen-den vertieften Linien nehmen die Farbe auf  und  geben
+sie unter dem Druck einer Kupferdruckpresse an das Papier ab.
+
+1515
+Im Verlauf der folgenden Jahre entstehen Varianten zum  reinen  Kupferstich:
+die  Radierung  (Δtzen  der  Platte  nach  Gravur   des   Bildes   in   eine
+sδurebestδndige   Beschichtung)   und   die   Schabtechnik   (Glδtten    von
+vorgravierten Stellen auf der Kupferplatte).
+
+1719
+Erstes englisches Patent des Frankfurter Kupferstechers Jakob  Christoph  Le
+Blon, Urenkel von Matthaeus Merian, zur  Herstellung  von  Mehrfarbendrucken
+in  "natόr-lichen  Farben"  in  der  Kupfer-Schabtechnik.  In  dem  von  ihm
+gegrόndeten "Picture  Office"  in  London  druckt  er  Dreifarbendrucke  mit
+Auflagen bis 1000 Exemplaren.
+
+1783
+Erstes englisches Patent von Thomas Bell  fόr  eine  Stofftiefdruckmaschine,
+die fόr  den  ein-,  zwei-,  drei-,  vier-,  fόnf-  und  mehrfarbigen  Druck
+eingesetzt werden kann. An den Druck auf Papier denkt noch niemand.
+
+1820
+Der Amerikaner Jacob Perkins entwickelt das Stahlstich-Verfahren  und  setzt
+es erstmals beim Druck von Banknoten ein.  Der  Stahlstich  erlaubt  feinste
+Ziselierungen (Guillochen), erreicht jedoch nicht die Farbtiefe wie sie  bei
+Kupferstichen όblich ist. In der  Folge  werden  das  Molettieren  der  Form
+(Mehrfachnutzen) und die Filzschablo-nen-Einfδrbung fόr den  Mehrfarbendruck
+(Verfahren nach Serge Baume) entwickelt.
+
+1826
+Erste  photomechanische  Δtzung  auf  Kupferplatten  von  Joseph  Niιcephore
+Niepce in Frankreich, von der gedruckt werden konnte.  Das  Verfahren  nennt
+er Heliographie,  woraus  sich  der  spδtere  Name  fόr  den  Rakeltiefdruck
+ableitet.
+
+1852
+William   Henry   Fox   Talbot   entdeckt   die   Lichtempfindlichkeit   von
+Chromkolloiden,  die  die  Grundlage  fόr  die  Pigmentpapierverwendung   im
+Tiefdruck bildet. Er beschreibt in der Patentanmeldung auch, wie  man  durch
+Benutzung eines Textilgewebes ein Halbton-Bild optisch aufteilen und es  zur
+Plattenδtzung brauchbar machen kann.
+
+1856
+Der  in  London  lebende   Wiener   Paul   Pretsch   hat   die   Idee,   die
+Gelatinequellbilder,  die   Fox   Talbot   erzeugt   hat,   galvanoplastisch
+abzuformen und von den so gewonnenen Tiefdruckplatten zu drucken.
+
+1857
+Der Franzose Alphonse Louis Poitrin stellt Bilder aus Chromgelatine her.  Im
+gleichen Jahr beschreibt  ein  franzφsisches  Patent  von  M.  Bechtold  das
+Kopieren  eines  Rasters  auf  eine  Metallplatte,  die  vorher  mit   einer
+lichtempfindlichen Schicht  όberzogen  wurde.  Das  Raster  ist  dabei  eine
+beschichtete  Glasplatte,  in  die  feine   Linien   geritzt   wurden   (fόr
+Kreuzraster 2 x Belichtung nach 90 Grad-Drehung).
+
+1858
+William Henry Fox Talbot erhδlt ein englisches Patent  fόr  die  stufenweise
+Δtzung  des  Kupfers  durch   eine   Gelatineschicht   hindurch,   fόr   die
+Eisenchloridlφsungen  abnehmender   Konzentration   nacheinander   verwendet
+werden.
+
+1860
+Dem Pariser Verleger Auguste Godchaux  wird  ein  franzφsisches  Patent  auf
+eine Tiefdruckrotationsmaschine fόr den Schφn-  und  Widerdruck  auf  Papier
+erteilt. Der Druckhistoriker Otto M. Lilien entdeckt in den  1950er  Jahren,
+dass darauf bis 1941  in  Paris  Schreibhefte  fόr  den  Schulunterricht  im
+Tiefdruckverfahren gedruckt wurden.
+
+Die Kupferzylinder  waren  dazu  manuell  in  Loch-Manier  graviert  worden.
+Erbauer  dieser  Maschine,  die  schon  groίe   Δhnlichkeit   mit   spδteren
+Rollentiefdruckmaschinen hatte, war ein Konstrukteur mit  Namen  Kientzy  in
+Mόhlhausen im Elsass.
+
+1864
+Ein englisches Patent von Joseph Wilson Swan beschreibt die άbertragung  von
+Gelatinebildern auf Metall. Damit sind alle Teilprozesse  bereits  erfunden,
+die fόr den modernen Tiefdruck gebraucht werden.
+
+1879
+Der  Bφhme   Karl   Klietsch   (Klic)   stellt   auf   einer   Sitzung   der
+Photographischen Gesellschaft  in  Wien  seine  Staubkorn-Heliogravure  vor,
+ohne  das  Verfahren  jedoch  preiszugeben.  Er  verkauft  es  hingegen   an
+verschiedene Kunstanstalten in  Wien,  an  Braun  im  Elsass  und  Annan  in
+England - spδter auch an Bruckmann in Mόnchen.
+
+1886
+Klietsch wandert nach England aus und  kommt  dort  in  Kontakt  mit  Samuel
+Fawcett, einem Chemigraphen der Firma Storey Brothers in Lancaster, der  auf
+einer Kattun-tiefdruckmaschine experimentiert, um den Tiefdruck  auf  Papier
+zu entwickeln. Klietsch wird Mitarbeiter der Firma Storey Brothers.
+
+1895
+Klietsch und Fawcett grόnden fόr die Storey Brothers die Rembrandt  Intaglio
+Printed  Company  in   Lancaster,   um   Kunstblδtter   im   Rastertiefdruck
+herzustellen, die als preisgόnstige Heliogravure auf dem  Markt  erscheinen.
+Gedruckt wird auf rotativen Kattuntiefdruckmaschinen von White  Cross  Mills
+und Joseph Foster & Sons in Preston. Verwendet  werden  Kreuzraster  mit  60
+und 70 Linien/Zoll.
+
+Das  rotbraune  (mit  gebrannter  Siena-Erde   beschichtete)   Pigmentpapier
+liefert die Autotype  Company  in  London.  Dass  mit  Zylindern  statt  von
+Platten gedruckt wird, kann  man  όber  zehn  Jahre  geheim  halten.  Selbst
+intern wird grundsδtzlich von  Platten  gesprochen,  wenn  Zylinder  gemeint
+sind.
+
+1897
+Klietsch kehrt nach Wien  zurόck  und  wird  von  den  Storey  Brothers  als
+Teilhaber aufgenommen, wahrscheinlich um damit zu verhindern, dass  er  sein
+Geheimnis an andere Druckereien, u.a. an Bruckmann, verkauft. Das  Verfahren
+wird  von  der  Rem-brandt  Company  so  geheim  gehalten,  dass   man   auf
+Patentanmeldungen verzichtet.
+
+Zur  Vortδuschung  von  teuren  Heliogravuren  und   zur   Irrefόhrung   der
+Konkurrenz   werden   die   im   Rollentiefdruck   erstellten   Kunstblδtter
+nachtrδglich mit Prδgerδndern versehen. (1930 geht  die  Rembrandt  Intaglio
+Printed Company in der Firma Sun  Printers  Ltd.  in  Watford  auf,  wodurch
+diese relativ kleine Stadt im Norden von London zu  einem  Synonym  fόr  den
+Tiefdruck des Landes wurde - zumal sich spδter auch die noch grφίere  Odhams
+Press Ltd. dort ansiedelte).
+
+1900
+Dr. Eduard Mertens und Ernst Rolffs melden in Deutschland erste Patente  zur
+Weiterentwicklung des Tiefdrucks an. Dr. Mertens  experimentiert  dabei  mit
+einer  Kattuntiefdruckmaschine  in  seiner  Graphischen   Gesellschaft   zur
+Herstellung von Stoff- und Tapetendrucken in  Berlin,  Rolffs  arbeitete  an
+den Problemen des  Kattun-tiefdrucks  in  der  vδterlichen  Textilfabrik  in
+Siegburg.
+
+1902
+Ernst Reich, Betriebsleiter bei der Firma Louis  Callardon  zur  Herstellung
+von Textildruckwalzen  in  London,  beschδftigte  sich  in  seiner  Freizeit
+zuhause damit, hinter das Geheimnis der kostengόnstigen Rembrandt-Drucke  zu
+kommen. Es gelingt  ihm,  einen  kleinen  Tiefdruckzylinder  zu  δtzen.  Mit
+diesem Zylinder sucht  er  den  Hersteller  von  Textildruckmaschinen,  John
+Wood, in Ramsbottom bei Man-chester auf  und  veranlasst  ihn,  eine  kleine
+Zweifarbenversuchsmaschine fόr ihn zu bauen. Mit  dieser  experimentiert  er
+weiter in seinem Haus.
+
+1903
+Hugo Bruckmann von der Verlagsanstalt F. Bruckmann AG in Mόnchen, der  frόhe
+Lizenznehmer von Karl Klietsch, fδhrt nach  London,  um  seinerseits  hinter
+das Geheimnis der Rembrandt-Drucke zu  kommen.  Er  trifft  dort  mit  Reich
+zusammen und es gelingt ihm, diesen fόr eine kurzzeitige  Zusammenarbeit  zu
+gewinnen.
+
+1904
+Reich bestellt nach erfolgreichem  Abschluss  seiner  Experimente  bei  John
+Wood drei Rollentiefdruckmaschinen - zwei kleine, 40 cm  breite  Zweifarben-
+Versuchs-maschinen und eine 75 cm breite Einfarben-Produktionsmaschine.  Die
+Produktions-maschine geht an die Verlagsanstalt F. Bruckmann AG in  Mόnchen,
+die noch  im  gleichen  Jahr  darauf  ihre  "Mezzotinto-Bruckmann  Intaglio-
+Drucke" herstellt.
+
+Eine  der  beiden  kleineren  Versuchsmaschinen  wird  Ende  1904  von  zwei
+Londoner Freunden Reichs nach USA gebracht, wo ein Jahr spδter die  American
+Photo-gravure Company (spδter Alco Gravure, Inc.) in Philadelphia  entsteht.
+
+
+Die zweite Versuchsmaschine nimmt Reich, als  er  seine  nur  wenige  Monate
+wδhrende Arbeit bei Bruckmann beendet hatte, nach Wien mit, wo er  1905  den
+Tiefdruck bei J. Loewy einfόhrt. Dort beendet er seine  berufliche  Laufbahn
+zu Beginn der 1930er Jahre.
+
+1906
+Ernst Rolffs und Dr. Eduard Mertens grόnden in Siegburg die Deutsche  Photo-
+gravure AG und stellen erste kommerziell vertreibbare Drucke auf Papier  mit
+autoty-pischer Rasterung her. Als Laborleiter  zeichnet  Dr.  August  Nefgen
+verantwortlich.
+
+Im gleichen Jahr entstehen die ersten  Dreifarbendrucke  bei  der  Rembrandt
+Company auf Vorschlag von Karl  Klietsch,  der  dazu  nochmals  nach  London
+zurόck-gekehrt war.
+
+1907
+Lieferung einer Dreifarben-Rollentiefdruckmaschine der Maschinenfabrik Mόhl-
+hausen an die Deutsche Photogravure AG in Siegburg.  Die  Maschine  ist  mit
+einer   Abroll-   und    Wiederaufwickelvorrichtung    sowie    mit    einer
+Hδngetrockenanlage, wie im Tapetendruck όblich, versehen.
+
+Dr.  Mertens,  dem   die   Nutzung   der   den   Zeitungs-Illustrationsdruck
+betreffenden Patente der  Deutschen  Photogravure  AG  zu  80%  zugesprochen
+wird,  siedelt  nach  Mόhlhausen  um  und  grόndet  dort   die   Elsδssische
+Textilwalzen Photogravur.
+
+1908
+Lieferung  einer   Einfarben-Rollentiefdruckmaschine   der   Maschinenfabrik
+Mόhlhausen όber die Elsδssische Photogravur an Carl Aller in Kopenhagen  zum
+Druck von "Allers Familien Journal". Die Maschine geht jedoch erst  1912  in
+Betrieb.
+
+Im gleichen Jahr wird eine weitere, die vierte Maschine,  nach  Freiburg  im
+Breisgau geliefert. Dort wird sie im Privatlaboratorium von Dr. Mertens  mit
+einer VOMAG-Buchdruckrotation zusammengekoppelt.
+
+Bei Kempe in Nόrnberg entsteht die erste Bogentiefdruckmaschine, deren  Kon-
+strukteur Carl Blecher ist.
+
+1909
+Die Maschinenfabrik  Mόhlhausen  liefert  eine  fόnfte  Maschine  an  George
+Newnes in London, όber deren Tδtigkeit und Schicksal jedoch  nichts  bekannt
+ist.
+
+1910
+Die Freiburger Zeitung des Verlegers Max Ortmann  erscheint  zu  Ostern  mit
+zwei Beilagen von je 4 Seiten in einer Auflage von 20 000 Exemplaren.  Diese
+Beilagen zeigen auf den Auίenseiten Bilder im Tiefdruck, die  innerhalb  des
+normalen Buch-drucktextes  stehen.  Dies  wird  von  der  Fachwelt  als  ein
+Groίereignis gefeiert. Den Hybriddruck  Tiefdruck/Buchdruck  sieht  man  als
+die Zukunft des modernen Zeitungs-drucks an. Die  Druckgeschwindigkeit  kann
+bis  auf  12  000  Zyl./h  gesteigert  werden.  Dies  ist  die   eigentliche
+Geburtsstunde des Tiefdrucks.
+
+1911
+Weitere Rollentiefdruckmaschinen aus Mόhlhausen  werden  an  das  "Hamburger
+Fremdenblatt" und an die "Frankfurter Zeitung" geliefert. Im  gleichen  Jahr
+schlie-ίen sich die Rotogravur  Deutsche  Tiefdruck-Gesellschaft  in  Berlin
+(gegrόndet von der Deutschen Photogravur AG in  Siegburg  und  der  Rotophot
+GmbH in Berlin) mit der Mertens Tiefdruck GmbH in Mannheim zusammen.
+
+
+1912
+Gemeinsame Erstellung von Text und Bild bei  der  Zylinderδtzung  durch  Dr.
+Nefgen von der Deutschen Photogravur AG in Siegburg  und  Hans  Kraemer  von
+der Rotophot GmbH fόr die Graphische Industrie in Berlin.
+
+Aufstellung  einer  Mόhlhausener  Rollentiefdruckmaschine  bei  dem   groίen
+Zeitungs-verlag  von  Rudolf  Mosse  in  Berlin  zum   Druck   der   zweimal
+wφchentlich erschei-nenden Beilage "Der Weltspiegel" mit einer  Auflage  von
+240 000 Exemplaren.
+
+Ende des Jahres erscheint auch die London Illustrated News erstmals im Tief-
+druck, wozu eine Rollentiefdruckmaschine  der  Maschinenfabrik  Johannisberg
+zum Einsatz kommt.
+
+Zu SADAG in Genf in der Schweiz, deren Direktor Hans Luginbόhl ist,  liefert
+die Maschinenfabrik Mόhlhausen auch eine Rollentiefdruckmaschine.  Dies  ist
+historisch  deshalb   interessant,   weil   Luginbόhl   spδter   die   groίe
+Tiefdruckerei von E. Desfossιs - Nιogravure in Paris grόndet.
+
+Im gleichen Jahr liefert  die  Schnellpressenfabrik  Frankenthal,  Albert  &
+Cie. ihre erste Flachform-Bogentiefdruckmaschine mit  Namen  "Walkόre",  die
+aus  einer  litho-graphischen  Schnellpresse  (Steindruckpresse)  entwickelt
+wurde, an Brend'amour Simhart & Cie. in Mόnchen.
+
+1913
+Erste Briefmarkendrucke in Halbtonrasterung auf  einer  rotativ  arbeitenden
+Palatia-Bogentiefdruckmaschine aus Frankenthal bei Bred'amour Sinhart &  Co.
+in Mόnchen parallel zur F. Bruckmann AG, ebenfalls in Mόnchen.
+
+Grόndung der Internationalen Tiefdruck Syndikat  GmbH  mit  den  Teilhabern:
+Internationale  Tiefdruck  GmbH  in  Berlin,  Mertens  Tiefdruck   GmbH   in
+Mannheim, Rotogravur Deutsche Tiefdruck GmbH in Berlin,  Tiefdruck  GmbH  in
+Berlin, Kempe-werk oHG in  Nόrnberg,  Elsδssische  Maschinengesellschaft  in
+Mόhlhausen, Maschi-nenfabrik  Johannisberg  GmbH  in  Geisenheim  am  Rhein,
+Schnellpressenfabrik Koenig &  Bauer  AG  in  Wόrzburg  und  Maschinenfabrik
+Augsburg-Nόrnberg AG (MAN) in Augsburg.
+
+Die Schnellpressenfabrik  Frankenthal,  Albert  &  Cie.  AG,  die  auίerhalb
+dieses Syndikats steht, liefert ihre erste  Rollentiefdruckmaschine  an  die
+Graphische Kunst-anstalt Rohr in Berlin. Wie die Frankenthaler so hδlt  sich
+auch die traditionsreiche Druckmaschinenfabrik R. Hoe &  Co.,  Inc.  in  New
+York    auίerhalb    dieses    Syndikats    und    liefert    ihre     erste
+Rollentiefdruckmaschine an die groίe Zeitung "New York News".
+
+In Frankreich fόhren Crιtι in Corbeil und "Le Petit Parisien" in  Paris  den
+Tiefdruck ein, nachdem  "L'Illustration"  in  Paris  schon  1910  mit  einer
+Mόhlhausener  Rollen-tiefdruckmaschine  mit  variabelformatigem  Falzapparat
+von Koenig &  Bauer  zu  drucken  begonnen  hatte.  Als  das  Syndikat  eine
+Vertretung   in   Paris   installiert,   tritt   auch    die    franzφsische
+Druckmaschinenfabrik von Hypolithe Marinoni dem Syndikat bei.
+
+1914
+In USA erscheinen regelmδίig Wochenendbeilagen  in  der  "New  York  Times".
+Dieses Produkt des Verlegers Adolph  Ochs  erregt  in  der  Neuen  Welt  ein
+ebenso groίes Aufsehen,  wie  es  das  Osterereignis  vier  Jahre  zuvor  in
+Freiburg hervorge-bracht hatte.
+
+Der spδtere Pionier bei der Entwicklung von  Akzidenz-Rollenoffsetmaschinen,
+John  F.  Webendorfer  in  New  York,  liefert   mehrere   130   cm   breite
+Rollentiefdruckma-schinen an die Nιogravure Printing Company  in  New  York.
+Im gleichen Jahr stφίt der Tiefdruck verstδrkt auch nach  Skandinavien  vor:
+Carl Allers in Valby und Egmont H. Petersen in Kopenhagen,  Dδnemark,  sowie
+Ehrnfried Nyberg Boktryck-eri und Ahlen & Akerlund Fφrlags AB in  Stockholm,
+Schweden.
+
+Die Schellpressenfabrik  Frankenthal  liefert  eine  Rollentiefdruckmaschine
+zum Druck der "Schweizer Illustrierten" an die Ringier AG in  Zofingen,  die
+fόnf Monate lang tδglich auf der Schweizer  Landesausstellung  vom  15.  Mai
+bis 15. Oktober 1914 in Bern im Druck der Φffentlichkeit vorgefόhrt wird.
+
+Die Tiefdruckfarben bestehen zu  diesem  Zeitpunkt  aus  einem  Gemisch  von
+Benzol  und  Terpentinφl.  Erst  spδter  entdeckte  man,  dass  das   Benzol
+hochgiftig ist und ersetzt es durch Toluol und Benzin.
+
+1915
+In  diesem  Jahr  verfόgt  F.  Bruckmann   in   Mόnchen   bereits   όber   5
+Rollentiefdruck-maschinen, von denen drei fόr den Bild- und Buchbereich  und
+zwei  unter  strenger  postalischer  Kontrolle  fόr   den   Briefmarkendruck
+eingesetzt werden.
+
+Im gleichen Jahr kommt es auch zum ersten Banknotendruck in der  Kombination
+von   Tiefdruck,   Offsetdruck    und    Buchdruck    zur    Erhφhung    der
+Fδlschungssicherheit  bei  Watherlow  Brothers  &  Layton  in  London.   Die
+Einrichtungen  dazu  liefert  die  Anglo  Engraving  Co.,  die  dadurch  die
+fόhrende Firma im Tiefdruck in England wird. Es kommt deshalb  zur  Grόndung
+der Tiefdruckabteilung von Sun Printers in Wat-ford. An  N.V.  Druckerij  de
+Spaarnestad  in  Haarlem  bei  Amsterdam   wird   eine   24seitige   Albert-
+Tiefdruckmaschine geliefert.
+
+1918
+Isidor   Tornberg   baut   bei   R.   Hoe   &   Co.   in   New   York   eine
+Rollentiefdruckmaschine, bei der die  Druckan-  und  -abstellung  όber  eine
+Lδngswelle synchronisiert wird.  Der  Druckwerkantrieb  geschieht  weiterhin
+όber eine lange Reihe von  Stirnrδdern.  Der  Rakelantrieb  erfolgt  bereits
+separat und nicht synchron mit dem Druckwerk-antrieb (gegen  Rakelstreifen).
+Der Presseur ist in seiner δuίeren Form  bombiert,  um  einen  gleichmδίigen
+Ausdruck der  Form  όber  die  volle  Bahnbreite  sicherzustellen.  Vor  dem
+Einlauf der Bahn ins erste Druckwerk befindet sich  eine  gefederte  Papier-
+leitwalze,  um  eine  konstante  Papierspannung  zu  erzielen.  Eine  dieser
+Maschinen wird zum Druck von "New York American" eingesetzt.
+
+1919
+R. Hoe & Co., New York, liefert an die  "Chicago  Tribune",  die  bis  dahin
+breiteste Rollentiefdruckmaschine mit einer Bahnbreite von 185 cm.  Sie  ist
+eine Weiterent-wicklung der Tornberg-Konstruktion und verfόgt  bereits  όber
+eine     Hauptantriebs-welle     in     Unterflur-Anordnung     -      einem
+Konstruktionsmerkmal, das erst 15 Jahre spδ-ter  bei  Zeitungsdruckmaschinen
+("Roter Teufel" aus Frankenthal beim Ullstein-Verlag)  Eingang  findet.  Zur
+Trocknung des frischen Drucks werden Trockentrommeln eingesetzt.
+
+Nach   dem   Ersten   Weltkrieg   nimmt   Albert    als    erste    deutsche
+Druckmaschinenfabrik  die  Entwicklung  und   den   Bau   von   Bogen-   und
+Rollentiefdruckmaschinen wieder auf. Es entstehen  der  Palatia-Automat  und
+die  Super-Palatia  mit  verlδngerter  Trocken-strecke.   Die   "Liti"   der
+Maschinenfabrik Johannisberg in  Geisenheim  am  Rhein  macht  den  Palatia-
+Maschinen aus Frankenthal Konkurrenz.
+
+1920
+Zu  diesem  Zeitpunkt  gibt  es  bereits  80-100  Tiefdruckereien,  die  den
+modernen Tiefdruck ausόbten. Die grφίten Druckereien  besitzen  dabei,  ohne
+die     Bogenma-schinen     zu     berόcksichtigen,     bis     zu     zwφlf
+Rollentiefdruckmaschinen.  Eingedenk  der  Tatsache,  dass  die  nicht  mehr
+geheime Entwicklung des Verfahrens erst 1910 begann und  von  1914-1918  der
+Erste  Weltkrieg  die  Entwicklungsarbeiten  unterbrach,  kann   von   einer
+stόrmischen Einfόhrung des Tiefdruckverfahrens gesprochen werden.
+
+1922
+Versuche  des  Tiefruck-Syndikats,  das  Satellitenprinzip  im   Mehrfarben-
+Tiefdruck  einzusetzen,  schlagen  fehl,  da  die  Farbe  auf   den   kurzen
+Wegstrecken zwischen  den  einzelnen  Druckzonen  nicht  genόgend  trocknet.
+Trotzdem wird der eigensinnige Ernst Oppliger zu  Beginn  der  1940er  Jahre
+das Prinzip nochmals bei Ringier & Co. in Zofingen versuchen, was auch  nach
+Umbau auf indirekten Tiefdruck scheitert.
+
+1925
+Auf Anregung von Carl Eduard Schόnemann in Bremen baut  die  Maschinenfabrik
+Johannisberg  die  "Kaskaden-Liti".  Dazu  werden  fόr  den  Mehrfarbendruck
+mehrere Einfarbenmaschinen  kaskadenfφrmig  hintereinander  angeordnet.  Als
+Weiterentwick-lung entsteht die Maschine "Dόrer",  bei  der  die  Druckwerke
+όbereinander angeord-net sind. Diesem Prinzip folgt spδter auch  die  "Egli"
+von Koenig & Bauer, wδhrend die "Rembrandt", wiederum nach  Ideen  von  Carl
+Eduard Schόnemann, als "Hol-bein" zuerst in  England  gebaut  (Montageleiter
+Henry Moog!), eine  Reihenanordnung  mit  schuppenfφrmig  schrδg  gestellten
+Trockenkδsten  vorsah.  Am  Malteserrad-Antrieb  der  "Rembrandt"  verdiente
+Schόnemanns Sohn,  Dr.-Ing.  Hans-Bernhard  Bolza-Schόnemann,  seine  ersten
+Sporen als genialer Druckmaschinenkonstrukteur und spδterer Chef  der  Firma
+Koenig & Bauer AG.
+
+1926
+Die Trocknungsanlagen der Albert-Rollentiefdruckmaschinen System Schulte be-
+
+
+teht aus extern in einem  Ofen  aufgeheizten  Metallplatten,  όber  die  die
+bedruckte  Bahn  von  der  Rόckseite  her  gefόhrt   wird   und   όber   der
+Ventilatorflόgel Frischluft auf den frischen  Druck  wedeln.  Die  allgemein
+όblichen Trockentrommeln darf man in Frankenthal wegen  eines  Patentes  des
+Syndikates  nicht  benutzen  (Druckinstruktor  Hans  Schulte  war  gelernter
+Fotograf  und  Tiefdruck-Δtzer  und  hatte  auch  alle  Hilfs-maschinen   in
+Frankenthal zu entwickeln. Zusammen ist dies das System Schulte).
+
+In USA entwickelt Ernst  S.  Ballard  das  Verfahren  der  Verkupferung  der
+Tiefdruck-Formzylinder mit einer nach dem Ausdrucken  abziehbaren  "Ballard-
+Haut",  was  die  Herstellung  der  Formzylinder  verkόrzt.  Eine  vor   dem
+Verkupfern aufgebrachte Trenn-schicht ermφglicht das restlose  Abziehen  der
+Ballard-Haut.
+
+1927
+In USA entwickelt  Adolf  Weiss  ein  voll  gekapseltes  Farbwerk,  das  die
+flόchtigen Tiefdruckfarben tagelang frisch hδlt und jegliches  Spritzen  der
+Farbe  vermeidet.  Druckfarbenfachleute  bezeichnen  dies  als  "die  grφίte
+Revolution  im  Druckmaschi-nenbau".  Gebaut  wird  das  Farbwerk  bei   der
+Colorato Corp. von Weiss, Dultgen und McLoed in New York.  Zur  Verbesserung
+der Haltbarkeit der Tiefdruckδtzung όber hohe  Auflagen  hinweg  werden  die
+Kupferzylinder erstmals verchromt.
+
+1931
+Der Chemiker Edward Nagelstein entwickelt  in  Frankenthal  eine  gekapselte
+Kaltluft-Parallelstrom-Tockenanlage  mit  Absaugung  zur  Rόckgewinnung  der
+Lφsungsmittel  der  Tiefdruckfarben.   Deren   Einfόhrung   in   Frankenthal
+scheitert jedoch am Wider-stand des Chefinstruktors Hans Schulte.  Daraufhin
+verkauft Nagelstein  sein  Patent  όber  den  Papiergroίhδndler  Fuygers  in
+Dόsseldorf an die Kadus-Werke in Neustadt im Schwarzwald. Daraus  resultiert
+der     berόhmt     gewordene     Fuygers-Trockner,     der     in     viele
+Rollentiefdruckmaschinen eingebaut wird. Mit ihm lδsst sich die Produktions-
+geschwindigkeit auf 5 m/s steigern und eine όber 100%ige  Rόckgewinnung  des
+Lφsungsmittels erreichen. Die  dazu  erforderlichen  Supersobon-Anlagen  mit
+Aktiv-kohleanlagerung  und  Dampfauswaschung  liefert  die  Firma  Lurgi  in
+Frankfurt.
+
+1932
+Die Koenig & Bauer AG entwickelte unter Umgehung des  Fuykers-Patentes  eine
+Raumluft-Trocknungsanlage mit schmalem Trockenkanal, in dem Luftwirbel  (zur
+Beschleunigung der Trocknung) gebildet werden und  bei  der  die  abgesaugte
+Luft grφίer ist als die aufgeblasene, sodass  auch  um  das  Farbwerk  herum
+Lφsungs-mitteldδmpfe abgesaugt werden. Die Schnellpressenfabrik  Frankenthal
+folgt mit  einer  δhnlichen  Konstruktion,  bei  der  die  Bahn  abwechselnd
+Unterdruckzonen und  άberdruckzonen  durchlδuft.  Auch  die  Maschinenfabrik
+Winkler, Fallert & Co.  in  Bern,  Schweiz,  (WIFAG)  entwickelt  zu  diesem
+Zeitpunkt eine Gegenstrom-Tockenanlage mit Luftwirbelbildung.
+
+In USA grόndet Joseph P. Kapp, Inhaber der Alco  Gravure  Inc.  die  Speedry
+Gravure Corp., die das gekapselte Farbwerk von Adolph  Weiss  όbernimmt  und
+darόber hinaus die Druckwerke voll gekapselt und robust  ausfόhrt.  GOSS  in
+Chicago nimmt kurze Zeit spδter darauf eine  Lizenz  und  wird  dadurch  ein
+starker Konkurrent auch auf diesem Gebiet fόr die traditionseiche  Firma  R.
+Hoe & Co. in New York.
+
+1933
+Die     Schnellpressenfabrik     Frankenthal     liefert     eine      erste
+Kleinrollentiefdruckmaschine an die Tiefruckerei Conzett & Huber in  Zόrich.
+Die nur eine Seite breite Maschine wird dort fόr den hochqualitativen  Druck
+von Zeitschriftenumschlδgen eingesetzt.
+
+1934
+Eine 190 cm breite, von der  Baker  Perkins  Ltd.  in  Peterborough  gebaute
+Rollen-tiefdruckmaschine wird an die Zeitung  "Times  of  India"  in  Bombay
+geliefert und dort mit einem Insetting-Locher  von  Bell  Punch  &  Printing
+Company  ausgerόstet,  um  so  die  im  Tiefdruck  vorgedruckten  Rollen  in
+Buchdruckmaschinen registergenau ein-laufen zu lassen. 1955  wird  Crosfield
+Electronics dieses Prinzip aufgreifen und  mit  photoelektronischen  Mitteln
+verbessern. In den 1960er Jahren wurden viele Zeitungen so mit im  Tiefdruck
+hergestellten Illustrationsteilen versehen.
+
+In USA erfindet  Arthur  Dultgen,  Leiter  der  Tiefdruckabteilung  bei  der
+Zeitung  "New  York  News",  das  flδchen-  und   tiefenvariable   "Dultgen-
+Verfahren" fόr die bessere Durchzeichnung der  Tiefdruckformen  wδhrend  der
+Rasterung und Kopie (Halbton-diapositive mit  geringem  Kontrast  und  guter
+Durchzeichnung in den Lichtern und Tiefen werden mit normalen  autotypischen
+Diapositiven, die nur vom Lichtpunkt bis zum Tonwert reichen, bei der  Kopie
+kombiniert). Julius Elias von der Odhams Press Ltd. in Watford sichert  sich
+das Alleinnutzungsrecht fόr das Dultgen-Verfahren in Europa.  Elias,  spδter
+Lord Southwood, grόndet in diesem Jahr aus einer Verδrger-ung, Sun  Printers
+Ltd.  fόr  den  Druck  seiner  Zeitschrift  "Red  Bull"  (Auflage  1,5  Mio.
+Exemplare) nicht kaufen zu kφnnen, seinen Betrieb Odhams Press Ltd.  in  der
+Nachbarschaft von Sun Printers in Watford mit 160 GOSS-Speedry-Druckwerken.
+
+1939
+In USA wird erstmals zwischen  "Publication  Printing"  (Illustrationsdruck)
+und "Commercial Printing"  (Verpackungsdruck)  im  Tiefdruck  unterschieden.
+Auslφser dieser Entwicklung ist Adolph Weiss, der sich beim  Verkauf  seiner
+Konstruktionen  die  schmalen  Maschinen  vorbehalten  hatte  und  etwa  200
+Maschinen fόr den Druck von Metall-  und  Plastikfolien  in  relativ  kurzer
+Zeit absetzen kann. Er verkauft um  1939  sein  Geschδft  an  die  Champlain
+Company, die aus der Chambon Company of America  hervorgegangen  ist  (gegr.
+1891 von Louis  Chambon  in  Paris  =  Erfinder  der  Inline-Zuschnitte  von
+Verpackungen). Im Jahre 1964 όbernimmt J.  Bobst  &  Fils  in  Lausanne  die
+Firma als Bobst-Champlain Inc. Zu diesem Zeitpunkt druckte  in  USA  bereits
+der Groίteil der Illustrations-Tiefdruckmaschinen  mit  Bahnbreiten  um  180
+cm.
+
+1943
+Der Vater des Verfassers, Paul  Fuchs,  kann  aus  gesundheitlichen  Grόnden
+nicht  zum  Kriegsdienst  eingezogen  werden  und  entwickelt  wδhrend   der
+Kriegsjahre neben  "kriegswichtigen  Dingen"  bei  der  Schnellpressenfabrik
+Frankenthal  die  Kleintief-druckmaschine  "Albertina"  in   Kompaktbauweise
+(mehr als 2000 Druckeinheiten kφnnen von diesem "Volkswagen des  Tiefdrucks"
+verkauft  werden)  und  legt  den  Grundstein  fόr  eine   voll   gekapselte
+Neukonstruktion der Groίtiefdruckmaschinen.  Dadurch  kann  das  Unternehmen
+nach Ende des Krieges mit neuen Maschinen sofort auf den Markt erscheinen.
+
+1948
+John C. Crosfield entwickelt zusammen mit seinem ersten  Mitarbeiter  Dennis
+Bent die elektronische Register-Regelanlage "Autotron"  zum  registergenauen
+άber-einanderdruck   der   einzelnen   Farbauszόge   auf   das   Papier   in
+Rollentiefdruckmaschi-nen. Die erste Anlage wird bei  Amalgamated  Press  in
+London eingesetzt. Das Prinzip geht auf  eine  Erfindung  der  Electric  Eye
+Equipment Division der Hurletron Inc. in USA von vor dem  Zweiten  Weltkrieg
+zurόck.
+
+1949
+Dr. Walter  Matuschke,  Technischer  Direktor  des  Axel  Springer  Verlags,
+verlangt von MAN in Augsburg den Bau von  Rollentiefdruckmaschinen  mit  180
+cm Bahnbreite. Der ansonsten  geniale  Technische  Direktor  der  MAN,  Paul
+Dietrich, lehnt dies wegen angeblicher Registerprobleme ab.  Generaldirektor
+Karl Rheinganz und der Vater  des  Verfassers,  Paul  Fuchs,  willigen  ein,
+wodurch die Schnellpressenfabrik Frankenthal, zum "Hoflieferanten" des  Axel
+Springer Verlags und  spδterer  Marktfόhrer  auf  diesem  Gebiet  wurde.  Im
+gleichen  Jahr  liefert  der  "New  Player",  Giovanni  Cerutti,  in  Casale
+Monferrato, Italien, seine erste Rollentiefdruckmaschine nach Polen.
+
+1950
+Mahlon Richard Boyer und William Grumbine erfinden in  USA  den  "Rotofilm",
+der eine bessere Passerhaltigkeit als das Pigmentpapier bei der  άbertragung
+auf den zu δtzenden Formzylinder erlaubt.
+
+Cline  Electric  in  USA  und  Witton  James  in  England   entwickeln   den
+"Autopaster"   zum   vollautomatischen   Wechseln   der   Papierrollen    in
+Rollendruckmaschinen.
+
+1951
+Auslieferung der ersten  PDI-Farbscanner  der  A-Serie  durch  die  Printing
+Develop-ment Inc. (PDI) des Time Inc. Verlags in  New  York,  nachdem  diese
+die bereits aus dem Jahre  1937  stammenden  Patente  von  Eastman-Kodak  in
+Rochester, N.Y. erworben hatte. Die  A-Serie  misslingt,  aber  die  nδchste
+Serie wird ein Erfolg mit der man fόnf Scanner-Studios in USA und in  Europa
+einrichtet.
+
+1959 folgen John  C.  Crosfield  und  Dr.-Ing.  Rudolf  Hell  mit  δhnlichen
+Konstruk-tionen bei Sun Printers Ltd. in Watford. Auslφser  dazu  war,  dass
+der Direktor von Sun Printers mit Namen  Charles  (Charly)  Cook  befόrchtet
+hatte, bei der steigenden  Anzahl  Farbseiten  in  seiner  Frauenzeitschrift
+"Woman"  wegen  gewerkschaftlicher  Einsprόche  nicht  genόgend  Retuscheure
+finden zu kφnnen.
+
+1953
+In USA wird bei der Art Color Printing Company in Dunellen,  N.J.,  das  von
+John C. Consaul und Edwin Velten erfundene flδchen- und tiefenvariable  Hard
+Dot-Ver-fahren   (autotypisches    Rasternegativ    von    einem    normalen
+Tiefdruck(halbton)-diapositiv  in  der  Kamera  erzeugt,  das  bereits   die
+Schattenpunkte mit  feinen  Linien  verbunden  hδlt)  weiterentwickelt.  Das
+Verfahren erwirbt 1958 der Axel Springer Verlag in  Hamburg  zum  Druck  der
+Farbseiten seiner Fernsehzeitschrift "Hφr Zu".
+
+1956
+In Mόnchen wird die European Rotogravure Association (ERA)  zur  gemeinsamen
+Weiterentwicklung des Tiefdrucks von 10 groίen Tiefdruckereien Europas  nach
+dem Vorbild der nordamerikanischen GTA (Gravure Technical  Association)  und
+dem GRI (Gravure Research Institute) gegrόndet. 1959  erteilt  die  ERA  dem
+Battelle Institut einen Auftrag zur Entwicklung der  Elektronenstrahl-Gravur
+von Tiefdruckzylindern, der jedoch 1964 mit negativem  Ergebnis  eingestellt
+wird. Auch Versuche, Laser-strahlen zu diesem Zweck  einzusetzen,  scheitern
+vorerst. Erst  spδter  gelingen  An-wendungen  auf  Kunststoffzylindern  und
+jόngst (2006) auch in der Direktgravur  auf  Kupferzylindern  (Hell  Gravure
+Systems GmbH in Kiel) fόr den  Verpackungsdruck  und  auf  Zinkzylinder  (M.
+Daetwyler in Bleienbach, Schweiz) fόr den Illustrationstiefdruck.
+
+1960
+Dr.-Ing.   Rudolf   Hell   erfindet   den   "Helio-Klischograph"   fόr   die
+elektomechanische Gravur von  Tiefdruckzylindern.  Auslφser  dazu  ist  eine
+Bemerkung  von  Dr.  Walter  Matuschke,  etwas  wie  den  Klischograph   fόr
+Buchdruck-Klischees auch fόr den Tief-druck zu entwickeln. Der erste  Helio-
+Klischograph kommt jedoch nicht beim Axel Springer Verlag, sondern  bei  den
+Graphischen Betrieben W. Girardet in Essen zum Einsatz.  1972  wird  bereits
+der 100. Helio-Klischograph von Hell ausgeliefert.
+
+1962
+Das GRI in USA entwickelt ein Verfahren,  mit  dem  unter  der  Wirkung  von
+elektrosta-tischen Krδften die Nδpfchen der Zylindergravur  besser  entleert
+werden kφnnen und sich so "missing dots"  im  Druck  vermeiden  lassen.  Das
+Verfahren wird von der Hurletron Corp.  in  USA  unter  dem  Namen  "Electro
+Static  Assist  (ESA)"  und  von  Crosfield  Electronics   in   Europa   als
+"Heliostat" vertrieben.
+
+Die WIFAG in Bern, Schweiz, bringt mit dem "Superrotomaster" eine  neuartige
+Rollentiefdruckmaschine    heraus,    die    όber    eine    leistungsstarke
+Prallstrahldόsen-Trocknungsanlage  mit  Stόtzwalzen  statt   Trockentrommeln
+verfόgt und  die  Schφn-Widerdruck-Umkehrung  der  Bahn  mittels  Wendewagen
+durchfόhrt.  Eine  Register-voreinstellung  verkόrzt  das   Einrichten   der
+Maschine bei Auftragwechsel.
+
+Bei der Tiefdruckerei Etten-Leur in den Niederlanden  setzt  WIFAG  erstmals
+statt des Dreiwalzensystems mit Stόtzpresseur  eine  hydraulisch  steuerbare
+"Schwimmende  Walze"  von  Kόsters  in  Krefeld  ein,   um   so   zu   einem
+Zweiwalzensystem zurόck zu kehren. Der gleichmδίige Ausdruck der  Form  wird
+dadurch όber die volle Breite der Papierbahn sichergestellt.
+
+1968
+In USA bringen GOSS in Chicago und C. Motter Printing  Press  Co.  in  York,
+PA. όberbreite Rollentiefdruckmaschinen mit 100 Zoll  =  254  cm  Bahnbreite
+heraus. Erst 1973 folgen solche  Bahnbreiten  auch  von  MAN  beim  Heinrich
+Bauer  Verlag  in  Europa.  Gleichzeitig  wird   dabei   das   Prinzip   von
+Wechselfalzapparaten angewandt.
+
+1973
+Bei  Albert-Frankenthal  und  MAN  werden  Versuche  fόr  einen  wellenlosen
+Antrieb   von   Tiefdruckmaschinen   durchgefόhrt,   die   die   Machbarkeit
+bestδtigen. Aus Kosten-grόnden und wegen des erhφhten  Zeitbedarfs  bei  der
+Inbetriebnahme wird  jedoch  auf  die  Einfόhrung  verzichtet  und  nur  die
+Rollenwechsler und teilweise auch die Falzapparate damit von der  Lδngswelle
+entkoppelt.    Erst    1995    findet    der    wellenlose    Antrieb    bei
+Zeitungsrotationsmaschinen Eingang, dort aber gleich 100%ig.
+
+Der Hybriddruck Tiefdruck/Buchdruck flammt im Zeitungsdruck in Spanien  (ABC
+Madrid, Semana Madrid, La Vanguardia  Barcelona)  nochmals  auf,  doch  kann
+dies den Siegeszug des Offsetdrucks im Zeitungsdruck nicht aufhalten.
+
+1975
+Albert-Frankenthal  startet  intensive   Versuche,   um   Wickelplatten   im
+Tiefdruck einzu-fόhren. Trotz Weiterfόhrung dieser Versuche bei  Gruner+Jahr
+in Itzehoe, bei Max Daetwyler in Bleienbach, Schweiz, und bei  der  BASF  in
+Ludwigshafen-Rhein (Nylo-grav-Platten) gelingt es nicht, das  Verfahren  zur
+Marktreife zu fόhren.
+
+1977
+Die 40 000er-Generation von Rollentiefdruckmaschinen werden von der  Albert-
+Frankenthal AG und der G. Cerutti  S.p.A.  in  Casale  Monferrato,  Italien,
+geboren und auf der Drupa 1977 in Dόsseldorf  vorgefόhrt.  Sie  bringen  mit
+optimierten Falz-apparaten (Sandwichwalzen  im  Einlauf,  Exemplarbremse  im
+Auslauf,  direkte  Kurven-steuerungen)  gegenόber  ihren  Vorgδnger-Modellen
+eine  Leistungssteigerung  von  150%.  Die  Prototyp-Anwender   sind   dabei
+Gruner+Jahr AG in Itzehoe und der Familienbetrieb BURDA  in  Offenburg.  Die
+beiden Hersteller Albert und Cerutti schaffen  dadurch  eine  Alleinstellung
+bei   Illustrations-Tiefdruckmaschinen   gegenόber   ihren   internationalen
+Konkurrenten, die bis zum heutigen Tag anhδlt.
+
+Mit der Unscharfabtastung  beim  Helio-Klischographen  kφnnen  auch  bereits
+gerasterte Offsetvorlagen im Tiefdruck verwendet werden. Diese  so  genannte
+O/T-Konversion erschlieίt dem Tiefdruck neue Mδrkte  bei  Werbe-Flugblδttern
+(Flyers).
+
+1979
+Die stδndige Erhφhung der  MAK-Werte  (Maximale  Arbeitsplatz-Konzentration)
+macht es erforderlich,  όber  den  Rollentiefdruckmaschinen  Dunsthauben  zu
+installieren. Umweltschόtzerische Kampagnen gegen den  Tiefdruck,  besonders
+in Dδnemark, versuchen das Verfahren wegen  des  Restlφsemittelgehaltes  der
+Lφsungsmittel in den Exemplaren zu verunglimpfen.
+
+1980
+Die Albert-Frankenthal  AG  entwickelt  nach  Einsatz  der  Nipco-Walze  des
+Papier-maschinenherstellers Escher-Wyss die Eigenkonstruktion "K-Walze"  fόr
+ein  Zwei-walzen-System  zum  Biegeausgleich  des  Presseurs  bei   grφίeren
+Bahnbreiten. Eine δhnliche Konstruktion entwickelt auch Cerutti. Albert  und
+Cerutti dominieren  mit  ihren  nach  USA  exportierten  Maschinen  den  US-
+amerikanischen  Markt.  Dies  zwingt  die  einheimischen  Hersteller  (GOSS,
+Motter) zur Aufgabe.
+
+Mit dem wδhlbaren Einsatz von Formzylindern mit 4 oder 6 Δtzungen  =  Seiten
+am Umfang des Zylinders wird die Produktivitδt der  Rollentiefdruckmaschinen
+weiter   gesteigert.   Es   kommen   auch   doppelbreite   Falzapparate   im
+Zylinderverhδltnis bis  4:7:7  mit  Mehrfachauslagen  zum  Einsatz.  In  der
+Zylindergravur ist es  nicht  mehr  erforderlich,  die  Vorlagen  auf  einem
+separaten Abtastzylinder einzuscannen. Die  Graviermaschinen  werden  direkt
+aus dem Datenspeicher der EDV gesteuert.
+
+1985
+Die Bahnbreitengrenze von 3 m  wird  erstmals  όberschritten.  Auch  in  der
+Druck-geschwindigkeit  werden  inzwischen  14  m/s  erreicht,  was  die   im
+Rollenoffsetdruck erreichbaren Geschwindigkeiten bei weitem όbertrifft.  Das
+Problem des Seiten-passers wird  durch  Einrόcken  der  Formen  und  mittels
+Bedampfungsstδben όber den einzelnen Druckwerken beherrscht.
+
+1986
+Wie   im   Verpackungstiefdruck   bereits   όblich,    werden    auch    bei
+Illustrationstiefdruck-maschinen Wechseldruckeinheiten eingesetzt,  die  die
+Rόstzeiten wδhrend des Auftragwechsels enorm verkόrzen.
+
+2005
+Nach immer grφίeren Bahnbreiten in den Rollentiefdruckmaschinen ist man  bei
+einer Bahnbreite von 4,32 m angelangt und einer Druckgeschwindigkeit von  16
+m/s. Die enorme Leistungssteigerung hat es mit sich gebracht, dass es  heute
+weltweit nur noch wenige Tiefdruckereien und nur  zwei  Hersteller  fόr  den
+Illustrationsdruck gibt.  Die  Druckereien  sind  zudem  in  einer  Handvoll
+Konzerne zusammengeschlossen.
+
+Weitere Vortrδge:
+Dr. Thomas Glφί: "Der Einfluss von Kupferstichen/Radierungen auf die
+Entwicklung der Frόhdruckformen (1450-1530)".
+
+Ernst Born: "Vom Kupferstich zum Rakeltiefdruck unter besonderer
+Berόcksichtigung der Probleme mechanischer Techniken".
+
+Dr. Andreas Brockelt: "Von der Δtztechnik zur elektronischen Laser-Gravur".
+
+
+Fritz Kaiser: "Der Stahlstich - Bedeutung und Mφglichkeiten seines
+Erhalts".
+
+Hanns-Peter Schφbel: "Historische Entwicklung der Reproduktionstechniken
+und die Folgen fόr die Arbeitsorganisation".
+
+Peter Neumann: "Arbeitsbedingungen am Zylinder unter den Bedingungen des
+verstδrkten Bedarfs nach Farbanzeigen".
+
+Herbert Kurreck / Janus Verhoeven: "Der Bogentiefdruck geht um die Welt -
+aus der Geschichte lernen".
+
+Johannes Boppel: "Stand und Entwicklung des modernen Tiefdrucks".
+
+Fritz Aebi: "Situation und Prognosen der Schweizer Druckindustrie".
+
+Boris Fuchs

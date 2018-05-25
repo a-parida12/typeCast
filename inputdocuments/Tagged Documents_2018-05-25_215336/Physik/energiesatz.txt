@@ -1,0 +1,61 @@
+Der Energiesatz der Mechanik
+
+Wir gehen davon aus, dass sich ein Kraftfeld durch ein Potential ausdrόcken lδsst. Dies ist dann der Fall, wenn das Potential nur vom Ort abhδngt und nicht von dem Weg, auf dem ein Massenpunkt dorthin gebracht wird. Solche Kraftfelder, z.B. das Gravitationsfeld, nennt man konservativ (wie wir sehen werden, weil sie die mechanische Energie erhalten). Es muss also gelten:
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1834 by 776, depth 1
+pict001.wmf
+
+Mittels der allgemein geltenden Vektoridentitδten
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 6526 by 1023, depth 1
+pict002.wmf
+und
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2397 by 564, depth 1
+pict003.wmf
+
+folgt sofort auch formal mathematisch, dass die Kraft aus einem Potential abgeleitet werden kann, wenn das geschlossene Wegintegral όber der Kraft gleich Null ist:
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1834 by 670, depth 1
+pict004.wmf
+
+Fόr die Reibungskraft gilt dagegen:
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1834 by 776, depth 1
+pict005.wmf
+
+Es ist sofort einzusehen, dass die Reibungsarbeit nicht verschwindet, wenn man auf einem geschlossenen Kreis fδhrt. Hier wird mechanische Energie in Wδrme verwandelt, ist also keine Erhaltungsgrφίe (Dies ist keine Aussage όber die allgemeine Energieerhaltung). 
+
+Die Kraft lδsst sich aus einem Potential ableiten, wenn sie nur vom Ort abhδngt. Krδfte, die nur vom Ort abhδngen, heiίen konservative Krδfte. Krδfte, die von der Zeit bzw. der Geschwindigkeit abhδngen, sind keine Potentialkrδfte.
+
+Fόr konservative Krδfte gilt mit
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2397 by 741, depth 1
+pict006.wmf
+
+und 
+ ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 10583 by 2611, depth 1
+pict007.wmf
+
+auch
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4727 by 1164, depth 1
+pict008.wmf
+
+Auίerdem gilt
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3667 by 1094, depth 1
+pict009.wmf
+
+Durch Vergleich erhδlt man:
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3032 by 1094, depth 1
+pict010.wmf
+
+bzw.
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3175 by 1094, depth 1
+pict011.wmf
+
+Wenn die totale zeitliche Ableitung einer Grφίe Null ist, so ist sie eine Erhaltungsgrφίe. Die letzte Gleichung drόckt somit die Erhaltung der mechanischen Energie aus, sofern die wirkenden Krδfte konservativ sind:
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3457 by 670, depth 1
+pict012.wmf
+

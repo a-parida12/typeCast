@@ -1,0 +1,349 @@
+ADAC Fahrzeugtechnik
+20.01.1870 - IN 28759 – STAND 07-2016
+
+Erläuterungen zum kurventauglichen Motorrad-ABS
+
+Bild 1: Für gute Kurvenbremsungen müssen Vorder- und Hinterradbremse geschickt kombiniert werden
+(Bild: BOSCH).
+
+Einführung
+Kurvenbremsungen mit dem Motorrad sind mit oder ohne ABS eine knifflige Angelegenheit,
+eine Gradwanderung, selbst mit einem herkömmlichen ABS. Das MSC (Motorcycle Stability
+Control) von BOSCH greift ebenso wie das vergleichbare OCB (Optimized Curve Braking) von
+Continental mit seinen Sensoren und ABS-Komponenten erstmalig in diese Problematik ein und
+bietet eine Hilfestellung für hohe Verzögerungen bei Kurvenfahrt, ohne die Maschine unkontrolliert aufzurichten oder innerhalb der physikalischen Möglichkeiten die Reifenhaftgrenze zu
+überschreiten. Grundsätzlich können dabei die Grenzen der Physik nicht erweitert aber effektiver ausgenutzt werden. Laut ADAC Unfallforschung kommen ca. 20 % der Kurvenunfälle wegen unangepasster Geschwindigkeit zustande. Hier lassen kurventaugliche Bremssysteme unmittelbare Verbesserungen erwarten.
+Um die spezifischen Probleme bei der Motorradkurvenbremsung zu verstehen, muss die besondere Fahrphysik des Einspurfahrzeugs betrachtet werden.
+
+Allgemeiner Deutscher Automobil-Club e.V.
+Hansastraße 19
+80686 München
+www.adac.de
+
+ADAC-Info-Service 0800 5 10 11 12
+(Mo – Sa 08:00 – 20.00 Uhr)
+
+Seite 1 von 9
+
+Kurvenbremsungen sind häufig Panikbremsungen
+Nahezu jeder auch erfahrene Motorradfahrer wird die Fahrsituation kennen und sicherlich
+schon erlebt haben: Bei zügiger Kurvenfahrt mit entsprechender Schräglage taucht vollkommen
+unerwartet eine Störung auf, die eine schnelle Reaktion erforderlich macht, um einen Sturz oder
+eine Kollision zu vermeiden. Ob ein Hindernis im Wege steht, die Straße verschmutzt ist oder
+ein unerwarteter Kurvenverlauf zur Korrektur der Linie zwingen, in solchen meist als kritisch
+empfundenen Situationen greifen die meisten Motorradfahrer blitz- und reflexartig zu dem Vorderradbremshebel. Er ist für die meisten Fahrer die gängigste Maßnahme zur Risikominimierung. In Kombination mit dem Überraschungseffekt der Ereignisse wird der Bremshebel selten
+dosiert und überlegt, sondern eher panikartig heftig angerissen.
+Überraschende Fahrzeugreaktionen bei Kurvenbremsung
+Was dann als Reaktion der Maschine abläuft, überrascht und überfordert viele Motorradfahrer,
+vielfach selbst die, die sich über Jahre eine solide Abgeklärtheit antrainiert haben. Abhängig
+von der Intensität der Bremsbetätigung, der Wirksamkeit der Bremse, der Schräglage und dem
+Reibwert der Straße wird sich in den meisten Fällen die Maschine entweder heftig aufrichten
+oder der Vorderradreifen verliert die Haftung, was unmittelbar zum Sturz führen wird. In jedem
+Fall wird die ins Auge gefasste Fahrlinie nicht mehr zu halten sein, der Fahrstreifens oder die
+Straße wird tangential verlassen, möglicherweise kollidiert der Motorradfahrer mit dem Gegenverkehr, einer Leitplanke oder Bäumen. Die Unfallforschung ermittelt immer häufiger Kurvenunfälle, viele davon sind tödlich, weil der Motorradfahrer in den Bereich des Gegenverkehrs gelangt oder an Straßenrandbebauung anstößt. Sicherlich lässt sich durch gezieltes Training, vor
+allem auch mentales Training, die angemessene Fahrerreaktion aneignen. Trotzdem bleibt der
+Mensch immer als Unsicherheitsfaktor übrig.
+
+Die besondere Fahrphysik des Motorrades
+Das in Schräglage gebremste Motorrad richtet sich auf, weil ein Lenkimpuls den Lenker in die
+„falsche“ Richtung dreht. Um diese Zusammenhänge zu verstehen, muss klar sein, wie die
+Schräglage des Motorrades grundsätzlich erzeugt und gesteuert wird.
+
+
+In der Theorie verwirrend, in der Praxis fast selbstverständlich: Schräglagenwechsel
+werden mittels „Gegenlenkimpuls“ erzeugt.
+
+Um bei Geschwindigkeiten oberhalb von 30 bis 40 km/h aus der aufrechten Geradeausfahrt in
+die Schräglage für die Kurvenfahrt einzulenken, drehen wir - bewusst oder unbewusst - den
+Lenker entgegengesetzt zur gewünschten Kurven- und Schräglagenrichtung. Zum Einlenken
+z.B. in eine Rechtskurve drehen wir den Lenker also etwas nach links. Gleiches gilt entsprechend für das Einleiten einer Linkskurve. Dies tun wir überwiegend durch entsprechenden
+Druck am kurveninneren Lenkerende. Je bewusster wir dies tun, umso besser können wir die
+geplante Kurvenlinie steuern. Dieser sogenannte Lenkimpuls – wegen der Lenkbewegung entgegen der Kurvenrichtung auch Gegenlenkimpuls genannt – löst zwei relevante Effekte aus:
+1) Seitenkraftaufbau am Vorderreifen
+Die leichte Verdrehung des Vorderreifens aus der geradeaus weisenden Fahrtrichtung erzeugt
+in der Reifenaufstandsfläche – auch Reifenlatsch genannt – eine Seitenkraft, die diesen Reifenlatsch unter dem Fahrzeugschwerpunkt zur Kurvenaußenseite auswandern lässt. Diese Wirkung könnte man sich bildlich auch so vorstellen, als würde der Untergrund unter dem Vorderrad zur Kurvenaußenseite seitlich weggezogen werden. Dieses seitliche Auswandern stört die
+Balance des Einspurfahrzeuges. Es kippt zur Kurveninnenseite, da die Gewichtskraft vom Gesamtschwerpunkt ausgehend nicht mehr in der Mittelebene des Fahrzeugs wirkt, sondern zur
+Kurveninnenseite auswandert.
+
+Allgemeiner Deutscher Automobil-Club e.V.
+Hansastraße 19
+80686 München
+www.adac.de
+
+ADAC-Info-Service 0800 5 10 11 12
+(Mo – Sa 08:00 – 20.00 Uhr)
+
+Seite 2 von 9
+
+Zusätzlich erzeugt die durch den Gegenlenkimpuls kurz angedeutete Kurvenfahrt entgegen der
+anvisierten Kurvenrichtung eine Fliehkraft, die ebenfalls ein Kippmoment in Richtung der angestrebten Schräglage zur Kurveninnenseite erzeugt. Beide Momente addieren sich und verursachen die Bewegung in die gewünschte Richtung.
+Erst jetzt baut sich durch Einleitung der Kurvenfahrt in die gewünschte Kurvenrichtung am Gesamtschwerpunkt eine Fliehkraft auf, die ein Drehmoment zur Kurvenaußenseite erzeugt. Die
+Gewichtskraft bewirkt mit einem entsprechenden Hebelarm ein Drehmoment zur Kurveninnenseite. Bei stationärer Kurvenfahrt müssen diese beiden entgegengesetzt wirkende
+Drehmomente im Gleichgewicht sein (Bild 2).
+Durch Variation des Lenkerdruckes und Anlegen des Gases steuern wir dieses Gleichgewicht.
+
+Bild 2: Kräftegleichgewicht bei Kurvenfahrt. Bei Kurvenfahrt bilden die Fliehkraft (1) und die Seitenführungskraft am Reifen (3) ein aufrichtendes Drehmoment, die Gewichtskraft (2) und die Normalkraft am
+Reifen (4) ein Drehmoment, das die Maschine in die Schräglage kippt. Bei stationärer Kurvenfahrt sind
+die Drehmomente im Gleichgewicht. Jede Kraftschwankung führt zu Bewegungen und Schräglagenänderungen.
+
+Allgemeiner Deutscher Automobil-Club e.V.
+Hansastraße 19
+80686 München
+www.adac.de
+
+ADAC-Info-Service 0800 5 10 11 12
+(Mo – Sa 08:00 – 20.00 Uhr)
+
+Seite 3 von 9
+
+Beim Übergang von der Phase der Kurveneinleitung in die Phase der stationären Kurvenschräglage, wenn also die passende Schräglage erreicht ist, wird die geringe Auslenkung entgegen der Kurvenrichtung kontinuierlich zurückgenommen, sprich der Druck auf das Lenkende
+auf der Kurveninnenseite wird reduziert.
+Auch in konstanter Schräglage sind die beschriebenen Zusammenhänge wirksam. Die Schräglage kann gesteuert werden, indem der Vorderreifen in zusätzlichen Schräglauf gebracht wird.
+2) Kreiselpräzession des Vorderrades
+Der zweite Effekt, der zur Einleitung der Kurvenfahrt die Schräglage erzeugt, ergibt sich aus
+den Kreiseleigenschaften des Vorderrades (Bild 3).
+Vereinfacht ausgedrückt, weicht ein Kreisel
+
+
+wegen seiner Drehbewegung (Nr. 1 in Bild 3, entspricht der Rolldrehbewegung des Vorderrades)
+
+
+
+als Reaktion auf eine Störung (Nr. 2 in Bild 3 entspricht der vom Fahrer eingeleiteten
+Gegendrehimpulsbewegung der Lenkung)
+
+
+
+auf einer Drehachse (Nr. 3 in Bild 3 entspricht der Reaktion des Vorderrades) aus, die
+rechtwinkelig steht auf der Drehachse des Vorderrades und rechtwinkelig steht auf der
+Drehachse der Störung.
+Die kreiselstabilisierende Wirkung des drehenden Vorderrades
+wird erst oberhalb einer Geschwindigkeit von ca. 30 km/h wirksam, da erst dann die Raddrehzahl für den beschriebenen Effekt ausreicht.
+Die Geschwindigkeit, mit der das Motorrad in Schräglage
+schwenkt, ist weniger abhängig von der Weite der Drehbewegung am Lenker, als viel mehr von der Beschleunigung also
+der Kraft, mit der der Gegenlenkimpuls ausgeführt wird. Je
+schneller wir zum Einlenken der Rechtskurve den Lenker nach
+links drehen, umso schneller kommen wir in die Schräglage
+nach rechts. In stationärer Schräglage während der Kurvenfahrt können wir diese durch weitere Gegenlenkimpulse am
+Lenker leicht steuern.
+
+Bild 3: Verblüffendes Phänomen: Ein drehendes Rad (1) reagiert auf einen aufgezwungenen Einschlag
+um die Hochachse gegen den Uhrzeigersinn (2) mit einer Neigung nach rechts (3) und umgekehrt.
+
+Bremsungen in Schräglage erzeugen auch einen „Gegenlenkimpuls“, allerdings
+in die falsche Richtung
+Auch beim Bremsen in Schräglage verursacht ein Gegenlenkimpuls das meist schnelle Aufrichten der Maschine, nur eben in umgekehrter Richtung. Um dies zu verstehen, betrachten wir den
+Bereich der Reifenaufstandsfläche am Vorderrad (Bild 4). Abhängig von der Schräglage und
+der Reifenkontur wandert der Reifenaufstandspunkt zur Kurveninnenseite. Dadurch entsteht ein
+Versatz zwischen der Mittelebene des Motorrades, in der auch die Lenkachse liegt, und dem
+Angriffspunkt der Kräfte auf den Reifen. In diesem Falle sind dies vor allem die Bremskräfte.
+Dieser Versatz entspricht einem Hebelarm zwischen den nach vorne gerichteten Massekräften
+des Motorrades und den nach hinten gerichteten Bremskräften im Reifenaufstandspunkt. Dieses Kräftepaar erzeugt mit dem Hebelarm eine Drehbewegung des Lenkers in Richtung der
+Kurveninnenseite. Das bedeutet zum Beispiel: Bei einer Bremsung in Schräglage nach links
+
+Allgemeiner Deutscher Automobil-Club e.V.
+Hansastraße 19
+80686 München
+www.adac.de
+
+ADAC-Info-Service 0800 5 10 11 12
+(Mo – Sa 08:00 – 20.00 Uhr)
+
+Seite 4 von 9
+
+Bild 4: In Schräglage wandert der Reifenaufstandspunkt zur
+Kurveninnenseite. So entsteht beim Bremsen ein wirksamer
+Hebelarm auf die Lenkung.
+
+wird durch den nach links ausgewanderten
+Angriffspunkt der Bremskraft und die in
+Fahrzeugmitte angreifenden Massenkräfte
+der Lenker nach links eingedreht. Wie bei
+der Erzeugung der Schräglage erläutert,
+verursacht diese Lenkerdrehbewegung in
+die Kurvenrichtung ein Aufrichten der Maschine. Der Gegenlenkimpuls durch die
+Bremsung des Vorderrades wirkt also genau entgegengesetzt zu dem Lenkimpuls
+zur Erzeugung der Schräglage beim Einlenken in eine Kurve. Da in Schrecksituationen
+die Vorderradbremse meist schlagartig, also
+mit hohem Druckgradienten, betätigt wird,
+erfolgt auch das Aufrichten der Maschine
+sehr vehement. Natürlich kann der Fahrer
+am Lenkerende auf der Kurveninnenseite
+gegenhalten, allerdings nur, wenn er auf die
+Abläufe eingestellt ist. Darüber hinaus entstehen dabei je nach Schräglage recht hohe
+Kräfte und Kraftschwankungen, die sich bei
+Modulation der Bremse schwer kontrollieren
+lassen. Ohne ausreichendes Training werden sich in der Praxis die meisten Fahrer in
+dieser Situation verkrampfen. Auch dadurch
+wird die Kontrolle in dieser kritischen Fahrsituation erschwert.
+
+Die Rolle der Hinterradbremse
+Bei schwachen Verzögerungen in mäßiger Schräglage, kann der Einsatz der Hinterradbremse
+für Kurskorrekturen hilfreich und ausreichend sein. Im Vergleich zum Einsatz der Vorderradbremse kann mittels Hinterradbremse die Schräglage sehr gut gesteuert werden. Auch am Hinterreifen wandert der Aufstandspunkt in Schräglage aus der Fahrzeugmittelachse zur Kurveninnenseite aus. Dadurch entsteht bei Bremsungen ein Drehmoment, das die Maschine in die Kurve hineindreht. Gleichzeitig reduziert sich hierdurch die Kurvengeschwindigkeit, so dass bei
+gleicher Schräglage der Kurvenradius verringert werden kann. Natürlich ist die Hinterradbremse
+für dieses Manöver feinfühlig einzusetzen. Bei stärkeren Verzögerungen mittels Hinterradbremse besteht die Gefahr, den Kraftschluss am Hinterreifen zu überfordern, das Heck beginnt dann
+zu driften und bricht im Extremfall aus.
+
+Allgemeiner Deutscher Automobil-Club e.V.
+Hansastraße 19
+80686 München
+www.adac.de
+
+ADAC-Info-Service 0800 5 10 11 12
+(Mo – Sa 08:00 – 20.00 Uhr)
+
+Seite 5 von 9
+
+So arbeitet ein kurventaugliches ABS bei Motorrädern (vereinfachte Darstellung)
+Wie dargestellt bestehen bei Schräglagenbremsungen mit einem Motorrad
+zwei Gefahren. Zum einen kann sich
+das Motorrad bei heftig ausgeführten
+Schreckbremsungen schlagartig aufrichten, zum anderen kann besonders
+das Vorderrad wegen der angreifenden Seitenführungskräften und der
+Bremskräfte blockieren und seitlich
+wegrutschen. Das Blockieren kann in
+dieser Situation von herkömmlichen
+ABS nur bedingt (bei geringen Schräglagen) abgefangen werden.
+Die speziellen für die Anwendung am
+Motorrad entwickelten Beschleunigungs- und Drehratensensoren ermögliche es den neuen kurventauglichen ABS, die Lage des Motorrades
+ausreichend genau zu erfassen. Wird
+Bild 5 (Quelle: MOTORRAD): Die Kräfteverhältnisse
+eine Vollbremsung in Schräglage einam Reifen werden mittels des Kamm´sche Kreis dargegeleitet, wird der Bremsdruckanstieg
+stellt. Längskräfte durch Bremsen oder Beschleunigung
+entsprechend der Schräglage beund Seitenkräfte durch Kurvenfahrt werden vektoriell
+grenzt. Gleichzeitig wird die Hinterradaddiert. Die Kreislinie steht für die Grenze der übertragbremse aktiviert. Wie auch bei Gerabaren Kräfte.
+deausbremsungen wird das Schlupfverhalten beider Räder überwacht. Die Stabilität der Reifenhaftung in Schräglage erfordert allerdings ein deutlich kleineres Schlupffenster und auch kleiner Schlupfwerte. Das bedeutet auch
+schnellere Reaktionen der ABS bei anfänglich niedrigeren Drücken. Durch wohl dosierter Aktivierung beider Bremsen kann somit das Aufrichten der Maschine auf das erforderliche Minimum
+reduziert werden. Solange die Reifen in einen definierten Schlupfbereich gehalten werden können, werden auch Bremskräfte übertragen, das Motorrad wird also wenn auch vergleichsweise
+wenig verzögert. Bei gleichbleibendem Kurvenradius nimmt damit auch die Schräglage ab. Wie
+der Kamm´sche Kreis verdeutlicht, können mit abnehmenden Seitenkräften (in Folge abnehmender Schräglage) zunehmend höhere Längskräfte übertragen werden. Bei einer Vollbremsung kann somit der Bremsdruck mit abnehmender Schräglage sukzessive gesteigert werden.
+Theoretisch würde das kurventaugliche ABS idealerweise den Bremsdruck entlang der Kreislinie des Kamm´schen Kreises führen.
+
+Tipps für den Motorradfahrer
+Assistenzsysteme sollen dem Namen entsprechend den Fahrern/Fahrerinnen assistieren, sie
+also unterstützen und besonders in sicherheitsrelevanten Fahrsituationen vor möglichen Fehlbedienungen warnen oder besser noch direkt so eingreifen, dass die Fehlbedienung die Stabilität der Maschine möglichst nicht gefährdet und trotzdem der Fahrerwunsch umgesetzt wird.
+Assistenzsysteme können die physikalischen Grenzen nicht erweitern, sie können allerdings innerhalb der Grenzen das Beste herausholen.
+
+Allgemeiner Deutscher Automobil-Club e.V.
+Hansastraße 19
+80686 München
+www.adac.de
+
+ADAC-Info-Service 0800 5 10 11 12
+(Mo – Sa 08:00 – 20.00 Uhr)
+
+Seite 6 von 9
+
+Tipps zum kurventauglichen ABS
+ Machen Sie sich mit den Assistenzsystemen bestmöglich vertraut. Lesen Sie in der Bedienungsanleitung die Sicherheitshinweise und die Punkte zur Einstellung der verschiedenen Modi von ABS, Traktionskontrolle sowie ggf. Wheely-Controll. Werden Sie sich
+klar darüber, wo die Assistenzsysteme unterstützen, wo nicht.
+ Führen Sie auf öffentlichen Straßen keine Fahrversuche zum Austesten der Assistenzsysteme durch. Je nach Auslegung der unterschiedlichen Maschinen und Modi können
+die Ansprechgrenzen relativ weit von dem eigenen Fahrkönnen entfernt sein. Wenn
+überhaupt sollten Testfahrten immer auf abgesperrten Geländen erfolgen, wenn das Risiko abschätzbar ist.
+ Absolvieren Sie ein Sicherheitstraining und teilen Sie dem Trainer mit, welches Assistenzsystem Sie einsetzen.
+ Grundsätzlich sollten Motorräder mit Assistenzsystemen so genutzt werden wie Maschinen ohne diese Unterstützungssysteme. Allenfalls das Bremsen mit ABS sollte gesondert trainiert werden, um im Ernstfall möglichst professionell verzögern zu können.
+Tipps zu Notsituationen in Kurven (ohne kurventauglichem ABS)
+ Überraschungseffekt: Besonders Anfänger werden in Notsituationen bei starken, meist
+reflexartigen Vorderradbremsungen in Schräglage von der Maschinenreaktion häufig so
+überrascht, dass sie in eine Art Schockstarre verfallen und die Fahrlinie nicht oder nur
+mühsam kontrollieren können. Deswegen sollte im Rahmen spezieller Kurventrainings
+die Fahrzeugreaktionen erlebt und die passenden Gegenmaßnahmen eingeübt werden.
+Die Ausprägung der Aufstellneigung beim Bremsen in Schräglage ist von vielen verschiedenen Faktoren wie z.B. Reifenkontur, Bremsauslegung und -intensität aber auch
+vom Fahrstil abhängig. Moderne Fahrzeuge besonders mit Integralsystemen zeigen
+meist geringere Aufstellneigung.
+ Kurskorrektur ohne Bremsen: Wenn die Kurvenlinie enger wird als erwartet und keine
+Vollbremsung erforderlich scheint, gilt es in erster Linie zu versuchen, die Schräglage zu
+erhöhen. In den meisten Fällen reichen die Schräglagenreserven für eine Kurskorrektur
+aus. Feinfühlige Kurskorrekturen lassen sich mit dezentem Einsatz der Hinterradbremsen unterstützen. Vielleicht kann durch gezieltes Training auch die „persönliche Schräglagengrenzen“ im Kopf erweitert werden.
+ Beide Bremsen einsetzen: Reichen die Schräglagenreserven nicht aus oder muss vor
+einem Hindernis gestoppt werden, von Anfang an beide Bremsen sanft aber entschlossen bedienen. Dadurch kann die Aufstellneigung, die von dem Vorderrad ausgeht, vom
+Hinterrad teilweise kompensiert werden. Mit dem kontrollierten Aufrichten der Maschine
+kann der Bremsdruck erhöht werden, da die Reifen jetzt höhere Längskräfte übertragen
+können. Bremsen mit herkömmlichen ABS können mit abnehmender Schräglage aggressiver bedient werden als Bremsen ohne Blockierverhinderer.
+ Bei starker Bremsung vor der Kurve wird das Einlenken sehr schwer: Bei Geradeausvollbremsung vor einer Kurve lässt sich das Motorrad nur noch mit hohen Kräften
+einlenken. Das Bremsmoment scheint die Lenkung zu blockieren. Für Kurskorrekturen
+muss die Bremsleistung zuerst reduziert werden. Ob dabei die Bremse vollständig geöffnet oder der Bremsdruck nur reduziert wird, ist situationsabhängig zu entscheiden.
+Auch hier hilft mentale Befassung mit den Möglichkeiten. Bei Ausweichmanövern möglichst nicht bremsen.
+
+Allgemeiner Deutscher Automobil-Club e.V.
+Hansastraße 19
+80686 München
+www.adac.de
+
+ADAC-Info-Service 0800 5 10 11 12
+(Mo – Sa 08:00 – 20.00 Uhr)
+
+Seite 7 von 9
+
+Grundsätzliche Tipps zum Motorradbremsen
+Selbst wenn die verschiedenen Motorräder unterschiedliche Bremsdynamiken zeigen, haben
+sich bestimmte Bremsstrategien bewährt. Sie sind zwar kein Garant für eine dynamisch harmlose Bremsung, erhöhen aber deren Wahrscheinlichkeit. Die Strategien sind mit Abstrichen sinngemäß natürlich auch anwendbar für Bremsungen mit Maschinen ohne ABS.
+ Machen Sie sich mit Ihrem Motorrad und seiner Bremsdynamik vertraut. Trainieren Sie
+das Bremsen regelmäßig (Sicherheitstraining), damit im Notfall die Bremsung möglichst
+routiniert abläuft.
+ Instabile Fahrzustände können bei Motorradvollbremsungen auf hohem Niveau (Verzögerungen über ca. 9 m/s2) immer entstehen. Sie führen nicht unweigerlich in die Katastrophe. Die Reaktionen des Fahrers spielen eine entscheidende Rolle. Wichtig ist es,
+die Reaktion des Fahrzeughecks während der Bremsung möglichst schnell zu erkennen.
+ Die Bremsarmaturen müssen ergonomisch korrekt eingestellt sein (Hebelposition und
+Griffweite).
+ Nehmen Sie eine leicht gespannte, kompakte Sitzhaltung mit gutem Knieschluss ein.
+Dadurch werden Fahrzeugreaktionen schneller erkannt, es kann schneller mit Gewichtsverlagerungen auf Fahrzeugbewegungen reagiert werden.
+ Die Bremshebel sollen auch bei Schreck- oder Panikbremsungen nicht schlagartig sondern möglichst gleichmäßig und zügig betätigt werden, so dass nach ca. 0,7 Sekunden
+der ABS-Regeldruck erreicht wird. (Bei Bremsungen ohne ABS kann eine schlagartige
+Bremshebelbetätigung das Vorderrad sofort blockieren lassen.)
+ Für eine gleichmäßig starke Bremsung sollte der Druck bis zum Ende der Bremsung
+möglichst konstant gehalten werden. Dazu muss ggf. der Bremshebel nachgeführt werden.
+ Eine Druckerhöhung weit über den ABS-Regeldruck kann die ABS-Reaktionen bzw. die
+daraus resultierenden Fahrzeugreaktionen verschärfen (dies gilt besonders für Systeme,
+die keinen Drucksensor haben). Außerdem ist eine ggf. erforderliche Druckmodulation
+bei hoher Handkraft schwieriger.
+ Die Hinterradbremse ist immer mit zu verwenden, da bei nicht integrierten (nicht kombinierten) Bremsen die Hinterraddrehzahl für die Erkennung eines abhebenden Hinterrades genutzt wird. Dies gilt besonders bei Doppelbesetzung und Gepäckbeladung des
+Hecks.
+ Bei abhebendem oder seitlich ausbrechendem Hinterrad ist der Bremsdruck vorne möglichst schnell, möglichst gering zu reduzieren. Je später der Vorderradbremsdruck reduziert wird, umso stärker fallen im Allgemeinen die Fahrzeugreaktionen aus, besonders
+bei einem drohenden Überschlag.
+ Mit der Bremsbetätigung wird die Kupplung vollständig gezogen.
+ Ein Ausweichen nach dem Einleiten einer ABS-Bremsung auf trockenen, griffigen Straßen ist bis zu Schräglagen von ca. 15° durchaus möglich. Je nach Reifen- und Lenkerbreite sind hierfür relativ hohe Lenkerkräfte erforderlich, die mit der ABSDruckmodulation schwanken können. Für routinierte Ausführung ist Training erforderlich.
+
+Allgemeiner Deutscher Automobil-Club e.V.
+Hansastraße 19
+80686 München
+www.adac.de
+
+ADAC-Info-Service 0800 5 10 11 12
+(Mo – Sa 08:00 – 20.00 Uhr)
+
+Seite 8 von 9
+
+Tipps zum Bremsen in Kurven (ohne MSC):
+Aus den beschriebenen Zusammenhängen ergeben sich Tricks, mit denen das Bremsen in
+Kurven beherrschbar wird.
+ Überraschungseffekt: Besonders Anfänger werden von dem Aufrichten der Maschine
+bei starken Vorderradbremsungen in der Kurve häufig so überrascht, dass sie in eine Art
+Schockstarre verfallen und die Fahrlinie nicht oder nur mühsam kontrollieren können.
+Deswegen sollte im Rahmen spezieller Kurventrainings die beschriebenen Effekte erlebt
+und die passenden Gegenmaßnahmen eingeübt werden. Die Ausprägung z.B. der Aufstellneigung beim Bremsen in Schräglage ist von vielen verschiedenen Faktoren wie
+z.B. Reifenkontur, Bremsauslegung und -intensität abhängig. Deswegen ist es sinnvoll
+mit jeder unterschiedlichen Maschine zu üben.
+ Kurskorrektur ohne Bremsen: Wenn die Kurvenlinie enger wird als erwartet und keine
+Vollbremsung erforderlich scheint, gilt es in erster Linie zu versuchen, die Schräglage zu
+erhöhen. In den meisten Fällen reichen die Schräglagenreserven für eine Kurskorrektur
+aus. Feinfühlige Kurskorrekturen sind nur ohne bzw. sehr schwacher Vorderradbremsbetätigung möglich.
+ Bei Vollbremsung Steuerung sehr schwer: Bei Geradeaus-Vollbremsung lässt sich
+das Motorrad nur noch mit hohen Kräften steuern. Das Bremsmoment scheint die Lenkung zu blockieren. Für Kurskorrekturen muss die Bremsleistung zuerst reduziert werden. Ob dabei die Bremse vollständig geöffnet oder der Bremsdruck nur reduziert wird,
+ist situationsabhängig zu entscheiden. Auch hier hilft mentale Befassung mit den Möglichkeiten.
+ Beiden Bremsen einsetzen: Reichen die Schräglagenreserven nicht aus oder muss vor
+einem Hindernis gestoppt werden, von Anfang an beide Bremsen bedienen. Dadurch
+kann die Aufstellneigung, die von dem Vorderrad ausgeht, vom Hinterrad teilweise kompensiert werden. Mit dem kontrollierten Aufrichten der Maschine kann der Bremsdruck
+erhöht werden, da die Reifen höhere Längskräfte übertragen können. Bremsen mit ABS
+können in dieser Situation aggressiver bedient werden als Bremsen ohne Blockierverhinderung.
+
+Allgemeiner Deutscher Automobil-Club e.V.
+Hansastraße 19
+80686 München
+www.adac.de
+
+ADAC-Info-Service 0800 5 10 11 12
+(Mo – Sa 08:00 – 20.00 Uhr)
+
+Seite 9 von 9
+
+

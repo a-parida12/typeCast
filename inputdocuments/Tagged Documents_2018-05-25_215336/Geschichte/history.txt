@@ -1,0 +1,931 @@
+Entwicklungsgeschichte des Computers
+• Vorbemerkungen
+• Vorläufer und Wegbereiter
+• Die theoretische Grundlage: Turing, und Shannon
+• Die Erfindung des Computers durch Konrad Zuse
+• Die Erfindung des elektronischen Computers
+• Moore's Law und sein abzusehendes Ende
+• Und wie es weitergehen kann ...
+
+Informatikgeschichte, E. Ehses 2014
+
+1
+
+So ähnlich sah unser
+Rechnerraum aus
+klimatisiert, laut,
+8 MB Hauptspeicher
+„dual core“
+Zusätzlich gab es einen
+Terminalraum.
+(Mehrbenutzersystem)
+Aber: Für aufwändige
+Berechnungen musste
+Rechenzeit beantragt
+werden.
+Stand: 1975
+
+Informatikgeschichte, E. Ehses 2014
+
+2
+
+Basistechnologien
+Mechanik
+Zahnräder, Stangen, Bleche
+
+- sehr langsam, sehr unzuverlässig
+
+Elektromechanik
+Relais
+
+- langsam, unzuverlässig
+- sehr platzaufwändig
+
+Elektronik
+Vakuumröhre
+
+- schnell, unzuverlässig
+
+Transistor, Integrierter Schaltkreis
+Besonderheit:
+ICs sind hochgradig skalierbar
+je kleiner die Struktur desto schneller
+(there's plenty of room at the bottom)
+
+- sehr platzaufwändig und teuer
+
++ sehr schnell
++ sehr kompakt
++ sehr zuverlässig
++ sehr geringer Leistungsverbrauch
+
+Zukünftig
+Polymere, DNA, Quantencomputer, …
+
+Informatikgeschichte, E. Ehses 2014
+
+3
+
+Ein antiker Analogrechner
+Vor der Küste von Antikythera wurde 1900
+in 49 m Tiefe ein ca. 70 BC gesunkenes
+Schiffswrack entdeckt. Darin fanden sich die
+Überreste eines komplexen astronomischen
+Zeigerinstruments.
+Es ist zwar das einzige ähnliche Fundstück
+aus der Antike, ist aber sicher kein
+Einzelfall. (Nachbau durch Al-Biruni?)
+
+Informatikgeschichte, E. Ehses 2014
+
+4
+
+„Dark Ages“ in Westeuropa
+Das Astrolabium war der Prototyp des
+astronischen Taschenrechners.
+Die erste Beschreibung ist von Theon von
+Alexandria (kurz bevor die Christen der
+dortigen Wissenschaft ein Ende machten).
+Es wurde später weiterentwickelt zu
+nautischen und astronomischen Geräten.
+
+Und die Entdeckung Amerikas ...
+
+Entwickelt im griechischen Alexandria
+→ Byzantinisches Reich
+→ China
+→ Kalifat (Iran-Andalusien)
+→ Westeuropa
+Informatikgeschichte, E. Ehses 2014
+
+5
+
+Die wissenschaftliche Revolution (17. Jdh)
+- Zeitalter von Galilei, Harvey, Kepler, Newton, Huygens, Descartes, Pascal, ...
+- Galilei verdient Geld mit seinem „Proportionalzirkel“
+- Schickard und Pascal erfinden die mechanische Rechenmaschine
+- Für Descartes sind viele neuronale Prozesse mechanischer Art
+
+Blaise Pascal
+Informatikgeschichte, E. Ehses 2014
+
+6
+
+Digital und Analogrechner ab dem 17. Jdh
+
+Blaise Pascal baute als 18 jähriger für seinen Vater
+die erste funktionierende mechanische
+Rechenmaschine. (Digitalrechner)
+(brauchbare Rechenmaschinen gibt es seit Mitte des
+19. Jhd)
+Nach der Erfindung der Logarithmenrechnung durch
+Napier waren logarithmische Rechenschieber für
+mehrere Jahrhunderte im Gebrauch. (Analogrechner:
+Addition durch Addieren von Strecken)
+
+Informatikgeschichte, E. Ehses 2014
+
+7
+
+The Day after Tomorrow: Into infinity (1975) ...
+
+Informatikgeschichte, E. Ehses 2014
+
+8
+
+Das Zeitalter des Absolutismus (18. Jhd)
+Technisierung ermöglicht teure Spielereien: „Automaten“.
+Fürstenhöfe haben das Geld für diesen Luxus.
+Zum erstenmal werden Geräte mit einem komplexen
+Ablaufprogramm gebaut: Puppen, automatische Orgel, ...
+Vaucanson (1709-1782) erfindet Lochkarten zur
+Programmsteuerung. („Der Flötenspieler“, „Der
+Tambourinspieler“, „Die Ente“).
+Die Ente konnte essen, trinken und verdauen.
+1741 wird Vaucanson Inspektor der Seidenproduktion. Er führt
+mehre Verbesserungen ein. Darunter die Steuerung durch
+Lochkarten.
+Er baut für seine Sammlung ein Museum (ab 1794:
+„Conservatoire des Arts et Métiers“.
+Dort entdeckt Jacquard seinen Webstuhl.
+
+Informatikgeschichte, E. Ehses 2014
+
+9
+
+Der Traum von der maschinellen Intelligenz
+
+Informatikgeschichte, E. Ehses 2014
+
+10
+
+Die industrielle Revolution (19. Jhd)
+Französische Revolution: Demokratie, Säkularisierung, „Zivilgesellschaft“
+Einführung der effizienten Dampfmaschine (James Watt, 1775)
+Schnelle Veränderungen in weniger als 100 Jahren
+Menschliche Arbeit wird “mechanisiert”
+
+Informatikgeschichte, E. Ehses 2014
+
+11
+
+Joseph-Marie Jacquard (1752-1834)
+Entdeckt den Webstuhl von Vaucanson und
+entwickelt Ideen zur Verbesserung (1790).
+Doch zunächst „Mitarbeit“ in der Französischen
+Revolution.
+1801 erste Demonstration seine Webstuhls.
+1806 der Webstuhl wird zum öffentlichen Eigentum
+erklärt. Jacquard erhält eine lebenslange Rente
+und Gebühren für jede neue Maschine.
+Der Webestuhl löst heftige soziale Konflikte aus.
+1812 waren bereits 11000 Jacquard-Webstühle in
+Frankreich aufgestellt.
+Ab 1820 werden Webstühle in England und dann
+weltweit genutzt.
+Aufschwung der Textilindustrie. Motor der
+industriellen Revolution.
+
+Informatikgeschichte, E. Ehses 2014
+
+12
+
+Der mechanische Webstuhl
+Für Charles Babbage und Lady Ada
+war der Webstuhl der Prototyp des
+programmierten Geräts.
+We may say most aptly, that the
+Analytical Engine weaves algebraical
+patterns just as the Jacquard-loom
+weaves flowers and leaves. (Lady Ada
+Lovelace)
+
+Informatikgeschichte, E. Ehses 2014
+
+13
+
+Charles Babbage (1791-1871)
+Babbage ist beteiligt an der Gründung mathematischer
+und astronomischer Gesellschaften in England.
+1828-1839 ist er Mathematik-Professor in Cambridge.
+Ab 1812 entwickelt er die Idee mathematische Tabellen
+automatisch herzustellen.
+1823 erhält er Regierungsgelder zur Entwicklung der
+„Difference Engine“.
+Die Difference Engine beeinflusste spätere
+Informatikpioniere.
+Ab 1833 entwickelt er das Konzept der „Analytical
+Engine“.
+Dieser Entwurf wurde vergessen, bis seine Notizbücher
+1937 wiederentdeckt wurden.
+
+Informatikgeschichte, E. Ehses 2014
+
+14
+
+Charles Babbage: Difference Engine
+Idee: die n-te Ableitung eines Polynoms n-ter Ordnung ist konstant -> man kann aus den konstanten
+„Differenzen“ durch bloße Addition alle Funktionswerte ermitteln
+z.B. y = x3 + 2x2 + 5x - 5
+X
+-1
+Y
+-9
+dY1
+dY2
+dY3
+
+0
+-5
+
+1
+3
+
+2
+21
+
+3
+55
+
+4
+5
+111 195
+4
+8 18
+34
+56
+84
+4 10 16
+22
+28
+6 6
+6
+6
+
+Y[i]
+dY1[i]
+dY2[i]
+
+= Y[i-1]
++ dY1[i-1]
+= dY1[i-1] + dY2[i-1]
+= dY2[i-1] + dY3
+
+Für den Algorithmus muss man nur die Anfangswerte der einzelnen Differenzen festlegen.
+Da sich praktisch alle mathematischen Funktionen genähert durch Polynome darstellen lassen, ergibt
+sich ein riesiges Anwendungsfeld.
+
+Informatikgeschichte, E. Ehses 2014
+
+15
+
+Realisierung der Difference-Engine (1822)
+Mechanisches Räderwerk
+Geeignet für Polynome 15. Ordnung
+Geplanter Antrieb durch Dampfmaschine
+Technische Durchführung war relativ komplex
+Wurde im 19. Jhd erfolgreich eingesetzt
+
+Der Vorläufer von J. Müller
+Die Difference Engine erlaubte die Lösung eines
+einzigen Problems. Sie war nicht programmierbar
+-> also kein Computer!
+1822-23 Förderungsantrag
+1823-33 Fertigung (Clement)
+1832 Prototyp
+Ab 1860 bis 1930 erfolgreicher Einsatz von D.E.s
+zur Berechnung von Tabellen.
+(Scheutz, Wiberg, Grant, Comrie)
+
+Informatikgeschichte, E. Ehses 2014
+
+16
+
+Analytical Engine
+Die grundlegend neuen Ideen bestehen:
+1.
+2.
+3.
+
+In der Programmierbarkeit einer Maschine durch
+Verwendung von Jacquard‘schen Lochkarten.
+In der Weiterverwendung von Zwischenergebnissen.
+(„the engine eating its own tail“)
+Der Aufteilung des Gerätes in Speicher(Store) und
+Rechenwerk (Mill). Zahnstangen dienten der
+Übertragung von Zahlenwerten zwischen Store und Mill
+(Rechnerbus).
+
+Bis 1948 (Speicherprogrammierbarkeit, John von
+Neumann) gibt es keine grundlegende
+Weiterentwicklung dieses Konzepts! Die ersten
+„modernen“ Rechner hatten eine einfachere
+Architektur.
+Die Analytical Engine war ein Papiercomputer. Nur einzelne
+Komponenten (Teile des Rechenwerks) wurden wirklich
+gebaut.
+
+Informatikgeschichte, E. Ehses 2014
+
+17
+
+Datenblatt der Analytical Engine
+
+Speicher für rund 100 Variable zu je 30-40 Stellen.
+Vorrichtung zur Wiederholung von Operationen
+(„mechanical means have been provided for backing up or
+advancing the operation cards to any extend“)
+Stanzer für Zahlenkarten (Massenspeicher).
+Drucker.
+Zeichengerät.
+Setzmaschine (offline).
+Addition und Subtraction vermutlich ca. 2 sec.
+Multiplikation ca 1 min.
+
+Informatikgeschichte, E. Ehses 2014
+
+18
+
+Lady Ada Augusta Countess of Lovelace geb. Byron (1815-1852)
+Interessiert sich ab 1833 für die Idee der Analytical
+Engine
+Übersetzt 1843 einen Aufsatz „Notions sur la machine
+analytique de Charles Babbage” des italienischen
+Offiziers Menebra. Ihre Anmerkungen sind fast 3x so lang
+wie das Original.
+Sie grenzt darin die Analytical Engine als universellen,
+programmierbaren Rechner von der spezialisierten
+Difference Engine ab.
+Sie beschreibt die Entwicklung eines Programms zur
+Berechnung von Bernoulli-Zahlen. Ihr Programm enthält
+Wiederholungsschleifen. Es legt die Einführung von
+bedingten Anweisungen nahe.
+Von Lady Ada stammt das erste überlieferte komplexere
+Computerprogramm der Geschichte!
+
+Informatikgeschichte, E. Ehses 2014
+
+19
+
+Herman Hollerith (1860-1929)
+Hollerith arbeitet zunächst als Assistent bei der US Volkzählung
+von 1880 mit. Anschließend beschäftigt er sich mit der
+Automatisierung des Verfahrens.
+Bis zur nächsten Volkszählung 1890 hat er eine auf Lochkarten
+basierende Auswertungsmaschine erfunden. (50000 Menschen
+waren mit der Datenerfassung auf Lochkarten beschäftigt)
+1886 Gründung der Hollerith Tabulating Machine Company (später
+IBM).
+Die von Hollerith eingeführte Lochkarte hat ihre Form bis heute
+behalten (Format der damaligen Dollarnote).
+
+Informatikgeschichte, E. Ehses 2014
+
+20
+
+Alan Turing (1912-1954)
+
+In seinem Aufsatz "On Computable Numbers, with an
+Application to the Entscheidungsproblem" (1936) führt Alan
+Turing Model der LCM (Logical Computing Machine), heute
+“Turing Maschine” genannt, ein. Er zeigt, dass
+Berechenbarkeit auf der Turing Maschine äquivalent ist, zu
+dem formalen Lambda-Kalkül, den sein Lehrer Alsonso
+Church untersucht hatte.
+Die Church-Turing-These sagt aus, dass nicht alle, sondern
+nur bestimmte Funktionen effektiv (in endlich vielen
+Schritten) berechnet werden können.
+Turing zeigt, dass es eine universelle Turing Maschine gibt,
+die (“softwaremäßig”) jede beliebige spezielle TuringMaschine simulieren kann (= Modell für
+speicherprogrammierbaren Computer).
+
+Basierend auf der Church-Turing These hat man postuliert: „Ein
+Computer ist eine Maschine, die (bei genügend großem Speicher)
+genau so mächtig ist, wie die universelle Turing-Maschine.“
+
+Informatikgeschichte, E. Ehses 2014
+
+21
+
+Der erste programmierbare elektronische Computer
+Nachrichten auf der allerhöchsten Ebene
+wurden durch eine besonders komplexe
+Maschine verschlüsselt (LorentzSchlüsselmaschine).
+Turing und der Mathematiker Flowers leiten ab
+1942 die Entwicklung des elektronischen
+Spezialrechners „Colossus“. Die
+Entschlüsselungsmethodik von Colossus wurde
+programmiert. Nach dem Krieg wurden auf
+Anweisung Churchills alle Unterlagen und 8 der
+10 äußerst erfolgreichen Geräte vernichtet.
+Wegen der Geheimhaltung war Colossus lange
+nicht bekannt. Heute weiß man, dass es das
+erste größere elektronische Gerät ist, dass
+einem programmierbaren Computer nahe
+kommt.
+Nach dem Krieg war Turing an der Entwicklung
+der ersten Computer beteiligt – bis die
+intolerante Umgebung der 50er ihn (als
+Homosexuellen) in den Tod trieb.
+
+Informatikgeschichte, E. Ehses 2014
+
+22
+
+Vannevar Bush (1890-1974)
+1922 Mitbegründer von Raytheon
+1931 Differential Analyzer (mechanischer
+Analogrechner für Energieversorgung)
+Mächtigstes Recheninstrument vor der Erfindung
+des digitalen Computers.
+Lehrer von Claude Shannon
+Bis 1945 führender Organisator der militärischen
+Forschung.
+1945 „As we may think“ Vision von Hypertext als
+umfassende Wissensbasis (world wide web)
+Obwohl eigentlich der Organisator des „Militärisch
+industriellen Komplex“ setzt sich Bush später für
+freie friedliche Forschung ein.
+Bush hat als Erster den Computer als ein System
+der Informationsverarbeitung gesehen.
+
+Informatikgeschichte, E. Ehses 2014
+
+23
+
+Claude Shannon (1916-2001)
+Begründet 1948 das Gebiet der
+Informationstheorie:
+„A Mathematical Theory of Communication“
+Damit wurde erstmals der Informationsbegriff
+formal definiert. Gleichzeitig wurde die Grundlage
+für die Probleme der Datenspeicherung und der
+Kommunikation gelegt ,
+Shannon arbeitete bei Bell Labs (gegründet von G.
+Bell als „Volta Lab“, später: AT&T, heute: Alcatel)
+Bell Labs ist ein herausragendes Beispiel, welche
+Rolle privat finanzierte Grundlagenforschung
+spielen kann. (Transistor!!, Unix, C und anderes
+13 Nobelpreisträger)
+Das wird heute aus kurzfristigen ökonomischen
+Gründen kaum noch gemacht – mit sehr negativen
+Folgen für den langfristigen Erfolg eines
+Unternehmens!
+
+Informatikgeschichte, E. Ehses 2014
+
+24
+
+Konrad Zuse (1910-1995)
+Vollkommen auf sich allein gestellt, entwickelt der
+Bauingenieur Zuse ab 1936 den ersten Computer.
+1937 entsteht der mechanische Computer Z1
+Zuse erhält bescheidene Fördermittel
+1941 ist der erste funktionsfähige Computer der Welt,
+der Z3, fertig.
+Zuse‘s Computer und Unterlagen werden bei einem
+Bombenangriff vollständig zerstört.
+Nach dem Krieg schmuggelt Zuse den fast fertigen Z4
+aus Berlin nach Bayern. Auf Wunsch des Kunden, ETH
+Zürich, wurden nachträglich Verbesserungen eingebaut.
+Zuse gründet später eine eigene Firma.
+Neben dem Computer erwirbt Zuse eine Reihe anderer
+Patente (u.a. für Windräder).
+In seiner Freizeit betätigt sich Zuse als Maler.
+
+Informatikgeschichte, E. Ehses 2014
+
+Zuse schwankte zunächst
+zwischen Kunst und
+Ingenieurwissenschaften. Er
+studierte Maschinenbau,
+Architektur und schließlich
+Bauingenieur, zog dann aber
+wieder bei den Eltern ein und
+„bastelte“ den Computer.
+
+25
+
+Z1, ein letzter Versuch mit Mechanik
+Ohne von Boole und Babbage zu wissen,
+entwickelt Zuse den mechanischen
+Computer Z1.
+Der Z1 arbeitet binär und enthält ein
+Gleitkommarechenwerk. Anstelle von
+Zahlrädern verwendet Zuse bewegliche
+Bleche.
+Die Programmsteuerung erfolgt über
+gelochte Filmstreifen.
+
+Original der Z1 in der Wohnung der Eltern
+
+Der Z1 ist nicht speicherprogrammierbar
+und kennt keine Programmverzweigung.
+Das Rechenwerk von Z1 arbeitete nie
+zuverlässig.
+
+Nachbau der Z1
+Informatikgeschichte, E. Ehses 2014
+
+26
+
+Z3, der erste funktionierende Computer der Welt
+
+Konrad Zuse vor dem Nachbau des Z3.
+Der Z3 verwirklicht das Prinzip des Z1 auf elektromechanischer Basis. Er enthält 2400 Relais, davon
+600 im Gleitkommarechenwerk und 1800 im Speicher. 64 Gleitkommazahlen werden in 22 bit = 1 bit
+Vorzeichen + 14 bit Mantisse + 7 bit Exponent dargestellt.
+Nach der Eingabe werden die Gleitkommazahlen zunächst in die binäre Darstellung umgerechnet und
+vor der Ausgabe wieder zurücktransformiert.
+
+Informatikgeschichte, E. Ehses 2014
+
+27
+
+Ein paar Bilder von Z3 (Nachbau)
+
+Informatikgeschichte, E. Ehses 2014
+
+28
+
+Bedeutung von Zuse
+• Zuse wusste zunächst nicht von anderen Pionieren und umgekehrt.
+• Die Leistung Zuses ist nur mit der von Charles Babbage zu vergleichen.
+• Zuse hat ganz auf sich gestellt, praktisch die gesamte Entwickelung bis (fast)
+hin zum v. Neumann‘schen Universalrechner als erster gemacht.
+• Zuses Maschinen waren lange die einzigen Computer in Zentraleuropa.
+• Zuse hatte keinen Einfluss auf den „Mainstream“ der Computerentwicklung.
+• Zuse war weniger an Wissenschaft als an praktischer Anwendung interessiert.
+• Seine Firma hatte keinen langfristigen Erfolg. Software wurde von den Kunden
+erwartet aber nicht bezahlt.
+• Zuse zu B. Gates: „Ich hätte nie gedacht, dass man mit Software Geld
+verdienen kann.“
+
+Informatikgeschichte, E. Ehses 2014
+
+29
+
+Electronic
+Numerical
+Integrator
+And
+Computer
+Mauchly & Eckert
+1946
+
+Informatikgeschichte, E. Ehses 2014
+
+30
+
+Programmiererinnen am ENIAC
+
+Informatikgeschichte, E. Ehses 2014
+
+31
+
+ENIAC, der erste elektronische Computer 1946
+(entwickelt von Eckert, Mauchly, ...)
+17468 Vakuumröhren (MTBF per Röhre = 1000h)
+Diese Zahl wurde nie mehr erreicht (der Entwurf war nicht optimal)!!
+Gewicht: 150 Tonnen
+Kosten: $400 000
+Leistung: 150KW
+Rechenleistung 5000 Additionen / 300 Multiplikationen pro Sekunde
+100 – 1000 x schneller als alle damals existierenden Rechner
+Ein ähnlich großer Rechner war vorher für unmöglich gehalten worden.
+Sehr zeitaufwändige Programmierung durch Stöpseln (Datenfluss-orientiert)
+Der ENIAC war eher eine programmierbare Rechenmaschine als ein Computer
+Keine Programmverzweigung
+Keine Trennung von Speicher und Rechenwerk
+Keine binäre Arithmetik
+
+Informatikgeschichte, E. Ehses 2014
+
+32
+
+John von Neumann (1903-1957)
+JvN geboren in Ungarn als Janosz, dann lebte er
+als Johann in Deutschland, dann als John in
+USA. Er war ein Universalgenie.
+
+"It is a waste of a valuable scientific
+computing instrument to use it to do
+clerical work."
+vN. zu Studenten, die einen Assembler
+erfunden hatten.
+
+Chemieingenieur und Mathematiker, u.a.
+Neumann-Algebra, „Die mathematischen
+Grundlagen der Quantentheorie“, „Theory of
+Games and Economic Behaviour“
+Vielfältige Arbeiten zur Theorie des Computers
+(Zufallszahlen, Zuverlässigkeit,
+selbstreproduzierende Automaten).
+Am bekanntesten ist in der Informatik das Modell
+des „von-Neumann-Computers“: Konzept des
+modernen Computers!
+1945 Draft for EDVAC
+
+Informatikgeschichte, E. Ehses 2014
+
+The control unit fetches data and
+instructions from memory and effects the
+operations of the ALU.
+
+33
+
+Das Konzept des speicherprogrammierbaren von Neumann-Computers
+v. Neumann stellt in First Draft of a Report on the EDVAC [1945], das Prinzip des
+modernen Computers dar.
+Wichtige Begründung: Eine schnelle elektronische Rechenmaschine benötigt einen
+schnellen Programmspeicher (Lochstreifen ist ungeeignet).
+1946 Summer School an der Moore School of Engineering propagiert das Konzept.
+
+Informatikgeschichte, E. Ehses 2014
+
+34
+
+Die Entwicklung des speicherprogrammierbaren Computers
+Problem: billiger großer und schneller Speicher.(v.N. dachte an
+Elektronenröhren)
+Lösungen:
+•
+Schallausbreitung in Quecksilber. (USA, Cambridge UK)
+•
+Abtasten von Ladung auf Kathodenstrahlröhre.
+(„Williams Tube“, Manchester UK)
+England (Williams, Kilburn und Turing in Manchester):
+•
+1948: Baby (Prototyp aber 1. funktionsfähiger
+v.N.-Rechner der Welt)
+•
+1949: Manchester Mark I
+•
+1949: Ferranti Mark I (kommerziell)
+•England (Maurice Wilkes in Cambridge, Turing in Cambridge)
+●
+1949: EDSAC
+●
+1951: Pilot ACE (sehr schnell, da kein v.N.-Rechner)
+●
+1955: DEUCE = 10 x schneller als Mark I (kommerziell)
+USA (u.a. Eckert, Mauchly, von Neumann):
+•
+1949: EDVAC, großer Computer = Durchbruch des von
+Neumann-Prinzips
+
+Quecksilber-Speicher
+
+=> v.N. Rechner setzen sich durch, da einfach zu programmieren !!!
+Informatikgeschichte, E. Ehses 2014
+
+35
+
+(Pilot-) ACE = Die „reale“ Turing-Maschine
+
+ACE, basierend auf Parallelverarbeitung
+war vermutlich der erste Supercomputer
+Er wurde in den 50ern, auch als kommerzielle Version (DEUCE, 1450 Röhren,
+12 Quecksilberröhren, 10x so schnell
+wie von Neumann-Rechner) für komplexe
+Berechnungen eingesetzt
+(Strömungen, Rakentecknik, etc).
+
+Informatikgeschichte, E. Ehses 2014
+
+36
+
+Der erste von Neumann-Rechner
+"A program was laboriously inserted and the start switch pressed. Immediately the
+spots on the display tube entered a mad dance. In early trials it was a dance of death
+leading to no useful result, and what was even worse, without yielding any clue as to
+what was wrong. But one day it stopped, and there, shining brightly in the expected
+place, was the expected answer. It was a moment to remember. This was in June
+1948, and nothing was ever the same again."
+F.C. Williams
+
+Kilburn und Williams vor
+Mark I/Baby
+Informatikgeschichte, E. Ehses 2014
+
+37
+
+Das erste getestete richtige Computerprogramm
+
+Aufgabe: Finde den größten Teiler
+von 218 (= 217).
+Anzahl der Instruktionen: 17
+Operationen: 2.1 Mill.
+Speicherzugr.: 3.5 Mill.
+Lauzeit: 52 min
+Befehlszeit: 1.25 msec
+7 Befehle
+32 bit Wortlänge
+32 Speicherworte
+CRTs:
+Hauptspeicher
+Ausgabe wahlweise
+Speicher, Akkumulator,
+Befehlszähler
+
+Informatikgeschichte, E. Ehses 2014
+
+38
+
+Das Zeitalter der Operators beginnt
+
+UNIVAC-Console. Stehend: Eckert
+Informatikgeschichte, E. Ehses 2014
+
+39
+
+Grace Murray Hopper (1906-1992)
+1943 tritt sie der US Naval Reserve bei.
+Aiken und Hopper bauen den elektromechanischen
+Rechner „Harvard Mark I (1944).
+Sie entdeckt die Motte, die für eine Fehlfunktion im Mark
+I verantwortlich ist und erfindet damit das „Debugging“.
+1949 trat sie der Mauchly & Eckert Company bei.
+Sie entwickelt ab 1951 automatische Compiler.
+Sie entwickelt 1957 Flow Matic und später COBOL
+Mitarbeit beim Entwurf von Univac I, dem ersten
+kommerziellen elektronischen Computer.
+1969 war sie erster Computer Science „Man of the
+Year“.
+Mit 79 war sie ältester aktiver Offizier der US Navy
+
+Informatikgeschichte, E. Ehses 2014
+
+Der 1. Bug
+
+40
+
+Die größte Erfindung des 20. Jahrhunderts
+Time Magazine, July 12, 1948, p. 54:
+SCIENCE: Little Brain Cell
+Last week Bell Telephone Laboratories demonstrated a
+small, simple device that can do many of the jobs now
+done by vacuum tubes. Called a "Transistor," it has no
+vacuum, no glass envelope. It requires no heating
+current and can start working immediately without a
+warm-up.
+Transistors are not in production yet, but Bell scientists,
+to show what their little brain cells can do, demonstrated
+a radio receiver with vacuum tubes replaced by
+Transistors. Though not very powerful, it worked fine.
+Probably the Transistor's first practical assignment will
+be to amplify currents in telephone circuits, a job now
+done by vacuum tubes.
+Entdecker: Shockley, Bardeen, Brattain
+Ohne Transistor und IC gäbe es wohl keine Informatik !
+Informatikgeschichte, E. Ehses 2014
+
+41
+
+Das Moore‘sche Gesetz
+Gordon Moore (Intel) sagt 1965 voraus, dass sich die Anzahl der Transistoren
+pro Chip alle 2 Jahre verdoppelt.
+
+Mögliche Konsequenzen (nicht alles
+gleichzeitig):
+• Geringere Kosten
+• Höhere Rechenleistung
+• Mehr Funktionalität
+• Geringerer Leistungsverbrauch
+
+Aus Moore‘s Aufsatz (1965): Computer gibt es im Supermarkt
+Informatikgeschichte, E. Ehses 2014
+
+42
+
+Was bringt die Zukunft?
+"Everything that can be invented has been invented."
+Charles H. Duell, commissioner of the US Patent Office, recommendin´that his office should
+be abolished (1899)
+"I think there is a world market for about five computers."
+Thomas J. Watson Jr., chairman of IBM (1943)
+"Where a calculator on the ENIAC is equipped with 18,000 vacuum tubes and
+weighs 30 tons, computers in the future may have only 1,000 vacuum tubes and
+perhaps weigh 1 ½ tons.”
+Popular Mechanics (March 1949)
+"640 K [of computer memory] ought to be enough for anybody.”
+Bill Gates (1981)
+
+Informatikgeschichte, E. Ehses 2014
+
+43
+
+The end of the free lunch! … Multithreading?? … Aber wie?
+
+Informatikgeschichte, E. Ehses 2014
+
+44
+
+Die Herausforderung
+Nahe Zukunft
+
+Moore's Law verspricht exponentielles Wachstum
+
+Physik: heute 20 Atomlagen, in 10 Jahren 5 Atomlagen: Schluss mit lustig
+
+Probleme: Wärme und Leckströme, (Heisenberg: wo ist das Elektron?)
+
+Parallelverarbeitung, mäßige Vorteile, ungelöste Programmierung
+
+3D-Computer, mäßige Vorteile
+Mittelfristig
+
+Molekulare Computer, DNA-Computer
+
+Noch viele ungelöste Probleme
+Langfristig
+
+Quantencomputer?
+Herausforderung für die Informatiker:
+
+Das exponentielle Wachstum nähert sich dem Ende (10 Jahre)
+
+Weniger Innovationen?
+
+Weniger neue Anwendungen?
+
+Viele Tätigkeiten fallen weg?
+
+Neue Herausforderungen?
+
+Informatikgeschichte, E. Ehses 2014
+
+45
+
+Was ist ein Quantencomputer? – Information hat physikalische Eigenschaften
+
+Informatikgeschichte, E. Ehses 2014
+
+46
+
+Vorteile des Quantencomputers
+Klassischer Parallelrechner mit p-Prozessoren:
+
+Aufwand steigt mit p
+
+Rechenleistung steigt (bestenfalls) mit p
+Quantencomputer:
+
+Anzahl der Qubits = q
+
+Rechenleistung steigt (bestenfalls) mit 2 q
+
+Leistung beruht auf Zustandsüberlagerung und Zustandsverschränkung
+(ein Qubit kann gleichzeitig 0 und 1 sein, die Zustände mehrerer Qubits
+sind gekoppelt)
+
+Der Aufwand besteht in der Verhinderung äußerer Störungen (Kohärenz)
+Beginn: 1982 trug Richard Feynman vor, dass man quantenmechanische Probleme nur mit einem
+Quantencomputer simulieren kann. Niemals mit einem klassischen Computer!
+Hoffnung: unlösbare, exponentiell harte Probleme werden lösbar.
+Algorithmen u.a. Primfaktorzerlegung, Suche, Optimierung, …
+Stand der Technik: wenige Qubits, 3 * 5 = 15, Quantenkryptographie
+
+Informatikgeschichte, E. Ehses 2014
+
+47
+
+Ein paar Referenzen
+Der Analogrechner von Antikythera:
+http://de.wikipedia.org/wiki/Mechanismus_von_Antikythera
+Charles Babbage und Ada Augusta:
+http://www.fourmilab.ch/babbage/contents.html
+Alan Turing: http://www.turing.org.uk/turing
+http://www.alanturing.net/turing_archive
+Claude Shannon:
+http://www2.research.att.com/~njas/doc/shannon1948.pdf
+J.v.Neumann: http://ei.cs.vt.edu/~history/VonNeumann.html
+Konrad Zuse: http://irb.cs.tu-berlin.de/~zuse/Konrad_Zuse
+ENIAC: http://ftp.arl.mil/~mike/comphist
+Baby und Manchester Mark I: http:/www.digital.org
+Transistor: http://www.pbs.org/transistor
+Gordon Moore: http:// www.pbs.org/transitor/album1/moore
+ftp://download.intel.com/museum/Moores_Law/Articles_Press_Releases/Gordon_Moore_1965_Article.pdf
+
+Quantencomputer:
+Michio Kaku: Tweaking Moore's Law and the Computers of the Post-Silicon Era
+http://www.youtube.com/watch?v=bm6ScvNygUU
+
+Informatikgeschichte, E. Ehses 2014
+
+48
+
+Museen
+Science Museum London (u.a. Babbage): http://www.sciencemuseum.org.uk
+Deutsches Museum München (u.a. Zuse): http://www.deutsches-museum.de
+Arithmeum Bonn (Rechenmaschinen): http://www.arithmeum.uni-bonn.de
+Deutsches Technikmuseum Berlin: http://www.dtmb.de
+The Virtual Museum of Computing: http://vmoc.museophile.org
+Heinz Nixdorf MuseumsForum Paderborn: http://www.hnf.de
+Musée des Arts et Métiers Paris: http://www.arts-et-metiers.net/
+
+Informatikgeschichte, E. Ehses 2014
+
+49
+
+

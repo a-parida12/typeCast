@@ -1,0 +1,1240 @@
+
+
+
+
+Fortbildung zur Quantenphysik
+
+Münchner Lehrgang
+
+
+1. Fortbildungstag
+
+F. Haug
+
+
+
+
+
+Übersicht:
+
+
+
+     I. Neuer Lehrplan Quantenphysik
+
+    II. Umsetzungsmöglichkeiten
+
+   III. Überblick über einen Lehrgang
+
+    IV. Erarbeitung der Wesenszüge der Quantenphysik am Doppelspalt
+
+     V. Anwendung der Wesenszüge beim Interferometer
+
+    VI. Interferometer-Experiment
+
+   VII. Erweiterungen im Zeigerformalismus
+
+  VIII. Simulationen selber testen
+
+
+I. Quantenphysik im neuen Lehrplan
+
+
+2 Std. Kurs: 20 Stunden (1/3 der Gesamtstundenzahl)
+4 Std. Kurs: 28 Stunden (1/4 der Gesamtstundenzahl)
+
+Drei Schwerpunkte:
+
+1.) Experimente:
+      Photoeffekt
+      Elektronenbeugung
+      Interferenz mit einzelnen Quantenobjekten
+            (Doppelspalt, Interferometer)
+
+2.) Eigenschaften der Quantenwelt
+Erarbeitung der qualitativen Wesenszüge von Quantenobjekten anhand der
+Experimente unter Einbeziehung der quantenmechanischen Messung
+Quantitative Umsetzung mit Zeigern
+
+3.) Atomphysik
+      Linearer Potentialtopf
+      Linienspektren
+      Schrödingergleichung
+      Antreffwahrscheinlichkeiten im Wasserstoffatom
+
+
+II. Umsetzungsmöglichkeiten
+
+
+Neuer Dorn-Bader enthält alle Begriffe und auch die geforderten Wesenszüge
+(2. Fortbildungstag, Herr Götz)
+
+2. Rheinland-Pfälzer Lehrgang (2. Fortbildungstag, Herr Renner)
+Berliner Unterrichtskonzept (Fischler, Lichtfeldt; Physik i. d. Sch. 32)
+Münchner Lehrgang (Müller, Wiesner)
+
+   Leu-Heft Küblbeck (Neuauflage von Heft Ph 22.0)
+
+
+   Simulationsprogramme (www.physik.uni-muenchen.de/Computer/interfer/)
+
+
+   Kuhn, Physik 2 (Westermann-Verlag)
+
+
+   Skripten und Veröffentlichungen von Müller u. Wiesner (Internetadresse
+      s.o.)
+
+
+
+III. Übersicht über einen Lehrgang, 27 - 38 Stunden
+
+A. Quantenphysik
+|1.) Photoeffekt                   |4 Std.    |Hallwachs-Exp.           |
+|                                  |          |Vermutung im Wellenmodell|
+|                                  |          |                         |
+|                                  |          |Versuch mit              |
+|                                  |          |Vakuumsfotozelle         |
+|                                  |          |Interpretationsmöglichkei|
+|                                  |          |ten                      |
+|                                  |          |Photonen, Wirkungsquantum|
+|                                  |          |                         |
+|                                  |          |Wmax=hf-WA               |
+|                                  |          |Übungen                  |
+|[2.) Röntgenbremsstrahlung]       |[2 Std.]  |Grenzenergie > SR        |
+|                                  |          |Bragg-Reflexion?         |
+|[3.) Spezielle                    |[5 Std.]  |Grundannahmen            |
+|Relativitätstheorie]              |          |Zeitdil., Längenkontr.   |
+|                                  |          |relativistische Masse    |
+|                                  |          |(Gedankenv.)             |
+|                                  |          |E=mc2                    |
+|                                  |          |Photonenmasse und -impuls|
+|                                  |          |                         |
+|                                  |          |Paarbildung,             |
+|                                  |          |Comptoneffekt > SR       |
+|4.) Elektronenbeugung             |2 Std.    |Beugungsröhre (Bragg?)   |
+|                                  |          |De Broglie Wellenlänge   |
+|[5.) Präparation von              |[2 Std.]  |Wienfilter, Strahlteiler,|
+|Eigenschaften]                    |          |Prisma                   |
+|                                  |          |Polarisation             |
+|6.) Erarbeitung der qualitativen  |4 Std.    |Wahrscheinlichkeitsprinzi|
+|Wesenszüge von Quantenobjekten am |          |p                        |
+|Beispiel Doppelspalt              |          |Superpositionsprinzip    |
+|                                  |          |Messpostulat             |
+|                                  |          |Komplementarität         |
+|7.) Anwendungen/Übungen           |          |                         |
+|a.) Schrödinger Katze             |1 Std.    |> HA                     |
+|b.) Bombentest                    |3 Std.    |Interferometer (Prinzip +|
+|                                  |          |Versuch)                 |
+|                                  |          |Simulation mit einzelnen |
+|[c.) Quantencomputer]             |[1 Std.]  |QO                       |
+|[d.) Quantenkryptologie]          |[[10      |Bombentest, Delayed      |
+|                                  |Std.]]    |Choice                   |
+|                                  |          |                         |
+|                                  |          |> SR                     |
+|                                  |          |> Fächerübergreifend mit |
+|                                  |          |Math., Info. und Gesch.  |
+|                                  |          |nach dem schriftl. Abitur|
+|8.) Quantitative Erweiterungen    |          |                         |
+|a.) Unbestimmtheitsrelation       |1 Std.    |Komplementarität > UBR   |
+|b.) Zeigerformalismus             |5 Std.    |Regeln des Formalismus   |
+|                                  |          |mit Mess.                |
+|                                  |          |Mehrfachspalte mit Messg.|
+|                                  |          |                         |
+|                                  |          |Neutronenstreuung        |
+|                                  |          |C13-Kristall             |
+|                                  |          |Streuung von             |
+|                                  |          |Helium-Kernen            |
+|                                  |          |Neutroneninterferenz in  |
+|                                  |          |Grav.-Pot.               |
+|[9.) Verschränkte Photonen]       |[1 Std.]  |EPR-Paradoxon, > SR      |
+
+
+B. Atomphysik
+|1.) Linienspektren des            |2 Std.    |Serien, Energieniveaus   |
+|Wasserstoffs                      |          |                         |
+|2.) Stationäre                    |1 Std.    |Herleitung über          |
+|Schrödingergleichung              |          |Wellengleichung          |
+|3.) Diskussion der SGL für        |4 Std.    |Krümmung                 |
+|verschiedene Potentiale           |          |Lineare Potentialtopf    |
+|                                  |          |Coulombpotential,        |
+|                                  |          |Wasserstoffatom          |
+
+Präparation dynamischer Eigenschaften (Arbeitsblätter)
+Was bedeutes es, dass ein Quantenobjekt (z.B. ein Photon, ein Elektron )
+eine bestimmte Eigenschaft hat? Wie kann man diese Eigenschaft präparieren?
+
+Beispiel 1: Wienfilter
+Ein Elektronenstrahl tritt durch ein gekreuztes elektrisches und
+magnetisches Feld. Ein Teil des Strahls tritt durch die Blende, andere
+Elektronen werden abgelenkt.
+[pic]
+a.) Ist es Zufall ob Elektronen durch die Blende gelangen oder haben sie
+eine bestimmte Eigenschaft: "Werde durch das Wienfilter (WF)
+durchgelassen"? Wie könnte man das testen? Ergänze die Zeichnung.
+b.) Was muss der Test ergeben, wenn es sich um eine bestimmte Eigenschaft
+"wird durchgelassen" handelt? Sage das Ergebnis voraus.
+
+c.) Welche andere physikalische Eigenschaft der Elektronen wurde mit dem
+Wienfilter präpariert? Leite die entscheidende Formel ab.
+
+Zusammenfassung: Man versucht  in  einem  Experiment  physikalische  Objekte
+(Elektronen, Photonen,...) mit einer  bestimmten  Eigenschaft  herzustellen,
+z.B. Elektronen mit der  Eigenschaft  "wird  durch  das  WF  durchgelassen".
+Ergibt ein Test (meist ein gleichartiges Experiment), dass 100% der  Objekte
+diese  Eigenschaft  haben,  so  wurde  diese   Eigenschaft   im   Experiment
+präpariert. Man sagt dann, dass die Objekte diese  Eigenschaft  haben,  auch
+wenn man  den  Test  nicht  macht.  Weitere  Experimente  zeigen,  dass  die
+präparierte   Eigenschaft   "wird   durchgelassen"   meist    mit    anderen
+physikalischen Eigenschaften (z.B.  bestimmte  Wellenlänge  oder  kinetische
+Energie) verbunden ist.
+
+Beispiel 2: Strahlteiler
+Ein Lichtstrahl fällt auf einen halbdurchlässigen Spiegel (oder eine
+Glasplatte). Ein Teil des Strahls tritt durch diesen sogenannten
+Strahlteiler (ST), ein Teil wird reflektiert.
+[pic]
+a.) Wie kann man testen, ob die durchgelassenen Photonen eine bestimmte
+Eigenschaft "wird im ST durchgelassen" haben? Ergänze die Zeichnung.
+b.) Sage das Ergebnis des Versuchs vorher und überprüfe im Experiment!
+c.) Hat das durch den ST durchgelassene Licht eine bestimmte Eigenschaft
+"wird durchgelassen"? Kann man mit einem ST Licht auf die Eigenschaft "wird
+durchgelassen" präparieren?
+
+Beispiel 3: Polarisation
+
+
+    [pic]
+Licht einer Glühlampe fällt auf eine waagerecht eingestellte
+Polarisationsfolie (PF). Das Licht wird durch diese Folie abgeschwächt, nur
+ca. die Hälfte wird durchgelassen.
+a.) Wie kann man testen, ob die durchgelassenen Photonen eine bestimmte
+Eigenschaft "wird durch die waagerechte PF durchgelassen" haben? Ergänze
+die Zeichnung.
+b.) Sage das Ergebnis des Versuchs vorher und überprüfe im Experiment!
+
+c.) Hat das durch die waagerechte PF durchgelassene Licht eine bestimmte
+Eigenschaft "wird durchgelassen"? Kann man mit einem waagerechten PF Licht
+auf die Eigenschaft "wird durchgelassen" präparieren?
+
+d.) Licht das durch einen waagerecht eingestellten Polarisationsfilter
+gefallen ist, heißt waagerecht polarisiert. Kann Licht zugleich die
+Eigenschaften "waagerecht polarisiert" und "senkrecht polarisiert" haben
+(vgl. Exkurs Polarisation)?
+
+Beispiel 4: Prisma
+
+    [pic]
+Licht einer Glühlampe fällt auf ein Prisma. Die Blende ist so eingestellt,
+dass durch sie nur Licht gelangen kann, das in einem Winkel von 30° gegen
+sie Einfallsrichtung gebrochen wurde.
+a.) Wie kann man testen, ob das durch die 2. Blende tretende Licht eine
+bestimmte Eigenschaft "wird im Prisma um 30° abgelenkt" hat? Ergänze die
+Zeichnung.
+b.) Sage das Ergebnis des Versuchs vorher!
+
+c.) Hat das durch die 2. Blende tretende Licht die Eigenschaft "wird im
+Prisma um 30° abgelenkt"?
+
+
+d.) Auf welche der folgenden Eigenschaften kann man mit Prisma und Blende
+präparieren:
+Intensität, Farbe, Wellenlänge, waagerechte Polarisation?
+
+
+
+IV. Erarbeitung der Wesenszüge von Quanten anhand des
+Doppelspaltexperiments
+
+Im Doppelspaltexperiment mit monochromatischem, kohärentem Licht erhält man
+das bekannte Interferenzbild. In diesem Doppelspaltexperiment stecken sind
+alle Geheimnisse der Quantenwelt versteckt, wir wollen es daher genauer
+untersuchen.
+An diesem Experiment können wir zunächst auf zwei Arten Veränderungen
+vornehmen:
+1.) Wir können untersuchen, was in einem Doppelspaltexperiment mit anderen
+Quantenobjekten (Elektronen, Neutronen, Protonen, Atomen, Molekülen)
+passiert.
+2.) Wir können untersuchen was passiert, wenn jeweils nur ein Quantenobjekt
+in der Anordnung ist.
+
+1.) Doppelspaltexperimente mit unterschiedlichen Quantenobjekten
+
+Was passiert, wenn man im Doppelspaltexperiment andere Quantenobjekte außer
+Photonen verwendet?
+
+[pic]
+Dasselbe Experiment wurde 1960 von Jönsson (Universität Tübingen) auch mit
+Elektronen durchgeführt (die Schwierigkeit liegt in der Herstellung der
+Spalte, die nur 0,5ľm breit sein dürfen). Inzwischen wurden
+Doppelspaltexperimente mit Neutronen, Atomen und sogar ganzen
+Fullerenenmolekülen (Nature 401, No. 6754, p. 680 (1999) oder
+www.quantum.univie.ac.at/ research/c60/undex.html). Das Ergebnis ist immer
+dasselbe; als Beispiel hier rechts das Ergebnis eines Neutronenexperiments
+im Doppelspalt (Abb. 2 aus www.ap.univie.ac.at/users/fe/ Quantentheorie/
+sciweek2000/Zeilinger-Artikel/index.html).
+
+Mit dem Simulationsprogramm "Doppelspalt" der Münchner Physikdidaktik
+(downloadbar von www.physik.uni-muenchen.de/Computer/interfer) kann man
+diese Verteilungen simulieren. Die Art dieser Verteilung, dieses Muster,
+scheint ein Wesenszug der Quantenwelt zu sein. Eine Erklärung dieser
+Verteilung gelingt durch die Wellentheorie: den Quantenobjekten wird die
+DeBroglie-Wellenlänge [pic] zugeordnet. Mit dieser Wellenlänge kann man wie
+beim klassischen Doppelspaltexperiment mit Licht, das Interferenzbild
+vorhersagen.
+
+2.) Einzelne Quantenobjekte im Doppelspalt
+
+Was passiert, wenn der jeweilige Teilchenstrahl so schwach ist, dass sich
+immer nur ein Quantenobjekt in der Anordnung befindet?
+Zum Beispiel kann man das Doppelspaltexperiment mit einzelnen Photonen
+durchführen und dies ist auch häufig gemacht worden (vgl. z.B. Film
+"klicker" aus http://www.physik.uni-mainz.de/lehramt/ViMPS/welcome.html).
+Genauso sind Doppelspaltexperimente mit einzelnen Elektronen, Neutronen,
+Heliumatomen usw. durchgeführt worden. Leider gibt es noch keine
+Schulexperimente mit einzelnen Quantenobjekten, die Simulation
+veranschaulicht jedoch die Ergebnisse dieser Realexperimente. Die
+Simulation sollte man selber durchführen und versuchen Vorhersagen über das
+Auftreffen zu machen (vgl. AB 1).
+Möchte man auf ein Realexperiment nicht verzichten, so kann man das Licht
+der Doppelspaltverteilung auf einen Film fallen lassen. Die geringe
+Photonenzahl wird durch eine sehr kurze Belichtungszeit und vollkommene
+Abdunklung erreicht. Das belichtete Negativ betrachtet man unter einem
+Mikroskop (Ergebnis s. DB S.248, V1). Hierbei handelt es sich jedoch nicht
+wirklich um ein Experiment mit einzelnen Photonen, da die körnige Struktur
+ja nicht durch eine schwache Quelle sondern durch die kurze Belichtungszeit
+erzielt wird.
+                                                              Arbeitsblatt 1
+
+Einzelne Photonen im Doppelspalt
+
+Stelle im Programm "Doppelspalt" die Quelle auf Elektronen, Energie 100keV
+ein. Stelle die Spaltbreite auf 100?m, den Spaltabstand auf 700 ?m. Drehe
+den Schirm nach vorn.
+
+1.) a.) Schalte die Quelle kurz ein, indem du die Taste Q zweimal kurz
+hintereinander drückst. Übe etwas bis du es schaffst möglichst wenige
+Elektronen auszusenden (Zähler unten auf der Statusleiste). Setze dann den
+Bildschirm über "Reset" zurück. Schalte kurz ein und beschreibe den
+Bildschirm nach ca. 10-20 Treffern!
+
+      Die Treffer verteilen sich scheinbar wahllos auf dem Schirm.
+
+
+b.) Setze den Bildschirm zurück. Du und dein Nachbar halten den Finger auf
+eine Schirmstelle. Schalte die Quelle so kurz wie möglich ein. Wer hat
+einen Treffer besser vorhergesagt? Kannst du irgendwie den nächsten Treffer
+vorhersagen?
+
+      Es ist unmöglich vorherzusagen, wo die nächsten Elektronen
+auftreffen.
+
+2.) Lasse die Quelle länger an und beschreibe, wie sich das Schirmbild nach
+500, 2000, 10 000 Treffern entwickelt. Setze zurück und wiederhole das
+Experiment. Vergleiche das Ergebnis mit dem ersten Mal.
+
+      Mit der Zeit entsteht die Interferenzverteilung des Doppelspalts.
+      Dieses Bild ist bei jeder Durchführung gleich.
+
+3.) Lasse das Schirmbild bei 10 000 Treffern stehen.
+Gib eine Prognose ab, wie sich die nächsten 100 Photonen auf dem Schirm
+verteilen werden. Wo werden relativ viele auftreffen, wo wenige?
+Lösche den Schirm (Reset) und markiere "Auswertung". Schalte die Quelle ein
+und warte die ersten 100 Photonen ab. Vergleiche mit Deiner Vorhersage!
+
+
+4.) Quantitative Auswertung: berechne bei den obigen Einstellungen die Lage
+der Doppelspaltmaxima. Vergleiche mit dem Ergebnis der Simulation.
+Wie verändert sich das Schirmbild bei 20keV, 200keV?
+Welche Maxima fallen bei 200keV aus?
+
+
+                                                              Arbeitsblatt 2
+
+Überlegungen zur Zufälligkeit
+
+1.) Wovon hängt es ab, ob ich eine 6 würfle? Unter welchen Umständen könnte
+ich vorherbestimmen, ob ich eine 6 würfle?
+
+
+      Es hängt vom Zufall ab. Die Wahrscheinlichkeit ist 1/6.
+      Wenn man die Abwurfgeschwindigkeit, den Abwurfwinkel usw. genau kennen
+      würde, so könnte man es vorausberechnen.
+
+2.) Wovon hängt es ab, ob mein nächster Freiwurf beim Basketball trifft?
+Kann ich einen Treffer im Prinzip vorausberechnen?
+
+      Auch hier spielt der Zufall eine Rolle. Ich kann aber üben um besser
+      zu treffen. Dabei schaffe ich es den Abwurfwinkel und die
+      Abwurfgeschwindigkeit immer genauer einzustellen. Umso genauer ich
+      optimale Werte erreiche, umso öfter treffe ich. Eine genau
+      eingestellte Maschine würde immer treffen.
+
+3.) Wovon hängt es ab, ob ich eine 6 im Lotto habe? Kann ich das Ergebnis
+einer Lottoziehung im Prinzip vorausberechnen?
+
+      Das Ergebnis hängt vom Zufall ab. Würde ich die Lage von allen Kugeln,
+      vom Mischer, die Geschwindigkeit der Trommel usw. zu Beginn kennen, so
+      könnte ich das Ergebnis der Ziehung voraus berechnen.
+
+4.) Wovon hängt es ab, wo ein Elektron auf dem Schirm auftrifft? Kann ich
+es im Prinzip vorausberechnen?
+
+      Ein Einzeltreffer ist prinzipiell nicht vorherberechenbar.
+      Quantenobjekte, die vollkommen identisch präpariert sind, treffen an
+      ganz verschiedenen Stellen auf.
+      Auch in Zukunft wird keine Eigenschaft, kein Parameter gefunden
+      werden, die das Verhalten des Quantenobjekts vorherberechnen lässt
+      (Bell'sche Ungleichung).
+
+
+
+3.) Der erste Wesenszug: Das Wahrscheinlichkeitsprinzip
+
+Das Ergebnis von Simulation und Experiment ist immer das gleiche: das
+Einzelobjekt trifft an einer bestimmten genau lokalisierbaren Stelle auf
+("Treffer"), der genaue Auftreffpunkt ist aber zufällig und nicht
+vorhersagbar. Nach einer Vielzahl von gleich präparierten Quanten (man
+nennt das ein Ensemble) stellt sich eine reproduzierbare und mit Hilfe der
+Wellentheorie vorausberechenbare Verteilung ein. Diese Verteilung heißt
+daher Wahrscheinlichkeitsverteilung.
+
+1. Grundprinzip der Quantenmechanik: Das Wahrscheinlichkeitsprinzip
+
+In einem Experiment mit Quantenobjekten ist das Versuchsergebnis mit einem
+Einzelobjekt zufällig und lässt sich prinzipiell nicht vorhersagen. Die
+Wahrscheinlichkeitsverteilung eines Ensembles ist reproduzierbar und
+berechenbar.
+
+"Zufällig" ist hier nicht die normale Zufälligkeit, wie man sie aus dem
+Alltag kennt. Zufälligkeit im Alltag steht nämlich nur für subjektive
+Zufälligkeit, die dadurch entsteht, dass es zu viele Einflüsse gibt, die
+man nicht alle genau kennt. Demgegenüber ist die quantenmechanische
+Zufälligkeit objektiv, sie beruht nicht auf dem Mangel an Informationen. Es
+gibt prinzipiell keine Parameter, die das Verhalten vorherbestimmen - das
+ist eine Konsequenz der Bell'schen Ungleichung. Man sollte diesen
+Unterschied unbedingt an Beispielen diskutieren (s. AB 2).
+
+
+Man kann hier (vor allem im 2-stündigen Kurs) bei dieser rein qualitativen
+Beobachtung stehen bleiben. Für das folgende nützlich, könnte es aber sein,
+dieses Prinzip noch etwas zu vertiefen. Die reproduzierbare
+Wahrscheinlichkeitsverteilung wird ja mit der Wellentheorie berechnet. Wie
+bringt man das in Einklang mit der Teilchenvorstellung, die sich z.B. in
+den lokalisierten Treffern zeigt? Es könnte geschickt sein, an dieser
+frühen Stelle, den Dualismus anzusprechen; dann ist sichergestellt, dass
+man nicht dabei stehen bleibt, wie es auch der Lehrplan fordert.
+Die zwei Seiten von Quantenobjekten - lokalisierte, aber nicht
+vorhersagbare Treffer der Einzelobjekte und doch nach vielen Treffern die
+durch die Wellentheorie vorhergesagte Verteilung - nennt man den Welle-
+Teilchen-Dualismus. M. Born hat in seiner Wahrscheinlichkeitsinterpretation
+der Quantenmechanik diesen Wellenaspekt mit dem Teilchenaspekt vereinigt:
+Bei Licht ist die Intensitätsverteilung durch die Energiedichte des
+elektrischen (bzw. magnetischen) Feldes bestimmt. Die Energiedichte eines
+elektrischen Feldes der Feldstärke E ist [pic], also ist die Intensität
+I(x) an der Stelle x proportional zum Betrag des Feldstärkevektors [pic]:
+[pic]. Da die Feldstärke ja schwingt, ist es eigentlich das Quadrat der
+Amplitude des Feldstärkevektors.
+Entsprechend ordnet man jetzt den Quanten einen Zeiger [pic](x) in
+Abhängigkeit vom Ort x zu. Die Funktion [pic] (in Abhängigkeit vom Ort)
+wird oft Zustandsfunktion (s. Lehrplan) oder Wellenfunktion (s. Münchner
+Lehrgang) genannt. In Übereinstimmung mit [DB, S. 249] bezeichnen wir die
+Zeiger [pic](x) als Wahrscheinlichkeitsamplitude.
+
+Bornsche Wahrscheinlichkeitsinterpretation: Das Verhalten eines Ensembles
+von Quantenobjekten in einer Anordnung wird durch die
+Wahrscheinlichkeitsamplitude ?(x) bestimmt. Die
+Wahrscheinlichkeitsamplitude bestimmt die Wahrscheinlichkeitsverteilung:
+
+      P(x) ~ |?(x)|2
+
+?(x) ist ein resultierender Zeiger, der wie bei einer Welle aus der
+Anordnung mit Hilfe der Huygensschen Prinzipien bestimmt wird.
+
+4.) Vergleich: Klassische Teilchen und Quantenobjekte im Doppelspalt
+
+Aus dem Doppelspaltexperiment mit Quanten kann man aber noch viel mehr
+herausholen. Zunächst untersucht man die Verteilungen von klassischen
+Teilchen und von Quanten auf dem Schirm, wenn nur einer der Spalte bzw.
+beide Spalte geöffnet sind (vgl. AB 3). Über diese Aufgabe sollte man auch
+selber nachdenken.
+Die Verteilungen für Farbtröpfchen erhält man durch Gedankenexperiment, aus
+einem Realexperiment mit Farbtröpfchen, oder durch eine Simulation wie z.B.
+"Doppelspalt" (s. oben oder www.physik.uni-
+muenchen.de/sektion/didaktik/Computer).
+Bei den Einzelspaltverteilungen für Quanten kann man annehmen, dass die
+Spalte sehr schmal seien, um Nebenmaxima zu vermeiden. Die Nebenmaxima
+seien außerhalb vom Schirm. Oder man bezieht sie mit ein, die Nebenmaxima
+sind aber hier nicht von Bedeutung. Die Doppelspaltverteilung für Quanten
+wurde ja vorher ausführlich diskutiert.
+
+5.) Superpositionsprinzip
+
+Der Vergleich macht einen schwer verstehbaren Wesenszug von Quantenobjekten
+deutlich (s. AB 3, unterer Teil): während klassische Teilchen natürlich
+über einen der beiden Spalte auf den Schirm gelangen, kann man
+Quantenobjekten objektiv keine Bahn durch einen der Spalte zuschreiben,
+sonst müsste ja die Verteilung des ersten Spalts bei geschlossenem zweiten
+Spalt zur Verteilung des Doppelspalts beitragen. In irgendeiner Form
+gelangt das Quantenobjekt durch beide Spalte oder "tastet" zumindest in
+irgendeiner Form beide Spalte ab. So kann man diesen Wesenszug als
+Superpositionsprinzip (da die Quanten durch beide Spalte gelangen sind sie
+in einer Art Überlagerungszustand) bezeichnen (s.u.).
+
+Hat man die Wahrscheinlichkeitsamplituden ?(x) eingeführt, so kann man mit
+Hilfe der Wahrscheinlichkeitsamplituden dies etwas präzisieren:
+Bei klassischen Teilchen muss man nicht Zeiger, sondern
+Wahrscheinlichkeiten addieren:
+[pic]
+                                   [pic].
+Bei Quantenobjekten muss man die resultierende Wahrscheinlichkeitsamplitude
+durch Zeigeraddition der Zeiger für die Einzelspalte bestimmen:
+                                   [pic].
+Man nennt das Superposition der Zeiger für die Einzelspalte.
+Das Quant befindet sich also im Überlagerungszustand der Einzelzustände ?1
+und ?2 von Spalt 1 und Spalt 2.
+Die Wahrscheinlichkeit ist jetzt
+                                   [pic],
+denn beim Quadrieren der Summe entsteht nach der Binomischen Formel ein
+gemischtes Glied (das sogenannte Interferenzglied).
+
+Zweites Grundprinzip der Quantenmechanik: Das Superpositionsprinzip
+
+In der Quantenwelt ist nicht jede Eigenschaft objektiv festgelegt: im
+Doppelspalt geht das Quant objektiv nicht durch einen der beiden Spalte.
+Stattdessen befinden sich die Quanten bei gleichberechtigten Möglichkeiten
+im Überlagerungszustand ?1,2=?1+?2, der resultierende Zeiger wird also
+durch Superposition bestimmt.
+
+Diskussion: Wir (insbesondere auch Schüler) sind gewohnt Dinge nicht zu
+wissen. Wir wissen auch, dass Nichtwissen nur subjektiv ist, dass also die
+Dinge objektiv festgelegt und determiniert sind. In der Quantenphysik sind
+Dinge auch objektiv nicht festgelegt.
+
+                                                              Arbeitsblatt 3
+
+Vergleich von klassischen Teilchen und Quanten im Doppelspalt
+
+Aufgabe: Im linken Bild ist ein Doppelspaltexperiment mit Farbröpfchen
+dargestellt. Farbtröpfchen fassen wir als klassische Teilchen auf, also als
+Kügelchen. Im rechten Bild ist ein Doppelsoaltexperiment mit Kügelchen
+dargestellt. Zeichne für beide Experimente ein, welche Verteilungen sich
+auf dem Schirm ergeben, wenn
+a.) Nur Spalt 1 geöffnet ist.
+b.) Nur Spalt 2 geöffnet ist.
+c.) Beide Spalte geöffnet sind.
+
+[pic]
+
+
+|Klassische Teilchen                |Quantenobjekte                     |
+|Ergebnis: Die Verteilung des       |Ergebnis: Die Verteilung des       |
+|Doppelspalts ist die Summe der     |Doppelspalts ist nicht die Summe   |
+|Verteilungen der Einzelspalte:     |der Verteilungen der Einzelspalte: |
+|[pic]                              |[pic].                             |
+|                                   |Die Doppelspaltverteilung ist etwas|
+|                                   |ganz Neues. Teilchen, die bei      |
+|                                   |geschlossenem Spalt 2 über Spalt 1 |
+|                                   |auf einen bestimmten Schirmpunkt   |
+|                                   |gelangen konnten, können nicht mehr|
+|                                   |dorthin gelangen, wenn beide Spalte|
+|                                   |geöffnet sind, falls sich an diesem|
+|                                   |Schirmpunkt ein Minimum der        |
+|                                   |Doppelspaltverteilung befindet.    |
+|Erklärung: Jedes einzelne Tröpfchen|Erklärung: Auch wenn sich jeweils  |
+|ist objektiv durch einen der beiden|nur ein Objekt in der Anordnung    |
+|Spalte gegangen, auch wenn wir     |befindet, trägt jedes Quant zur    |
+|subjektiv nicht wissen, durch      |Interferenzverteilung bei. Es kann |
+|welchen. Man kann im Prinzip       |also objektiv nicht sein, dass das |
+|herausfinden, durch welchen Spalt  |Quant auf einer Bahn durch einen   |
+|ein einzelnes Teilchen gelanget.   |der beiden Spalte gelangt ist.     |
+|                                   |Irgendwie geht es durch beide      |
+|                                   |Spalte,                            |
+
+
+6.) Messpostulat
+
+Bei Farbtröpfchen könnte man z.B. mit einer Lichtschranke den genauen
+Durchflugspalt bestimmen. Auch bei Quanten könnte man versuchen durch
+Messungen herauszufinden, durch welchen der Spalte das Quant gelangt ist.
+Eine einfache Möglichkeit, wäre einfach Detektoren direkt hinter den
+Spalten anzubauen, die die Quantenobjekte registrieren können.
+Beim Doppelspalt ist dies nicht ganz einfach, da die Spalte ja sehr nah
+beieinander liegen. Im Interferometer mit weit auseinandergezogenen Wegen
+kann man dieses Experiment jedoch leicht realisieren - später wird das in
+einer Simulation des Interferometers, die die Ergebnisse aller wirklichen
+Experimente wiederspiegelt, gemacht (Interferometer V. 4).
+
+
+[pic]
+Hier wird das Ergebnis zunächst mitgeteilt: eine Messung mit Detektoren,
+durch welchen der Spalte das Quantenobjekt gelangt ist liefert immer ein
+eindeutiges Ergebnis, nämlich entweder spricht der Detektor von Spalt 1
+oder der Detektor von Spalt 2 an. Nie sprechen beide Detektoren
+gleichzeitig an. Alle von der Quelle abgestrahlten Quanten werden in einem
+der Detektoren nachgewiesen.
+
+Dasselbe Ergebnis wird auch erzielt, wenn man versucht durch Wechselwirkung
+mit anderen Quantenobjekten den Ort des Quants festzulegen. Z.B. kann man
+in einem Doppelspaltexperiment mit Elektronen den Doppelspalt mit Licht
+bestrahlen (vgl. Zeichnung). Die Photonen werden gestreut, ein gestreutes
+Photon markiert den Ort eines Elektrons, wobei die Ortsmessung ungenauer
+ist, wenn das Licht längere Wellenlänge hat. Auch hier ist das Messergebnis
+immer eindeutig: jedes Elektron wird entweder in Spalt 1 oder in Spalt 2
+gefunden. Ca. die Hälfte der Elektronen wird in Spalt 1, die andere Hälfte
+in Spalt 2 detektiert.
+Wurde die Wahrscheinlichkeitsamplitude eingeführt so kann man dieses
+Messpostulat noch konkretisieren: durch Messung kollabiert der
+Überlagerungszustand und geht in einen der Einzelzustände über. Aus der
+überlagerten Wahrscheinlichkeitsamplitude ?1,2'?1+?2 wird durch Messung
+entweder ?1 oder ?2, jeweils mit Wahrscheinlichkeit 1/2.
+
+
+Drittes Grundprinzip der Quantenmechanik: Das Messpostulat
+
+Gibt es verschiedene Möglichkeiten, so wird bei jeder Messung an
+Quantenobjekten durch Zufall eine von diesen Möglichkeiten (hier: Spalt 1
+oder Spalt 2) realisiert. Die Wahrscheinlichkeit mit der sie realisiert
+wird, ist berechenbar (hier: jeweils 1/2).
+Durch Messung findet man das Quantenobjekt immer an einem bestimmten Ort
+bzw. auf einer bestimmten Bahn.
+Die Wahrscheinlichkeitsamplitude kollabiert:
+                                    [pic]
+
+Wie dieser Kollaps vollzogen wird und welche der Möglichkeiten realisiert
+wird, ist auch heute noch unklar. In letzter Zeit hat man jedoch durch die
+Theorie der Dekohärenz Fortschritte erzielt (vgl. Schrödingers Katze).
+
+7.) Interferenzbild bei Messung
+
+Es scheint sich ein Widerspruch zu ergeben: einerseits hat das Elektron
+keine Bahn, andererseits findet man es durch Messung immer auf einer Bahn?
+Wie kann man diesen Widerspruch auflösen?
+
+Wie wirkt sich eine Messung auf das Interferenzbild aus?
+
+Das Ergebnis wird wieder simuliert mit dem Programm "Doppelspalt" (s. AB 4,
+Simulation 1 und Simulationsprogramme Versuch 4).
+Die Auflösung ist klar zu erkennen: Durch die Messung verschwindet die
+Interferenzverteilung. Es ergibt sich stattdessen die klassische
+Verteilung, also die "Summe der Einzelverteilungen" P1,2 (x)=P1(x)+P2(x).
+Jede Ortsmessung löst das Interferenzmuster auf. Elektronen, die man hinter
+Spalt 1 gemessen hat, tragen zur Einzelspaltverteilung von Spalt 1 bei,
+Elektronen, die hinter Spalt 2 gemessen wurden, tragen zur
+Einzelspaltverteilung von Spalt 2 bei.
+Das kann man auch mit der Wahrscheinlichkeitsamplitude erklären, denn durch
+die Messung kollabiert die überlagerte Wahrscheinlichkeitsamplitude:
+                                    [pic]
+Elektronen, deren Zeiger zu [pic] kollabierte, tragen zur
+Einzelspaltverteilung von Spalt 1 bei,
+Elektronen, deren Zeiger zu [pic] kollabierte, tragen zur
+Einzelspaltverteilung von Spalt 2 bei. Insgesamt erhält man also [pic].
+
+Was passiert, wenn man durch eine schwache Lampe nur 30% der Elektronen
+identifizieren kann?
+
+Hier sollte man erst vermuten lassen: Hier zeigt sich, ob man das vorige
+anwenden kann. Die nicht nachgewiesenen Elektronen müssten zur
+Interferenzverteilung, die nachgewiesenen zu den Einzelverteilungen
+beitragen. Quantitativ müsste sich also ergeben:
+                                    [pic].
+Diese Vermutung wird durch die Simulation bestätigt (AB 4, Simulation 2).
+
+8.) Berührungsfreie Quantenmessung
+
+Oft wird behauptet, dass die Elektronen bei der Wechselwirkung mit den
+Photonen gestoßen werden, und daher einen anderen Bahnverlauf nehmen.
+
+Abgesehen davon, dass wir ja in Wesenszug 2 sahen, dass den Elektronen gar
+keine Bahn zugeordnet ist, kann dieser Einwand nicht stimmen: man kann z.B.
+Rubidiumatome mit Mikrowellenstrahlung lokalisieren, der zugehörige
+Impulsübertrag des Photons ist um Größenordnungen zu klein, um den
+gewünschten Effekt zu erzielen. Dennoch verschwindet die Interferenz
+sofort. Allein die Tatsache der Messung hat sie aufgelöst. Prinzipiell kann
+der Einfluss einer Messung auf das Ergebnis einer Einzelmessung nicht
+beliebig klein gemacht werden: sobald gemessen wird, verändert sich das
+Ergebnis schlagartig. Dies wird noch deutlicher bei der berührungsfreien
+Quantenmessung, die im folgenden Gedankenexperiment diskutiert wird:
+                                                              Arbeitsblatt 4
+
+Doppelspaltexperiment mit Elektronen mit Ortsmessung
+
+
+Simulation 1: Starte die Simulation "Doppelspalt". Wähle Elektronen der
+Energie 100keV als Quelle. Stelle Spaltbreite 100nm und Spaltabstand 300nm
+ein. Aktiviere die Lampe (Button Lampe drücken). Die Photonen werden an den
+Elektronen gestreut und zeigen so deren Ort an. Stelle die Lampenintensität
+auf 100% und ihre Wellenlänge auf 450nm ein. Zeichne die entstehenden
+Verteilungen (nur Spalt 1 offen, nur Spalt 2 offen, beide Spalte geöffnet)
+ein:
+
+[pic]
+Ergebnis: Das Interferenzmuster ist verschwunden. Man findet stattdessen
+die klassische Verteilung "Summe der Einzelverteilungen" P1,2
+(x)=P1(x)+P2(x). Jede Ortsmessung löst das Interferenzmuster auf.
+
+Was passiert, wenn nicht alle Elektronen gemessen werden? Vermute vor der
+Simulation, welches Bild entsteht, wenn die Lampe schwächer ist und nur 50%
+der Elektronen nachweist.
+
+Simulation 2: Markiere unter "Schirm" die theoretische Auswertung.
+Beobachte die theoretische Verteilung, wenn man die Intensität der Lampe
+von 100% auf 1% reduziert. Mache bei 50% Intensität auch ein
+Simulationsexperiment mit 2000 Elektronen, um zu sehen, dass die
+theoretische Verteilung in der Simulation auch realisiert wird und zeichne
+diese Verteilung unten ein.
+[pic]
+Ergebnis: Mit der schwächer werdenden Lampe entsteht das Interferenzmuster
+nach und nach wieder. Die Verteilung ist eine Mischung aus klassischer
+Verteilung und Interferenzverteilung.
+Gedankenexperiment: Die Lampe werde so angebracht, dass sie nur noch die
+Elektronen durch Spalt 1 registrieren kann. Man erhält kein
+Interferenzbild, denn auch von den nicht registrierten Elektronen hat man
+eine Information: sie müssen durch Spalt 2 gegangen sein.
+Auch in diesem Fall kollabiert Wahrscheinlichkeitsamplitude der Elektronen
+durch Spalt 2, obwohl kein Photon sie berührt einziges hat. Diese Art der
+Messung nennt man eine berührungsfreie Messung. Selbst, wenn nur ein
+Elektron durch die Anordnung fliegt und dies gar nicht gemessen wird, da es
+nicht durch Spalt 1 gelangt, so trägt auch dieses einzelne Elektron zur
+Verteilung von Spalt 2 bei und kann an einer Stelle auftreffen, an der es
+nach der eigentlich Interferenzverteilung unmöglich ist.
+
+
+
+[pic]
+
+
+
+
+9.) Nichtlokalität, Nichtobjektivierbarkeit und Welcher-Weg-Information
+
+Da die Messung an Spalt 1 die Wahrscheinlichkeitsamplitude der Elektronen
+von Spalt 2 und somit die Verteilung verändert, sagt man die Quantenwelt
+sei nichtlokal. Es muss gar nicht wirklich gemessen werden, alleine die
+"Androhung" einer Messung an einem ganz anderen Ort zerstört die
+Interferenz, wenn man daraus eine "Welcher-Weg-Information" über die
+Quanten ziehen kann. Man kann also den Quanten nicht nur objektiv keine
+Bahn zu ordnen, wie es das Superpositionsprinzip besagt. Jeder Versuch den
+Durchflugspalt objektiv zu machen oder eine Welcher-Weg-Information zu
+erhalten, zerstört die Interferenz. Da man die Bahnen nicht objektiv machen
+kann das Ergebnis schlagartig zu ändern, nennt man dies die
+Nichtobjektivierbarkeit der Quanten. [Vgl. DB, S. 252].
+
+10.) Komplementarität
+
+"Welcher-Weg-Information" und Interferenz sind also zwei sich
+ausschließende, aber auch gegenseitig ergänzende Eigenschaften von Quanten.
+Man nennt sie daher komplementär. Mit der Komplementarität drückt man eine
+ganz grundlegende Eigenschaft von Quanten aus, die sowohl die
+quantenmechanische Messung, als auch die sogenannte Unbestimmtheitsrelation
+(s.u.) miteinschließt.
+
+
+Vierter Wesenszug der Quantenphysik: Komplementarität
+
+
+      "Welcher-Weg-Information" und Interferenz schließen sich prinzipiell
+   gegenseitig aus.
+
+
+      Auch wenn das Quantenobjekt selbst nicht gemessen wurde, die
+   Anordnung aber so eingerichtet ist, dass durch eine Messung (auch an
+   einem völlig anderen Ort) ein Rückschluss auf den Zustand des
+   Quantenobjekts möglich ist, so verschwindet das Interferenzbild.
+
+
+      Die Wahrscheinlichkeitsamplitude des Quantenobjekts kollabiert dann.
+
+V. Anwendungen der quantenmechanischen Prinzipien
+
+1.) Schrödingers Katze
+
+Die Superposition erlaubt es, dass Quantenobjekte in Überlagerungszuständen
+sein können: sie sind in einem gewissen Sinn an verschiedenen Orten
+gleichzeitig, besetzen verschiedene Energieniveaus gleichzeitig, haben
+gleichzeitig verschiedene Spinrichtungen. Können auch makroskopische
+Objekte solche Überlagerungszustände haben? Wo ist die Grenze zwischen
+klassischer Physik und Quantenphysik?
+
+Eng mit diesen Fragen ist das Messproblem verbunden: wie wird der
+Überlagerungszustand aufgehoben und wie kollabiert die
+Wahrscheinlichkeitsamplitude bei einer Messung? Welcher Zustand entsteht
+dabei? Die Diskussion ging hier vom Messpostulat zur heute aktuellen
+Dekohärenztheorie.
+
+Viele Ergebnisse und Überlegungen in bezug auf diese Fragen sind unter dem
+Stichwort "Schrödingers Katze" zusammengefasst. Man kann Ergebnisse dazu
+auch von Schülern erarbeiten lassen, da sich im Internet, in zugänglichen
+Zeitschriften wie z.B. "Spektrum der Wissenschaft", in populären Büchern
+oder auch im Physikbuch einiges dazu finden lässt. Das folgende Blatt wurde
+als Hausaufgabe gestellt. Mögliche Antworten sind mit Schreibschrift
+eingetragen.
+
+Hier einige Literatur zum Thema:
+
+Ph. Yam, Das zähe Leben von Schrödingers Katze; Sp.d.W. Digest 1/1999, S.
+28
+B. Röthlein, Schrödingers Katze, dtv 1999
+J. Gribbin, Auf der Suche nach Schrödingers Katze, Piper 1993
+J. Audretsch (Hrsg.), Wie viele Leben hat Schrödingers Katze?, Spektrum
+Akad. V. 1996
+
+
+
+                                                              Arbeitsblatt 5
+
+                             Schrödingers Katze
+
+
+
+Beim Doppelspalt befindet sich jedes Elektron in einem Überlagerungszustand
+"Spalt 1 und Spalt 2". Diese Situation erscheint paradox. Schrödinger
+versuchte diese unglaubwürdige Vorhersage der Quantenphysik am Beispiel
+eine Katze zu verdeutlichen.
+
+
+1.) Lies seine Argumentation auf Seite 292.B nach und fasse sie kurz
+zusammen. Ziehe dabei auch die quantenmechanischen Prinzipien mit ein.
+
+         Das ?-Teilchen ist, solange keine Messung gemacht wird, im
+         Überlagerungszustand
+         ? ' ?zerfallen+?unzerfallen (Superpositionsprinzip). Es ist somit
+         in einem gewissen Sinne zugleich zerfallen und unzerfallen.
+         Dementsprechend ist auch die Katze, die davon abhängt, im
+         Überlagerungszustand "lebendig und tot", ihre
+         Wahrscheinlichkeitsamplitude ist
+         ? ' ?lebend+?tot. Was soll aber eine Katze sein, die zugleich
+         lebend und tot ist?
+
+2.) Was passiert beim Messen, also beim Nachgucken mit der Katze? Erkläre
+das mit den quantenmechanischen Prinzipien (vgl. Buch S. 293). Wie ist die
+Kopenhagener Interpretation dieses Phänomens?
+
+
+         Sobald gemessen wird, in diesem Falle also nachgeguckt wird, was
+         mit der Katze ist, kollabiert der Überlagerungszustand ? '
+         ?lebend+?tot zu ?lebend oder  ?tot, die Katze geht also entweder in
+         den realen Zustand "lebend", oder in den realen Zustand "tot" über
+         (Messpostulat). Die Kopenhagener Interpretation sagt über das Sein
+         der Katze vor der Messung nichts aus, sondern behauptet, dass durch
+         die quantenmechanische Messung die Realität erst erzeugt wird.
+
+3.) Erkläre, wie man heute mit Hilfe der Dekohärenz versucht, diesen
+anscheinenden Widerspruch aufzuheben (vgl. Buch S. 293).
+
+         Die Dekohärenztheorie behauptet, dass Einwirkungen von außen
+         (Höhenstrahlung, Hintergrundstrahlung,...) den Überlagerungszustand
+         nach kürzester Zeit (bei einer Katze ca.
+         10-20s) aufheben. Somit gibt es Realität auch ohne dass gemessen
+         wird: die Katze lebt oder ist tot, auch wenn niemand nach ihr
+         guckt.
+
+
+2.) Das Bombentestproblem
+
+Interferometerexperimente und ihre Deutung bieten nochmals die Gelegenheit
+alle Prinzipien einzuüben. Um einen anderen Einstieg zu haben, wird hier
+vorgeschlagen, sozusagen von hinten anzufangen, als Einstiegsproblem also
+den Bombentest zu wählen. Ein Unterrichtskonzept mit diesem Einstieg findet
+sich in
+www.ap.univie.ac.at/users/fe/MERLIN_MPI/konzept.htm.
+Zum Bombentest selber (auch Dorn-Bader benutzt ihn als zentrales Problem,
+S.250; er nennt ihn allerdings Knallertest) finden sich zahlreiche
+Internetadressen. Ich erwähne hier als Beispiel
+www.ap.univie.ac.at/users/fe/Quantentheorie/sciweek2000
+mit einer Simulation zum Bombenproblem.
+
+Hintergrund ist folgendes von Elitzur und Vaidman gestelltes Problem: es
+wurden Bomben produziert, die sehr empfindliche Zünder haben. Schon, wenn
+ein einziges Photon auf den Zünder fällt, wird die Bombe gezündet. Leider
+sind einige Bomben ohne Zünder hergestellt worden. Wie kann man wenigstens
+einige garantiert einwandfreie Bomben erkennen und retten? Bei welchem
+Prozentsatz ist das möglich?
+
+3.) Das Mach-Zehnder-Interferometer
+
+Die einfachste Version des Interferometers arbeitet mit 2 Detektoren:
+                                    [pic]
+
+ST  sind Strahlteiler, Sp Spiegel. Bei Reflexion am Strahlteiler ergibt
+sich durch Überlagerung der Reflexion an Vorderseite (Phasensprung ?/2) mit
+der Reflexion an der Rückseite (kein Phasensprung) ein Phasensprung von
+?/4. Bei vollkommen symmetrischem Aufbau ist also bei Detektor 2 zwischen
+oberem und unterem Strahl ein Gangunterschied von 0, also Verstärkung. Für
+Detektor 1 ergibt sich ein Gangunterschied von ?/2, also Auslöschung.
+
+
+
+Im Realexperiment sind aber die Strahlen leicht divergent, der
+Gangunterschied hängt daher auch vom Winkel ab. Somit ergeben sich in
+Wirklichkeit Ringe auf Schirmen. In dem Simulationsprogramm
+"Interferometer" der Münchner Physikdidaktik (downloadbar von
+www.physik.uni-muenchen.de/sektion/didaktik/Computer) ist nur ein Schirm
+anstelle von Detektor 2 dargestellt, er zeigt Ringe.
+Bevor wir das Realexperiment vorführen, sollen die weiteren
+Experimentiermöglichkeiten dargestellt werden, mit denen die Schüler anhand
+der Simulationsprogramme die quantenmechanischen Prinzipien wiedererkennen
+und einüben können (s. AB6):
+
+1.) Einzelphotonen (Wahrscheinlichkeitsprinzip). Hier können einzelne
+Photonen eingestellt werden.
+2.) Jeweils ein Detektor im Strahlengang (Superpositionsprinzip). Vergleich
+der Verteilungen, wenn jeweils ein Strahlengang unterbrochen ist
+(Detektoren werden hier nur zum Unterbrechen benutzt, nicht als
+Messgeräte).
+3.) Zwei Detektoren im Strahlengang (Messpostulat). Jedes Photon wird auf
+einem der Wege registriert.
+4.) Polarisatoren in den Strahlengängen (Komplementarität). Interferenz
+verschwindet nach und nach, wenn die zunächst parallelen
+Polarisationsfolien auf senkrechte Stellung gedreht werden (> Welcher-Weg-
+Information).
+5.) Quantenradierer (Komplementarität). Eine dritte Polarisationsfolie löst
+die Weg-Information wieder auf, und das Interferenzbild entsteht wieder.
+
+Polarisatoren und Quantenradierer können natürlich auch klassisch erklärt
+werden, dies ist jedoch aufwendig, da je nach Ort linear und zirkular
+polarisierte Wellen abwechseln.
+
+4.) Erklärung zum Bombentest
+
+Der Bombentest ist eine berührungsfreie Quantenmessung. Befindet sich eine
+intakte Bombe mit Zünder auf dem oberen Weg, so kann ein Photon auf den
+unteren Weg gelangen (Wahrscheinlichkeit 1/2) und von dort in Detektor 1
+(wieder mit Wahrscheinlichkeit 1/2).
+                                    [pic]
+Mit 25%-ger Wahrscheinlichkeit fällt ein Photon also in den Detektor 1, was
+ohne intakten Zünder unmöglich ist. Man kann dann also sicher sein, dass
+eine intakte Bombe vorliegt. Mit 50%-ger Wahrscheinlichkeit wird die
+intakte Bombe zerstört, da das Photon den oberen Weg wählte. Mit 25%-ger
+Wahrscheinlichkeit gelangt das Photon in Detektor 2, woraus man keine
+Rückschlüsse über die Bombe machen kann. Man kann das Experiment dann mit
+derselben Bombe wiederholen. Die Gesamtwahrscheinlichkeit die intakte Bombe
+unbeschädigt zu sichern ist also [pic]. Diese Wahrscheinlichkeit kann noch
+erhöht werden (vgl. Kwiat, Weinfurter, Zeilinger; Wechselwirkungsfreie
+Quantenmessung, Spektrum d. Wiss. Digest 1/1999, S.20).
+                                                              Arbeitsblatt 6
+                          Simulation Interferometer
+
+Das Programm "Interferometer" zeigt den Aufbau eines Mach-Zehnder-
+Interferometers. An die Stellen P1 und P2 können jeweils Detektoren oder
+Polarisationsfolien gesetzt werden, an P3 eine Polarisationsfolie.
+
+
+                                    [pic]
+
+a.) Aktiviere das Kontrollkästchen "Einzelne Photonen". Mit der linken
+Maustaste auf der Quelle kann die Anzahl der Photonen pro Sekunde
+eingestellt werden. Beschreibe das Schirmbild nach wenigen Photonen.
+Drücke dann "Tempo"  und beschreibe wieder. Welches quantenmechanische
+Prinzip wird durch dieses Experiment verdeutlicht?
+
+
+
+b.) Blockiere Weg 1 durch Detektor 1 (es ist hier unwesentlich, dass der
+Detektor auch Photonen zählen kann). Beschreibe die Verteilung! Welches
+quantenmechanische Prinzip wird durch dieses Experiment verdeutlicht?
+
+
+
+c.) Baue in beide Wege einen Detektor ein! Vergleiche die Anzahl der von
+den Detektoren nachgewiesenen Photonen mit der Gesamtzahl der ausgesandten
+Photonen. Welches quantenmechanische Prinzip wird durch dieses Experiment
+verdeutlicht?
+
+
+
+d.) Was passiert, wenn man an Position P1 einen vertikalen und an Position
+P2 ebenfalls einen vertikalen Polarisator anbringt? Vermute erst und
+überprüfe dann in der Simulation! Was passiert mit der Verteilung, wenn P2
+langsam auf horizontale Position gedreht wird? Welches quantenmechanische
+Prinzip wird durch dieses Experiment verdeutlicht?
+
+
+
+e.) Was passiert, wenn man an Position P1 einen vertikalen, an Position P2
+einen horizontalen Polarisator und an Position P3 einen 45° Polarisator
+anbringt? Vermute erst und überprüfe dann in der Simulation! Drehe P3 auch
+in verschiedene Stellungen und teste die Verteilungen!
+
+5.) Delayed-Choice-Experiment
+
+Erstaunlicherweise kann man das Versuchsergebnis noch beeinflussen, wenn
+das Quantenobjekt den ersten Strahlteiler bereits hinter sich hat. In einem
+solchen Delayed-choice-Experiment werden zusätzliche Lichtlaufstrecken
+eingebaut, die so lange sind, dass während der Laufzeit durch diese
+Zusatzwege eine schnell umschaltbare Wegblockade geöffnet oder geschlossen
+werden kann (Pockelzelle).
+
+                                    [pic]
+
+Zunächst ist der obere Weg gesperrt, es dürfte keine Interferenz geben,
+d.h. die Hälfte der Photonen gelangt in Detektor 1. Während sich ein Photon
+im zusätzlichen Laufweg befindet, wird die Blockade geöffnet. Die
+nachträgliche Öffnung bewirkt, dass die Photonen wieder zur Interferenz
+beitragen, also alle in Detektor 2 gelangen. Quantenobjekte sind nicht nur
+räumlich, sondern auch zeitlich "nicht-lokal". Sie tasten beide Wege ab,
+und sind nicht einfach auf einem nicht-blockierten Weg unterwegs.
+
+
+
+
+
+
+VI. Interferometer- Experimente
+
+
+Die praktische Durchführung von Interferometerexperimenten erfordert etwas
+Übung. Es eignet sich z.B. der Aufbau von Leybold (Metallplatte mit
+Magnetfüßen oder Marmorplatte). Dazu gehören zwei Strahlteiler, 2 Spiegel
+und Laser. Die Aufweitung des Lasers kann mit einer 50mm-Linse erfolgen.
+Wichtig ist, dass sich die Spiegel fein verstellen lassen. Zunächst sollte
+man mit dem wesentlich einfacheren Michelson-Interferometer üben, bevor man
+sich an das Mach-Zehnder-Interferometer wagt. Für den Quantenradierer
+braucht man außerdem 3 verstellbare Polarisationsfolien.
+
+
+VII. Erweiterungen im Zeigerformalismus
+
+
+1.) Zeigerformalismus ohne Messungen
+
+Man kann mit Hilfe der Quantenmechanik das Verhalten von Quantenobjekten
+auch konkret vorausberechnen - wenn man nur die
+Wahrscheinlichkeitsamplitude ? berechnen kann. Zwar ist das Verhalten eines
+Einzelobjekts nicht berechenbar, aber man kann Wahrscheinlichkeitsaussagen
+über ein Ensemble von gleich präparierten Quantenobjekten machen. Das
+Prinzip wurde beim Superpositionsprinzip erklärt: man muss einen
+resultierenden Zeiger bestimmen, für die Wahrscheinlichkeit muss die
+Zeigerlänge quadriert werden.
+Hat man die Optik mit dem Zeigerformalismus ausgeführt, so kann man sehr
+schnell, den dort erarbeiteten Formalismus erweitern, denn man muss
+eigentlich nur Intensitäten als Wahrscheinlichkeiten interpretieren. Das
+geht allerdings nur, wenn keine Messungen am Quantenobjekt unternommen
+werden: man ist dann in der Situation des zweiten Grundprinzips
+(Superpositionsprinzip), das aus der Wellenlehre bekannt ist.
+Diese Regeln werden in AB 7 noch einmal zusammengefasst. Es wird davon
+ausgegangen, dass diese Regeln aus der Optik bekannt sind und in
+Simulationsprogrammen (Bader u.a.) für optische Anordnungen (Spalt, Spiegel
+etc.) eingeübt wurden. Den Quanten wurde über die DeBroglie'sche Beziehung
+eine Wellenlänge zugeordnet. Da sie ein Ensemble bilden, haben alle Quanten
+dieselbe Wellenlänge. Schreibschrifteintragungen und Zeichnungen
+(Verteilungen, Zeigerdiagramme) wurden mit den Schülern eingezeichnet.
+Es sei darauf hingewiesen, dass man die Intensitätsabnahme mit der
+Entfernung nicht berücksichtigt hat: eigentlich müsste die Zeigerlänge
+unterwegs abnehmen. Daher ist die Intensitätsverteilung eines ganz schmalen
+Einzelspalts einfach konstant und nimmt nicht nach außen ab.
+
+Außer mit Simulationsprogrammen gibt es noch weitere Möglichkeiten, die
+Wirkung der Regeln zu verinnerlichen:
+
+1.) Lichtrad: Eine sehr unmittelbare Möglichkeit ist das Lichtrad. Man
+zeichnet die Anordnung auf dem Schulhof auf und fährt mit einem Rad mit
+Winkelskala die möglichen Wege ab. Die Winkelstellungen des Rades am Ende
+werden aufgeschrieben und dann die zugehörigen Zeiger vektoriell addiert.
+Als Beispiel dafür ist in AB 8 die geradlinige Lichtausbreitung aufgeführt.
+Hier ergibt sich auch bei ungenauer Messung nach Vektoraddition die Cornu-
+Spirale, also tragen nur die Wege um 0 herum zum resultierenden Zeiger bei.
+
+2.) Berechnung mit Taschenrechner: Man berechnet für ausgewählte Wege die
+Zeigerstellungen mit dem Taschenrechner und führt dann die Vektoraddition
+mit dem Geodreieck aus, oder addiert die Komponenten der Zeiger wieder mit
+dem Taschenrechner.
+
+3.) Tabellenkalkulation: Für z.B. den Dreifachspalt gibt man in einer
+Tabellenkalkulation die x-Werte auf dem Schirm ein und lässt in
+Abhängigkeit von ? und den Daten der Anordnung die Zeiger berechnen. Die
+Formeln dazu wurden ja in den Regeln dargestellt. Die Verteilung kann man
+sich dann in einem Diagramm darstellen lassen.
+
+4.) CAS-System, z.B. Maple: Die Formeln lassen sich in Maple eingeben, die
+Verteilungen können als Kurven ausgegeben werden.
+
+5.) Eigene Programme, z.B. in Delphi: Auch von Schülern wurden schon oft
+Simulationsprogramme geschrieben. Das kostet aber viel Zeit. Schneller
+gehen Programme die nur die Schirmverteilungen mit den Zeigerregeln
+berechnen.
+
+Man kann die unterschiedlichen Veranschaulichungsmöglichkeiten auch von
+verschiedenen Gruppen erarbeiten lassen, die danach ihre Ergebnisse
+vortragen.
+
+
+                                                              Arbeitsblatt 7
+      Regeln zur Bestimmung von Übergangswahrscheinlichkeiten  mit der
+              Zeigermethode ohne Berücksichtigung von Messungen
+
+Gegeben sei eine Quelle Q, ein Detektor D und dazwischen eine Anordnung  wie
+z.B.  ein  Dreifachspalt.  Den  Quanten  der  Quelle  ist   eine   bestimmte
+Wellenlänge  ?  zugeordnet.  Mit  folgenden   Regeln   berechnen   wir   die
+Wahrscheinlichkeit P(Q>D), dass  ein  Quant  von  der  Quelle  Q  durch  die
+Anordnung zum Detektor D gelangt.
+
+[pic]
+
+(1) Jedem möglichen Weg w von Q nach D  wird  ein  Zeiger  ?w  der  Länge  1
+zugeordnet.
+
+(2) Die Zeigerrichtung des Zeigers zum Weg w findet man so:
+      man denkt sich, dass der Zeiger auf einem Rad vom Umfang ? angebracht
+      ist, das auf dem Weg w von Q nach D rollt. Der Zeiger startet in der
+      Quelle immer in der 0°-Stellung (senkrecht nach oben). Die Endstellung
+      des Zeigers auf dem Rad, wenn es im Detektor D angelangt ist, ist die
+      gesuchte Zeigerrichtung. Man kann die Zeigerstellung durch den Winkel
+      des Zeigers gegen die 0°-Richtung beschreiben (das ist die sogenannte
+      Phase).
+       Berechnung der Zeigerrichtung zum Weg w:
+
+
+         Bestimme die Anzahl k der  vollen  Umdrehungen  des  Rades:  [pic],
+         wobei l(w) die Weglänge und die Klammer die Gaußklammer bezeichnet.
+         Dann  ist  [pic]  die  Phase  zum  Weg  w.  Der  Zeiger  [pic]   in
+         Vektorschreibweise [pic]
+
+
+(3) Bestimme den resultierenden Zeiger ?, wenn  an  keiner  Stelle  gemessen
+  wird:
+
+         [pic]  (Superpositionsprinzip bei ununterscheidbaren Wegen)
+
+(4) P(Q>D) ~ [pic]
+                                                              Arbeitsblatt 8
+
+                 Warum ist die Lichtausbreitung geradlinig?
+
+Versuch  mit  dem  Lichtrad:   Gegeben   ist   ein   Koordinatensystem   mit
+Einheitslänge 1m. Die einfarbige Lichtquelle  befindet  sich  am  Punkt  L(-
+5|0), der Empfänger am Punkt E(5|0). Eigentlich erwarten wir, dass das  sich
+Licht nur geradlinig von L nach E ausbreitet. Nach den  Regeln  müssen  aber
+wir alle möglichen Wege von L nach E berücksichtigen.  Wir  betrachten  hier
+alle Wege über Punkte [pic] auf der y-Achse zwischen (0|-5) und (0|+5).
+[pic]
+
+Laufe mit dem Lichtrad diese Wege ab und bestimme die Phase[pic] der  Zeiger
+zu den Wegen. Trage die Werte  in  die  Tabelle  ein.  Aus  Symmetriegründen
+betrachten wir nur positive y-Werte.
+
+|[pic]|0,0  |0,2  |0,4  |0,6  |0,8  |1,0  |1,2  |1,4  |1,6  |1,8  |
+|[pic]|     |     |     |     |     |     |     |     |     |     |
+|(°)  |     |     |     |     |     |     |     |     |     |     |
+|[pic]|2,0  |2,2  |2,4  |2,6  |2,8  |3,0  |3,2  |3,4  |3,6  |3,8  |
+|[pic]|     |     |     |     |     |     |     |     |     |     |
+|(°)  |     |     |     |     |     |     |     |     |     |     |
+|yP   |4,0  |4,2  |4,4  |4,6  |5,0  |
+|[pic]|     |     |     |     |     |
+|(°)  |     |     |     |     |     |
+
+Addiere die zu den Winkeln gehörigen Zeiger mit Zeigeraddition. Wie könnte
+man die sich ergebende Figur beschreiben?
+Wie kann man mit dieser Figur begründen, dass sich Licht geradlinig
+ausbreitet?
+2.) Zeigerformalismus mit Messungen
+
+Bisher wurden die quantenphysikalischen Prinzipien 3 und 4, die Messungen
+betreffen, im Zeigerformalismus nicht berücksichtigt. Fraglich, ob Schüler
+die Erweiterungen der Regeln für diese Situation selber finden können. In
+AB 9 werden diese Regeln anhand eines Vierfachspalts, bei dem an 2 Spalten
+gemessen wird, erarbeitet.
+Zunächst fehlen die Zeigerdiagramme und die Verteilung. Um zunächst die
+Verteilung zu entdecken muss man sich überlegen, dass Spalt 3 und Spalt 4
+interferieren, während die Spalte 1 und 2, bei denen man "Welcher-Weg-
+Information" hat, zu Einzelverteilungen beitragen, die hier konstant sind,
+da man Intensitätsabnahme nach außen durch größere Entfernungen nicht
+berücksichtigt (s.o.). Es ergibt sich als Intensitätsdiagramm also die
+Doppelspaltverteilung, zu der zwei konstante Einzelverteilungen dazuaddiert
+werden.
+Jetzt überlegt man sich die zugehörigen Zeigerdiagramme. Die größte
+Schwierigkeit ist, eine allgemeingültige Formulierung zu finden. Die
+Gesamtheit der Wege wird in Mengen ununterscheidbarer Wege eingeteilt,
+denen jeweils ein resultierender Zeiger zugeordnet wird. Dann muss man die
+zugehörigen Wahrscheinlichkeiten addieren.
+
+Es gäbe viele Möglichkeiten in verschiedenen Situationen die Regeln zu
+testen. So könnte man den doppelten Doppelspalt (zwei Doppelspalte
+hintereinander), mit Messungen an einem Doppelspalt berechnen. Die
+Berechnungsmöglichkeiten sind gleich wie beim Zeigerformalismus ohne
+Messungen: Lichtrad, mit Taschenrechner, Tabellenkalkulation, CAS, Eigene
+Programme. Als Übung wurde der Dreifachspaltung mit und ohne Messung mit
+Taschenrechner und mit Tabellenkalkulation gemacht (s. AB 10).
+
+
+
+VIII. Simulationsprogramme
+
+
+Die Simulationsprogramme werden auf separaten Blättern erklärt und
+vorgestellt.
+
+
+                                                              Arbeitsblatt 9
+
+ Regeln zur Bestimmung der Übergangswahrscheinlichkeit mit der Zeigermethode
+                    unter Berücksichtigung von Messungen
+
+
+Gegeben sei eine Quelle Q, ein Detektor D und dazwischen eine Anordnung  wie
+z.B. ein Vierfachspalt. Durch die Anordnung sollt sich  ein  Quant  bewegen,
+dem eine bestimmte Wellenlänge ? zugeordnet ist.  An  verschiedenen  Stellen
+darf  auch  gemessen  werden.  Mit  folgenden  Regeln  berechnen   wir   die
+Wahrscheinlichkeit, P(Q>D) dass  das  Quant  von  der  Quelle  Q  durch  die
+Anordnung zum Detektor D gelangt.
+[pic]
+
+(1) Jedem möglichen Weg w von Q nach  D  wird  ein  Zeiger  (Pfeil)  ?w  der
+  festen Einheitslänge 1 zugeordnet.
+
+(2) Die Zeigerrichtung von ?w findet man wieder durch das auf dem Weg
+  abrollende Zeigerrad, wie bei Regel (2) ohne Messung.
+
+ (3) Teile die Menge A  aller  möglichen  Wege  auf  in  Mengen,  die  durch
+  Messungen nicht voneinander unterscheidbar sind:[pic] . Die Wege, die  zu
+  W1 gehören, sind durch Messungen nicht voneinander  unterscheidbar,  d.h.
+  es gibt keinerlei Messungen auf welchem der Wege, die zu W1 gehören,  das
+  Quant  gewesen  sein  könnte.  Demgegenüber  kann   man   durch   Messung
+  herausfinden, ob das Quant auf einem der Wege von W1 oder auf  einem  der
+  Wege von W2 unterwegs war.
+      Alle  Zeiger,  die  zu  W1  gehören,  werden  vektoriell  addiert  zum
+  resultierenden Zeiger ?1, ebenso die Zeiger, die  zu  W2  gehören  zu  ?2
+  usw..
+
+(4) P(Q>D) ~ [pic]
+
+
+                                                             Arbeitsblatt 10
+                                Dreifachspalt
+
+
+[pic]
+Elektronen werden in einem Experiment aus einer Quelle Q auf einen
+Dreifachspalt mit Gitterkonstante g im Abstand s geschossen. Im Abstand a
+vom Spalt kann entlang einer x-Achse ein Detektor D verschoben werden.
+Die Wellenlänge ? sei 1 LE. Wähle in c.) und f.) s=2 LE, g=1,5 LE und a=4
+LE.
+
+a.) Warum müssen für ein deutliches Interferenzmuster alle Elektronen die
+gleiche Geschwindigkeit haben?
+
+
+
+b.) Skizziere das Interferenzmuster auf dem Schirm "Ohne Messung".
+
+c.) Berechne  ? bzw. P, für einen Detektor mit x=2,5 LE.
+
+d.) Berechne mit Hilfe einer Excel-Tabellenkalkulation und den Zeigerregeln
+das zugehörige Interferenzmuster und stelle es graphisch dar.
+
+e.) Nun wird der Spalt C beleuchtet, so dass man feststellen kann, ob ihn
+ein Elektron passiert. Welches Ergebnis erwartet man nun auf dem Schirm?
+Skizziere das Interferenzmuster auf dem Schirm "Mit Messung" und beschreibe
+wie man dieses Ergebnis mit Hilfe der Zeigerregeln bekommt. Zeichne auch
+ein Beispiel-Zeigerdiagramm.
+
+f.) Berechne wieder ? bzw. P, für einen Detektor mit x=2,5 LE.
+
+g.) Berechne mit Hilfe einer Excel-Tabellenkalkulation und den Zeigerregeln
+das zugehörige Interferenzmuster und stelle es graphisch dar.
+
+g.) Welche Intensitätsverteilung ergibt sich, wenn an Spalt B und an Spalt
+C gemessen wird?
+
+
+
+

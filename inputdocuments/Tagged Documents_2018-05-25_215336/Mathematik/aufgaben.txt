@@ -1,0 +1,920 @@
+1 Vektoren, Matrizen, Determinanten, Eigenwerte,
+ Eigenvektoren
+
+1.1 Lineare Abhängigkeit
+
+Untersuchen Sie folgende Vektoren auf lineare Abhängigkeit bzw. Unabhängigkeit. Bei linearer Abhängigkeit stelle man einen der Vektoren als Linearkombination der anderen dar.
+
+702.    
+a1=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 988 by 2540, depth 1
+pict001.wmf,    
+a2= ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1058 by 2540, depth 1
+pict002.wmf,   
+a3= ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1199 by 2540, depth 1
+pict003.wmf
+
+704.    
+a1= ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1058 by 2540, depth 1
+pict004.wmf,   
+a2= ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1058 by 2540, depth 1
+pict005.wmf,   
+a3= ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1058 by 2540, depth 1
+pict006.wmf
+
+708.    
+a1=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 670 by 1976, depth 1
+pict007.wmf,    
+a2=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 1976, depth 1
+pict008.wmf,    
+a3=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 1976, depth 1
+pict009.wmf
+
+709.    
+a1=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 988 by 3175, depth 1
+pict010.wmf,    
+a2=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 988 by 3175, depth 1
+pict011.wmf,    
+a3=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 988 by 3175, depth 1
+pict012.wmf,    
+a4=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 988 by 3175, depth 1
+pict013.wmf
+
+
+Die Vektoren a, b, c Î R^n (n>=4) sind linear unabhängig.
+Zeige:
+
+a)      
+a + b  3c, a + 3b  c, b + c     
+sind linear abhängig.
+
+b)      
+a + b  2c, a  b  c, a + c       
+sind linear unabhängig.
+
+
+Die Vektoren a1, a2, a3, a4 bilden eine Basis des R^4. Beweisen Sie diese Behauptung. Berechnen Sie die Koordinaten des Vektors b bezüglich dieser Basis.
+
+726.    
+a1=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 2540, depth 1
+pict014.wmf,    
+a2=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 988 by 2540, depth 1
+pict015.wmf,    
+a3=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 2540, depth 1
+pict016.wmf,    
+a4=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 2540, depth 1
+pict017.wmf
+
+b=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1058 by 2540, depth 1
+pict018.wmf
+
+
+Untersuchen Sie folgende Vektoren auf lineare Abhängigkeit bzw. Unabhängigkeit. Bei linearer Abhängigkeit stelle man einen der Vektoren als Linearkombination der anderen dar.
+
+703.    
+a1=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1058 by 2540, depth 1
+pict019.wmf,    
+a2=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 2540, depth 1
+pict020.wmf,    
+a3=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1235 by 2540, depth 1
+pict021.wmf,    
+a4=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1058 by 2540, depth 1
+pict022.wmf
+
+705.    
+a1=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 1976, depth 1
+pict023.wmf,    
+a2=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 1976, depth 1
+pict024.wmf,    
+a3=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 917 by 1976, depth 1
+pict025.wmf
+
+707.    
+a1=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 3175, depth 1
+pict026.wmf,    
+a2=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 3175, depth 1
+pict027.wmf,    
+a3=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 3175, depth 1
+pict028.wmf,    
+a4=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 3175, depth 1
+pict029.wmf,    
+a5=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 3175, depth 1
+pict030.wmf
+
+
+Für welche sÎR sind folgende Vektoren linear abhängig (komplanar)?
+
+715.    
+a1=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1023 by 1976, depth 1
+pict031.wmf,    
+a2=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 706 by 1976, depth 1
+pict032.wmf,    
+a3=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 1976, depth 1
+pict033.wmf
+
+716.    
+a1=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 847 by 1976, depth 1
+pict034.wmf,    
+a2=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 706 by 1976, depth 1
+pict035.wmf,    
+a3=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 706 by 1976, depth 1
+pict036.wmf
+
+717.    
+a1=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 706 by 1976, depth 1
+pict037.wmf,    
+a2=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 1976, depth 1
+pict038.wmf,    
+a3=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 1976, depth 1
+pict039.wmf
+
+718.    
+a1=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1235 by 1976, depth 1
+pict040.wmf,    
+a2=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2364 by 1976, depth 1
+pict041.wmf,    
+a3=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1058 by 1976, depth 1
+pict042.wmf
+
+719.    
+a1=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 917 by 1976, depth 1
+pict043.wmf,    
+a2=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 706 by 1976, depth 1
+pict044.wmf,    
+a3=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 1976, depth 1
+pict045.wmf
+
+
+Die Vektoren a1, a2, a3 bilden eine Basis des R³. Beweisen Sie diese Behauptung. Berechnen Sie die Koordinaten des Vektors b bezüglich dieser Basis.
+
+725.    
+a1=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1058 by 1976, depth 1
+pict046.wmf,    
+a2=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 1976, depth 1
+pict047.wmf,    
+a3=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 988 by 1976, depth 1
+pict048.wmf
+
+
+        
+b=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 741 by 1976, depth 1
+pict049.wmf
+
+
+1.2 Rechnen mit Matrizen
+
+Gegeben seien
+
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2187 by 1976, depth 1
+pict050.wmf,     
+B=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1623 by 1976, depth 1
+pict051.wmf,     
+        
+C= ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2258 by 1270, depth 1
+pict052.wmf
+
+Man berechne:
+
+a)      
+(A * B) * C,    
+        
+b)      
+A * (B * C),    
+        
+c)      
+A^2 - B * C,
+
+d)      
+C * B  2 * ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1341 by 1270, depth 1
+pict053.wmf,    
+e)      
+transpose(A * B),       
+f)      
+transpose(B)*transpose(A),
+g)      
+A * (B + transpose(C)), 
+h)      
+transpose(C * A + transpose(B)),
+
+i)      
+transpose(A) * transpose(C) + B
+
+
+
+Berechnen Sie folgende Matrizenprodukte.
+
+993.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3210 by 2540, depth 1
+pict054.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2575 by 2540, depth 1
+pict055.wmf       
+        
+994.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1341 by 1270, depth 1
+pict056.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2575 by 1270, depth 1
+pict057.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1305 by 1270, depth 1
+pict058.wmf
+
+995.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2822 by 1976, depth 1
+pict059.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3210 by 1976, depth 1
+pict060.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3457 by 1976, depth 1
+pict061.wmf
+
+996.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 1976, depth 1
+pict062.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2434 by 1976, depth 1
+pict063.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 1976, depth 1
+pict064.wmf
+
+997.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2575 by 1976, depth 1
+pict065.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1341 by 2540, depth 1
+pict066.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 1270, depth 1
+pict067.wmf
+
+998.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2328 by 600, depth 1
+pict068.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2575 by 1976, depth 1
+pict069.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1905 by 1976, depth 1
+pict070.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2150 by 1270, depth 1
+pict071.wmf
+
+999.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 1976, depth 1
+pict072.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2893 by 1976, depth 1
+pict073.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1976 by 2540, depth 1
+pict074.wmf
+
+1000.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1623 by 1270, depth 1
+pict075.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 1270, depth 1
+pict076.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2575 by 1976, depth 1
+pict077.wmf.### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1658 by 1976, depth 1
+pict078.wmf
+
+
+1.3 Rangbestimmung
+
+Bestimmen Sie mittels des Gauß`schen Algorithmus den Rang von:
+
+a)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2434 by 1976, depth 1
+pict079.wmf        
+        
+b)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2785 by 2540, depth 1
+pict080.wmf        
+c)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4233 by 1976, depth 1
+pict081.wmf
+
+d)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3881 by 3175, depth 1
+pict082.wmf        
+e)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4551 by 2540, depth 1
+pict083.wmf
+
+
+
+Berechnen Sie den Rang von A in Abhängigkeit von aÎR :
+
+1077.   
+        
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3069 by 1976, depth 1
+pict084.wmf
+
+
+
+Bestimmen sie den Rang folgender Matrizen.
+
+1067.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4480 by 5080, depth 1
+pict085.wmf        
+        
+1068.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4339 by 4445, depth 1
+pict086.wmf
+
+1069.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3845 by 3175, depth 1
+pict087.wmf        
+        
+1070.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3775 by 3175, depth 1
+pict088.wmf
+
+1071.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3316 by 3175, depth 1
+pict089.wmf        
+        
+        
+1072.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4055 by 3175, depth 1
+pict090.wmf
+
+1073.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3140 by 3175, depth 1
+pict091.wmf        
+        
+        
+1074.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3140 by 3175, depth 1
+pict092.wmf
+
+1076.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4904 by 3175, depth 1
+pict093.wmf
+
+
+Welchen Rang haben folgende Matrizen?
+
+1078.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3069 by 1976, depth 1
+pict094.wmf        
+        
+1079.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1905 by 1976, depth 1
+pict095.wmf        
+        
+1080.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2011 by 1976, depth 1
+pict096.wmf
+
+1081.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2258 by 1976, depth 1
+pict097.wmf        
+        
+        
+1082.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3104 by 2540, depth 1
+pict098.wmf        
+1083.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3175 by 1976, depth 1
+pict099.wmf
+
+1084.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1905 by 1976, depth 1
+pict100.wmf        
+        
+        
+1085.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3246 by 3175, depth 1
+pict101.wmf        
+1086.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2187 by 1976, depth 1
+pict102.wmf
+
+
+1.4 Inverse Matrix
+
+Berechnen Sie die zugehörigen inversen Matrizen der gegebenen Matrizen, unter Hinzunahme der adjungierten Matrizen.
+
+a)      
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 1270, depth 1
+pict103.wmf      
+        
+b)      
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3420 by 1270, depth 1
+pict104.wmf
+
+c)      
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 1976, depth 1
+pict105.wmf      
+        
+d)      
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 1976, depth 1
+pict106.wmf
+
+
+Berechnen Sie für die folgenden Matrizen die zugehörigen inversen Matrizen, unter Verwendung des Verfahrens von Gauss-Jordan.
+
+a)      
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 1976, depth 1
+pict107.wmf      
+        
+b)      
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2575 by 2540, depth 1
+pict108.wmf
+
+c)      
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3104 by 2540, depth 1
+pict109.wmf      
+d)      
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2785 by 2540, depth 1
+pict110.wmf
+
+
+
+Zeigen Sie, dass die Matrix A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2258 by 1976, depth 1
+pict111.wmf die Matrizengleichung A² - 3A + 2E = 0 erfüllt, und folgern Sie daraus, dass A die Inverse I = 1/2 (3E - A) besitzt.
+
+
+Für welche Werte von aÎR sind die folgenden Matrizen regulär? Bestimme für diese Werte die Inverse!
+
+a)      
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2893 by 2540, depth 1
+pict112.wmf      
+        
+b)      
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2611 by 2540, depth 1
+pict113.wmf
+
+
+Berechne für folgende Matrizen A die adjungierte Matrix A adj.
+
+973.    
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 1976, depth 1
+pict114.wmf      
+        
+974.    
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 1976, depth 1
+pict115.wmf      
+        
+975.    
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1870 by 1976, depth 1
+pict116.wmf
+
+976.    
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2716 by 2540, depth 1
+pict117.wmf      
+977.    
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2575 by 1976, depth 1
+pict118.wmf      
+978.    
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2258 by 1976, depth 1
+pict119.wmf
+
+979.    
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2187 by 1270, depth 1
+pict120.wmf
+
+Berechnen Sie unter der Benutzung der Determinanten die inversen Matrizen.
+
+1095.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 1976, depth 1
+pict121.wmf        
+        
+1096.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 1976, depth 1
+pict122.wmf        
+        
+1097.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2575 by 1976, depth 1
+pict123.wmf
+
+1098.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2397 by 1976, depth 1
+pict124.wmf        
+        
+1099.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2187 by 1976, depth 1
+pict125.wmf        
+        
+1100.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3032 by 1976, depth 1
+pict126.wmf
+
+1101.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 1976, depth 1
+pict127.wmf        
+        
+1102.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2611 by 1270, depth 1
+pict128.wmf        
+a, bÎR
+
+1103.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1834 by 1270, depth 1
+pict129.wmf
+
+
+
+Berechnen Sie die Inverse, falls sie existiert.
+
+1104.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3104 by 2540, depth 1
+pict130.wmf        
+1105.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3175 by 2540, depth 1
+pict131.wmf        
+1106.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2575 by 2540, depth 1
+pict132.wmf
+
+1107.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3634 by 2540, depth 1
+pict133.wmf        
+1108.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3351 by 2540, depth 1
+pict134.wmf        
+1109.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4092 by 3175, depth 1
+pict135.wmf
+
+1110.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2785 by 2540, depth 1
+pict136.wmf        
+1111.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3916 by 2540, depth 1
+pict137.wmf
+
+1112.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3916 by 2540, depth 1
+pict138.wmf        
+1113.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4586 by 3175, depth 1
+pict139.wmf
+1115.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3032 by 2540, depth 1
+pict140.wmf
+
+
+Für welche a, b Î R sind folgende Matrizen A regulär (nicht singulär)? Bestimme für diese Werte die Inverse.
+
+1125.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2011 by 1976, depth 1
+pict141.wmf        
+        
+1126.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1870 by 1976, depth 1
+pict142.wmf        
+        
+1128.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2293 by 1976, depth 1
+pict143.wmf
+
+1129.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3420 by 1976, depth 1
+pict144.wmf        
+1130.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2575 by 2540, depth 1
+pict145.wmf        
+1131.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3069 by 1976, depth 1
+pict146.wmf
+
+
+Berechnen Sie die Matrix X aus den Matrizengleichungen.
+
+1133.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1305 by 1270, depth 1
+pict147.wmf X ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1588 by 1270, depth 1
+pict148.wmf=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1588 by 1270, depth 1
+pict149.wmf
+
+1134.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1658 by 1270, depth 1
+pict150.wmf X ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1341 by 1270, depth 1
+pict151.wmf-### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1693 by 1270, depth 1
+pict152.wmf=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1341 by 1270, depth 1
+pict153.wmf
+
+1135.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2540 by 2540, depth 1
+pict154.wmf X =### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 2540, depth 1
+pict155.wmf
+
+1136.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 1976, depth 1
+pict156.wmf X ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2258 by 1976, depth 1
+pict157.wmf=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2434 by 1976, depth 1
+pict158.wmf
+
+1137.   
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1940 by 2540, depth 1
+pict159.wmf= X ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1870 by 1976, depth 1
+pict160.wmf
+
+
+
+1.5 Determinaten
+
+Man berechne folgende Determinanten: 
+
+a)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2046 by 1976, depth 1
+pict161.wmf        
+        
+        
+        
+        
+b)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3069 by 2540, depth 1
+pict162.wmf
+c)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3810 by 3175, depth 1
+pict163.wmf        
+        
+        
+d)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2611 by 1270, depth 1
+pict164.wmf
+
+e)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 5821 by 1976, depth 1
+pict165.wmf        
+        
+f)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3739 by 3810, depth 1
+pict166.wmf
+
+
+Für welche xÎR gilt:
+
+a)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3493 by 2540, depth 1
+pict167.wmf        
+        
+b)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4022 by 2540, depth 1
+pict168.wmf
+
+c)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4621 by 1976, depth 1
+pict169.wmf
+
+
+Man zeige:
+Gilt A²=A für eine reelle (n,n) Matrix A, so ist det(A)=0 oder det(A)=1.
+
+
+
+Man berechne folgende Determinaten.
+
+549.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1588 by 1270, depth 1
+pict170.wmf        
+        
+550.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2150 by 1411, depth 1
+pict171.wmf        
+aÎR+!    
+        
+551.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2646 by 1270, depth 1
+pict172.wmf
+
+552.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3634 by 1411, depth 1
+pict173.wmf        
+556.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2963 by 1270, depth 1
+pict174.wmf        
+557.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2999 by 1270, depth 1
+pict175.wmf        
+nÎN!
+
+
+Man berechne nach Sarrus-Regel.
+
+558.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1658 by 1976, depth 1
+pict176.wmf        
+        
+559.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2963 by 1976, depth 1
+pict177.wmf        
+560.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2150 by 1976, depth 1
+pict178.wmf
+
+561.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2364 by 1976, depth 1
+pict179.wmf        
+        
+562.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1976 by 1976, depth 1
+pict180.wmf        
+        
+563.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2963 by 1976, depth 1
+pict181.wmf
+
+564.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3246 by 1976, depth 1
+pict182.wmf        
+565.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2999 by 1976, depth 1
+pict183.wmf        
+566.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2223 by 1976, depth 1
+pict184.wmf
+
+567.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2646 by 1976, depth 1
+pict185.wmf        
+568.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2646 by 1976, depth 1
+pict186.wmf        
+569.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2469 by 1976, depth 1
+pict187.wmf
+
+
+
+Berechnen Sie die Werte der folgenden Determinanten.
+
+570.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4269 by 3175, depth 1
+pict188.wmf        
+571.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2434 by 2540, depth 1
+pict189.wmf
+
+572.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3563 by 2540, depth 1
+pict190.wmf        
+        
+573.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3563 by 2540, depth 1
+pict191.wmf
+
+574.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4445 by 2540, depth 1
+pict192.wmf        
+575.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3951 by 3175, depth 1
+pict193.wmf
+
+576.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3457 by 3810, depth 1
+pict194.wmf        
+        
+577.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4833 by 3175, depth 1
+pict195.wmf
+
+578.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3493 by 3175, depth 1
+pict196.wmf        
+        
+579.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 6668 by 1976, depth 1
+pict197.wmf
+
+
+
+Zeigen Sie.
+
+580.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 5644 by 1976, depth 1
+pict198.wmf
+
+582.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 11113 by 2540, depth 1
+pict199.wmf
+
+
+Berechnen Sie x aus den folgenden Gleichungen.
+
+596.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4022 by 2540, depth 1
+pict200.wmf        
+        
+597.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4621 by 1976, depth 1
+pict201.wmf
+
+598.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4374 by 2540, depth 1
+pict202.wmf        
+        
+599.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3881 by 2540, depth 1
+pict203.wmf
+
+601.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3598 by 2540, depth 1
+pict204.wmf        
+        
+        
+602.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3140 by 1976, depth 1
+pict205.wmf
+
+602.    
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3140 by 1976, depth 1
+pict206.wmf
+
+
+
+1.6 Eigenwerte/Eigenvektoren
+
+Berechnen Sie für folgende Matrizen A alle Eigenwerte und die zugehörigen Eigenvektoren. Entscheiden Sie, ob A diagonalisierbar ist und geben und geben Sie gegebenenfalls dir Matrix T und eine Diagonalmatrix D mit D = inverse(T) * A * T an.
+
+1208.   
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1341 by 1270, depth 1
+pict207.wmf      
+        
+1209.   
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2081 by 1976, depth 1
+pict208.wmf      
+1210.   
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2716 by 1976, depth 1
+pict209.wmf
+
+1211.   
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2258 by 1976, depth 1
+pict210.wmf      
+1212.   
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1588 by 1270, depth 1
+pict211.wmf      
+        
+1213.   
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2893 by 1976, depth 1
+pict212.wmf
+
+1214.   
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2434 by 1976, depth 1
+pict213.wmf      
+1215.   
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2858 by 2540, depth 1
+pict214.wmf      
+1216.   
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4163 by 2540, depth 1
+pict215.wmf
+
+1217.   
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3420 by 2540, depth 1
+pict216.wmf      
+1218.   
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3493 by 3175, depth 1
+pict217.wmf
+
+1219.   
+A=### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3351 by 2540, depth 1
+pict218.wmf
+
+
+
+2 LGS
+
+2.1 Inhomogene LGS
+
+Für welche Werte von aÎR sind folgende LGS lösbar? Geben Sie die Lösungen an.
+
+a)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3881 by 1762, depth 1
+pict219.wmf        
+        
+b)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3387 by 1762, depth 1
+pict220.wmf
+
+c)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 5433 by 1834, depth 1
+pict221.wmf
+
+
+Lösen Sie die folgenden inhomogene linearen Gleichungssysteme!
+
+a)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 8643 by 2397, depth 1
+pict222.wmf
+
+b)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3598 by 1762, depth 1
+pict223.wmf
+
+c)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 6279 by 3032, depth 1
+pict224.wmf
+
+d)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 5680 by 1762, depth 1
+pict225.wmf
+
+e)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 5256 by 2397, depth 1
+pict226.wmf
+
+
+2.2 Homogene LGS
+
+Lösen Sie die folgenden homogenen linearen Gleichungssysteme!
+
+a)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 5821 by 2397, depth 1
+pict227.wmf
+
+b)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4690 by 3032, depth 1
+pict228.wmf
+
+c)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 6033 by 2397, depth 1
+pict229.wmf
+
+
+Löse mittels der kramersche Regel
+
+a)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2575 by 1834, depth 1
+pict230.wmf        
+        
+c)      
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3810 by 1834, depth 1
+pict231.wmf
+
+

@@ -1,0 +1,348 @@
+ZUR DISKUSSION GESTELLT
+
+Kryptowährung Bitcoin: Währungswettbewerb oder Spekulationsobjekt:
+Welche Konsequenzen sind für das
+aktuelle Geldsystem zu erwarten?
+Anfänglich übersehen und belächelt hat mittlerweile nicht nur das öffentliche Interesse an
+den Kryptowährungen deutlich zugenommen. Dabei handelt es sich um verschlüsselte und
+dezentral gespeicherte Datenprotokolle. Sie werden ohne Einflussnahme einer staatlichen
+Zentralbank produziert, zwischen Zahlungssender und -empfänger übermittelt und lassen
+sich als Zahlungsmittel einsetzen. Inwieweit substituiert dies die Nachfrage nach Zentralbankgeld? Kann die Stabilität der Zahlungs- und Verrechnungssysteme weiterhin gewährleistet werden? Welche Rückwirkungen auf die Wirkungsweise und die Ausgestaltung der Geldpolitik sind bei zunehmender Bedeutung der Kryptowährungen zu erwarten?
+
+Carl-Ludwig Thiele* und Martin Diehl**
+
+Stabiles Geld braucht eine
+stabilitätsorientierte Geld­
+politik
+WÄHRUNG
+
+Grund, warum er ein Zahlungssystem schaffen wollte,
+das ohne Vertrauen in eine Institution auskommt:
+»What is needed is an electronic payment system based on cryptographic proof instead of
+trust, allowing any two willing parties to transact
+directly with each other without the need for a
+trusted third party.« (Nakamoto 2008)
+Carl-Ludwig Thiele
+
+Unter einer Währung versteht man die Verfassung und
+Ordnung des Geldwesens eines Staates, im engeren
+Sinne auch die jeweilige Geldeinheit. Der Begriff der
+sogenannten »virtuellen Währungen« ist folglich irreführend. Um Währungen handelt es sich bei Bitcoin,
+Ether etc. nicht.
+Der Begriff »Währung« geht etymologisch auf
+das mittelhochdeutsche »werunge« zurück, das für
+»Gewährleistung« verwendet wurde (vgl. Lexer 1872–
+1878) und stammverwandt mit »wahr« und »Wert« ist.
+Damit sind die Kernaspekte einer Währung bereits
+angesprochen: Es geht beim Geld um Vertrauen in die
+Werthaltigkeit des Geldes.
+Die Finanzkrise seit 2007 hat viel Vertrauen in das
+Finanzsystem untergraben. Nicht zuletzt daraus speist
+sich die Motivation der Nutzer virtueller Währungen.
+Der Erfinder von Bitcoin, Satoshi Nakamoto (Pseudonym) hat im Genesis-Block von Bitcoin eine Nachricht
+hinterlassen: »The Times 03/Jan/2009 Chancellor on
+brink of second bailout for banks«. Dieser Verweis auf
+den zweiten Bailout für britische Banken wird als Kritik
+am bisherigen Finanzsystem gedeutet. Das ist wohl ein
+*
+Carl-Ludwig Thiele ist Mitglied des Vorstands der Deutschen Bundesbank.
+**
+Dr. Martin Diehl ist Leiter des Bereichs Analyse des Zahlungsverkehrs und der Abwicklungssysteme der Deutschen Bundesbank.
+
+Ihm ging es primär um die Schaffung eines modernen bargeldähnlichen Zahlungsinstrumentes für das
+digitale Zeitalter. Durch den angedachten Wegfall
+der »trusted third party«, also der Banken oder Zahlungsdienstleister, sollte ein direkter Übertrag (Peerto-Peer) ermöglicht werden. In der Tat leistet das Bitcoin-Netzwerk direkte intermediationsfreie Wertüberträge, die sonst nur mit Bargeld im Nahbereich möglich
+sind. Gleichzeitig kreierte er Bitcoin, eine Werteinheit,
+die nicht auf Vertrauen in eine Institution basiert. Das
+Vertrauen in die Notenbank sollte durch den Konsens
+der Teilnehmer ersetzt werden; eine ex nihilo – aus dem
+Nichts – erfundene Rechnungseinheit sollte Zentralbankgeld, das seine Wertbasis als Verbindlichkeit der
+Zentralbank im Rahmen einer gegebenen staatlichen
+Ordnung hat, ersetzen.
+
+Martin Diehl
+
+WERT DES GELDES
+Geld definiert sich ökonomisch aus der Erfüllung dreier
+Funktionen: Es dient als Zahlungsmittel, als Wertaufbewahrungsmittel und als Recheneinheit. Die Eigenschaften sind nicht unabhängig voneinander.
+Es gibt Geld als Gut und Geld als Forderung. Geld
+als Gut kann ein wenig verderbliches Verbrauchsgut sein. Zum Beispiel dienten Zigaretten in Deutsch-
+
+ifo Schnelldienst
+
+22 / 2017
+
+70. Jahrgang
+
+23. November 2017
+
+3
+
+ZUR DISKUSSION GESTELLT
+
+land nach dem Zweiten Weltkrieg als Geldersatz. Auch
+Gebrauchsgüter können Geld sein. Gold ist dafür das
+wichtigste Beispiel. Gold hat eine außergewöhnliche
+Haltbarkeit und einen intrinsischen Wert als Industriemetall und Schmuck. In der Tat galt über Jahrhunderte
+die Lieferung von Gold als das ultimative Begleichen
+einer Forderung. Verbrauchsgüter und Gebrauchsgüter haben intrinsische Werte, Verbrauchswerte oder
+Gebrauchswerte.
+Der überwiegende Teil unseres Geldes ist eine
+Forderung, an die Zentralbank oder an eine Geschäftsbank. Jeder Euro Bargeld und jeder Euro an Guthaben
+auf einem Zentralbankkonto sind eine Verbindlichkeit
+für das Eurosystem. Hinter dem Euro steht das Eurosystem mit seinen Zentralbanken, darunter die Bundesbank. Zentralbankgeld hat keinen Verbrauchsoder Gebrauchswert. Aber ein Emittent mit gesetzlichem Mandat steht dahinter. Mit der Bonität und
+Integrität einer Zentralbank steigt und fällt der Wert
+ihrer Währung. Der Wert der Währung hängt am Vertrauen in die Zentralbank und in den dahinter stehenden Staat. Der Emittent, im Fall des Euro das Eurosystem, nimmt für die Bereitstellung von Euro Sicherheiten seiner geldpolitischen Geschäftspartner als Pfand.
+Darin kann man eine realwirtschaftliche Verankerung
+des Euro sehen.
+Virtuelle Währungen werden wie ein Gut übertragen, haben aber keinen intrinsischen Wert, sondern
+nur einen Tauschwert. Man kann sie nicht konsumieren oder verwenden, sondern nur tauschen. Sie haben
+keinen Emittenten, der sie zurücknehmen muss, und
+es gibt kein Pfand als Sicherheit. Sie sind frei erfunden und vermehren sich nach einem festgesetzten
+Schema in virtuellen Systemen, die formal durch
+Mehrheitsentscheidung der Nutzer faktisch aber nach
+dem Belieben einer kleinen Gruppe geändert werden können. Hinzu kommt, dass die Zahl der virtuellen Währungen schnell steigt. Eine vorgegebene Steigerungsrate einer einzelnen virtuellen Währung kann
+folglich durch weitere virtuelle Währungen untergraben werden. Bitcoin wie andere virtuelle Währungen
+unterliegt einer intransparenten Governance, die die
+wahren Absichten der Macher nicht erkennen lässt.
+Die fehlende Wertbasis – kein intrinsischer Wert, keine
+Verantwortlichkeit eines Emittenten – ist ein Grund für
+die volatilen Wertschwankungen. Mangels Wertbasis ist der Preis für Bitcoin praktisch beliebig bis hin
+zum Totalverlust. Bitcoin ist kein Geld, sondern ein
+Spekulationsobjekt.
+Die Bedeutung einer soliden Wertbasis wird empirisch im Vergleich von Geschäftsbankengeld mit Zent­
+ralbankgeld sichtbar. Geschäftsbankengeld wird im
+Massenzahlungsverkehr akzeptiert. Dahinter steht
+aber das Bewusstsein, dass ein Nettoausgleich zwischen den Instituten in Zentralbankgeld erfolgt. Mangelndes Vertrauen in eine Geschäftsbank führt zu
+einem Bank-Run: Einleger lassen sich Sichtguthaben
+in bar (= Zentralbankgeld) auszahlen. Die Zahlungsfähigkeit eines Instituts bestimmt sich aus der Fähigkeit,
+
+4
+
+ifo Schnelldienst
+
+22 / 2017
+
+70. Jahrgang
+
+23. November 2017
+
+in Zentralbankgeld zu zahlen. Der Individualzahlungsverkehr zwischen Banken, bei dem es um weit größere
+Beträge als im Massenzahlungsverkehr geht, erfolgt
+durchweg in sicherem und liquidem Zentralbankgeld.
+Die Marktteilnehmer unterscheiden also deutlich nach
+der Sicherheit der Wertbasis.
+Kritiker der Zentralbanken würden argumentieren, auch gegenwärtiges Zentralbankgeld sei aus dem
+Nichts geschaffen. Sie nennen es Fiat-Geld, nach dem
+lateinischen Wort »fieri«. Damit bezeichnen sie den
+Vorgang, dass eine Notenbank ein Stück Baumwolle
+mit einer Zahl bedruckt und dann proklamiert, »es
+werde (lateinisch = fiat) Geld«. Ganz aus dem Nichts ist
+dies freilich nur dann, wenn eine Verankerung zur realen Wirtschaft und Sicherheiten fehlen. Die relevantere
+Kritik bezieht sich auf den Forderungscharakter des
+Geldes. Denn in der Tat verschuldet sich die Zentralbank mit der Emission von Geld. Und allzu oft wurden
+Zentralbanken in der Geschichte dazu missbraucht,
+damit sich der Staat verschulden und schließlich überschulden konnte. Dies führte regelmäßig zur Wertlosigkeit des Zentralbankgeldes. Bei der Gestaltung der
+Europäischen Währungsunion wollte man die Lehren
+daraus ziehen und in Analogie zum Bundesbankgesetz, die Notenbank (i) mit größtmöglicher Unabhängigkeit versehen, ihr (ii) die direkte Staatsfinanzierung
+untersagen und sie (iii) auf eine stabilitätsorientierte
+Geldpolitik verpflichten. Es ist unsere feste Überzeugung, dass die Einhaltung dieser drei Bedingungen
+unabdingbar ist, damit eine Währung langfristig stabil
+bleiben kann.
+GEDANKENEXPERIMENT FIAT-GELD
+Die historischen Erfahrungen mit staatlichem Geld
+lehren uns, die Kritiker ernst zu nehmen. Es bleibt die
+Frage, ob ein System, das Geld als reine Konvention –
+ohne reale Verankerung und ohne Forderungscharakter – schafft, erfolgreicher sein könnte. Machen wir ein
+Gedankenexperiment: Natürlich ist es denkbar, dass
+sich eine Gemeinschaft auf Geld als reine Konvention
+ohne intrinsischen Wert und nicht als Forderung verständigt. Die Voraussetzung dafür ist freilich das volle
+Vertrauen in den Verteilungsalgorithmus. Folgende
+Fragen wären zu lösen:
+1.
+2.
+
+3.
+
+Wer erhält das Geld am Anfang?
+Wie sichert man einen möglichst stabilen Geldwert? Damit zusammenhängend: Wer bestimmt
+über die Menge des in Umlauf gegebenen Geldes
+und ihre Veränderung?
+Gibt es ein System, mit dem dieses Geld sicher und
+effizient übertragen werden kann, das zugleich
+sicherstellt, dass die Geldmenge und ihre Verteilung nicht unberechtigt verändert werden kann?
+
+Die Anfangsverteilung bei Bitcoin erfolgt – sieht man
+vom Genesis-Block ab – gleichsam als »Entlohnung«
+für die Verifikation von Transaktionen durch die soge-
+
+ZUR DISKUSSION GESTELLT
+
+nannten »Miner«. Man koppelt also die Verteilung der
+Seigniorage (Gewinn aus der Geldschöpfung) an die
+operativen Kosten beim Betrieb des Systems. Dies ist
+eine pragmatische Lösung, die allerdings die Seigniorage nur einer einzelnen Branche zukommen lässt und
+überdies den Preiswettbewerb im Zahlungsverkehr
+verzerrt.
+Wichtiger ist die zweite Frage nach der Sicherung
+des Geldwertes. Ein stabiler Geldwert, also ein relativ stabiles Preisniveau, hat entscheidende ökonomische Vorteile, weil so das Geld neutral bleibt und
+seine Funktionen – Tauschmittel, Wertaufbewahrung,
+Recheneinheit – ohne realwirtschaftliche Verzerrung
+erfüllen kann:
+––
+
+––
+
+Ein stabiler Geldwert fördert die Allokation der
+Güter, weil er das System der relativen Preise nicht
+verzerrt. Dies gilt im Idealfall auch hinsichtlich der
+intertemporalen Allokation zwischen Konsum und
+Sparen.
+Zudem vermeidet er ungewollte Verteilungswirkungen, weil er die Balance zwischen nominal und
+real denominiertem Einkommen oder Vermögen
+nicht verzerrt.
+
+Der Wert des Geldes bestimmt sich aber durch Angebot und Nachfrage. Da sich, vereinfacht dargestellt,
+die Nachfrage des Geldes durch reales Wirtschaftswachstum und veränderte Umlaufgeschwindigkeit
+ändern kann, muss auch das Angebot angepasst werden, damit der Wert des Geldes stabil bleibt. Eine
+starre Geldmenge oder eine algorithmisch vorbestimmte Entwicklung derselben wären nur in einer
+utopisch statischen Welt sinnvoll. Dies lehrt auch die
+historische Erfahrung mit der Goldbindung des Geldwertes. Der Geldwert blieb so nur gemessen in Gold
+stabil, aber nicht gemessen an einem allgemeinen
+Warenkorb.
+Als Ausweg in diesem Gedankenexperiment FiatGeld sehen wir eine Lösung: Die Gemeinschaft einigt
+sich auf eine Institution, die aktiv Geldpolitik betreibt
+und der stabilitätsorientierten Geldpolitik verpflichtet ist; die Institution und ihre Mitarbeiter dürfen sich
+durch geldpolitische Entscheidungen nicht bereichern; sie muss unabhängig – besonders vom Staat
+– entscheiden, darf nicht zur Finanzierung des Staates beitragen und muss gegenüber der Öffentlichkeit
+transparent sein. Kurzum: Auch in dem Gedankenexperiment Fiat-Geld brauchen wir eine stabilitätsorientierte Notenbank. Mit Blick auf die Theorie optimaler
+Währungsräume brauchen wir für heterogene Wirtschaftsräume verschiedene Notenbanken.
+Die bisherigen virtuellen Währungen erfüllen
+diese Kriterien nicht. Ihr relativer Wert entwickelt
+sich hochvolatil, die – zumindest temporär – starren
+Algorithmen sind ungeeignet für eine stabilitätsorientierte Geldpolitik, und Änderungen dieser Algorithmen
+erfolgen intransparent. Dass virtuelle Währungen globaler Natur sind, also regionale Besonderheiten der
+
+Geldnachfrage nicht berücksichtigen, ist ein weiterer
+Kritikpunkt.
+Zudem sind die mit den virtuellen Währungen
+integral verbundenen Transfersysteme – Distributed
+Ledger Technologie (DLT) – bislang kritisch zu sehen.
+Eine breite Anwendung der DLT im Individual- oder
+Massenzahlungsverkehr erscheint uns beim gegenwärtigen Stand der Technik eher unwahrscheinlich
+(vgl. Deutsche Bundesbank 2017). Die funktional im
+bestehenden Rechtsrahmen des Finanzsystems unabdingbaren Eigenschaften wie Identifizierbarkeit der
+Teilnehmer, Vertraulichkeit und absolute Finalität der
+Transaktionen sind durch Modifikationen der Technik erreichbar. Einzelne Weiterentwicklungen der DLT
+arbeiten an modifizierten Basistechniken.1 Die bisherigen Lösungen können hinsichtlich Sicherheit und Effizienz jedoch nicht mit dem konventionellen Zahlungsverkehr mithalten. Damit ist es bislang unwahrscheinlich, dass virtuelle Währungen stärkere Bedeutung im
+Zahlungsverkehr erlangen.
+WÄHRUNGSWETTBEWERB
+Ist ein Währungswettbewerb mehrerer Institutionen
+sinnvoll? Zunächst ist stabiles Geld ein öffentliches
+Gut. Die positiven externen Effekte sind so groß, dass
+private Anbieter zu geringe Anreize hätten, die Stabilität der Währung zu sichern. Der Geldwert wäre im
+Ergebnis instabil mit entsprechenden volkswirtschaftlichen Kosten. De facto haben wir aber bereits Währungswettbewerb. Und zwar zwischen Zentralbankgeld und Geschäftsbankengeld, zwischen Währungen
+verschiedener Zentralbanken und nicht zuletzt mit
+virtuellen Währungen. Dieser Wettbewerb entscheidet sich langfristig über die Stabilität des Geldwertes
+und nicht zuletzt über die Sicherheit und Effizienz des
+Zahlungsverkehrs. Wenn eine Währung an einen ineffizienten oder unsicheren Zahlungsweg gebunden
+ist, bleibt ihre Verwendung als Zahlungsmittel eingeschränkt. Entscheidend ist aber der stabile Geldwert.
+In der Tat finden virtuelle Währungen in manchen Ländern mit instabilem Zentralbankgeld eine ungleich
+stärkere Verwendung. Dies ähnelt dem Phänomen der
+Dollarisierung. Obwohl die Geldpolitik des US-Dollar
+mit Blick auf die ökonomischen Bedingungen in den
+USA gemacht wird und damit notwendigerweise für
+andere Wirtschaftsregionen suboptimal sein muss,
+bevorzugen Marktteilnehmer den US-Dollar gegenüber ihrer nationalen Währung. Der Hauptgrund ist
+in der Regel eine nicht stabilitätsorientierte nationale
+Geldpolitik mit hoher Inflation. So gesehen, kann auch
+die Wahl eines fixen Algorithmus für die Veränderung
+der Geldmenge rational sein.
+Normalerweise hat aber die Verwendung einer
+einheitlichen Währung so große Vorteile hinsichtlich der Transaktionskosten, dass parallel verwendete Währungen quantitativ unbedeutend – dies gilt
+1
+
+Vgl. u.a. Buterin (2016), Poon und Dryja (2016), Hyperledger Fabric
+Model sowie Brown et al. (2016).
+
+ifo Schnelldienst
+
+22 / 2017
+
+70. Jahrgang
+
+23. November 2017
+
+5
+
+ZUR DISKUSSION GESTELLT
+
+für Regionalwährungen und virtuelle Währungen –
+oder auf einzelne Verwendungen beschränkt bleiben.
+Eine quantitativ signifikante Parallelität von mehreren Währungen bedeutet eine erhebliche Beeinträchtigung der Geldpolitik. Daher ist man in der modernen Zeit zu einem Notenbankmonopol übergegangen. Solange die Notenbank eine stabilitätsorientierte
+Geldpolitik betreibt, gibt es volkswirtschaftlich keine
+Gründe für einen Währungswettbewerb.
+DIGITALES ZENTRALBANKGELD
+Die Schwächen der virtuellen Währungen erkennend,
+erwarten einige Nutzer der DLT auch die Emission digitalen Zentralbankgeldes, also »Kryptowährungen«,
+die von Zentralbanken emittiert werden, um ein sicheres und liquides Zahlungsmedium für die geldseitige
+Abwicklung von Transaktionen über die DLT zur Verfügung zu haben. Auch einige Notenbanken befassen sich mit diesem Thema.2 Digitales Zentralbankgeld wäre ebenso wie Bargeld und Guthaben bei der
+Zentralbank als Verbindlichkeit der Zentralbank zu
+verbuchen. Es bestehen mehrere technische Optionen
+in seiner Ausgestaltung. So könnte es wertbasiert (wie
+Bargeld) oder kontenbasiert (wie Einlagen) sowie anonym oder mit Registerführung übertragen werden, die
+Nutzung könnte beschränkt werden, bspw. im Betrag
+oder im Verwendungszweck, und es könnte verzinst
+oder wie Bargeld unverzinst sein. Die konkrete Ausgestaltung bestimmt dabei die gesamtwirtschaftlichen
+Auswirkungen. Die dabei wohl wichtigste Frage ist die
+des zugelassenen Nutzerkreises, genauer, ob digitales Zentralbankgeld auch für Nichtbanken ausgegeben werden sollte. In diesem Fall müsste mit Substitutionseffekten der verschiedenen Geldformen gerechnet werden. Nichtbanken könnten ihre Sichtguthaben
+bei Banken in digitales Zentralbankgeld umwandeln,
+z.B. weil die Verwahrung als Eintrag auf dem Distributed Ledger sicherer erscheint. Dies könnte erhebliche Auswirkungen auf Zinsmarge, Kreditgewährung,
+Geschäftsmodelle und Struktur im Bankensystem
+sowie auf Struktur und Risikoprofil der Notenbankbilanzen haben. Die vielfältigen Implikationen werden
+derzeit von einigen Zentralbanken erforscht. Noch
+müssen wir konstatieren, dass die zu erwartenden Folgen nicht absehbar scheinen.
+Bei einer auf die Abwicklung von Transaktionen
+unter Banken beschränkten Nutzung würde sich dagegen wenig substanziell verändern gegenüber heute.
+Es wäre z.B. denkbar, zur geldseitigen Abwicklung
+von Wertpapiergeschäften, die mittels DLT erfolgen
+könnte, digitales Zentralbankgeld als Kryptowährung
+bereitzustellen und zum Abschluss des Geschäftstages wieder in konventionelle Guthaben bei der Zentralbank umzuwandeln. Der Sinn eines solchen Unterfangens wäre allein die Realisierung vermeintlicher Sta2
+
+Vgl. für einen Überblick und aktuelle Beispiele Bech und Garratt
+(2017).
+
+6
+
+ifo Schnelldienst
+
+22 / 2017
+
+70. Jahrgang
+
+23. November 2017
+
+bilitäts- und/oder Effizienzvorteile einer DLT-basierten
+Abwicklung.
+SCHLUSS
+Die gegenwärtigen virtuellen Währungen, wie z.B. Bitcoin, sind gemessen an den realen Währungen zumindest in Ländern mit einer stabilitätsorientierten Geldpolitik bislang quantitativ unbedeutend und eher als
+Spekulationsobjekte anzusehen. Bitcoin erfüllt bislang keine der drei Geldfunktionen im ökonomisch
+relevanten Maße, weil es nicht über eine Nische hinausreicht und extrem wertinstabil ist. In einer dynamischen Welt dürften starre Algorithmen für die Entwicklung der Geldmenge zu einer suboptimalen Geldmenge
+führen. Daraus lässt sich zugleich die Notwendigkeit
+einer aktiven Geldpolitik durch eine unabhängige und
+stabilitätsorientierte Notenbank ableiten. Notenbanken, die den Geldwert ihrer Währung nicht stabil halten, bleiben gleichwohl immer anfällig für Parallelwährungen und Währungswettbewerb, nicht nur durch virtuelle Währungen.
+LITERATUR
+Bech, M. und R. Garratt (2017), »Central bank cryptocurrencies«, BIS Quarterly Review, September, 55–70.
+Brown, R., J. Carlyle, I. Grigg und M. Hearn (2016), Corda: An Introduction,
+verfügbar unter: https://docs.corda.net/_static/cordaintroductory-whitepaper.pdf.
+Buterin, V. (2016), »Ethereum: Platform Review – Opportunities and Challenges for Private and Consortium Blockchains«, verfügbar unter:
+http://www.r3cev.com/blog/2016/6/2/ethereum-platform-review.
+Deutsche Bundesbank (2017), »Distributed-Ledger-Technologien im Zahlungsverkehr und in der Wertpapierabwicklung: Potenziale und Risiken«,
+Monatsbericht, September, 35–50.
+Hyperledger Fabric Model, verfügbar unter: https://hyperledgerfabric.
+readthedocs.io/en/latest/fabric_model.htm..
+Lexer, M. (1872–1878), Mittelhochdeutsches Handwörterbuch, 3 Bde., Leipzig.
+Nakamoto, S. (2008), Bitcoin: A Peer-to-Peer Electronic Cash System, verfügbar unter: https://bitcoin.org/bitcoin.pdf.
+Poon, J. und T. Dryja (2016), The Bitcoin Lightning Network: Scalable OffChain Instant Payments, verfügbar unter: https://lightning.network/lightning-networkpaper.pdf.
+
+

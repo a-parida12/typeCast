@@ -1,0 +1,583 @@
+Gleichungen und Ungleichungen
+Lösung einer quadratischen Gleichung:
+2
+
+√
+−b ± ∆
+x=
+, ∆ = b2 − 4ac
+2a
+p √
+p2
+x = − ± ∆, ∆ =
+−q
+2
+4
+
+ax + bx + c = 0
+
+=⇒
+
+x2 + px + q = 0
+
+=⇒
+
+∆>0
+
+=⇒
+
+zwei reelle Lösungen
+
+∆=0
+
+=⇒
+
+eine reelle Lösung
+
+∆<0
+
+=⇒
+
+keine reelle Lösung
+
+Mathematische Grundlagen
+
+Rechenregeln für Ungleichungen (auch gültig mit ≤ bzw. ≥):
+
+1-1
+
+Beispiel
+
+Grundlagen –
+
+x<y
+
+=⇒
+
+cx > cy, falls c < 0
+
+⇔
+
+a−r <x<a+r
+
+Gleichungen und Ungleichungen
+
+1-1
+
+Bestimmung der Lösungsmenge L der Ungleichung
+x4 − 8x2 − 9 = 0
+
+kann mit der Substitution z =
+
+x2
+
+3
+1
+(3x + 1) ≥ 2x + |x − 1|.
+4
+2
+
+als quadratische Gleichung
+
+Äquivalente Umformungen
+
+z 2 − 8z − 9 = 0
+
+9x + 3 ≥ 8x + 2|x − 1|
+
+geschrieben werden. Diese hat die Lösungen z = −1 und z = 9.
+
+Rücksubstitution führt auf x2 = −1 bzw. x2 = 9. Die Gleichung x2 = −1
+hat keine reelle Lösung. Die Gleichung x2 = 9 liefert x = ±3 als die
+einzigen reellen Lösungen der ursprünglichen Gleichung.
+
+Gleichungen und Ungleichungen
+
+cx < cy, falls c > 0
+
+Beispiel
+
+Die Gleichung
+
+Grundlagen –
+
+=⇒
+
+|x − a| < r
+
+Das Handout ist Bestandteil der Vortragsfolien zur Höheren Mathematik; siehe die Hinweise auf der Internetseite
+www.imng.uni-stuttgart.de/LstNumGeoMod/VHM/ für Erläuterungen zur Nutzung und zum Copyright.
+Grundlagen
+
+x<y
+
+2-1
+
+1. Fall: x ≥ 1
+L1 : 1 ≤ x ≤ 5
+2. Fall: x < 1
+
+x + 3 ≥ 2|x − 1|
+
+x + 3 ≥ 2(x − 1)
+
+⇔
+
+x≤5
+
+x + 3 ≥ −2(x − 1)
+
+⇔
+
+x≥−
+
+L2 : − 13 ≤ x < 1
+Lösungsmenge: L = L1 ∪ L2 = [− 13 , 5]
+
+Grundlagen –
+
+⇔
+
+Gleichungen und Ungleichungen
+
+1
+3
+
+3-1
+
+Fakultät
+
+Binomialkoeffizient
+
+Das Produkt der ersten n natürlichen Zahlen wird mit
+
+Für n, k ∈ N0 mit n ≥ k definiert man den Binomialkoeffizienten
+ 
+n(n − 1)(n − 2) · · · (n − k + 1)
+n
+n!
+=
+.
+=
+(n − k)!k!
+1 · · · (k − 2)(k − 1)k
+k
+
+n! = 1 · 2 · · · n
+bezeichnet (lies: n Fakultät). Konsistent mit der Definition des leeren
+Produktes setzt man 0! = 1.
+Die Zahl n! entspricht der Anzahl der verschiedenen Möglichkeiten n
+unterschiedliche Objekte anzuordnen.
+
+Er gibt die Anzahl der k-elementigen Teilmengen einer Menge mit n
+Elementen an.
+Wegen 0! = 1 gilt insbesondere
+
+ 
+
+ 
+0
+n
+n
+= 1,
+=
+=1
+0
+n
+0
+und aus der Definition folgt:
+
+
+n
+n−k
+
+Grundlagen –
+
+Binomischer Lehrsatz
+
+Fakultät
+
+1-1
+
+Beispiel
+
+Grundlagen –
+
+Binomischer Lehrsatz
+
+
+
+ 
+n
+=
+.
+k
+Binomialkoeffizient
+
+1-1
+
+Pascalsches Dreieck
+ 
+5
+5!
+5·4
+=
+= 10
+=
+3!2!
+1·2
+2
+
+Die Binomialkoeffizienten
+
+{a, b}, {a, c}, {a, d}, {a, e}
+
+lassen sich mit Hilfe der Rekursion
+
+ 
+  
+n+1
+n
+n
+=
++
+k
+k−1
+k
+
+ 
+n
+n!
+=
+k
+(n − k)! k!
+
+Auswahl von 2-elementigen Teilmengen aus der Menge {a, b, c, d, e}:
+{b, a}, {b, c}, {b, d}, {b, e}
+···
+
+in einem Dreiecksschema, dem sogenannten Pascalschen Dreieck,
+berechnen.
+
+5 · 4 Teilmengen.
+Reihenfolge irrelevant
+{a, b} = {b, a}, · · ·
+Division durch 2
+
+Grundlagen –
+
+Binomischer Lehrsatz
+
+Binomialkoeffizient
+
+2-1
+
+Grundlagen –
+
+Binomischer Lehrsatz
+
+Binomialkoeffizient
+
+3-1
+
+Binomischer Satz
+
+ 
+0
+k
+
+1
+
+ 
+1
+k
+
+1
+
+ 
+2
+k
+
+1
+
+ 
+3
+k
+ 
+4
+k
+
+Grundlagen –
+
+2
+
+1
+
+1
+
+Binomischer Lehrsatz
+
+Mit der binomischen Formel lassen sich Potenzen einer Summe von zwei
+Variablen berechnen. Für alle n ∈ N0 gilt
+ 
+
+
+n n−1
+n
+n
+n
+(a + b) = a +
+a
+b + ··· +
+abn−1 + bn
+1
+n−1
+n  
+X
+n n−k k
+=
+a
+b .
+k
+
+1
+
+1
+
+3
+
+3
+
+1
+
+&+.
+
+&+.
+
+&+.
+
+4
+
+6
+
+4
+
+..
+.
+
+..
+.
+
+..
+.
+
+k=0
+
+Insbesondere ist für n = 2, 3
+1
+
+Binomialkoeffizient
+
+(a + b)2 = a2 + 2ab + b2 ,
+(a + b)3 = a3 + 3a2 b + 3ab2 + b3 .
+
+3-2
+
+Abbildung
+
+Grundlagen –
+
+Binomischer Lehrsatz
+
+Binomischer Lehrsatz
+
+1-1
+
+Eine Abbildung kann man folgendermaßen illustrieren.
+A
+
+Unter einer Abbildung f von einer Menge A in eine Menge B versteht
+man eine Vorschrift, die jedem a ∈ A eindeutig ein bestimmtes
+b = f (a) ∈ B zuordnet:
+f : A −→ B .
+
+B
+a
+
+a′
+
+b = f (a)
+
+Für die Elementzuordnung verwendet man die Schreibweise
+a 7→ b = f (a)
+und bezeichnet b als das Bild von a, bzw. a als ein Urbild von b.
+Ist M ⊆ A, so heißt f (M ) = {f (m)|m ∈ M } ⊆ B das Bild von M und
+für N ⊆ B heißt f −1 (N ) = {a|f (a) ∈ N } ⊆ A das Urbild von N unter
+der Abbildung f .
+Die Menge f (A) heißt Wertebereich und A Definitionsbereich der
+Abbildung f .
+Grundlagen –
+
+Abbildungen
+
+Abbildung
+
+1-1
+
+Wie aus dem Bild ersichtlich ist, müssen nicht alle Elemente aus B als Bild
+eines Elementes aus A auftreten und ein Element aus B darf auch Bild
+mehrerer Elemente aus A sein. Es muss allerdings für jedes Element aus A
+ein eindeutiges Bild geben, das heißt von jedem a muss genau ein Pfeil
+ausgehen.
+Man erkennt auch, dass ein Bild b mehrere Urbilder haben kann, hier
+beispielsweise a und a0 .
+Grundlagen –
+
+Abbildungen
+
+Abbildung
+
+1-2
+
+Eigenschaften von Abbildungen
+
+Statt Abbildung verwendet man auch den Begriff Funktion, insbesondere
+in der reellen und komplexen Analysis.
+
+Eine Abbildung
+f : A −→ B
+zwischen zwei Mengen A und B heißt
+injektiv, falls f (a) 6= f (a0 ) für alle a, a0 ∈ A mit a 6= a0
+
+surjektiv, falls es für jedes b ∈ B ein a ∈ A gibt mit f (a) = b
+bijektiv, falls f sowohl injektiv als auch surjektiv ist.
+
+Diese Begriffe lassen sich anhand von Mengendiagrammen illustrieren:
+
+injektiv
+Grundlagen –
+
+Abbildungen
+
+Abbildung
+
+Grundlagen –
+
+1-3
+
+Beispiel
+
+surjektiv
+
+Abbildungen
+
+bijektiv
+Abbildung
+
+2-1
+
+Verknüpfung von Abbildungen
+
+(i) Die Funktion
+f : R → R, x 7→ x2
+ist nicht surjektiv, da z.B. −1 kein Urbild hat. f ist nicht injektiv, da z.B.
+f (−1) = f (1).
+(ii) Die Funktion
+
+Die Verknüpfung oder Komposition zweier Abbildungen f : A → B und
+g : B → C ist durch
+a 7→ (g ◦ f )(a) = g(f (a)),
+
+definiert und in dem folgendem Diagramm veranschaulicht.
+
+f : R → R, x 7→ x3
+
+A
+
+√
+- Surjektivität: Sei y ∈ R beliebig. Für x := 3 y gilt
+√
+f (x) = f ( 3 y) = y.
+
+B
+
+- Injektivität:
+f (x) = f (x )
+Grundlagen –
+
+Abbildungen
+
+=⇒
+
+3
+
+x =x
+
+03
+
+g
+
+f
+
+ist bijektiv.
+
+0
+
+a ∈ A,
+
+=⇒
+Abbildung
+
+C
+
+g◦f
+
+0
+
+x=x.
+3-1
+
+Grundlagen –
+
+Abbildungen
+
+Verknüpfung von Abbildungen
+
+1-1
+
+Inverse Abbildung
+
+Die Verknüpfung ◦ ist assoziativ, d.h.
+(h ◦ g) ◦ f = h ◦ (g ◦ f )
+
+Für eine bijektive Abbildung f : A → B ist durch
+
+aber nicht kommutativ, also ist im Allgemeinen f ◦ g 6= g ◦ f .
+
+b = f (a) ⇔ a = f −1 (b)
+die inverse Abbildung f −1 : B → A definiert.
+
+f
+A
+
+B
+
+f −1
+Insbesondere ist a = f −1 (f (a)), d.h. f −1 ◦ f ist die identische Abbildung.
+Grundlagen –
+
+Abbildungen
+
+Verknüpfung von Abbildungen
+
+1-2
+
+Grundlagen –
+
+Abbildungen
+
+Inverse Abbildung
+
+1-1
+
+

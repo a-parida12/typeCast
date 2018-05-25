@@ -1,0 +1,34 @@
+Presse-Information
+ETAS VCI – Die neue Fahrzeugdiagnoseschnittstelle
+
+Die Fahrzeugdiagnoseschnittstelle ETAS VCI stellt die neueste Generation einer Hochleistungsschnittstelle zwischen einem PC und einem Fahrzeug-Steuergeräteverbund dar – basierend auf der führenden MVCI (Modular VCI) Industriestandard-Technologie. Die Fahrzeugdiagnoseschnittstelle ist eine leistungsstarke Plattform zur Unterstützung von fortschrittlicher Fahrzeugdiagnose, Steuergeräte-Neuprogrammierung und anderen Funktionen. Sie unterstützt sozusagen alle derzeit gebräuchlichen Fahrzeugschnittstellenprotokolle und OEM-spezifischen Diagnosestecker-Pinbelegungen und ist sowohl update- als auch ausbaufähig, wenn neue Protokolle eingeführt werden. Die Fahrzeugdiagnoseschnittstelle kann zeitgleich mit mehreren Fahrzeugsteuergeräten kommunizieren und erlaubt somit eine hoch entwickelte Diagnose auf Systemlevel. Das ETAS VCI kommuniziert mit einem Host (Client)-PC unter Verwendung von Hochgeschwindigkeitsschnittstellen (verdrahtet oder drahtlos) zur flexiblen Konfiguration und zur Unterstützung mehrerer Systemtopologien. Die ETAS VCI-Firmware baut auf einem leistungsstarken, industrieerprobten Echtzeit-Betriebssystem auf. Ihre Funktionalität beinhaltet J2534 Pass-Thru/Gateway, eine D-PDU API-Schnittstelle, sichere Kommunikation mit dem Hostrechner, die Verwaltung paralleler Diagnose- und Hostrechnersitzungen, Protokolltreiber, eingebautes Datenlogging und ist im Feld updatebar.
+
+Funktionen auf einen Blick:
+* Leistungsstarke Plattform für die Fahrzeugdiagnose 
+* D-PDU- und J2534-kompatibel
+* Hochleistungsprozessor
+* Simultane Kommunikation über parallele Verbindungen zum Fahrzeug
+* Sicherer Zugang zum Fahrzeugnetzwerk
+* Industrie-übliche Host-Schnittstellen
+* Punkt-zu-Punkt- oder Netzwerkverbindung
+* Unterstützt Java- und C++-Laufzeitumgebung
+* Diagnoseschnittstellen und Diagnosestecker anpassbar an Kundenwunsch
+
+ETAS Entwicklungs- und Applikationswerkzeuge für elektronische Systeme GmbH
+Borsigstraße 14
+70469 Stuttgart
+Telefon	+49 711 89661-240
+Telefax	+49 711 89661-108
+
+Presse- und Öffentlichkeitsarbeit:
+Anja Krahl
+
+anja.krahl@etas.de
+www.etasgroup.com
+
+
+
+
+
+
+

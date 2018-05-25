@@ -1,0 +1,1026 @@
+II. Grundlagen der Mechanik
+1. Bewegung eines Massenpunktes
+1.1. Geschwindigkeit und Bewegung
+Die Mechanik beschreibt, wie sich massive Körper unter dem Einfluss von Kräften in Raum
+und Zeit bewegen.
+Eine Idealisierung ist die Bewegung von punktförmigen, massebehafteten Objekten.
+Bsp.: Planetenbewegung, da
+
+(Idealisierung wird später gerechtfertigt.)
+
+Ein Massepunkt bewegt sich auf einer Bahnkurve. In der klass. Mechanik kann der Ort
+zum Zeitpunkt genau angegeben werden.
+
+Bahnkurve
+ist eine vektorielle Größe
+[Demtröder]
+
+Beispiele:
+1)
+
+Bewegung bei konstanter Geschwindigkeit (Definition folgt) in einer Dimension
+
+Diagramm:
+
+2)
+
+Kreisbewegung in 2 Dimensionen
+
+Diagramm:
+
+Offensichtlich ist:
+
+Bewegungen in den 3 Raumrichtungen lassen sich beliebig überlagern
+(vektorielle Addition).
+
+Ein Massepunkt lege in einer Zeit
+
+die Wegstrecke
+
+zurück.
+
+Def.:
+
+Man bildet nun den Grenzwert
+Def.: Die (Momentan-) Geschwindigkeit eines Massepunktes ist die zeitliche Ableitung
+der Weg-Zeit-Funktion
+z
+
+x
+Die Geschwindigkeit
+
+y
+
+ist die Tangente der Bahnkurve am Punkt
+. Ihr Betrag
+gibt die Steigung der Bahnkurve an.
+
+Bsp. 1: Konstante Geschwindigkeit in einer Dimension
+
+„gleichförmig geradlinige Bewegung“
+Bsp. 2: Kreisbewegung
+
+Der Betrag der Geschwindigkeit ist konstant,
+aber ihre Richtung ändert sich ständig.
+
+Def.: Die Beschleunigung eines Massepunktes ist die zeitliche Ableitung der
+Geschwindigkeits-Orts-Funktion
+
+Die Beschleunigung ist die zweite zeitliche Ableitung der Weg-Zeit-Funktion:
+
+Interpretation: Die Beschleunigung gibt die Krümmung der Weg-Zeit-Funktion
+
+[Halliday]
+
+an.
+
+1.2. Einfache Bewegungsabläufe
+Die Bahnkurve
+
+kann durch Integration von
+
+bzw.
+
+gewonnen werden.
+
+Der freie Fall:
+
+g
+
+Als Anfangsbedigung sei
+
+und
+
+Eine zweifache Integration unter Berücksichtigung der Anfangsbedingungen liefert die Geschwindigkeits-Zeit-Kurve und die Bahnkurve:
+
+Die Fallzeit und die Endgeschwindigkeit für eine Anfangshöhe h sind somit
+
+Die schiefe Ebene:
+Der Massepunkt bewegt sich entlang der schiefen Ebene gemäß der
+Beschleunigung
+
+Die „Fallzeit“ für eine Höhe
+a
+g
+
+Galilei erfand die schiefe Ebene, um bei
+Fallversuchen für länger Zeit
+(und damit genauer) messen zu können!
+
+Wurfparabel:
+Den allgemeinen Fall eines Wurfes im Schwerefeld kann man in 2 Dimensionen beschreiben.
+Anfangsbedingung:
+
+Es folgt nach Integration
+
+Umformen liefert die Wurfparabel:
+
+[Halliday]
+
+Für die Wurfweite folgt:
+
+Für die größte Wurfweite folgt aus
+
+[Halliday]
+
+Für h=0 ist dies
+
+1.3. Die gleichförmige Kreisbewegung
+Bei einer gleichförmigen Kreisbewegung ändert sich nur die Richtung nicht der Betrag
+der Geschwindigkeit!
+Die zur Zeit
+zurückgelegte Strecke ist
+ein Kreissegment
+.
+Somit ist:
+
+Def.:
+
+Die Geschwindigkeit ist immer tangential und kann somit als
+dem Einheitsvektor
+
+Also ist:
+
+geschrieben werden.
+
+mit
+
+Da
+
+Def.:
+
+ändern sich beide mit der gleichen Winkelgeschwindigkeit:
+
+Zentripetalbeschleunigung
+
+Man kann die Winkelgeschwindigkeit allgemeiner als einen Vektor schreiben,
+der senkrecht auf der Bewegungsebene steht.
+
+1.4. Die einfache Schwingung
+Das Fadenpendel
+Bei einer Vernachlässigung des Gewichts des
+Fadens kann man die Kugel als Massenpunkt
+an einem masselosen Faden idealisieren:
+mathematisches Pendel
+Auf die Kugel mit der Masse m im Schwerefeld wirkt
+die tangentiale Beschleunigung:
+Es ergibt sich somit für die Bewegungsgleichung
+oder
+Für kleine Winkel mit
+
+folgt:
+
+Es ist leicht zu sehen, dass sich mit der Anfangsbedingung
+
+ergibt:
+
+Das Pendel führt eine periodische Bewegung durch, mit der Schwingungsdauer
+
+T kann zur Bestimmung von g genutzt werden:
+
+2. Die Newtonschen Axiome
+2.1. Die Axiome
+Erfahrungstatsachen:
+
+Bewegung unter Einfluss
+einer Kraft
+
+Kräfte sind die Ursache von
+Bewegungsänderungen
+
+Eine Kraft ist eine vektorielle Größe.
+
+Vektorielle Addition
+von Kräften
+
+Gravitationskraftfeld
+zwischen Mond und Erde
+
+Ein Kraft kann in jedem Raumpunkt
+charakerisiert werden:
+Kraftfeld
+[Demtröder]
+
+Newton veröffentlichte in seinem Werk Philosophiae naturalis – Principia Mathematica
+Axiome, zur Quantifizierung von Kräften und der Bewegung unter ihrem Einfluss.
+Diese Axiome sind Grundgleichungen der Mechanik.
+Axiom 1: Jeder Körper verharrt im Zustand der Ruhe oder gleichförmigen geradlinigen
+Bewegung, solange keine Kraft auf ihn wirkt.
+(gilt in Inertialsystemen)
+
+Def.: Der Impuls eines Körpers ist das Produkt aus seiner Masse und seiner
+Geschwindigkeit.
+
+Axiom 2: Die Impulsänderung eines Körpers ist gleich der auf ihn wirkenden Gesamtkraft.
+Die Änderung liegt in der Richtung der wirkenden Kraft
+
+.
+
+Somit:
+Die Kraft misst man in Newton
+
+Bei konstanter Masse m folgt speziell:
+
+Axiom 3: Die Kräfte, die zwei Körper aufeinander ausüben sind gleich groß und
+entgegengesetzt.
+
+Beispiel für zwei wechselwirkende Teilchen:
+
+Die Summe der Impulsänderungen ist null, insofern keine äußeren Kräfte wirken!
+
+Die auftretende skalare Größe Masse wurde bislang nicht definiert.
+Mit Hilfe des 2. Newtonschen Axioms folgt:
+und somit
+
+messbare Größe!
+
+Mit Hilfe des 3. Newtonschen Axioms lassen sich nun Massen vergleichen, d.h. messen:
+somit
+Vergleich zweier Massen:
+Feder
+
+Def.: Die Skalare Größe
+
+bezeichnet man als träge Masse.
+
+2.2. Träge und schwere Masse
+Die Eigenschaft eines Körpers in Ruhe oder geradlinig gleichförmiger Bewegung zu
+verharren bezeichnet man als Trägheit.
+Die zur Impulsänderung notwendige Kraft ist proportional zur trägen Masse mt eines Körpers.
+Massebehaftete Körper üben eine Anziehung aufeinander aus.
+Das Kraftgesetz für diese Gravitationskraft ist
+
+Die skalaren Größen m1 und m2 bezeichnen
+jeweils die schwere Masse.
+
+m1
+
+m2
+
+Auf der Erdoberfläche gilt für einen Körper der schweren Masse m:
+
+Somit gilt für die Bewegung eines Körpers im Schwerefeld:
+
+Man kann den Proportionalitätsfaktor zwischen schwerer und träger Masse gleich eins setzen.
+In Präzisionsexperimenten wurde gezeigt, dass die rel. Abweichung zwischen schwerer und
+träger Masse kleiner als
+ist.
+
+2.3. Kräfte
+Es gibt nur 4 Arten von Kräften in der Natur:
+1. Die Gravitationskraft
+2. Die elektromagnetische Kraft
+3. Die starke Kernkraft (hadronische Kraft)
+4. Die schwache Kernkraft
+Wegen ihrer Langreichweitigkeit nimmt man alltäglich nur 1. und 2. war.
+Die Gravitationskraft ist die bei weitem schwächste Kraft.
+Zahlenbeispiel für die relative Stärke von Gravitation und Coulomb-Kraft im Wasserstoffatom:
+
+In speziellen mechanischen Problemen benennt man zweckmäßigerweise weitere Kräfte:
+• Kontaktkraft
+Beispiel: Stoß zwischen zwei Kugeln
+
+[Halliday]
+
+• Federkraft
+Auslenkung einer Feder um Δx:
+
+[Halliday]
+
+• Zugspannung
+Beispiele von Zugspannung
+
+• Reibungskraft
+Beispiel:
+Reibung bei schiefer Ebene
+Reibungskraft
+m
+
+Def.: Die Kraft
+
+heißt Normalkraft. Sie ist parallel zur Flächennormale
+
+Bei der Reibungskraft unterscheidet man die Fälle der
+• Haftreibung, wenn der Körper ruht und bewegt werden soll und
+
+Richtung der versuchten Bewegung
+
+Haftreibungskoeffizient
+
+• Gleitreibung, wenn sich der Körper bereits in Bewegung befindet. Die Gleitreibung
+hängt nicht von der Geschwindigkeit ab!
+
+Richtung der Bewegung
+
+Gleitreibungskoeffizient
+
+Es ist
+Bei der gleichmäßigen Erhöhung der Zugkraft an einem anfangs ruhenden Gegenstand
+ergibt sich folgender Verlauf der Kraft:
+
+Beispiele von Reibungskoeffizienten
+
+Kontakt-, Feder- und Reibungskraft sowie die Zugspannung können auf die
+elektromagnetische Kraft zurückgeführt werden.
+
+2.4. Bewegung unter Einwirkung von Kräften
+Die Weg-Zeit-Funktion für einen Massenpunkt kann für beliebige Krafteinwirkungen durch
+Integration gewonnen werden:
+
+Für konstante Kräfte folgt mit t0=0 sofort:
+
+Interessant ist der Fall nicht-konstanter Masse, der in der sog. Raketengleichung auftritt:
+
+•
+
+Ausströmgeschwindigkeit relativ zur Erde
+
+•
+
+Geschwindigkeit der Rakete
+
+•
+
+Ausströmgeschwindigkeit des Gases
+relativ zur Rakete
+
+In der Zeit
+strömt die Masse
+aus. Dadurch nimmt die Gesamtmasse um
+ab, und um
+zu; somit gilt für die Impulsänderung:
+
+Und im Grenzübergang
+
+Da
+
+ist, folgt:
+
+Durch Integration folgt
+
+Ein möglichst großes Verhältnis zwischen Anfangsmasse
+und Endmasse ist mit einstufigen Raketen schlecht
+zu erreichen.
+[Wikipedia]
+
+3. Arbeit und Energie
+3.1. Arbeit und Leistung
+Def.: Wird ein Körper um ein Wegstück
+so heißt die skalare Größe
+
+bewegt und wirkt dabei auf ihn die Kraft
+
+die Arbeit.
+
+Stehen
+null!
+
+und
+
+senkrecht aufeinander, so ist das Skalarprodukt und somit die Arbeit
+
+Infinitesimal gilt:
+
+z
+
+y
+
+Bahnkurve
+
+x
+
+Bsp. für Berechnung eines Wegintegrals
+
+Die Arbeit ist positiv, wenn eine Vektorkomponente der Kraft parallel zum Weg ist.
+Die Arbeit ist negativ, wenn eine Vektorkomponente der Kraft anti-parallel zum Weg ist.
+
+Welche Arbeit wird benötigt, um einen Körper von der Geschwindigkeit
+auf die Geschwindigkeit
+
+zu bringen?
+
+Def.: Der skalare Ausdruck
+
+heißt kinetische Energie.
+Def.: Die zeitliche Ableitung der Arbeit (Arbeit pro Zeit) ist die Leistung P:
+
+Beispiele:
+1.) Gleichförmige Kreisbewegung
+Es ist stets
+
+Somit
+
+2. Gleichförmige Bewegung (ohne Reibung)
+Es gilt ebenfalls
+
+Zentripetalkraft
+
+3. Schiefe Ebene
+Es ist:
+
+Somit:
+
+4. Feder
+Es ist:
+
+Somit:
+
+y
+
+3.2. Konservative Kraftfelder
+Die Funktion
+
+ordnet jeden Raumpunkt
+
+ein Feld
+
+zu.
+
+bezeichnet man als Kraftfeld.
+Zur Zeit Newtons war die Vorstellung einer Kraftübertragung über eine Distanz (Fernwirkung)
+schwer vorstellbar.
+Das Kraftfeld galt allein als eine
+mathematische Beschreibungsmöglichkeit.
+
+Darstellung eines Feldes auf einer Oberfläche
+
+Def.: Ist bei der Bewegung eines Körpers die Arbeit
+
+wegunabhängig, so heißt
+
+konservativ.
+
+Äquivalente Definition:
+In konservativen Kraftfeldern ist die Arbeit bei der Bewegung eines Massepunktes auf
+einem geschlossenen Weg null.
+
+geschl.
+Weg
+
+Bsp.: Homogenes Feld
+
+Bsp.: Zentralkraftfeld
+
+Bsp.: Reibungskraft
+
+Reibungskräfte sind keine konservativen Kräfte!
+
+3.3. Potentielle Energie
+Für konservative Kraftfelder hängt die Arbeit bei Verschiebung eines Massenpunktes
+zwischen Raumpunkten
+
+ist nur eine Funktion von
+
+und
+
+nicht vom Weg ab, d.h.
+
+und
+
+Legt man einen der Punkte fest, z.B.,
+die nur vom Raumpunkt
+abhängt.
+
+.
+, so ergibt sich eine skalare Größe
+
+Def.:
+
+heißt potentielle Energie.
+
+Bemerkung: Epot wird manchmal auch Potential V genannt (manchmal nur, wenn V
+auf eine Probemasse bezogen wird).
+
+Bemerkungen:
+a)
+
+Die Definition der potentiellen Energie macht nur für konservative Kraftfelder einen
+Sinn.
+
+b)
+
+Der Bezugspunkt kann beliebig gewählt
+werden, da nur Potentialdifferenzen
+messbare Größen sind.
+Beispiel: Potentielle Energie des
+Gravitationsfeldes der Erde.
+
+c)
+
+Das Vorzeichen wird so gewählt, dass
+positiv ist, wenn der Körper arbeit leistet,
+
+Negative
+Arbeit:
+Erhöhung der
+potentiellen
+Energie
+
+Positive Arbeit:
+Erniedrigung
+der
+potentiellen
+Energie
+
+und negativ, wenn am Körper Arbeit geleistet wird.
+
+[Halliday]
+
+Beispiel: Überhöhte Darstellung des Schwerefeldes der Erde
+
+[GFZ Potsdam]
+
+Beispiel: Anheben eines Körpers im Schwerefeld
+
+Man muss die Arbeit
+leisten,
+um den Körper anzuheben, d.h. die potentielle
+Energie wird um den gleichen Betrag erhöht!
+Bei der Verrückung eines Massenpunktes in einem konservativen Kraftfeld um ein Wegstück
+ändert sich die potentielle Energie
+:
+
+[Demtröder]
+
+Im Grenzfall
+
+folgt
+
+Somit:
+
+Die Kraft ist antiparallel zum Gradienten der potentiellen Energie.
+Flächen gleicher potentieller Energie heißen Äquipotentialflächen.
+Entlang Äquipotentialflächen wirken keine Kräfte.
+
+Gravitationsfeldstärke (links) und Gravitationspotential (rechts) einer Massekugel
+mit dem Radius R.
+(1) Verlauf außerhalb der Kugel (gleich dem einer Punktmasse)
+(2) Idealer Verlauf bei konstanter Dichte
+(3) Realer Verlauf infolge einer Dichtezunahme von außen nach innen (z.B. bei der Erde)
+
+4. Erhaltungssätze
+4.1. Energieerhaltung
+Aus den Newtonschen Axiomen lässt sich mit obigen Definitionen für die kinetische und
+die potentielle Energie der Energiesatz der Mechanik ableiten:
+
+Energiehaltungssatz:
+
+Die mechanische Gesamtenergie
+
+ist eine Erhaltungsgröße.
+
+Beispiel.: Pendel
+Anfängliche kinetische Energie (Ek) wird vollständig in potentielle Energie (Ep) umgewandelt.
+Stets gilt:
+
+Ep
+Ep
+
+Ek
+
+Ek
+Ep
+
+Ek
+
+4.2. Impulserhaltung
+Ein weiterer Erhaltungssatz folgt unmittelbar aus dem Newtonschen Axiomen:
+
+Impulserhaltungssatz:
+
+Wirkt auf ein System von 2 Massepunkten keine äußere Kraft, so bleibt
+der Gesamtimpuls erhalten.
+
+Die Erhaltungssätze lassen sich leicht auf beliebig viele Massepunkte erweitern.
+Energie- und Impulssatz sind sehr fundamentale Gesetzmäßigkeiten.
+Wie in der theoretischen Physik gezeigt wird, hängen Erhaltungssätze eng mit
+Symmetrieeigenschaften physikalischer Systeme zusammen.
+
+4.3. Drehimpuls und Drehimpulserhaltung
+Ein Massepunkt mit dem Impuls
+
+bewege sich auf einer beliebigen Bahn
+
+.
+
+Def.: Die vektorielle Größe
+
+heißt Drehimpuls.
+
+Der Vektor L steht senkrecht auf r und auf v.
+Seine Richtung ergibt sich aus der „Rechte
+Hand Regel“.
+(verschoben in
+Ursprung)
+
+Drehmoment
+Differenziert man die Definitionsgleichung für den Drehimpuls, so erhält man
+
+Def.: Die vektorielle Größe
+
+heißt Drehmoment
+
+Analogie:
+
+Bei konstantem Drehimpuls
+
+verläuft die Bewegung in einer Ebene.
+
+Beispiel: Drehimpuls bei der gleichförmigen Kreisbewegung
+
+Verläuft die Bewegung in einer Ebene, so kann man die Geschwindigkeit in
+Polarkoordinaten zerlegen:
+
+parallel zu
+
+parallel zu
+
+Somit:
+
+Der Drehimpuls ist parallel zur Winkelgeschwindigkeit.
+
+Offensichtlich ist:
+
+Beispiel: Drehimpuls bei Zentralkraftfeldern
+Da in Zentralfeldern gilt
+
+folgt:
+
+In Zentralkraftfeldern ist der Drehimpuls eine Erhaltungsgröße.
+
+Schließlich gilt als weiterer Erhaltungssatz:
+Drehimpulserhaltungssatz:
+Falls keine äußeren Drehmomente wirken, gilt:
+
+5. Der harmonische Oszillator
+5.1. Die ungedämpfte Schwingung
+Bei einem harmonischen Kraftgesetz ist die Kraft
+
+der Auslenkung x proportional:
+
+rücktreibend!
+
+Beispiel 1: Federpendel (Hookesches Gesetz)
+
+Feder mit
+Federkonstante κ
+
+Masse m
+
+Beispiel 2: Fadenpendel
+
+Bewegungsgleichung
+
+Schwingungsgleichung eines harmonischen Oszillators
+
+ist die Schwingungs- oder Kreisfrequenz.
+In den Beispielen:
+1.
+
+Federpendel:
+
+2.
+
+Fadenpendel:
+
+Die allgemeine Lösung der Schwingungsgleichung ergibt sich aus
+einer Linearkombination zweier linear unabhängiger Lösungen.
+Ansatz:
+
+A heißt Amplitude der Schwingung!
+2. Lösung:
+
+Allgemeine Lösung:
+
+Alternative:
+
+heißt die Phase der Schwingung.
+
+Definitonen:
+
+Ort
+Geschwindigkeit
+
+Beschleunigung
+
+Bemerkung: Warum ist die harmonische Schwingung von herausragender Bedeutung?
+Es ist:
+
+Das harmonische Potential ist parabelförmig.
+Beliebiges Potential mit
+Körper in Gleichgewichtslage
+
+Taylorentwicklung um x1:
+
+In der Nähe der Gleichgewichtslage ist das Potential
+ein harmonisches Potential.
+Kleine Schwingungen sind
+harmonisch.
+
+Überlagerung von Schwingungen
+Schwingungen können sich beliebig überlagern.
+Allgemeiner Fall (in einer Dimension):
+Beispiel: Überlagerung von 2 Schwingungen gleicher Amplitude und ähnlicher Frequenz
+
+Hierbei ist
+Für
+
+die mittlere Frequenz und
+
+die Schwebungsfrequenz.
+
+spricht man vom Phänomen der Schwebung.
+
+Den allgemeinen Fall einer Überlagerung von Schwingungen beschreibt man mit der
+Fourieranalyse.
+Theorem: Jede periodische Funktion
+
+lässt sich schreiben als Summe von sin- bzw.
+
+cos-Funktionen der Frequenzen
+
+Bem.: Je steiler die Funktion f(t) im Zeitverlauf (z.B. steile Flanken, Pulse) desto höhere
+Harmonische werden in der Fourierreihe benötigt!
+http://www.falstad.com/fourier/
+
+5.2. Die gedämpfte Schwingung
+Jede Form von Reibung führt zu einer
+Dämpfung der harmonischen Schwingung.
+Feder mit
+Federkonstante κ
+
+Masse m
+z.B. durch Stokes-Reibung
+Dämpfung
+in Flüssigkeit
+
+Allgemein gilt:
+Gedämpfter harmonischer
+Oszillator
+
+a) Schwache Dämfung:
+Testansatz:
+
+Einsetzten in DGL und Aufsammeln aller sin- und cos-Terme:
+
+Lösung für den Fall schwacher Dämpfung:
+
+charakteristische Dämpfungszeit:
+
+[Halliday]
+
+Die Schwingungsfrequenz
+Nach einer Schwingung ist
+
+ist kleiner als
+
+!
+
+b) Starke Dämfung:
+Ansatz:
+
+Motivation:
+
+x(t) löst die DGL. In diesem Fall tritt keine Schwingung mehr auf.
+
+c) Aperiodischer Grenzfall (kritische Dämpfung):
+Bei gegebener Auslenkung A erreicht x(t) am schnellsten den Grenzwert
+Ein Ansatz für x(t) ist
+mit der Lösung
+Somit
+
+!
+
+unterkritsch gedämpft
+kritisch gedämpft
+überkritsch gedämpft
+ungedämpft
+
+Beispiel für
+experimentelle
+Realisierungen
+
+5.3. Die erzwungene Schwingung, Resonanz
+Ein weiterer Term tritt zur DGL des harmonischen Oszillators hinzu, wenn dieser periodisch
+angetrieben wird.
+periodisch getriebener
+harmonischer Oszillator
+Amplitude
+
+Die Lösung der DGL ergibt sich aus einer allgemeinen Lösung der harmonischen Gleichung
+und einer speziellen Lösung der inhomogenen Gleichung.
+Ein Ansatz ist
+
+Die Werte für A und φ können durch Einsetzen gefunden werden. Dies ist wesentlich
+eleganter in einem komplexen Ansatz.
+
+Man findet:
+Für die Phase:
+Die Phasenverschiebung ist negativ, d.h. die erzwungene Schwingung „hinkt“ der
+Erregerschwingung hinterher.
+
+Für die Amplitude:
+
+Die Amplitude ist maximal, wenn:
+
+Dann ist:
+Man spricht von Resonanz.
+Die Resonanzfrequenz ist bei Dämpfung etwas kleiner als die Frequenz
+Schwingung.
+Falls:
+
+der freien
+
+Maximale Amplitude und Phänomen der Resonanz
+
+Amplitude
+
+δ= Dämpfungsparameter
+
+Anregungsfrequenz ωA
+
+Relative Phase der erzwungenen Schwingung im Resonanzfall
+
+Phase
+
+δ= Dämpfungsparameter
+
+Anregungsfrequenz ωA
+
+Destruktive Wirkung von Resonanz:
+1940 geriet die Tacoma Narrows
+Brücke in den USA durch
+starken Wind in eine resonante
+Schwingung und wurde
+zerstört.
+Eine ähnliches „Resonanzproblem“
+entstand bei der Eröffnung der
+Millenium Bridge in London.
+
+5.4. Energiebilanz im harmonischen Oszillator
+Die Gesamtenergie des harmonischen Oszillators setzt sich zusammen
+aus dem Anteil der kinetischen Energie
+
+und dem Anteil der potentiellen Energie:
+
+Für eine harmonische Bewegung
+
+folgt:
+
+Für die Mittelwerte über eine Schwingungsperiode T ergibt sich:
+
+Kinetische und potentielle Energie als Funktion der Zeit und des Ortes:
+
+6. Systeme von Massenpunkten
+6.1. Grundgrößen
+Obwohl im folgenden nur Stöße zwischen zwei Körpern betrachtet werden, ist es nützlich
+einige allgemeine Begriffe für Systeme von N Massepunkten zusammenzustellen:
+
+Def.: Der Schwerpunkt
+
+Def.: Der Gesamtimpuls
+
+eines Systems von N Massenpunkten ist
+
+eines Systems von N Massenpunkten ist
+
+Wirken auf das System keine äußeren Kräfte (abgeschlossenes System),
+so ist P zeitlich konstant.
+Wirkt eine äußere Kraft
+
+auf das System, so ist
+
+Der Schwerpunkt eines beliebigen Systems von Massenpunkten bewegt sich wie ein
+einziger massiver Körper der Masse
+.
+
+Stoß zwischen zwei Teilchen
+Prinzipielles Problem der
+Wechselwirkung zwischen
+zwei Teilchen.
+
+r
+v1
+m1
+
+m2
+Asymptotisch:
+Zweiteilchen-Stoßproblem
+
+r
+v1′
+
+r
+v2
+
+r
+v′2
+
+Wechselwirkungsgebiet
+
+Die Grundgleichungen für Stöße zwischen zwei Teilchen sind Spezialfälle des
+Energie- und des Impulserhaltunssatzes:
+
+Impulserhaltungssatz:
+
+Energieerhaltungssatz:
+
+Hierbei ist Q die innere Energie der Stoßpartner:
+• Q ist nur relevant bei Vorliegen einer inneren Struktur der Stoßpartner.
+• Q kann z.B. eine Erwärmung der stoßenden Körper sein
+Man unterscheidet:
+
+Q=0
+
+elastische Stoß
+
+Q<0
+
+inelastischer Stoß
+
+Q>0
+
+superelastischer Stoß
+
+6.2. Elastische Stöße
+O. B. d. A. sei der zweite Stoßparameter anfangs in Ruhe.
+Es ist
+
+Wegen der Erhaltung des Drehimpulses ist die Bewegung in einer Ebene (x-y-Ebene).
+Es ist nun in dem gewählten Koordinatensystem
+
+Einsetzen liefert:
+
+dabei ist
+
+Die Komponenten von
+
+die reduzierte Masse.
+
+liegen
+
+auf einem Kreis mit Mittelpunkt
+und Radius
+
+Spezialfälle:
+
+In diesem Fall ist
+
+und
+
+stehen senkrecht aufeinander.
+
+Für zentrale Stöße ist
+Somit ist das erste Teilchen nach dem Stoß in Ruhe, d.h. es existiert ein Impulsaustausch.
+
+Spezialfälle:
+
+In diesem Fall ist
+
+Der maximale Impulsübertrag ist
+Die maximal übertragene kinetische Energie ist
+Ein Spezialfall ist die Reflexion eines Teilchens an einer Wand.
+
+Spezialfälle:
+
+In diesem Fall ist
+
+Bei einem zentralen Stoß ist
+Die in diesem Fall übertragene kinetische Energie ist
+
+Es existiert ein maximaler Ablenkwinkel
+
+Schwerpunktsystem:
+Falls keiner der Stoßpartner vor dem Stoß ruht, erlaubt eine Transformation in das
+Schwerpunktsystem eine einfachere Beschreibung.
+Die Impulse der Stoßpartner müssen geeignet in das S.S. transformiert werden.
+Da im S.S. der Gesamtimpuls verschwindet ist:
+
+Somit kann ein elastischer Stoß
+durch eine reine Drehung der
+Impulsvektoren dargestellt werden.
+
+6.3. Inelastische Stöße
+Es gelten Impulserhaltung und der Energiesatz mit
+Im Grenzfall des maximal inelastischen Stoßes bleiben die Stoßparameter nach dem Stoß
+zusammen:
+vorher
+
+nachher
+
+Sie bewegen sich somit nach dem Stoß mit der Schwerpunktgeschwindigkeit
+
+Für Q folgt dann
+
+Beispiele:
+a) Schuss eines Projektils in eine Wand
+Bei einem sehr schweren Stoßpartner wird die
+gesamte kinetische Energie (des Projektils)
+umgewandelt.
+
+b) Frontaler Zusammenstoß (gesamte kinetische Energie wird umgewandelt)
+Bei einem Frontalzusammenstoß
+wird die gesamte kinetische Energie
+umgewandelt.
+
+

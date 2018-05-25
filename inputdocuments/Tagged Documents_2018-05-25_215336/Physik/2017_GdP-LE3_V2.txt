@@ -1,0 +1,7303 @@
+Grundlagen der Physik – Lerneinheit 3
+
+Grundlagen der Physik – Lerneinheit 3
+
+Einführung in die Mechanik
+
+Der Sterngucker (Carl Spitzweg 1808 – 1885)
+
+Dieter Bangert
+Januar 2017
+
+3
+
+Inhaltsverzeichnis Lerneinheit 3 - Grundlagen der Physik -
+
+Inhaltsverzeichnis Lerneinheit 3 - Grundlagen der Physik -
+
+Vorwort
+
+5
+
+1
+1.1
+
+Mechanik der Massenpunkte und starren Körper
+Einführung
+
+6
+6
+
+2
+2.1
+2.1.1
+2.1.2
+2.2
+2.2.1
+2.2.2
+2.2.3
+
+Grundbegriffe der linearen Bewegung
+Geschwindigkeit bei gleichförmiger und ungleichförmiger Bewegung
+Gleichförmige Bewegung
+Ungleichförmige Bewegung
+Beschleunigung
+Gleichmäßig beschleunigte Bewegung
+Ungleichmäßig beschleunigte Bewegung
+Berechnung der Wegfunktion s(t)
+
+7
+7
+8
+9
+11
+12
+14
+14
+
+3
+3.1
+3.2
+3.3
+3.4
+3.5
+3.5.1
+3.2.2
+3.5.3
+3.5.4
+3.5.5
+3.5.6
+
+Dynamik: Masse, Impuls und Kraft
+Träge Masse
+Impuls
+Newtonsche Axiome
+Kräfte, Wechselwirkungen und ihre Ursachen
+Coulombsche und Newtonsche Reibungskräfte
+Haftreibung
+Gleitreibung
+Rollreibung
+Anwendungsbeispiel: Bremsen im Straßenverkehr
+Fahrwiderstand
+Geschwindigkeitsabhängige Reibungskräfte
+
+17
+17
+17
+17
+22
+27
+28
+31
+32
+34
+36
+37
+
+4
+4.1
+4.2
+4.3
+4.4
+4.5
+4.5.1
+4.5.2
+4.6
+
+Arbeit, Energie und Leistung
+Hubarbeit und potentielle Energie im Schwerefeld der Erde
+Beschleunigungsarbeit und kinetische Energie
+Federkraft und Federspannarbeit
+Leistung
+Impulserhaltung
+Zentrale Stoßprozesse
+Raketenantrieb und Strahltriebwerk
+Konservative Kräfte und Energieerhaltung
+
+42
+42
+42
+48
+50
+51
+52
+56
+59
+
+5
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+5.8
+5.9
+5.9.1
+
+Drehbewegungen
+Kinematik der Rotation
+Zentripetalkraft und Zentrifugalkraft
+Drehmoment
+Massenträgheitsmoment
+Drehimpuls
+Dynamisches Grundgesetz der Rotation
+Rotationsenergie
+Verfahrenstechnische Anwendung: Zentrifugen
+Schleudern und Kippen im Straßenverkehr
+Schleudern
+
+64
+65
+69
+70
+78
+84
+85
+86
+89
+90
+90
+
+4
+
+Inhaltsverzeichnis Lerneinheit 3 - Grundlagen der Physik -
+
+5.9.2
+5.9.3
+
+Kippen
+Rekuperation
+
+92
+97
+
+6
+6.1
+6.2
+
+Wiederholungstest
+Testfragen
+Lösungen der Testfragen
+
+98
+98
+100
+
+7
+
+Zusammenfassung
+
+102
+
+8
+8.1
+8.2
+
+Übungen
+Übungsaufgaben
+Lösungen der Übungsaufgaben
+
+106
+106
+108
+
+Anhang
+A1
+A2
+A3
+
+Griechisches Alphabet
+Formelzeichen
+Literaturauswahl
+
+115
+116
+117
+
+5
+
+Vorwort
+
+Vorwort
+
+Nicht weil es schwer ist, fangen wir nicht an, sondern weil wir nicht
+anfangen, ist es schwer.
+Seneca (4 v. Chr. – 65 n. Chr.)
+Die vorliegende Lerneinheit stellt eine elementare Einführung in die
+Mechanik für Studierende des Wirtschaftsingenieurwesens dar, die
+Physik als Hilfswissenschaft betreiben. Im Vordergrund steht eine
+ausführliche Behandlung der physikalischen Grundbegriffe der Kinematik und Dynamik. Ziel dieser Lerneinheit ist das Vertrautwerden mit mechanischen Phänomenen. Dabei soll die Einsicht in physikalische Gesetzmäßigkeiten vertieft werden. So gerüstet soll das
+Erlernte handlungsorientiert zur Bearbeitung physikalischer Problemstellungen genutzt werden. Die selbständige Lösung von physikalischen Aufgaben stellt eine über das Lesen und Nachvollziehen des
+vorliegenden Textes hinausgehende Fertigkeit dar. Die dazu notwendige Problemlösungskompetenz muss sich jeder angehende Ingenieur
+eigeninitiativ erarbeiten. Das Qualifizierungskonzept dafür ist einfach: Intellektuelles Training durch Beschäftigen, Auseinandersetzen
+und immer wieder Üben.
+Die Beschreibung der Grundbegriffe der linearen Bewegung ist das
+Thema von Kapitel 2. Daran anschließend liefert Kapitel 3 einen
+Überblick über Kräfte und ihre Eigenschaften. Kapitel 4 beschäftigt
+sich mit den Begriffen Arbeit, Energie und Leistung. In Kapitel 5
+erfolgt abschließend eine Behandlung der Drehbewegungen. Den für
+die Ingenieurspraxis wichtigen Phänomenen der Schwingungen und
+Wellen ist eine eigenständige Lerneinheit gewidmet.
+Verbesserungsvorschläge, Fehlermeldungen und sonstige Kommentare oder Hinweise sind erwünscht. Bitte richten Sie diese an folgende E-Mail-Adresse:
+bangert.dieter@fh-swf.de
+Marburg, Januar 2017
+
+6
+
+Dieter Bangert
+
+1.1 Einführung
+
+1
+
+Mechanik der Massenpunkte und starren Körper
+
+1.1
+
+Einführung
+
+Dieses Kapitel liefert unter Verzicht auf Vollständigkeit eine Einführung in die Prinzipien und Grundbegriffe der Mechanik. Die Mechanik als ältestes Teilgebiet der Physik basiert auf einer makroskopischen Betrachtung der Materie. Ihre Gesetzmäßigkeiten sind auch für
+andere Teilbereiche der Physik von Bedeutung. So führt die Anwendung der mechanischen Stoßgesetze auf der Ebene der Atome und
+Moleküle zur kinetischen Theorie der Wärme und zur statistischen
+Mechanik, die eine mikroskopische Erklärung der phänomenologischen Thermodynamik ermöglicht. In Kapitel 2 erfolgt eine Einführung in die Kinematik von einfachen Bewegungsvorgängen in Raum
+und Zeit. Zentrales Thema von Kapitel 3 ist die Dynamik. Dort werden die Kräfte untersucht, welche die Ursache aller Bewegungsänderungen darstellen. Nachdem in Kapitel 4 die Begriffe Arbeit, Energie
+und Leistung vorgestellt wurden, wird schließlich in Kapitel 5 eine
+für die Technik wichtige Klasse von Bewegungen beschrieben, nämlich die Drehbewegungen.
+Die Eigenschaften materieller Objekte werden im Rahmen der Mechanik anhand zweier idealisierter Modellkörper diskutiert: Massenpunkt und starrer Körper. Die Bewegung eines Körpers ist dann vollständig beschrieben, wenn die Bewegung aller seiner Teile angegeben werden kann. Der einfachste Fall liegt vor, wenn die Abmessungen des Körpers klein gegen die bei seiner Bewegung zurückgelegten Entfernungen sind, sodass man sich auf die Betrachtung der Bewegung eines einzigen Punktes beschränken kann. Dazu idealisiert
+man den betrachteten Körper durch einen materiellen Punkt, den so
+genannten Massenpunkt, der keine räumliche Ausdehnung besitzt
+und den man die Masse des betrachteten Körpers zuweist. So kann
+beispielsweise die Bewegung der Erde bei ihrem Umlauf um die
+Sonne als Massenpunkt behandelt werden. Dies ist jedoch nicht
+möglich, wenn die Drehung der Erde um ihre eigene Achse behandelt werden soll. Hier kann von der Ausdehnung der Erde nicht abgesehen werden. Werden bei einem festen Körper Formänderungen
+ausgeschlossen, so kann er als starrer Körper idealisiert werden, der
+in allen seinen Teilen von absolut unveränderlicher Gestalt ist. Ein
+starrer Körper kann daher als ein System von Massenpunkten aufgefasst werden, deren gegenseitige Abstände sich nicht verändern.
+
+7
+
+2 Grundbegriffe der linearen Bewegung
+
+2
+
+Grundbegriffe der linearen Bewegung
+
+Die Lehre von den Bewegungen der Körper im Raum wird als Kir
+r
+nematik bezeichnet. Weg s , Geschwindigkeit v und Beschleunir
+gung a stellen vektorielle Größen dar, für deren vollständige Beschreibung die Angabe von Betrag und Richtung erforderlich ist. Die
+allgemeinste Form einer Bewegung erfolgt auf einer gekrümmten
+Raumkurve im dreidimensionalen Raum. Bei den Bewegungsformen, die ein Körper im Raum ausführen kann, wird zwischen Translationen, Rotationen und aus Translation und Rotation zusammengesetzten Bewegungen unterschieden. Bei einer Translation erfolgt eine
+Verschiebung aller Punkte des bewegten Körpers auf kongruenten
+Bahnen gleicher Form und Größe. Bei einer reinen Rotation beschreiben alle Punkte des ausgedehnten Körpers konzentrische Kreise mit unterschiedlichen Radien. Für den Spezialfall der linearen
+Bewegung, bei der die Bewegungsrichtung durch die Lage einer
+Geraden definiert ist, können Weg, Geschwindigkeit und Beschleunigung vereinfachend durch skalare Größen beschrieben werden. Die
+lineare Bewegung erfolgt geradlinig und ist dadurch auf eine Raumdimension beschränkt. Sie ist eindimensional und stellt die einfachste
+Bewegungsart dar. Die folgenden Ausführungen beziehen sich auf
+diesen Sonderfall der linearen Bewegung. Der Rotationsbewegung
+ist ein eigenständiges Kapitel gewidmet.
+
+2.1
+
+Geschwindigkeit bei gleichförmiger und
+ungleichförmiger Bewegung
+
+Zur analytischen Beschreibung von Bewegungsvorgängen wurde die
+Differenzialrechnung erstmals durch Isaac Newton (1643 – 1727)
+eingeführt. Dieses mathematische Konzept soll am Beispiel des
+freien Falles eines Massenpunktes näher erläutert werden.
+Ein Regentropfen falle aus einer Wolke reibungsfrei unter dem Einfluss einer konstanten Schwerkraft senkrecht nach unten. Die quantitative Beschreibung dieser geradlinigen Bewegung erfolge mithilfe
+einer vertikalen Zahlengerade, mit welcher der Ort s des Regentropfens in Abhängigkeit von der Zeit t angegeben werden kann. Die
+Funktion s(t) gibt dabei Auskunft darüber, an welcher Stelle s sich
+der Tropfen zum Zeitpunkt t befindet. Der Ort könnte auch durch die
+Ortskoordinate x bezeichnet werden. Für die zeitabhängige Ortsfunktion erhielte man dann x(t) statt s(t). Als analytisches Maß für seine
+momentane Ortsveränderung wird die Geschwindigkeit v des Tropfens definiert. Der Regentropfen hat dann zu jedem Zeitpunkt t eine
+wohldefinierte Geschwindigkeit v(t). Befindet sich der Tropfen zur
+Zeit t 0 am Ort s 0 und zu einer späteren Zeit t 1 am Ort s1 , dann hat
+
+er im Zeitintervall ∆t = t 1 − t 0 den Weg ∆s = s1 − s 0 zurückgelegt.
+Seine mittlere Geschwindigkeit v ist dann:
+
+8
+
+2.1 Geschwindigkeit bei gleichförmiger und ungleichförmiger Bewegung
+
+v=
+
+s( t 1 ) − s( t 0 ) ∆s
+=
+t1 − t 0
+∆t
+
+(2.1)
+
+Im Zähler und Nenner dieses Ausdrucks stehen jeweils Differenzen.
+Die mittlere Geschwindigkeit v wird als Quotient dieser Differenzen, d. h. als Differenzenquotient definiert. Die freie Fallbewegung
+unter dem Einfluss einer konstanten Schwerkraft ist eine gleichmäßig
+beschleunigte Bewegung, bei der die Fallgeschwindigkeit ständig
+zunimmt. Soll die Momentangeschwindigkeit v(t) zum Zeitpunkt t
+bestimmt werden, zu dem der Tropfen die Position s(t) einnimmt, so
+ist nach Verstreichen einer infinitesimal kurzen Zeitspanne ∆t , d. h.
+zum Zeitpunkt t + ∆t eine erneute Positionsbestimmung (Wegmessung) notwendig. Der Tropfen wird sich um ∆s weiterbewegt und
+die neue Position s( t ) + ∆s eingenommen haben. Eine immer bessere Approximation der Momentangeschwindigkeit zum Zeitpunkt t
+erhält man nun dadurch, dass man die Zeitspanne ∆t immer kleiner
+wählt. Als Momentangeschwindigkeit v(t) wird dann der Grenzwert
+des Differenzenquotienten mit ∆t → 0 definiert.
+
+s( t + ∆t ) − s( t )
+∆s
+= lim
+∆t →0
+∆t →0 ∆t
+∆t
+
+v( t ) = lim
+
+(2.2)
+
+Dieser Grenzwert des Differenzenquotienten heißt Differenzialquotient. Aus historischen Gründen werden Differenzialquotienten nach
+der Zeit durch einen Punkt über dem Symbol der zu differenzierenden Größe bezeichnet:
+lim
+
+∆t →0
+
+2.1.1
+
+∆s d
+= s( t ) = s& ( t ) = v( t )
+∆t dt
+
+(2.3)
+
+Gleichförmige Bewegung
+
+Wird der zurückgelegte Weg s als Funktion der Zeit t in einem
+rechtwinkligen Koordinatensystem aufgetragen, so lässt sich der
+Bewegungsablauf grafisch in einem Weg-Zeit-Diagramm darstellen.
+Ein Läufer befinde sich zum Zeitpunkt t 1 an einem Ort s1 . Aufgrund
+seiner Bewegung erreicht er zu einem späteren Zeitpunkt t 2 den Ort
+s 2 . Er hat sich somit von dem Ort s1 zum Ort s 2 bewegt und dabei
+die Wegstrecke ∆s = s 2 − s1 zurückgelegt. Die für die zurückgelegte
+Wegstrecke ∆s benötigte Zeitspanne ist ∆t = t 2 − t 1 . Dieser Sachverhalt ist in Abb. 1 skizziert.
+
+9
+
+2 Grundbegriffe der linearen Bewegung
+
+s
+s
+
+2
+
+∆s
+
+s
+
+∆t
+
+1
+
+0
+
+0
+
+t1
+
+t2
+
+s
+
+s
+
+1
+
+t
+
+s
+
+2
+
+Abb. 1: Weg-Zeit-Diagramm einer gleichförmigen Bewegung
+Eine Bewegung heißt gleichförmig, wenn in gleichen Zeitintervallen
+∆t gleiche Wegstrecken ∆s zurückgelegt werden. Die gleichförmige Bewegung erfolgt mit konstanter Geschwindigkeit v = v 0 .
+Es ist:
+
+v0 =
+
+∆s
+∆t
+
+∆s = v 0 ∆t
+
+oder
+
+Die Geschwindigkeit v ist eine abgeleitete physikalische Größe. Ihre
+m
+SI - Einheit ist [ v] = .
+s
+
+2.1.2
+
+Ungleichförmige Bewegung
+
+Bei der ungleichförmigen Bewegung ist die Geschwindigkeit v nicht
+konstant, sondern eine Funktion v = v(t) der Zeit t (Abb.2).
+s
+s(t)
+s2
+si
+
+∆s
+
+s1
+
+0
+
+∆t
+
+t1
+
+ti
+
+t2
+
+t
+
+Abb. 2: Weg-Zeit-Diagramm einer ungleichförmigen Bewegung
+
+10
+
+2.1 Geschwindigkeit bei gleichförmiger und ungleichförmiger Bewegung
+
+Die Durchschnittsgeschwindigkeit oder mittlere Geschwindigkeit v wird durch den Differenzenquotienten
+v=
+
+s 2 − s1
+t 2 − t1
+
+=
+
+∆s
+∆t
+
+(2.4)
+
+dargestellt. Die Durchschnittsgeschwindigkeit wird häufig auch
+durch das Symbol < v > gekennzeichnet.
+Die Momentangeschwindigkeit v wird durch den Grenzwert des
+Differenzenquotienten, d.h. durch den Differenzialquotienten bestimmt:
+
+v(t) = lim
+
+∆t →0
+
+∆s d
+= s(t) = s& (t)
+∆t dt
+
+(2.5)
+
+s& (t) beschreibt mathematisch die 1. Ableitung der Wegfunktion s(t)
+
+nach der Zeit t.
+Im Weg-Zeit-Diagramm ergibt sich die Momentangeschwindigkeit
+v( t i ) zum Zeitpunkt t i als Steigung der Tangente im Punkt ( s i , t i )
+an die Bahnkurve s(t).
+Allgemein gilt:
+Eine zeitliche Änderung der Geschwindigkeit kann, da die Geschwindigkeit eine vektorielle Größe ist, sowohl durch eine Änderung des Geschwindigkeitsbetrages als auch durch eine Änderung
+der Richtung der Geschwindigkeit bei konstantem Geschwindigr
+keitsbetrag verursacht werden. Die Geschwindigkeit v stellt nämlich
+einen polaren Vektor dar. Raumspiegelung führt zur Umkehr der
+Bewegungsrichtung, d. h. bewegt sich ein Körper beispielsweise von
+links nach rechts, so zeigt das Spiegelbild eine Bewegung von rechts
+nach links. Mathematisch wird die Raumspiegelung durch Anwenr
+dung des Paritätsoperators P auf den Geschwindigkeitsvektor v
+ausgedrückt. Es gilt dabei:
+r
+r dr
+v=
+dt
+
+(2.6)
+
+r
+Für den Ortsvektor r erhält man bei Spiegelung:
+r
+r
+r
+r
+P r = − r und P d r = −d r
+
+Daraus folgt:
+r
+r
+r
+r
+dr
+dr
+=−
+= −v
+P v= P
+dt
+dt
+
+11
+
+2 Grundbegriffe der linearen Bewegung
+
+Durch Raumspiegelung kehrt sich das Vorzeichen von polaren Vektoren um, es findet eine Umkehrung der Bewegungsrichtung statt.
+
+2.2
+
+Beschleunigung
+
+Um Änderungen der Geschwindigkeit während des Bewegungsvorganges beschreiben zu können, führt man den Begriff der Beschleunigung ein. Die Geschwindigkeit beschreibt die Änderung der zurückgelegten Wegstrecke mit der Zeit, und die Beschleunigung wird
+definiert als Änderung der Geschwindigkeit mit der Zeit.
+Für die Durchschnittsbeschleunigung a gilt
+a=
+
+∆v
+.
+∆t
+
+(2.7)
+
+Die Durchschnittsbeschleunigung a ist das Verhältnis aus der Änderung der Geschwindigkeit ∆v = v 2 − v1 zwischen zwei Orten s2 und
+s1 und dem zum Zurücklegen der Strecke ∆s = s 2 − s1 benötigten
+Zeitintervall ∆t = t 2 − t 1 .
+Für die Momentanbeschleunigung a(t) folgt:
+∆v dv d ds
+d 2s
+=
+= ( ) = 2 = &s&( t ) .
+∆t → 0 ∆t
+dt dt dt
+dt
+
+a ( t ) = lim
+
+(2.8)
+
+&s&( t ) beschreibt mathematisch die zweite Ableitung der Wegfunktion
+
+s(t) nach der Zeit t. Die SI-Einheit der Beschleunigung a ist
+[a ] =
+
+m
+s2
+
+.
+
+Diese skalare Schreibweise ist nur bei geradliniger Bewegung zulässig. Im allgemeinen Fall der krummlinigen Bewegung ist der Vektorcharakter der Geschwindigkeit zu berücksichtigen und man erhält
+
+r d r
+a = v.
+dt
+
+(2.9)
+
+Unter dieser vektoriellen Definition der Beschleunigung ist Folgendes zu verstehen: Die Position eines sich im dreidimensionalen
+Raum bewegenden Massenpunktes wird zu jedem beliebigen Zeitpunkt t durch eine vektorwertige Wegfunktion
+
+r
+s ( t ) = (s x ( t ), s y ( t ), s z ( t ))
+
+12
+
+2.2 Beschleunigung
+
+beschrieben, deren Komponenten die Koordinaten des Massenpunktes darstellen, die ihrerseits reelle Funktionen der Zeitvariablen t
+sind. Für die Geschwindigkeit des Massenpunktes folgt dann:
+r d r
+d
+d
+d
+v = s ( t ) = ( s x ( t ), s y ( t ), s z ( t )) = ( v x ( t ), v y ( t ), v z ( t )) .
+dt
+dt
+dt
+dt
+Die Beschleunigung ist dann ebenfalls eine vektorwertige Funktion
+und es gilt:
+r d r
+d
+d
+d
+a = v = ( v x ( t ), v y ( t ), v z ( t )) = (a x ( t ), a y ( t ), a z ( t )) .
+dt
+dt
+dt
+dt
+v
+Der Vektor a enthält dabei sowohl die Änderung des Betrages als
+r
+v
+auch der Richtung von v ; er weist in Richtung von dv , fällt also im
+Allgemeinen nicht mit der Bahnrichtung zusammen. Es gilt:
+
+Jede krummlinige Bewegung ist immer eine ungleichmäßig beschleunigte Bewegung.
+Im Folgenden erfolgt eine Beschränkung auf geradlinige Bewegungen, bei denen keine Richtungsänderung auftritt und somit nur Änderungen des Geschwindigkeitsbetrages betrachtet werden müssen.
+
+2.2.1
+
+Gleichmäßig beschleunigte Bewegung
+
+Eine Bewegung heißt gleichmäßig beschleunigt, wenn die Beschleunigung a konstant ist, d.h. unabhängig von der Zeit immer denselben
+Wert besitzt. Das Geschwindigkeits-Zeit-Diagramm für die gleichmäßig beschleunigte Bewegung hat die in Abb.3 dargestellte Form.
+Zum Anfangszeitpunkt (t = 0) besitzt der Körper die Anfangsgeschwindigkeit v 0 .
+
+v
+
+v2
+
+∆v
+
+vi
+v1
+v0
+0
+
+∆t
+t1
+
+ti
+
+t2
+
+t
+
+Abb. 3: Geschwindigkeits-Zeit-Diagramm einer gleichmäßig
+beschleunigten Bewegung
+
+13
+
+2 Grundbegriffe der linearen Bewegung
+
+Die gleichmäßig beschleunigte Bewegung ist eine Bewegung mit
+konstanter Beschleunigung a.
+Für eine beschleunigte Bewegung ist die Beschleunigung a positiv
+(a > 0), während für eine verzögerte Bewegung (Abbremsung) a
+negativ (a < 0) ist. Im Folgenden wird mit a der Betrag der Beschleunigung bezeichnet. Es ist dann:
+a= a ≥0
+
+Das Geschwindigkeits-Zeit-Gesetz für die gleichmäßig beschleunigte
+Bewegung lautet dann:
+v( t ) = v 0 ± at
+
+Das positive Vorzeichen gilt für die beschleunigte Bewegung, bei der
+im Laufe der Zeit die Geschwindigkeit linear zunimmt. Bei einer
+verzögerten Bewegung, bei der die Geschwindigkeit stetig abnimmt,
+gilt das negative Vorzeichen im Geschwindigkeits-Zeit-Gesetz.
+Der freie Fall stellt ein Beispiel für eine gleichmäßig beschleunigte
+Bewegung mit positiver Beschleunigung a = g dar. Das Weg-ZeitGesetz des freien Falls aus der Ruhelage mit konstanter Beschleunigung g lautet:
+s( t ) =
+
+1
+g t2
+2
+
+(2.10)
+
+Die Proportionalitätskonstante g ist dabei die so genannte Erdbeschleunigung. Das zugehörige Geschwindigkeits- Zeit-Gesetz des
+freien Falls erhält man durch Bildung des Differenzialquotienten.
+s( t + ∆t ) − s( t )
+∆t →0
+∆t
+
+v( t ) = lim
+
+1
+1
+g( t + ∆t )2 − gt 2
+1 ( t + ∆t )2 − t 2
+2
+2
+v( t ) = lim
+= lim g
+∆t → 0
+∆t →0 2
+∆t
+∆t
+
+1
+g(2 t + ∆t ) = gt
+∆t →0 2
+
+v( t ) = lim
+
+Die Momentangeschwindigkeit v( t ) = g t nimmt beim freien Fall
+linear mit der Fallzeit t zu.
+∆v
+= 0 auch ∆v = 0 und damit ist
+∆t
+die Geschwindigkeit v = v 0 konstant. Für beliebige Zeiten t 1 und
+
+Ist speziell a = 0, so ist wegen a =
+
+t 2 gilt dann: v( t 1 ) = v( t 2 ) = v 0 . Die Bewegung mit einer von der
+
+14
+
+2.2 Beschleunigung
+
+Zeit unabhängigen Geschwindigkeit v0 erfolgt gleichförmig ohne
+Beschleunigung (Abb. 4).
+
+v
+
+a=0
+
+v0
+
+0
+
+t1
+
+v(t)
+
+t2
+
+t
+
+Abb. 4: Geschwindigkeits-Zeit-Diagramm einer gleichförmigen
+Bewegung
+
+2.2.2
+
+Ungleichmäßig beschleunigte Bewegung
+
+Ändert sich der Betrag oder die Richtung der Beschleunigung, so
+nennen wir die Bewegung ungleichmäßig beschleunigt. Es gilt
+a = a ( t ) . In Abb. 5 sind zwei Beispiele für ungleichmäßig beschleunigte Bewegungen dargestellt. Die Kurve 1 der Funktion v1 ( t )
+stellt eine positiv beschleunigte Bewegung (a(t) > 0) dar. Die Kurve
+2 der Funktion v 2 ( t ) beschreibt eine negativ beschleunigte Bewegung (Abbremsung) mit a(t) < 0. Die jeweilige Momentangeschwindigkeit v 1 ( t ) bzw. v 2 ( t ) ist dann eine nichtlineare Funktion der Zeit.
+
+v
+
+a1>0
+v
+
+v1 (t)
+
+0
+a2<0
+
+0
+
+v2 (t)
+
+t
+
+Abb. 5: Geschwindigkeits-Zeit-Diagramm für zwei ungleichmäßig
+beschleunigte Bewegungen
+
+15
+
+2 Grundbegriffe der linearen Bewegung
+
+2.2.3
+
+Berechnung der Wegfunktion s(t) aus
+Geschwindigkeit v(t) und Beschleunigung
+
+Für eine Bewegung mit konstanter Beschleunigung a 0 gilt
+dv
+= a0 .
+dt
+Daraus ergibt sich:
+
+(2.11)
+
+dv = a 0 dt
+t
+
+t
+
+0
+
+0
+
+∫ dv = ∫ a 0 dt
+v ( t ) − v ( t = 0) = a 0 t
+Für v(t=0) wird abkürzend v 0 gesetzt. Damit folgt das Geschwin-
+
+digkeits-Zeit-Gesetz für die gleichmäßig beschleunigte Bewegung:
+v( t ) = a 0 t + v 0
+
+(2.12)
+
+Dabei gilt:
+ds
+= v(t) und ds = v(t)dt oder ds = (a 0 t + v 0 )dt .
+dt
+Für den zurückgelegten Weg s als Funktion der Zeit t erhält man:
+t
+
+t
+
+0
+
+0
+
+∫ ds = ∫ (a t + v
+0
+
+s ( t ) − s ( t = 0) =
+
+0
+
+) dt
+
+1
+a t 2 + v0t
+2 0
+
+Wird für s(t=0) abkürzend s 0 gesetzt, so folgt daraus das Weg-Zeit-
+
+Gesetz für die geradlinige, gleichförmig beschleunigte Bewegung
+s( t ) = s 0 + v 0 t +
+
+1
+a0t2 .
+2
+
+(2.13)
+
+Wird in Gl. 2.13 die Zeit t mithilfe von Gl. 2.12 eliminiert, so erhält
+man die Endgeschwindigkeit v, die ein mit der Anfangsgeschwindigkeit v 0 gleichmäßig beschleunigter Körper nach Durchlaufen der
+Wegstrecke s erreicht:
+v = v 02 + 2as
+
+16
+
+(2.14)
+
+2.2 Beschleunigung
+
+Je nach Art der Bewegung kann die konstante Beschleunigung a 0 >0
+oder a 0 < 0 (Abbremsung) sein. Werden zum Zeitpunkt t 0 = 0 die
+Anfangsbedingungen s 0 = 0 und v 0 = 0 gewählt, so erhält man für
+Bewegungen im Schwerefeld der Erde mit der konstanten Erdbeschleunigung a 0 = g aus dem Weg-Zeit-Gesetz das Fallgesetz für
+
+den freien Fall aus der Ruhelage
+1 2
+gt .
+2
+
+s( t ) =
+
+Das Fallgesetz erlaubt mithilfe der Messung von Fallstrecke s und
+Fallzeit t eines zum Anfangszeitpunkt ruhenden Körpers die experimentelle Bestimmung der Fallbeschleunigung oder Erdbeschleunigung, die üblicherweise durch das Symbol g bezeichnet wird.
+g=
+
+2s
+
+(2.15)
+
+t2
+
+In Abb. 6 ist das Berechnungsverfahren zur Ermittlung der Wegfunktion s(t) aus einer gegebenen Beschleunigungsfunktion a( t ) = a 0
+mittels mathematischer Integration sowie die Bestimmung der Beschleunigungsfunktion a(t) aus einer gegebenen Wegfunktion s(t)
+mithilfe der Differenziation grafisch dargestellt. Hierzu wurde eine
+gleichmäßig beschleunigte Bewegung gewählt.
+s(t)
+1
+s(t)= 2 a0 t²+v0
+
+1
+
+s(t)= 2 a0 t²+v0 t+s0
+
+t+s0
+t
+
+s0
+
+s(t)= v(t)dt
+0
+
+s0
+
+t
+v(t)
+
+v(t) =
+
+v(t)=a 0 t+v0
+t
+
+ds(t)
+=s(t)
+dt
+
+v(t)= a(t)dt
+0
+
+v0
+
+v0
+
+t
+a(t)
+
+a(t)=
+
+a(t)=a0
+
+dv(t) d²s(t)
+=
+= s(t)
+dt²
+dt
+a0
+
+a0
+
+a(t)=a0
+t
+
+Abb. 6: Weg-Zeit-, Geschwindigkeits-Zeit- und BeschleunigungsZeit-Diagramme
+
+17
+
+2 Grundbegriffe der linearen Bewegung
+
+Die Darstellung in Abb. 6 gilt für eine positive Beschleunigung. Bei
+einer Bremsbewegung unter der Einwirkung einer konstanten Reibungskraft tritt eine Verzögerung auf. Im Geschwindigkeits-ZeitGesetz und im Weg-Zeit-Gesetz tritt dann ein Minuszeichen vor der
+Beschleunigung a 0 auf. Dieser Sachverhalt wird im Unterabschnitt
+3.5.4 am Beispiel Straßenverkehr beschrieben. Analog zu Gl. 2.14
+erhält man für eine gleichmäßig verzögerte Bewegung für die Geschwindigkeit v als Funktion des zurückgelegten Bremsweges s:
+v = v 02 − 2 a s
+
+(Gl. 2.16)
+
+Die Wurzel erstreckt sich über die gesamte rechte Seite der Gl. 2.16.
+v = v(t) ist die Geschwindigkeit des Körpers zum Zeitpunkt t und
+v 0 = v( t = 0) seine Anfangsgeschwindigkeit zum Anfangszeitpunkt
+t = 0.
+Für den zurückgelegten Weg s = s(t) einer gleichmäßig beschleunigten oder einer gleichmäßig verzögerten Bewegung folgt:
+s=
+
+v0 + v
+⋅t
+2
+
+(Gl. 2.17)
+
+Und für den Spezialfall einer gleichmäßig beschleunigten Bewegung
+mit v 0 = 0 folgt: s =
+
+v
+⋅t
+2
+
+Bei einem Bremsvorgang (gleichmäßig verzögerte Bewegung) wird
+s B = s( t = t B ) als Bremsweg bezeichnet. Setzt der Abbremsvorgang
+zum Anfangszeitpunkt t = 0 ein und sei t B die Bremsdauer, nach
+deren Ablauf der bewegte Körper vollständig zur Ruhe gekommen
+ist, dann ist v( t = t B ) = 0 . Für den Bremsweg s B folgt dann:
+sB =
+
+v0
+⋅ tB
+2
+
+Die Kinematik der für die technischen Anwendungen wichtigen
+Drehbewegung (Rotation) wird in Kap. 5 anhand der gleichförmigen Kreisbewegung im Detail behandelt.
+
+18
+
+3.1 Träge Masse
+
+3
+
+Dynamik: Masse, Impuls und Kraft
+
+3.1
+
+Träge Masse
+
+Die Masse ist eine Basisgröße des SI-Systems mit der
+Basiseinheit Kilogramm.
+Die Masse eines Körpers ist Ursache für sein Beharrungsvermögen
+gegenüber Versuchen, seinen Bewegungszustand zu ändern. Sie ist
+somit Ausdruck für die Trägheit des Körpers. Sie stellt einen Beschleunigungswiderstand dar und wird auch als träge Masse bezeichnet. Die Masse ist somit ein Mengenbegriff, durch den ein
+quantitatives Maß für die Trägheit gegeben ist.
+
+3.2
+
+Impuls
+
+r
+Der Impuls p eines Körpers wird als das Produkt des Skalars Masse
+r
+m mit seinem Geschwindigkeitsvektor v definiert.
+r
+r
+p = mv
+
+(3.1)
+
+Der Impuls ist damit ein Vektor, der in Richtung des Geschwindigkeitsvektors weist.
+Für die Einheit des Impulses folgt
+[ p] = [ m] [ v] =
+
+3.3
+
+kg m
+.
+s
+
+Newtonsche Axiome
+
+Da ein sich bewegender Körper zum Stillstand kommt, behaupteten
+die Griechen, es sei eine Kraft nötig, um einen Körper in Bewegung
+zu halten. Das war die Aussage der Naturlehre des griechischen Philosophen Aristoteles (384 - 322 ), die ja auch mit der alltäglichen
+Erfahrung überein zustimmen scheint.
+
+Galileo Galilei sowie Isaac Newton behaupteten dagegen, dass der
+bewegte Körper zum Stillstand kommt, ist die Folge einer auf den
+Körper einwirkenden Reibungskraft. Soll diese Aussage in einem
+Versuch experimentell überprüft werden, so stellt sich heraus, dass
+die bremsende Reibungskraft nicht völlig ausgeschaltet werden
+kann, aber sie kann klein gehalten werden, und je kleiner die Reibung wird, desto weiter bewegt sich der Körper, bevor er zur Ruhe
+kommt.
+
+19
+
+3 Dynamik: Masse, Impuls und Kraft
+
+Es ist daher vernünftig anzunehmen, dass im Grenzfall verschwindender Reibung der Bewegungszustand unverändert bleibt, wie es
+das 1. Newtonsche Axiom besagt. Das 1. Newtonsche Axiom, das
+auch als Galileischer Trägheitssatz bezeichnet wird, beschreibt, wie
+frei bewegliche Körper sich bewegen, wenn keine Kräfte auf sie
+einwirken. Körper heißen frei beweglich, wenn sie keinen Zwangsbedingungen unterworfen sind.
+
+1. Newtonsche Axiom:
+Wirken auf einen frei beweglichen Körper keine Kräfte,
+so verharrt er im Zustand der Ruhe (v = 0) oder der
+r
+gleichförmigen Bewegung ( v = konst.).
+Die Kraft, die auf einen Körper wirkt, ist an ihrer Auswirkung erkennbar. Deshalb spricht man oft auch statt von Kräften von Wechselwirkungen. Die Kraft führt, wenn der Körper beweglich ist, zur
+Änderung seines Bewegungszustandes, anderenfalls zu seiner Deformation.
+
+2. Newtonsche Axiom:
+Die Einwirkung einer Kraft auf einen frei beweglichen
+Körper ruft eine Änderung seines Bewegungszustandes,
+d.h. seine Beschleunigung (oder Verzögerung), hervor.
+Die Größe der Kraft ist gegeben als zeitliche Änderung
+des Impulses
+v
+d r d
+v
+F =
+p=
+(m v ).
+dt
+dt
+
+(3.2)
+
+Für Körper, deren Massen sich nicht mit der Zeit ändern (wie dies
+z.B. wegen des Brennstoffverbrauchs bei einer Rakete der Fall wäre),
+d.h. für einen Körper mit konstanter Masse m ergibt sich:
+
+r
+v
+dv
+v
+v
+d
+F =
+(m v ) = m
+= ma .
+dt
+dt
+
+(3.3)
+
+Das 2. Newtonsche Axiom beschreibt, wie sich die Geschwindigkeit
+eines Körpers unter dem Einfluss von Kräften ändert. Es wird wegen
+seiner Bedeutung auch als Grundgleichung der Mechanik bezeichr
+net. Dabei stellt die Beschleunigung a die zeitliche Änderung der
+r
+Geschwindigkeit v dar. Die Masse m ist ein Skalar, die Beschleunir
+gung a ist eine vektorielle Größe. Die Kraft als das Produkt von
+Masse und Beschleunigung ist damit ein Vektor, der in Richtung des
+r
+Beschleunigungsvektors a weist. Die Kraft im 2. Newtonschen
+Axiom ist immer eine resultierende Kraft, d.h. die Vektorsumme
+aller Kräfte, die auf einen Körper einwirken.
+
+20
+
+3.3 Newtonsche Axiome
+
+Für die Einheit der Kraft gilt
+[ F ] = [m] [a] = 1
+
+kg m
+s2
+
+= 1 N (Newton).
+
+(3.4)
+
+Es zeigt sich, dass das 1. Newtonsche Axiom nur einen Spezialfall
+r
+des 2. Newtonschen Axioms darstellt. Ist nämlich F = 0 , dann ist
+r
+r
+auch a = 0 und daraus folgt v = konstant.
+
+r d r
+Aus F = p folgt durch Multiplikation mit dt:
+dt
+r
+r
+Fdt = dp
+Integration über die Zeitspanne zwischen einem Anfangszeitpunkt
+t A und einem Endzeitpunkt t B ergibt das Zeitintegral über die Kraft
+r
+F , das auch als Kraftstoß bezeichnet wird.
+tE
+
+tE
+r
+r r
+r
+∫ Fdt = ∫ dp = p(t E ) − p(t A )
+
+tA
+
+(3.5)
+
+tA
+
+Der Kraftstoß ist somit gleich der durch ihn bewirkten Impulsänder r
+r
+rung ∆p = p( t E ) − p( t A ) .
+
+3. Newtonsche Axiom: actio = reactio
+Das 3. Newtonsche Axiom wird auch als das Prinzip der Gleichheit
+von actio (Kraft) und reactio (Gegenkraft) bezeichnet.
+
+r
+Übt ein Körper 1 auf einen Körper 2 eine Kraft F1→2 aus, so
+
+zeigt die Erfahrung, dass der Körper 2 auf den Körper 1 mit eir
+ner Kraft F2→1 wirkt, die von gleichem Betrag, aber entgegengesetzt gerichtet ist.
+r
+r
+F1→2 = − F2→1
+
+(3.6)
+
+d r
+d r
+p1 = − p 2
+dt
+dt
+
+(3.7)
+
+Mit dem 3. Newtonschen Axiom hat Newton eine Regel, d.h. eine
+allgemeine Eigenschaft der Kräfte formuliert. Dazu soll ein Laufschienenexperiment betrachtet werden, bei dem zwei ruhende Wagen
+gleicher Masse durch eine elastisch gespannte Feder miteinander
+verbunden sind (Abb. 7). Lässt man die Feder sich entspannen, werden die Wagen in entgegen gesetzte Richtungen beschleunigt, sodass
+sie sich auf der Schiene mit entgegengesetzt gleicher Geschwindig-
+
+21
+
+3 Dynamik: Masse, Impuls und Kraft
+
+keit voneinander fortbewegen. Es ist m1 = m2 . Die Auswertung des
+r
+r
+Experimentes liefert a 1 = −a 2 . Daher ist F1→2 = − F2→1 .
+
+Abb. 7: Laufschienenexperiment
+Die Bedeutung des 3. Newtonschen Axioms (actio gleich reactio)
+soll an einigen Beispielen demonstriert werden.
+
+Beispiele:
+r
+r
+a) Die Gewichtskraft F = mg
+Ein 150 kg schwerer Unternehmensberater, der im 25. Stockwerk eines Bürohochhauses an seinem Schreibtisch sitzt, fällt infolge seiner Gewichtskraft nicht durch die Decke des Bodens
+nach unten (entsprechende Tragfähigkeit der Decke sei vorausgesetzt), da diese Gewichtskraft gemäß des 3. Newtonschen
+Axioms durch eine gleich große aber entgegengesetzt gerichtete
+r
+r
+Gegenkraft F = − mg kompensiert wird. Nach längerem Sitzen
+macht sich diese Gegenkraft übrigens schmerzhaft bemerkbar.
+b) Das Mond-Erde-System
+Die Erde übt auf den Mond eine Anziehungskraft aus. Infolge
+dieser Kraft bewegt sich der Mond um die Erde. Diese Kraft ist
+ein Spezialfall der Newtonschen Gravitationskraft, die in Abschnitt 3.5 näher beschrieben wird. Nach dem 3. Newtonschen
+Axiom übt der Mond eine gleich große aber entgegengesetzt gerichtete Anziehungskraft auf die Erde aus. Da die Erdmasse
+100mal schwerer als die Mondmasse ist, bewegt sich die Erde
+nicht um den Mond. Bei genauerer Betrachtung zeigt sich, dass
+sich der Mond und die Erde gemeinsam um den Massenschwerpunkt des Mond-Erde-Systems bewegen, der sich allerdings
+noch innerhalb der Erdkugel befindet.
+c) Das Paradoxon vom Elch und dem Baustamm
+
+22
+
+3.3 Newtonsche Axiome
+
+J. Balif und W. Dibble berichten in ihrem Buch Anschauliche
+Physik (S. 208) von folgender Fabel. Ein Elch soll vor einen
+Baumstamm gespannt werden, um einen gefällten Stamm zu
+ziehen. In der Forstwirtschaft wird diese Arbeit als Rückearbeit
+bezeichnet, worunter man das Herausziehen der Stämme aus
+dem Bestand hin zu einem geeigneten Abfuhrplatz versteht. Der
+gebildete Elch weigert sich aber und zitiert Isaac Newtons drittes
+Axiom und schließt daraus, dass, wie kräftig er auch den Stamm
+ziehen möge, der Stamm ihn immer mit der gleichen Kraft zurückzieht. "Also", sagt er, "ist es völlig nutzlos, dass ich versuche, den Stamm zu ziehen (oder irgendeinen anderen Gegenstand), denn jede Kraft, die ich auf den Baustamm ausübe, um
+ihn zu bewegen, wird genau ausgeglichen durch die Kraft, mit
+der der Stamm zurückzieht". Diese Argumentation beruht jedoch
+auf einem Trugschluss. Wird der Stamm über den Boden gezogen, so greift an dem Stamm eine bremsende Reibungskraft an.
+Sie ist als bremsende Kraft der Bewegungsrichtung des ziehenden Elches entgegengerichtet. Daneben greift die Zugkraft des
+Elches an dem Stamm an, die, sofern sie die Reibungskraft
+überwiegt als resultierende Kraft den Stamm in Richtung des
+ziehenden Elches beschleunigt. Da die Bewegung des Stammes
+horizontal erfolgt, können alle vertikalen Kräfte ignoriert werden. Soll der Elch den Stamm mit konstanter Geschwindigkeit
+weiterziehen, nachdem er einmal in Bewegung ist, muss er auf
+den Stamm eine Kraft ausüben, deren Betrag gleich dem Betrag
+der Reibungskraft auf den Stamm ist. Die resultierende Kraft ist
+in diesem Fall null. Der Stamm wird sich dann gemäß dem Galileieschen Trägheitssatz (1. Newtonsches Axiom) mit konstanter
+Geschwindigkeit weiterbewegen. Bei dieser Argumentation
+wurde die Kraft des Stammes auf den Elch nicht erwähnt. Diese
+Kraft wirkt nicht auf den Stamm; sie beeinflusst zwar die Bewegung des Elches, aber nicht die Bewegung des Stammes. Obwohl die Wechselwirkung zwischen dem Elch und dem Stamm
+aus zwei Kräften besteht, wirkt nur eine von ihnen auf den
+Stamm.
+Um Missverständnisse bei der Anwendung des 3. Newtonschen Axioms auszuschließen ist Folgendes zu beachten: Die beiden betragsmäßig immer gleich großen aber entgegengesetzt gerichteten Kräfte
+(Aktionskraft und Reaktionskraft) wirken niemals beide auf dasselbe
+Objekt ein. Ein vertieftes Studium der Natur der Kräfte zeigt: Das 3.
+Newtonsche Axiom gilt nur bei einer Beschränkung auf nichtrelativistische Phänomene. Es ist somit kein allgemein gültiges Naturgesetz, da es dem Relativitätsprinzip widerspricht, nachdem alle
+Naturgesetze in allen nicht beschleunigten Bezugssystemen, den so
+genannten Inertialsystemen, gleich sein sollen. Gemäß der Aussage
+r
+r
+actio = reactio müssen nämlich die beiden Kräfte F1→2 und F2→1
+zur gleichen Zeit t miteinander verglichen werden. Die Definition der
+Gleichzeitigkeit bereitet jedoch Schwierigkeiten, da sie vom jeweili-
+
+23
+
+3 Dynamik: Masse, Impuls und Kraft
+
+gen Bezugssystem abhängig ist. Zwei von einem Bezugssystem aus
+gleichzeitig registrierte Ereignisse, sind nämlich nicht notwendigerweise gleichzeitig, wenn sie von einem anderen Bezugssystem aus
+beobachtet werden, das sich relativ zum Ersten bewegt.
+
+3.4
+
+Kräfte, Wechselwirkungen und ihre Ursachen
+
+Kräfte sind vektorielle physikalische Größen, d.h. Vektoren mit zu
+ihrer Größe proportionalen Längen. Ein Körper befindet sich im
+statischen Gleichgewicht, wenn er keiner resultierenden Gesamtkraft
+ausgesetzt ist, die ihn andernfalls in Bewegung setzen würden. In
+diesem Fall bilden die Kräfte ein geschlossenes Vieleck, d.h. die
+Kräfte, die ihrerseits alle von null verschieden sind, addieren sich
+nach den Regeln der Vektoraddition zu einer resultierenden Vektorsumme mit dem Betrag Null. Dabei müssen die Kräfte nicht notwendigerweise in einer Ebene liegen, sie können vielmehr im dreidimensionalen Raum in jede beliebige Richtung weisen. Auf einen frei
+beweglichen aber ruhenden Körper sollen beispielsweise drei nicht
+r r
+r
+parallele Kräfte F1 , F2 und F3 einwirken (Abb. 8).
+F3
+
+F1
+
+F2
+
+F1
+
+F2
+
+F3
+
+Abb. 8: Kräftegleichgewicht von drei nicht parallelen Kräften
+
+Ein Kräftegleichgewicht bezüglich Translationsbewegungen liegt
+immer dann vor, wenn verschiedene Kräfte, die an einer Punktmasse
+m angreifen ein geschlossenes Vieleck (Polygon) bilden.
+
+24
+
+3.4 Kräfte, Wechselwirkungen und ihre Ursachen
+
+F3
+F4
+
+F4
+
+F2
+
+F3
+
+m
+F5
+
+F5
+
+F1
+
+F1
+
+F2
+
+Abb.9: Kräftegleichgewicht von fünf nicht parallelen Kräften
+In Vektorschreibweise gilt dann:
+n r
+r
+r
+r r
+r
+F = (Fx , Fy , Fz ) = F1 + F2 + ... + Fn = ∑ Fi = 0
+
+(3.8)
+
+i =1
+
+Der Vektorcharakter der Kräfte führt zu dem interessanten Ergebnis,
+r
+dass die Summe unterschiedlicher Kräfte, die alle vom Nullvektor 0
+r r
+verschieden sind, zu einer verschwindenden Resultierenden ( F = 0 )
+führt. In Komponentenschreibweise kann diese Vektorgleichung
+durch drei skalare Gleichungen ersetzt werden:
+n
+
+Fx = F1, x + F2, x + F3,x + ... = ∑ Fi, x = 0
+i =1
+n
+
+Fy = F1, y + F2, y + F3, y + ... = ∑ Fi, y = 0
+i =1
+n
+
+Fz = F1,z + F2,z + F3,z + ... = ∑ Fi,z = 0
+i =1
+
+r
+r
+Das 2. Newtonsche Axiom F = ma kann als eine Art Definition der
+Kraft angesehen werden. Die Aussage dieses Axioms geht aber über
+eine reine Definition hinaus. Einerseits ist die Art und Weise, wie
+sich materielle Objekte unter dem Einfluss von Kräften verhalten,
+völlig unabhängig von irgendeiner Wahl von Definitionen. Andererseits ist das 2. Newtonsche Axiom als physikalisches Gesetz unvollr
+r
+ständig, denn die auf der linken Seite der Gleichung F = ma stehenr
+de Kraft ist noch nicht näher bestimmt. Eine Kraft F muss daher
+zusätzlich zum 2. Newtonschen Axiom noch einige unabhängige
+Eigenschaften aufweisen, welche die jeweilige Kraft genauer spezifizieren. Eine der wichtigsten physikalischen Eigenschaften jeder
+Kraft ist dabei, dass sie einen materiellen Ursprung hat. Massen und
+elektrische Ladungen als die wichtigsten qualitativen Eigenschaften
+der Materie und ihrer Konstituenten in Form der Elementarteilchen
+können daher als die grundlegenden Quellen der Kräfte angesehen
+werden. Die Frage „was ist eine Kraft?" wird beispielsweise im Falle
+der Wechselwirkung zwischen den beiden Massen m und M, die
+einen Abstand r voneinander haben durch das von Newton 1666
+
+25
+
+3 Dynamik: Masse, Impuls und Kraft
+
+formulierte Gravitationsgesetz beantwortet. Für den Betrag FG der
+Gravitationskraft gilt:
+FG = G
+
+mM
+
+(3.9)
+
+r2
+
+Die Gravitation ist eine langreichweitige Wechselwirkung, die nicht
+abschirmbar ist, da es nur Massen eines Vorzeichens gibt. Wird die
+Masse M in den Ursprung eines Koordinatensystems gelegt, dann
+r
+weist der Ortsvektor r zur Masse m. Mithilfe des in Richtung des
+r
+r
+r
+r
+Ortsvektors r weisenden radialen Einheitsvektors e r = kann
+r
+r
+die Anziehungskraft F , die eine Masse M auf eine punktförmige
+Masse m im Abstand r ausübt in vektorieller Form geschrieben werden:
+r
+mM r
+FG = −G 2 e r .
+r
+
+(3.10)
+
+r
+F greift in m an und weist nach M. Die Richtung der Kraft wird
+r
+r
+dabei durch den zu − r parallelen Einheitsvektor − er charakteri-
+
+siert. Die Kraft, mit der die Masse m gemäß dem 3. Newtonschen
+Axioms auf die Masse M einwirkt, unterscheidet sich nur durch ein
+positives Vorzeichen. Dies ist in der folgenden Abbildung am Beispiel des Erde-Mond-Systems dargestellt. Der Mond übt eine Gravir
+tationskraft FM →E auf die Erde aus. Die Erde übt eine gleich große
+r
+entgegengesetzt gerichtete Gravitationskraft FE →M auf den Mond
+aus. Diese Aussage ergibt sich aus dem 3. Newtonschen Axiom:
+r
+r
+FM →E = − FE → M
+
+(3.11)
+
+r
+
+mM
+
+FM E
+
+FE M
+
+ME
+
+Abb. 10: Gravitationswechselwirkung
+Die Proportionalitätskonstante G, die so genannte Gravitationskonstante, die erstmals 1798 durch Henry Cavendish (1731 - 1810)
+experimentell bestimmt wurde, hat den Zahlenwert
+
+26
+
+3.4 Kräfte, Wechselwirkungen und ihre Ursachen
+
+G = 6,672 ⋅ 10 −11 Nm 2 kg −2 .
+
+(3.12)
+
+Die Gravitation infolge der Erdmasse M E nennen wir die Schwerkraft, Gewichtskraft oder Erdanziehungskraft FS . Die Schwerkraft
+
+oder Gewichtskraft einer Masse m auf der Erdoberfläche, d. h. im
+Abstand RE vom Erdmittelpunkt ergibt sich zu:
+FG = G
+
+mM E
+R 2E
+
+= mg .
+
+(3.13)
+
+Die Erde verhält sich dabei so, als sei ihre gesamte Masse im Erdmittelpunkt vereinigt. Diese Tatsache liefert eine Rechtfertigung für die
+idealisierende Modellannahme der Punktmechanik: Massen können
+als mathematische Punkte aufgefasst werden, denen zusätzliche physikalische Eigenschaften zugewiesen werden.
+Für die Schwerebeschleunigung der Erde, die kurz als Erdbeschleunigung g bezeichnet wird, folgt:
+g=G
+
+ME
+R 2E
+
+.
+
+(3.14)
+
+Mit den Zahlenwerten für die Erdmasse M E = 5,974 ⋅ 10 24 kg und
+dem mittleren Erdradius R E = 6,371 ⋅ 10 6 m erhält man für die
+Erdbeschleunigung:
+g = 9,81
+
+m
+s2
+
+.
+
+(3.15)
+
+Die Form der Erde ist nicht starr, sondern einer dynamischen Veränderung unterworfen. Sie stellt in guter Näherung ein Rotationsellipsoid dar mit einem Äquatorialradius von R E ,Ä = 6,378 ⋅ 10 6 m und
+
+einem Polradius von R E,P = 6,357 ⋅ 10 6 m. Die Abplattung
+∆R = R E ,Ä − R E,P beträgt zurzeit in einer Phase der Zunahme des
+Äquatorialradius ∆R = 21 km . Die Abplattung und die Zentrifugalkraft infolge der Erdrotation führen dazu, dass ein Gegenstand am
+Pol schwerer ist als am Äquator. Abweichend von dem auf Meeresniveau definierten Standardwert der Erdbeschleunigung von
+g = 9,80665 m / s 2 , misst man am Pol einen größeren Wert von etwa
+g = 9,83 m / s 2 , während man am Äquator einen kleineren Messwert
+von etwa g = 9,78 m / s 2 registriert.
+
+27
+
+3 Dynamik: Masse, Impuls und Kraft
+
+Die Gravimetrie ist ein Messverfahren, dass im Rahmen der Lagerstättenkunde die genaue Messung der lokalen Erdbeschleunigung g
+ausnutzt, um beispielsweise Aussagen über mögliche Erdölvorkommen zu machen. Oberflächennahe Gesteine mit Unterschieden in der
+Dichte beeinflussen das Schwerefeld der Erde und damit den Betrag
+der Erdbeschleunigung. So ist beispielsweise die lokale Erdbeschleunigung über einem dichten Erzvorkommen etwas größer, über
+Salzstöcken mit geringer Dichte etwas kleiner als der Normalwert.
+Während ursprünglich zur Messung der Erdbeschleunigung Pendelversuche eingesetzt wurden, beruhen moderne Gravimeter auf dem
+Prinzip der Federwaage. An einer Spiralfeder ist eine bestimmte
+Masse m aufgehängt. Durch Änderung der Erdbeschleunigung ändert
+sich die Gewichtskraft FS = mg und damit die Länge der Feder.
+Federwaagen-Gravimeter liefern Schwereunterschiede mit einer
+Genauigkeit von ± 10 −7 m / s 2 . Grundlage ist das Hookesche Gesetz
+der Elastizität, das der Physiker Robert Hooke (1635 - 1703) im Jahr
+1679 aufstellte. Die Dehnung einer Schraubenfeder ist demnach der
+wirkenden Kraft direkt proportional.
+
+Ein Kraftgesetz mit der gleichen mathematischen Struktur, das die
+Größe der Kraft FC zwischen elektrisch geladenen Objekten mit den
+Ladungen q1 und q 2 , die sich im Abstand r voneinander befinden
+beschreibt, entdeckte Charles Augustin Coulomb (1736 - 1806).
+Dieses Gesetz kann betragsmäßig folgendermaßen geschrieben werden:
+FC = k E
+
+q 1q 2
+r2
+
+.
+
+(3.16)
+
+Die Kopplungskonstante k E beschreibt die Stärke der Coulomb-
+
+schen Kraft, die auch als elektromagnetische Wechselwirkung
+bezeichnet wird. Für k E gilt:
+kE =
+
+1
+4πε 0
+
+(3.17)
+
+ε0 heißt elektrische Feldkonstante. Ihr Wert ist
+As
+. Die Richtung der Coulombschen Kraft hängt
+Vm
+davon ab, ob die elektrischen Ladungen gleiches oder ungleiches
+Vorzeichen haben. Die experimentelle Beobachtung zeigt nämlich:
+ε 0 = 8,854 ⋅ 10 −12
+
+Gleichnamige elektrische Ladungen stoßen sich ab, ungleichnamige elektrische Ladungen ziehen sich an.
+
+28
+
+3.5 Coulombsche und Newtonsche Reibungskräfte
+
+Für die Anziehungskraft, mit der im Wasserstoffatom das Elektron
+mit der elektrischen Ladung q1 = −e an das Proton mit der Ladung
+q 2 = +e gebunden ist folgt:
+FC = −
+
+1 e2
+.
+4πε 0 r 2
+
+(3.18)
+
+Durch diese Coulombsche Kraft werden Proton und Elektron im
+Wasserstoffatom zusammengehalten.
+
+3.5
+
+Coulombsche und Newtonsche Reibungskräfte
+
+Unter realen Bedingungen wird die Bewegung von Körpern durch
+Reibung beeinflusst. Aber auch bei statischen Problemen der Mechanik spielt die Reibung eine hervorragende Rolle. Ohne Reibungskräfte würde kein Knoten halten und kein Nagel in der Wand bleiben. Auch spanende Werkstückbearbeitung (Bohren, Fräsen, Drehen) wäre ohne Reibung unmöglich.
+Ursache der Bewegungsänderung durch Reibung ist die Reibungsr
+kraft FR . Sie ist der Bewegungsrichtung, d.h. der Momentangev
+schwindigkeit v des Körpers stets entgegengerichtet und wirkt daher bremsend auf den Bewegungsablauf.
+Die Reibungskräfte haben ihren Ursprung in den zwischen den Atomen/ Molekülen eines Körpers und den Atomen/Molekülen des umgebenden Mediums wirkenden Anziehungskräfte (Adhäsion). Diese
+Kräfte wirken nur auf kleine Entfernungen und sind elektromagnetischer Natur. Je nach Art des umgebenden Mediums unterscheidet
+man zwischen:
+- Festkörperreibung
+- Reibung in Flüssigkeiten und Gasen.
+Die Festkörperreibung wird auch als äußere Reibung oder auch als
+Coulombsche Reibung bezeichnet; sie tritt nur bei der Relativbewegung zweier verschiedener fester Körper gegeneinander auf. Ein
+besonderes Kennzeichen der äußeren Reibung ist ihre weit gehende
+Unabhängigkeit von der Geschwindigkeit der Relativbewegung.
+Bei der Festkörperreibung unterscheidet man zwischen:
+- Haftreibung
+- Gleitreibung
+- Rollreibung
+
+29
+
+3 Dynamik: Masse, Impuls und Kraft
+
+Die Reibungskräfte FR können unabhängig von der genauen Kenntnis der zwischenmolekularen Prozesse vereinfachend durch empirisch gewonnene Regeln näherungsweise beschrieben werden. Sie
+haben die folgende mathematische Struktur:
+FR = µ ⋅ FN
+
+(3.19)
+
+FN ist die Normalkraft, d.h. die Komponente der Schwerkraft, die
+senkrecht auf die jeweilige Unterlage als Bewegungsebene des Körpers wirkt. Die Festkörperreibung hängt dabei von der Oberflächenbeschaffenheit der reibenden Körper ab, die durch einen Reibungskoeffizienten µ berücksichtigt wird. Unterschiedliche Oberflächenbeschaffenheit führt z.B. dazu, dass zwei plan polierte Glasplatten
+fester aneinander haften als zwei aufgeraute.
+Die Reibung in Flüssigkeiten und Gasen wird als innere Reibung
+oder auch als Newtonsche Reibung bezeichnet. Sie tritt bei Relativbewegungen von Molekülen/Atomen ein und desselben Körpers wie
+z.B. bei Strömungen in einer Flüssigkeit auf und ist geschwindigkeitsabhängig. Eine wesentliche Eigenschaft der inneren Reibung ist
+ihre ausgeprägte Abhängigkeit von der Geschwindigkeit der Relativbewegung. Die Reibungskräfte in Flüssigkeiten und Gasen werden
+im Rahmen einer Einführung in die Fluiddynamik behandelt.
+
+3.5.1
+
+Haftreibung
+
+Unter Haftreibung versteht man die Reibung zwischen ruhenden
+Körpern. Sie ist im eigentlich Sinne keine Reibung dar, denn die
+aneinander haftenden Körper reiben sich nicht, da keine Relativbewegung vorhanden ist. Die Haftreibung stellt vielmehr einen Haftwiderstand oder eine Haftkraft dar. Sie lässt sich durch die Rauhigkeit der sich berührenden Oberflächen aufgrund der Verzahnung der
+Rauigkeitsgebirge erklären.
+
+30
+
+3.5 Coulombsche und Newtonsche Reibungskräfte
+
+F
+N
+A
+
+B
+
+Abb. 11: Oberflächenrauigkeit als Reibungsursache
+Auch eine polierte ebene Fläche ist keine ideale Ebene. Sie besitzt
+aufgrund von Polierungenauigkeiten eine Mikrorauigkeit, deren Einhüllende sich als makroskopische Abweichungen von der mittleren
+Oberfläche (Soll-Ebene h = 0 ) bemerkbar macht (Abb. 12).
+h
+
+Einhüllende
+
+mittlere
+Oberfläche
+Mikrorauhigkeit
+
+Abb. 12:Mikrorauigkeit einer polierten ebenen Fläche
+
+Ein auf einer schiefen Ebene ruhender Körper setzt sich erst dann in
+r
+r
+Bewegung, wenn die Hangabtriebskraft FT die Reibungskraft FH
+überschreitet (Abb. 13).
+
+m
+FT
+
+ϕ
+
+FHR
+ϕ F
+N
+
+FS
+
+Abb. 13: Festkörperreibung
+
+31
+
+3 Dynamik: Masse, Impuls und Kraft
+
+Aus der in Abb. 13 dargestellten schiefen Ebene ergibt sich für die
+r
+r
+r
+wirkenden Kräfte: FS = FN + FT
+r
+FN ist dabei die Normalkraft, sie ist die Komponente der Schwerr
+kraft FS , die senkrecht auf die jeweilige Unterlage wirkt. FS = mg
+
+ist der Betrag der Schwerkraft. Im Folgenden werden nur die Beträge
+der Reibungskräfte betrachtet. Für die Festkörperreibung gilt das
+empirisch gefundene Coulombsche Reibungsgesetz: Die Reibungskraft ist proportional zur Normalkraft. Für die Haftreibungskraft
+FHR macht man daher in Übereinstimmung mit der Erfahrung den
+Ansatz
+FHR = µ H FN .
+[µ H ] =
+
+[FHR ]
+[FN ]
+
+(3.20)
+
+=
+
+N
+=1
+N
+
+(3.21)
+
+Die dimensionslose Zahl µ H heißt aus historischen Gründen Haft-
+
+reibungszahl oder üblicherweise Haftreibungskoeffizient. Bei
+präzisem Sprachgebrauch müsste er Haftkraftkoeffizient genannt
+werden. Der Reibungskoeffizient stellt eine so genannte Materialkonstante dar. Er beschreibt eine stoffspezifische Eigenschaft von
+Körpern, nämlich die Stärke der Reibungskraft.
+Ferner sind
+FN = FS cos ϕ
+
+(3.22)
+
+FT = FS sin ϕ .
+
+(3.23)
+
+Die Bewegung auf der schiefen Ebene setzt ein für
+r
+r
+FHR = −FT
+
+oder betragsmäßig
+µ H FS cos ϕ = FS sin ϕ .
+Ein Körper mit einer Masse m bleibt in Ruhe, solange der Neigungswinkel ϕ der schiefen Ebene kleiner als ein Grenzwinkel ϕ H
+ist. Bei ϕ = ϕ H beginnt Körper auf der schiefen Ebene zu gleiten.
+Dieser Winkel ϕ H heißt Haftreibungswinkel und es gilt
+µ H = tan ϕ H .
+
+32
+
+(3.24)
+
+3.5 Coulombsche und Newtonsche Reibungskräfte
+
+Ist speziell ϕ H = 45° , dann ergibt sich für den Haftreibungskoeffizienten µ H = 1 . So hinderlich die Reibung bei vielen technischen
+Anwendungen ist, so muss doch eindeutig festgestellt werden, dass
+die Haftreibung eine bewegungsfördernde Kraft ist. So wird z.B. ein
+Pkw durch die Haftreibung der Reifen vorwärts getrieben.
+
+3.5.2
+
+Gleitreibung
+
+Ist die Haftreibung überwunden, so gleitet der Körper über die Auflagefläche. Die Reibungskraft nimmt dabei ab. Schon Leonardo da
+Vinci (1452 – 1519) erkannte, dass sowohl die Haft- als auch die
+Gleitreibung bei harten Oberflächen nicht von der Größe der Auflagefläche, sondern nur von der Gewichtskraft senkrecht zur Unterlage
+abhängig ist. Bei Autoreifen trifft dies jedoch nicht zu. So besitzen
+breite Reifen eine größere Haft- und Gleitreibung. Auf mikroskopischer Ebene ist nämlich die Reibungskraft proportional zur effektiven Berührungsfläche und damit von der Anzahl der atomaren oder
+molekularen Paarwechselwirkungen der vorhandenen Kontaktstellen
+abhängig. Die Gleitreibungskraft FGR ist entgegengesetzt gleich der
+Kraft, die dann erforderlich ist, um die Bewegung des Körpers auf
+konstanter Geschwindigkeit zu halten. Es gilt
+FGR = µ G FN .
+
+(3.25)
+
+Die Reibungskraft ist unabhängig von der Größe und der Form der
+Berührungsfläche. µG heißt Gleitreibungszahl oder Gleitreibungskoeffizient. Es ist µG < µ H . Bei großen Geschwindigkeiten zeigt
+
+sich ferner eine Geschwindigkeitsabhängigkeit der Gleitreibungszahl
+µG = µ G ( v) . Dabei beobachtet man mit wachsender Geschwindigkeit eine Abnahme der Gleitreibungszahl µG . Umgekehrt nähert sich
+bei abnehmender Geschwindigkeit der Gleitreibungskoeffizient dem
+Haftreibungskoeffizienten an.
+µ G 
+→ µ H
+v →0
+
+(3.26)
+
+Bei sehr kleinen Geschwindigkeiten erfolgt das Gleiten ruckweise.
+Man spricht dann von einem Slip-Stick-Prozess, der auch die Grundlage für die Tonerzeugung von Streichinstrumenten darstellt. Die
+Reibungskoeffizienten lassen sich nicht mikroskopisch aus den Eigenschaften der Atome der beiden relativ zueinander bewegten Körper und den zwischen ihnen wirkenden Kräften ableiten. Durch Verwendung von Schmiermitteln, welche die sich berührenden Oberflächen benetzen, lässt sich µ G erheblich verringern. Diese Schmier-
+
+mittelreibung ist von großer technischer Bedeutung. Denn überall
+
+33
+
+3 Dynamik: Masse, Impuls und Kraft
+
+wo Körper aufeinander gleiten treten infolge von Reibungskräften
+auch Verschleißerscheinungen auf, die zu einem Materialabrieb führen. Die Schmiermittelreibung ist keine Festkörperreibung. Sie stellt
+eine innere Reibung der an beiden Festkörperoberflächen haftenden
+Flüssigkeitsschichten dar. Die Tribologie, ein Teilgebiet der Werkstoffwissenschaften, beschäftigt sich mit den werkstofftechnischen
+Maßnahmen zur Verschleißminderung und Energieeinsparung durch
+Reduzierung der Reibung.
+
+3.5.3
+
+Rollreibung
+
+Zur Beschreibung der Reibungseffekte beim Rollvorgang führt man
+die Rollreibung ein. Sie ist kleiner als die Gleitreibung, da beim Abrollen viele Unebenheiten infolge der Mikrorauigkeit ohne abbremsende Wirkung überbrückt werden können. Voraussetzung für die
+Rollbewegung ist allerdings die Haftreibung, ohne die eine Kugel
+oder ein Rad nicht rollen würde, sondern nur gleiten. Beim Rollen
+einer Kugel haftet die momentane Auflagefläche infolge der Haftreibung fest an der Unterlage. Die Rollreibung hat ihre Ursache darin,
+dass beim Rollen eine Drehbewegung abläuft und der rollende Körper (Kugel, Rad oder Zylinder) und Unterlage wegen der kleinen
+Auflagefläche beim Abrollen verformt werden können.
+
+FN= mg
+
+FE
+
+Abb. 14: Deformation der Unterlage beim Rollvorgang
+Durch die Deformation der Oberfläche um die Berührungslinie wird
+Deformationsarbeit (Walkarbeit) verrichtet, die teilweise in Wärme
+dissipiert wird. Der Laufwiderstand beim Abrollen eines Rades ohne
+Achskugellager auf einer Unterlage hängt aber nicht nur von der
+elastischen Verformung der Unterlage durch die Normalkraft sowie
+vom Raddurchmesser ab, sondern auch von der Gleitreibung in den
+Achslagern, nämlich an den Berührungsflächen von Achszapfen und
+Radnabe.
+Die die Rollbewegung hemmende Reibungskraft wird analog zur
+Haft- und Gleitreibung proportional zur Normalkraft angesetzt. Es
+gilt:
+FRR = µ R FN .
+
+34
+
+(3.27)
+
+3.5 Coulombsche und Newtonsche Reibungskräfte
+
+µR =
+
+FRR
+FN
+
+ist die dimensionslose Rollreibungszahl.
+
+Um den Betrag der Rollreibungskraft abschätzen zu können, sind als
+Anwendungsbeispiel die beiden folgenden Zahlenwerte für µ R aufgeführt. Für Eisenbahnräder gilt µ R ≈ 0,001 und für Pkw-Räder liegt
+die Rollreibungszahl im Bereich µ R ≈ 0,02 - 0,05.
+Die Erfindungen von Rad und Wälzlagern, zu denen neben dem Kugellager auch das Zylinderrollenlager gehört, waren die Voraussetzung für den Transport von Lasten auf dem Landwege über große
+Entfernungen. Die aufzuwendende Reibungsenergie wurde dabei
+durch die geringere Rollreibung größenordnungsmäßig um den Faktor 10 3 reduziert. Das Kugellager besteht aus zwei Ringen: Außenring (Lagerring) L und Innenring (Käfigring) K. Der Innenring K
+wird nach Erwärmung auf die Achse A aufgeschrumpft und sitzt
+nach dem Abkühlen fest auf der rotierenden Achse A, welche durch
+den Lagerring L gehalten wird. Der Käfigring K hat die Aufgabe,
+die Kugeln auf festen seitlichen Abstand zu halten und eine unmittelbare Berührung zu verhindern. Bei Rotation der Achse A rollen
+die Kugeln zwischen dem Innen- und Außenring und reduzieren
+dadurch die Reibung. Das Lager ist mit Schmierstoff gefüllt und
+wird durch nicht eingezeichnete Dichtungs- und Deckscheiben im
+Lager gehalten, die zugleich das Eindringen von Fremdkörpern (Verschmutzung) verhindern. Für die Aufnahme großer radialer Lasten
+werden bevorzugt Zylinderrollenlager eingesetzt, da diese wegen
+ihrer größeren Kontaktfläche mit dem äußeren und inneren Lagerring
+bei gleicher Belastung einen im Vergleich zum Kugellager kleineren
+Druck hervorrufen.
+L
+K
+K : Käfigring
+A
+
+15: Kugellager in schematischer Darstellung
+
+35
+
+3 Dynamik: Masse, Impuls und Kraft
+
+In Tabelle 1 sind einige Zahlenbeispiele für die Koeffizienten der
+Haft- bzw. Gleitreibung für verschiedene Materialkombinationen
+aufgeführt.
+Werkstoffpaarung
+
+µH
+
+µG
+
+Stahl – Stahl
+Gummi – Asphalt
+- trocken
+- nass ohne Wasserfilm
+Gummi - Beton
+Gummi – Eis
+Aluminium (Al) – Al
+Diamant - Diamant
+Teflon - Teflon
+Glas-Glas
+Sandpapier – Sandpapier
+
+0,1 – 0,7
+
+0,1 – 0,2
+
+0,9 – 1,2
+0,5 – 0,6
+0,5 – 1,0
+0,05 – 0,1
+1,1
+0,1
+0,04
+0,9
+1–5
+
+0,7 – 1,05
+0,4
+0,5 – 0,6
+0,05
+0,8 – 1,0
+0,08
+0,04
+0,4
+0,5 – 3
+
+Tab. 1: Haft- und Gleitreibungszahlen
+Die genauen Werte hängen stark von der jeweiligen Oberflächenbeschaffenheit (Bearbeitungszustand) und der Reinheit der Oberflächen
+ab. Die genannten Zahlenwerte können schwanken und stellen daher
+nur Richtwerte dar.
+
+3.5.4
+
+Anwendungsbeispiel: Bremsen im
+Straßenverkehr
+
+Ein auf ebener Strecke fahrendes Auto mit der Masse m = 1500
+kg und der Geschwindigkeit v0 = 144 km/h wird durch Blockieren aller Räder gebremst. Die Gleitreibungszahl zwischen Autoreifen und Straßenbelag betrage µ G = 0,8155.
+a) Wie groß ist die bremsende Reibungskraft FGR ?
+b) Wie lang ist der Bremsweg s B ?
+a) Für die Gleitreibungskraft FGR gilt:
+FGR = µ G FN = µ G mg = 0,8155 ⋅ 1500 kg ⋅ 9,81m / s 2
+
+FGR = 12000 N = 12 kN
+b) Gemäß des 2. Newtonschen Axioms gilt für alle Kräfte:
+F = ma = FGR
+Mit FGR = µ G mg folgt für den Betrag der Beschleunigung a
+
+36
+
+3.5 Coulombsche und Newtonsche Reibungskräfte
+
+a = µGg .
+
+Da es sich um einen Abbremsvorgang handelt, ist die Beschleunigung a in skalarer Schreibweise allerdings negativ.
+a = lim
+
+v 2 − v1
+
+∆t → 0
+
+t 2 − t1
+
+∆v
+<0
+∆t →0 ∆t
+
+= lim
+
+Denn bei Abbremsung gilt für t 2 > t 1 :
+v2 = v(t2) < v1 = v(t1)
+Dann ist ∆v = v 2 − v1 < 0 und damit a negativ.
+Das Weg-Zeit-Gesetz und das Geschwindigkeits-Zeit-Gesetz einer unter konstanter Beschleunigung verzögerten Bewegung eines Abbremsvorganges, der durch das negative Vorzeichen im
+Beschleunigungsterm gekennzeichnet ist, lautet:
+s( t ) = −
+
+v( t ) =
+
+1
+a t 2 + v 0 t + s0
+2
+
+d s(t)
+= s(t) = - a t + v 0
+dt
+
+a ist dabei der Betrag der Beschleunigung ( ( a > 0) ). Das Betragszeichen kann auch weggelassen werden, wenn der obige
+Sachverhalt klar ist. Der Bremsvorgang setze zum Zeitpunkt
+t = 0 ein und der Nullpunkt der Wegmessung sei so gewählt,
+dass s(t=0) = s 0 = 0 gilt. Nach Ablauf der Abbremszeit t B ist
+dann der Bremsweg
+s B = s( t B ) = −
+
+1 2
+a t + v 0 tB .
+2 B
+
+Zum Zeitpunkt t = t B ist das Fahrzeug zum Stillstand gekommen ( v( t B ) = 0 ). Aus dem Geschwindigkeits-Zeit-Gesetz
+v( t ) = v 0 − at folgt:
+
+0 = v 0 − at B
+tB =
+
+v0
+a
+
+Damit folgt für den Bremsweg:
+
+37
+
+3 Dynamik: Masse, Impuls und Kraft
+
+2
+2
+2
+1 2 v0 1 v0 1 v0
+s B = v 0 t B − at B =
+- a
+=
+2
+a 2 a2 2 a
+
+Mit a = µ G g ergibt sich für s B :
+sB =
+
+2
+1 v0
+1
+= tB v 0
+2 µGg 2
+
+(3.28)
+
+Durch Einsetzen der Daten dieses Beispiels erhält man für die
+Länge des Bremsweges das Ergebnis s B = 100 m.
+Die quadratische Abhängigkeit des Bremsweges s B von der Ausgangsgeschwindigkeit v 0 ist für verschiedene Gleitreibungskoeffizienten µ G in Abb. 16 grafisch dargestellt.
+
+SB
+m
+250
+
+µG= 0,2
+
+200
+
+0,4
+
+150
+
+0,6
+0,8
+1,0
+
+100
+50
+00
+0
+
+25
+
+50
+
+75
+
+100
+
+125
+
+150 v0
+(km/h)
+
+Abb. 16: Bremsweg als Funktion der Anfangsgeschwindigkeit
+
+3.5.5
+
+Fahrwiderstand
+
+An den Rädern von Fahrzeugen wirkt nicht nur die Rollreibungskraft
+FRR am Umfang des Rades, sondern zusätzlich noch jeweils die
+Reibungskraft in seinem Achslager. Diese beiden bewegungshemmenden Kräfte werden oft zur Fahrwiderstandskraft FFR zusammengefasst und durch eine Fahrwiderstandszahl µ F gekennzeichnet.
+Für den Fahrwiderstand gilt dann:
+FFR = µ F FN
+
+38
+
+(3.29)
+
+3.5 Coulombsche und Newtonsche Reibungskräfte
+
+Für eine horizontale Straße ist die Normalkraft gleich der Gewichtskraft des Fahrzeugs und wegen FN = mg gilt dann
+FFR = µ F mg .
+Die beherrschende Reibungskraft im realen Straßenverkehr ist jedoch die geschwindigkeits-abhängige Luftwiderstandskraft FW . Die
+Fortbewegung eines Fahrzeugs wird dann durch die Summenkraft
+FSR aus Fahrwiderstand und Luftwiderstand behindert.
+FSR = FFR + FW
+
+3.5.6
+
+Geschwindigkeitsabhängige Reibungskräfte
+
+Reale Fluide, die Körper umströmen, üben Widerstandskräfte FW auf
+diese aus. Bewegt sich ein Körper der Masse m durch Luft oder ein
+anderes viskoses Medium, so wirkt auf ihn eine der Bewegungsrichtung entgegen gerichtete Reibungskraft. Die theoretische Berechnung dieser Widerstandskraft gelingt nur in einfachen Spezialfällen.
+Ansonsten müssen diese Kräfte in Strömungsversuchen (z.B. in
+Windkanälen) experimentell ermittelt werden. Als Beispiele geschwindigkeitsabhängiger Reibungskräfte werden im Rahmen der
+Fluiddynamik die Stokesche Reibungskraft
+FR = −6πηrv
+
+(3.30)
+
+und die Luftwiderstandskraft
+1
+FW = − c w Aρv 2
+2
+
+(3.31)
+
+detailliert behandelt. Da diese Reibungskräfte von der Relativgeschwindigkeit v des Körpers zum fluiden Medium abhängig sind,
+macht man folgenden allgemeinen Ansatz:
+FW ( v) = −Bv − Dv 2
+
+(3.32)
+
+Die Minuszeichen weisen darauf hin, dass die Reibungskraft FW ( v) ,
+die hier betragsmäßig angegeben ist, eine bremsende Kraft ist, die
+entgegengesetzt zur Bewegungsrichtung gerichtet ist. Die Reibungskoeffizienten B und D sind positive Konstanten, die von der Größe
+und geometrischen Form des umströmten Körpers sowie von den
+stoffspezifischen Eigenschaften des fluiden Mediums abhängen.
+Details zu Reibungsphänomenen in fluiden Medien werden in der
+Lerneinheit Fluiddynamik behandelt. Bei geringen Geschwindigkeiten ist der zweite Term Dv 2 klein im Vergleich zum ersten Term
+Bv. Der zweite Term kann dann vernachlässigt werden und man
+erhält eine geschwindigkeitsproportionale Reibungskraft. Bei größe-
+
+39
+
+3 Dynamik: Masse, Impuls und Kraft
+
+ren Geschwindigkeiten dominiert der zweite Term Dv 2 , und der
+lineare Term Bv kann weggelassen werden. Dieser Fall ist typisch
+für Bewegungen unter dem Einfluss der Luftwiderstandskraft. In der
+folgenden Betrachtung sollen jedoch beide Terme berücksichtigt
+werden. Dabei soll die Geschwindigkeits-Zeit-Funktion v(t) für einen
+Körper mit der Masse m und der Anfangsgeschwindigkeit v 0 untersucht werden, welcher der alleinigen Wirkung einer Reibungskraft
+FW ( v) ausgesetzt ist. Gemäß dem zweiten Newtonschen Axiom
+F = ma lautet die Bewegungsgleichung für diese Bewegung:
+ma = m
+
+dv
+= −Bv − Dv 2
+dt
+
+(3.33)
+
+oder
+1= −
+
+mdv / dt
+Bv + Dv 2
+
+.
+
+Unbestimmte Integration über die Zeit t liefert:
+mdv / dt
+
+∫ 1 dt = ∫ − Bv + Dv 2 dt
+dv / dt
+1
+dt = −m ∫
+dv
+v(B + Dv)
+v(B + Dv)
+Die Ausführung der Integration erfolgt mithilfe der Methode der
+Partialbruchzerlegung. Die Partialbruchzerlegung des Integranden
+liefert:
+A
+A2
+1
+= 1+
+v(B + Dv)
+v B + Dv
+A2v
+1
+= A1 +
+B + Dv
+B + Dv
+t = −m ∫
+
+Mit v = 0 folgt: A 1 =
+
+1
+B
+
+Mit v = 1 folgt: A 2 = −
+
+D
+B
+
+Damit folgt für die Partialbruchzerlegung:
+A
+A2
+1
+1
+D
+1 1
+D
+= 1+
+=
+−
+= ( −
+)
+v(B + Dv)
+v B + Dv Bv B(B + Dv) B v B + Dv
+1
+m 1
+D
+t = −m ∫
+dv = − ∫ ( −
+)dv
+v(B + Dv)
+B v B + Dv
+t=−
+
+40
+
+m
+[ln v − ln(B + Dv)] + C .
+B
+
+(3.34)
+
+3.5 Coulombsche und Newtonsche Reibungskräfte
+
+Zum Anfangszeitpunkt t = 0 hat der Körper voraussetzungsgemäß
+die Ausgangsgeschwindigkeit v(0) = v 0 . Damit folgt für die Integrationskonstante C:
+C=
+
+[
+
+m
+ln v 0 − ln(B + Dv 0 )
+B
+
+]
+
+Folglich ist:
+t=−
+
+ v (B + Dv) 
+m
+[ln v − ln(B + D v)]+ m ln v0 − ln(B + Dv0 ) = m ln  0
+
+B
+B
+B  v(B + Dv0 ) 
+
+[
+
+]
+
+Nach Multiplikation mit B/m und Exponentation zur Basis e folgt:
+e Bt / m =
+
+v 0 (B + Dv)
+v(B + Dv 0 )
+
+.
+
+(3.35)
+
+Auflösung dieser Gleichung nach v(t) ergibt schließlich die gesuchte
+Geschwindigkeits-Zeit-Funktion
+v( t ) =
+
+Bv 0 e − Bt / m
+B + Dv 0 (1 − e − Bt / m )
+
+.
+
+(3.36)
+
+41
+
+4 Arbeit, Energie und Leistung
+
+4
+
+Arbeit, Energie und Leistung
+
+Den Jägern und Sammlern der Steinzeit stand neben dem Feuer nur
+die menschliche Arbeitskraft zur Verfügung. Dies änderte sich als in
+der neolithischen Revolution der Übergang zu Ackerbau und Viehzucht stattfand und dadurch auch die Muskelkraft der Haustiere
+genutzt werden konnte. Erst im Mittelalter wurden Wasser- und
+Windmühlen als Antriebsmaschinen, die bereits seit der Antike bekannt waren, systematisch zur Mechanisierung der Arbeit eingesetzt.
+Mit ihnen konnten mit Hilfe von Transmissionsrädern und -riemen
+mechanische Leistungen zum Betrieb von Hammer- und Sägewerken
+sowie von Entwässerungspumpen im Bergbau übertragen werden.
+Die physikalische Größe Energie (gr. energeia: Wirkungsvermögen)
+wurde phänomenologisch von Thomas Young (1773 - 1829) in die
+Naturwissenschaften eingeführt und erstmals durch William Rankine
+(1820 -1872) mit der Wortschöpfung Energie versehen. Die Energie
+stellt eine abstrakte Größe dar, die nicht direkt messbar ist. Sie kann
+nur aus anderen messbaren Größen berechnet werden. Während allerdings der Kraftbegriff bereits durch Newton definiert wurde, gelang es erst infolge der experimentellen Untersuchungen von Julius
+R. Mayer (1814 - 1878) und Hermann von Helmholtz (1821 – 1894)
+über die Äquivalenz von Wärme und Arbeit den abstrakten Energiebegriff zu präzisieren. Einen wichtigen Beitrag leistete hierbei der
+britische Physiker James Prescott Joule (1818 – 1889) durch eine
+genaue Messung des mechanischen Wärmeäquivalents bei der mechanische Arbeit durch Reibung vollständig in Wärme umgewandelt
+wird. In diesem Abschnitt sollen die Begriffe Arbeit, Energie und
+Leistung aus der Sicht der Mechanik näher erläutert werden. Eine
+Erweiterung des Energiekonzeptes auf die Wärmeerscheinungen
+erfolgt in einer separaten Lerneinheit im Rahmen einer Einführung in
+die Thermodynamik.
+
+4.1
+
+Hubarbeit und potentielle Energie im
+Schwerefeld der Erde
+
+Wenn auf einen beweglichen Körper eine äußere Kraft einwirkt, so
+ändert sich der Bewegungszustand des Körpers. Der Körper soll in
+diesem Abschnitt als Massenpunkt aufgefasst werden. Soll beispielsweise ein Körper entgegen der nach unten gerichteten Schwerr
+r
+r
+kraft FS = − mg um das Wegstück d s senkrecht nach oben angehor
+r
+ben werden, so muss eine Gegenkraft F = − FS aufgewandt werden,
+die den Einfluss der Schwerkraft aufhebt. Hierbei ist ein kartesisches
+Koordinatensystem zugrunde gelegt, dessen positive z-Achse in
+r
+Richtung des Einheitsvektors k senkrecht nach oben weist. Durch
+r
+r
+r
+die Kraft F wird gegen die Schwerkraft FS längs eines Weges d s
+r r
+eine Hubarbeit dW = F ⋅ d s = F ds verrichtet. Die von der Kraft geleistete Arbeit dW wird über das "Innere Produkt" oder "Skalarpro-
+
+42
+
+4.1 Hubarbeit und potentielle Energie im Schwerefeld der Erde
+r
+r
+dukt" der Vektoren F und d s definiert. Besteht zwischen den Vekr
+toren der Kraft und der Verschiebungsrichtung d s ein Winkel α ,
+so ist die verrichtete Arbeit (Abb. 17) gleich dem Produkt aus der
+Kraftkomponente F|| parallel zur Wegrichtung und der zurückgelegten Strecke ds.
+r r
+dW = F|| ds = F cos α ds = F ds cos α = F ⋅ d s
+
+(4.1)
+
+Damit erhält man die in Abb. 17 dargestellte Komponentenzerlegung
+einer Kraft bezüglich einer vorgegebenen Verschiebungsrichtung
+v
+ds .
+
+F
+m
+
+F
+
+α
+ds
+
+F
+
+Abb. 17: Komponentenzerlegung einer Kraft
+r r r
+Ist die Kraft F = F( s ) ortsabhängig, so kann der insgesamt zurückr
+zulegende Weg s in eine Summe von vielen infinitesimal kleinen
+r
+Wegstücken ∆ s zerlegt werden, entlang derer die jeweils wirkende
+r
+Kraft F = (Fx , Fy , Fz ) als konstant angesehen werden kann. Die entr
+lang eines endlichen Weges von einer Ausgangsposition rA bis zu
+r
+einer Endposition rE verrichtete Arbeit W ist dann gegeben durch
+r
+r
+r r
+r r
+r
+r
+W = ∑ ∆Wi = F1 ⋅ ∆ s1 + F2 ⋅ ∆ s 2 + ... + Fn ⋅ ∆ s n = ∑ Fi ∆ s i .
+i
+
+(4.2)
+
+i
+
+Für eine unendlich feine Zerlegung erhält man im Grenzübergang:
+r
+
+rE
+r
+r r
+r
+r
+W = lim ∑ Fi ⋅ ∆ si = ∫ F( s ) ⋅ d s
+∆s i →0 i
+
+r
+rA
+
+Die Arbeit wird somit als das Linienintegral
+
+(4.3)
+r
+rE
+
+∫
+
+r r
+F ⋅ d s über das
+
+r
+rA
+
+r
+vektorielle Linienelement d s auf dem Weg von einem Anfangsr
+punkt A mit rA = ( x A , y A , z A ) nach einem Endpunkt E mit
+r
+rE = ( x E , y E , z E ) definiert. Das Linienintegral stellt aufgrund der
+
+Definition des Skalarproduktes die Kurzschreibweise für den Ausdruck
+
+43
+
+4 Arbeit, Energie und Leistung
+r
+rE r r
+yE
+zE
+r xE
+W = r∫ F( s ) ⋅ d s = ∫ Fx dx + ∫ Fy dy + ∫ Fz dz
+rA
+
+xA
+
+yA
+
+(4.4)
+
+zA
+
+dar. Die physikalische Größe Arbeit ist somit eine skalare Größe
+mit der Dimension „Kraft mal Weg“. Für ihre Einheit erhält man
+[W] = [F][s] = N ⋅ m = J (Joule).
+
+Beispiel:
+Ein Körper mit der Masse m soll unter dem Einfluss der
+Schwerkraft auf einer schiefen Ebene mit dem Neigungswinkel
+ϕ entlang eines Weges s bis auf die Höhe h reibungsfrei verschoben werden (Abb. 18).
+
+F
+
+s2
+
+s1
+
+F
+h1
+
+m
+
+ϕ1
+
+h2
+
+m
+
+ϕ2
+s0,2 = 50 m
+
+s0,1 = 100 m
+
+Abb. 18: Arbeit am Beispiel der schiefen Ebene
+Es sei: h 1 = h 2 = h . Nach Maßgabe der Neigungswinkel der
+Ebenen gilt dann für die Wegstrecken
+s1 =
+
+h1
+sin ϕ1
+
+und s 2 =
+
+h2
+sin ϕ 2
+
+.
+
+r
+Die auf die Masse m wirkende Schwerkraft FS kann vektoriell zerr
+legt werden in eine Komponente FN , die normal (senkrecht) zur
+
+Auflagefläche der schiefen Ebene gerichtet ist und in eine Kompor
+r
+nente FT = FII tangential (parallel) zur Auflagefläche. Diese Kompor
+nente wird auch als Hangabtriebskraft FHA bezeichnet
+( FHA = FT = FII ).
+r
+r
+r
+FS = FN + FT
+
+Es gilt dann betragsmäßig
+FN = FS cos ϕ = mg cos ϕ
+FT = FS sin ϕ = mg sin ϕ .
+
+44
+
+(4.5)
+
+4.1 Hubarbeit und potentielle Energie im Schwerefeld der Erde
+
+Um den Körper reibungsfrei die schiefe Ebene hochzuschieben
+ist eine Kraft erforderlich, die der Tangentialkraft (Hangabtriebskraft) entgegengesetzt gerichtet ist.
+r
+r
+F = − FT
+
+Für die jeweils zu verrichtende Arbeit folgt:
+h1
+= m g h1
+sin ϕ1
+h2
+W2 = F2 s 2 = m g sin ϕ 2
+= m g h2
+sin ϕ 2
+W1 = F1s 1 = m g sin ϕ1
+
+Wegen h 1 = h 2 = h , folgt
+W1 = W2 .
+Die Arbeit W = FS h = mgh hängt nur vom Betrag der Schwerkraft
+FS = mg und der erreichten Höhe h zwischen End- und Anfangslage
+ab. Die Arbeit ist von der Form des Weges zwischen Anfangs- und
+Endpunkt unabhängig.
+
+Wird an einem Körper Arbeit verrichtet, so ändert sich
+der Zustand des Körpers. Dem Körper ist Energie zugeführt worden, die dann in verschiedenen Formen
+von dem Körper gespeichert werden kann.
+Energie stellt das Vermögen dar, Arbeit zu verrichten.
+Der Energieinhalt eines Körpers ist somit ein quantitatives Maß für
+die Arbeitsfähigkeit des Körpers. Die physikalische Größe Energie
+wird durch das Symbol E bezeichnet. Für ihre Einheit gilt
+[E] = [W] = J (Joule).
+
+(4.6)
+
+Die Einheit der Energie ist identisch mit der Einheit der Arbeit. Wird
+an einem Körper durch eine äußere Kraft Arbeit geleistet, so nimmt
+der Körper Energie auf. In welcher Form der Körper dabei Energie
+gewinnt, hängt dabei von der Art der Kräfte ab, gegen die die Arbeit
+geleistet wird. Die Energie ist eine Zustandsgröße. Sie wird von
+dem Körper, an dem die Arbeit verrichtet wurde gespeichert. Der
+Körper besitzt damit die Möglichkeit, selbst Arbeit zu verrichten. Im
+Gegensatz zur Energie stellt die Arbeit eine Prozessgröße dar.
+Durch Zufuhr von Arbeit ( ∆W ≥ 0 ) wird die Energie eines mechanischen Systems vergrößert. Durch Abgabe von Arbeit ( ∆W ≤ 0 ) wird
+die Energie eines mechanischen Systems verringert.
+
+45
+
+4 Arbeit, Energie und Leistung
+
+Im Folgenden soll die Hubarbeit W berechnet werden, die verrichtet
+r
+werden muss, wenn eine Masse m von einem Punkt rA mit z A = 0
+r
+zu einem auf der Höhe h gelegenen Punkt rE mit z E = h gegen die
+r
+r
+nach unten gerichtete Gewichtskraft FS = − mg = (0,0,− mg) angehor
+ben wird (Abb. 19). Für die dazu nötige Gegenkraft F gilt
+r
+r
+r
+F = − FS = mgk .
+
+z
+m
+
+zE
+
+m
+
+h
+F
+m
+
+z
+
+A
+
+Abb. 19: Hubarbeit
+r
+r
+Wird der Vektor s mit dem Ortsvektor r identifiziert, dessen Spitze
+die Bahnkurve beschreibt, auf welcher der Körper mit der Masse m
+infolge der Kraftwirkung verschoben wird, dann folgt für das vektor
+r
+rielle Linienelement d s = d r
+r
+r
+r r
+d s = i dx + j dy + kdz .
+
+(4.7)
+
+Für die Arbeit dW ergibt sich damit
+r r
+r r
+dW = F ⋅ d s = mgk ⋅ d s = mgdz .
+
+(4.8)
+
+r
+Die Arbeit dW ist unabhängig von der Art des Weges von rA nach
+r
+rE . Sie ist nur von der relativen Höhenänderung dz abhängig. Die
+
+insgesamt gegen eine konstante Schwerkraft zu verrichtende Arbeit
+W ergibt sich damit zu
+r
+rE
+
+h
+r r zE
+W = ∫ F ⋅ d s = ∫ dW = ∫ mgdz = mgh .
+
+r
+rA
+
+zA
+
+(4.9)
+
+0
+
+Die Hubarbeit hängt nur vom Höhenunterschied h ab.
+Sie ist unabhängig von der Form der Bahnkurve, auf der der Körper
+r
+r
+von rA nach rE gelangt ist. Die geleistete Hubarbeit wird als po-
+
+46
+
+4.2 Beschleunigungsarbeit und kinetische Energie
+
+tentielle Energie Epot (Energie der Lage) vom Körper mit der Masse
+m gespeichert.
+E pot = mgh
+
+(4.10)
+
+r
+r
+Für die Arbeit, welche die Gegenkraft F = − FG zur ortsabhängigen
+r
+mM r
+Newtonschen Gravitationskraft FG = −G 2 E e r beim Anheben
+r
+der Masse m bis zur Höhe h über der Erdoberfläche (Erdradius R E )
+
+verrichtet, gilt:
+R E +h
+
+R E +h
+r r R E + h mM E r
+mM
+r
+W = ∫ F ⋅ d s = ∫ G 2 e r ⋅ d r = ∫ G 2 E dr
+r
+r
+R
+R
+R
+E
+
+W=−
+
+E
+
+GmM E
+RE +h
+
++
+
+E
+
+GmM E
+RE
+
+=
+
+GmM E
+R E (R E + h )
+
+h
+
+(4.11)
+
+Unter der Annahme, dass h << R E ist, d.h. in der Nähe der Erdoberfläche, folgt für die Hubarbeit
+W=m
+
+GM E
+R 2E
+
+h = mgh .
+
+(4.12)
+
+Für kleine Abstände oberhalb der Erdoberfläche kann die Gravitationskraft als konstant angesehen werden. In einer Höhe von
+h = 70 km oberhalb der Erdoberfläche weicht die Erdbeschleunigung um 1% von ihrem auf Meereshöhe definiertem Standardwert
+von g = 9,80665 m / s 2 ab. Die Hubarbeit gegen die Gravitationskraft kann somit bis in stratosphärische Höhen (h < 100 km) in guter
+Näherung durch W = mgh beschrieben werden.
+
+4.2
+
+Beschleunigungsarbeit und kinetische Energie
+
+Soll beispielsweise ein frei beweglicher
+r aber ruhender Körper
+(v = 0) durch Einwirkung einer Kraft F auf eine Geschwindigkeit v
+beschleunigt werden, so muss Beschleunigungsarbeit W verrichtet werden. Für die beschleunigende Kraft gilt das 2. Newtonsche
+Axiom
+r
+r
+F=m a.
+r
+r
+Die Kraft F und die Beschleunigung a sind gleichgerichtet. Der
+durch die Kraft beschleunigte
+Körper bewegt sich in Richtung der
+r
+wirkenden Kraft F und wird dabei in Richtung der einwirkenden
+
+47
+
+4 Arbeit, Energie und Leistung
+r
+Kraft um die Wegstrecke ds verschoben. Für die dabei zu verrichtende Beschleunigungsarbeit dW folgt
+r r
+dW = F ⋅ ds = F ds cos α = F ds = m a ds .
+
+(4.13)
+
+r
+r
+Wegen F || d s ist α = 0 und cos α = 1 .
+
+dW = F ds = m
+
+Mit v =
+
+dv
+ds
+ds = m dv
+dt
+dt
+
+(4.14)
+
+ds
+erhält man
+dt
+
+dW = mvdv
+v
+
+W = ∫ mvdv =
+0
+
+1
+mv 2 .
+2
+
+(4.15)
+
+Den durch seine Beschleunigung bedingten Zuwachs an Energie des
+Körpers bezeichnet man als kinetische Energie oder Bewegungsenergie E kin .
+E kin =
+
+1
+mv 2
+2
+
+(4.16)
+
+Besitzt der Körper bereits eine Anfangsgeschwindigkeit vom Betrag
+v0 und somit eine kinetische Anfangsenergie E kin ,0 = W0 , so folgt
+r
+für die durch die Kraft F durch Beschleunigung auf die Endgeschwindigkeit v verrichtete Beschleunigungsarbeit ∆W :
+v
+
+∆W = ∫ mvdv = W − W0 =
+v0
+
+4.3
+
+1
+1
+mv 2 − mv 02
+2
+2
+
+(4.17)
+
+Federkraft und Federspannarbeit
+
+Eine Schraubenfeder mit der Länge l 0 soll an einer Seite an einem
+starren Balken befestigt werden. Die Feder soll senkrecht nach unten
+hängen. Wird eine Kugel mit der Masse m an der unteren Federseite
+befestigt, so dehnt sich die Feder um eine Länge ∆l auf die Gesamtlänge l = l 0 + ∆l . Sie
+r erreicht dadurch eine Gleichgewichtslage, in
+der die Gesamtkraft
+F
+als Summe der auf die Masserm einwirkenden
+r
+Schwerkraft FS und der rücktreibenden Federkraft FD gleich Null
+ist.
+r r
+r
+r
+F = FS + FD = 0
+
+48
+
+4.3 Federkraft und Federspannarbeit
+
+In dieser Ruhe- oder Gleichgewichtslage soll der Mittelpunkt der
+Kugel mit dem Nullpunkt eines Maßstabes zusammenfallen (Abb.
+20). Der Maßstab wird durch eine nach unten weisende x-Achse
+repräsentiert. Wird die Schraubenfeder um eine Länge x0 aus der
+Ruhelage x r= 0 gedehnt oder gestaucht, so tritt eine rücktreibende
+Federkraft FD auf. Die experimentelle Erfahrung zeigt, dass diese
+r
+Federkraft direkt proportional zur Auslenkung x aus der Ruhelage
+ist.
+r
+r
+FD = −Dx
+
+(4.18)
+
+(4.
+
+Da es sich hierbei um einen eindimensionalen Bewegungsablauf in
+Richtung der x-Achse handelt, können die auftretenden Vektoren
+ebenfalls als einkomponentige Größen aufgefasst werden, deren
+Richtung durch das jeweilige Vorzeichen gegeben ist. Die die Bewegung beschreibenden Größen lassen sich somit in skalarer Schreibweise darstellen.
+
+D
+
+D
+l 0+ ∆ l
+
+m
+
+0
+
+x0
+
+m
+F = -FD
+
+x
+
+Abb. 20: Federkraft
+Die durch die Federkraft FD beschriebene elastische Rückwirkung
+wird auch als das Hookesche Gesetz (Robert Hooke (1635 - 1703))
+bezeichnet. Die Größe D heißt Federkonstante oder Richtgröße und
+charakterisiert die Stärke der Schraubenfeder. Die Einheit von D
+ergibt sich zu
+[D] =
+
+[FD ] N
+=
+.
+[ x]
+m
+
+(4.19)
+
+Durch das Minuszeichen im Hookeschen Gesetz wird zum Ausdruck
+gebracht, dass Federkraft und Auslenkung entgegengesetzt gerichtet
+sind. Wird die Masse m durch eine Gegenkraft F = -FD = +Dx aus
+
+49
+
+4 Arbeit, Energie und Leistung
+
+der Ruhelage ausgelenkt und von x = 0 bis x = x0 gedehnt, so ist
+gegen die Federkraft eine Spannarbeit Ws zu leisten (Abb. 21).
+r r
+dWs = F ⋅ ds = Fdx = Dxdx
+x0
+
+x0
+
+0
+
+0
+
+Ws = ∫ Fdx = ∫ Dxdx =
+
+D 2
+x0
+2
+
+(4.20)
+
+Die Federkraft ist vom Weg x, d. h. vom Ausmaß der Dehnung abhängig. Dass die Federkraft beschreibende Hookesche Gesetz kann
+als eine Gerade in einem Kraft-Weg-Diagramm dargestellt werden.
+Die Fläche unter der F(x)-Kurve repräsentiert dabei die bei der Dehnung verrichtete Spannarbeit Ws, die in Form von potentieller Energie in der gespannten Feder gespeichert wird.
+F
+F = Dx
+
+Ws
+
+0
+
+X0
+
+X
+
+Abb. 21: Spannarbeit bei einer elastischen Feder
+Die bei einer Federdehnung um die Länge x verrichtete Spannarbeit
+wird von der gespannten Feder als potentielle Energie E pot gespeichert. Gespannte Federn sind somit Energiespeichervorrichtungen.
+E pot = W s =
+
+D 2
+x
+2
+
+4.4
+
+Leistung
+
+(4.21)
+
+Unter der Leistung P versteht man die pro Zeiteinheit
+∆t verrichtete Arbeit ∆W :
+P=
+
+∆W
+.
+∆t
+
+(4.22)
+
+Für die Einheit der Leistung gilt
+[P] =
+
+50
+
+[W ] J
+= = W (Watt)
+[t ] s
+
+(4.23)
+
+4.4 Leistung
+
+J
+1 W = 1 = 1 kg m 2 s −3 .
+S
+
+(4.24)
+
+Die Einheit der Leistung leitet sich vom Eigennamen des schottischen Instrumentenbauers und Erfinders James Watt (1736 – 1819)
+ab. Dieser verbesserte 1768 mithilfe eines Kondensators die 1712
+durch den englischen Eisenwarenhändler Thomas Newcomen (1663 –
+1729) entwickelte atmosphärische Dampfmaschine. Die physikalische Größe Leistung wird häufig benutzt, um kontinuierlich arbeitende Maschinen zu charakterisieren.
+
+Beispiel:
+
+Ein Motor, der pro Stunde eine Arbeit von 360 MJ verrichtet,
+besitzt eine Leistung P von
+P=
+
+∆W 360 MJ
+=
+= 100 kW .
+∆t
+3600 s
+
+Ändert sich die geleistete Arbeit mit der Zeit, so definiert man den
+Differentialquotienten aus Arbeit und Zeit
+∆W dW
+F ∆s
+=
+= lim
+= Fv
+∆t →0 ∆t
+∆t →0 ∆t
+dt
+
+P = lim
+
+(4.25)
+
+und bezeichnet ihn als Momentanleistung. v stellt dabei die Momentangeschwindigkeit dar. In der folgenden Tabelle 2 sind einige
+typische Leistungen zusammengestellt.
+
+Physikalischer Vorgang
+
+Leistung
+
+Elektrische Leistung eines Kernkraftwerkes
+
+1 GW
+
+Nennleistung einer Windkraftanlage
+
+1 MW
+
+Pkw
+
+100 kW
+
+Höchstleistung eines Menschen
+
+1 kW
+
+Glühlampe
+
+100 W
+
+Energiesparlampe
+
+10 W
+
+Dauerleistung beim Gehen mit 5 km/h
+
+120 W
+
+Akustik (Sprechen)
+
+≈ 10 µW
+
+Hörschwelle des Ohres bei 1000 Hz
+
+≈ 0,1 fW
+
+Tab. 2: Größenordnungen verschiedener Leistungen
+
+51
+
+4 Arbeit, Energie und Leistung
+
+4.5
+
+Impulserhaltung
+
+Es sollen zwei Körper 1 und 2 betrachtet werden, die wechselseitig
+Kräfte, so genannte innere Kräfte oder Wechselwirkungskräfte aufeinander ausüben. Auf die beiden Körper sollen keine Kräfte von
+außen (äußere Kräfte) einwirken. Eine solche Situation liegt beispielsweise beim Aufeinandertreffen zweier reibungsfrei aufeinander
+zurollender Billardkugeln vor. Im Augenblick des Zusammenstoßes
+üben sie gegenseitig abstoßende Wechselwirkungskräfte aufeinander
+aus.
+r
+r
+Aufgrund des 3. Newtonschen Axioms ( F1→2 = − F2→1 ) ist dann die
+v
+zeitliche Änderung des Impulses p1 von Körper 1 gleich der negar
+tiven zeitlichen Änderung des Impulses p 2 von Körper 2 .
+
+d v
+d r
+p1 = − p 2
+dt
+dt
+
+(4.26)
+
+oder:
+r
+d r
+d r
+d r
+p1 + p 2 = ( p1 + p 2 ) = 0
+dt
+dt
+dt
+
+(4.27)
+
+r r
+r
+Wenn die zeitliche Änderung des Gesamtimpulses p = p1 + p 2 null
+r r
+r
+ist, so heißt dies: Der Gesamtimpuls p = p1 + p 2 ändert sich nicht.
+
+Diese Aussage stellt das Gesetz der Impulserhaltung dar. Für zwei
+verschiedene Zeitpunkte t1 und t 2 bleibt der Gesamtimpuls konstant.
+r
+r
+r
+r
+p 1 ( t 1 ) + p 2 ( t 1 ) = p1 ( t 2 ) + p 2 ( t 2 )
+
+(4.28)
+
+Im obigen Beispiel wird die Impulszunahme des ersten genau durch
+die Impulsabnahme des zweiten Körpers kompensiert. Alle Wechselwirkungskräfte sind somit ausgeglichen und können daher den
+Gesamtimpuls der Körper nicht ändern. Der Gesamtimpuls ist somit
+eine Konstante der Bewegung. Die Impulserhaltung gilt auch für
+Systeme, die aus mehr als zwei Körpern bestehen. Im Gegensatz zu
+Wechselwirkungskräften oder inneren Kräften sind äußere Kräfte
+solche Kräfte, die nicht von der gegenseitigen Wechselwirkung der
+betrachteten Körper oder Teilchen herrühren.
+Die Erfahrung zeigt:
+r
+Stellt F die Summe aller äußeren Kräfte dar, die auf ein Ensemble
+r
+von Teilchen einwirken, so ist diese resultierende Kraft F gleich
+r
+der zeitlichen Änderung des Gesamtimpulses p aller dieser Teilchen.
+
+52
+
+4.5 Impulserhaltung
+
+r d r
+F= p
+dt
+
+(4.29)
+
+4.5.1
+
+Zentrale Stoßprozesse zwischen zwei Teilchen
+
+Abweichend von der Modellvorstellung der Punktmechanik sollen
+im Folgenden die betrachteten Teilchen eine räumliche Ausdehnung
+besitzen und durch Kugeln grafisch dargestellt werden. Man unterscheidet:
+–
+–
+
+Gerade Stöße
+Schiefe Stöße
+
+Bei geraden Stößen liegen die Impulse der Teilchen vor und nach
+dem Stoß auf einer Geraden, während dies bei schiefen Stößen nicht
+der Fall ist. Einen Spezialfall der geraden Stöße stellen die zentralen
+Stöße dar, bei der die Impulse der stoßenden Teilchen vor und nach
+dem Stoß auf derselben Geraden liegen. Die Impulserhaltung bei
+zentralen Stoßvorgängen zwischen zwei Teilchen, die ein so genanntes Zweikörpersystemen bilden, soll in diesem Unterabschnitt erläutert werden. Zwei ausgedehnte Teilchen können bei Annäherung
+einen peripheren (streifenden) Stoß oder einen zentralen Stoß ausüben. Im Folgenden soll nur der einfache Spezialfall des zentralen
+Stoßes näher betrachtet werden. Bei einem zentralen Stoß bewegen
+sich die beiden Teilchen auf einer Geraden aufeinander zu, die durch
+ihre Schwerpunkte verläuft (Abb. 22). Der Berührungspunkt der
+beiden Teilchen liegt auf dieser Verbindungsgeraden. Dabei werden
+zwei idealisierte Grenzfälle zentraler Stöße unterschieden:
+-
+
+vollkommen elastischer Stoß
+vollkommen unelastischer Stoß
+nach dem Stoß
+
+vor dem Stoß
+
+m1
+
+m2
+
+m1
+
+v1
+
+v2
+
+u1
+
+m2
+
+u2
+
+Abb. 22: Vollkommen elastischer Stoß
+Werden die Geschwindigkeiten der beiden Teilchen vor dem Stoß
+r
+r
+r
+r
+mit v1 und v 2 und nach dem Stoß mit u 1 und u 2 bezeichnet, so
+erhält man folgende Formulierung des Gesetzes der Impulserhaltung:
+
+53
+
+4 Arbeit, Energie und Leistung
+r
+r
+r
+r
+m 1 v1 + m 2 v 2 = m 1 u 1 + m 2 u 2
+
+(4.30)
+
+Bei einem vollkommen elastischen Stoß zeigt die experimentelle
+Erfahrung, dass zusätzlich zur Impulserhaltung auch die kinetische
+Energie der Stoßpartner erhalten bleibt. Diese Konstanz der Gesamtenergie wird als Energieerhaltung bezeichnet und in Abschnitt 4.6
+als Energieerhaltungssatz formuliert. Sind E kin ,1 bzw. E kin , 2 die
+kinetischen Energien der Teilchen vor dem Stoß und E ′kin ,1 bzw.
+E ′kin , 2 die kinetischen Energien nach dem Stoß, so gilt:
+E kin ,1 + E kin , 2 = E ′kin ,1 + E ′kin , 2
+
+(4.31)
+
+Da beim zentralen Stoß die Impulse der Teilchen nur eine Komponente in Richtung ihrer Verbindungsgeraden haben, kann hier der
+Impulserhaltungssatz für die Impulsbeträge angewendet werden:
+m 1 v1 + m 2 v 2 = m 1 u 1 + m 2 u 2
+
+(4.32)
+
+Die Erhaltung der kinetischen Energien (Energiesatz) liefert:
+1
+1
+1
+1
+m1 v12 + m 2 v 22 = m1u 12 + m 2 u 22
+2
+2
+2
+2
+
+(4.33)
+
+Aus (4.32) und (4.33) können die Geschwindigkeiten u 1 und u 2
+der beiden Teilchen nach dem Stoß berechnet werden:
+u1 =
+
+u2 =
+
+( m 1 − m 2 ) v1 + 2 m 2 v 2
+m1 + m 2
+( m 2 − m 1 ) v 2 + 2 m 1 v1
+( m1 + m 2 )
+
+(4.34)
+
+(4.35)
+
+Aus diesen beiden Gleichungen lassen sich folgende Spezialfälle
+ableiten:
+1. Ist m1 = m 2 , so folgt: u 1 = v 2 und u 2 = v1 . Sind die beiden
+Massen identisch, so vertauschen die Teilchen beim Stoß ihre Geschwindigkeiten.
+2. Ist v 2 = 0 , das heißt ruht ein Stoßpartner vor dem Stoß, so
+folgt für die vom stoßenden auf das gestoßene Teilchen
+übertragene Energie ∆E 2 :
+∆E 2 = E ′kin , 2 =
+
+54
+
+2m12 m 2
+1
+2
+m2u 2 =
+v12
+2
+2
+( m1 + m 2 )
+
+(4.36)
+
+4.5 Impulserhaltung
+
+Der relative Energieverlust ∆E 1 / E kin ,1 des stoßenden Teilchens ergibt sich dann zu:
+∆E 1
+E kin ,1
+
+=
+
+4m1 m 2
+
+(4.37)
+
+( m1 + m 2 ) 2
+
+Der relative Energieverlust des stoßenden Teilchens
+∆E 1 / E kin ,1 wird maximal, wenn m1 = m 2 ist.
+Ein Stoß heißt unelastisch, wenn ein Teil der kinetischen Energie in
+andere Energieformen umgewandelt wird, zum Beispiel in Deformationsenergie oder Wärme. Unelastische Stöße stellen die wichtigsten
+Wechselwirkungsprozesse in der Natur dar. Unelastische Stöße werden unterteilt in teilelastische und vollständig inelastische Stöße.
+Beim vollkommen unelastischem Stoß (Abb. 23) vereinigen sich
+die beiden Teilmassen zu einer Gesamtmasse m = m1 + m 2 , die sich
+r
+nach dem Stoß mit der gemeinsamen Geschwindigkeit u fortbewegt.
+
+nach dem Stoß
+
+vor dem Stoß
+
+1
+
+m2
+
+v1
+
+v2
+
+m
+
+m1 +m2
+
+u
+
+Abb. 23: Vollkommen unelastischer Stoß
+Wird das Gesetz der Impulserhaltung auf den vollkommen unelastischen Stoßvorgang angewandt, so erhält man die Beziehung
+r
+r
+r
+r
+m1 v1 + m 2 v 2 = (m1 + m 2 ) u = mu .
+
+(4.38)
+
+Der Anteil der kinetischen Energie, der bei einem solchen Stoß in
+andere Energieformen umgewandelt wird, soll mit ∆Q bezeichnet
+werden. Der Energieerhaltungssatz liefert dann die Gleichung
+∆Q = (E kin ,1 + E kin , 2 ) − (E ′kin ,1 + E ′kin , 2 ) .
+
+(4.39)
+
+1
+1
+1
+1
+∆Q = ( m1 v12 + m 2 v 22 ) − ( m1u 12 + m 2 u 22 )
+2
+2
+2
+2
+
+(4.40)
+
+∆Q stellt die in Form von plastischer Verformungs- und Reibungsarbeit dissipierte Energie dar, die neben der Deformation auch eine
+Temperaturerhöhung hervorruft.
+
+55
+
+4 Arbeit, Energie und Leistung
+
+War der gestoßene Körper m 2 vor dem Stoß in Ruhe, so gilt
+r
+r
+v 2 = 0 . v1 und u liegen dann auf einer Geraden und sind parallel
+zueinander. Der Impulserhaltungssatz (4.38) kann dann in skalarer
+Form geschrieben werden:
+m 1 v1 = ( m 1 + m 2 ) u
+
+(4.41)
+
+Für den Energieerhaltungssatz folgt dann:
+1
+1
+m1 v12 = (m1 + m 2 )u 2 + ∆Q
+2
+2
+
+(4.42)
+
+Aus Impuls- und Energieerhaltung folgt dann für die Geschwindigkeit u bzw. die beim Stoß dissipierte Energie ∆Q :
+u=
+
+m1
+m1 + m 2
+
+∆Q =
+
+v1
+
+(4.43)
+
+m2
+
+m2
+1
+m1 v12 =
+E
+m1 + m 2 2
+m1 + m 2 kin ,1
+
+(4.44)
+
+Hierbei bedeutet E kin ,1 die kinetische Energie des stoßenden Körpers. Aus (4.44) folgt, dass im Allgemeinen nicht die gesamte kinetische Energie beim Stoß dissipiert werden kann. Ursache hierfür ist
+der Impulserhaltungssatz: Der vor dem Stoß vorhandene Gesamtimpuls muss auch nach Stoß unverändert vorhanden sein. Die dazu
+erforderliche kinetische Energie bleibt der Bewegung der beiden
+Stoßpartner erhalten und kann daher nicht umgewandelt werden.
+Einzige Ausnahme bildet der Fall, in dem sich zwei Körper mit gleicher Masse und betragsmäßig gleicher (antiparallel gerichteter) Geschwindigkeit aufeinander zu bewegen. Beim vollkommen unelastischen Stoß kann dann die gesamte kinetische Energie dissipiert werden. Dieser Fall kann beispielsweise beim Frontalzusammenstoß
+zweier Pkw auftreten. Der vollständig inelastische Stoß soll abschließend für drei Spezialfälle näher betrachtet werden:
+1.
+
+m1 = m 2 : Haben stoßender und gestoßener Körper die gleiche
+Masse, so gilt für die Geschwindigkeit u nach dem Stoß:
+u=
+
+1
+v
+2 1
+
+Für die dissipierte Energie gilt dann: ∆Q =
+2.
+
+1
+E
+2 kin ,1
+
+m1 << m 2 : Ist die stoßende Masse m1 sehr klein im Vergleich
+zur vor dem Stoß ruhenden Masse m 2 , dann ist die gemeinsame
+Geschwindigkeit u nach dem Stoß ebenfalls sehr klein und es
+
+56
+
+4.5 Impulserhaltung
+
+wird fast die gesamte kinetische Energie ( ∆Q ≈ E kin ,1 ) dissipiert.
+3.
+
+m1 >> m 2 : Ist die stoßende Masse m1 sehr groß im Vergleich
+zur vor dem Stoß ruhenden Masse m 2 , dann bleiben seine Geschwindigkeit ( u ≈ v1 ) und seine kinetische Energie E kin ,1
+beim Stoßvorgang nahezu erhalten. Der in andere Energieformen umgewandelte Energieanteil ist dann vernachlässigbar klein
+( ∆Q ≈ 0 ).
+
+4.5.2
+
+Raketenantrieb und Strahltriebwerk
+
+Ein typisches Anwendungsbeispiel des Impulserhaltungssatzes stellt
+der Raketenantrieb dar. Er funktioniert im Gegensatz zu den auf
+Reibungskräften basierenden Antriebsarten wie der Propellerantrieb
+auch im luftleeren Raum.
+t
+
+vR
+
+m
+
+t'= t+ dt
+
+dm
+VG
+
+G
+
+m+dm
+
+vR +dvR
+
+FSchub
+Abb. 24: Prinzip des Raketenantriebs
+r
+Die Rückstoßimpulse der mit hoher Geschwindigkeit v G relativ
+
+r
+zum Raketenkörper und antiparallel zur Raketengeschwindigkeit v R
+
+ausströmenden heißen Verbrennungsgase ändern laufend den Impuls
+der Rakete. Die Beschleunigung der Rakete ist ein Rückstoßprozess,
+bei dem der Gesamtimpuls, d. h. die Vektorsumme der Impulse von
+Rakete und ausströmenden Verbrennungsgasen zu jedem Zeitpunkt
+gleich null ist.
+
+57
+
+4 Arbeit, Energie und Leistung
+
+Im Folgenden soll eine Rakete im kräftefreien Weltraum betrachtet
+werden, die sich entlang einer Geraden bewegt. Zum Zeitpunkt t
+besitze diese Rakete eine Masse m = m(t) sowie eine Geschwindigkeit v R relativ zur ruhend gedachten Erde. Die Geschwindigkeit
+der ausgestoßenen Verbrennungsgase relativ zur Erde ist dann betragsmäßig v R − v G . Im Zeitintervall dt = t ′ − t wird die Gasmasse
+dm G mit der Relativgeschwindigkeit v G ausgestoßen (Abb. 24).
+Die Rakete hat zum Zeitpunkt t ′ = t + dt eine Geschwindigkeit von
+v R + dv R . Aufgrund des Impulserhaltungssatzes ist der Gesamtimpuls von Rakete samt Brennstoff zum Zeitpunkt t gleich demjenigen
+zum späteren Zeitpunkt t ′ = t + dt :
+mv R = (m + dm)( v R + dv R ) + dm G ( v R + dv R − v G )
+
+(4.45)
+
+dm ist die Änderung der Raketenmasse im Zeitintervall dt . Aufgrund der Massenerhaltung gilt:
+dm = −dm G
+
+(4.46)
+
+Damit folgt für den Impulserhaltungssatz:
+mv R = (m − dm G )( v R + dv R ) + dm G ( v R + dv R − v G )
+
+(4.47)
+
+Nach Umformung erhält man die Gleichung:
+mdv R = dm G v G
+
+(4.48)
+
+Da die ausgestoßene Gasmasse der Abnahme der Raketenmasse entspricht ( dm G = −dm ) folgt:
+mdv R = −dmv G
+dv R = −
+
+dm
+v
+m G
+
+(4.49)
+
+Hiermit kann die Raketenmasse m(t) als Funktion der Zeit berechnet
+werden. Hat die Rakete zum Zeitpunkt t 1 die Geschwindigkeit v R ,1
+und die Masse m1 , sowie zum späteren Zeitpunkt t 2 die entsprechenden Größen v R , 2 und m 2 , so folgt:
+vR , 2
+
+m2
+
+v R ,1
+
+m1
+
+∫ dv R = −v G ∫
+
+58
+
+dm
+m
+
+4.5 Impulserhaltung
+
+v R , 2 ( t 2 ) − v R ,1 ( t 1 ) = v G ln
+
+m1 ( t 1 )
+m 2 (t 2 )
+
+(4.50)
+
+Diese Beziehung stellt die vom russischen Mathematiker und Physiker Konstantin Ziolkowski (1857 – 1935) aufgestellte Raketengleichung dar.
+Zu einem Anfangszeitpunkt t 1 = 0 sei die Raketengeschwindigkeit
+v R ,1 = 0 und die zugehörige Startmasse sei m 0 = m1 . Die Geschwindigkeit der Rakete v R = v R , 2 zu einem späteren Zeitpunkt
+t = t 2 lässt sich dann aus der Raketengleichung und der aktuellen
+Raketenmasse m( t ) = m 2 berechnen.
+v R = v G ln
+
+m0
+m( t )
+
+(4.51)
+
+Ist die Geschwindigkeit v R vorgegeben, so lassen sich die Raketenmasse und damit der Brennstoffverbrauch ∆m B ( t ) = m 0 − m( t )
+ermitteln. Auflösen von Gl. 4.51 nach m(t) liefert:
+
+m(t ) = m 0 e
+
+−
+
+vR
+vG
+
+(4.52)
+
+Ist der Brennstoff m B = m 0 − m E vollständig verbrannt, dann hat
+die Rakete ihre Endmasse m E und zugleich ihre maximale Geschwindigkeit v RE erreicht. Für diese Endgeschwindigkeit folgt:
+v RE = v G ln
+
+m0
+mE
+
+(4.53)
+
+Jets mit Düsenantrieb besitzen sog. Strahltriebwerke (Abb. 25), die
+jedoch keine Raketen darstellen, da sie ihre Rückstoßmasse überwiegend in Form von Luft ansaugen und abgesehen von der Treibstoffmasse nicht selbst mitführen.
+
+59
+
+4 Arbeit, Energie und Leistung
+
+Turbine
+Verdichter
+
+heiße Gase
+
+Luft
+
+Brennstoffeinspritzung
+Brennkammer
+
+Abb. 25: Strahltriebwerk in schematischer Darstellung
+
+4.6
+
+Konservative Kräfte und Energieerhaltung
+
+Alle physikalischen Kräfte lassen sich in zwei Klassen einteilen:
+Konservative und dissipative Kräfte.
+Eine Kraft heißt konservativ, wenn bei der Arbeit gegen diese
+Kraft die mechanische Energie des Körpers, auf den die Kraft einwirkt, erhöht wird. Die Arbeit gegen eine konservative Kraft wird
+dann als kinetische oder potentielle Energie des Körpers gespeichert.
+Man sagt: Konservative Kräfte besitzen ein Potential. Das wichtigste
+Beispiel einer konservativen Kraft stellt die Gravitationskraft dar.
+Für konservative Kräfte ist die Arbeit, die auf einem beliebigen Weg
+r
+r
+von einer Anfangsposition rA zu einer Endposition rE verrichtet
+r
+r
+wird von der Wahl des Weges von rA nach rE unabhängig. Mit
+r
+rE
+
+r r
+anderen Worten: Die Arbeitsintegrale W = ∫ F ⋅ d s sind unabhängig
+r
+rA
+
+von der Form des Weges. Für einen in sich geschlossenen Weg fallen
+r
+r
+End- und Anfangsposition zusammen, es ist r A = rE , und es gilt
+r r
+W = ∫ F ⋅ ds = 0 .
+
+Das Kreissymbol im Integrationszeichen weist darauf hin, dass hier
+das Arbeitsintegral über einen geschlossenen Weg auszuwerten ist.
+r
+Konservative Kräfte F besitzen ein Potential Epot. Mit Hilfe der Vektoranalysis
+kann gezeigt werden, dass zwischen der konservativen
+r
+Kraft F und ihrer potentiellen Energie Epot eine mathematische Beziehung der Form
+r
+F = −grad E pot
+
+60
+
+4.6 Konservative Kräfte und Energieerhaltung
+
+existiert. Der mit der Bezeichnung grad abgekürzte Gradient ist ein
+so genannter vektorieller Differentialoperator, für den die folgende
+Definition gilt:
+
+grad = (
+
+∂ ∂ ∂
+∂ r ∂ r ∂ r
+, , )=
+i+
+j+ k
+∂x ∂y ∂z
+∂x
+∂y
+∂z
+
+Der Gradient stellt somit formal einen Vektor dar, dessen Komponenten aus partiellen Ableitungen bestehen. Wirkt eine konservative
+Kraft auf einen Massenpunkt ein, so besitzt der Massenpunkt an
+jedem Raumpunkt eine wohldefinierte potentielle Energie, die somit
+eine skalare Funktion repräsentiert. Wird der Gradient auf den Skalar
+der potentiellen Energie angewandt, so ergibt sich als abgeleitete
+Größe ein Vektor, der in die Richtung der maximalen Änderung der
+potentiellen Energie zeigt. Dieser Vektor ist mit der einwirkenden
+Kraft identisch. Die Zentralkräfte wie die Gravitationskraft oder die
+Coulombkraft sind konservativ und besitzen jeweils ein Potential
+Epot. Der Nullpunkt der potentiellen Energie kann dabei willkürlich
+festgelegt werden. Wegen der (1/r2)-Abhängigkeit dieser Kräfte ist es
+sinnvoll, den Nullpunkt der potentiellen Energie ins Unendliche zu
+legen. Dort verschwindet die Krafteinwirkung und dann ist
+E p ot ( r = ∞) = 0 . Als Beispiel soll dazu die Gravitationskraft näher
+untersucht werden.
+Für die Arbeit W, die gewonnen wird, wenn eine Masse m aus sehr
+großer Entfernung bis auf einen Abstand r an die Masse M herangeführt wird erhält man:
+r
+
+r
+r
+r r
+r
+mM r
+mM
+GmM
+W = ∫ FG ⋅ d s = ∫ − G 2 e r ⋅ (−d r ) = ∫ G 2 dr = −
+r
+r
+r
+∞
+∞
+∞
+
+r
+r
+Dabei ist d s = −d r , da der Weg in Richtung auf die sich im Zentrum
+des Koordinatensystems befindliche Masse M durchlaufen wird. Als
+Ergebnis erhält man:
+
+W = E pot (r ) − E pot (r = ∞) = E pot ( r ) − 0 = E pot = −
+
+GmM
+r
+
+Die gewonnene Arbeit ist somit gleich der Differenz der potentiellen
+Energie zwischen Anfangs- und Endposition. Stellt r den Abstand
+der Masse m von der Masse M dar, dann kann man der Masse m an
+jeder Stelle des Raumes einen Skalar, nämlich seine potentielle
+Energie Epot, zuordnen. Für die an einer beliebigen Stelle r auf die
+Masse m einwirkende Kraft gilt dann:
+∂E pot ∂E pot ∂E pot
+r
+F = −grad E pot = ( −
+,−
+,−
+)
+∂x
+∂y
+∂z
+
+61
+
+4 Arbeit, Energie und Leistung
+
+Für den Abstand r folgt mit Hilfe kartesischer Koordinaten:
+r = x 2 + y2 + z2
+Komponentenweise Differentiation liefert schließlich:
+
+Fx = −
+
+∂E pot
+∂x
+
+=
+
+∂
+∂x
+
+GmM
+x 2 + y2 + z2
+
+=−
+
+2 x GmM
+x GmM
+1
+=−
+2 ( x 2 + y 2 + z 2 )3
+r3
+
+Analog folgt für die anderen beiden Komponenten:
+Fy = −
+
+Fz = −
+
+∂E pot
+∂y
+∂E pot
+∂z
+
+=−
+
+=−
+
+y GmM
+r3
+z GmM
+r3
+
+r
+In vektorieller Schreibweise erhält man für die Kraft F :
+
+∂E pot ∂E pot ∂E pot
+G m M
+r
+GmM r
+F = (−
+,−
+,−
+)=−
+( x , y, z ) = − 3 r
+3
+∂x
+∂y
+∂z
+r
+r
+r
+r
+r
+GmM r
+GmM r
+F=− 2
+= − 2 e r = FG
+r
+r
+r
+
+Als einwirkende Kraft ergibt sich konsistenterweise die Newtonsche
+Gravitationskraft.
+Wird eine Arbeit gegen eine dissipative Kraft verrichtet, dann
+ändert sich die potentielle Energie nicht. Dissipative Kräfte besitzen
+nämlich kein Potential. Die von der dissipativen Kraft geleistete Arbeit wird deswegen nicht in Form von mechanischer (potentieller
+oder kinetischer) Energie gespeichert, sondern ständig in Wärmeenergie umgewandelt
+
+Dissipative Kräfte sind Reibungskräfte.
+Durch dissipative Kräfte verrichtete Reibungsarbeit wird in Wärmeenergie umgewandelt, die sich nicht vollständig in potentielle oder
+kinetische Energie zurückverwandeln lässt. Einzelheiten dazu werden in der Thermodynamik im Zusammenhang mit irreversiblen
+Prozessen behandelt. Dagegen sind mechanische Energien (potentielle Energie E pot und kinetische Energie E kin ) Energieformen, die
+vollständig ineinander umgewandelt werden können.
+
+62
+
+4.6 Konservative Kräfte und Energieerhaltung
+
+Die große Bedeutung der physikalischen Größe Energie beruht darauf, dass sie in verschiedenen Formen auftritt und dass sie insgesamt erhalten bleibt, d. h. die Gesamtenergie bleibt konstant. Sie
+ändert sich im Laufe der Zeit nicht. Die Gesamtenergie ist somit eine
+Erhaltungsgröße. Mit anderen Worten: In einem abgeschlossenen
+System, auf das keine äußeren Kräfte einwirken, ändert sich die mechanische Energie des Systems nicht. Für konservative Kräfte gilt
+der Erhaltungssatz für die mechanische Energie:
+
+Die Summe E aus potentieller und kinetischer Energie
+bleibt in einem abgeschlossenen System konstant.
+Epot + Ekin = E = konstant.
+
+(4.54)
+
+Nimmt die kinetische Energie ab, so wird diese Abnahme gerade
+wieder durch die Zunahme der potentiellen Energie um denselben
+Betrag ausgeglichen und umgekehrt.
+Der Energieerhaltungssatz ist ein Erfahrungssatz. Aufgrund von Reibungskräften geht allerdings bei realen Bewegungen immer ein Teil
+der mechanischen Energie verloren. Diese mechanischen Energieverluste verschwinden jedoch nicht, denn sie werden in eine andere
+Energieform, nämlich Wärme umgewandelt. Wird die durch die Reibungsarbeit gegen dissipative Kräfte entstandene Wärmeenergie mit
+in der Energiebilanz berücksichtigt, dann lässt sich im Rahmen der
+Thermodynamik ein erweiterter Energieerhaltungssatz formulieren.
+
+In einem abgeschlossenen System bleibt die Summe aus
+mechanischer Energie und Wärmeenergie konstant.
+Energie kann damit weder erzeugt noch vernichtet werden. Sie kann
+lediglich unter Erhaltung ihres Gesamtbetrages auf verschiedene
+Energieformen verteilt und zwischen ihnen umgewandelt werden.
+Der Heilbronner Arzt Julius Robert Mayer (1814 – 1878) beobachtete als Erster, dass Bewegungsenergie in Wärmenergie umgewandelt
+werden kann. Er konnte zeigen, dass mechanische Arbeit und Wärme
+äquivalent sind. Diese Erkenntnis wird als Erster Hauptsatz der
+Wärmelehre bezeichnet. Durch seine Messungen des Mechanischen
+Wärmeäquivalents konnte Mayer das konstante Umwandlungsverhältnis von mechanischer Energie in Wärmeenergie experimentell
+belegen. Darauf aufbauend wurde der oben genannte erweiterte
+Energieerhaltungssatz 1847 von dem Physiologen und Physiker
+Hermann Helmholtz (1821 – 1894) formuliert.
+
+63
+
+5 Drehbewegungen
+
+5
+
+Drehbewegungen
+
+r
+Die Beschleunigung a ist definiert als
+r
+r dv
+a=
+.
+dt
+
+(5.1)
+
+r
+Ist a konstant, so ändert sich weder der Betrag noch die Richtung
+der Beschleunigung. Die Bewegung heißt dann geradlinig, gleichr
+mäßig beschleunigte Bewegung. Ist a nicht konstant, so ändert sich
+der Betrag oder die Richtung der Beschleunigung. Die Bewegung
+heißt dann ungleichmäßig beschleunigt. Zur Klasse der ungleichmäßig beschleunigten Bewegungen gehören die Drehbewegungen, die
+im Folgenden am Beispiel der Kreisbewegung genauer betrachtet
+werden sollen. Eine Masse m bewege sich mit konstanter Bahngeschwindigkeit gemäß Abb. 26 auf einer Kreisbahn mit dem Radius r.
+Eine solche Bewegung heißt gleichförmige Kreisbewegung. Hierbei durchläuft der Körper in gleichen Zeitintervallen gleiche Winkel.
+Da der Kreismittelpunkt im Ursprung eines kartesischen Koordinatensystems liegt, wird die Lage der Punktmasse m durch den Ortsr
+vektor r = ( x , y) eindeutig charakterisiert. Die Lage des Massenpunktes m kann jedoch auch durch den Abstand r vom Koordinatenursprung und durch den Winkel ϕ , den der Ortsvektor mit der positiven Richtung der x-Achse bildet, angegeben werden. Die Koordinaten r und ϕ werden ebene Polarkoordinaten genannt. Aus Abb. 26
+liest man folgende Transformationsformeln zwischen den kartesischen und den Polarkoordinaten ab:
+
+x = r ⋅ cos ϕ
+
+(5.2)
+
+y = r ⋅ sin ϕ
+
+(5.3)
+z
+
+r
+
+y
+
+m
+0
+
+ϕ
+
+r
+
+x
+
+Abb. 26: Kreisbewegung eines Massenpunktes
+
+64
+
+5.1 Kinematik der Rotation
+
+5.1
+
+Kinematik der Rotation
+
+Die ideale Rotationsbewegung ist ein gleichförmig durchlaufener
+Kreis. Hierbei durchläuft der Körper in gleichen Zeitabschnitten
+gleiche Winkel. Da der Radius r bei der Kreisbewegung unverändert
+bleibt, wird der Bewegungsablauf durch die Änderung des Winkels
+ϕ mit der Zeit t beschrieben. Der Differentialquotient dϕ / dt wird
+als Winkelgeschwindigkeit ω definiert
+∆ϕ dϕ
+=
+= ω.
+∆t →0 ∆t
+dt
+lim
+
+(5.4)
+
+Für die Einheit der Winkelgeschwindigkeit erhält man
+[ω] =
+
+[dϕ] rad
+.
+=
+[dt ]
+s
+
+(5.5)
+
+Bei einem vollständigen Umlauf auf der Kreisbahn wird der Vollr
+winkel 2π vom Ortsvektor r während der Umlaufzeit T überstrichen. Damit folgt für die konstante Winkelgeschwindigkeit ω der
+Kreisbewegung
+ω=
+
+2π
+1
+= 2π = 2πf .
+T
+T
+
+(5.6)
+
+1
+ist die Umlauffrequenz. Die WinkelgeschwinT
+digkeit ω = 2πf wird wegen dieser Proportionalität auch als Kreisfrequenz bezeichnet. Die Kreisfrequenz ω kann zusammen mit der
+Drehachse und dem Drehsinn zu einem axialen Vektor der Winkelr
+geschwindigkeit ω zusammengefasst werden. Die Kreisfrequenz
+gibt dann den Betrag und die Drehachse samt Drehsinn die Orientierung des Vektors der Winkelgeschwindigkeit an. Aufgrund dieser
+r
+Eigenschaften stellt ω einen axialen Vektor dar (Abb. 27). Der Vekr
+tor v der Bahngeschwindigkeit verläuft immer tangential zur Kreisr
+bahn und steht senkrecht auf dem Ortsvektor r , der die momentane
+Lage des Massenpunktes auf der Kreisbahn mit dem Radius r kennzeichnet.
+Die Größe f =
+
+y
+
+ω
+
+v
+
+∆ϕ
+r
+
+m
+∆s
+
+x
+
+Abb. 27: Vektoren der Kreisbewegung
+
+65
+
+5 Drehbewegungen
+
+Der Winkel ϕ als mathematische Größe stellt einen Skalar dar. Fordϕ
+mal lässt sich die Winkelgeschwindigkeit ω =
+in Vektorschreibdt
+r
+r dϕ r
+weise darstellen. Man schreibt dann ω =
+. dϕ beschreibt dabei die
+dt
+Lage der Ebene im Raum, die durch den Winkel dϕ bestimmt ist,
+der durch zwei sich schneidende Geraden aufgespannt wird. Dies
+geschieht durch Angabe ihrer Normalenrichtung, durch welche die
+Ausrichtung der Ebene im Raum gegeben ist. Denn die Lage einer
+Ebene im Raum kann durch den Normalenvektor, der senkrecht auf
+dieser Ebene steht, gekennzeichnet werden. Offen ist dabei noch der
+r
+dϕ
+Richtungssinn von
+, durch den angegeben werden soll, in weldt
+chem mathematischen Sinne der Winkel dϕ durchlaufen wird. Erst
+durch Angabe des Richtungssinns wird die Orientierung der Ebene
+festgelegt. Dadurch lässt sich eindeutig bestimmen, welche Seite der
+Ebene ihre Oberseite und welche ihre Unterseite ist. Mit Hilfe eines
+rechtshändigen Koordinatensystems lässt sich die x-y-Ebene so in
+die Ebene von dϕ legen, dass dϕ als positiv durchlaufen zählt,
+wenn der rotierende Körper von der positiven x- zur positiven yAchse läuft. Dann stellt die der positiven z-Richtung zugewandte
+r
+Seite der Ebene von dϕ die Oberseite dar und der Vektor dϕ weist
+in die positive z-Richtung.
+Der Betrag der Bahngeschwindigkeit v ergibt sich als Quotient aus
+dem Kreisumfang 2πr und der Umlaufzeit T zu
+v=
+
+∆s 2πr
+=
+= 2π fr = ω r .
+T
+∆t
+
+(5.7)
+
+r
+In Vektorschreibweise ergibt sich die Bahngeschwindigkeit v als
+r
+Vektorprodukt der Winkelgeschwindigkeit ω und des Ortsvektors
+r
+r.
+r
+r
+v = ω× r
+
+(5.8)
+
+r
+r
+Bei der Kreisbewegung stehen die Vektoren ω und r stets senkrecht aufeinander.
+
+Die mit konstantem Betrag der Bahngeschwindigkeit erfolgende
+gleichförmige Kreisbewegung ist eine beschleunigte Bewegung mit
+nicht-konstanter Beschleunigung. Sowohl der Beschleunigungsvekr
+r
+tor a als auch der Geschwindigkeitsvektor v ändern zwar ihre Beträge nicht, jedoch ständig ihre Richtung. Der Geschwindigkeitsvekv
+tor v ändert sich im Zeitintervall ∆t um das gleiche Winkelintervall
+r
+∆ϕ wie der Orts- oder Radiusvektor r . Da der Radius bei einer
+Kreisbewegung konstant ist, folgt aus der konstanten Bahngeschwindigkeit v, aufgrund von v = ω r , auch die Konstanz der Winkelgeschwindigkeit ω . Da die Lage (Orientierung) der Drehachse
+
+66
+
+5.1 Kinematik der Rotation
+
+ebenfalls unverändert bleibt, erfolgt die gleichförmige Kreisbewer
+gung mit konstantem Vektor ω .
+r d r
+Die zugehörige Beschleunigung a = v ergibt sich zu
+dt
+r d r d r r r d r r r
+a = v = (ω × r ) = ω × r = ω × v .
+dt
+dt
+dt
+
+(5.9)
+
+r
+
+Der Beschleunigungsvektor a liegt in der Bahnebene. Er steht senkr
+recht auf der Bahngeschwindigkeit v und ist gemäß der Rechtenr
+Hand-Regel antiparallel zum Ortvektor r und weist damit zum
+r
+Kreiszentrum. Die zeitliche Änderung des Ortsvektors r ist gleich
+r
+dem Vektor v der Bahngeschwindigkeit (Abb. 28). Dies sei im Folgenden kurz erläutert. Zum Zeitpunkt t 1 befindet sich der Massenr r
+punkt an der durch den Ortsvektor r1 = r ( t 1 ) bzw. den Winkel ϕ1
+gekennzeichneten Stelle. Zu einem späteren Zeitpunkt t 2 hat der
+r
+r
+Massenpunkt die durch r2 = r ( t 2 ) bzw. ϕ2 charakterisierte Position
+erreicht. Dabei hat der Ortsvektor des sich auf einer Kreisbahn bewegenden Massenpunktes im Zeitintervall ∆t = t 2 − t 1 das Winkev v v
+lintervall ∆ϕ = ϕ 2 − ϕ1 überstrichen und sich um ∆ r = r2 − r1 geändert. Der Ortsvektor wird bei der Kreisbewegung auch als Radiusr
+r
+vektor bezeichnet. ∆ r verläuft auf der Sekanten und weist von r1
+r
+nach r2 . Die Länge der Sekante ∆r stimmt näherungsweise mit der
+Lände des Kreisbogenelementes ∆s überein.
+y
+
+∆r = r (t 2) - r (t1 )
+
+r (t2 )
+
+∆s
+∆ϕ
+ϕ
+
+2
+
+r (t1 )
+ϕ
+
+1
+
+x
+
+r
+Abb. 28: Ableitung der Bahngeschwindigkeit v
+
+Für beliebig kleine Winkel ∆ϕ kann das Kreisbogenelement ∆s
+r
+durch die Sehne  ∆ r  approximiert werden. Mit ∆t → 0 wird die
+r
+r
+Änderung des Radiusvektors d r mit dem Kreisbogen d s identisch:
+r
+r
+r
+r
+∆ r d r ds
+v = lim
+=
+=
+∆t →0 ∆t
+dt dt
+
+(5.10)
+
+67
+
+5 Drehbewegungen
+
+r
+Der Geschwindigkeitsvektor v hat die Richtung der Kreistangente
+r
+r
+und steht senkrecht auf r und auf ω . Für die gleichförmige Kreisbewegung gelten dann betragsmäßig folgende Beziehungen:
+
+a = ωv
+
+(5.11)
+
+v = ωr
+
+(5.12)
+
+a = ω2r .
+
+(5.13)
+
+r
+Die Richtung des Beschleunigungsvektors a ergibt sich aus:
+
+r r r r r r
+a = ω × v = ω × (ω × r )
+
+(5.14)
+
+Der letzte Ausdruck stellt ein mehrfaches Vektorprodukt dar.
+Für das
+r r
+r
+dreifache Vektorprodukt aus beliebigen Vektoren a , b und c
+gilt der Entwicklungssatz der Vektoralgebra:
+
+( )
+
+( )
+
+r r r rr r rr r
+a × b × c = b(a ⋅ c ) - c a ⋅ b
+
+(5.15)
+
+Das dreifache Vektorprodukt ist somit wiederum ein Vektor. Für die
+r
+Beschleunigung a folgt damit:
+
+r r r r r r r r r r
+a = ω × (ω × r ) = ω(ω ⋅ r ) - r (ω ⋅ ω)
+
+(5.16)
+
+r r
+r r
+Da ω ⊥ r ist ω ⋅ r = 0 . Damit verschwindet der erste Term auf der
+r r
+rechten Seite. Für das Skalarprodukt folgt: ω ⋅ ω = ω2 . Der Ber
+schleunigungsvektor a steht nach den Rechenregeln zur Bildung des
+r
+r
+Vektorproduktes senkrecht auf ω und v und weist zum Zentrum
+r
+r
+des Kreises ( − r ist antiparallel zu r ):
+r
+r
+a = - ω2 r
+
+(5.17)
+
+Erfolgt die Kreisbewegung mit konstantem Betrag v der Bahngeschwindigkeit (gleichförmige Kreisbewegung), so ändert sich ständig nur die Richtung, nicht aber der Betrag des radial gerichteten
+r
+Beschleunigungsvektors a . Sie wird Radialbeschleunigung genannt.
+r
+r
+a ist immer entgegengesetzt zum Radiusvektor r gerichtet, aber
+betragsmäßig konstant.
+Nach Ablauf des Zeitintervalls ∆t = t 2 − t 1 ist der Geschwindigr
+r
+keitsvektor v1 = v( t 1 ) durch Drehung um den Winkel ∆ϕ in den
+r
+r
+Vektor v 2 = v( t 2 ) übergegangen. Er hat sich dabei um
+r r
+r
+∆v = v 2 − v 1 mit dem Betrag ∆v = v∆ϕ geändert. ∆v entspricht
+dabei der Länge eines Kreisbogenausschnitts, der vom Zentrum des
+Kreises mit dem Radius v unter dem Winkel ∆ϕ „gesehen“ wird.
+
+a=
+68
+
+∆v
+∆ϕ
+=v
+= vω = ωv
+∆t
+∆t
+
+5.1 Kinematik der Rotation
+
+Mit ω =
+
+a=
+
+v
+ergibt sich
+r
+
+v2
+.
+r
+
+(5.18)
+
+Aus Abb. 29a wird graphisch ersichtlich, dass der Beschleunigungsr
+r
+vektor a senkrecht auf dem Geschwindigkeitsvektor v steht und
+daher im Verlauf der Bewegung ständig seine Richtung ändert. Da
+die Beschleunigung radial zum Kreismittelpunkt hin wirkt, wird sie
+als Radialbeschleunigung bezeichnet und beschreibt die zeitliche
+Änderung der Geschwindigkeitsrichtung, wohingegen der Geschwindigkeitsbetrag konstant bleibt. Die Radialbeschleunigung ist
+r
+r
+betragsmäßig konstant ( a1 = a2 = a = konst . ). Sie ändert nur ihre
+Richtung, nicht jedoch ihren Betrag.
+
+Abb. 29a: Radialbeschleunigung bei einer gleichförmigen Kreisbewegung
+Mit Hilfe der Definition der Beschleunigung erhält man
+
+r
+r
+r
+∆v dv
+a = lim
+=
+.
+∆t →0 ∆t
+dt
+r
+r
+Die Beschleunigung a erfolgt gemäß Abb. 29a in Richtung von ∆v
+r
+senkrecht zu v . Sie stellt somit eine Radialbeschleunigung dar, die
+zum Zentrum der Drehbewegung hin gerichtet ist.
+r
+r
+Die Geschwindigkeitsvektoren v1 und v 2 sind betragsmäßig gleich,
+r
+
+r
+
+d. h. sie können wegen v1 = v 2 = v = konst. in den gleichen Anr
+
+fangspunkt gelegt werden (Abb. 29b). Der Vektor v (t ) , er beschreibt
+die Momentangeschwindigkeit des sich auf der Kreisbahn gleichförmig bewegenden Massenpunktes, bewegt sich dann auf einem
+Kreis mit dem Radius v.
+
+69
+
+5 Drehbewegungen
+
+∆ v = v (t 2) - v (t 1)
+v (t2 )
+
+∆ t = t 2 - t1
+
+∆ϕ
+
+∆ϕ = ω∆t
+
+v (t 1)
+
+Abb. 29b: Geschwindigkeitsvektoren bei gleichförmiger
+Kreisbewegung
+
+r
+r ∆v
+r r
+r
+Für die Vektoren gilt: a =
+↑↑ ∆v und a ⊥ v .
+∆t
+5.2
+
+Zentripetalkraft und Zentrifugalkraft
+
+Durch die Radialbeschleunigung wirkt auf eine sich auf den Kreis
+r
+bewegende Masse m eine Kraft, die Zentripetalkraft FZ :
+
+r
+r
+r
+Fz = m a = - mω 2 r
+
+(5.19)
+
+Durch die Zentripetalkraft wird der sich bewegende Massenpunkt m
+auf der Kreisbahn gehalten. Ein sich mit dem Massenpunkt auf der
+Kreisbahn mitbewegender Beobachter stellt dagegen eine radial nach
+außen gerichtete Kraft fest, die Zentrifugalkraft oder Fliehkraft
+r
+FF genannt wird:
+
+r
+r
+FF = mω 2 r
+
+(5.20)
+
+ω
+
+r
+m
+
+F
+
+Abb. 30: Fliehkraft
+Zentripetalkraft und Zentrifugalkraft sind betragsmäßig gleich groß
+aber entgegengesetzt gerichtet.
+
+70
+
+5.3 Drehmoment
+
+r
+r
+FZ = −FF
+
+(5.21)
+
+Die Zentrifugalkraft wirkt in Richtung des Radiusvektors nach außen, und wirkt nur auf Beobachter, die mitbewegt werden.
+
+5.3
+
+Drehmoment
+
+Die Erfahrung zeigt, dass die Wirkung von Kräften allein noch nicht
+ausreicht, um eine Drehbewegung hervorzurufen. Die Kräfte müssen
+nämlich zusätzlich noch bestimmten Bedingungen genügen, um ein
+sog. Drehmoment erzeugen zu können. Zur Illustration sollen an
+einem ruhenden Körper zwei entgegengesetzt gleichgroße Kräfte
+angreifen. Sie erfüllen dann die Bedingung des statischen Gleichger r
+wichts ∑ Fi = 0 , d.h. sie können den Körper nicht in eine beschleunigte Translationsbewegung versetzen. Ob der Körper aber tatsächlich in Ruhe bleibt oder in eine resultierende Rotationsbewegung
+versetzt wird, hängt von weiteren Details (Abb. 31) ab. Damit der
+Körper nicht einfach in Kraftrichtung beschleunigt wird, ist zur Erzeugung eines Drehmomentes immer ein Kräftepaar aus betragsmäßig gleich großen aber entgegengesetzt gerichteten Kräften erforderlich. Oft tritt eine dieser Kräfte nicht unmittelbar in Erscheinung, da
+sie als Lagerkraft im Drehzentrum der durch äußere Bedingungen
+fixierten Drehachse wirkt.
+Der Körper bleibt in Ruhe, wenn die Kräfte in Richtung der Verbindungslinie zwischen den beiden Angriffspunkten A und B wirken
+(oberer Teil der Abb.31). Ist das nicht der Fall, wie im mittleren Teil
+der Abb. 31, so wird der Körper in Drehung versetzt. Bleiben die
+Kraftwirkungen bei der Drehung des Körpers unverändert, geht der
+frei drehbare Körper schließlich in seine Gleichgewichtslage über
+(unterer Teil der Abb. 31).
+F
+B
+A
+F
+F
+B
+A
+F
+
+F
+B
+
+A
+F
+
+Abb. 31: Entgegengesetzt gleich große Kräfte, die an verschiedenen
+Punkten eines ausgedehnten Körpers angreifen
+
+71
+
+5 Drehbewegungen
+
+Eine Erklärung für dieses Verhalten liefert die experimentelle Erfahrung über das Gleichgewicht von Kräften am Hebel, der aus einem
+gewichtslos gedachten Balken oder Stab besteht, der um eine Aufhängung 0 drehbar gelagert ist. Bereits vor über 2200 Jahren entdeckte Archimedes das Hebelgesetz:
+
+Gleiche Kräfte stehen im Gleichgewicht, wenn sie in
+gleichen Entfernungen von der Aufhängung 0 angreifen
+(gleicharmiger Hebel).
+
+l
+
+l
+0
+
+F1
+
+F1
+F=2F1
+
+Abb. 32: Gleichgewicht von Kräften am gleicharmigen Hebel
+Ferner zeigen experimentelle Untersuchungen:
+
+Ungleiche Kräfte sind dann im Gleichgewicht, wenn die Bedingung F1 l1 = F2 l 2 erfüllt ist.
+
+l2
+
+l1
+0
+
+F2
+
+F1
+F= F+
+1 F2
+
+Abb..33: Gleichgewicht von verschiedenen Kräften
+Das Produkt aus einer Kraft vom Betrag F und der Länge ihres Hebelarmes l beschreibt ihre Hebelwirkung oder ihre Drehfähigkeit, für
+die sich heute der technische Begriff Drehmoment eingebürgert hat.
+Der Hebelarm ist derjenige
+r Abstand vom Drehzentrum, auf dem die
+Wirkungslinie der Kraft F senkrecht steht. Das Drehmoment bewirkt eine Änderung der Drehbewegung. Es
+die Drehwirr beschreibt
+r
+kung einer Kraft. Die Drehmomente von F1 und F2 in Abb. 33 sind
+gleich groß, haben aber entgegen gesetzte Richtungen. Wenn das
+eine positiv und das andere negativ gezählt wird, folgt für das
+Gleichgewicht gegenüber Drehbewegung:
+
+Ein Körper, der sich unter der Einwirkung äußerer
+Kräfte um eine feste Achse drehen kann, ist im Gleich-
+
+72
+
+5.3 Drehmoment
+
+gewicht, wenn die Vektorsumme aller Drehmomente
+verschwindet, d.h. wenn das Gesamtdrehmoment
+gleich Null ist.
+r r
+Aus der Bedingung des statischen Kräftegleichgewichts ∑ Fi = 0
+r r r
+folgt, dass im Drehpunkt 0 eine weitere Kraft F = F1 + F2 an der
+r
+Hebelstange angreift. Zu dieser Kraft F gehört der Hebelarm l = 0 ,
+so dass diese Kraft kein Drehmoment bezüglich des Drehpunktes
+ausübt.
+Eine an einem drehbar gelagerten starren Körper in der
+r vektoriellen
+r
+Entfernung r von
+der
+Drehachse
+angreifende
+Kraft
+F
+kann ein
+r
+Drehmoment M hervorrufen, infolgedessen der Körper eine Rotationsbeschleunigung erfährt. Der Körper muss also um eine Achse A
+drehbar sein. Durch die Wahl eines Koordinatensystems kann dann
+sichergestellt werden, dass die Drehachse A beispielsweise mitrder
+z-Achse zusammenfällt. Die an dem Körper angreifende Kraft F
+möge zunächst nur in einer zur Drehachse A senkrechten Ebene wirken. Die Verallgemeinerung dieses Spezialfalles wird zunächst zurückgestellt. Das Drehmoment
+hängt von Betrag, Richtung und Anr
+griffspunkt der Kraft F ab. Der Angriffspunkt wird durch den Radir
+usvektor r definiert. Durch den Betrag r des Radiusvektors ist
+gleichzeitig der Abstand Drehpunkt-Angriffspunkt festgelegt. Die
+Richtung desr Drehmoments steht senkrecht auf der von den
+r Vektor
+ren
+r r und F aufgespannten Ebene. Das Drehmoment M der Kraft
+F bezüglich des Koordinatenullpunktes, durch den die Drehachse
+r
+verläuft,
+r ist definiert als Vektorprodukt aus Radiusvektor r und
+Kraft F . Diese Kraft soll hier an einer punktförmigen Masse m
+r
+angreifen, die sich an der Stelle r befindet und die um die z-Achse
+drehbar ist (Abb. 34).
+
+r r r
+M= r x F
+
+(5.22)
+r
+
+Aus dieser Definition folgt für die Einheit des Drehmomentes M :
+
+[M] = [F][r ] = Nm
+Dimensionsmäßig ist die Einheit der vektoriellen Größe Drehmoment [M ] = 1 Nm identisch mit der Einheit Joule (J) der grundsätzlich anders definierten skalaren Größe Energie E.
+
+73
+
+5 Drehbewegungen
+
+z
+
+y
+
+F
+F
+ϕ
+m
+r
+x
+
+0
+Abb. 34: Definition des Drehmomentes
+
+Die o. g. Definition des Drehmomentes ist äquivalent zur folgenden
+Aussage:
+
+Das Drehmoment M = F l = Fr sin ϕ entspricht betragsmäßig dem Produkt aus einer Kraft F und dem senkrechten Abstand l = r sin ϕ ihrer Wirkungslinie vom
+Drehpunkt.
+
+z
+y
+F
+ϕ
+
+r
+0
+
+l
+
+ϕ
+
+m
+x
+
+Abb. 35: Drehmoment als Ursache der Drehbewegung mit Darstellung des Hebelarmes l
+Den Abstand r zwischen Drehpunkt und Angriffspunkt der Kraft
+nennt man Hebelarm oder auch Kraftarm. Das Produkt aus Hebelarm r und der Komponente der Kraft senkrecht zur Richtung des
+Hebelarmes F⊥ = F sin ϕ , liefert den Betrag M des Drehmoments:
+M = r F⊥ = r F sin ϕ
+
+74
+
+(5.23)
+
+5.3 Drehmoment
+
+Damit entspricht das rDrehmoment M offensichtlich dem Betrag des
+r
+Vektorproduktes r × F .
+
+r r
+M =  r × F = r F sin ϕ = Fr sin ϕ = Fl
+
+(5.24)
+
+Der Hebelarm l entspricht dem senkrechten Abstand der Wirkungslinie der Kraft vom auf der Drehachse liegenden Drehzentrum, welches sich hier im Ursprung des Koordinatensystems
+befindet. Das
+r
+r
+Drehmoment M ist maximal, wenn r und F senkrecht aufeinander
+stehen. Dann gilt: M = rF
+
+r
+r
+Die Kraft F kann vektoriell in ihre Komponenten parallel zu r und
+r
+senkrecht zu r zerlegt werden.
+r r
+r
+F = F⊥ + FII
+
+(5.25)
+
+r
+Die Kraft FII ist radial nach außen gerichtet. Sie steht senkrecht auf
+der starren Drehachse und übt nur eine statische Zugkraft auf diese
+r
+aus. Daher ist FII ohne Beschleunigungswirkung und kann insbesondere keine Drehbewegung des Körpers mit der Masse m verursachen.
+r
+Die Kraft F⊥ bewirkt eine Beschleunigung dv/dt der Masse m längs
+eines Kreisbogens mit dem konstanten Radius r. Sie bewirkt das
+r
+Drehmoment der Kraft F mit dem Betrag
+M = r F⊥ = r m
+
+d
+d
+dω
+v = r m (r ω) = m r 2
+= Jα .
+dt
+dt
+dt
+
+(5.26)
+
+dω
+beschreibt die zeitlidt
+che Änderung der Winkelgeschwindigkeit. Sie wird mit dem
+Formelzeichen α bezeichnet.
+dv
+In Analogie zur Bahnbeschleunigung a =
+wird sie Winkelbedt
+schleunigung α genannt. In vektorieller Schreibweise gilt folgende Definition
+Die in dieser Gleichung auftretende Größe
+
+r
+r
+r
+∆ω dω
+α = lim
+=
+.
+∆t →0 ∆t
+dt
+
+(5.27)
+
+rad
+. Für
+s2
+einen Massenpunkt der Masse m, der sich im Abstand r von einem
+Drehzentrum auf einer Kreisbahn vom Radius r bewegt, lässt sich
+eine neue Größe J = mr 2 definieren, die Massenträgheitsmoment
+des Massenpunktes genannt wird und die mit dem Formelzeichen J
+bezeichnet wird. Für das auf einen Massenpunkt m im Abstand r von
+einer Drehachse einwirkende Drehmoment folgt dann
+
+Die Einheit der Winkelbeschleunigung ergibt sich zu [α] =
+
+75
+
+5 Drehbewegungen
+r r r
+r
+M = r × F = Jα .
+
+(5.28)
+
+Das Drehmoment stellt somit einen axialen Vektor dar. Axiale Vektoren sind freie Vektoren, d.h. sie sind parallel verschiebbar und
+daher an keine Wirkungslinie verbunden. Die Wirkungslinie ist dabei
+durch die
+r Richtung des Kraftvektors festgelegt. Die Richtung der
+durch M hervorgerufenen Drehbewegung folgt aus der Definition
+des Drehsinns axialer Vektoren: Blickt man in Richtung des axialen
+Vektors, so erfolgt die Drehung im Uhrzeigersinn. Diese Richtung
+des Drehmomentes ergibt sich auch aus der Definition des Vektorproduktes.
+Die bisherigen Überlegungen waren auf den Spezialfall beschränkt,
+r
+dass die an dem Körper angreifende Kraft F in einer zur Drehachse
+r
+A senkrechten Ebene lag. Wirkt dagegen eine Kraft F in einer Ebene, die nicht senkrecht auf der Drehachse A steht, so lässt sich dieser
+allgemeine Fall auf den oben dargestellten Spezialfall zurückführen.
+r r
+r
+r
+Dazu wird die Kraft F = FS + FP vektoriell in zwei Komponenten FS
+r
+senkrecht (Index s) und FP parallel (Index p) zur Drehachse zerlegt.
+
+A
+
+Fp
+
+F
+Fs
+
+Abb. 36: Wirkung einer schief gerichteten Kraft auf die Drehbewegung
+r
+Nur FS kann eine Drehbewegung des Körpers verursachen; sie entr
+r
+spricht der Projektion von F auf die Drehbewegungsebene. FP übt
+dagegen nur eine parallel gerichtete Zugkraft auf die ortsfeste Drehr
+achse A aus. Die Kraft FS liegt wieder in der zur Drehachse senkrechten Drehbewegungsebene und sie kann mit der in Abb. 34 darr r
+r
+gestellten Kraft F = F⊥ + FII identifiziert werden.
+
+r
+r r
+Eine konstante Kraft F , die tangential ( r ⊥ F ) am Umfang einer
+Welle vom Radius r angreift, verursacht ein konstantes Drehmoment
+vom Betrag M = r F. Die Welle dreht sich dann während des Zeitintervalls ∆t um einen Drehwinkel ∆ϕ . Der Angriffspunkt der Kraft
+legt dabei einen Weg ∆s = r∆ϕ zurück und das Drehmoment M verrichtet dabei an der Welle die Rotationsarbeit
+
+76
+
+5.3 Drehmoment
+
+∆Wrot = F∆s =
+
+M
+r∆ϕ = M∆ϕ .
+r
+
+(5.29)
+
+Für die im Zeitintervall ∆t vom Drehmoment hervorgerufene Leistung P folgt:
+P=
+
+∆Wrot
+∆t
+
+=
+
+M∆ϕ
+= Mω
+∆t
+
+(5.30)
+
+ω beschreibt die Winkelgeschwindigkeit der Welle.
+
+r r
+Vektoriell gilt: P = M ⋅ ω
+Die
+P ist durch das Skalarprodukt der Vektoren
+r Momentanleistung
+r
+M und ω gegeben.
+In der Praxis spielt das Drehmoment bei der Beschleunigung von
+Kraftfahrzeugen eine herausragende Rolle. Verbrennungsmotoren
+erzeugen kein über den gesamten Drehzahlbereich konstantes Drehmoment (Abb. 37). Die Motordrehzahl n = U / min ist dabei definiert als die Anzahl der Umdrehungen pro Minute und ist proportional zur Anzahl der Zündungen pro Minute. Aufgrund komplizierter
+Strömungsvorgänge während des Verbrennungsvorganges im Zylinder nimmt das Drehmoment bei hohen Drehzahlen steil ab, so dass
+die maximale Leistung eines Kraftfahrzeugs nicht bei Höchstgeschwindigkeit erbracht wird.
+
+M
+Nm
+500
+400
+300
+200
+100
+1000 2000 3000 4000
+
+U/min
+
+Abb. 37: Drehmoment als Funktion der Drehzahl eines Verbrennungsmotors
+Für eine größtmögliche Beschleunigung ist daher die Kenntnis der
+Drehzahl mit maximalem Drehmoment erforderlich. Um den Kraftstoffverbrauch zu minimieren ist dagegen eine niedrigtourige Fahrweise bei geringer Drehzahl notwendig, bei der es zu möglichst wenigen Zündvorgängen kommt.
+
+77
+
+5 Drehbewegungen
+
+Beispiel: Drehmoment M R als Ursache für die Rollbewegung
+Eine auf einer waagrechten Ebene rollende Kugel kommt infolge der Rollreibung allmählich zur Ruhe. Für das beschleunigungsfreie Abrollen der Kugel mit konstanter Winkelgeschwindigkeit muss ein bestimmtes Drehmoment M um den Auflagepunkt B aufgewendet werden, welches das entgegen gesetzte
+Drehmoment M R der Rollreibung gerade kompensiert. Die experimentelle Beobachtung führt zu folgendem Ansatz:
+M R = µ RL ⋅ FN
+Der Proportionalitätsfaktor µ RL wird Rollreibungslänge genannt und besitzt die Dimension einer Länge.
+[µ RL ] = m
+Die Rollreibungslänge µ RL wird durch den Rollreibungskoeffizienten µ R bestimmt und lässt sich auf einer schiefen Ebene mit
+verstellbarem Neigungswinkel ϕ ermitteln. Wird der Neigungswinkel langsam von Null an erhöht, so rollt eine Kugel
+oder ein Kreiszylinder nicht die schiefe Ebene herunter, solange
+ϕ kleiner als der Grenzwinkel ϕ R ist. Dabei gilt:
+ϕR < ϕG < ϕH
+
+FT
+
+(5.31)
+
+S
+r
+B
+FN
+
+F =mg
+S
+
+Abb. 38: Bestimmung des Rollreibungskoeffizienten µ R
+Die Größe r stellt dabei den Radius der Kugel oder des Zylinders dar. B ist der Berührpunkt der Kugel bzw. die Berührlinie
+des Zylinders mit der schiefen Ebene. Bei dem Grenzwinkel ϕ R
+r
+r
+ist das durch die Schwerkraft FS = mg im Gegenuhrzeigersinn
+r r r
+wirkende Drehmoment M = r × FS um den Auflagepunkt B be-
+
+78
+
+5.4 Massenträgheitsmoment
+
+tragsmäßig gleich dem durch die Rollreibungskraft
+FRR = µ R ⋅ FN im Uhrzeigersinn wirkenden Drehmoment
+
+r
+r r
+M R = r × FRR = µ R mgr cos ϕ R = µ RL ⋅ FN = µ RL mg cos ϕ R .
+Die Rollreibungskraft greift im Schwerpunkt der Kugel an und
+ist antiparallel zur Bewegungsrichtung orientiert. Damit ergibt
+sich für den Zusammenhang zwischen µ RL und µ R :
+µ RL = r ⋅ µ R .
+Aus M = M R folgt schließlich: mgr sin ϕ R = µ R mgr cos ϕ R .
+Für den Rollreibungskoeffizienten µ R erhält man:
+µ R = tan ϕ R .
+
+5.4
+
+(5.32)
+
+Massenträgheitsmoment
+
+Jeder Körper widersetzt sich der Translationsbeschleunigung infolge
+seiner trägen Masse. Dies gilt auch für die Drehbeschleunigung einer
+Rotationsbewegung. Die Trägheitswirkung eines starren Körpers
+wird dabei jedoch nicht nur durch seine Masse m, sondern zusätzlich
+durch ihren Abstand r von der Drehachse bestimmt. Je weiter ein
+Massenelement von dieser Achse entfernt ist, um so mehr trägt es
+zum Beharrungsvermögen bei. Bei ausgedehnten Körpern wird daher
+die Trägheitswirkung durch die Massenverteilung bestimmt. Ein
+quantitatives Maß für den Widerstand gegen Drehbeschleunigungen
+ist das Massenträgheitsmoment J. Für eine punktförmige Masse
+m im Abstand r von der Drehachse ist das Massenträgheitsmoment J
+definiert durch
+J = m r2 .
+
+(5.33)
+
+Mit Hilfe des Massenträgheitsmomentes
+J kann eine weitere Definir
+tion des Drehmoments M angegeben werden
+
+r
+r
+r
+dω
+M=J
+=J α.
+dt
+
+(5.34)
+
+Diese Gleichung stellt das Grundgesetz für Rotationsbewegungen
+dar.
+Unter der Wirkung eines Drehmomentes erfährt ein
+drehbarer Körper eine Winkelbeschleunigung.
+
+79
+
+5 Drehbewegungen
+
+Dabei ist das Verhältnis der Beträge von wirkendem Drehmoment
+zur verursachten Winkelbeschleunigung eine konstante Größe, nämlich das Massenträgheitsmoment J.
+Für die Berechnung des Massenträgheitsmomentes J eines ausgedehnten Körpers gilt: Besteht der Körper aus N verschiedenen Massenelementen ∆m i , die sich in senkrechten Abständen ri von der
+Drehachse befinden, so ist J gegeben durch die Summe der Beiträge
+aller Massenelemente:
+N
+
+J = ∆m1 r12 + ∆m 2 r22 + ... + ∆m N rN2 = ∑ ∆m i ri 2 .
+
+(5.35)
+
+i=1
+
+Im Grenzübergang ∆m → 0 geht die diskrete Summe (5.35) über in
+eine „kontinuierliche“ Summe, die durch ein Riemannsches Integral
+dargestellt wird. Für das Massenträgheitsmoment gilt dann
+J = lim
+
+∆m i − > 0
+
+∑ ri2 ∆m i = ∫ r⊥2 dm .
+i
+
+(5.36)
+
+m
+
+Das Integral erstreckt sich über die Massenverteilung des ausgedehnten Körpers mit der Gesamtmasse m.
+
+Beispiel: Massenträgheitsmoment J eines Vollzylinders
+Für das Massenträgheitsmoment J bezüglich der z-Achse eines
+um diese Achse rotationssymmetrischen Kreiszylinders (Radius
+R, Länge L), der Gesamtmasse m und der homogenen Dichte ρ
+gilt:
+m
+
+J = ∫ r⊥2 dm
+0
+
+Wegen dm = ρdV folgt
+V
+
+V
+
+0
+
+0
+
+J = ∫ r⊥2 ρdV = ρ ∫ r⊥2 dV .
+Wird der Vollzylinder in dünnwandige Hohlzylinder zerlegt, so
+gilt für das Massenträgheitsmoment dJ eines Hohlzylinderelements mit dem Radius r, der Masse dm und der infinitesimal
+dünnen Wandstärke dr:
+dJ = r 2 dm = r 2 ρdV = r 2 ρ2πrLdr
+Durch Summation aller Elemente dJ folgt für das Massenträgheitsmoment J des Kreiszylinders mit dem Radius R und der
+Länge L:
+
+80
+
+5.4 Massenträgheitsmoment
+
+J
+
+R
+
+R
+
+1
+1
+J = ∫ dJ = ∫ r 2 ρ2πrLdr = 2πLρ ∫ r 3 dr = 2πLρ R 4 = mR 2
+4
+2
+0
+0
+0
+Das Volumen des Vollzylinders beträgt V = πR 2 L und seine
+Masse m ergibt sich zu m = ρV = ρπR 2 L .
+Eine wichtige technische Anwendung des Massenträgheitsmomentes stellen Schwungräder und Schwungscheiben dar. Sie
+werden als moderne Energiespeicher eingesetzt.
+Die Berechnung des Massenträgheitsmomentes ist nur möglich,
+wenn die Masse und ihre Verteilung bezüglich der jeweiligen Drehachse bekannt sind.
+
+Das Massenträgheitsmoment eines zusammengesetzten Körpers
+bezüglich der gleichen Drehachse berechnet sich durch Addition
+als Summe der Trägheitsmomente seiner Teile.
+In Abb. 39 sind die Massenträgheitsmomente einiger wichtiger rotationssymmetrischer Körper der Masse m und der homogenen Dichte
+ρ zusammenfassend dargestellt. Die Rotationsachse entspricht dabei
+der Symmetrieachse durch den Schwerpunkt.
+Natürlich können durch den Schwerpunkt eines Körpers beliebig
+viele Drehachsen gelegt werden, die im Allgemeinen zu verschiedenen Massenträgheitsmomenten führen.
+Die experimentelle Beobachtung zeigt: Das Trägheitsmoment hängt
+von der Drehachse ab. Dabei stellt sich heraus, dass immer zwei
+bestimmte, senkrecht aufeinander stehende Drehachsen existieren,
+für die das Massenträgheitsmoment minimal ( J min ) bzw. maximal
+( J max ) wird. Diese beiden Achsen werden als freie Achsen des Körpers bezeichnet. Ein frei beweglicher Körper kann nur um diese beiden Achsen stabil rotieren. Zusammen mit einer auf diesen beiden
+Achsen senkrecht stehenden dritten Achse, um die keine stabile Rotation möglich ist, bilden sie die Hauptträgheitsachsen eines Körpers. Durch parallele Verlagerung einer Schwerpunktsachse S zu
+einer Drehachse A wird das Massenträgheitsmoment vergrößert. Im
+Folgenden soll das Massenträgheitsmoment, bezogen auf eine Drehachse S durch den Schwerpunkt mit J S bezeichnet werden. Das
+Massenträgheitsmoment des gleichen Körpers, bezogen auf eine zu S
+parallele Drehachse A im Abstand a soll mit J A gekennzeichnet
+werden.
+
+81
+
+5 Drehbewegungen
+
+Körper
+
+Massenträgheitsmoment J
+
+Kugel
+
+Vollkugel
+J=
+
+2
+mR 2
+5
+
+Kugelschale (dünnwandig)
+2
+mR 2
+3
+R: Kugelradius
+J=
+
+Hohlkugel
+J=
+
+2 R 5A − R 5I
+m
+5 R 3A − R 3I
+
+Vollzylinder
+
+J=
+
+1
+mR 2
+2
+
+R: Zylinderradius
+
+Hohlzylinder
+
+J=
+
+1
+m(R 2A + R 2I )
+2
+
+R A : Außenradius
+R I : Innenradius
+
+Abb. 39: Massenträgheitsmomente
+
+82
+
+5.4 Massenträgheitsmoment
+
+Zwischen den beiden Massenträgheitsmomenten J S und J A existiert ein Zusammenhang, der vom schweizer Mathematiker Jakob
+Steiner (1796 – 1863) formuliert wurde und heute als Steinerscher
+Satz bezeichnet wird.
+J A = J S + ma 2
+
+(5.37)
+
+m ist dabei die Gesamtmasse des rotierenden Körpers und a der
+Abstand zwischen den beiden parallelen Achsen S und A. Die Aussage des Satzes von Steiner kann durch eine einfache Energiebetrachtung begründet werden: Die kinetische Energie des um S rotie1
+renden Körpers ist E = J S ω 2 . Bei Rotation um die Drehachse A
+2
+führt der Körper gleichzeitig zwei Bewegungen aus:
+Er rotiert um S und zusätzlich bewegt sich die im Schwerpunkt S
+vereint gedachte Masse m mit der Bahngeschwindigkeit v S im Abstand a um die Rotationsachse A, wobei beide Bewegungen mit gleicher Winkelgeschwindigkeit erfolgen. Für die gesamte kinetische
+Energie E kin des Körpers folgt:
+E kin =
+
+1
+1
+J S ω 2 + mv S2
+2
+2
+
+(5.38)
+
+Die gesamte kinetische Energie eines starren Körpers ist die Summe
+aus der Rotationsenergie für die Drehbewegung um den Schwerpunkt S und der Translationsenergie des Schwerpunktes.
+Wegen v S = aω folgt:
+E kin =
+
+1
+1
+1
+1
+J S ω 2 + ma 2 ω 2 = (J S + ma 2 )ω 2 = J A ω 2
+2
+2
+2
+2
+
+(5.39)
+
+Auch bei Rotation um eine zu S parallele Achse A gilt für die gesamte Rotationsenergie
+E kin = E rot =
+
+1
+J A ω2 ,
+2
+
+(5.40)
+
+wobei
+J A = J S + ma 2
+
+(5.41)
+
+ist. Bei jeder Rotation ist das Massenträgheitsmoment für a = 0 am
+kleinsten, d.h. wenn die Drehachse durch den Schwerpunkt S verläuft. Wenn das Massenträgheitsmoment J S bekannt ist, können die
+
+83
+
+5 Drehbewegungen
+
+Trägheitsmomente für alle dazu parallelen Achsen A mithilfe des
+Steinerschen Satzes berechnet werden.
+
+Beispiel: Ableitung des Steinerschen Satzes
+Ein Zylinder soll sich um zwei parallele Achsen S und A drehen
+können, die senkrecht zur Zeichenebene in Abb. 40 stehen und
+den Abstand a besitzen. Das herausgegriffene Volumenelement
+dV habe vom Schwerpunkt S den Abstand rS und von der Drehachse A den Abstand rA . Definitionsgemäß gilt:
+J S = ∫ rS2 dm = ρ ∫ rS2 dV
+J A = ∫ rA2 dm = ρ ∫ rA2 dV
+Der Kosinussatz liefert für rA2 : rA2 = rS2 − 2arS cos α + a 2
+J A = ρ ∫ (rS2 − 2arS cos α + a 2 )dV
+J A = ρ ∫ rS2 dV + ρ ∫ a 2 dV − 2aρ ∫ rS cos αdV
+J A = J S + a 2 ρ ∫ dV = J S + a 2 ρV = J S + ma 2
+
+S
+
+α
+x
+
+rS
+
+dV
+rA
+
+s
+A
+
+Abb.40: Ableitung des Satzes von Steiner
+
+Der Term
+
+∫ rS cos αdV
+
+verschwindet. Es ist
+
+2aρ ∫ rS cos αdV = 2aρ ∫ xdV = 0 . Denn x S =
+
+ρ ∫ xdV
+m
+
+ist die
+
+über die Massenverteilung gemittelte x-Koordinate des Schwerpunktes S( x S , y S , z S ) , der hier im Ursprung des gewählten Koordinatensystems liegt ( x S = 0 ). Folglich gilt:
+
+84
+
+5.5 Drehimpuls
+
+J A = J S + ma 2
+
+5.5
+
+Drehimpuls
+
+r
+r
+Die dem Impuls p = m v der geradlinigen Bewegung entsprechende
+r
+Größe der Drehbewegung ist der Drehimpuls L . Bewegt sich ein
+r
+Massenpunkt der Masse m, dessen Lage durch den Ortsvektor r
+r d r
+charakterisiert ist mit einer Geschwindigkeit v = r , dann besitzt er
+dt
+r
+r
+den Impuls p = m v . Der Drehimpuls des Massenpunktes ist dann
+folgendermaßen definiert
+
+r r r
+L = r ×p .
+
+(5.42)
+
+r
+Definitionsgemäß ist der Drehimpuls L ebenfalls ein axialer Vektor (Abb. 41).
+
+p=mv
+
+L
+
+m
+r
+
+Abb. 41: Definition des Drehimpulses
+Ausgehend von dieser Definition ist folgende vektorielle Umformung möglich:
+
+r r r r
+r
+L = r ×p = r ×m v
+
+(5.43)
+
+(
+
+)
+
+r r
+r r
+r r r
+Mit v = ω × r folgt L = r × m ω × r .
+Die Anwendung des Entwicklungssatzes für dreifache Vektorprodukte liefert:
+
+r
+r r r r r r
+L = m [(r ⋅ r )ω - (r ⋅ ω)r ]
+
+(5.44)
+
+r
+Da bei einer Kreisbewegung der Ortsvektor r senkrecht auf dem
+r
+r r
+Vektor der Winkelgeschwindigkeit
+ω steht folgt r × ω = 0 . Für den
+r
+Drehimpuls L ergibt sich damit
+r
+r
+L = m r 2ω .
+
+(5.45)
+
+85
+
+5 Drehbewegungen
+
+Mit Hilfe des Massenträgheitsmoments eines
+r Massenpunktes
+2
+J = m r erhält man für den Drehimpuls L schließlich die Beziehung
+
+r
+r
+L = J ω.
+
+(5.46)
+
+r
+r
+Der Drehimpuls L ist proportional zur Winkelgeschwindigkeit ω
+der Drehbewegung. Gl. 5.46 ist allgemeinrgültig und weist jedem mit
+r
+ω rotierenden Körper einen Drehimpuls L zu.
+
+5.6
+
+Dynamisches Grundgesetz der Rotation
+
+r
+Der Drehimpuls L kann sich unter bestimmten Bedingungen im
+Laufe der Zeit ändern. Für die zeitliche Änderung des Drehimpulses
+ergibt sich mit Hilfe der Produktregel der Differenzialrechnung
+d r d
+L=
+dt
+dt
+
+(r × p ) =
+r r
+
+dr r r d r
+r ×p + r × p .
+dt
+dt
+
+(5.47)
+
+r
+r
+r
+dr r
+Da die Bahngeschwindigkeit
+= v und der Impuls p = m v
+dt
+gleichgerichtet sind, fällt das erste Glied auf der rechten Seite weg.
+d r r
+Aufgrund des 2. Newtonschen Axioms ist
+p = F . Daraus folgt
+dt
+für die zeitliche Änderung des Drehimpulses
+d r r r r
+L = r ×F = M .
+dt
+
+(5.48)
+
+Die zeitliche Änderung
+des Drehimpulses
+ist gleich dem
+r
+r
+Drehmoment M der äußeren Kraft F .
+r
+r
+Das Drehmoment
+steht senkrecht zu r und F und verschwindet,
+r
+r
+wenn r und F auf
+r Linie liegen. Wirken keine äußeren Mor einer
+mente, dann ist M = 0 . Es gilt dann:
+r r
+d r r
+L = 0 oder L = c (konst.)
+dt
+
+(5.49)
+
+Der Drehimpuls bleibt erhalten, wenn kein Drehmoment wirkt.
+Diese Aussage wird als Satz von der Erhaltung des Drehimpulses
+bezeichnet.
+
+Beispiel: Gravitation als Zentralkraft
+
+86
+
+5.7 Rotationsenergie
+
+Zentralkräfte sind Kräfte, die zum Ursprung eines Koordinatensystems hin oder von ihm weg weisen. So ist die dem Radir
+usvektor r entgegengesetzt gerichtete Gravitationskraft, mit der
+ein Planet mit der Masse m P von der Sonne mit der Masse m S
+angezogen wird, stets zur Sonne gerichtet. Wird der Ursprung
+des Koordinatensystems in die Sonne gelegt, so übt die Gravitationskraft auf die Planetenmasse kein Drehmoment aus. Der
+Bahndrehimpuls ist dann eine Konstante der Bewegung, d. h. er
+ändert sich nicht im Laufe der Zeit. Da der Drehimpuls direkt
+proportional zur Winkelgeschwindigkeit der Planetenbewegung
+um die Sonne ist, bleibt diese ebenfalls konstant. Wegen
+2π
+ω=
+ist auch die Umlaufzeit T des Planeten konstant. Diese
+T
+Konstanz wird für die Festlegung des astronomischen Zeitnormales ausgenutzt. So ist beispielsweise die Umlaufzeit der Erde
+um die Sonne und damit die Dauer eines Erdjahres konstant. Im
+Einzelnen gilt
+
+r
+r
+2 r
+FG = - G (mP m S /r ) .
+r
+r
+r
+r / r ist dabei ein
+Einheitsvektor in Richtung des Ortsvektors r .
+r
+r r
+Wegen r × r = 0 folgt:
+r
+r
+r 
+d r r r
+2 r
+.
+L = r × FG = r × - G m P m S /r
+=
+0
+r 
+dt
+
+
+(
+
+)
+
+Die gleiche Argumentation gilt auch für die elektrische Coulombkraft, die ebenfalls eine Zentralkraft darstellt. Durch die anziehende
+Coulombkraft werden die Hüllenelektronen auf Bahnen um den
+Atomkern gezwungen. Die Coulombkraft übt dabei kein Drehmoment auf die Elektronen aus. Die Elektronen bewegen sich daher mit
+zeitlich konstanten Drehimpulsen um den Atomkern.
+
+5.7
+
+Rotationsenergie
+
+Im Folgenden soll die Rotation eines starren Körpers, z. B. eines
+Schwungrades betrachtet werden. Der starre Körper ist ein räumlich
+ausgedehnter idealisierter Modellkörper. Er kann als ein System von
+gegenseitig fixierten Massenpunkten mit einer Gesamtmasse m aufgefasst werden. Die relativen Abstände der Massenpunkte untereinander sind unveränderbar oder starr. Auch unter Einwirkung von
+äußeren Kräften treten im starren Körper im Gegensatz zum elastischen Körper keine Deformationen auf. Der starre Körper stellt eine
+Abstraktion dar, die in der Natur nur näherungsweise gültig ist. Absolut starre Körper gibt es nicht.
+Die Gesamtmasse m eines starren Körpers kann in eine Summe von
+endlich vielen Massenelementen ∆m i zerlegt werden.
+
+87
+
+5 Drehbewegungen
+
+m = ∑ ∆m i
+
+(5.50)
+
+i
+
+Eine Drehung eines starren Körpers um eine feste Achse liegt dann
+vor, wenn die Rotationsachse im Körper festliegt und außerhalb in
+einer Lagerung geführt wird. Der senkrechte Abstand eines beliebigen Massenelementes ∆m i von der Drehachse sei ri und seine mor
+mentane Bahngeschwindigkeit v i . Die kinetische Energie eines
+solchen Elements bei Rotation um die Drehachse ist
+
+E kin,i =
+
+1
+2
+∆m i v i .
+2
+
+(5.51)
+
+Bei Rotation um eine feste Drehachse werden alle Punkte des Körpers in der gleichen Zeit um den gleichen Winkel gedreht, d. h. alle
+r
+Massenelemente ∆m i besitzen dieselbe Winkelgeschwindigkeit ω
+(Abb. 42).
+
+vi
+
+ri
+
+∆mi
+
+Abb. 42: Rotation eines starren Stabes um eine Achse
+Für den Betrag der Bahngeschwindigkeit v i des Massenelementes
+∆m i gilt
+
+v i = ri ω .
+
+(5.52)
+
+Damit folgt: E kin,i =
+
+1
+2
+∆m i ri ω2 .
+2
+
+Die kinetische Gesamtenergie des rotierenden starren Körpers ist die
+Summe der kinetischen Energien aller seiner Massenelemente:
+
+E kin = ∑
+i
+
+88
+
+1
+∆m i ri 2 ω 2
+2
+
+(5.53)
+
+5.7 Rotationsenergie
+
+Bei der Rotation eines starren Körpers steht somit im Ausdruck für
+die kinetische Energie die Summe
+
+∑ ∆mi ri 2 , die das Massenträgi
+
+heitsmoment J darstellt.
+Die kinetische Energie eines rotierenden Körpers, die im Folgenden
+als Rotationsenergie E rot bezeichnet wird, ergibt sich damit zu
+
+E kin = E rot =
+
+1
+J ω2 .
+2
+
+(5.54)
+
+In Tabelle 3 sind die korrespondierenden Größen, die die lineare
+Bewegung (Translationsbewegung) beziehungsweise die Kreisbewegung (Rotationsbewegung) beschreiben, zusammenfassend gegenübergestellt worden.
+
+Translation
+Größe und
+Formelzeichen
+Weg
+r r
+s,ds
+
+Einheit
+
+m
+
+Rotation
+Größe und
+Formelzeichen
+Winkel
+
+Einheit
+
+r
+ϕ, dϕ
+
+rad = 1
+
+Geschwindigkeit
+r
+r ds
+v=
+dt
+
+m/s
+
+Winkelgeschwindigkeit
+r
+r dϕ
+ω=
+dt
+
+rad/s = 1/s
+
+Beschleunigung
+r
+r dv
+a=
+dt
+
+m/s2
+
+Winkelbeschleunigung
+r
+r dω
+α=
+dt
+
+rad/s2 = 1/s2
+
+Masse
+m
+
+kg
+
+Massenträgheitsmoment
+
+kg m2
+
+J=
+
+∑ ∆m iri 2
+i
+
+Kraft
+r
+r
+r dp
+F = ma =
+dt
+
+N
+
+Drehmoment
+r
+r
+r dL
+M = Jα =
+dt
+
+Nm
+
+Impuls
+r
+r
+p = mv
+
+kg m/s
+
+Drehimpuls
+r
+r
+L = Jω
+
+kg m2/s
+
+kinetische Energie
+1
+Ekin = mv 2
+2
+
+J
+
+kinetische Energie
+1
+Erot = Jω2
+2
+
+J
+
+89
+
+5 Drehbewegungen
+
+Leistung
+dW r r
+P=
+=F⋅v
+dt
+
+W
+
+Leistung
+dW r r
+P=
+= M⋅ ω
+dt
+
+W
+
+Tab. 3: Gegenüberstellung der physikalischen Größen für Translations- und Rotationsbewegung
+
+5.8
+
+Verfahrenstechnische Anwendung: Zentrifugen
+
+In der Verfahrenstechnik werden Zentrifugen zur Trennung von
+Stoffgemischen eingesetzt. Zentrifugen bestehen aus schnell rotierenden Hohlzylindern. Ihre Wirkungsweise basiert auf der Zentrifur
+galkraft F F , für die betragsmäßig gilt
+
+FF = m
+
+v2
+.
+r
+
+(5.55)
+
+Die Zentrifugalkraft ist direkt proportional zur Masse der Teilchen.
+Wird beispielsweise ein Stoffgemisch aus zwei Komponenten mit
+den Teilchenmassen m1 und m2 (m1 > m2) in den Hohlzylinder einer
+Zentrifuge gegeben, so sammeln sich bei Rotation die schwereren
+Teilchen des Stoffgemisches mit der Masse m1 am äußeren Rand der
+Zylinderwand an (Abb. 43). Die leichteren Teilchen mit der geringeren Masse m2 bleiben in der Nähe der Rotationsachse zurück. Durch
+die Zentrifugalkraft wird das Stoffgemisch in räumlich voneinander
+getrennte Komponenten separiert. Der obere Teil der Abb. 43 zeigt
+die Verteilung des Stoffgemisches vor Beginn der Rotation, während
+im unteren Teil die Verteilung zu einem späteren Zeitpunkt nach
+dem Einsetzen der Rotation zu sehen ist.
+
+90
+
+5.9 Schleudern, Kippen und Rekuperation im Straßenverkehr
+ω =0
+
+ω >0
+
+m ( ) > m ( )
+1
+2
+
+Abb. 43: Stofftrennung mit Hilfe einer Zentrifuge
+Durch den Einsatz von Gaszentrifugen, die mit extrem hohen Drehzahlen von etwa 10 5 Umdrehungen pro Minute rotieren (dies entspricht Winkelgeschwindigkeiten von etwa ω ≈ 10 4 s −1 ), können
+sogar die verschieden schweren Atomarten eines Elementes voneinander getrennt werden. Dieses Gaszentrifugenverfahren wird zur
+Isotopentrennung bei der Herstellung von Kernbrennstoffen für
+Kernreaktoren ausgenutzt. Das natürlich vorkommende Element
+Uran besteht aus zwei Isotopen: U-238 mit einer Häufigkeit von 99,3
+% und U-235 mit einer Vorkommenswahrscheinlichkeit von 0,7 %.
+Durch Isotopentrennung wird der Kernbrennstoff mit etwa 3 - 4%
+mit dem für thermische Neutronen leicht spaltbaren Isotop U-235
+angereichert. Ultrazentrifugen können heute Drehzahlen in der Größenordnung von n ≈ 10 6 min −1 erreichen.
+
+5.9
+
+Schleudern, Kippen und Rekuperation im
+Straßenverkehr
+
+Ausgangspunkt dieser Betrachtung soll zunächst die Untersuchung
+einiger einfacher Gleichgewichtszustände sein. Ein Körper befindet
+sich dann im Gleichgewicht, wenn die Summe aller an ihm angreir
+r
+fenden Kräfte F1,...,Fn und die Summe aller an ihm angreifenden
+r
+r
+Drehmomente M1,...,Mm gleich Null ist. Die Kräfte werden dabei
+
+91
+
+5 Drehbewegungen
+
+auf ein kartesisches Koordinatensystem bezogen, die Drehmomente
+auf eine ortsfeste Drehachse.
+n r
+r
+F = (Fx , Fy , Fz ) = ∑ Fi = 0,
+
+m r
+r
+M = (M x , M y , M z ) = ∑ M j = 0
+
+i=1
+
+j=1
+
+In Komponentenschreibweise
+erhält man für die verschwindende
+r
+Gesamtkraft F :
+n
+
+Fx = ∑ Fix = 0 ,
+i=1
+
+5.9.1
+
+n
+
+F = ∑ Fiy = 0 ,
+y
+
+i=1
+
+n
+
+Fz = ∑ Fiz = 0 .
+i=1
+
+Schleudern
+
+Ein Anwendungsbeispiel von Gleichgewichtsbedingungen stellt das
+Durchfahren einer Kurve mit einem Fahrzeug dar. Ist die Fahrgeschwindigkeit so groß, dass die Gleichgewichtsbedingungen nicht
+mehr erfüllt sind, kommt das Fahrzeug ins Schleudern. Dieser für die
+Verkehrssicherheit gefährliche Vorgang soll im Folgenden näher
+betrachtet werden.
+Das Schleudern kommt dadurch zustande, dass für ein Radpaar (eine
+Achse), auf dem das halbe Gewicht des Fahrzeugs ruhen möge, der
+Betrag der Haftreibungskraft FHR nicht mehr ausreicht, um die Zentrifugalkraft FF das Gleichgewicht zu halten. Da der Schwerpunkt
+beispielsweise eines Pkws etwa in der Mitte zwischen den beiden
+Achsen liegt folgt für die Achslast, d.h. die Gewichtskraft, die auf
+eine Achse wirkt:
+FS =
+
+m
+g
+2
+
+Solange die Haftreibungskraft die Fliehkraft überwiegt tritt kein
+Schleudern auf. Mit wachsender Geschwindigkeit wird die Fliehkraft
+immer größer, sie überschreitet schließlich für v > v S die Haftreibungskraft und das Fahrzeug bricht gleitend aus der Kurve. Im
+Grenzfall v = v S gilt für die beiden Kräfte betragsmäßig
+FF = FHR
+m vs2
+2 R
+
+= µH FN .
+
+Unter Annahme einer ebenen Fahrbahn gilt
+
+FN = Fs =
+
+92
+
+m
+g
+2
+
+5.9 Schleudern, Kippen und Rekuperation im Straßenverkehr
+
+2
+m vs
+m
+= µH
+g.
+2 R
+2
+
+Damit folgt für die Grenzgeschwindigkeit v S :
+
+v s = µH g R
+
+(5.56)
+
+Beispiel:
+Ein Fahrzeug durchfährt eine Kurve mit einem Krümmungsradius von R = 50 m. Bei welcher Geschwindigkeit kommt das
+Fahrzeug ins Schleudern?
+Es sollen zwei verschiedene Situationen betrachtet werden:
+a) Bei trockener Fahrbahn: µ H = 0,9
+b) Bei nasser Fahrbahn: µ H = 0,3
+Schleudern des Fahrzeugs tritt dann auf, wenn folgende Geschwindigkeiten überschritten werden:
+a) Für trockene Fahrbahn: v S = 21 m/s = 76 km/h
+b) Für nasse Fahrbahn: v S = 12 m/s = 44 km/h
+Für den Zusammenhang R = R( v S ), die sog. KurvenGrenzgeschwindigkeit gilt dann
+
+R=
+
+1
+µH g
+
+v s2 .
+
+(5.57)
+
+Die in Abb. 44 graphisch dargestellte Kurvenschar zeigt die Kurvengrenzgeschwindigkeiten für verschiedene Werte des Parameters µ H .
+
+93
+
+5 Drehbewegungen
+
+R
+m
+
+µ H = 0,2
+0,4
+0,6
+0,8
+1,0
+
+0
+
+25
+
+50
+
+75
+
+100
+
+125
+
+150
+
+vs
+(km/h)
+
+Abb. 44: Kurvengrenzgeschwindigkeiten für verschiedene Haftreibungskoeffizienten µ H
+Neben dem Luftwiderstand ist beim Kurvenfahren jedes Fahrzeug
+zwei wesentlichen Kräften ausgesetzt: Der Zentrifugalkraft FF , die
+im Schwerpunkt des Fahrzeugs angreift und der Haftreibungskraft
+FHR , die an den Auflagepunkten der Reifen auf der Fahrbahndecke
+angreift. Die Haftreibungskräfte halten das Fahrzeug auf der Straße
+solange sie größer sind als die Zentrifugalkräfte, die es radial aus der
+Kurve tragen wollen. Für jede Kurve, charakterisiert durch ihren
+Krümmungsradius R existiert somit eine Grenzgeschwindigkeit vS.
+Soll eine Kurve mit doppelter Geschwindigkeit gefahrlos durchfahren werden, so muss der Krümmungsradius vervierfacht werden.
+Umgekehrt kann eine Kurve mit halben Krümmungsradius nur mit
+einem Viertel der ursprünglichen Geschwindigkeit sicher durchfahren werden. Für die Verkehrssicherheit verhängnisvoll wird es, wenn
+das Fahrzeug umkippt.
+
+5.9.2
+
+Kippen
+
+Die für das Umkippen erforderliche Grenzgeschwindigkeit v K , der
+so genannte Kipp-Punkt, soll im Folgenden berechnet werden. Ausgangspunkt der Berechnung ist dabei die Fragestellung: Wann berührt ein Fahrzeug mit der Masse m, das mit der Geschwindigkeit v
+durch eine horizontale Kurve mit dem Krümmungsradius R fährt, nur
+noch mit den beiden Außenrädern den Boden? Oder: Wann heben
+die Innenräder ab? Zur Erläuterung dieses Sachverhaltes dient Abb.
+44. Das Zentrum des Krümmungskreises der Kurve soll sich auf der
+linken Seite der Abbildung befinden. Dem Zentrum zugewandt sind
+die Innenräder, ihm abgewandt sind die Außenräder. Die Verbindungslinie der Auflagepunkte der Außenräder auf der Straße stellt
+zugleich die Drehachse der Kippbewegung dar.
+
+94
+
+5.9 Schleudern, Kippen und Rekuperation im Straßenverkehr
+
+2π-ϕ s
+S
+
+FF
+ϕ
+
+h
+
+Fs
+
+ϕs
+
+FN1
+
+F
+
+r
+
+FN2
+s
+
+Innenrad
+
+0
+Außenrad
+
+Abb. 45: Kräfte und Drehmomente beim Kurvenfahren
+Es werden die folgenden abkürzenden Bezeichnungen eingeführt:
+h:
+
+Höhe des Schwerpunktes S über dem Schnittpunkt der Diagonalen zwischen den 4 Berührungspunkten der 4 Räder mit
+der Straße
+
+s:
+
+Spurweite des Wagens
+
+FN1,2 :
+
+Normalkräfte infolge der Gewichtskraft, die an den beiden
+Rädern einer Achse wirken. In der Zeichnung sind die
+gleich großen aber entgegengesetzt gerichteten Reaktionskräfte des Bodens dargestellt.
+
+Für das Kräftegleichgewicht der Normalkräfte gilt in betragsmäßiger
+Schreibweise:
+
+FN1 + FN2 - Fs = 0
+Da der Schwerpunkt etwa in der Mitte zwischen Vorder - und Hinterachse liegt, folgt für die Achslast Fs :
+Fs =
+
+m
+
+g
+
+2
+
+Beim Kippen heben die Innenräder von der Fahrbahn ab und das
+Fahrzeug dreht sich um eine durch die Auflagepunkte der äußeren
+Räder festgelegten Drehachse 0. Die Drehachse verläuft dabei senkrecht zur Zeichenebene. Wird die Verbindungslinie der Auflage-
+
+95
+
+5 Drehbewegungen
+
+punkte der äußeren Räder als Drehachse betrachtet, so kann die Bedingung des Gleichgewichtes der Drehmomente formuliert werden:
+
+r
+
+∑ Mi = 0
+i
+
+Unter dem Einfluss der vier einwirkenden Kräfte
+r r r
+r
+Fs , FF , FN1 und FN2 ergeben sich bezogen auf die oben definierte
+Drehachse vier Drehmomente, die jeweils in vektorieller und skalarer Schreibweise angegeben sind:
+
+r
+r r
+MF = r × FF
+MF = rFF sin ϕ F = FF h
+r
+r r
+M s = r × Fs
+Ms = rFs sin ϕ s = −Fs
+
+s
+2
+
+r
+r r
+MN2 = r × FN2
+M N2 = 0
+r
+r r
+MN1 = r × FN1
+M N1 = FN1 s
+Das Drehmoment M N 2 ist Null, da der zugehörige Hebelarm r im
+Drehpunkt Null ist. Es gelten dabei die folgenden trigonometrischen
+Beziehungen:
+sin ϕ =
+F
+
+h
+r
+
+ϕ s + ϕ' s = 2π
+sin ϕ s = sin (2π - ϕ' s ) = -sin ϕ ′S
+- sin ϕ' s = -
+
+s/2
+.
+r
+
+Aus dem Gleichgewicht der Drehmomente
+r
+r
+r
+r
+r
+M F + M S + M N1 + M N 2 = 0 folgt:
+FF h - Fs
+
+s
++ FN1 s = 0
+2
+
+Mit der Zentrifugalkraft pro Achse
+
+96
+
+5.9 Schleudern, Kippen und Rekuperation im Straßenverkehr
+
+FF =
+
+m v2
+2 R
+
+folgt für den Betrag der Normalkräfte:
+FN1 =
+
+m
+m v2 h
+g4
+2R s
+
+FN2 =
+
+m
+m v2 h
+g+
+4
+2R s
+
+Für den Grenzfall des Kippens, bei dem die Innenräder gerade von
+der Fahrbahn abheben, muss FN1 = 0 sein. Dies geschieht bei der
+kritischen Geschwindigkeit v K :
+vK =
+
+gR s
+.
+2h
+
+Mit
+
+v s = µ H g R und v K =
+
+vK = vs
+
+k=
+
+s
+2 h µH
+
+(5.58)
+
+= k vs
+
+gsR
+folgt
+2h
+
+(5.59)
+
+s
+.
+2 h µH
+
+Ist der Koeffizient k < 1, so gilt v K < v S , d. h. die Grenzgeschwindigkeit für Kippen liegt unterhalb der Grenzgeschwindigkeit für
+Schleudern. Dieser Sachverhalt spielt bei Lkws eine wichtige Rolle.
+Sie können ohne zu schleudern umkippen, wenn eine Kurve mit zu
+hoher Geschwindigkeit durchfahren wird. Durch konstruktive Maßnahmen wie größere Spurweite und niedrigere Schwerpunktslage
+kann die Kippstabilität insbesondere von Tanklastzügen und Gefahrguttransportern vergrößert werden. Bei Lkws hat natürlich auch die
+Art des Ladegutes im Hinblick auf Form und Masse einen Einfluss
+auf die Höhe h des Schwerpunktes. Mit zunehmenden h nimmt die
+Grenzgeschwindigkeit v K ab.
+5.9.3 Rekuperation
+
+Unter Rekuperation (lat. recuperare: wiedererlangen oder wiedergewinnen) versteht man ein technisches Verfahren zur Energierückführung, dass beispielsweise bei Pkw-Antrieben eingesetzt wird.
+Beim Bremsen wird Bewegungsenergie in Wärmeenergie umgewan-
+
+97
+
+5 Drehbewegungen
+
+delt. Dabei werden die Bremsscheiben heiß. Die entstehende Reibungswärme wird dann ungenutzt an die Umgebung abgegeben. Eine
+rekuperative Bremse ermöglicht während Schub- und Bremsphasen
+eines PKWs eine Bremsenergie-Rückgewinnung. Diese Energiespeicherung kann in Schwungradspeichern mechanisch erfolgen. Über
+einen Generator (Lichtmaschine) wird die mechanische Energie in
+elektrische Energie umgewandelt und in einer Batterie gespeichert.
+
+98
+
+6.1 Testfragen
+
+6
+
+Wiederholungstest
+
+Die nachfolgend aufgeführten Testfragen haben eine oder mehrere
+richtige Lösungen. Von den vorgegebenen Antwortalternativen sind
+jeweils die Buchstaben der richtigen Lösungen anzugeben.
+
+6.1
+
+Testfragen
+
+Aufgabe 1
+
+In dem dargestellten Geschwindigkeits-Zeit-Diagramm sind 4 verschiedene Kurven skizziert. Markieren Sie die richtigen Aussagen!
+
+v1 (t)
+
+v
+
+a1
+
+v2 (t)
+
+a2
+a3
+
+v0
+
+v3 (t)
+a4
+v4 (t)
+
+t
+
+0
+
+(A) Alle vier Kurven stellen ungleichmäßig beschleunigte
+Bewegungen dar.
+(B) Alle vier Kurven stellen gleichförmige Bewegungen dar.
+(C) Die drei Kurven mit a 1 , a 2 und a 3 stellen gleichmäßig beschleunigte Bewegungen dar.
+(D) Die Beschleunigung a 3 ist identisch Null ( a 3 = 0 ).
+(E) v 4 ( t ) ist die Bewegung mit der größten Beschleunigung a 4 .
+(F) v 1 ( t ) ist die Bewegung mit der kleinsten Beschleunigung a 1 .
+
+Aufgabe 2
+
+Die Geschwindigkeit von v = 72 km/h ist gleich
+(A)
+(B)
+(C)
+(D)
+(E)
+
+2,5 m/s
+25 m/s
+15 m/s
+150 m/s
+20 m/s
+
+99
+
+6 Wiederholungstest
+
+Aufgabe 3
+
+Durch welche der graphischen Darstellungen (A) bis (D) wird die
+Weg-Zeit-Funktion s( t ) = s 0 + vt einer gleichförmigen Bewegung
+richtig skizziert?
+(B)
+
+(A)
+s
+
+s
+
+0
+
+t
+
+0
+
+t
+(D)
+
+(C)
+s
+
+s
+
+0
+
+t
+
+0
+
+t
+
+Aufgabe 4
+
+Eine gleichförmig beschleunigte Bewegung
+(A) ist im Weg-Zeit-Diagramm ein linearer Graph
+(B) führt ein Körper aus, wenn keine Kraft auf ihn einwirkt
+(C) ist durch eine gleichförmig zunehmende Beschleunigung zu er-
+
+reichen
+(D) ist im Geschwindigkeits-Zeit-Diagramm ein linearer Graph
+(E) ist durch eine konstante Geschwindigkeit gekennzeichnet
+
+Aufgabe 5
+
+r
+Eine gleichförmige Kreisbewegung ( v = konst.) einer Punktmasse
+ist eine
+(A) gleichmäßig beschleunigte Bewegung
+(B) nicht beschleunigte Bewegung
+(C) ungleichmäßig beschleunigte Bewegung
+(D)
+eine Bewegung mit konstantem Beschleunigungsbetrag
+
+Aufgabe 6
+
+Ein Stein mit der Masse m falle infolge seiner Gewichtskraft im
+freien Fall nach unten. Wo greift dabei die nach dem 3. Newtonschen
+Axiom (actio = reactio) zugehörige Gegenkraft an?
+(A) an der Masse m des fallenden Steins
+(B) an der Erdmasse M E
+
+(C) an der Sonnenmasse M S
+
+100
+
+6.1 Testfragen
+
+Aufgabe 7
+
+Für welche Kräfte ist der Begriff der potentiellen Energie einführbar?
+(A) für alle Kräfte
+(B) nur für dissipative Kräfte
+(C) nur für konservative Kräfte
+
+Aufgabe 8
+
+Durchfährt ein Fahrzeug eine Kurve, so treten Zentrifugalkräfte auf.
+Das Fahrzeug kommt dabei ins Schleudern, wenn betragsmäßig die
+(A) Zentrifugalkraft die Rollreibungskraft überschreitet
+(B) Haftreibungskraft die Zentrifugalkraft überschreitet
+(C) Zentrifugalkraft die Gleitreibungskraft überschreitet
+(D) Haftreibungskraft die Zentrifugalkraft unterschreitet
+
+Aufgabe 9
+
+Die Haftreibungskraft besitzt folgende Eigenschaften:
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+
+sie beschreibt die Reibung zwischen festen Körpern
+sie ist der Geschwindigkeit des Körpers proportional
+sie ist unabhängig von der Geschwindigkeit des Körpers
+sie ist der Masse des Körpers proportional
+sie ist dem Quadrat der Körper-Geschwindigkeit proportional
+sie ist umgekehrt proportional zum Haftreibungskoeffizienten
+
+(A) nur (1), (2) und (6) sind richtig
+(B) nur (1), (2) und (4) sind richtig
+(C) nur (1), (3) und (4) sind richtig
+(D) nur (1), (3) und (6) sind richtig
+Aufgabe 10
+
+Welche der angegebenen Einheiten entspricht dem Quotienten aus
+Joule und Sekunde?
+(A) Newton
+(B) Pascal
+(C) Becquerel
+(D) Watt
+(E) Kelvin
+
+101
+
+6 Wiederholungstest
+
+6.2
+
+Aufgabe 1
+Aufgabe 2
+Aufgabe 3
+Aufgabe 4
+Aufgabe 5
+Aufgabe 6
+Aufgabe 7
+Aufgabe 8
+Aufgabe 9
+Aufgabe 10
+
+102
+
+Lösungen der Testfragen
+
+C, D
+E
+B
+D
+C, D
+B
+C
+D
+C
+D
+
+6.2 Lösungen der Testfragen
+
+7
+
+Zusammenfassung
+
+Die Durchschnittsgeschwindigkeit v eines Körpers während einer
+Zeitdauer ∆t ist der Quotient aus der zurückgelegten Wegdifferenz
+∆s und der dazu benötigten Zeitdauer ∆t .
+v=
+
+∆s
+∆t
+
+Für die Momentangeschwindigkeit v(t) zum Zeitpunkt t gilt:
+∆s ds
+=
+= s&( t )
+∆t →0 ∆t
+dt
+
+v( t ) = lim
+
+Die Durchschnittsbeschleunigung a während einer Zeitdauer ∆t ist
+der Quotient aus der Geschwindigkeitsänderung ∆v und der Zeitdauer ∆t , in der die Geschwindigkeitsänderung erfolgt:
+a=
+
+∆v
+∆t
+
+Für die Momentanbeschleunigung a(t) gilt:
+∆v dv
+=
+= v& ( t ) = &s&( t )
+∆t →0 ∆t
+dt
+
+a ( t ) = lim
+
+Eine Bewegung mit konstanter Geschwindigkeit heißt gleichförmig.
+Erfolgt die Bewegung mit konstanter Beschleunigung (a > 0), so
+heißt sie gleichmäßig beschleunigt. Für eine solche Bewegung lauten
+die Geschwindigkeits-Zeit-Funktion v(t) und die Weg-Zeit-Funktion
+s(t):
+v( t ) = v 0 ± at
+s( t ) = s 0 + v 0 t ±
+
+1 2
+at
+2
+
+Das untere (negative) Vorzeichen gilt bei konstanter Verzögerung
+infolge Abbremsung. Befindet sich ein gleichmäßig beschleunigter
+Körper zum Zeitpunkt t 1 mit der Geschwindigkeit v1 = v( t 1 ) an der
+Wegposition s1 = s( t 1 ) und zum späteren Zeitpunkt t 2 mit der Geschwindigkeit v 2 = v( t 2 ) an der Wegposition s 2 = s( t 2 ) , so gelten
+die Beziehungen:
+v 2 = v1 ± a ( t 2 − t 1 )
+∆s = s 2 − s1 = v1 ( t 2 − t 1 ) ±
+∆s =
+
+1
+a(t 2 − t1 ) 2
+2
+
+1
+( v + v 2 )( t 2 − t 1 )
+2 1
+
+103
+
+7 Zusammenfassung
+
+∆s =
+
+1 2
+( v 2 − v12 )
+2a
+
+Nach dem 2. Newtonschen Axiom erfährt ein frei beweglicher Körper mit der Masse m eine Beschleunigung a, wenn eine Kraft vom
+Betrag F auf ihn einwirkt.
+F = ma
+Zwei Massen m und M, die einen Abstand r voneinander besitzen,
+unterliegen der anziehenden Wirkung der Newtonschen Gravitationskraft vom Betrag FG :
+FG = G
+
+mM
+r2
+
+Die Newtonsche Gravitationskraft FG = F(r ) ist eine Zentralkraft.
+Auf der Erdoberfläche ist r ≈ R E und die Newtonsche Gravitationskraft der Erde auf eine Masse m kann dann durch die konstante
+Schwerkraft FS = mg ersetzt werden.
+Zwischen zwei Festkörperoberflächen existieren Reibungskräfte, die
+proportional zur Normalkraft (Auflagekraft) FN sind:
+FHR = µ H FN
+
+(Haftreibung)
+
+FGR = µ G FN
+
+(Gleitreibung)
+
+FRR = µ R FN
+
+(Rollreibung)
+
+r
+Für die Arbeit ∆W , die eine ortsunabhängige (konstante) Kraft F
+r
+bei Verschiebung eines Körpers längs eines geraden Wegstückes ∆ s
+verrichtet, gilt:
+r r
+∆W = F ⋅ ∆ s = F∆s cos α
+r
+r
+α ist der Winkel zwischen F und ∆ s . Für eine ortsabhängige Kraft
+vom Betrag F(r) ergibt sich die Arbeit längs eines geraden Weges
+von rA nach rE durch Auswertung des bestimmten Integrals
+rE
+
+W = ∫ F(r )dr .
+rA
+
+Die Hubarbeit, die beim senkrechten Anheben eines Körpers der
+Masse m auf die Höhe h gegen die Schwerkraft FS = mg verrichtet
+wird, wird als potentielle Energie E pot von dem Körper gespeichert.
+
+104
+
+6.2 Lösungen der Testfragen
+
+E pot = mgh
+Die an einem frei beweglichen, ruhenden Körper mit der Masse m,
+durch eine Kraft F verrichtete Beschleunigungsarbeit, wird in Form
+von kinetischer Energie E kin von dem sich mit der Geschwindigkeit
+v bewegenden Körper gespeichert.
+E kin =
+
+1
+mv 2
+2
+
+Gravitationskraft und Schwerkraft sind konservative Kräfte. Für sie
+gilt die Erhaltung der mechanischen Gesamtenergie, der so genannte
+Energieerhaltungssatz:
+E kin + E pot = konst .
+Reibungskräfte sind nichtkonservative Kräfte: Sie sind dissipativ.
+Die Arbeit WR gegen dissipative Kräfte führt zu einer Erwärmung
+des bewegten Körpers, die mit einer Änderung (Abnahme) seiner
+mechanischen Gesamtenergie verbunden ist.
+E kin ( t 1 ) + E pot ( t 1 ) = E kin ( t 2 ) + E pot ( t 2 ) − WR
+Wirken auf einen Körper der Masse m keine äußeren Kräfte, so ist
+r
+r
+sein Impuls p = mv eine Erhaltungsgröße. Für ein System aus zwei
+Körpern, auf die keine äußeren Kräfte einwirken, lautet der Impulserhaltungssatz für beliebige Zeiten t 1 und t 2 :
+r r
+r
+r
+r
+p = p1 ( t1 ) + p 2 ( t1 ) = p1 ( t 2 ) + p 2 ( t 2 ) = konst .
+r
+Eine äußere Kraft F führt nach dem 2. Newtonschen Axiom zu einer
+Impulsänderung:
+r dpr
+F=
+dt
+r
+Eine durch den Ortsvektor r charakterisierte
+r Punktmasse m mit dem
+r
+r
+Impuls p = mv besitzt einen Drehimpuls L :
+r r r
+L= r×p
+Ein sich auf einer Kreisbahn vom Radius r mit konstanter Winkelge∆ϕ
+schwindigkeit ω =
+bewegender Massenpunkt besitzt die Bahn∆t
+geschwindigkeit v = rω .
+Für eine um eine feste Achse durch den Koordinatenursprung drehr
+bare Masse m, die sich an der Ortsposition r befindet, gilt: Eine
+
+105
+
+7 Zusammenfassung
+r
+an der Masse angreifende Kraft F verursacht ein Drehmoment
+r r r
+M= r×F.
+Das Drehmoment ist von der Wahl der Lage des Ursprungs des Koordinatensystems abhängig und besitzt den Betrag M = rF sin ϕ . Das
+Drehmoment bewirkt eine zeitliche Änderung des Drehimpulses.
+r
+r dL
+r
+M=
+= Jα
+dt
+r
+J ist das Massenträgheitsmoment und α die Winkelbeschleunigung
+des Körpers. Für das Massenträgheitsmoment J einer Punktmasse m,
+die sich auf einer Kreisbahn vom Radius r bewegt, gilt:
+J = mr 2
+Der Massenpunkt besitzt dann einen Drehimpuls mit dem Betrag
+L = Jω .
+Für das Trägheitsmoment eines ausgedehnten Körpers mit der Masse
+m und der homogenen Dichte ρ erhält man
+J = ∫ r 2 dm = ρ ∫ r 2 dV .
+m
+
+V
+
+Für die Rotationsenergie E rot des Körpers folgt dann:
+E rot =
+
+1 2
+Jω
+2
+
+Bei Rotation um eine Achse A, die sich im Abstand a von der parallelen Achse S durch den Schwerpunkt befindet, wird das Massenträgheitsmoment J A mithilfe des Satzes von Steiner berechnet:
+J A = J S + ma 2
+
+106
+
+8.1 Übungsaufgaben
+
+8
+
+Übungen
+
+8.1
+
+Übungsaufgaben
+
+Aufgabe 1 (E)
+
+Ein ICE-Zug soll beim Bremsvorgang auf gerader, ebener Strecke
+mit a = 0,5 m / s 2 gleichmäßig verzögern. Welche Höchstgeschwindigkeit v max darf der Zug haben, damit der Bremsweg von
+s B = 2500 m nicht überschritten wird?
+Aufgabe 2 (E)
+
+Welche Reibungsarbeit WR muss aufgewendet werden, um eine
+Kiste mit der Masse m = 20 kg auf einer horizontalen Unterlage bei
+einem Gleitreibungskoeffizienten von µ G = 0,6 um s = 10 m zu
+verschieben?
+Aufgabe 3 (S)
+
+Zwei Pkw 1 und 2 befahren mit den Geschwindigkeiten
+v1 = 50 km/h und v2 = 60 km/h in gleicher Richtung eine gerade,
+ebene und trockene Straße. Zu dem Zeitpunkt, an dem der erste Pkw
+aufgrund abgefahrener Reifen mit der konstanten Verzögerung a1 = 6
+m/s2 zu bremsen beginnt, beträgt ihr lichter Abstand lA = 15 m . Der
+zweite Pkw beginnt mit dem Bremsvorgang wegen der sog. Schrecksekunde eine halbe Sekunde später. Seine konstante Verzögerung
+beträgt a2 = 5 m/s2.
+
+2
+
+lA
+v2
+
+1
+v1
+
+a) Untersuchen Sie, ob es bei diesem Bremsmanöver zu einem Zusammenstoß kommt!
+b) Berechnen Sie im Falle einer Kollision den Zeitpunkt t S und die
+Ortsposition s( t S ) des Zusammenstosses und geben Sie an, wie groß
+ist in diesem Augenblick ihre Geschwindigkeit gegeneinander ist!
+Hinweis: Der Zeitnullpunkt ( t 0 = 0 ) wird durch den Beginn des
+Bremsvorganges von Pkw 1 definiert.
+
+107
+
+8 Übungen
+
+Aufgabe 4 (E)
+
+a) Berechnen Sie die Bahngeschwindigkeit der Erdoberfläche
+am Äquator infolge der Erdrotation. Der Erdradius sei
+RE = 6,37 ⋅ 10 6 m .
+b) Berechnen Sie die Bahngeschwindigkeit der Erdoberfläche
+in Hamburg mit der im Gradmaß angegebenen geographischen (nördlichen) Breite ϕ = 53°30 ' N.
+Aufgabe 5 (M)
+
+Zwei Zylinder Z V und Z H mit identischen Abmessungen (Radius
+R, Länge L) und identischer Masse m V = m H rollen gleichzeitig
+aus der Ruhelage und der Anfangshöhe h quasi reibungsfrei auf einer
+Rampe mit gegebenem Neigungswinkel ϕ herunter. Zylinder Z V ist
+ein Vollzylinder aus Holz mit homogener Dichte. Zylinder Z H ist
+ein dünnwandiger Hohlzylinder ohne Deckelflächen, dessen Mantelfläche aus Stahlblech gefertigt ist. Begründen Sie qualitativ, welcher
+Zylinder am schnellsten die schiefe Ebene herabrollt.
+Aufgabe 6 (M)
+
+Ein gleichmäßig beschleunigter Körper (a = konst.) habe zum Zeitpunkt t 1 die Geschwindigkeit v1 und zum späteren Zeitpunkt t 2
+die Geschwindigkeit v 2 . Zeigen Sie, dass für die mittlere Geschwindigkeit v einer gleichmäßig beschleunigten Bewegung gilt:
+v=
+
+1
+( v1 + v 2 )
+2
+
+Aufgabe 7 (M)
+
+Auf einer abschüssigen Straße mit dem Neigungswinkel ϕ = 4° ereignet sich ein Auffahrunfall. Ein Pkw mit der Masse m1 = 2,0 t
+fährt zunächst ungebremst auf einen stehenden Pkw mit der Masse
+m 2 = 1,5 t auf. Nach dem Aufprall rutscht der gestoßene Pkw gebremst s B,2 = 8 m weit. Der auffahrende Pkw hat eine unmittelbar
+nach dem Aufprall einsetzende Bremsspur der Länge s B,1 = 6 m . Der
+Gleitreibungskoeffizient sei konstant mit µ G = 0,8 und beide
+Bremsvorgänge erfolgen gleichmäßig verzögert. Berechnen Sie die
+Auffahrgeschwindigkeit v1 unmittelbar vor dem Zusammenstoß.
+Hinweis: Der Stoß erfolge zentral.
+
+108
+
+8.2 Lösungen der Übungsaufgaben
+
+8.2
+
+Lösungen der Übungsaufgaben
+
+Lösung der Aufgabe 1
+
+Das Weg-Zeit-Gesetz für eine gleichmäßig verzögerte Bewegung
+lautet:
+1 2
+at
+2
+
+s( t ) = v 0 t −
+
+Dabei sind: s = s B und v 0 = v max
+Das Geschwindigkeits-Zeit-Gesetz für diese Bewegung lautet:
+v( t ) = v 0 − at
+
+Für die Dauer des Bremsvorganges t B folgt: 0 = v max − at B
+tB =
+
+v max
+a
+1 2
+at folgt:
+2
+
+Nach Einsetzen in s( t ) = v 0 t −
+
+s B = v max
+
+2
+v max 1 v max
+− a 2
+a
+2
+a
+
+Auflösung nach v max :
+v max = 2s B a
+v max = 50 m / s = 180 km / h
+
+Lösung der Aufgabe 2:
+
+WR = FGR s
+FGR = µ G FN = µ G mg
+WR = µ G mgs = 1177,2 J
+Lösung der Aufgabe 3:
+2
+
+lA
+v2 (t0)
+
+s=0
+
+1
+
+sL
+
+109
+
+8 Übungen
+
+Für die Geschwindigkeiten der Pkw 1 und 2 gilt:
+v 1 , 0 = v 1 ( t 0 ) und v 2 , 0 = v 2 ( t 0 )
+
+Abbremsung Pkw 1:
+Zum Anfangszeitpunkt (t0 = 0) setzt der Bremsvorgang von Pkw 1
+ein. Der Bremsvorgang geschieht mit konstanter Verzögerung.
+v 1 ( t ) = v 1 ,0 − a 1 t
+
+Für den Bremsweg von Pkw 1 mit lA = 15 m Vorsprung
+(s(t0 = 0) = 15 m) folgt:
+v 1 ( t B,1 ) = 0
+
+Daraus folgt für die Abbremszeit tB,1 folgt:
+t B,1 =
+
+v 1 ,0
+a1
+
+tB,1 = 2,315 s
+
+Für den Bremsweg von Pkw 1 folgt:
+t B,1
+
+s1 ( t B,1 ) = s( t 0 ) +
+
+∫
+
+t B,1
+
+v 1 ( t )dt = 10 m +
+
+0
+
+s1( tB,1) = 15 m + v1,0 tB,1 −
+
+∫ (v
+
+1,0
+
+− a1t )dt
+
+0
+
+1 2
+a1tB,1 = 31,07 m
+2
+
+Abbremsung Pkw 2:
+Der Bremsvorgang von Pkw 2 beginnt bezogen auf den durch
+Pkw 1 definierten Anfangszeitpunkt t0 = 0 um 0,5 s später.
+v 2 ( t ) = v 2,0 − a2 ⋅ ( t − 0,5 s)
+
+v 2 ( t B, 2 ) = 0
+
+Daraus folgt für die Abbremszeit tB,2:
+tB,2 = 0,5 s +
+tB,2 = 3,83 s
+
+110
+
+v2
+= 0,5 s + tB* ,2
+a2
+
+8.2 Lösungen der Übungsaufgaben
+
+t B* ,2
+
+s2 ( tB,2 ) = v 2,0 ⋅ 0,5 s +
+
+∫ v (t)dt = v
+2
+
+t B* ,2
+2,0
+
+⋅ 0,5 s +
+
+0
+
+s2 ( tB,2 ) = v 2,0 ⋅ 0,5 s + v 2,0 tB* ,2 −
+
+∫ (v
+
+2,0
+
+− a2t )dt
+
+0
+
+1
+a2tB* 2,2 = 36,11m
+2
+
+Auffahrzusammenstoß zum Zeitpunkt tS an der Stelle
+s1( t S ) = s2 ( t S ) :
+t
+
+s1( t ) = s( t 0 ) +
+
+∫ v (t)dt = 15 m + v
+
+1,0 t
+
+1
+
+0
+
+t
+
+s2 ( t ) =
+
+∫ v (t)dt = v
+2
+
+2,0 t
+
+0
+
+−
+
+−
+
+1 2
+a1t
+2
+
+1
+a2 ( t − 0,5 s)2
+2
+
+Aus s1( t S ) = s2 ( t S ) folgt:
+15 m + v1,0 t S −
+
+1 2
+1
+a1t s = v 2,0 t s − a2 ( t s − 0,5 s)2
+2
+2
+
+Mit den Daten der Übungsaufgabe folgt für den Zeitpunkt tS des
+Auffahrunfalls die Gleichung:
+t 2s + 10,554 s ⋅ t s − 31,25 s2 = 0
+
+Diese quadratische Gleichung hat nur für tS > 0 eine physikalisch
+sinnvolle Lösung:
+tS = 2,41 s
+s1( t S ) = s2 ( t S ) = 31,07 m.
+
+Dieser Wert stimmt mit der Länge des Bremsweges von Pkw 1 überein, d. h. Pkw 2 fährt auf den bereits stehenden Pkw 1 auf.
+
+Conclusio:
+Der Zusammenstoß findet nach 2,41 s an der Stelle
+s( t S ) = 31,07 m statt.
+Für die Relativgeschwindigkeit ∆v zum Zeitpunkt des Auffahrunfalls
+gilt:
+∆v = v 2 ( tS ) − v1( t S )
+v1( t ) = v1,0 − a1t für t ≤ tB,1 und v1( t ) = 0 für t > tB,1
+
+111
+
+8 Übungen
+
+tS = 2,41s > tB,1 = 2,315 s
+v1( tS ) = 0
+v 2 ( t s ) = v 2,0 − a2 ⋅ ( t s − 0,5 s) = 7,12 m / s
+∆v = v 2 − v1 = 7,12 m / s = 25,63 km / h .
+
+Lösung der Aufgabe 4:
+
+a) Die Erde vollführt eine gleichförmige Kreisbewegung mit der
+äquatorialen Bahngeschwindigkeit v.
+v = rω = R E ω
+RE = 6,37 ⋅ 10 6 m
+
+ω ist die Winkelgeschwindigkeit der Erdrotation.
+ω=
+
+2π
+2π
+=
+= 7,27 ⋅ 10 −5 s −1
+T 24 ⋅ 3600 s
+
+v = 463 m / s
+b)
+
+v = rω = R E cos ϕ ⋅ ω
+
+r entspricht dem senkrechten Abstand von der Erdachse. Hamburg
+bewegt sich auf einer Kreisbahn mit dem Radius r = R E cos ϕ um
+die Erdachse.
+Für Hamburg (HA) gilt: ϕ = 53°30 ' N
+v = 275 m / s
+N
+
+HA
+ϕ
+
+112
+
+0°
+
+8.2 Lösungen der Übungsaufgaben
+
+Lösung der Aufgabe 5:
+
+r
+
+ϕ
+
+l
+
+B
+
+h
+
+Fs =mg
+ϕ
+
+B ist die Berührlinie des Zylinders mit der schiefen Ebene. Sie stellt
+die momentane Drehachse der Rotationsbewegung dar. Das Koordinatensystem zur Beschreibung der Drehbewegung wird so gewählt,
+dass sein Ursprung 0 auf der Drehachse B liegt. Es gilt dann:
+r r r
+M = r xFS
+
+Gemäß dem Grundgesetz der Rotationsbewegung gilt für die Winr
+kelbeschleunigung α :
+
+r
+r M
+α=
+JB
+J B ist das Massenträgheitsmoment bezüglich Rotation um die Achse
+B, die parallel zur Achse S durch den Schwerpunkt verläuft. Die
+Achse S stellt zugleich die Symmetrieachse des Zylinders dar. Ein
+Körper mit großem Massenträgheitsmoment J B wird demnach
+r
+
+durch ein gegebenes Drehmoment M wesentlich weniger beschleunigt als ein Körper gleicher Masse m und gleichen geometrischen
+Abmessungen aber aufgrund unterschiedlicher Massenverteilung
+kleinerem Massenträgheitsmoment. Für die Massenträgheitsmomente gilt nach Anwendung des Steinerschen Satzes:
+J B = J S + ma 2 = J S + mR 2
+Mit J S,V =
+J B, V =
+
+1
+mR 2 und J S,H = mR 2 folgt:
+2
+
+1
+3
+mR 2 + mR 2 = mR 2
+2
+2
+
+und
+J B,H = mR 2 + mR 2 = 2mR 2 .
+
+113
+
+8 Übungen
+
+Mit dem Grundgesetz der Rotationsbewegung folgt:
+αV =
+
+4
+α
+3 H
+
+Nach Ablauf eines Zeitintervalls ∆t gilt für die beiden Winkelgeschwindigkeiten
+ω V = α V ∆t =
+
+4
+4
+α H ∆t = ω H
+3
+3
+
+Der Vollzylinder wird schneller beschleunigt, bewegt sich daher
+schneller und erreicht vor dem Hohlzylinder den Auslauf der schiefen Ebene.
+
+Lösung der Aufgabe 6:
+
+Für eine gleichförmig beschleunigte Bewegung gilt:
+v( t ) = v 0 + at
+s( t ) = s 0 + v 0 t +
+
+1 2
+at
+2
+
+Speziell ist: v1 = v 0 + at 1 und v 2 = v 0 + at 2
+Definitionsgemäß gilt: v =
+
+v=
+
+∆s
+∆t
+
+s( t 2 ) − s( t 1 ) s 2 − s 1
+=
+t 2 − t1
+t 2 − t1
+
+Einsetzen der Weg-Zeit-Funktionen s(t) liefert:
+v = v0 +
+
+1
+a(t 2 + t1 )
+2
+
+v = v0 +
+
+1
+1
+1
+1
+1
+1
+at 1 + at 2 = v 0 + at 1 + v 0 + at 2
+2
+2
+2
+2
+2
+2
+
+v=
+
+1
+1
+1
+1
+( v 0 + at 1 ) + ( v 0 + at 2 ) = v1 + v 2
+2
+2
+2
+2
+
+v=
+
+1
+( v1 + v 2 )
+2
+
+Spezialfälle:
+
+114
+
+8.2 Lösungen der Übungsaufgaben
+
+a) v1 = v 0 und v 2 = v
+v=
+
+1
+( v 0 + v)
+2
+
+b) v1 = v 0 und v 2 = 0
+v=
+
+1
+v0
+2
+
+In allen Fällen gilt für die im Zeitintervall ∆t zurückgelegte Wegstrecke ∆s = v∆t .
+
+Lösung der Aufgabe 7:
+
+Die Geschwindigkeiten u 1 und u 2 unmittelbar nach dem Aufprall
+werden aus den Bremsspurlängen s B,1 und s B,2 berechnet. Die effektive Bremskraft FB = ma B ergibt sich aus der Differenz aus
+Gleitreibungskraft FGR und Hangabtriebskraft FT :
+FB = FGR − FT
+ma B = µ G mg cos ϕ − mg sin ϕ
+a B = g(µ G cos ϕ − sin ϕ) = 7,145 m / s 2
+Für die Bremsweglänge gilt: s B =
+
+1 u2
+2 aB
+
+u 1 = 2s B,1a B = 9,3 m / s
+u 2 = 2s B, 2 a B = 10,7 m / s
+Der Impulserhaltungssatz liefert:
+m 1 v1 = m 1 u 1 + m 2 u 2
+Da sich beide Pkw auf einer Geraden in die gleiche Richtung bewegen, kann der Impulssatz in skalarer Form verwendet werden.
+Für die Auffahrgeschwindigkeit v1 folgt:
+v1 =
+
+m1 u 1 + m 2 u 2
+m1
+
+= 17,3 m / s = 62,3 km / h
+
+115
+
+A1
+
+Griechisches Alphabet
+
+A1
+
+Α
+Β
+Γ
+∆
+Ε
+Ζ
+Η
+Θ
+Ι
+Κ
+Λ
+Μ
+
+116
+
+Griechisches Alphabet
+
+α
+β
+γ
+δ
+ε
+ζ
+η
+ϑ
+ι
+κ
+λ
+µ
+
+Alpha
+Beta
+Gamma
+Delta
+Epsilon
+Zeta
+Eta
+Theta
+Jota
+Kappa
+Lambda
+My
+
+Ν
+Ξ
+Ο
+Π
+Ρ
+Σ
+Τ
+Υ
+Φ
+Χ
+Ψ
+Ω
+
+ν
+ξ
+ο
+π
+ρ
+σ
+τ
+υ
+ϕ
+χ
+ψ
+ω
+
+Ny
+Xi
+Omikron
+Pi
+Rho
+Sigma
+Tau
+Ypsilon
+Phi
+Chi
+Psi
+Omega
+
+A2
+
+A2
+
+Formelzeichen
+
+Symbol
+
+α
+
+Benennung
+
+Einheit
+
+FGR
+
+Winkelbeschleunigung
+Haftreibungszahl
+Gleitreibungszahl
+Rollreibungszahl
+Winkel
+Winkelgeschwindigkeit
+Kreisfrequenz
+Beschleunigung
+Energie
+kinetische Energie
+potentielle Energie
+Rotationsenergie
+Frequenz
+Kraft
+Fliehkraft
+Gleitreibungskraft
+
+rad/s2
+1
+1
+1
+rad; Grad
+rad/s
+rad/s
+m/s2
+J
+J
+J
+J
+1/s = Hz
+N
+N
+N
+
+FHR
+
+Haftreibungskraft
+
+N
+
+FN
+FR
+FRR
+
+Normalkraft
+Reibungskraft
+Rollreibungskraft
+
+N
+N
+N
+
+FT
+FZ
+g
+G
+h
+J
+L
+m
+M
+p
+P
+q
+r
+s, sB
+t
+T
+v
+W
+
+Tangentialkraft
+Zentripetalkraft
+Erdbeschleunigung
+Gravitationskonstante
+Höhe
+Massenträgheitsmoment
+Drehimpuls
+Masse
+Drehmoment
+Impuls
+Leistung
+elektrische Ladung
+Abstand, Radius
+Weg, Bremsweg
+Zeit
+Umlaufzeit
+Geschwindigkeit
+Arbeit
+
+N
+N
+m/s2
+Nm2kg-2
+m
+kgm2
+kgm2/s
+kg
+Nm
+kgm/s
+W
+As
+m
+m
+s
+s
+m/s
+J
+
+µH
+µG
+µR
+ϕ
+
+ω
+ω
+
+a
+E
+Ekin
+Epot
+Erot
+f
+F
+FF
+
+Formelzeichen
+
+117
+
+A3
+
+Literaturauswahl
+
+A3
+
+Literaturauswahl
+
+Kuchling, H.:
+
+Taschenbuch der Physik,
+Hanser, München
+
+Lindner, H.:
+
+Physik für Ingenieure,
+Vieweg, Braunschweig
+
+Lindner, H.:
+
+Physikalische Aufgaben
+Hanser, München
+
+Pitka, R. et al. :
+
+Physik – Der Grundkurs
+Harri Deutsch, Frankfurt
+
+Roth, S. u. Stahl, A.:
+
+Mechanik und Wärmelehre,
+Springer Spektrum,
+Berlin Heidelberg
+
+Aufgrund fortlaufender Aktualisierung seitens der Verlage, wurde
+auf die Nennung der jeweils gültigen Auflage sowie auf das Erscheinungsjahr verzichtet.
+
+118
+
+

@@ -1,0 +1,81 @@
+Schwingungen (oscillations)
+
+... physikalische Größe wird zeitlich ____________ verändert 
+
+Schwingungen entstehen, wenn ein System auf Grund einer Störung aus dem Gleichgewicht gebracht und durch eine gegenläufige Kraft wieder in Richtung des Ausgangszustandes gezwungen wird. 
+z.B. Auslenkung verändert sich... Pendeluhr, Gitarrensaite, Stimmbänder, Schaukel (mechanische Schwingung)
+
+z.B. Winkel verändert sich... Drehschwingung (=___________________)
+
+z.B. Elektrisches Feld ändert sich... _________________
+
+
+Spezialfall: Harmonische Schwingung 
+
+z.B. Federpendel: Rücktreibende Kraft (Federkraft) ist _________________________ proportional zur Auslenkung. 
+
+Weg-Zeit-Diagramm einer harmonischen Schwingung: Sinus- (oder ____________)funktion
+
+
+
+
+
+
+
+
+
+
+
+
+Versuch: Rußplatte + Stimmgabel
+
+Wichtige Begriffe zur Beschreibung von Schwingungen: 
+- Elongation s oder x oder y... momentane Auslenkung [Einheit: _______]
+- Amplitude A ... maximale Auslenkung [Einheit: ___________]
+- Schwingungsdauer T... Zeit, die der Körper für eine vollständige Schwingung (HIN und ZURÜCK) benötigt [Einheit:_____________]
+- Frequenz f... Anzahl der Schwingungen pro Sekunde [Hz] oder [__________]
+
+Dauert eine Schwingung 1/10s, gehen sich in einer Sekunde 10 Schwingungen aus:
+f = 1/T
+SVK Federpendel
+SVK Fadenpendel
+Arbeitsblatt Schwingungen (A, T, f einzeichnen bzw. berechnen)
+Folie: Fragen zu Faden- und Federpendel
+
+Frequenzbereich des menschl. Ohrs= ____________ bis _______________ Hz
+Ultraschall f ____________________
+Infraschall: f____________________
+
+
+Überlagerung von Schwingungen
+
+Satz von ________________: Durch Überlagerung von harmonischen Schwingungen lässt sich jede andere Schwingung ________________________! 
+
+
+____________________ Sinusschwingungen
+
+Sinusschwingungen unterschiedlicher Phasen
+
+Die Phasendifferenz zwischen zwei Schwingungen wird in Bruchteilen der Schwingung oder in Grad (bzw. rad) angegeben. 
+In der Abbildung: ??= ¼ Schwingung=_____° = ________
+
+Versuch: Schwebung
+Wenn sich die Frequenzen zweier Schwingungen nur minimal unterscheiden, entsteht eine Schwebung (Auf- und Abschwellen der Amplitude = Tonhöhe!)
+
+Gedämpfte Schwingungen
+
+Reale Schwingungen sind immer gedämpft (Reibung, Luftwiderstand), nur durch Zufuhr von Energie im richtigen Moment  sind ungedämpfte Schwingungen möglich (Schaukel, Pendeluhr, ...)
+
+
+Resonanz
+Versuch: Stimmgabeln + Resonanz
+
+Stimmgabel schwingt mit, wenn Erregerfrequenz die gleiche ist wie ihre Eigenfrequenz. Resonanz = Mitschwingen eines phys. Systems, wenn es mit der Eigenfrequenz angeregt wird. Dies kann zur „Resonanzkatastrophe“ führen.
+Video: Tacoma-Brücke 
+
+
+
+
+
+
+

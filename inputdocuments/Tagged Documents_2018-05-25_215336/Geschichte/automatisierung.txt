@@ -1,0 +1,1495 @@
+Automatisierung
+Von Fahrerassistenzsystemen
+zum automatisierten Fahren
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+I N H A LT
+
+3
+
+Inhalt
+I.
+
+Einleitung
+Die Zukunft von gestern – heute Realität
+
+4
+
+II.
+
+Globale Trends
+Die mobile Welt von morgen
+
+6
+
+III.
+
+Technologischer Fortschritt
+Eine Antwort für die Welt von morgen: Automatisierung
+
+8
+
+IV.
+
+Zukunft serienmäßig
+Die Innovationen deutscher Ingenieurskunst
+
+10
+
+V.
+
+Die Zukunft des automatisierten Fahrens
+Die Evolution von Fahrfunktionen – von Assistenten
+zu Automaten
+
+12
+
+VI.
+
+Entwicklung der Automatisierung
+Schritt für Schritt in die Zukunft
+
+14
+
+VII.
+
+Automatisiertes Fahren bei Nutzfahrzeugen
+Nutzfahrzeuge als Innovationsträger der Automatisierung
+
+16
+
+VIII.
+
+Vernetztes Fahren
+Automatisiertes Fahren und Vernetzung
+
+18
+
+IX.
+
+Datenschutz und Datensicherheit
+Höchste Sicherheit im Datenverkehr
+
+20
+
+X.
+
+Gesetze und Rahmenbedingungen
+Ein rechtssicherer Rahmen für das automatisierte Fahren
+
+22
+
+XI.
+
+Glossar
+A – Z des automatisierten Fahrens
+
+24
+
+I. EINLEITUNG
+
+4
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+I. EINLEITUNG
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+5
+
+Die Zukunft
+von ­gestern – heute
+­Realität
+
+Eine Urlaubsreise so entspannt wie nie: Die ganze Familie
+sitzt um ein Gesellschaftsspiel, während das Auto von allein
+fährt – so zeigt es eine Zeichnung aus dem Jahr 1956. Die
+­Verwirklichung lag nach damaliger Sicht weit in der Zukunft,
+aber die Idee dahinter war klar.
+Das Auto vergrößert sein Potenzial zu einem mobilen Lebensraum. Die Vision des automatisierten Fahrens gibt es fast so
+lange wie das Automobil, meist als Szenario für ScienceFiction-­Romane und -Filme. Bereits 1939 kam sie der Wirklichkeit nahe. Auf der New Yorker Weltausstellung wurde die Idee
+in der Ausstellung „Futurama“ präsentiert. 1960, so hieß es,
+sollte es so weit sein.
+Das war verfrüht, wie sich herausstellte. Doch erste Konzepte
+für vollautomatisierte Langstreckenfahrten auf den amerikanischen Highways entwickelten Ingenieure bereits in den 1950erJahren. Sie setzten auf eine Kombination aus Infrastruktur­
+maßnahmen und Fahrzeugtechnologie: einfach der Verkehrs­
+leit­zentrale vor der Fahrt das Ziel nennen und schon sollte
+die selbständige Reise losgehen, in Fahrzeugen, die mit Gas­
+turbinen angetrieben werden sollten. Der Leitgedanke schon
+
+damals: Die zukünftigen Technologien sollten den Menschen ein
+bis dahin ungeahntes Maß an Komfort und Sicherheit bieten.
+Die Entwicklung ist mittlerweile weit vorangeschritten. Heutige
+Systeme setzen auf Signale diverser Sensoren rund ums Fahrzeug, um den Fahrer zu unterstützen. Moderne Autos verfügen
+über eine Vielzahl von Fahrerassistenzsystemen, die dem Fahrer
+in Fahr- und Parksituationen helfen und einige Aufgaben sogar
+ganz übernehmen.
+So signalisiert der heute schon verfügbare Spurverlassens­
+warner den unbeabsichtigten Spurwechsel. Weiter fortgeschrittene Systeme halten das ­Fahrzeug selbsttätig in der Spur. Hinzu
+kommen Einparksysteme, die den Fahrer auf eine geeignete
+Parklücke hinweisen und auf Wunsch sogar das Einparken
+übernehmen.
+Die Zukunft von gestern schickt sich an, heute und morgen
+Realität zu werden. Dabei ist die Automatisierung mehr als
+die Verwirklichung einer lang gehegten Vision. Sie legt einen
+Grundstein zur erfolgreichen Bewältigung der vielfältigen
+­globalen Herausforderungen an die Mobilität.
+
+I I. G LO BALE TR E N D S
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+6
+
+Die mobile Welt
+von morgen
+
+Die Welt von morgen ist urban
+Das Jahr 2007 markiert einen historischen Einschnitt in der Menschheitsgeschichte.
+Seitdem leben weltweit erstmals mehr Menschen in Städten als auf dem Land.
+Diese Entwicklung ist nicht aufzuhalten. Bis 2050 wird das Verhältnis 70 zu 30 sein.
+Aber auch die Städte selbst haben sich verändert, sie sind zu Megacitys geworden.
+Seit der Antike verharrten selbst die Metropolen lange an der Grenze zu einer Million
+Einwohnern, erst Mitte des vergangenen Jahrhunderts durchbrach New York die
+Schallmauer von zehn Millionen Einwohnern. Heute ist das kein Alleinstellungsmerkmal mehr. 28 Megacitys mit über zehn Millionen Einwohnern gibt es bereits (siehe
+Grafik), bis zum Jahr 2030 sollen es etwa 40 werden.
+Die Urbanisierung und insbesondere die Entstehung von Megacitys sind Ausdruck
+des globalen Bevölkerungs- sowie Wirtschaftswachstums. Mobilität und Transport
+bilden dabei das Rückgrat für den steigenden Wohlstand der Gesellschaft und die
+größere Teilhabe der Menschen daran. Gleichzeitig stellt es eine besondere Herausforderung dar, den Verkehr in diesen Ballungsräumen zu organisieren: Denn nicht nur
+in den Städten selbst, auch um sie herum leben immer mehr Menschen, die täglich
+zwischen Wohnsitz und Arbeitsplatz pendeln. Die Städte dehnen sich weiter aus,
+­Ballungszentren werden selbst zu Städten.
+Insbesondere in Entwicklungs- und Schwellenländern wachsen Städte oft so schnell,
+dass infrastrukturelle Maßnahmen und Stadtplanung kaum Schritt halten können.
+Die sichtbarste Folge: lange Staus und zu wenig Parkplätze. Das bedeutet Verlust an
+Zeit und ist zudem nervenaufreibend für den Fahrer. Läuft der Verkehr nicht, erlahmen
+auch Handel und Produktivität, was negative Effekte für die Wirtschaft hat.
+Die Welt von morgen ist automatisiert
+Die zunehmende Verkehrsdichte, also die Summe aller Verkehrsteilnehmer eines
+Verkehrsstroms zu einem Zeitpunkt auf einer Wegeinheit, beschränkt sich nicht nur
+auf die Schwellenländer und die Megacitys Asiens. Sie ist eine weltweite Heraus­
+forderung - auch hierzulande. In Deutschland stehen die Autofahrer schon heute
+im Schnitt 36 Stunden im Jahr im Stau (s. Grafik). Einige Städte und Ballungszentren
+liegen deutlich darüber: In und um Stuttgart und Karlsruhe sind es sogar mehr als
+60 Stunden.
+Abnehmen wird die Fahrzeugdichte in Zukunft nicht. Das Bundesverkehrsministerium
+rechnet damit, dass sich der Pkw-Bestand bis zum Jahr 2025 um mindestens
+10 Prozent erhöhen wird. Eine Ursache: Wir werden immer älter. Und wer selber nicht
+mehr gut zu Fuß ist, nutzt eher das Auto oder andere motorisierte Fortbewegungs­
+mittel. Für den Güterverkehr prognostiziert das Ministerium sogar ein Plus von
+30 Prozent. Für die Europäische Union zeigt sich eine ähnliche Tendenz. Beim Güter­
+verkehr auf den Straßen Europas wird eine Zunahme von bis zu 80 Prozent gegenüber
+dem ­heutigen Stand vorausgesagt. Global wird sich der Pkw-Bestand bis 2030
+nahezu verdoppeln.
+
+STUNDEN IM STAU IN DEUTSCHLAND
+PRO JAHR
+ZEHN STÄDTE OBERHALB DES
+DURCHSCHNITTS, 07. 2014 – 06. 2015
+Quelle: inrix.com/scorecard
+
+46 Hamburg
+36 Hannover
+41 Ruhrgebiet
+50 Düsseldorf
+55 Köln
+37 Bonn
+Nürnberg
+
+Karlsruhe
+61
+
+35
+63
+
+Stuttgart
+
+44
+München
+
+GESAMTZAHL DER VERKEHRSUNFÄLLE
+IN DEUTSCHLAND 2014
+Quelle: Statistisches Bundesamt
+
+2.406.685
+
+I I. G LO BALE TR E N D S
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+7
+
+Wachsende Städte – schrumpfende Dörfer
+ANTEIL DER STÄDTISCHEN BEVÖLKERUNG NACH REGIONEN IN PROZENT
+Quelle: Vereinte Nationen, World Urbanization Prospect: The 2014 Revision
+
+1990
+
+2014
+
+2050
+
+82
+86
+73
+81
+75
+
+70
+
+EUROPA
+ASIEN
+
+NORDAMERIKA
+
+32
+64
+48
+
+86
+80
+71
+
+LATEINAMERIKA
+
+74
+71
+
+71
+
+OZEANIEN
+
+AFRIKA
+31
+40
+
+56
+
+Die größten Ballungsräume der Welt
+EINWOHNER IN MILLIONEN
+Quelle: Vereinte Nationen, World Urbanization Prospect: The 2014 Revision
+
+1
+
+3
+
+5
+
+7
+
+9
+
+TOKIO, JAPAN
+
+SHANGHAI, CHINA
+
+S ÃO PAULO, BRASILIEN
+
+OSAKA, JAPAN
+
+NEW YORK, USA
+
+2
+
+4
+
+6
+
+8
+
+10
+
+DELHI, INDIEN
+
+MEXIKO-STADT, MEXIKO
+
+MUMBAI, INDIEN
+
+PEKING, CHINA
+
+KAIRO, ÄGYPTEN
+
+2014
+
+37,8
+
+25,0
+
+23,0
+
+20,8
+
+20,8
+
+20,7
+
+20,1
+
+19,5
+
+18,6
+
+18,4
+
+2030
+
+37,2
+
+26,1
+
+30,1
+
+23,9
+
+23,4
+
+27,8
+
+20,0
+
+27,7
+
+20,0
+
+24,5
+
+I I I. TE C H N O LO G I S C H E R F O RTS C H R IT T
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+8
+
+Eine Antwort für
+die Welt von morgen:
+Automatisierung
+
+KOMFORT DES AUTOMATISIERTEN
+FAHRENS
+
+Wachstum, Wohlstand und die Teilhabe daran setzen voraus, dass Menschen und
+Güter mobil sind. Um Mobilität und Transport als Motoren der Zukunft zu sichern,
+bedarf es innovativer Lösungen. Ein reines „Weiter so!“ ist nicht mehr möglich.
+Angesichts von Bevölkerungswachstum und Urbanisierung würde so genau der
+­Verkehrsfluss beeinträchtigt, der bislang Grundlage für einen höheren Wohlstand
+und eine größere Teilhabe daran war. Automatisiertes Fahren hat das Potenzial, zur
+Lösung von Herausforderungen beizutragen, die mit den globalen Entwicklungstrends
+einhergehen.
+Oberstes Ziel ist es, den Verkehr noch sicherer zu machen. Die Herausforderung
+liegt darin, dies auch mit dem steigenden Verkehrsaufkommen, vor allem in den
+­sogenannten Megacitys, zu schaffen. In Deutschland ist die Entwicklung positiv:
+Seit 1993 ist die Zahl der Verletzten im Straßenverkehr um 23 Prozent, die Zahl der
+Verkehrstoten sogar um 66 Prozent gesunken. Und das, obwohl die Fahrleistung, also
+die Summe der von Fahrzeugen zurückgelegten Strecken, im gleichen Zeitraum um
+23 Prozent stieg. Der Grund: Autos sind immer sicherer geworden, auch und vor allem
+dank der Fahrerassistenzsysteme. In anderen westlichen
+­Ländern sind die Entwicklungen ähnlich.
+
+WIE ABSTANDSREGELTEMPOMAT UND
+AUFFAHRKOLLISIONSWARNUNG HELFEN
+Fahrzeugtyp
+
+Straßenart
+
+Pkw
+
+Autobahn
+
+Pkw
+
+Landstraße
+
+Pkw
+
+innerorts
+
+Lkw
+
+Anteil System
+eingeschaltet
+
+Reduktion der
+kritischen Situationen
+
+51 %
+
+32 – 82 %
+
+31%
+
+32 – 45 %
+
+19 %
+
+32 %
+
+42 %
+
+14 – 36 %
+
+Autobahn
+
+Lesebeispiel: Wenn 51 Prozent der Pkw auf der Autobahn den Abstandsregeltempomaten
+und die Auffahrkollisionswarnung eingeschaltet haben, werden die kritischen Situationen
+um 32 bis 82 Prozent reduziert. Quelle: PWC Insurance Monitor
+
+Die Technologie der Fahrerassistenzsysteme bietet das Potenzial, die Zahl von ­Unfällen und Staus weiter deutlich zu ver­
+ringern. Abstandsregeltempomaten etwa verbessern den Verkehrsfluss und tragen erheblich dazu bei, Unfälle zu vermeiden.
+Automatisiertes Fahren macht den Verkehr nicht nur sicherer,
+sondern auch effizienter und komfortabler. Ein optimierter
+­Verkehrsfluss und weniger Staus bewirken eine entscheidende
+Verminderung von CO2-Emissionen. Gerade in Rushhour-­Zeiten
+erhält der Fahrer von automatisierten Pkw und Nutzfahrzeugen
+eine neugewonnene Freiheit und Qualität des Fahrens. Auch
+das Einparken kann er dem Auto ­überlassen. Kurz: Automa­
+tisierte Fahrfunktionen unterstützen den Fahrer und bieten ihm
+deutlich mehr Fahrkomfort und Handlungsfreiräume.
+Bei allem Fortschritt der Automatisierung bleibt der Fahrer
+mündig. Genauso wie er sich heute schon entscheiden kann,
+ob er ein Assistenzsystem in seinem Fahrzeug haben möchte,
+kann er auch während des Fahrens entscheiden, ob er ein
+­vorhandenes Assistenzsystem wie einen Abstandsregeltempomaten nutzen will.
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+I I I. TE C H N O LO G I S C H E R F O RTS C H R IT T
+
+9
+
+Sicherheit durch das automatisierte Fahren
+
+SICHERHEITSASPEKT
+DER STRASSE
+Der Fahrer wird vor G
+­ efahrensituationen
+vom System rechtzeitig gewarnt.
+
+Effizienzsteigerung durch Verkehrsflussoptimierung
+
+FAHRERASSISTENZSYSTEME (FAS)
+sind elektronische Zusatzeinrichtungen
+bei Fahrzeugen.
+RUNDUMBLICK DURCH
+SENSOREN
+Radar, LiDAR, Kameras, Ultraschall
+
+I V. Z U K U N F T S E R I E N M Ä S S I G
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+10
+
+Evolution der Automatisierung und Vernetzung
+AUTOMATISIERUNG
+
+VERNETZUNG
+Fahrzeugbezogen
+
+2020
+
+Infotainment
+
+HD-Karte
+5G-Netz
+WLAN ITS G5
+eCall (gesetzlich)
+
+Valet Parking (Fahrerloses Parken)
+Staufolgefahren (Fahren im Stau)
+
+Schlüsselparken
+2015
+Stauassistent
+Parkmanöverassistent
+
+Automatisches Notbremsen
+
+LTE-Netz
+App-Bedienung im Fahrzeug
+
+2010
+
+Integration Smartphone im Fahrzeug
+
+Verkehrszeichenerkennung
+Pilotprojekt Car2X (SimTD)
+Smartphone
+
+Spurhalteassistent
+
+3G-Netz
+
+Totwinkelüberwachung
+Parklenkassistent
+Adaptives Kurvenlicht
+
+Mobiles Internet im Fahrzeug
+Mobiles Navigationssystem (PDA)
+iPod-Verbindung im Fahrzeug
+Bluetooth
+Mobile Onlinedienste
+2000
+
+Fahrzeug-Telematik
+
+Adaptive Cruise Control
+Spurverlassenswarner
+
+2G-Netz
+Bremsassistent
+Elektronisches Stabilitätsprogramm
+
+World Wide Web
+
+Mobiltelefon (D-Netz)
+1990
+Antriebsschlupfregelung
+
+Fahrzeug-Navigationssystem
+RDS-TMC (Verkehrsfunk)
+
+Antiblockiersystem (ABS)
+
+1980
+
+1970
+Tempomat
+
+Verkehrsfunk
+1960
+
+I V. Z U K U N F T S E R I E N M Ä S S I G
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+Die Innovationen
+­deutscher
+Ingenieurskunst
+
+Das Automobil ist wie kein zweites industrielles Produkt Ausdruck deutscher Ingenieurskunst. In Deutschland wurde das
+Auto erfunden, und hier wird es – mit über 6.700 Patentanmeldungen pro Jahr – immer wieder neu erfunden.
+Die deutsche Automobilindustrie stellt die effizientesten und
+sichersten Fahrzeuge der Welt her. Um diese Spitzenposition
+weiter auszubauen, werden weltweit jährlich 30 Milliarden Euro
+in Forschung und Entwicklung investiert. Ein Großteil davon
+fließt in die kontinuierliche Verbesserung der Sicherheit. Ziel
+ist, es gar nicht erst zu Unfällen kommen zu lassen.
+Aufgrund von widrigen Bedingungen oder persönlichen Fehl­
+einschätzungen kommt es im Verkehr jedoch immer wieder zu
+gefährlichen Situationen. Mittlerweile gibt es eine Vielzahl von
+Fahrsicherheits- und Assistenzsystemen, die dem Fahrer zur
+Seite stehen. Diese Systeme helfen bei der Bewältigung der
+Fahraufgaben. Sie erleichtern dabei je nach Anforderung und
+Anwendungsfall die Bedienung des Fahrzeugs.
+Bei der Entwicklung von Fahrsicherheits- und Fahrerassistenz­
+systemen spielt die deutsche Automobilindustrie seit jeher eine
+entscheidende Rolle. Im Oktober 1978 wurde „ABS“ erstmals
+großserientauglich im Markt eingeführt. Es verhindert während
+des Bremsens gezielt das Blockieren einzelner Räder, wodurch das
+Fahrzeug auch während einer Notbremsung weiter lenkbar bleibt.
+1995 wurde mit dem Elektronischen Stabilitätsprogramm
+(ESP) ein weiterer Meilenstein der Fahrsicherheit erreicht.
+Ein Mikrocomputer überwacht die Signale der ESP-Sensoren
+und erkennt, wenn das Fahrzeug instabil wird oder anfängt zu
+schleudern. Durch gezielte Bremseingriffe in einzelne Räder
+
+und die Drosselung der Motorleistung stellt ESP die Stabilität
+wieder her, sodass das Fahrzeug nicht von der Bahn abkommt,
+sondern weiter in die vorgegebene Richtung fährt.
+Auch innovative Fahrerassistenzsysteme, die die Steigerung
+des Fahrkomforts zum Ziel haben, stammen vielfach aus den
+Entwicklungszentren deutscher Fahrzeughersteller und der
+Zulieferindustrie. Der seit 1998 am Markt erhältliche Abstandsregeltempomat – abgekürzt ACC (Adaptive Cruise Control) –
+unterstützt den Fahrer aktiv dabei, den Sicherheitsabstand zum
+vorausfahrenden Fahrzeug durch Bremsen oder Beschleunigen
+einzuhalten. Die aktuell verbreiteten Abstandsregeltempomaten
+sind sogar dazu in der Lage, selbsttätig abzubremsen, bis das
+Fahrzeug steht, und nach Freigabe durch den Fahrer automatisch wieder anzufahren. Sowohl bei Pkw als auch bei Nutzfahrzeugen (Nfz) hat ACC vor allem eine Komfortfunktion, die den
+Fahrer auf der Autobahn oder bei konstantem Kolonnenverkehr
+entlastet. Die automatische Abstandsregelung erhöht jedoch
+auch die Verkehrssicherheit, da sie plötzliche Notbremssituationen aufgrund eines zu geringen Abstands oder der Unaufmerksamkeit des Fahrers vermeiden hilft.
+Fahrsicherheits- und Fahrerassistenzsysteme haben schon seit
+vielen Jahren bei Fahrern von Pkw und Nfz eine hohe Akzeptanz als Unterstützer im Straßenverkehr erreicht. Heute leisten
+bis zu 100 Steuergeräte im Fahrzeug ihren Dienst, insbesondere
+bei der Motorsteuerung. Ihr Sicherheitspotenzial wurde vielfach
+in Studien und Praxisversuchen nachgewiesen. Einige Systeme,
+wie beispielsweise ABS und ESP, sind in Neuwagen sogar
+gesetzlich vorgeschrieben oder werden aufgrund einer Selbstverpflichtung der europäischen Automobilindustrie serienmäßig
+verbaut.
+
+11
+
+V. D I E Z U K U N F T D E S A U T O M AT I S I E R T E N FA H R E N S
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+12
+
+Die Evolution von
+Fahrfunktionen –
+von Assistenten zu
+Automaten
+
+Heute steht für fast alle Fahrzeuge eine Vielzahl von Fahrer­
+assistenzsystemen zur ­Verfügung. Sie sorgen in kritischen
+­Situationen für Stabilität, halten automatisch Abstand zum
+­Vordermann oder unterstützen den Fahrer bei Parkmanövern.
+Um das Umfeld in all seinen Richtungen erfassen zu können,
+benötigt es Daten und Informationen, die es von seinen
+­Sensoren (Ultraschall, Radar, Kameras) erhält.
+Die Leistungsfähigkeit der Sensoren und die Datenverarbeitung
+in den Steuergeräten verbessern sich stetig, durch hoch entwickelte Software werden diese Informationen in Bruchteilen von
+einer Sekunde ausgewertet. Der Pkw und das Nfz erhalten
+künftig ein vollständiges Bild der Umgebung in Echtzeit.
+Radarsensoren, die meistens im vorderen und hinteren Bereich
+des Fahrzeugs ­angebracht sind, können andere Fahrzeuge oder
+Hindernisse erkennen. Der rückwärtige Sensor erfasst den sich
+von hinten nähernden und überholenden Verkehr. Der vorausfahrende Verkehr wird vom Fernbereichsradar überwacht. Der
+Nahbereichsradar beobachtet das unmittelbare Umfeld des
+Autos.
+Kameras kommen zum Einsatz etwa bei der Erkennung von
+Fahrstreifenmarkierungen, Verkehrszeichen, Ampeln und anderen Verkehrsteilnehmern.
+Ultraschallsensoren werden bereits seit Anfang der Neunzigerjahre als Einparkhilfe in Fahrzeugen verbaut. Inzwischen hat
+sich ihr Funktionsumfang deutlich erweitert. Sie können Parklücken während der Fahrt vermessen und erkennen, wenn Fahrzeuge auf der Nebenspur fahren.
+
+Radar, Kameras und Ultraschallsensoren wurden in der Vergangenheit für voneinander unabhängige Funktionen verwendet.
+Inzwischen können alle relevanten Daten aber mithilfe der
+­Sensorfusion intelligent und zeitgleich verknüpft werden. Das
+macht das automatisierte Fahren erst möglich. Besonderes
+Augenmerk wird dabei auf die Funktionssicherheit gelegt.
+Durch Redundanzen und Plausibilitätsprüfungen, also die systeminterne Kontrolle, ob die Umgebungsdaten korrekt erfasst
+wurden, wird eine fehlerhafte Interpretation der Daten verhindert. Dabei werden die Signale der Fahrzeugsensoren untereinander verglichen. Nur wenn die Daten stimmig sind, werden
+Lenkung und Motor angesteuert.
+Zu den automatisierten Fahrfunktionen gehören u. a. das
+­„Fahren auf der Autobahn“, das beim hochautomatisierten
+­Fahren bis zu einer definierten Geschwindigkeit auf Auto­
+bahnen und autobahnähnlichen Straßen Anwendung finden
+wird. Der Fahrer aktiviert auf Wunsch das System und muss
+es nicht dauerhaft überwachen. Er wird somit entlastet und in
+bestimmten Fällen rechtzeitig zur Übernahme der Fahraufgabe
+aufgefordert. Beim vollautomatisierten Fahren muss der Fahrer
+das System überhaupt nicht mehr überwachen. In ferner
+Zukunft wird in Städten durch die F­ ahrfunktion „Fahren in
+der Stadt“ das Fahren auf ­verschiedenen Strecken völlig ohne
+­Fahrereingriff möglich sein. So kann die Fahrzeit frei gestaltet
+werden.
+Das automatisierte Fahren wird zu einer neuen Qualität der
+Mobilität beitragen.
+
+V. D I E Z U K U N F T D E S A U T O M AT I S I E R T E N FA H R E N S
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+13
+
+Sensoren für Fahrerassistenz­systeme (FAS)
+LIDAR – LIGHT DETECTION
+AND RANGING:
+Messung von Abstand und
+­Relativgeschwindigkeit, basierend
+auf ultravioletten oder infraroten Strahlen
+oder sichtbarem Licht.
+
+RADAR:
+Messung von Abstand und
+Relativgeschwindigkeit,
+basierend auf Mikrowellen.
+
+MONO- ODER
+STEREOKAMERA:
+Unterstützt die Detektion
+von Hindernissen und
+Gefahrenquellen, wie z. B.
+Fahrzeuge und Personen.
+
+ULTRASCHALLSENSOREN:
+Abstandsmessung für den
+Nahbereich.
+
+INFRAROT-KAMERA:
+Nachtsichtsysteme mit
+Personen- und Wildtiererkennung.
+
+Bremsassistent (BAS) und automatisches Notbremsen
+AUTOMATISCHES
+NOTBREMSEN:
+Reagiert der Fahrer nicht
+bei einer möglichen
+Kollision, erfolgt zunächst
+eine Teilbremsung.
+Sollte der Fahrer
+weiterhin nicht reagieren
+und selb­ständig keine
+Verzögerung einleiten, so
+erfolgt eine automatische
+Vollbremsung.
+
+STOPP
+AUTOMATISCHES
+NOTBREMSEN
+BREMSEN
+
+STOPP
+
+FALLS FAHRER
+NICHT REAGIERT
+BREMSASSISTENT
+
+FAHRER BREMST
+
+FALLS FAHRER REAGIERT
+KOLLISIONSWARNUNG
+
+BREMSASSISTENT
+IM PKW:
+Bremst der Fahrer zu schwach,
+erzeugt der Bremsassistent
+so viel Bremsdruck, wie zur
+Vermeidung einer Kollision
+notwendig ist.
+
+V I . E N T W I C K L U N G D E R A U T O M AT I S I E R U N G
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+14
+
+Schritt für Schritt
+in die Zukunft
+
+Der Weg zum automatisierten Fahren
+wird vielen bekannt vorkommen: Schon
+heute kann ein Kunde sein Wunschauto
+so konfigurieren, dass es einerseits für
+Autobahnfahrten die heute mögliche
+Fahrerassistenz (z. B. Spurhalteassistent,
+Abstands­regeltempomat mit Notbremsund Stauassistent) bietet. Andererseits
+kann er auf alle Parkassistenzsysteme,
+die den Fahrer beim Rangieren und
+Manövrieren unterstützen, verzichten.
+Diese Wahlfreiheit bleibt dem Kunden
+auch in Zukunft erhalten.
+
+bedarf auch der nationalen und
+i­nternationalen Anpassung rechtlicher
+Rahmenbedingungen.
+
+Die verfügbaren Fahr- und Parkfunktionen für assistiertes und teilautomatisiertes Fahren und Parken entlasten den
+Fahrer bereits heute. Die permanente
+Betätigung von Fahr- und Bremspedal
+kann beispielsweise die Fahrfunktion
+Adaptive Cruise Control (ACC) aus­
+führen. Der Fahrer muss das System
+überwachen und ggf. die Fahraufgabe
+wieder selbst übernehmen.
+
+In der Stufe 0 gibt es keine automatisierten Fahrfunktionen. Der Fahrer führt
+allein die Längsführung (= Geschwindigkeit halten, Gasgeben und Bremsen) und
+Querführung (= Lenken) aus. Es gibt
+keine eingreifenden, sondern lediglich
+warnende Systeme.
+
+In einigen Jahren werden erste Fahrzeuge mit entsprechender Sensorik und
+Informationsverarbeitung ausgestattet
+sein, die Funktionen der Hoch- und Vollautomatisierung für s­ pezifische Anwendungsszenarien ermöglichen. Dabei sind
+zunächst ­automatisierte Fahrfunktionen
+für Autobahn- und Staufahrten zu erwarten. In fernerer Zukunft werden zunehmend auch Fahrten über Land und in der
+Stadt unterstützt. Der Weg zur Hochund Vollautomatisierung ist jedoch
+nicht nur ein technologischer, sondern
+
+Um die Automatisierungsgrade der
+e­ inzelnen Systeme zu klassifizieren,
+­wurden auf nationaler und internationaler Ebene sechs Stufen von 0 bis 5
+­definiert (s. Grafik). Diese technische
+Klassifizierung beschreibt sowohl, welche Aufgaben das System selbst wahrnimmt als auch, welche Aufgaben/Anforderungen an den Fahrer gestellt werden.
+
+In der Stufe 1 kann ein System entweder
+die Längs- oder die Querführung des
+Fahrzeugs übernehmen, der Fahrer führt
+dauerhaft die jeweils andere Aktivität aus.
+Erst in der Stufe 2 spricht man von teil­
+automatisiert, da der Fahrer nun beides,
+die Längs- und die Querführung, an das
+System in einem bestimmten Anwendungsfall übergeben kann. Der Fahrer
+überwacht das Fahrzeug und den
+­Verkehr während der Fahrt fortlaufend.
+Er muss jederzeit dazu in der Lage sein,
+sofort die Steuerung des Fahrzeugs
+übernehmen zu können.
+
+In Stufe 3 erkennt das System selbständig die Systemgrenzen, also den Punkt,
+an dem die Umgebungsbedingungen
+nicht mehr dem Funktionsumfang des
+Assistenzsystems entsprechen. In diesem
+Fall fordert das Fahrzeug den Fahrer zur
+Übernahme der Fahraufgabe auf. Der
+Fahrer muss die Längs- und die Querführung des Fahrzeugs nicht mehr dauerhaft überwachen. Er muss jedoch dazu
+in der Lage sein, nach Aufforderung
+­ ystem mit einer gewissen
+durch das S
+Zeitreserve die Fahraufgabe wieder zu
+übernehmen.
+Ab der Stufe 4 kann der Fahrer die
+­komplette Fahraufgabe an das System in
+spezifischen Anwendungsfällen übergeben. Die Anwendungsfälle beinhalten
+den Straßentyp, den Geschwindigkeitsbereich und die Umfeldbedingungen.
+Als letzte Entwicklungsstufe wird das
+fahrerlose Fahren, die Stufe 5, beziffert.
+Das Fahrzeug kann vollumfänglich auf
+allen Straßentypen, in allen Geschwindigkeitsbereichen und unter allen
+Umfeldbedingungen die Fahraufgabe
+vollständig allein durchführen. Wann
+dieser Automatisierungsgrad erreicht
+sein wird, kann heute noch nicht
+benannt werden. Der Fokus der Forschung und Entwicklung liegt zunächst
+auf den Automatisierungsgraden des
+teil-, hoch- und v­ ollautomatisierten Fahrens. Das vollautomatisierte Fahren auf
+der Autobahn wird voraussichtlich in der
+übernächsten Dekade möglich sein.
+
+V I . E N T W I C K L U N G D E R A U T O M AT I S I E R U N G
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+15
+
+Automatisierungsgrade des automatisierten Fahrens
+Fahrer
+
+Automatisierungsgrad der Funktion
+
+STUFE 1
+
+STUFE 2
+
+STUFE 3
+
+STUFE 4
+
+STUFE 5
+
+DRIVER ONLY
+
+ASSISTIERT
+
+TEIL­AUTOMATISIERT
+
+HOCH­AUTOMATISIERT
+
+VOLL­AUTOMATISIERT
+
+FAHRERLOS
+
+Fahrer muss das
+System dauerhaft
+überwachen.
+
+Fahrer muss
+das System nicht
+mehr dauerhaft
+überwachen.
+
+Kein Fahrer erforderlich im spezifischen
+Anwendungsfall.
+
+Von „Start“ bis
+„Ziel“ ist kein Fahrer
+erforderlich.
+
+Fahrer führt dauerhaft Fahrer führt dauerhaft
+Längs- und QuerfühLängs- oder
+rung aus.
+Querführung aus.
+
+AUTOMATISIERUNG
+
+STUFE 0
+
+FAHRER
+
+Fahrer muss potenziell
+in der Lage sein,
+zu übernehmen.
+
+Kein eingreifendes
+Fahrzeugsystem aktiv.
+
+System übernimmt
+Längs- und
+Querführung
+in einem spezifischen
+Anwendungsfall*.
+
+System übernimmt
+die jeweils andere
+Funktion.
+
+System übernimmt
+Längs- und
+Querführung in einem
+spezifischen
+Anwendungsfall*.
+Das System überEs erkennt Systemnimmt die Fahraufgabe
+grenzen und fordert
+System kann im
+vollumfänglich bei
+den Fahrer zur
+spezifischen
+allen Straßentypen,
+Übernahme mit
+Anwendungsfall* alle Geschwindigkeits­
+ausreichender
+Situationen automabereichen und
+Zeitreserve auf.
+tisch bewältigen.
+Umfeldbedingungen.
+
+* Anwendungsfälle beinhalten Straßentypen, Geschwindigkeitsbereiche und Umfeldbedingungen
+
+Einführung automatisierter Fahr- und Parkfunktionen
+Fahrfunktionen
+
+Einführungszeiträume:
+
+Parkfunktionen
+
+Einführungszeiträume definieren den Zeitraum, wann voraussichtlich
+die Fahrerassistenzsysteme (FAS) am Markt eingeführt werden.
+STUFE 4
+VOLL ­AUTOMATISIERT
+
+Fahren in der Stadt*
+Valet Parking* (Fahrerloses Parken)
+
+STUFE 3
+HOCH­AUTOMATISIERT
+
+Fahren auf der Autobahn*
+Staufolgefahren / Fahren im Stau *
+
+STUFE 1
+ASSISTIERT
+
+Schlüsselparken
+Stauassistent
+Parkmanöverassistent
+Spurhalteassistent
+Parklenkassistent
+Adaptive Cruise Control
+
+STUFE 0
+DRIVER ONLY
+
+Jahr
+
+STUFE 5
+FAHRERLOS
+
+STUFE 2
+TEIL ­AUTOMATISIERT
+
+2000
+
+Totwinkelüberwachung
+Spurverlassenswarner
+2005
+
+2010
+
+* Rechtliche Rahmengesetzgebung vorausgesetzt
+
+2015
+
+2020
+
+2025
+
+2030
+
+V I I . A U T O M AT I S I E R T E S FA H R E N B E I N U T Z FA H R Z E U G E N
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+16
+
+Nutzfahrzeuge als
+­Innovationsträger
+der Automatisierung
+Nutzfahrzeuge haben durch ihre Vielfalt an Konstruktionen, Konzepten und Innovationen über viele Jahre die
+Automobilindustrie vorangetrieben. Das automatisierte Schaltgetriebe oder die elektronisch gesteuerten
+Brems- und Notbremssysteme sind nur einige der Technologien, die zuerst im Nutzfahrzeug zum Einsatz
+kamen, bevor sie zur möglichen Pkw-Ausstattung gehörten.
+Nutzfahrzeuge sind aufgrund ihrer hohen Fahrleistung prädestiniert für das automatisierte Fahren. Während
+ein Pkw in Deutschland jährlich im Schnitt etwa 14.000 Kilometer zurücklegt, sind es beim Nutzfahrzeug im
+Fernverkehr etwa 100.000 Kilometer. Die Entwicklungsziele sind aber seit jeher die gleichen wie beim Pkw:
+Effizienz, Sicherheit und die Reduzierung von CO2-Emissionen.
+Entwicklung der Nutzfahrzeugtechnik
+Ähnlich wie beim Pkw werden bei Nutzfahrzeugen die Informationen und Funktionen der bewährten und
+zukünftigen Fahrerassistenzsysteme zu einem Gesamtsystem gebündelt. Dazu gehören etwa der Abstandsregeltempomat (ACC), der Spurhalteassistent oder das Notbremssystem. Hinzu kommen Innovationen wie
+die digitalen 3-D-Karten. Mit ihrer Hilfe wird das Fahrverhalten an die Eigenschaften der vorausliegenden
+Strecke angepasst. So kann etwa ein Lkw gezielt vor einer Steigung beschleunigen, um Schwung aufzubauen und am Ende der Steigung kraftstoffsparend über die Kuppe zu rollen. Diese Systeme eignen sich
+sehr gut für die Erweiterung durch die Car-to-X-Kommunikation. Der Informationsaustausch mit anderen
+Verkehrsteilnehmern sorgt für eine zusätzliche Steigerung der Sicherheit und der Effizienz.
+SENSOREN FÜR NUTZFAHRZEUGE
+ULTRASCHALL, KAMERA, RADAR, LASERSCANNER
+
+Automatisierte Fahrfunktionen sind besonders für Flotten­
+betreiber interessant. Der Kraftstoffverbrauch und die Emissionen sinken deutlich, weil der Verkehr gleichmäßiger fließen
+kann. So lässt sich eine höhere Durchschnittsgeschwindigkeit
+­erzielen, ohne dass die Höchstgeschwindigkeit angehoben
+werden muss. Die Transportzeiten werden kalkulierbarer und
+die ­Aggregate der beteiligten Lkw durch die gleichmäßige
+Fahrweise geschont.
+Eine wichtige Rolle für die weitere Entwicklung spielt die Entlastung des Fahrers. Ein Lastwagenfahrer ist heute extremen
+Anforderungen ausgesetzt. In der hohen Verkehrsdichte muss
+er stets aufmerksam sein und er steht oft unter Zeitdruck. In
+­fernerer Zukunft wird sich der Fahrer voll und ganz auf die
+Techniksysteme des Lastwagens verlassen können, der dank
+seiner Sensorik und des Datenaustauschs mit der Umgebung
+sicher und effizient seinem Ziel entgegenfährt. Dadurch wird
+für ihn vieles leichter und er kann sich anderen Aufgaben
+­widmen, etwa der flexiblen Disposition der aktuellen Tour oder
+der Planung kommender Aufträge.
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+V I I . A U T O M AT I S I E R T E S FA H R E N B E I N U T Z FA H R Z E U G E N
+
+17
+
+MERCEDES-BENZ FUTURE TRUCK 2025
+
+TELEMATIK BEI NUTZFAHRZEUGEN
+
+V I I I . V E R N E T Z T E S FA H R E N
+
+18
+
+Automatisiertes
+­Fahren
+und Vernetzung
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+V I I I . V E R N E T Z T E S FA H R E N
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+19
+DIALOG DER STRASSE
+CAR-TO-X-KOMMUNIKATION:
+CAR-TO-INFRASTRUCTURE, CAR-TO-CAR
+
+Die intelligente Vernetzung und die
+­Digitalisierung innerhalb und außerhalb
+des Fahrzeugs werden zukünftig eine
+immer wichtigere Rolle spielen.
+Unter dem automatisierten Fahren versteht man das selbständige, zielgerichtete Fahren eines Fahrzeugs im realen
+Verkehr mit bordeigenen Sensoren,
+nachgeschalteter Software und im Fahrzeug gespeichertem Kartenmaterial für
+die Erfassung der Fahrzeugumgebung.
+Je nach Anwendungsfall wird das Fahrzeug damit dazu in der Lage sein, die
+passende Fahraufgabe auszuführen.
+Jedoch lassen sich die automatisierten
+Fahrfunktionen mit Hilfe der Vernetzung
+mittel- und langfristig deutlich erweitern.
+Unter Vernetzung versteht man die Kommunikation zwischen Fahrzeugen untereinander sowie mit der Infrastruktur,
+etwa mit Ampelanlagen oder Verkehrsleitsystemen. Bei der vernetzten Mobilität
+fasst der Begriff Car-to-X-Kommunikation (C2X) die direkte Kommunikation
+sowohl z­ wischen Fahrzeugen (Car-toCar/C2C) als auch zwischen Verkehrsteilnehmern und fest installierter Infrastruktur (Car-to-Infrastructure/C2I)
+zusammen. Die Car-to-X-Kommunikation ermöglicht es dem Fahrzeug, in
+Sekundenbruchteilen Verkehrsinformationen – etwa über Ampelphasen und
+Baustellen – zu sammeln, entweder von
+vorausfahrenden Fahrzeugen oder von
+Verkehrsleitsystemen, und diese sogleich
+zu verarbeiten.
+Relevant ist das vor allem für die Verkehrssicherheit. Car-to-X-Kommunikation warnt und informiert den Fahrer in
+kurzer Zeit über Gefahrensituationen wie
+Unfälle, Glatteis, Pannenfahrzeuge oder
+Stauenden entlang der Route, selbst
+wenn diese noch nicht in Sichtweite des
+Fahrzeugs sind. Während der automatisierten Fahrt könnte das Fahrzeug in
+
+diesen Fällen selbständig bremsen
+oder die Spur wechseln, um die Gefahrenstelle mit ausreichendem Abstand
+zu umfahren, ohne dass der Fahrer
+­eingreifen muss. Bei widrigen Umfeld­
+bedingungen wie Schnee, Nebel oder
+verschmutzter Fahrbahn können
+­Informationen, die nicht vollständig
+durch die Fahrzeugsensoren erfasst
+­werden, durch Car-to-X-Kommunikation
+ergänzt werden. Diese stellt somit eine
+ideale Ergänzung zum automatisierten
+Fahren dar.
+Daneben ermöglichen innovative Technologien einen höheren Komfort und
+eine deutliche Zeitersparnis für Fahrer
+und Passagiere. Die intelligente Vernetzung von Fahrzeugen und Parkräumen
+bietet das Potenzial, die Suche nach
+einem Parkplatz deutlich zu verkürzen
+und das Auto einfach per Knopfdruck
+parken zu lassen. Beispielsweise kann
+das v­ ollautomatisierte Fahrzeug in vernetzten Parkhäusern einen zugewiesenen ­Parkplatz finden – ganz ohne Fahrer.
+Dazu wird das Fahrzeug in einer speziellen Übergabezone abgestellt und die
+Parkfunktion aktiviert. Bei Abholung
+­aktiviert der Fahrer in dieser Zone
+die Funktion und das Fahrzeug fährt
+selbständig vor.
+Die weltweite Vernetzung im Zuge
+der digitalen Revolution zeigt im Verkehrssektor Lösungen auf, die mehr
+Sicherheit, Ressourcenschutz, Mobilität,
+Wachstum und die Teilhabe daran vereinen. Informationsaustausch, Kommunikation und die Nutzung von Telematik,
+also die Verknüpfung der Bereiche Telekommunikation und Informatik, werden
+für die Zukunft des Automobils und des
+Verkehrs von hoher Bedeutung sein.
+
+I X . D AT E N S C H U T Z U N D D AT E N S I C H E R H E I T
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+20
+
+Höchste Sicherheit
+im Datenverkehr
+TRANSPARENZ
+
+RECHT
+AUF ­INFORMATIONELLE
+­SELBSTBESTIMMUNG
+
+SELBSTBESTIMMUNG
+
+Durch die fortschreitende Automatisierung und Vernetzung entstehen zusätzliche
+Daten- und Informationsströme im Fahrzeug. Diese werden zum einen zur Nutzung
+von assistierten und automatisierten Fahr- und Parkfunktionen benötigt, zum anderen
+zur Erweiterung von Informations- und Unterhaltungsmöglichkeiten. Bei der Entwicklung dieser Technologien sind Datenschutz und Datensicherheit von besonderer
+Bedeutung. Dazu hat die deutsche Automobilindustrie im Jahr 2014 Datenschutz-Prinzipien erstellt, die als Grundsatz für eine sichere und transparente Datenverarbeitung dienen.
+Zu diesen Prinzipien gehören Transparenz, Selbstbestimmung und Datensicherheit.
+Bevor jedoch über die Verwendung von Daten diskutiert werden kann, muss klar sein,
+von welchen Daten überhaupt gesprochen wird. Bei der Nutzung eines Kraftfahrzeugs
+werden fortlaufend eine Vielzahl von Informationen erzeugt und verarbeitet, die zu
+einem wesentlichen Teil technischer Natur sind (Maschinendaten). Die bei der
+Kfz-Nutzung anfallenden Daten können aber unter bestimmten Umständen auch personenbezogene Daten im Sinne des Datenschutzrechts sein. Zum besseren Verständnis der Art der Daten im Fahrzeug lassen sich folgende Kategorien unterscheiden:
+
+DATENSICHERHEIT
+
+I X . D AT E N S C H U T Z U N D D AT E N S I C H E R H E I T
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+21
+Daten aufgrund gesetzlicher Regelung
+Ab dem 01.04.2018 wird der automatische Notruf in allen neuen Pkw-Modellen
+gesetzlich verpflichtend. Im Falle eines schweren Unfalls werden unter anderem
+Unfallzeitpunkt, Unfallort und Fahrtrichtung an eine Notrufzentrale übermittelt.
+Dadurch kann eine schnelle Bergung eingeleitet werden.
+Daten aufgrund technischer Prozesse
+Dabei handelt es sich um technische Daten, die System und Umgebungszustände
+abbilden. Sensoren generieren diese Daten, die durch entsprechende Fahrzeug­
+elektronik ausgewertet werden. Sie sind meist flüchtig und werden nur im Falle eines
+erkannten Fehlers gespeichert.
+Moderne Datendienste aufgrund vertraglicher Regelung
+Für die Nutzung von fahrzeugseitigen Serviceleistungen und Onlinediensten, wie
+­beispielsweise einem Concierge-Service, der Aktualisierung der Navigationskarte
+oder einem persönlichen Internetzugang im Fahrzeug, werden Daten zum und vom
+Server des Herstellers gesendet und empfangen. Im Gütertransport kann mit Hilfe
+von Telematiksystemen Fahrzeug- und Transport­management betrieben werden.
+
+DATENKATEGORIEN
+Navigationsziele
+
+Komforteinstellungen
+
+Adressbuch
+
+Musik
+
+DIE DATENSCHUTZPRINZIPIEN DER AUTOMOBILINDUSTRIE
+Transparenz
+Der Kunde hat die Möglichkeit, sich auf vielfältige Weise einen Überblick über alle
+Datenkategorien und den Zweck der verarbeiteten Daten zu verschaffen, beispielsweise über Onlinedienste, Portale oder Benutzerhandbücher.
+Selbstbestimmung
+Der Kunde kann selbständig bestimmte Dienste deaktivieren und gespeicherte Daten
+löschen. Einwilligungen über bereitgestellte Daten, die von Diensten genutzt werden,
+kann er jederzeit rückgängig machen. Für weitere Dienstleistungen werden Daten nur
+dann übermittelt, wenn entweder eine gesetzliche Erlaubnis oder ein vertragliches
+Einverständnis vorliegt.
+Datensicherheit
+Der Kunde soll vor Manipulation und Missbrauch seiner Daten geschützt werden.
+Das erfordert eine ständige aktive Weiterentwicklung der Datensicherheit, orientiert
+an der fortschreitenden IT-Entwicklung.
+Die Automobilindustrie stellt für die im Fahrzeug erzeugten Daten die technischen
+und organisatorischen Maßnahmen zu deren Schutz sicher. Der VDA setzt sich
+gemeinsam mit der Automobilindustrie dafür ein, dass für die Soft- und Hardware­
+architekturen der Fahrzeuge sowie für die Remotezugriffe auf das Fahrzeug über die
+Telekommunikationsnetze Standards etabliert und fortentwickelt werden. Ein hohes
+technisches Sicherheitsniveau kann so fortlaufend gewährleistet werden; dazu gehört
+auch der Einsatz geeigneter Verschlüsselungstechnologien.
+Sensible Bereiche im Fahrzeug werden komplett von der Kommunikation ausgeschlossen. Gateways und Firewalls schotten diese sicherheitsrelevanten Bereiche
+im Fahrzeug ab. Das Fahrzeug lässt sich dadurch kontinuierlich in allen Betriebs­
+situationen sicher nutzen. „Aufhängen“ wie ein Computer wird es sich nie, dafür
+­sorgen z. B. speziell für den Anwendungsfall im Auto optimierte Betriebssysteme.
+Die Automobilindustrie sieht Datenschutz und Datensicherheit, die Transparenz
+für die und die Selbstbestimmung der Kunden als Fundament des Vertrauens.
+
+X. GESETZE UND RAHMENBEDINGUNGEN
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+22
+
+Ein rechtssicherer
+Rahmen für das
+­automatisierte Fahren
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+X. GESETZE UND RAHMENBEDINGUNGEN
+
+23
+
+Um das automatisierte Fahren voranzutreiben, ist die Automobilindustrie auf einen rechtssicheren Rahmen
+angewiesen – auf nationaler Ebene wie auch im globalen Kontext. Es sollen die Voraussetzungen geschaffen
+werden, damit das Fahrzeug Aufgaben übernehmen kann, die heute allein der Autofahrer wahrnehmen darf.
+Das „Wiener Übereinkommen“ von 1968 besagt, dass der Fahrer jederzeit die Kontrolle über sein Fahrzeug
+haben muss. Im März 2014 wurde von der zuständigen Arbeitsgruppe der UNECE (UN-Wirtschaftskommission für Europa) eine Änderung des entsprechenden Artikels verabschiedet. Hochautomatisierte Systeme,
+die weiterhin einen übernahmebereiten Fahrer haben, der das System übersteuern bzw. ein- und ausschalten kann, sind demnach zukünftig im Einklang mit dem „Wiener Übereinkommen“. Das geänderte „Wiener
+Übereinkommen“ fordert weiterhin, dass jedes Fahrzeug einen Fahrer haben muss. Für die Ermöglichung
+fahrerloser Fahrzeuge ist daher eine weitere Änderungsschleife notwendig. Im Straßenverkehrsrecht
+(z.  B. StVG und StVO) besteht ab der Stufe 3 (s.  Grafik „Automatisierungsgrade des automatisierten Fahrens“
+auf S. 15) Reformbedarf. Dabei ist eine Anpassung des deutschen Verhaltensrechts für hochautomatisierte
+Fahrfunktionen zur Konkrektisierung der Fahrerpflichten sowie zur Legitimierung der Nutzung von bord­
+eigenen I­nfotainmentsystemen während der hochautomatisierten Fahrt und allgemein für die Übernahme
+von Fahraufgaben durch Systeme sinnvoll. Schließlich müssen im internationalen Kfz-Zulassungsrecht
+die erforder­lichen Voraussetzungen geschaffen werden, damit etwa automatische Lenksysteme oberhalb von
+10 km/h ­eingeführt werden können.
+Ab den Stufen 3 und 4 der Automatisierungsgrade des automatisierten Fahrens ergeben sich nach heutigem
+Stand noch rechtliche, ethische und gesellschaftliche Herausforderungen. Im Sinne einer transparenten,
+verantwortungsvollen und nachhaltigen Herangehensweise an diese Zukunftstechnologie werden diese
+Fragen proaktiv vom VDA und von der deutschen Automobilindustrie in den gesellschaftlichen Diskurs eingebracht. Im Falle auftretender Dilemmasituationen darf das technische System keinesfalls zwischen Menschenleben abwägen, sondern muss durch Bremsen und Ausweichen die Unfallfolgen minimieren. Hierbei
+reagiert ein hochautomatisiertes System schneller, rationaler und vorausschauender als der menschliche
+Fahrer. Sensoren wie z.  B. Radar, Kamera oder Laserscanner sind grundsätzlich dazu in der Lage, Radfahrer
+und Fußgänger zu erkennen. Eine Differenzierung, z.  B. nach Alter, ist jedoch aktuell und auch in der nahen
+Zukunft nicht möglich. Ohne diese Information ergeben sich viele der konstruierten Dilemmasituationen für
+das technische System derzeit nicht. Die deutsche Automobilindustrie setzt sich für international harmonisierte Anforderungen an den Fahrzeugführer ein. Damit Deutschland eine Schrittmacherrolle spielen kann,
+ist auch nationales Recht anzupassen. Die national wie international zu schaffende Rechtssicherheit für
+automatisiertes Fahren bedeutet zugleich Investitionssicherheit für die Hersteller und Zulieferer im
+Heimatmarkt.
+Für Deutschland ist die Digitalisierung der Mobilität eine Chance, zum internationalen Vorreiter in diesem
+Bereich zu werden. Entwicklungskompetenz führt zu Lösungskompetenz. Die deutschen Unternehmen leben
+und schätzen unseren Rechtsrahmen. Wenn wir es nicht machen, dann machen es andere mit anderen
+Rechtsgrundlagen. Auch vor diesem Hintergrund sollte Deutschland im globalen Verbund eine Vorreiterrolle
+wahrnehmen.
+
+X I. G LO S SAR
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+24
+
+A – Z des
+­automatisierten
+Fahrens
+
+Adaptive-Cruise-Control (ACC)
+Der Abstandsregeltempomat ist eine Geschwindigkeitsregelanlage, die zusätzlich automatisch einen zuvor eingestellten
+Sicherheitsabstand zu einem vorausfahrenden Fahrzeug durch
+Gasgeben und Bremsen hält.
+Anti-Blockier-System (ABS)
+Verhindert das Blockieren der Räder bei einer Bremsung. Es
+regelt den Bremsdruck so, dass das Fahrzeug lenkbar bleibt.
+Anwendungsfall
+Beschreibt Straßentyp (Autobahn, innerorts), Geschwindigkeitsbereich und Umweltbedingungen (Wetter, Fahrbahnzustand), bei denen eine automatisierte Funktion nutzbar ist.
+Automatisierung
+Beschreibt die zunehmende Automation von Fahr- und Parkfunktionen. Die Funktion kann, je nach Ausprägung, Längsund/oder Querführung des Fahrzeugs übernehmen.
+Ballungsräume/Ballungszentren
+Die Region um eine oder mehrere Kernstädte, die von einem
+engeren, dicht bebauten Vorortgürtel sowie einem geografisch
+weitläufigeren, teilweise ländlich geprägten Einzugsgebiet
+umgeben sind.
+Car-to-Car-Kommunikation (C2C)
+Bei dieser Form der vernetzten ­Kommunikation ist der Austausch zwischen zwei oder mehr Fahrzeugen via WLAN
+802.11p gemeint, die sich gegenseitig vor Hindernissen auf der
+Fahrbahn, Aquaplaning oder anderen Gefahren warnen.
+Car-to-Infrastructure-Kommunikation (C2I)
+Bei diesem Ansatz geht es um die drahtlose Kommunikation
+per WLAN 802.11p der Fahrzeuge mit Infrastruktureinrichtun-
+
+gen. Bei den Infrastrukturkomponenten kann es sich um intelligente Ampeln oder um Funkknoten handeln, über die eine
+Kommunikation über das Internet zu Infotainmentplattformen
+oder zum Autohersteller aufgebaut werden kann.
+Car-to-X-Kommunikation (C2X)
+Bezeichnet den Datenaustausch zwischen Fahrzeugen, der
+Infrastruktur, Verkehrsleitstellen und Internetanwendungen
+per WLAN 802.11p. Das einzelne Auto ist Datensender und
+-empfänger zugleich. Weitere Akteure wie Verkehrsleitzentralen
+empfangen die Information, verarbeiten sie und senden sie
+ihrerseits weiter.
+CO2-Emissionen
+Wert der CO2-Emission in Gramm pro Kilometer oder als Masse
+des emittierten Gases bei einer gefahrenen Strecke.
+Elektronisches Stabilitätsprogramm (ESP)
+Erkennt kritische Fahrsituationen und Fahrzeuginstabilität
+anhand von Sensordaten. Es verhindert das Ausbrechen des
+Fahrzeugs durch den Eingriff in das Bremssystem und das
+Motormanagement.
+Fahren auf der Autobahn
+Die Fahrfunktion „Fahren auf der Autobahn“ übernimmt die
+Quer- und ­Längsführung beim hoch­automatisierten Fahren
+auf der Autobahn. Der Fahrer muss bewusst das System
+­aktivieren, aber nicht dauerhaft überwachen. Der Fahrer wird
+in bestimmten Fällen rechtzeitig vom System zur Übernahme
+aufgefordert.
+Fahren in der Stadt
+Die Fahrfunktion „Fahren in der Stadt“ beherrscht komplexe
+Straßenverläufe in Städten. Bei niedrigen Geschwindigkeiten
+fährt das Fahrzeug völlig ohne Fahrereingriff. Der Fahrer muss
+das System überhaupt nicht überwachen.
+
+X I. G LO S SAR
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+25
+Fahrerassistenzsystem (FAS)
+Elektronische Zusatzeinrichtungen in Kraftfahrzeugen zur
+Unterstützung des Fahrers in bestimmten Fahrsituationen.
+­Hierbei stehen Sicherheitsaspekte, aber auch die Steigerung
+des Fahrkomforts im Vordergrund (Englisch: Advanced Driver
+Assistance Systems (ADAS)).
+Fahrleistung
+Die von Fahrzeugen zurückgelegte ­Strecke in Kilometern.
+Fahrsicherheitssystem
+Elektronische Zusatzeinrichtungen, die in kritischen Situationen
+in das Fahrgeschehen eingreifen, um die Fahrzeugstabilität
+zu erhalten. Während des Eingriffs können sie nicht übersteuert
+werden.
+Fahrzeugdichte
+Zahl der Verkehrsteilnehmer je Quadratkilometer, je Kilometer
+Straßenlänge oder je Einwohner.
+Hersteller
+Gleichzusetzen mit dem Begriff der Automobilhersteller.
+Längsführung
+Bezieht sich auf die Geschwindigkeitsregelung durch
+­Gas­geben und Bremsen.
+LiDAR (Light Detection and Ranging)
+Messung von Abstand und Relativ­geschwindigkeit, basierend
+auf ultravioletten oder infraroten Strahlen oder sichtbarem
+Licht.
+Megacitys
+Städte mit mindestens zehn Millionen Einwohnern.
+
+Sensorfusion
+Die Verschmelzung von Daten unterschiedlicher Sensoren
+mit dem Ziel, durch Datenabgleich die Fahrzeugumgebung
+genauer und mit höherer Sicherheit zu erfassen.
+Spurverlassenswarner
+Eine Videokamera hinter der Windschutzscheibe erkennt den
+Fahrspurverlauf. Das System wertet die erkannten Spurmarkierungen aus und warnt den Fahrer bei unbeabsichtigtem Verlassen der Fahrspur.
+Stauassistent
+Im Stau fährt das Auto innerhalb der eigenen Spur und hält
+Abstand zum Vorderfahrzeug. Der Fahrer muss das System
+dauerhaft überwachen und ggf. sofort eingreifen.
+Telematik
+Verknüpft die Begriffe Telekommuni­kation und Informatik Informations­verknüpfung von mindestens zwei ­Informations­systemen mithilfe eines Telekommunikations­systems sowie
+einer speziellen Form der Datenverarbeitung.
+Totwinkelüberwachung
+Der Totwinkelassistent erfasst die Objekte im toten Winkel
+des Fahrers und informiert diesen darüber bzw. warnt den
+Fahrer bei Spurwechselabsicht vor einer möglichen Kollision.
+Ultraschallsensoren
+Abstandsmessung für den Nahbereich.
+Urbanisierung
+Auch unter dem Begriff Verstädterung bekannt; meint hier das
+Wachstum von Städten.
+
+Parklenkassistent
+In bestimmten Einparkszenarien übernimmt das System die
+Querführung. Der Fahrer aktiviert den Parklenkassistenten und
+dieser übernimmt die Lenktätigkeit. Der Fahrer bremst nur
+das Fahrzeug am Ende der Parklücke.
+
+Valet Parking (Fahrerloses Parken)
+Das bedeutet, dass Parkvorgänge vollautomatisch durch
+das Fahrzeug ausgeführt werden. Zur Übergabe stellt
+der ­Fahrer das Fahrzeug im Eingangsbereich des Parkhauses/
+Parkplatzes ab und aktiviert die Funktion (z. B. via Smartphone). Sobald er seine Fahrt fortsetzen möchte, fordert er
+sein Fahrzeug zurück und übernimmt es im Ausgangsbereich.
+
+Querführung
+Lenkfunktion des Fahrzeugs.
+
+Vernetzung
+Steht für den zunehmenden Informationsaustausch zwischen
+Fahrzeugen und ihrer Umwelt.
+
+Radar (Radio Detection and Ranging)
+Ein auf Funkwellen basierendes Mess­prinzip zur Ermittlung
+von Objekten und deren Position und Relativgeschwindigkeit.
+Schlüsselparken
+Bevor das Auto in eine Parklücke geparkt wird, steigt der ­
+Fahrer vorher aus und lässt das Auto mithilfe des
+­Displayschlüssels in die Lücke fahren und auch später wieder
+ausparken.
+Sensoren
+Bezeichnet Ultraschall, Radar, LiDAR und Kameras, die dem
+Fahrzeug z. B. Daten und Informationen des Fahrzeugumfelds
+liefern.
+
+Verkehrsdichte
+Summe aller Verkehrsteilnehmer eines Verkehrsstroms zu
+einem Zeitpunkt auf einer Wegeinheit.
+Verkehrsleitzentrale
+Durch die Zusammenfassung aller verkehrlichen Informationen
+an einer Stelle kann die Verkehrslenkung gezielt in das städtische Verkehrsgeschehen eingreifen und Störungen minimieren
+oder sogar komplett verhindern.
+Zulieferer
+Unternehmen, die Teil der Wertschöpfungskette der Automobilindustrie sind und die an die Automobilhersteller u. a. Produkte,
+Komponenten und Systeme liefern.
+
+IMPRESSUM
+
+26
+
+Impressum
+Herausgeber
+VDA
+Verband der Automobilindustrie e. V.
+Behrenstraße 35
+10117 Berlin
+Telefon +49 30 897842-0
+Fax +49 30 897842-600
+info@vda.de
+www.vda.de
+Copyright
+Verband der Automobilindustrie e. V.
+Stand
+September 2015
+
+Konzeption und Realisierung
+laf.li digital GmbH
+Verzeichnis der A
+­ bbildungen
+Seite 4: © GraphicaArtis/Corbis, Seite 17:
+Bild oben: Daimler AG, Bild unten: MAN
+Truck & Bus AG
+Druck
+Brandenburgische Universitätsdruckerei
+und Verlagsgesellschaft Potsdam mbh
+Papier
+Maxi Offset
+
+V D A M A G A Z I N — A U T O M AT I S I E R U N G
+
+VDA
+Verband der Automobilindustrie e. V.
+Behrenstraße 35
+10117 Berlin
+Telefon +49 30 897842-0
+Fax: +49 30 897842-600
+info@vda.de
+www.vda.de
+
+

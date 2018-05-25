@@ -1,0 +1,42 @@
+Guideline Öffnen/Schließen der Fahrzeuge via App und Website
+
+Um das Auto zu öffnen und die Fahrt beginnen zu
+können, muss in eingeloggtem Zustand in den
+Bereich „Buchungen“ gewechselt werden.
+Um die Funktion in der App zu nutzen, muss die aktuelle App aus dem iOS Store oder Android Store
+herunter geladen werden bzw. die vorhandene App auf die aktuelle Version aktualisiert werden.
+
+Öffnen des Fahrzeuges
+Im Bereich Buchungen sind sämtliche Buchungen zu sehen. In diesem Bereich werden Buchungen
+gestartet und das Fahrzeug geöffnet oder die Buchung beendet und das Fahrzeug verschlossen.
+Um ein gebuchtes Fahrzeug zu öffnen und die Buchung zu starten muss der grüne Button „Fahrzeug
+öffnen und Fahrt beginnen“ geklickt werden.
+
+Anschließend muss das Öffnen und der Buchungsbeginn nochmals bestätigt werden.
+
+Das Fahrzeug wird nun geöffnet. Bitte haben Sie einen Moment Geduld.
+
+Im Anschluss wurde die Buchung ins System übertragen und das Fahrzeug ist nun offen. Das Auto
+kann nun mit dem Zündschlüssel, welcher sich im Handschuhfach befindet, gestartet werden.
+
+Das Fahrzeug wird während der gesamten Buchungsdauer nur noch mit dem Zündschlüssel geöffnet
+und geschlossen. Vor dem endgültigen Beenden der Buchung wird der Zündschlüssel wie üblich
+wieder an die Cinchbuchse im Handschuhfach angesteckt.
+
+Schließen des Fahrzeuges und Beenden der Buchung
+
+Aktive Buchungen werden ebenfalls im Bereich „Buchungen“ beendet. Hierzu muss die Detailansicht
+der entsprechenden Buchung aufgerufen werden.
+Um eine aktive Buchung zu beenden und das Fahrzeug wieder zu verschließen, bitte auf „Fahrzeug
+verschließen und Fahrt beenden“ klicken.
+
+Anschließend öffnet sich ein Drop-Down Menü, indem das Beenden der Fahrt nochmals bestätigt
+werden muss.
+
+Das Fahrzeug wird nun verschlossen und die Buchung beendet. Bitte haben Sie einen Moment
+Geduld.
+
+Nachdem die Buchung beendet wurde, erscheint die Meldung „Ihre Fahrt wurde von unserem
+System beendet“. Das Fahrzeug kann ab sofort wieder an Kunden vermietet werden.
+
+

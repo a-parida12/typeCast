@@ -1,0 +1,1866 @@
+Grundlagen der Mathematik
+Norbert Koksch
+
+„Ich behaupte aber, dass in jeder besonderen Naturlehre nur so viel eigentliche Wissenschaft angetroffen werden könne, als darin Mathematik anzutreffen ist.“
+Immanuel Kant: Metaphysische Anfangsgründe der Naturwissenschaft, A VIII
+(1786)
+
+Literatur
+• https://de.wikibooks.org/wiki/Regal:Mathematik
+• Manfred Brill: Mathematik für Informatiker. Hanser 2005.
+• Daniel Grieser: Mathematisches Problemlösen und Beweisen. Eine Entdeckungsreise in die Mathematik. Springer 2013.
+• Kevin Houston. Wie man mathematisch denkt. Eine Einführung in die mathematische Arbeitstechnik für Studienanfänger. Springer 2011.
+
+0.1 Vorwort: Was ist Mathematik?
+Die Mathematik ist eine für unser Leben unentbehrliche Wissenschaft. Sie hilft uns,
+zu vielen Fragen und Problemen Lösungen zu finden und ist für zahlreiche weitere
+Wissenschaften unersetzlich. Für einige Menschen besitzt sie sogar einen Wert an
+sich. Dabei ist die Frage, was Mathematik ist, gar nicht leicht zu beantworten. Was
+macht also die Mathematik aus und womit beschäftigt sie sich? Diese Fragen nach
+ihrem Wesen und ihrem Inhalt wollen wir versuchen zu beantworten.
+Mathematik ist eine Wissenschaft, die auf einigen wenigen Grundannahmen aufbaut. Diese Grundannahmen nennt man Axiome, welche ohne Beweis als wahre
+Aussagen angesehen werden. Die gesamte Mathematik wird durch Herleitungen aus
+diesen Axiomen gewonnen. Jede mathematische Theorie besitzt dabei ihre eigenen Axiome. Theorien bauen auch oftmals aufeinander auf, indem sie die Axiome
+einer Theorie um neue erweitern. Ob die Theorie dabei in sich stimmig ist, also keine
+Widersprüche erzeugt, zeigt sich erst im Laufe ihrer Entwicklung. Innerhalb einer
+Theorie werden aus den Axiomen weitere Aussagen hergeleitet, die man Theoreme
+oder Sätze nennt.
+Aus den neu gewonnenen Theoremen und den ursprünglichen Axiomen werden weitere Theoreme bewiesen, über die weitere Theoreme bewiesen werden und so fort.
+Am Ende hat man so eine Vielzahl von Sätzen hergeleitet, die eine mathematische
+Theorie ausmachen. Oft wird der Aufbau einer mathematischen Theorie mit dem
+eines Gebäudes verglichen. Das Fundament bilden die Axiome. Darauf setzen die
+Theoreme auf und die Beweise sind der Mörtel, welcher alles zusammenhält. Am
+
+2
+
+Ende entsteht so ein komplettes mathematisches Gebäude, die mathematische Theorie. Die Aufgabe des Mathematikers ist hier ähnlich der eines Maurers. Er findet
+und setzt Axiome für neue Theorien (Fundament legen) und beweist neue Theoreme
+(neue Steine mit Mörtel auf die Wand mauern). Ziel einer mathematischen Theorie ist es, gewisse abstrakte Strukturen zu beschreiben und Vorhersagen über diese
+Strukturen zu machen. Die natürlichen Zahlen mit ihren Rechengesetzen oder Wahrscheinlichkeitsbetrachtungen sind Beispiele für solche Strukturen. Die Axiome einer
+Theorie legen die betrachtete Struktur fest und die Theoreme sind zusätzliche Eigenschaften der Struktur. Indem Theoreme aus den Axiomen logisch hergeleitet sind, ist
+garantiert, dass die Struktur die Eigenschaften besitzt, welche durch die Theoreme
+beschrieben werden. Dies begründet auch das Vorgehen des Beweisens. Immer, wenn
+man etwas findet, das alle Axiome einer Theorie erfüllt, sind dafür alle Theoreme der
+Theorie anwendbar, ohne dass man dies extra nachprüfen muss.
+Bei der Erforschung einer mathematischen Theorie sieht man oft Muster, die häufig
+oder in „natürlicher Weise“ auftreten. Man gibt ihnen dann Namen, um sie einfach
+und kurz bezeichnen zu können. So werden neue Objekte definiert. Diese Definitionen sind entscheidend dafür, dass man kurz und trotzdem exakt über mathematische Theorien sprechen kann. Wenn wir zum Beispiel wissen, was die natürlichen
+Zahlen sind und wie man sie in Faktoren zerlegen kann, so stoßen wir auf die Struktur der Primzahlen (Zahlen, die sich nur durch Eins und sich selbst teilen lassen).
+Ob und wann eine bestimmte Definition sinnvoll ist, ist durchaus nicht immer leicht
+zu beantworten. In Bezug auf die Primzahlen erwies es sich später als vorteilhaft,
+sie wie folgt zu definieren: „Eine Primzahl ist eine natürliche Zahl, die genau 2 Teiler hat.“ Weil die Eins jetzt keine Primzahl mehr ist, kann z.B. 90 eindeutig (bis auf
+die Reihenfolge) durch das Produkt von vier Primzahlen dargestellt werden. Bei der
+Beschäftigung mit mathematischen Objekten erkennt man oft weitere Muster. Beispielsweise sieht man bei Primzahlen, dass es sehr viele von ihnen gibt. Man gelangt
+so zur Vermutung: Möglicherweise gibt es unendlich viele Primzahlen. Ganz gleich,
+wie offensichtlich eine Vermutung sein kann: Man muss sie nach den strengen Prinzipien der Logik beweisen.
+Oft sind mathematische Theorien durch außermathematische Beobachtungen (Natur, Gesellschaft, Sprache, . . . ) motiviert. So erhält man intuitive Ideen von Strukturen, die man mathematisch beschreiben will. Solche mathematischen Beschreibungen sind (mathematische) Modelle. Welche Axiome man als Grundlage einer Theorie
+(zur Beschreibung eines Modells) wählen sollte, ist keine einfache Frage. Ein Beispiel
+sind die natürlichen Zahlen: Früh begegnet uns die Idee des Zählens und wir vergleichen Mengen, indem wir die Anzahl ihrer Elemente bestimmen. Ebenso ist uns klar,
+wie man Zahlen addieren kann. Die Aufgabe eines Mathematikers besteht nun darin, die Struktur der natürlichen Zahlen durch Axiome zu beschreiben. Dazu werden
+einige einleuchtende Eigenschaften der natürlichen Zahlen festgehalten. Als Mathematiker muss man nun die „richtigen“ Axiome finden, um die Struktur vollständig
+
+3
+
+zu beschreiben. Sie müssen unabhängig voneinander sein und es sollten möglichst
+wenige davon gesetzt werden.
+Sind die Axiome aber erst einmal gesetzt, so existieren sie unabhängig von der „Welt
+um uns herum“ — und alle daraus logisch ableitbaren Schlussfolgerungen, also die
+jeweilige Theorie, ebenso. Anders als formulierte Naturgesetze der Physik oder Chemie können sie nicht durch spätere Experimente widerlegt werden, sondern gelten
+als „unbedingt wahr“. Die Mathematik ist daher keine Natur-, Geistes-, Sozial- oder
+Sprachwissenschaft. Von einigen wird die Mathematik als Strukturwissenschaft betrachtet.
+Ob die Gesetze der Logik universelle Gültigkeit haben, ist eine heikle und durchaus
+philosophische Frage. Wenn die Gesetze der Logik jedoch universelle Gültigkeit haben, dann müsste jede andere Gesellschaft, wenn sie von denselben Axiomen ausgeht,
+dieselbe Mathematik entwickeln wie wir — ganz egal, ob es sich dabei um Menschen
+oder eine außerirdische Intelligenz handeln würde. Einmal bewiesene Aussagen haben innerhalb einer mathematischen Theorie eine ewige Gültigkeit und sind nicht
+mehr widerlegbar. Es können sich aber Axiome einer mathematischen Theorie Axiomen einer anderen mathematischen Theorie widersprechen. Wahrheit gilt daher nur
+in Bezug auf die jeweilige Theorie. So widersprechen sich die ebene euklidische Geometrie und die ebene hyperbolische Geometrie in je einem Axiom.
+Als Grundlage des mathematischen Schlussfolgerns wird heutzutage die Prädikatenlogik verwendet. Ob die formale Logik Bestandteil der Mathematik oder der Philosophie ist, ist zum Teil ein Streitpunkt dieser beiden Wissenschaften. Als axiomatische
+Grundlage verwendet man in der modernen Mathematik die Axiome der Mengenlehre nach Ernst Zermelo und Abraham Adolf Fraenkel (kurz: ZF) und zumeist das
+Auswahlaxiom (ZFC, vom englischen choice). Letzteres Axiom ist nicht völlig unumstritten, da sich damit teilweise kontra-intuitive Ergebnisse erzielen lassen, es andererseits jedoch für viele Bereiche der Mathematik unerlässlich ist.
+
+4
+
+1 Logik und naive Mengenlehre
+In diesem Kapitel beschäftigen wir uns mit den Grundlagen der Mathematik im engeren Sinne: Logik und Mengen. In der modernen Mathematik werden Logik und Mengen axiomatisch
+eingeführt, dies wegen des Schwierigkeitsgrades aber normalerweise nicht im Grundstudium. Wir werden daher auch auf eine axiomatische Einführung verzichten und uns nur naiv
+mit elementarer Logik und Mengenlehre beschäftigen. Wichtige Gegenstände dieses Kapitels
+sind das logische Schließen sowie drei Sorten von Relationen (Ordnungsrelationen, Äquivalenzrelationen und Abbildungen), welche wir hier in dieser Vorlesung und den nachfolgen
+Vorlesungen an vielen Stellen benötigen.
+
+1.1 Einführung
+Logik ist die Lehre des vernünftigen Schlussfolgerns. Zusammen mit der Mengenlehre bilden sie die Sprache der Mathematik, in der mathematische Sätze formuliert und
+Beweise geführt werden. Dabei ist das richtige Schließen aus logischen Ausdrücken
+nicht immer so einfach, wie man zunächst annimmt. Oftmals verführt uns unsere Intuition zu Schlüssen, die sich beim genaueren Hinschauen als falsch herausstellen.
+Der richtige Umgang mit logischen Ausdrücken ist einer der Schlüssel, um Mathematik zu verstehen und zu beherrschen.
+Die Sprache der Logik ist eine Metasprache, die sich von den Umgangssprachen unterscheidet. Umgangssprachen besitzen Mehrdeutigkeiten. Wir betrachten zum Beispiel den Satz:
+„Ich sehe Robert auf dem Dach mit dem Fernglas.“
+Welche Bedeutung hat dieser Satz?
+„Mit dem Fernglas sehe ich Robert, der auf einem Dach ist.“
+„Ich sehe Robert, der auf einem Dach ist und (mein) Fernglas hat.“
+„Ich bin auf dem Dach und sehe Robert durch mein Fernglas.“
+„Ich sehe Robert auf dem Dach, auf dem es ein Fernglas gibt, (und nicht
+auf den anderen Dächern).“
+Solche Mehrdeutigkeiten müssen in den Mathematik und insbesondere in der Logik
+vermieden werden. Sobald sich der Umgangssprache bedient wird, besteht die Gefahr von Mehrdeutigkeiten. Die mathematische Logik genügt der Anforderung der
+
+5
+
+1 Logik und naive Mengenlehre
+Mathematik, dass alle in ihr formulierten Ausdrücke eine klare und scharf definierte
+Bedeutung haben. Mindestens in unklaren Fällen sollte man sich dann der eindeutigen (formalen) logischen Sprache bedienen.
+
+1.1.1 Klassische Logik
+Es wurden bisher mehrere logische Systeme entwickelt. Das für uns hier wichtige
+System ist die „klassische Logik“. Der Begriff klassisch hat hierbei keinen zeitlichen
+Charakter. Die klassische Logik ist alles andere als veraltet und kann vielmehr als
+„Standardlogik“ angesehen werden. Sie definiert sich über folgende zwei Eigenschaften:
+• Prinzip der Zweiwertigkeit: Eine Aussage ist entweder wahr oder falsch.
+• Extensionalitätsprinzip: Der Wahrheitswert jeder zusammengesetzten Aussage ist eindeutig durch die Wahrheitswerte ihrer Teilaussagen bestimmt.
+Was die obigen beiden Prinzipien im Einzelnen bedeuten, werden wir in den nächsten
+Abschnitten genauer erkennen. Trifft eine der beiden Eigenschaften der klassischen
+Logik nicht zu, spricht man von nichtklassischer Logik. Ein Beispiel hierfür ist die
+mehrwertige Logik, bei der das Prinzip der Zweiwertigkeit aufgegeben wird. Wir werden uns aber nur mit klassischer Logik beschäftigen.
+Die klassische Logik umfasst wiederum zwei Teilbereiche:
+• Aussagenlogik: Die Aussagenlogik beschäftigt sich mit Aussagen und der Verknüpfung von Aussagen zu neuen Aussagen.
+• Prädikatenlogik: Die Prädikatenlogik ist eine Erweiterung der Aussagenlogik. Sie ermöglicht die Untersuchung der inneren Struktur einer Aussage.
+In der klassischen zweiwertigen Logik gibt es genau zwei Wahrheitswerte. Diese werden üblicherweise mit „wahr“ und „falsch“ bezeichnet. Abgekürzt werden sie mit w
+und f , in der Informatik mit L und 0 oder auch mit 1 und 0.
+Wir werden den Wahrheitswert „wahr“ durch 1 und den Wahrheitswert „falsch“ durch
+0 abkürzen.
+Ein aus Wörtern oder mathematischen Zeichen aufgebauter Ausdruck, bei dem es
+möglich und sinnvoll ist zu entscheiden, ob dieser Ausdruck (im Rahmen der betrachteten Theorie) den Wahrheitswert 1 oder 0 hat, heißt Aussage (in dieser Theorie).
+Der Wahrheitswert einer Aussage A wird durch | A | bezeichnet.
+
+6
+
+1 Logik und naive Mengenlehre
+
+Bemerkung 1.1.1. 1. Wir haben hier nicht definiert, was alles Aussagen sind. Wir
+haben nur erklärt, was wir mindestens als Aussagen betrachten wollen.
+2. Man beachte, dass die obige Definition von Aussagen nicht ganz sauber ist. So ist
+nicht genau geklärt, was ein sinnvoller Ausdruck ist. Meist genügt hier die menschliche Intuition, jedoch kann damit eine gewisse Subjektivität nicht vermieden werden.
+Für unsere Zwecke reicht aber obige Definition vollkommen.
+3. Man beachte, dass Aussagen keine Wahrheitswerte sind. Auch wenn zwei Aussagen den gleichen Wahrheitswert haben, können sie verschieden sein.
+Aussagen sind damit Ausdrücke, denen man sinnvoll einen Wahrheitswert zuordnen
+kann. Man kann sie also für die Punkte im folgenden Satzfragment einsetzen:
+Ist es wahr, dass . . . gilt?
+Beispiel 1.1.2. 1) „5 ist eine Primzahl.“ (Aussage, wahr)
+2) „3 ist Teiler von 7.“ (Aussage, falsch)
+3) „Daniel ist krank.“ (keine Aussage, da „Daniel“ nicht festgelegt ist.)
+4) „a2 + b2 = c2 “ (keine Aussage, was sind a, b, c?)
+Allgemein sind Fragen und Befehle keine Aussagen, da ihnen nicht sinnvoll ein
+Wahrheitswert zugeordnet werden kann.
+
+1.1.2 Mengenlehre
+Der Begriff der Menge ist eines der wichtigsten und grundlegendsten Konzepte der
+Mathematik. Die originale Definition aus dem Jahre 1895 von Georg Cantor, dem
+Begründer der Mengenlehre, lautet:
+Unter einer ‚Menge‘ verstehen wir jede Zusammenfassung M von bestimmten wohlunterschiedenen Obje[k]ten m uns[e]rer Anschauung oder unseres Denkens (welche
+die ‚Elemente‘ von M genannt werden) zu einem Ganzen.a
+a
+
+Georg Cantor: Beiträge zur Begründung der transfiniten Mengenlehre. In: Mathematische Annalen
+46 (1895), S. 31.
+
+Man könnte zum Beispiel die Zahlen 1, 2 und 3 zu einer Menge zusammenfassen.
+Man könnte sich diese Menge als Behältnis vorstellen, das nur die Zahlen 1, 2 und
+3 enthält. Diese Vorstellung führt aber zu Fehlvorstellungen, da sich das Behältnis
+nicht ändert, wenn wir noch die Zahl 4 hinzufügen. Eine vielleicht bessere Vorstellung der Menge wäre vielleicht als „Inhalt des Behältnisses“. Aber auch dies führt zu
+Fehlvorstellungen.
+
+7
+
+1 Logik und naive Mengenlehre
+Hier stoßen wir letztlich auf ein grundlegendes Problem: Die Cantorsche Definition
+von Mengen führt zu Widersprüchen. Diese Widersprüche können durch eine axiomatischen Begründung der Mengenlehre behoben werden. Eine axiomatische Begründung kann aber wegen ihrer Schwierigkeit nicht in einer Grundvorlesung erfolgen.
+In der modernen Mathematik ist nicht mehr wichtig, was Mengen und Elemente sind,
+sondern was die Elementbeziehung ist und wie durch deren Eigenschaften Mengen
+und Elemente charakterisiert werden.
+Es sei M eine Menge. Dafür, dass m ein Element von M ist, schreiben wir m ∈ M .
+Bemerkung 1.1.3. Das Symbol ∈ ist ein stilisiertes ε als Anfangsbuchstabe von griechisch „ε̇στί“ mit der Bedeutung „ist“. Es wurde erstmals 1889 von Giuseppe Peano in
+der in lateinischer Sprache geschriebenen Arbeit zu den Peano-Axiomen eingesetzt:
+„Signum ∈ significat est. Ita a ∈ b legitur a est quoddam b.“
+In der gängigen Verbalisierung „ist ein Element von“ wurde das Elementzeichen erstmals 1907 von Ernst Zermelo in seiner Arbeit zur Zermelo-Mengenlehre verwendet.
+
+1.2 Logische Junktoren und Mengenoperationen
+In diesem Abschnitt führen wir logische Junktoren ein.
+Ein (logischer) Junktor ∗ ist ein Verbinder von zwei Aussagen A und B zu einer
+Aussage A ∗ B, bei der sich der Wahrheitswert der verbundenen Aussage A ∗ B nur
+aus den Wahrheitswerten der beiden Ausgangsaussagen A und B und der Definition
+von ∗ ergibt.
+Die logische Bedeutung des Junktors wird allein durch die zugehörige (logische)
+Operation für die Wahrheitswerte definiert.
+Es seien A und B zwei Aussagen und ∗ ein Junktor. Der Wahrheitswert der zusammengesetzten Aussage A ∗ B wird definiert aus den Wahrheitswerten der Aussagen
+A und B durch
+| A ∗ B | = | A | ∗ |B | .
+
+Man beachte, dass ∗ links den Junktor (zwischen Aussagen) und rechts die zugehörige Operation (von Wahrheitswerten) bezeichnet.
+Wir definieren also erst, wie man bezüglich der logischen Operation ∗ mit den Wahrheitswerten rechnet und definieren damit den zugehörigen Junktor. Schließlich führen wir jeweils eine korrespondierende Relation oder Operation der Mengenlehre ein.
+
+8
+
+1 Logik und naive Mengenlehre
+
+1.2.1 Bisubjunktion, Äquivalenz und Mengengleichheit
+Definition 1.2.1 (Äquivalenz, Operation). Auf der Menge W = {0, 1} der Wahrheitswerte wird die logische Operation Äquivalenz dem Symbol ⇔ definiert gemäß folgender Tabelle:
+
+p
+
+q
+
+p⇔q
+
+1
+1
+0
+0
+
+1
+0
+1
+0
+
+1
+0
+0
+1
+
+Definition 1.2.2 (Äquivalenz, Junktor). Der logische Junktor Äquivalenz mit dem
+Symbol ⇔ wird dadurch definiert, dass sich für je zwei Aussagen A und B der Wahrheitswert von A ⇔ B nur aus den Wahrheitswerten von A und B durch
+| A ⇔ B| := | A | ⇔ |B|
+
+ergibt.
+
+Bemerkung 1.2.3. Die Äquivalenz mit dem Symbol ⇔ wird auch als Bisubjunktion
+mit dem Symbol ≡ bezeichnet. Logiker unterscheiden zwischen Bisubjunktion (≡) /
+Äquivalenz (⇔) bei Aussagen und Äquivalenz (⇐⇒) bei Aussageformen.
+Bemerkung 1.2.4. Es seien A und B Aussagen. A ⇔ B ist nur dann eine wahre Aussage, wenn A und B den gleichen Wahrheitswert haben.
+Die aus A und B durch Äquivalenz zusammengesetzte Aussage A ⇔ B kann daher
+sprachlich ausgeführt werden als:
+„Es gilt A genau dann, wenn B gilt.“
+Dies begründet auch das etwas die Bezeichnung Äquivalenz und das Symbol ⇔.
+Andere sprachliche Umsetzungen für A ⇔ B sind:
+„ A ist hinreichend und notwendig für B.“
+„ A ist äquivalent zu B.“
+Definition 1.2.5 (Mengengleichheit). Zwei Mengen A und B heißen gleich, wenn sie
+dieselben Elemente haben, also x ∈ A ⇔ x ∈ B für jedes x gilt.
+Beispiel 1.2.6. Es seien A = {1, 2, 3}, B = {1, 2, 3, 4}, C = {4, 1, 3, 2} und D =
+{4, 1, 3, 2, 1}.Es gelten:
+
+9
+
+1 Logik und naive Mengenlehre
+
+A 6= B, da 4 ∈ B, aber 4 6∈ A .
+B = C , da x ∈ B ⇔ x ∈ C .
+B = D , da x ∈ B ⇔ x ∈ D .
+Bemerkung 1.2.7. Die Reihenfolge der Aufführung der Elemente einer Menge ist unwesentlich. Das nochmalige Aufführen eines Elementes ändert die Menge nicht.
+Häufig werden Mengen beschrieben als Teil einer Grundgesamtheit, indem man eine
+Eigenschaft (Prädikat) für die Elemente zur Charakterisierung angibt:
+Die Menge der geraden natürlichen Zahlen kann beschrieben werden durch
+{ x | x ∈ N und 2 ist Teiler von x} .
+
+Definition 1.2.8 (Leere Menge). Die leere Menge ; (oder {}) wird definiert durch
+; := { x | x 6= x} .
+
+1.2.2 Subjunktion, Implikation und Teilmenge
+Definition 1.2.9 (Implikation, Operation). Auf der Menge W = {0, 1} der Wahrheitswerte wird die logische Operation Subjunktion mit dem Symbol v definiert gemäß
+folgender Tabelle:
+
+p
+
+q
+
+pvq
+
+1
+1
+0
+0
+
+1
+0
+1
+0
+
+1
+0
+1
+1
+
+Definition 1.2.10 (Subjunktion, Junktor). Der logische Junktor Subjunktion mit
+dem Symbol v wird dadurch definiert, dass sich für je zwei Aussagen A und B der
+Wahrheitswert von A v B nur aus den Wahrheitswerten von A und B durch
+| A v B| := | A | v |B|
+
+ergibt.
+Definition 1.2.11 (Teilmenge). Eine Menge A heißt Teilmenge einer Menge B, A ⊆
+B, wenn jedes Element von A ein Element von B ist, also x ∈ A v x ∈ B für jedes x gilt.
+Eine Menge A heißt echte Teilmenge einer Menge B, A ⊂ B, wenn A Teilmenge von
+B ist und A und B verschieden sind.
+
+10
+
+1 Logik und naive Mengenlehre
+
+Bemerkung 1.2.12. 1. Man beachte die Ähnlichkeit der korrespondierenden Symbole
+v in der Logik und ⊆ in der Mengenlehre.
+2. Anstelle von ⊆ und ⊂ wird von Anderen auch ⊂ und & verwendet.
+Beispiel 1.2.13. Es seien A = {1, 2, 3}, B = {2, 3, 4, 5} und C = {1, 2, 3, 4, 5}. Es gelten:
+
+A 6⊆ B
+A ⊆ C, A ⊂ C.
+Definition 1.2.14 (Teilmenge). Die Menge aller Teilmengen einer Menge A heißt
+Potenzmenge von A . Sie wird mit P ( A ) oder 2 A bezeichnet.
+Beispiel 1.2.15. Wir betrachten die Menge A = {1, 2, 3}. Es gilt
+2 A = {;, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}} .
+Die Elemente von 2 A haben wir dabei in systematisch von den 0-elementigen bis zu
+den hier 3-elementige Teilmengen eingetragen. Man beachte, dass die Potenzmenge
+der dreielementigen Menge A genau 23 Elemente hat.
+Bemerkung 1.2.16. In der Stochastik werden Wahrscheinlichkeitsräume in der Weise definiert, dass man eine Grundmenge Ω als Raum der Elementarereignisse und
+(gewisse) Teilmengen von Ω als Ereignisse betrachtet und den Ereignissen nach bestimmten Regeln Wahrscheinlichkeitswerte zuordnet. Ein Ereignis tritt ein, wenn ein
+Element des Ereignisses eintritt. Die Ereignisse sind Teilmengen von Ω und damit
+Elemente von 2Ω .
+Bemerkung 1.2.17. Die Subjunktion mit dem Symbol v wird auch als Implikation
+mit dem Symbol ⇒ bezeichnet. Logiker unterscheiden zwischen Subjunktion (v) /
+Implikation (⇒) bei Aussagen und Implikation (=⇒) bei Aussageformen. Als Wertetabelle für die Implikation erhalten wir:
+p q p⇒q
+1
+1
+0
+0
+
+1
+0
+1
+0
+
+1
+0
+1
+1
+
+11
+
+1 Logik und naive Mengenlehre
+
+Bemerkung 1.2.18. Die obige Definition als Implikation ist für viele anfangs kontraintuitiv ist. Es entspricht aber dem alten „ex falso quodlibet“ („aus Falschen [folgt]
+Beliebiges“) und ist Grundlage logischen Schließens. Insbesondere bedeutet dies, das
+trotz korrektem Schließen das Gefolgerte falsch sein kann, wenn man von falschen
+Aussagen ausgeht: Die Voraussetzungen sind immer zu überprüfen.
+Bemerkung 1.2.19. Sprachliche Ausführungen von A ⇒ B sind:
+„Wenn A gilt, dann gilt B.“
+„ A ist hinreichend für B.“
+„B ist notwendig für A .“
+„ A impliziert B.“
+Bemerkung 1.2.20. Man beachte, dass eine Implikation A ⇒ B sich nur auf die Wahrheitswerte von A und B bezieht („Wenn A gilt, dann gilt B.“). Sie stellt keine Kausalität im Sinne von „Wenn A eintritt, dann tritt B ein.“ oder „ A bewirkt B“ dar.
+
+1.2.3 Konjunktion und Mengendurchschnitt
+Definition 1.2.21 (Konjunktion, Operation). Auf der Menge W = {0, 1} der Wahrheitswerte wird die logische Operation Konjunktion mit dem Symbol ∧ definiert gemäß
+folgender Tabelle:
+
+p
+
+q
+
+p∧q
+
+1
+1
+0
+0
+
+1
+0
+1
+0
+
+1
+0
+0
+0
+
+Definition 1.2.22 (Konjunktion, Junktor). Der logische Junktor Konjunktion mit
+dem Symbol ∧ wird dadurch definiert, dass sich für je zwei Aussagen A und B der
+Wahrheitswert von A ∧ B nur aus den Wahrheitswerten von A und B durch
+| A ∧ B | := | A | ∧ | B |
+
+ergibt.
+Bemerkung 1.2.23. „Konjunktion“ kommt vom lat. „coniungere“ für „verbinden“, „vereinigen“.
+
+12
+
+1 Logik und naive Mengenlehre
+
+Bemerkung 1.2.24. Es seien A und B Aussagen. Dann ist A ∧ B nur dann wahr, wenn
+sowohl A als auch B wahr sind. Die aus A und B durch Konjunktion zusammengesetzte Aussage A ∧ B kann daher sprachlich ausgeführt werden als:
+„Es gilt A sowohl auch B.“
+„Es gelten A und B.“
+„ A und B.“
+
+Bemerkung 1.2.25. Man beachte die Unterscheidung zwischen dem sprachlichen
+„und“ als Bindewort zum Beispiel bei Aufzählungen („3 und 7 sind Primzahlen.“)
+und dem sprachlichen „und“ als logischer Junktor („3 ist eine Primzahl und 7 ist eine
+Primzahl.“)
+Beispiel 1.2.26. Es seien A die Aussage „3 ist eine Primzahl“ und B die Aussage
+„3 ist eine ungerade Zahl.“ Dann ist A ∧ B die Aussage „3 ist eine Primzahl und 3
+ist eine ungerade Zahl.“, welche wir sprachlich zu „3 ist eine ungerade Primzahl“
+zusammenfassen können und eine wahre Aussage ist.
+Definition 1.2.27 (Mengendurchschnitt). Für je zwei Mengen A und B wird der
+Durchschnitt A ∩ B der Mengen A und B definiert als diejenige Menge, die nur
+aus den Elementen besteht, die zu A und zu B gehören:
+
+A
+
+A ∩ B := { x | x ∈ A ∧ x ∈ B } .
+
+B
+
+Bemerkung 1.2.28. Man beachte die Ähnlichkeit der korrespondierenden Symbole ∧
+in der Logik und ∩ in der Mengenlehre.
+Beispiel 1.2.29. Es seien A = {1, 2, 3} und B = {2, 3, 4, 5}. Dann gilt A ∩ B = {2, 3}.
+Definition 1.2.30 (Disjunkte Mengen). Zwei Mengen A und B heißen disjunkt,
+wenn ihr Durchschnitt leer ist.
+Bemerkung 1.2.31. Es seien A und B Ereignisse eines Wahrscheinlichkeitsraumes
+mit der Grundmenge Ω. Dann wird durch das Ereignis A ∩ B das gleichzeitige Eintreten von A und B beschrieben, dass also das Ereignis A und das Ereignis B eintreten.
+Wenn die Ereignisse A und B disjunkt sind, sind diese Ereignisse unvereinbar.
+
+13
+
+1 Logik und naive Mengenlehre
+
+1.2.4 Adjunktion und Mengenvereinigung
+Definition 1.2.32 (Adjunktion, Operation). Auf der Menge W = {0, 1} der Wahrheitswerte wird die logische Operation Adjunktion mit dem Symbol ∨ definiert gemäß
+folgender Tabelle:
+
+p
+
+q
+
+p∨q
+
+1
+1
+0
+0
+
+1
+0
+1
+0
+
+1
+1
+1
+0
+
+Definition 1.2.33 (Adjunktion, Junktor). Der logische Junktor Adjunktion mit dem
+Symbol ∨ wird dadurch definiert, dass sich für je zwei Aussagen A und B der Wahrheitswert von A ∨ B nur aus den Wahrheitswerten von A und B durch
+| A ∨ B | := | A | ∨ | B |
+
+ergibt.
+
+Bemerkung 1.2.34. „Adjunktion“ kommt vom lat. „adiungere“ für „anfügen“, „verbinden“.
+Bemerkung 1.2.35. Es seien A und B Aussagen. Dann A ∨ B ist nur dann wahr, wenn
+wenigstens eine der beiden Aussagen A und B wahr sind. Die aus A und B durch Adjunktion zusammengesetzte Aussage A ∨ B kann daher sprachlich ausgeführt werden
+als:
+„Es gelten die Aussagen A oder B (oder beide).“
+„ A oder B.“
+Bemerkung 1.2.36. Man beachte, dass es sich hier bei der Adjunktion um die nichtausschließende Disjunktion (nicht-ausschließendes Oder) handelt im Unterschied
+zur ausschließenden Disjunktion (ausschließendes Entweder-Oder), welche auch
+Kontravalenz genannt wird.
+Beispiel 1.2.37. Es seien A die Aussage „3 ist eine Primzahl“, B die Aussage „3 ist
+eine ungerade Zahl.“ und C die Aussage „3 ist eine gerade Zahl.“
+Dann ist A ∨B die Aussage „3 ist eine Primzahl oder 3 ist eine ungerade Zahl.“, welche
+eine wahre Aussage ist. Weiter ist A ∨ C die Aussage „3 ist eine Primzahl oder 3 ist
+eine gerade Zahl.“, welche ebenfalls eine wahre Aussage ist.
+
+14
+
+1 Logik und naive Mengenlehre
+
+Definition 1.2.38 (Mengenvereinigung). Für je zwei Mengen A und B wird die Vereinigung A ∪ B der Mengen A und B definiert als diejenige Menge, die nur aus den
+Elementen besteht, die zu A oder zu B gehören:
+
+A
+
+A ∪ B := { x | x ∈ A ∨ x ∈ B } .
+
+B
+
+Bemerkung 1.2.39. Man beachte die Ähnlichkeit der korrespondierenden Symbole ∨
+in der Logik und ∪ in der Mengenlehre.
+Beispiel 1.2.40. Es seien A = {1, 2, 3} und B = {2, 3, 4, 5}. Dann gilt A ∪ B = {1, 2, 3, 4, 5}.
+Bemerkung 1.2.41. Es seien A und B Ereignisse eines Wahrscheinlichkeitsraumes
+mit der Grundmenge Ω. Dann wird durch das Ereignis A ∪ B das Eintreten mindestens einer der beiden Ereignisse A und B beschrieben, dass also das Ereignis A oder
+das Ereignis B eintritt.
+
+1.2.5 Negation, Mengendifferenz und Komplement
+Definition 1.2.42 (Negation, Operation). Auf der Menge W = {0, 1} der Wahrheitswerte wird die (einstellige) logische Operation Negation mit dem Symbol ¬ definiert
+gemäß folgender Tabelle:
+
+p
+
+¬p
+
+1
+0
+
+0
+1
+
+Definition 1.2.43 (Negation, Junktor). Der (einstellige) logische Junktor Negation
+mit dem Symbol ¬ wird dadurch definiert, dass sich für jede Aussage A der Wahrheitswert von ¬ A nur aus dem Wahrheitswerten von A durch
+|¬ A | := ¬| A |
+
+ergibt.
+
+Bemerkung 1.2.44. Die aus A durch Negation gebildete Aussage ¬ A kann sprachlich
+ausgeführt werden als:
+„Es gilt die Aussage A nicht.“
+„Nicht A .“
+
+15
+
+1 Logik und naive Mengenlehre
+
+Bemerkung 1.2.45. Die Negationen ¬ p und ¬ A werden auch durch p und A bezeichnet.
+Beispiel 1.2.46. Es sei A die Aussage „3 ist eine Primzahl“.
+Dann ist ¬ A die Aussage „Es gilt nicht: 3 ist eine Primzahl.“ oder sprachlich vereinfacht „3 ist keine Primzahl.“, was eine falsche Aussage ist.
+Definition 1.2.47 (Mengendifferenz). Für je zwei Mengen A und B wird die Differenz A \ B der Mengen A und B definiert als diejenige Menge, die nur aus den
+Elementen besteht, die zu A und nicht zu B gehören:
+
+A
+
+A \ B := { x | x ∈ A ∧ ¬( x ∈ B)} .
+
+B
+
+Definition 1.2.48 (Komplement). Für B ⊆ A heißt die Differenz A \ B heißt auch
+Komplement der Menge B in Bezug auf die (Grund-) Menge A und wird mit Ù A B
+bezeichnet.
+Beispiel 1.2.49. Es seien A = {1, 2, 3} und B = {2, 3, 4, 5}. Dann gilt A \ B = {1} und
+daher Ù A B = {1}.
+Bemerkung 1.2.50. Es sei A ein Ereignis eines Wahrscheinlichkeitsraumes mit der
+Grundmenge Ω. Dann wird durch das Ereignis ÙΩ A , also Ω \ A , das Nichteintreten
+des Ereignisses A , dass also das Ereignis A nicht eintritt, bezeichnet.
+
+1.3 Logische und mengentheoretische Gesetze
+1.3.1 Boolesche Algebra
+Wir betrachten die Menge W = {0, 1} und die logischen Operationen ∧, ∨ und ¬, die
+durch
+∧
+
+0
+
+1
+
+∨
+
+0
+
+1
+
+0
+1
+
+0
+0
+
+0 ,
+1
+
+0
+1
+
+0
+1
+
+1
+1
+
+¬
+
+und
+
+0
+1
+
+1 .
+0
+
+definiert sind.
+Wie man durch Einsetzen aller möglichen Werte für p und q sehen kann, erfüllen die
+Operationen ∧ und ∨
+
+16
+
+1 Logik und naive Mengenlehre
+
+die Kommutativgesetze
+
+p∧q = q∧ p
+
+und
+
+p∨ q = q∨ p,
+
+die Assoziativgesetze
+( p ∧ q) ∧ r = p ∧ ( q ∧ r )
+
+( p ∨ q) ∨ r = p ∨ ( q ∨ r )
+
+und
+
+und die Distributivgesetze
+( p ∧ q) ∨ r = ( p ∨ r ) ∧ ( q ∨ r )
+
+und
+
+( p ∨ q) ∧ r = ( p ∧ r ) ∨ ( q ∧ r ) .
+
+Weiter sind 0 neutrales Element bezüglich ∨ und 1 neutrales Element bezüglich
+∧, da
+
+p∨0 = p
+
+und
+
+p∧1 = p
+
+für alle p ∈ W gilt.
+Die logischen Operationen ∨ und ∧ verhalten sich also bis auf das zuerst aufgeführte Distributivgesetz wie die arithmetischen Operationen + und · in den rationalen
+Zahlen.
+
+1.3.2 Logische Terme
+Ähnlich zur Bildung von Termen in den Schulmathematik wollen wir Terme in der
+Logik betrachten und klären, wann zwei Terme als logisch gleich betrachtet werden.
+Andere Bezeichnungen für „logischer Term“ sind „logischer Ausdruck“.
+Es erweist sich als sinnvoll, Terme schrittweise aufzubauen:
+1. Jede logische Variable ist ein logischer Term.
+2. Jede logische Aussage ist ein logischer Term.
+3. Wenn A und B logische Terme sind, dann sind auch ¬( A ), ( A ) ⇔ (B), ( A ) ⇒ (B),
+( A ) ∧ (B), ( A ) ∨ (B) logische Terme.
+Dabei müssen keine Klammern um A gesetzt werden, wenn A nicht durch eine logische Operation aus zwei Termen zusammengesetzt ist. Ebenso müssen
+keine Klammern um B gesetzt werden, wenn B nicht durch eine logische Operation aus zwei Termen zusammengesetzt ist.
+Beispiel 1.3.1. Es seien X , Y und Z logische Variable. Dann sind die folgenden Ausdrücke logische Terme:
+¬X ,
+
+Y ∧Z,
+
+¬ X ∨ (Y ∧ Z ) ,
+
+¬(Y ∧ Z ) ,
+
+(¬ X ∨ (Y ∧ Z )) ∧ ¬(Y ∧ Z ) .
+
+Im nächsten Schritt kann man sich analog zur Regelung „Punktrechnung von
+Strichrechnung“ überlegen, welche Klammern man weglassen kann, ohne die Eindeutigkeit zu verlieren.
+
+17
+
+1 Logik und naive Mengenlehre
+
+Definition 1.3.2. Zwei logische Terme T1 und T2 heißen (logisch) gleich oder werteverlaufsgleich, T1 = T2 , wenn sie bei allen möglichen Belegungen der auftretenden Variablen durch die Wahrheitswerte 1 und 0 jeweils stets die gleichen Wahrheitswerte haben.
+Definition 1.3.3. Logische Gesetze sind Gleichungen aus jeweils zwei logisch gleichen Termen.
+Logische Gesetze beweist man, indem man die logische Gleichheit der Terme auf
+beiden Seiten der Gleichung beweist. Dies kann durch Betrachtung der zugehörigen
+Wahrheitswertetabellen oder durch Anwendung schon bewiesener logischer Gesetze erfolgen. Je mehr logische Gesetze man kennt, desto leichter kann man logische
+Terme in gleiche, aber einfachere Terme umformen.
+
+1.3.3 Ersetzung der Äquivalenz
+Wir betrachten die logischen Terme X ⇔ Y und ( X ⇒ Y ) ∧ (Y ⇒ X ). Da X und Y
+nur jeweils die Wahrheitswerte 1 und 0 haben können, genügt zum Vergleich der
+beiden Terme eine Tabelle, in deren Zeilen die vier möglichen Kombinationen der
+Wahrheitswerte von X und Y und dann jeweils den zugehörige Wahrheitswert von
+X ⇔ Y und ( X ⇒ Y ) ∧ (Y ⇒ X ) einträgt. Zur Hilfe tragen wir auch X ⇒ Y und Y ⇒ X
+ein:
+X Y
+X ⇔Y
+X ⇒ Y Y ⇒ X ( X ⇒ Y ) ∧ (Y ⇒ X )
+1
+1
+0
+0
+
+1
+0
+1
+0
+
+1
+0
+0
+1
+
+1
+0
+1
+1
+
+1
+1
+0
+1
+
+1
+0
+0
+1
+
+Die Spalten für X ⇔ Y und für ( X ⇒ Y ) ∧ (Y ⇒ X ) haben die gleichen Werte in der
+gleichen Reihenfolge, sind also im wörtlichen Sinne werteverlaufsgleich.
+Es gilt also
+
+X ⇔ Y = ( X ⇒ Y ) ∧ (Y ⇒ X ) .
+Zwischen X ⇔ Y und ( X ⇒ Y ) ∧ (Y ⇒ X ) gibt es also keinen logischen Unterschied.
+Mit anderen Worten: Die Äquivalenz ⇔ kann stets durch Konjunktion ∧ und Implikation ⇒ ersetzt werden.
+Bemerkung 1.3.4. Dieses Gesetz erklärt die Sinnhaftigkeit des Symbols ⇔ als Zusammensetzung von ⇐ und ⇒. Ebenso erklärt es die Bezeichnung Bisubjunktion, da
+jede Bisubjunktion aus zwei Subjunktionen zusammengesetzt ist.
+
+18
+
+1 Logik und naive Mengenlehre
+
+Satz 1.3.5 (Mengengleichheit). Zwei Mengen A und B sind genau dann gleich, wenn
+A ⊆ B und B ⊆ A gelten,
+
+A=B
+
+A ⊆ B∧B ⊆ A.
+
+⇐⇒
+
+Beweis. Es seien A und B zwei Mengen. Dann gilt A = B nach Definition genau dann,
+wenn für jedes x die Aussage x ∈ A ⇔ x ∈ B, also die Aussage ( x ∈ A ⇒ x ∈ B) ∧ ( x ∈ B ⇒
+x ∈ A ) gilt. Dass für jedes x die Aussage ( x ∈ A ⇒ x ∈ B) gilt, bedeutet nach Definition
+A ⊆ B. Dass für jedes x die Aussage ( x ∈ B ⇒ x ∈ A ) gilt, bedeutet nach Definition
+B ⊆ A.
+Satz 1.3.6 (Eindeutigkeit der leeren Menge). Es gibt genau eine leere Menge.
+Beweis. Es seien ;1 und ;2 zwei leere Mengen. Da für jedes x die Aussage x ∈ ;1 ⇒
+x ∈ ;2 gilt, da x ∈ ;1 stets falsch ist, gilt ;1 ⊆ ;2 . Ebenso folgt ;2 ⊆ ;1 und damit
+;1 = ;2 .
+
+1.3.4 Ersetzung der Implikation
+Wir betrachten die logischen Terme X ⇒ Y und ¬ X ∨ Y . Da X und Y nur jeweils die
+Wahrheitswerte 1 und 0 haben können, genügt zum Vergleich der beiden Terme eine
+Tabelle, in deren Zeilen die vier möglichen Kombinationen der Wahrheitswerte von
+X und Y und dann jeweils den zugehörige Wahrheitswert von X ⇒ Y und ¬ X ∨ Y
+einträgt:
+
+X
+
+Y
+
+X ⇒Y
+
+¬X
+
+¬X ∨ Y
+
+1
+1
+0
+0
+
+1
+0
+1
+0
+
+1
+0
+1
+1
+
+0
+0
+1
+1
+
+1
+0
+1
+1
+
+Die Spalten für X ⇒ Y und für ¬ X ∨ Y haben die gleichen Werte in der gleichen
+Reihenfolge, sind also im wörtlichen Sinne werteverlaufsgleich.
+Es gilt also
+
+X ⇒ Y = ¬X ∨ Y .
+Zwischen X ⇒ Y und ¬ X ∨ Y gibt es also keinen logischen Unterschied. Mit anderen
+Worten: Die Implikation ⇒ kann stets durch Negation ¬ und Adjunktion ∨ ersetzt
+werden.
+
+19
+
+1 Logik und naive Mengenlehre
+
+Bemerkung 1.3.7. Dieses Gesetz zeigt nochmals, dass die logische Implikation keine
+Kausalität ist.
+
+1.3.5 Weitere logische Gesetze
+Ebenfalls durch Betrachtung der zugehörigen Wertetabellen zeigt man schnell:
+Kommutativgesetze:
+Assoziativgesetze:
+Distributivgesetze:
+
+X ∧Y = Y ∧ X
+X ∨Y = Y ∨ X
+( X ∧ Y ) ∧ Z = X ∧ (Y ∧ Z )
+( X ∨ Y ) ∨ Z = X ∨ (Y ∨ Z )
+( X ∧ Y ) ∨ Z = ( X ∨ Z ) ∧ (Y ∨ Z )
+( X ∨ Y ) ∧ Z = ( X ∧ Z ) ∨ (Y ∧ Z )
+
+Konjunktion und Adjunktion verhalten sich also formal so wie Multiplikation und
+Addition in den natürlichen Zahlen mit Ausnahme des zweiten Distributivgesetzes.
+
+Doppelte Negation:
+
+¬¬ X = X .
+
+de Morgansche Regeln:
+
+¬( X ∧ Y ) = ¬ X ∨ ¬Y ,
+
+¬( X ∨ Y ) = ¬ X ∧ ¬Y .
+
+1.3.6 Weitere Junktoren
+Man kann sich schnell überlegen, dass es genau (24 = ) 16 verschiedene Junktoren
+zur Verbindung von zwei Aussagen gibt. Davon haben wir vier namentlich kennengelernt.
+˙ („entweder . . . oder . . . “) mit folgender
+Ein weiterer Junktor ist die Kontravalenz ∨
+Wertetabelle:
+˙q
+p q p∨
+1
+1
+0
+0
+
+1
+0
+1
+0
+
+0
+1
+1
+0
+
+˙ q nur unter Verwendung von ∧, ∨ und ¬ zu schreiben, schauen wir uns die
+Um p∨
+˙ q den Wahrheitswert 1 hat. Steht nun in dieser Zeile eine 1 bei
+Zeilen an, bei denen p∨
+
+20
+
+1 Logik und naive Mengenlehre
+
+p, so wird p, andernfalls ¬ p übernommen. Entsprechend wird mit q verfahren. Diese
+beiden Terme werden mit ∧ verbunden. Die Terme der 1-Zeilen werden schließlich
+mit ∨ verbunden.
+Im konkreten Fall erhalten wir p ∧ ¬ q für die zweite und ¬ p ∧ q für die dritte Zeile
+und damit
+˙ q = ( p ∧ ¬ q ) ∨ (¬ p ∧ q ) .
+p∨
+Man kann zeigen, dass man so alle 16 Junktoren auf ∧, ∨ und ¬ zurückführen kann.
+Umgekehrt ist es so auch möglich, aus einer Wertetabelle für mindestens zwei Variable den zugehörigen logischen Term zu finden.
+Beispiel 1.3.8. Gesucht ist der logische Term zu folgender Wertetabelle:
+
+p
+
+q
+
+r
+
+m
+
+1
+1
+1
+1
+0
+0
+0
+0
+
+1
+1
+0
+0
+1
+1
+0
+0
+
+1
+0
+1
+0
+1
+0
+1
+0
+
+1
+1
+0
+0
+1
+0
+1
+0
+
+Wir erhalten
+
+m = ( p ∧ q ∧ r ) ∨ ( p ∧ q ∧ ¬ r ) ∨ (¬ p ∧ q ∧ r ) ∨ (¬ p ∧ ¬ q ∧ r )
+|
+{z
+} |
+{z
+}
+= p∧ q
+
+¬ p∧ r
+
+= ( p ∧ q ) ∨ (¬ p ∧ r ) .
+
+1.3.7 Mengentheoretische Terme
+Ähnlich zur Bildung von logischen Termen wollen wir nun Terme in der Mengenlehre
+betrachten und klären, wann zwei Terme als logisch gleich betrachtet werden. Andere
+Bezeichnungen für „logischer Term“ sind „logischer Ausdruck“.
+Es erweist sich wieder als sinnvoll, Terme schrittweise aufzubauen:
+
+21
+
+1 Logik und naive Mengenlehre
+
+1. Jede mengentheoretische Variable ist ein mengentheoretischer Term.
+2. Jede Menge ist ein mengentheoretischer Term.
+3. Wenn A und B mengentheoretische Terme sind, dann sind auch ( A ) ∩ (B),
+( A ) ∪ (B) und ( A ) \ (B) mengentheoretische Terme.
+Dabei müssen keine Klammern um A gesetzt werden, wenn A nicht durch eine Mengenoperationen aus zwei Termen zusammengesetzt ist. Ebenso müssen
+keine Klammern um B gesetzt werden, wenn B nicht durch eine Mengenoperationen aus zwei Termen zusammengesetzt ist.
+Beispiel 1.3.9. Es seien X , Y , Z und Ω mengentheoretische Variable. Dann sind die
+folgenden Ausdrücke mengentheoretische Terme:
+
+Ω\ X ,
+
+Y ∩Z,
+
+(Ω \ X ) ∪ (Y ∩ Z ) ,
+
+Ω \ (Y ∧ Z ) ,
+
+(Ω \ X ) ∪ (Y ∩ Z ) ∩ (Ω \ (Y ∩ Z )) .
+
+Definition 1.3.10. Zwei mengentheoretische Terme T1 und T2 heißen (mengentheoretisch) gleich oder, T1 = T2 , wenn sie bei allen möglichen Belegungen der
+auftretenden Variablen durch Mengen jeweils stets die gleichen Mengen sind.
+
+1.3.8 Mengentheoretische Gesetze
+Definition 1.3.11. Mengentheoretische Gesetze sind Gleichungen aus jeweils zwei
+mengentheoretisch gleichen Termen.
+Mengentheoretische Gesetze beweist man, indem man die mengentheoretische
+Gleichheit der Terme auf beiden Seiten der Gleichung beweist. Dies kann durch unter
+Anwendung logischer Gesetze oder schon bewiesener mengentheoretischer Gesetze
+erfolgen. Je mehr mengentheoretische Gesetze man kennt, desto leichter kann man
+mengentheoretische Terme in gleiche, aber einfachere Terme umformen.
+Kommutativgesetze:
+Assoziativgesetze:
+Distributivgesetze:
+de Morgansche Regeln:
+
+X ∩Y = Y ∩ X
+X ∪Y = Y ∪ X
+( X ∩ Y ) ∩ Z = X ∩ (Y ∩ Z )
+( X ∪ Y ) ∪ Z = X ∪ (Y ∪ Z )
+( X ∩ Y ) ∪ Z = ( X ∪ Z ) ∩ (Y ∪ Z )
+( X ∪ Y ) ∩ Z = ( X ∩ Z ) ∪ (Y ∩ Z )
+Z \ ( X ∩ Y ) = (Z \ X ) ∪ (Z \ Y )
+Z \ ( X ∪ Y ) = (Z \ X ) ∩ (Z \ Y )
+
+22
+
+1 Logik und naive Mengenlehre
+Beispiel 1.3.12. Wir beweisen, dass Z \ ( X ∩ Y ) = ( Z \ X ) ∪ ( Z \ Y ) für alle Mengen X ,
+Y und Z gilt. Dazu seien X , Y und Z beliebige Mengen. Es gilt
+
+Z \ ( X ∩ Y ) = { x| x ∈ Z ∧ x ∈ X ∩ Y }
+
+(Def. der Differenz)
+
+= { x| x ∈ Z ∧ x ∈ X ∧ x ∈ Y }
+³
+´
+= { x| x ∈ Z ∧ x ∈ X ∨ x ∈ Y }
+³
+´ ³
+´
+= { x| x ∈ Z ∧ x ∈ X ∨ x ∈ Z ∧ x ∈ Y }
+
+(Distr.-gesetz)
+
+= { x | ( x ∈ Z \ X ) ∨ ( x ∈ Z \ Y )}
+
+(Def. der Differenz)
+
+= { x| x ∈ ( Z \ X ) ∪ ( Z \ Y )}
+
+(Def. der Vereinigung)
+
+(Def. des Durchschnitts)
+(log. Regel von de Morgan)
+
+= (Z \ X ) ∪ (Z \ Y ) .
+
+Satz 1.3.13 (Mengenkomplement). Für alle Mengen M und Ω mit M ⊆ Ω gelten
+ÙΩ M ⊆ Ω ,
+
+M ∩ ÙΩ M = ; ,
+
+M ∪ ÙΩ M = Ω .
+
+Beweis. ÜA
+Bemerkung 1.3.14. Dieser Satz erklärt die Bezeichnung Komplement: Wenn M ⊆ Ω
+gilt, dann sind M und ÙΩ M disjunkte Teilmengen von Ω, die sich zu Ω ergänzen. Das
+lat. Wort complementum heißt Ergänzung.
+
+1.3.9 Weitere Mengenoperationen
+Ebenso wie bei den Junktoren kann man sich schnell überlegen, dass es genau (24 = )
+16 verschiedene Mengenoperationen zwischen je zwei Mengen gibt. Davon haben wir
+Durchschnitt, Vereinigung und Differenz (Komplement) namentlich kennengelernt.
+Betrachtet man nur Teilmengen einer Grundmenge Ω, dann können alle diese 16
+Mengenoperationen auf ∩, ∪ und ÙΩ zurückgeführt werden.
+
+1.4 Prädikatenlogik
+1.4.1 Prädikate
+Die in der Mathematik verwendeten Aussagen sind Aussagen über die Eigenschaften der betrachteten Objekte.
+
+23
+
+1 Logik und naive Mengenlehre
+Aus dem Satz „3 ist eine Primzahl“ können wir die Eigenschaft „ist eine Primzahl“
+der Zahl 3 ablesen.
+Aus dem Satz „7 ist Teiler von 343“ können wir die Eigenschaft „ist Teiler von 343“
+der Zahl 7, die Eigenschaft „7 ist Teiler von“ der Zahl 343 oder auch die Eigenschaft
+„ist Teiler von“ der Zahlen 7 und 343 ablesen.
+In der Logik heißen Eigenschaften Prädikate.
+Typische, symbolische Bezeichnung für ein Prädikat ist P . Mit P ( x) wird symbolisch
+das Prädikat angewandt auf x bezeichnet.
+Ein aus Wörtern oder mathematischen Zeichen aufgebauter Ausdruck, der für jede
+Belegung der Variablen mit entsprechenden Objekten der Theorie eine Aussage ist,
+heißt Aussageform (in dieser Theorie).
+Wenn in P ( x) das Objekt x festgelegt ist, dann kann es sich bei P ( x) um eine Aussage handeln. Wenn in P ( x) das Objekt x hingegen noch nicht festgelegt ist, also eine
+Variable ist, dann ist P ( x) nur eine Aussageform, die erst durch Festlegung von x zur
+Aussage werden kann.
+Beispiel 1.4.1. Mit dem Prädikat P =„ist Teiler von 343“ erhalten wir P ( x) als die
+Aussageform „ x ist Teiler von 343“, P (7) als die wahre Aussage „7 ist Teiler von 343“
+und P (3) als die falsche Aussage „3 ist Teiler von 343“.
+
+1.4.2 Existenzquantor
+Es sei A ( x) eine Aussageform, welche die Variable x enthält und durch Belegung von
+x zu einer Aussage wird.
+Wir können aus A ( x) auch die Aussage „Es gibt ein x, für das A ( x) gilt.“ machen.
+Es sei A ( x) eine Aussageform, welche die Variable x enthält und durch Belegung von
+x zu einer Aussage wird. Dann verstehen wir unter
+∃ x : A ( x)
+
+die Aussage „Es existiert ein x, für das A ( x) gilt.“
+Andere Formulierungen sind:
+„Es gibt ein x, für das A ( x) gilt.“
+„Es gibt ein x, für das A ( x) wahr ist.“
+„Es gibt ein x mit A ( x).“
+
+24
+
+1 Logik und naive Mengenlehre
+
+Bemerkung 1.4.2. „Es existiert ein . . . “ bedeutet in der Logik und damit auch in der
+Mathematik immer „Es existiert mindestens ein . . . “.
+Beispiel 1.4.3. Mit dem Prädikat P = „ist Teiler von 343“ können wir die Aussageform P ( x) = „ x ist Teiler von 343“ und zum Beispiel die Aussagen P (3) = „3 ist Teiler
+von 343“ und ∃ x : P ( x) mit der Bedeutung „Es existiert ein x, das Teiler von 343 ist.“
+bilden.
+Beispiel 1.4.4. Mit P ( x) = „ x2 = 1“ können wir die Aussage ∃ x : P ( x) schreiben mit
+der Bedeutung „Es existiert ein x mit x2 = 1“ oder kürzer „Es existiert eine Lösung
+von x2 = 1“. Diese Aussage ist wahr, obwohl die Gleichung x2 = 1 die beiden Lösungen 1 und −1 hat: Die Aussage behauptet die Existenz mindestens einer Lösung der
+Gleichung, was zwei Lösungen nicht widerspricht.
+Wenn wir für x aber nur natürliche Zahlen zulassen wollen, brauchen wir eine
+weitere Eigenschaft, zum Beispiel N = „ist eine natürliche Zahl“. Dann können wir
+∃ x : N ( x) ∧ P ( x) mit der Bedeutung „Es existiert ein x, das eine natürliche Zahl ist
+und für das x2 = 1 gilt.“ verwenden. Mit N als Menge der natürlichen Zahlen können
+wir N ( x) als x ∈ N und damit ∃ x : x ∈ N ∧ P ( x) schreiben. Da das etwas länglich ist,
+verkürzen wir es etwas zu ∃ x ∈ N : P ( x) („Es existiert ein x ∈ N mit P ( x).“)
+Allgemein:
+∃ x ∈ M : P ( x)
+
+ist definiert als ∃ x : x ∈ M ∧ P ( x) .
+
+Bemerkung 1.4.5. Vom Existenzquantor kann man weitere Quantoren ableiten wie
+∃≤n als „Es existieren höchstens n“, ∃≥n als „Es existieren mindestens n“ und ∃=n als
+„Es existieren genau n“.
+Wir erkennen ∃ als ∃≥1 . Andere Bezeichnungen für ∃=1 und ∃≤1 sind ∃! bzw. ∃!!.
+
+1.4.3 Allquantor
+Ein weiterer wichtiger Quantor ist der Allquantor ∀ mit der Bedeutung „Für jedes“.
+Mit P ( x) = „ x ≥ 0" können wir ∀ x : P ( x) oder ∀ x : x2 ≥ 0 bilden. Diese Aussage ist
+falsch, da wir für x auch andere Objekte als nur Zahlen betrachten müssen. Mit R
+als der Menge der reellen Zahlen können wir die Aussage „Für jede reelle Zahl x
+gilt x2 ≥ 0“ betrachten. Das wollen wir ähnlich zum Existenzquantor schreiben als
+∀ x ∈ R : x2 ≥ 0. Um das korrekt zu definieren, müssen wir x ∈ R und x2 ≥ 0 zu einer Aussageform mit der richtigen Bedeutung zusammenführen. Man überlegt sich
+schnell, dass x ∈ R ⇒ x2 ≥ 0 die richtige Bedeutung hat, da ∀ x : x ∈ R ⇒ x2 ≥ 0 die
+Bedeutung „Für jedes x gilt: Wenn x eine reelle Zahl ist, dann gilt x2 ≥ 0.
+
+25
+
+1 Logik und naive Mengenlehre
+Allgemein:
+∀ x ∈ M : P ( x)
+
+ist definiert als ∀ x : x ∈ M ⇒ P ( x) .
+
+1.4.4 Negation von Existenz- und Allquantor
+Die Aussage „Es existiert kein x mit P ( x)“ können wir auch als „Es gilt nicht: Es
+existiert ein x mit P ( x)“ und daher als ∃ x : P ( x) schreiben. Wenn kein x mit P ( x)
+existiert, dann heißt dies, dass P ( x) für jedes x falsch ist, für jedes x also P ( x) gilt.
+Daher gilt
+∃ x : P ( x) = ∀ x : P ( x) .
+
+Mit nochmaliger Negation folgt ∃ x : P ( x) = ∀ x : P ( x) und mit Ersetzung von P ( x) durch
+P ( x) schließlich
+∀ x : P ( x) = ∃ x : P ( x) .
+
+Diese beide Gleichungen müssen wir uns in ihrer formalen Bedeutung merken:
+(Negation bei Quantoren) Die Negation wird gebildet, indem der Quantor durch
+den anderen Quantor ersetzt und die Eigenschaft negiert wird.
+Nun schauen wir uns ∃ x ∈ M : P ( x) an. Durch formales logisches Rechnen unter Verwendung des Gesetzes X ⇒ Y = X ∨ Y finden wir
+∃ x ∈ M : P ( x) = ∃ x : x ∈ M ∧ P ( x)
+= ∀ x : x ∈ M ∧ P ( x)
+= ∀ x : x ∈ M ∨ P ( x)
+= ∀ x : x ∈ M ⇒ P ( x)
+= ∀ x ∈ M : P ( x)
+
+und entsprechend für ∀ x ∈ M : P ( x) (ÜA!). Es gelten also
+∃ x ∈ M : P ( x) = ∀ x ∈ M : P ( x) ,
+
+∀ x ∈ M : P ( x) = ∃ x ∈ M : P ( x) .
+
+Auch hier erhalten wir die Negation, indem wir den Quantor durch den anderen
+Quantor ersetzen und die Eigenschaft negieren, wobei „∈ M “ mit zum Quantor gehört.
+Beispiel 1.4.6. Es sei f : R → R eine Funktion von den reellen Zahlen und die reellen
+Zahlen und es sei x0 ∈ R. Wir betrachten die Aussage:
+
+26
+
+1 Logik und naive Mengenlehre
+
+S = „Für jedes ε größer als 0 existiert ein δ größer als 0 derart, dass für
+jedes x in R gilt: Wenn x einen Abstand kleiner als δ zu x0 hat, dann hat
+f ( x) einen Abstand kleiner als ε zu f ( x0 ).“
+Wenn diese Aussage S wahr ist, heißt f stetig an der Stelle x0 . Wir suchen die Negation von S , um damit die Unstetigkeit von f an der Stelle x0 zu beschreiben.
+Wir können die Aussage S formalisieren als
+∀ε > 0 ∃δ > 0 ∀ x ∈ R : | x − x0 | < δ ⇒ | f ( x) − f ( x0 )| < ε .
+
+Unter Beachtung von p ⇒ q = p ∨ q = p ∧ q = p ∧ q erhalten wir die Negation S von S
+durch formale Negation (Austausch der Quantoren, Negation der Eigenschaft) als
+∃ε > 0 ∀δ > 0 ∃ x ∈ R : | x − x0 | < δ ∧ | f ( x) − f ( x0 )| ≥ ε .
+
+Damit erhalten wir:
+
+S = „Es gibt ein ε größer als 0 derart, dass für jedes δ größer als 0 ein x in
+R derart existiert, dass x einen Abstand kleiner als δ zu x0 hat, aber f ( x)
+einen Abstand größer oder gleich als ε zu f ( x0 ) hat.“
+Vergleicht man S mit S wird klar, dass man S kaum rein sprachlich finden wird.
+
+1.4.5 Freie und gebundene Variable
+In Aussageformen können unterschiedliche Arten an Variablen auftreten. Die Unterscheidung dieser Arten ist wichtig, weil davon abhängt, wie Variablen umbenannt
+und ersetzt werden können.
+Beispiel 1.4.7. Im Ausdruck (∃ x : ( x > y)) ∨ x > 0 wird die Variable x durch ∃ x : . . .
+gebunden. Das Prädikat x > y ist der Bindungsbereich des Existenzquantors. Im Bindungsbereich steht eine weitere Variable y. Die Variable x steht auch außerhalb des
+Bindungsbereiches des Quantors.
+Beispiel 1.4.8. Im Ausdruck ∀ x : ( x ∈ N ∧ x < y) ⇒ x2 < y2 wird die Variable x durch
+∀ x : . . . gebunden. Das Prädikat ( x ∈ N ∧ x < y) ⇒ x2 < y2 ist der Bindungsbereich. Im
+Bindungsbereich steht eine weitere Variable y.
+Beispiel 1.4.9. Im Ausdruck { x| x ∈ N ∧ x > y} ∪ { x| x ∈ N ∧ x < z} wird die Variable x
+durch { x| . . .} gebunden. Das Prädikat x ∈ N ∧ x > y ist der Bindungsbereich. Im Bindungsbereich steht eine weitere Variable y. Die Variable x wird nochmals gebunden.
+
+27
+
+1 Logik und naive Mengenlehre
+
+Definition 1.4.10. Eine Variable in einer Aussageform heißt
+• gebunden, wenn sie durch einen Quantor oder eine Mengenbezeichnung gebunden wird,
+• frei (an dieser Stelle), wenn sie (an dieser Stelle) außerhalb eines Bindungsbereiches dieser Variablen liegt,
+• vollfrei, wenn sie in der Aussageform nirgends gebunden ist.
+Beispiel 1.4.11. So ist in
+(∃ x : ( x > y)) ∨ x > 0
+die Variable x gebunden und damit nicht vollfrei, an der dritten Stelle aber frei, da
+nur ∃ x : ( x > y) der Bindungsbereich ist. Die Variable y ist vollfrei.
+
+1.4.6 Umbenennung von Variablen
+Gebundene Umbenennung: Wenn in einer Aussageform eine gebundene Variable
+an einer Bindungsstelle und an allen Stellen im zugehörigen Bindungsbereich in eine
+in der Aussageform noch nicht vorkommende Variable umbenannt wird, ändert sich
+die Bedeutung der Aussageform nicht.
+
+Bemerkung 1.4.12. Durch geeignete Umbenennung kann erreicht werden, dass jede
+Variable nur entweder als gebundene oder vollfreie Variable verwendet wird.
+Beispiel 1.4.13. Es gilt
+(∃ x : ( x > y)) ∨ x > 0 = (∃ t : ( t > y)) ∨ x > 0 .
+Die zweite Form ist leichter lesbar, da nun auch optisch ein Unterschied zwischen der
+gebundenen Variablen t und der nun vollfreien Variablen x zu sehen ist.
+Beispiel 1.4.14. In { x | x ∈ N ∧ x ≤ y} ist x eine durch die Mengenbezeichnung gebundene Variable. Die Variable y ist vollfrei. Daher kann x umbenannt werden und man
+erhält zum Beispiel
+{ x | x ∈ N ∧ x ≤ y} = { n | n ∈ N ∧ n ≤ y} .
+
+Beispiel 1.4.15. In ∀ε > 0∃ N ∈ N∀ n ∈ M : n ≥ N ⇒ n1 ≤ ε sind ε, N und n gebundene
+Variable und M eine vollfreie Variable. Die Variablen ε, N und n können in diesem
+Ausdruck kann daher umbenannt werden und man erhält zum Beispiel
+1
+1
+∀ε > 0∃ N ∈ N∀ n ∈ M : n ≥ N ⇒ ≤ ε = ∀a > 0∃ b ∈ N∀ c ∈ M : c ≥ b ⇒ ≤ a .
+n
+c
+
+28
+
+1 Logik und naive Mengenlehre
+
+1.5 Logisches Schließen, Mathematische Sätze und
+Beweise
+1.5.1 Schlussregeln
+Im Abschnitt 1.3 haben wir logische Gesetze kennengelernt. Das waren Gleichungen zwischen jeweils zwei logischen Termen, die für alle möglichen Belegungen der
+Variablen stets jeweils den gleichen Wahrheitswert haben.
+Tautologien sind logische Terme, welche unabhängig von den möglichen Belegungen der eingehenden Variablen mit den Wahrheitswerten 1 und 0 stets den Wahrheitswert 1 haben.
+Aus Tautologien kann man Regeln zum logischen Schließen ableiten. Diese Schlussregeln sind schon in der Antike betrachtet worden.
+Die Formel (( X ⇒ Y ) ∧ X ) ⇒ Y ist eine Tautologie in den Variablen X und Y , wie man
+durch Anwendung der logischen Regeln oder einfach durch eine Wertverlaufstabelle
+(Übungsaufgabe!) erkennt. Aus dieser Tautologie erhalten wir:
+Abtrennungsregel (modus ponendo ponens) Es seien A und B zwei Aussagen. Es
+gelte die Implikation A ⇒ B. Es gelte A . Schlussfolgerung: Daher gilt auch B.
+Schema:
+A⇒B
+A
+∴ B
+
+Bemerkung 1.5.1. „modus ponendo ponens“ heißt frei übersetzt „Schlussweise (modus), die durch das Setzen (ponendo) einer Aussage eine andere Aussage setzt (ponens)“.
+Das Symbol ∴ wird zur Betonung des Schlusses als „daher“, „also“ oder „folglich“
+gelesen.
+Die Implikation A ⇒ B gilt auch, wenn A falsch ist. Allein aus der wahren Aussage
+A ⇒ B kann also nicht auf die Wahrheit von B geschlossen werden.
+Beispiel 1.5.2. Wenn Paul an der TU Dresden immatrikuliert ist, dann ist er ein
+Student. Paul ist an der TU Dresden immatrikuliert. Also ist Paul ein Student.
+Die Formel (( X ⇒ Y ) ∧ ¬Y ) ⇒ ¬ X ist ebenfalls eine Tautologie, was man wie oben
+durch eine Wahrheitstafel zeigen kann. Aus dieser Tautologie erhalten wir:
+
+29
+
+1 Logik und naive Mengenlehre
+
+modus tollendo tollens
+Es seien A und B zwei Aussagen. Es gelte die Implikation A ⇒ B. Es gelte B nicht.
+Schlussfolgerung: Daher gilt auch A nicht.
+Schema:
+A⇒B
+¬B
+∴ ¬A
+Bemerkung 1.5.3. „modus tollendo tollens“ heißt frei übersetzt „Schlussweise (modus), die durch das Zurückweisen [Verneinen] (tollendo) [einer Aussage] eine [andere]
+Aussage zurückweist (tollens)“.
+Beispiel 1.5.4. Wenn Paul an der TU Dresden immatrikuliert ist, dann ist er ein
+Student. Paul ist kein Student. Folglich ist Paul nicht an der TU Dresden immatrikuliert.
+Das Schema
+
+∴
+
+A⇒B
+¬A
+¬B
+
+mit der Interpretation „Die Implikation A ⇒ B ist wahr. Die Voraussetzung A ist
+falsch. Also ist die Behauptung B falsch.“ ist hingegen ein häufig anzutreffender
+Fehlschluss. Dies kann man leicht durch eine Werteverlaufstabelle zeigen (ÜA!).
+Beispiel 1.5.5. Wenn Paul an der TU Dresden immatrikuliert ist, dann ist er ein
+Student. Paul ist nicht an der TU Dresden immatrikuliert. Folglich ist Paul kein
+Student.
+Offenbar ist dieser Schluss falsch. Paul kann nämlich auch Student an einer anderen
+Einrichtung sein.
+Aus der Tautologie (( X ⇒ Y ) ∧ (Y ⇒ Z )) ⇒ ( X ⇒ Z ), welche man wie oben durch eine
+Wahrheitstafel, die nun schon 8 Zeilen hat, zeigen kann, erhalten wir:
+Kettenschluss
+Es seien A , B und C Aussagen. Es gelte die Implikation A ⇒ B. Es gelte die Implikation B ⇒ C . Schlussfolgerung: Daher gilt auch die Implikation A ⇒ C .
+Schema:
+A⇒B
+B⇒C
+∴ A⇒C
+
+30
+
+1 Logik und naive Mengenlehre
+Beispiel 1.5.6. Wenn Paul an der TU Dresden immatrikuliert ist, dann ist er ein
+Student. Wenn Paul ein Student ist, dann bekommt er ermäßigten Eintritt im Rundkino. Folglich gilt: Wenn Paul an der TU Dresden immatrikuliert ist, dann bekommt
+er ermäßigten Eintritt im Rundkino.
+Ob Paul ermäßigten Eintritt im Rundkino bekommt (Gültigkeit der Aussage C ), ist
+damit noch nicht geklärt: Für die Abtrennungsregel bräuchten wir noch, dass er tatsächlich an der TU Dresden immatrikuliert ist (Gültigkeit der Aussage A ).
+
+1.5.2 Mathematische Sätze und Beweise
+Definition 1.5.7. Als (mathematischer) Satz werden in der Mathematik mathematische Aussagen bezeichnet, die in der jeweiligen Theorie wahr sind.
+Andere Bezeichnungen für einen mathematischen Satz können je nach Bedeutung
+Hauptsatz, Satz oder Theorem, Folgerung oder Korollar, Hilfssatz oder Lemma
+sein.
+Bemerkung 1.5.8. Definitionen, Bemerkungen, Beispiele, Beweise sind keine mathematischen Sätze.
+Beispiel 1.5.9. Der sprachliche Satz
+„3 ist ein Teiler von 9.“
+ist eine wahre mathematische Aussage, also ein mathematischer Satz.
+Er kann umformuliert werden in die Existenzaussage
+„Es existiert eine ganze Zahl k mit 3 · k = 9.“
+Formal kann dies geschrieben werden als ∃ k ∈ Z : 3 · k = 9 und als ∃ k : k ∈ Z ∧ 3 · k = 9 .
+Beispiel 1.5.10. Der sprachliche Satz
+p
+„ 2 ist keine rationale Zahl.“
+ist eine wahre mathematische Aussage, also ein mathematischer Satz.
+Er kann umformuliert werden in die Allaussage
+„Für alle ganzen Zahlen p und alle positiven ganzen Zahlen q gilt
+2.“
+Formal kann dies geschrieben werden als
+µ ¶2
+p
+∀ p ∈ Z∀ q ∈ Z>0 :
+6= 2
+q
+
+31
+
+³ ´2
+p
+q
+
+6=
+
+1 Logik und naive Mengenlehre
+und als
+µ ¶2
+p
+6= 2 .
+∀ p∀ q : p ∈ Z ∧ q ∈ Z>0 ⇒
+q
+
+Beispiel 1.5.11. Der sprachliche Satz
+„Wenn n eine ganze Zahl ist, dann ist n2 eine ganze Zahl.“
+ist keine mathematische Aussage, da er eine freie Variable n enthält und so nur eine
+Aussageform ist.
+Formal hat der „Satz“ die Form
+
+n ∈ Z =⇒ n2 ∈ Z .
+Bei „Sätzen“ dieser Form wird (wie bei den logischen und mengentheoretischen Gesetzen) stillschweigend vorausgesetzt, dass über alle freien Variablen noch durch den
+Allquantor zu binden sind.
+Obiger „Satz“ sollte also eigentlich lauten:
+„Für alle n gilt: Wenn n eine ganze Zahl ist, dann ist n2 eine ganze Zahl.“
+Formal kann dies geschrieben werden als ∀ n : n ∈ Z ⇒ n2 ∈ Z.
+Bemerkung 1.5.12. 1. Existenz- und Allaussagen scheinen typische Formen mathematischer Sätze zu sein.
+2. Um die logische Struktur eines mathematischen Satzes korrekt zu erkennen, kann
+es hilfreich sein, ihn als Existenz- oder Allaussage zu formulieren.
+3. Allaussage benötigen eine Einschränkung der durch den Allquantor quantifizierten Variablen und haben daher stets die Form ∀ x ∈ M : A ( x) und damit die Form
+∀ x : x ∈ M ⇒ A ( x). Allaussagen bestehen also aus (mindestens) einem Allquantor und
+(mindestens) einer Implikation.
+
+Unter einem Beweis einer mathematischen Aussage versteht man logische Schlussfolgerungen (z. B. Kettenschluss und Abtrennungsregel), mit deren Hilfe ausgehend
+von den Prämissen (Axiomen und schon bewiesenen Aussagen) die Gültigkeit der
+mathematischen Aussage gefolgert wird.
+Bei einem indirekten Beweis oder Widerspruchsbeweis nimmt man an, dass die
+zu zeigende Aussage falsch ist. Dies wird zum Widerspruch geführt, woraus folgt,
+dass die Annahme falsch ist. Da eine Aussage entweder wahr oder falsch (Tertium
+non Datur) ist, muss sie dann wahr sein.
+Bei einem direkten Beweis wird die zu zeigende Aussage direkt gefolgert.
+
+Bemerkung 1.5.13. Wenn möglich, sollte man aber indirekte Beweise vermeiden.
+
+32
+
+1 Logik und naive Mengenlehre
+
+1.5.3 Beweis von Existenzaussagen
+Existenzaussagen haben die Form ∃ x ∈ M : A ( x) oder einfach ∃ x : B( x), wobei die erste
+Form nur ein Spezialfall der zweiten mit B( x) = x ∈ M ∧ A ( x) ist.
+Man beachte, dass bestimmte Aussagen verdeckte Existenzaussagen sind, wie das
+folgende Beispiel zeigt:
+Beispiel 1.5.14. Wir betrachten die Aussage
+„3 ist ein Teiler von 258.“
+Da nach Definition eine ganze Zahl k Teiler einer ganzen Zahl n ist, wenn eine ganze
+Zahl m mit k · m = n existiert, können wir die Aussage schreiben als:
+„Es existiert eine ganze Zahl m mit 3 · m = 258.“
+Mit Z als Menge der ganzen Zahlen können wir dies formalisieren zu
+∃ m ∈ Z : 3 · m = 258 .
+
+Im einfachsten Fall beweist man eine Existenzaussage ∃ x : B( x), indem man ein x
+angibt und nachweist, dass B( x) gilt.
+Beispiel 1.5.15. Wir betrachten die Aussage:
+„Es gibt eine natürliche Zahl mit genau 10 Teilern.“
+Mit N als Menge der natürlichen Zahl und A ( x) = „ x hat 10 Teiler.“ kann die Aussage
+formalisiert werden zu
+∃ x ∈ N : A ( x) .
+
+Der Beweis kann wie folgt geführt werden:
+Die Zahl 29 = 512 ist eine natürliche Zahl. Sie hat nur die 10 Teiler 1, 2, 4,
+8, 16, 32, 64, 128, 256 und 512, weswegen A (512) wahr ist.
+
+Bei konstruktiven Beweisen wird zum Beweis von ∃ x : B( x) ein x mit B( x) konstruiert. Dass heißt, neben der Angabe von x und dem Beweis, dass B( x) gilt, wird x auch
+hergeleitet. Die Herleitung ist logisch nicht erforderlich.
+
+1.5.4 Beweis von Allaussagen
+Einfache Allaussagen haben typischerweise die Form ∀ x ∈ M : A ( x) oder ∀ x ∈
+M : V ( x) ⇒ B( x). Man beachte, dass viele Aussagen verdeckte Allaussagen sind, die
+auch verdeckte Implikationen enthalten können, wie auch die nachfolgenden Beispiele zeigen.
+
+33
+
+1 Logik und naive Mengenlehre
+
+Typische Form des direkten Beweises von ∀ x ∈ M : A ( x):
+Es sei x mit x ∈ M beliebig.
+...
+Daher gilt A ( x).
+Da x mit x ∈ M beliebig war, gilt A ( x) für jedes x ∈ M .
+
+
+
+Typische Form des direkten Beweises von ∀ x ∈ M : V ( x) ⇒ B( x):
+Es sei x mit x ∈ M und V ( x) beliebig.
+...
+Daher gilt B( x).
+Da x mit x ∈ M und V ( x) beliebig war, gilt B( x) für jedes x ∈ M mit V ( x),
+weswegen V ( x) ⇒ B( x) für jedes x ∈ M gilt.
+
+Für indirekte Beweise nutzen wir
+∀ x ∈ M : A ( x) = ∃ x ∈ M : A ( x) ,
+
+∀ x ∈ M : V ( x) ⇒ B( x)) = ∃ x ∈ M : V ( x) ∧ B( X ) .
+
+Typische Form des indirekten Beweises von ∀ x ∈ M : A ( x):
+(Wir führen den Beweis indirekt.) Angenommen, es gibt ein x mit x ∈ M ,
+für das A ( x) nicht gilt.
+...
+Wir erhalten einen Widerspruch zu . . .
+
+
+
+Daher gilt A ( x) für alle x ∈ M .
+Typische Form des indirekten Beweises von ∀ x ∈ M : V ( x) ⇒ B( x):
+
+(Wir führen den Beweis indirekt.) Angenommen, es gibt ein x mit x ∈ M
+und V ( x), für das B( x) nicht gilt.
+...
+Wir erhalten einen Widerspruch zu . . . .
+Daher gilt V ( x) ⇒ B( x) für alle x ∈ M .
+
+
+34
+
+Index
+Extensionalitätsprinzip, 6
+
+A
+Abtrennungsregel, 29
+Adjunktion, logische, 14
+Adjunktion, logischer Junktor, 14
+Allaussage, 31
+Äquivalenz, logische Operation, 9
+Äquivalenz, logischer Junktor, 9
+Assoziativgesetz, 17
+Aussage, 6
+Aussageform, 24
+Aussagenlogik, 6
+Axiom, 2
+
+G
+Gesetz, logisches, 18
+Gesetz, mengentheoretisches, 22
+gleich, logisch, 18
+gleich, mengentheoretisch, 22
+I
+Implikation, logischer Junktor, 11
+J
+Junktor, 8
+Junktor, logischer, 9, 10, 12, 14, 15
+
+B
+Beweis, 32
+Beweis, direkter, 32, 34
+Beweis, indirekter, 32, 34
+Beweis, konstruktiver, 33
+Bisubjunktion, logische, 9
+
+K
+Kettenschluss, 30
+Kommutativgesetz, 17
+Komplement, 16
+Konjunktion, logische Operation, 12
+Konjunktion, logischer Junktor, 12
+Kontravalenz, 14
+Kontravalenz, logische, 20
+
+D
+Definition, 3
+Differenz, 16
+disjunkt, 13
+Disjunktion, ausschließende, 14
+Disjunktion, nicht-ausschließende, 14
+Distributivgesetz, 17
+Durchschnitt, 13
+
+M
+Menge, 7
+Menge, leere, 10
+Mengengleichheit, 19
+Modell, 3
+N
+Negation, logische Operation, 15
+Negation, logischer Junktor, 15
+
+E
+Eigenschaft, logische, 23
+Element, neutrales, 17
+Ereignis, stochastisches, 11
+Existenzaussage, 31
+
+O
+Operation, logische, 8–10, 12, 14, 15
+
+35
+
+Index
+P
+Potenzmenge, 11
+Prädikat, logisches, 24
+Prädikatenlogik, 6
+Prinzip der Zweiwertigkeit, 6
+S
+Satz, mathematischer, 31
+Subjunktion, logische Operation, 10
+Subjunktion, logischer Junktor, 10
+T
+Tautologie, 29
+Teilmenge, 10
+Teilmenge, echte, 10
+Theorie, mathematische, 2
+V
+Variable, freie, 28
+Variable, gebundene, 28
+Variable, vollfreie, 28
+Vereinigung, 15
+W
+werteverlaufsgleich, 18
+Widerspruchsbeweis, 32
+
+36
+
+Inhaltsverzeichnis
+0.1
+
+Vorwort: Was ist Mathematik? . . . . . . . . . . . . . . . . . . . . . . .
+
+1 Logik und naive Mengenlehre
+1.1
+
+1.2
+
+1.3
+
+1.4
+
+1.5
+
+2
+
+5
+
+Einführung . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.1 Klassische Logik . . . . . . . . . . . . . . . . . . . .
+1.1.2 Mengenlehre . . . . . . . . . . . . . . . . . . . . . . .
+Logische Junktoren und Mengenoperationen . . . . . . .
+1.2.1 Bisubjunktion, Äquivalenz und Mengengleichheit
+1.2.2 Subjunktion, Implikation und Teilmenge . . . . . .
+1.2.3 Konjunktion und Mengendurchschnitt . . . . . . .
+1.2.4 Adjunktion und Mengenvereinigung . . . . . . . .
+1.2.5 Negation, Mengendifferenz und Komplement . . .
+Logische und mengentheoretische Gesetze . . . . . . . .
+1.3.1 Boolesche Algebra . . . . . . . . . . . . . . . . . . . .
+1.3.2 Logische Terme . . . . . . . . . . . . . . . . . . . . .
+1.3.3 Ersetzung der Äquivalenz . . . . . . . . . . . . . . .
+1.3.4 Ersetzung der Implikation . . . . . . . . . . . . . .
+1.3.5 Weitere logische Gesetze . . . . . . . . . . . . . . . .
+1.3.6 Weitere Junktoren . . . . . . . . . . . . . . . . . . .
+1.3.7 Mengentheoretische Terme . . . . . . . . . . . . . .
+1.3.8 Mengentheoretische Gesetze . . . . . . . . . . . . .
+1.3.9 Weitere Mengenoperationen . . . . . . . . . . . . .
+Prädikatenlogik . . . . . . . . . . . . . . . . . . . . . . . . .
+1.4.1 Prädikate . . . . . . . . . . . . . . . . . . . . . . . . .
+1.4.2 Existenzquantor . . . . . . . . . . . . . . . . . . . . .
+1.4.3 Allquantor . . . . . . . . . . . . . . . . . . . . . . . .
+1.4.4 Negation von Existenz- und Allquantor . . . . . . .
+1.4.5 Freie und gebundene Variable . . . . . . . . . . . .
+1.4.6 Umbenennung von Variablen . . . . . . . . . . . . .
+Logisches Schließen, Mathematische Sätze und Beweise
+1.5.1 Schlussregeln . . . . . . . . . . . . . . . . . . . . . .
+1.5.2 Mathematische Sätze und Beweise . . . . . . . . .
+1.5.3 Beweis von Existenzaussagen . . . . . . . . . . . .
+1.5.4 Beweis von Allaussagen . . . . . . . . . . . . . . . .
+
+37
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+5
+6
+7
+8
+9
+10
+12
+14
+15
+16
+16
+17
+18
+19
+20
+20
+21
+22
+23
+23
+23
+24
+25
+26
+27
+28
+29
+29
+31
+33
+33
+
+

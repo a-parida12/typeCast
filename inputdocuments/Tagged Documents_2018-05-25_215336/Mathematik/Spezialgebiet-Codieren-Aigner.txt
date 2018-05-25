@@ -1,0 +1,477 @@
+
+Spezialgebiet fόr die mόndliche Matura aus Mathematik, Juni 2004
+
+                                   Thema:
+               "Codieren von Nachrichten - eine Rechenaufgabe"
+
+                                          =
+
+
+
+
+
+
+                                Vorgelegt von
+                     Aigner Philipp,  8b,  PG Liefering
+                      bei Herrn Prof. Peter Lanschόtzer
+
+
+                                    Index
+
+        1. Die Matrix
+        1. Spezielle Arten von Matrizen
+           1.1.1.Die quadratische Matrix
+           1.1.2.Die symmetrische quadratische Matrix
+           1.1.3.Die Diagonalmatrix
+           1.1.4.Die Einheitsmatrix
+           1.1.5.Die Nullmatrix
+        2. Rechnen mit Matrizen
+           1.2.1.Matrizenaddition und Subtraktion
+           1.2.2.Matrix - Multiplikation
+           1.2.3.Matrizen invertieren - Die Inverse Matrix
+
+        2. Kryptographie
+        1. Historische Entwicklung
+        2. Verschiedene Modelle
+           2.2.1.Kanalmodell
+           2.2.2.Symmetrische Systeme
+           2.2.3.Asymmetrische Systeme
+        3. Das RSA - Verfahren
+
+        3. Anwendungsgebiete der Matrix - Codierung
+        1. Codieren einer Nachricht
+        2. Decodieren einer Nachricht
+
+
+
+1.    Die Matrix
+
+Unter einer [pic]-Matrix ( [pic]) όber einem Kφrper [pic]versteht man ein
+Rechteckschema
+                                    [pic]
+Man bezeichnet [pic]als [pic]-ten Zeilen- und [pic]als [pic]-ten
+Spaltenvektor von [pic]. Speziell ist eine [pic]-Matrix ein Spalten- und
+eine [pic]-Matrix ein Zeilenvektor.
+
+Die Gesamtheit aller [pic]-Matrizen wird mit [pic]bezeichnet; [pic]( [pic])
+bezeichnet die reellen (komplexen) Matrizen.
+
+
+
+
+
+
+1.1.  Spezielle Arten von Matrizen:
+
+
+
+
+
+1.1.1.      Die quadratische Matrix:
+Eine Matrix [pic]heiίt quadratisch, falls [pic].
+Die Elemente [pic]einer Matrix [pic]nennt man die Diagonalelemente. Unter
+der Hauptdiagonalen einer quadratischen Matrix versteht man das [pic]-Tupel
+der Diagonalelemente [pic].
+1.1.2.       Die symmetrische quadratische Matrix:
+
+Eine quadratische Matrix heiίt symmetrisch, wenn man sie an dieser
+Hauptdiagonalen spiegeln kann.
+
+
+
+1.1.3.       Die Diagonalmatrix:
+
+Eine quadratische Matrix heiίt Diagonalmatrix , falls alle Elemente auίer
+den Elementen in der Hauptdiagonalen gleich Null sind.
+
+
+
+
+
+
+
+
+
+
+
+
+1.1.4.       Die Einheitsmatrix:
+
+Wenn diese Hauptdiagonalelemente alle gleich 1 sind, so spricht man von
+einer Einheitsmatrix .
+
+
+
+   1. Wenn eine Matrix mit der Einheitsmatrix multipliziert wird, bleibt
+      diese erhalten. Die Einheitsmatrix ist das neutrale Element der
+      Multiplikation von Matrizen, wie auch die 1 das neutrale Element der
+      Multiplikation ist in der Menge der reellen Zahlen.
+|[pic]       |
+
+
+1.1.5.       Die Nullmatrix:
+Die Nullmatrix ist dagegen das neutrale Element der Addition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.2.  Rechnen mit Matrizen
+
+
+
+1.2.1.       Matrizenaddition & Subtraktion
+
+
+
+Die Addition von Matrizen gleicher Grφίe erfolgt Komponentenweise, d.h.
+wenn [pic]und [pic], so ist
+
+                                    [pic]
+Stellen Matrizen Vektoren dar, so stimmt die Addition mit der der Vektoren
+όberein.
+
+Addition und Subtraktion bei Matrizen ist nur fόr Matrizen mit jeweils
+gleicher Zeilen- und Spaltenzahl definiert (z.B. kφnnen mit [pic]nur
+Matrizen mit 3 Zeilen und 4 Spalten addiert oder subtrahiert werden). Man
+muss sozusagen die beiden Matrizen όbereinander legen kφnnen.
+
+
+1.2.2.       Multiplikation:
+
+
+Das Produkt einer [pic]-Matrix [pic]und einer [pic]-Matrix [pic]ist die
+[pic]-Matrix
+                                    [pic]
+
+
+Das Produkt ist nur definiert, wenn die Spaltenanzahl von [pic]gleich der
+Zeilenanzahl von [pic]ist.
+
+Man kann die Definition des Matrizenprodukts so deuten: Das Element
+[pic]der Produktmatrix [pic]ergibt sich als ,,Skalarprodukt`` des [pic]-ten
+Zeilenvektors von [pic]und des [pic]-ten Spaltenvektors von [pic]:
+Vorsicht:
+Matrizen sind in Bezug auf die Matrizenmultiplikation nicht kommutativ!!!
+
+1.2.3.       Die Inverse Matrix:
+
+Als inverse Matrix bezeichnet man jene Matrix, die multipliziert mit der
+eigentlichen Matrix die Einheitsmatrix ergibt. Die inverse Matrix
+bezeichnet man mit A-1
+
+                                    [pic]
+                                    [pic]
+
+Beispiele:
+Die Inverse einer Diagonalmatrix erhδlt man durch Kehrwertbildung der
+Diagonal-Elemente z.B.:
+                                    [pic]
+Fόr Dreiecksmatrizen bleibt die Dreieck-Form bei der Invertierung ebenfalls
+erhalten:
+                                    [pic]
+Im allgemeinen ist die Inverse einer Matrix voll besetzt:
+                                    [pic]
+Die Eintrδge mόssen dann durch Lφsen eines linearen Gleichungssytems
+bestimmt werden.
+
+
+      Kryptographie
+
+
+2.1.  Historische Entwicklung
+
+Die Benutzung einfacher kryptographischer Verfahren ist bereits seit dem
+Altertum όberliefert. Das δlteste bekannte Verschlόsselungsverfahren ist
+die Skytala, die bereits um ca. 400 v. Chr. von den Griechen verwendet
+wurde. Dabei wird ein Papyrusstreifen spiralfφrmig um einen Stab festen
+Durchmessers gewickelt und in Stab-Lδngsrichtung zeilenweise ein Text
+darauf geschrieben. Nach dem Abrollen des Streifens ist der Text dann nicht
+mehr ohne weiteres lesbar. Um den Originaltext wieder erkennbar zu machen,
+muss der Streifen erneut um einen Stab des gleichen Durchmessers gewickelt
+werden. Der Stabdurchmesser stellt hier also den zur Entschlόsselung
+notwendigen geheimen Schlόssel dar.
+|                                         |
+|Abbildung 1: Beispiel zur Anwendung der  |
+|Skytala                                  |
+
+
+Das Beispiel in Abbildung 1 skizziert (auf die Ebene abgebildet) einen
+solchen aufgewickelten Streifen, der mit drei Zeilen beschriftet ist. Nach
+dem Abwickeln ist auf diesem Streifen dann nur noch die Zeichenfolge
+                 DEMI EES STBEROSET NSIGCS HTGA EFEHTIE NIX
+zu erkennen. Der Aufwand zum Brechen dieser Verschlόsselung beschrδnkt sich
+allerdings auf das Herausfinden des richtigen Stabdurchmessers, womit nur
+eine geringe Sicherheit geboten wird.
+Ein weiteres einfaches Verschlόsselungsverfahren geht auf den rφmischen
+Kaiser Cδsar zurόck. Diese nach ihm benannte Cδsar-Chiffre verschlόsselt
+einen Text, indem sie jeden Buchstaben durch den Buchstaben ersetzt, der im
+Alphabet drei Positionen weiter hinten steht. Damit wird z. B. der Text
+                        "DIESE NACHRICHT IST GEHEIM"
+durch die Zeichenfolge
+                        "GLHVH QDFKULFKW LVW JHKHLP"
+ersetzt.
+Die klassische Anwendung von Kryptographie liegt vor allem im militδrischen
+und nachrichtendienstlichen Bereich sowie beim Einsatz durch Diplomaten, wo
+es gilt, Nachrichten sicher durch feindliches Gebiet zu bringen: Gegner
+sollen daran gehindert werden, abgefangene Nachrichten zu lesen und daraus
+militδrische oder politische Vorteile zu ziehen. Dies ist auch heute noch
+einer der Hauptanwendungsbereiche von Kryptographie.
+
+
+2.2.  Verschiedene Modelle
+
+2.2.1.      Kanalmodell
+
+Eine allgemeine Mφglichkeit, den Ansatzpunkt kryptographischer
+Schutzverfahren im Kommunikationsablauf zu illustrieren, ist das
+Kanalmodell. In seiner Grundform ohne Schutzmaίnahmen ist dieses Modell in
+Abbildung 2 dargestellt.
+|                              |
+|Abbildung 2: Allgemeines      |
+|Kanalmodell                   |
+
+
+Der Weg, auf dem eine Nachricht vom Sender zum Empfδnger gelangt, wird als
+Kanal bezeichnet. Um die universelle Verwendung des Modells zu ermφglichen,
+kann es sich bei dem Kanal neben einem άbertragungsmedium zur άberwindung
+einer rδumlichen Distanz auch um ein Speichermedium handeln, auf dem die
+Nachricht quasi zur άberbrόckung einer zeitlichen Distanz abgelegt wird. In
+diesem Fall ist es auch zulδssig, dass der "Empfδnger" mit dem "Sender"
+identisch ist. Somit lδsst sich dieses Modell sowohl auf die
+Nachrichtenόbermittlung als auch auf die Speicherung von Daten anwenden.
+Der Kanal ist der Ort, an dem die Nachricht potentiell durch δuίere
+Einflόsse gefδhrdet ist. Solche Einflόsse kφnnen zum einen technische
+Stφrungen der άbertragung sein. Die Erkennung und Korrektur solcher
+zufδlligen Stφrungen erfordert allerdings keinen Einsatz von Kryptographie,
+sondern fδllt in den Bereich von Codierungstheorie und Signalverarbeitung
+und wird im folgenden nicht weiter betrachtet.
+Hier soll es vielmehr um die Gefδhrdung der Nachricht durch gezielte
+Angriffe gehen. Solange die Nachricht nicht besonders geschόtzt ist, hat
+ein Angreifer mit physikalischem Zugang zum Kanal freien Zugriff auf die
+Nachricht. Er kann also den Inhalt der Nachricht lesen und unter Umstδnden
+auch beliebig modifizieren, ohne dass dies fόr den Empfδnger erkennbar
+wδre.
+|                                                    |
+|Abbildung 3: Der kryptographische Kanal             |
+
+Dagegen kann eine Nachricht kryptographisch geschόtzt werden. Zum Schutz
+vor unbefugtem Mitlesen wird die Nachricht vom Sender unter Verwendung
+eines Schlόssels chiffriert und passiert den Kanal somit nur in
+verschlόsselter Form. Nur der berechtigte Empfδnger kann die Nachricht
+unter Verwendung des richtigen Schlόssels wieder entschlόsseln und so auf
+ihren Inhalt zugreifen. Einem Gegner mit Zugriff auf den Kanal erschlieίt
+sich die Bedeutung der Nachricht dagegen nicht. Dieser kryptographisch
+geschόtzte Kanal ist in Abbildung 3 dargestellt. In δhnlicher Weise kφnnen
+auch unbefugte Manipulationen an der Nachricht durch Einsatz
+krytographischer Mittel fόr den Empfδnger erkennbar gemacht werden.
+
+
+
+2.2.2.Symmetrische Kryptosysteme
+
+Ein symmetrisches Kryptosystem zeichnet sich dadurch aus, dass der
+Chiffrierschlόssel K und der Dechiffrierschlόssel K' gleich sind oder
+zumindest in einem so einfachen Zusammenhang stehen, dass sich K' ohne
+nennenswerten Aufwand aus K herleiten lδsst. Der Besitz beider Schlόssel
+ist also δquivalent, weshalb die folgenden Betrachtungen von nur einem
+Schlόssel ausgehen.
+Dadurch, daί fόr die Verschlόsselung der gleiche Schlόssel wie bei der
+Entschlόsselung zum Einsatz kommt, ist es unbedingt erforderlich, daί
+dieser Schlόssel geheim bleibt. Das heiίt, nur Sender und Empfδnger dόrfen
+im Besitz dieses Schlόssels sein. Daraus folgt, daί fόr jede einzelne
+Kommunikationsbeziehung ein eigener geheimer Schlόssel existieren muί.
+Dieser Schlόssel muί vorab όber einen sicheren Kanal zwischen den
+Beteiligten vereinbart werden (siehe Abbildung 4).
+|[pic]                                                  |
+|Abbildung 4: Symmetrisches Kryptosystem                |
+
+
+Fόr ein einzelnes Sender-Empfδnger-Paar ist ein solcher Schlόsselaustausch
+noch machbar, wenn die Beteiligten einander bekannt sind. Sollen jedoch
+beliebige Paare sicher Nachrichten austauschen kφnnen, so steigt die Anzahl
+der benφtigten geheimen Schlόssel exponentiell mit der Anzahl der
+Beteiligten an und deren sichere Verteilung wird schnell unpraktikabel.
+Dazu kommt, daί ein sicherer Kanal fόr den Schlόsselaustausch nicht immer
+ohne weiteres gegeben ist, insbesondere, wenn die Kommunikationspartner
+einander vorher nicht bekannt sind.
+Einer der bekanntesten Vertreter symmetrischer Kryptosysteme ist der 1977
+verabschiedete Data Encryption Standard (DES). Das darin verwendete
+Verfahren an sich ist zwar bisher nicht gebrochen worden, bietet aber einen
+fόr heutige Maίstδbe zu kleinen Schlόsselraum: Wer όber die entsprechenden
+Mittel verfόgt, kann eine DES-Verschlόsselung in kurzer Zeit durch
+Ausprobieren aller mφglichen Schlόssel brechen. Dennoch ist DES noch immer
+weit verbreitet.
+
+2.2.3.Asymmetrische Kryptosysteme
+Bei einem asymmetrischen Kryptosystem sind die verwendeten Algorithmen so
+gewδhlt, daί zwischen dem Chiffrierschlόssel K und dem Dechiffrierschlόssel
+K' kein "einfacher" Zusammenhang besteht. Das heiίt, es ist ohne
+zusδtzliches Wissen nicht mφglich, aus K direkt auf K' zu schlieίen.
+Vielmehr ist der Aufwand, bei Kenntnis von K den zugehφrigen Schlόssel K'
+zu finden, so hoch, dass ein Angriff auf diesem Weg nicht praktikabel ist.
+Es wird also nicht mit einem einzelnen Schlόssel, sondern immer mit einem
+geeignet gewδhlten Schlόsselpaar (K,K') gearbeitet.
+Diese Eigenschaft asymmetrischer Kryptosysteme kann dahingehend genutzt
+werden, dass der Erzeuger eines Schlόsselpaares den Dechiffrierschlόssel
+als geheimen Schlόssel (private key) fόr sich behδlt, wδhrend er den
+Chiffrierschlόssel als φffentlichen Schlόssel (public key) bekannt gibt.
+Daher werden solche Systeme auch als Public-Key-Systeme bezeichnet. Damit
+ist jeder in der Lage, unter Verwendung des φffentlichen Schlόssels eine
+Nachricht zu chiffrieren, die dann nur von dem Besitzer des geheimen
+Schlόssel dechiffriert werden kann. So ermφglicht der Erzeuger des
+Schlόsselpaares durch die Verbreitung des φffentlichen Schlόssels allen
+Interessierten, ihm ohne vorherigen Austausch geheimer Schlόssel
+vertrauliche Nachrichten verschlόsselt zukommen zu lassen (siehe Abbildung
+5).
+|[pic]                                                |
+|Abbildung 5: Asymmetrisches Kryptosystem             |
+
+Damit ist bei einem asymmetrischen Kryptosystem das Problem der
+Schlόsselverteilung gegenόber einem symmetrischen System deutlich
+vereinfacht, da es nicht mehr erforderlich ist, zwischen allen Teilnehmern
+geheime Schlόssel auf sicheren Kanδlen auszutauschen. Stattdessen kann die
+Schlόsselverteilung dadurch erfolgen, dass jeder Beteiligte seinen
+φffentlichen Schlόssel φffentlich bekannt gibt. Allerdings stellt sich
+durch die freie Verteilung der Schlόssel das neue Problem, dass Verfahren
+zur Sicherstellung der Authentizitδt der so erhaltenen Schlόssel benφtigt
+werden.
+
+2.3.  Das RSA-Verfahren
+
+Eines der bekanntesten Public-Key-Verfahren ist der nach seinen Erfindern
+Rivest, Shamir und Adleman benannte RSA-Algorithmus, der in vielen Krypto-
+Produkten zum Einsatz kommt. Seine Sicherheit beruht darauf, dass bisher
+kein Verfahren bekannt ist, um innerhalb vertretbarer Zeit die
+Primfaktorenzerlegung einer sehr groίen Zahl zu finden.
+
+Neben allen anderen asymmetrischen Verfahren ist RSA das einfachste -
+sowohl vom Verstδndnis als auch fόr die Implementierung in Soft- oder
+Hardware. Dadurch, dass es das bekannteste und δlteste asymmetrische
+Verfahren ist, und jahrelanger Kryptoanalyse standgehalten hat, kann man
+davon ausgehen, dass es sicher ist - obwohl in all den Jahren nie ein
+mathematischer Beweis fόr die Sicherheit (oder Unsicherheit) erbracht
+wurde.
+
+Fόr die Berechnung von f(n) ist die Faktorisierung von n notwendig ist.
+Dies ist ein wichtiger Punkt bezόglich der Sicherheit des RSA-Verfahrens.
+
+
+
+
+   2. Anwendungsgebiete der Matrix - Codierung
+
+3.1.  Codieren einer Nachricht
+
+Der Text "BALD VORBEI." Soll mit der Codiermatrix A [pic] verschlόsselt
+werden.
+Um eine Nachricht zu codieren, mόssen wir die Buchstaben bestimmten Zahlen
+zuordnen.
+Wir verwenden dafόr folgende Buchstabennummerierung:
+
+
+Leerstelle  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U
+V  W  X  Y  Z   .  ,
+
+           0            1    2    3    4     5    6   7     8    9 10  11
+12  13   14   15   16  17  18  19  20  21  22   23   24   25  26  27  28
+
+=> B = 2    ,     A = 1   ,  L = 12    ,    .......usw.
+
+
+Daraus ergibt sich folgende Zahlenreihe:  2  1  12  4  0  22  15  18  2  5
+9  27
+
+
+Um den Text zu verschlόsseln arbeiten wir mit Zahlenpaaren. Wir verwenden
+die jeweils aufeinanderfolgenden Zahlen:  =>  2  1,  12  4,  ......usw.
+
+In Form einer Matrix:  [pic]........usw.
+
+Jede dieser Matrizen multiplizieren wir mit der Codiermatrix A:
+
+=> [pic] = [pic]
+
+Wir kφnnen diese Rechnung auch als lineares Gleichungssystem anschreiben:
+
+     I) -2[pic]2 + -1[pic]1 = x'
+    II) 1[pic]2  +  1[pic]1 = y'
+
+2 Gleichungen, 2 Variable  ..... Das Gleichungssystem ist eindeutig lφsbar!
+
+    > x'= -5
+    > y'= 3
+
+Da wir nur 29 Zeichen zur Verfόgung haben, nehmen wir die Ergebnisse Modulo
+29.
+d.h. nur Zahlen zwischen 0 und 28 sind zulδssig.
+
+
+
+Als plausibelste Erklδrung erscheint uns hier die Uhrzeit:
+
+Nach 12 kommt wieder 1
+άbertragen auf unser Modell bedeutet das, nach 28 kommt
+Wieder 0
+
+    > die Ergebnisse Modulo 29 => x'= 24  => X
+                              y'= 3    => C
+
+Wenn wir dieses Verfahren bei allen Zahlenpaaren anwenden erhalten wir den
+codierten Text "XCAPGVJDTGMG" bzw. die codierte Zahlenfolge "24  3  1  16
+7  22  10  4  20  7  13  7"
+
+
+
+3.2.  Decodieren von Nachrichten
+
+
+Wir wollen nun den verschlόsselten Text wieder decodieren.
+Um eine Decodierung durchfόhren zu kφnnen darf die Determinante der
+Codiermatrix
+A [pic]  nicht 0 sein.
+Die Determinante ergibt sich aus dem Produkt der Elemente der
+Hauptdiagonale weniger ( - ) dem Produkt der Elemente der Nebendiagonale.
+
+Aus dem TI-83 Plus erhalten wir die Determinante -1
+    > die Matrix A ist regulδr, eine Decodierung ist mφglich
+
+A-1 ( die Inverse Matrix ) beziehen wir aus dem TI-83 Plus
+
+      =>    A-1 [pic]
+um eine zulδssige Matrix zu erhalten mόssen wir den Invers Modulo 29
+nehmen.
+
+      =>    A-1 [pic]
+um wieder auf den Originaltext zu kommen mόssen wir nun die codierten
+Zahlenpaare mit der Matrix A-1 multiplizieren.
+
+Zur Erinnerung noch einmal die codierte Zahlenfolge: "24  3  1  16  7  22
+10  4  20  7  13  7"
+
+Wir multiplizieren wieder jedes einzelne Zahlenpaar mit der Inversen Matrix
+von A:
+
+[pic] = [pic]
+
+Diese Rechnung kφnnen wir als lineares Gleichungssystem anschreiben:
+    > I)    28 [pic]24 + 28 [pic]3 = x
+    > II)   01 [pic]24 + 02 [pic]3 = y
+
+    > x = 756 mod 29  => 2  => B
+
+    > y = 30 mod 29    => 1  => A
+Wenn wir  dieses  Verfahren  weiter  anwenden  kommen  wir  wieder  auf  den
+Originaltext "BALD VORBEI."
+-----------------------
+=
+
+

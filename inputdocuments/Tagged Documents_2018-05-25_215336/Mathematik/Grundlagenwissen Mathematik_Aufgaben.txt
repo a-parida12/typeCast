@@ -1,0 +1,951 @@
+Übungsheft Mathematik
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+Seite:
+
+Grundlagenwissen Mathematik
+Übergang in die Oberstufe
+
+Inhaltsverzeichnis:
+1. Rechnen mit Zahlen
+2. Rechnen mit Termen
+3. Gleichungen
+4. Geraden
+5. Parabeln (Nur falls als Wahlthema bereits behandelt)
+6. Textverständnis
+7. Herausforderungen (optional)
+
+1
+
+Übungsheft Mathematik
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+Seite:
+
+1. Rechnen mit Zahlen
+Aufgabe 1.1
+Berechnen Sie:
+a)
+
++0
+
+d)
+
+b) 0 ∙ (−8)
+
+c) 4: 0
+
+e) −
+
+f) (4 − 2) ∙ 0
+
+g) 12 − (3 ∙ 4 − 2 ∙ 6)
+
+h) 4: (−9 + 3 ∙ 3)
+
+i) 4 + (5 − 5)(3 − 4)
+
+j) (1 − 3)(6 − 2 ∙ 3)(−5 + 4)
+
+k) (
+
++1
+
+)
+
+l) (
+
+(
+
+))
+
+Aufgabe 1.2
+Berechnen Sie ohne Verwendung des Taschenrechners:
+a) −1
+
+b) (−1)
+
+c) −1 + 2 · (−1) − 2
+
+d) −1
+
+e) (−1)
+
+f) (−1) – (−1)
+
+g ) 3 · (−1) – 2 · (−1)
+
+h)
+
+( 2 − 3)(2 + 5)
+
+i) − (2 + 3)
+
+j) 2 · (2 − 2 · 0) + 4 · 0 − 4
+
+Aufgabe 1.3
+Berechnen Sie mit Verwendung des Taschenrechners, wobei Sie die Ergebnisse
+gegebenenfalls auf Hundertstel runden.
+a) 3(19,031+18,97)
+,
+
+d)
+
+g)
+
+∙
+
+1,5 + 18,74
+
+c) 18 ± √90 + 54
+
+e) (0,92 ∙ 0.9 + 0.07)
+,
+
+,
+
+b)
+
+h) 10 −
+
+∙(
+
+)
+∙
+
+f)
+
+∙ ,
+
+2
+
+Übungsheft Mathematik
+
+Seite:
+
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+Aufgabe 1.4
+Berechnen Sie ohne Verwendung des Taschenrechners:
+a) 5 
+
+1 15
+
+3 4
+
+ 5
+ 1
+ 1 
+ 12  2
+
+1
+6
+
+b) 8  
+
+c) 3  9
+
+10 5
+e) 5 : 
+3 6
+
+ 3
+ 1
+f)    5  
+ 2
+ 4
+
+1
+2
+4
+g) 6 
+12
+1
+8
+
+2
+48
+ 14 
+12
+h) 7
+2
+
+3
+  2 1
+i)   1    
+4
+ 3 2
+
+1 6
+ 3
+4
+5
+j)
+2
+1
+5
+
+d)
+
+1
+28
+13
+9
+0
+6
+13
+9
+
+5 3 
+k)   
+ 6 12 
+
+2
+
+3
+
+Übungsheft Mathematik
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+Seite:
+
+2. Rechnen mit Termen
+Aufgabe 2.1
+Ergänzen Sie nachstehende Gleichungen zu allgemeingültigen Gleichungen für a
+und b !
+a. (∆ + ∇) = 4 ² + ___ + ²
+b. (∆ − ∇) = ² − ___ + 16 ²
+c. (3 − ∆) = __ + 12 + ___
+d. (∆ + 5 ) = ___ + 60 + ___
+Aufgabe 2.2
+Multiplizieren Sie aus und vereinfachen Sie:
+a)
+
+( − 3) + 5
+
+b) − ( + 3) − 18
+c) − ( − 4) − 4
+d)
+
+1
+(x  2)(x  3)
+2
+
+e)
+
+1
+
+ x   x    (2x  1)
+2
+
+
+f)
+
+( + 1)( − 2)
+
+Aufgabe 2.3
+Setzen Sie in den Term für x die angegebene Zahl ein und berechnen Sie a:
+a) x – a = 5
+
+x=0
+
+d)
+
+ 5  a(x  3)
+
+x  2
+
+b) a – 5x = 1
+
+x=0
+
+e)
+
+ 5  a(x  3)
+
+x  3
+
+f)
+
+x − 5ax + 2a = 0
+
+x  1
+
+c) 3x − 4ax − a = 5
+
+x=0
+
+4
+
+Übungsheft Mathematik
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+Seite:
+
+Aufgabe 2.4
+Setzen Sie in die folgenden drei Terme
+T1:
+
+x2
+
+T2:
+
+ x 2  2x
+
+T3:
+
+x3  2x  1
+
+für x jeweils den Term
+a) x+2
+
+b) 1x
+
+c) x
+
+e) x2
+
+d) 2x
+
+ein
+
+und vereinfachen Sie soweit möglich.
+f) Subtrahieren Sie die Terme T1, T2 bzw. T3 paarweise voneinander.
+Schöpfen Sie dabei alle Kombinationsmöglichkeiten aus.
+
+Aufgabe 2.5
+Berechnen Sie den Wert von a ohne Verwendung des Taschenrechners :
+6
+a) a 
+3
+2
+
+4
+a 3
+6
+
+
+b)
+
+c)
+
+a4
+
+2
+11
+6
+3
+6
+
+d)
+
+=
+
+Kontrollieren Sie Ihre Ergebnisse jetzt mit dem Taschenrechner !
+
+Aufgabe 2.6
+Im Alltag werden Brüche meist als Dezimalbrüche, wie z.B.: 2,4 angeben.
+2,4 lässt sich jedoch problemlos wieder in eine gewöhnliche Bruchzahl umwandeln,
+wie die folgende Rechnung zeigt: 2, 4 
+
+24 12
+
+10 5
+
+Schreibe die Ergebnisse folgender Terme als eine Bruchzahl:
+2
+a) 6,5 :
+3
+
+3
+b)  : 0,3
+5
+
+c)
+
+1
+2
+3
+0,45 
+
+1
+20
+
+5
+
+Übungsheft Mathematik
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+Seite:
+
+3. Gleichungen
+Aufgabe 3.1
+a) 2(3x – 4) = 5x
+b) 3(x – 5) = 15
+c) x – 2(x – 1) = 3x – (20 – 5x)
+d) 4(x – 1) = 16
+e) 4(3 – 2x) = - 5x
+f) 2x – 1 + 6(2x + 1) = 16x – (2x – 7)
+g) (x + 2)2 – (x – 4)2 = 2(x – 4) + 9x
+h) (3x – 2)2  3(x – 1)2 = (3x + 2)(3 – 2x)
+i) (x + 4)2 – (x – 3)(x + 3) = 3(x – 10)
+
+Aufgabe 3.2
+
+a) (x  4)(3x  7)  (x  2)(3x + 8)
+b) 2(x 4) + x2  4  (x + 2)(3  x)
+c) (3x + 5)2  (4x+1)2  (2x  3)2 3(x + 1)(x  1)
+
+Aufgabe 3.3
+Quadratische Gleichungen lösen wir am WG mit drei verschiedenen Methoden
+A: Wurzelziehen bei reinquadratischen Gleichungen
+B: Satz vom Nullprodukt
+C: „Mitternachtsformel“
+
+/
+
+=
+
+±√
+
+Lösen Sie jeweils mit der optimalen Methode:
+
+6
+
+Übungsheft Mathematik
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+a) x2 +x +2  0
+
+b) 4x2  24x  36
+
+c) 3x2  12x  0
+
+d) 5x2 = 10
+
+e) 12  (x + 6)2 =2x
+
+f)
+
+g) 0,25x2  0,2x  0
+
+h) 2(x  1)(x + 3)  0
+
+i) (x + 3)2 = 1
+
+j)
+
+−
+
+−
+
+= 0 k) √2
+
+− 3 + √2 = 0 l)
+
+−
+
+√
+
+Seite:
+
++ =0
+
+− 3 + 2√3 = 0
+
+Aufgabe 3.4
+Lösen Sie die folgenden Gleichungen jeweils nach der angegebenen Variablen
+auf:
+a)
+
+V
+
+1
+  r2  h
+3
+
+nach r
+
+b)
+
+A
+
+ac
+h
+2
+
+nach c
+
+c)
+
+u  2(a  b)
+
+nach b
+
+d)
+
+A
+
+a2
+ 3
+4
+
+nach a
+
+e)
+
+b  2  r 
+
+f)
+
+K
+
+100  Z
+ip
+
+nach p
+
+g)
+
+V
+
+4
+  r3
+3
+
+nach r
+
+
+360
+
+nach 
+
+7
+
+Übungsheft Mathematik
+
+Seite:
+
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+4. Geraden
+Aufgabe 4.1
+Eine Ursprungsgerade geht jeweils durch den Punkt P.
+Geben Sie die Gleichung an.
+a) P(6|3)
+b) P(2|4)
+c) P(6|3)
+
+d) P(2|4)
+
+Aufgabe 4.2
+Zeichnen Sie die durch die jeweilige Gleichung gegebene Gerade samt
+Steigungsdreieck.
+a) y = 2x + 1
+
+b) y = 1,5x  1
+
+8
+3
+
+c) y   x  4
+
+Aufgabe 4.3
+Gegeben ist die Gerade g mit y  2 x  2 .
+a) Liegen die Punkte A(15|28) und B(9|20) auf g?
+b) Ermittle die Gleichung der Geraden h, die parallel zu g ist und durch den Punkt
+P (1 | 5) verläuft!
+
+c) In welchen Punkten schneiden die beiden Graphen die y-Achse?
+d) Der Punkt Q( 1| y ) liegt auf der Geraden h. Berechne die y-Koordinate von Q.
+e) Der Punkt R( x | 12 ) liegt auf der Geraden g. Berechne die x-Koordinate von R.
+f) Ermitteln Sie die Gerade k durch die Punkte Q und R zeichnerisch.
+Bestätigen Sie Ihre Lösung rechnerisch.
+g) Zeichnen Sie alle drei Geraden in ein geeignetes Koordinatensystem ein.
+Aufgabe 4.4
+Im rechtwinkligen Koordinatensystem (1 LE = 1 cm) liegt das Viereck mit den
+Punkten A(0|0), B(1|0), C(4|6), D(0|4).
+a) Geben Sie die Gleichungen der Geraden durch die Punkte A und B, B und C,
+C und D sowie A und D an.
+b) Berechnen Sie alle Innenwinkel des von den Punkten A, B, C und D begrenzten
+Vierecks.
+c) Berechnen Sie den Flächeninhalt und den Umfang dieses Vierecks.
+
+8
+
+Übungsheft Mathematik
+
+Seite:
+
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+Aufgabe 4.5
+Die Gerade g geht durch die Punkte A(3|2) und B(9|2).
+a) Zeichnen Sie diese Gerade in ein geeignetes Koordinatensystem.
+b) Bestimmen Sie die Geradengleichung.
+c) Welchen Winkel bilden g und die x-Achse?
+(zeichnerische und rechnerische Lösung)
+
+d) Wie groß ist der Abstand der Punkte A und B?
+(zeichnerische und rechnerische Lösung)
+
+e) Spiegeln Sie die Gerade g an der durch x  3 gekennzeichneten Gerade
+und geben Sie deren Gleichung an.
+
+Aufgabe 4.6
+a) Zeichnen Sie in die Abb. ein
+rechtwinkliges Koordinatensystem
+Ihrer Wahl samt Achsenskalierung.
+Geben Sie in Ihrem Koordinatensystem die Gleichung einer jeden
+Gerade an.
+b) In welchem Koordinatensystem hat
+die obere Gerade die Gleichung
+=−
+
++ 30 ?
+
+Zeichnen Sie auch dieses
+Koordinatensystem samt
+Skalierung ein.
+
+9
+
+Übungsheft Mathematik
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+Seite:
+
+10
+
+Aufgabe 4.7
+Zwei Anbieter von Öko-Strom haben folgende Tarife:
+Firma
+Feste Gebühren pro Jahr in € Gebühren pro kWh in €
+Sonnenstrahl AG
+114
+0,34
+Wasserkraft GmbH
+60
+0,37
+
+a) Erstellen Sie eine Wertetabelle für beide Anbieter, und zwar für folgenden
+Energiebedarf in kWh/Jahr 0; 1; 1000; 2000; 3000; 4000; 5000
+b) Erstellen Sie ein Diagramm, aus dem die jährlichen Stromgebühren für beide
+Anbieter abgelesen werden können.
+Welche Bedeutung hat der Schnittpunkt der beiden Geraden?
+c) Ermitteln Sie rechnerisch, bei welchem jährlichen Energiebedarf beide Anbieter gleich
+günstig sind.
+d) Ein vier Personenhaushalt benötigt im Jahr 3900 kWh elektrischer Energie.
+Wie groß ist die Einsparung, wenn er den preisgünstigeren Anbieter nimmt?
+
+Übungsheft Mathematik
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+Seite:
+
+5. Parabel (Nur falls als Wahlthema bereits behandelt)
+Aufgabe 5.1
+Die Parabel p ist durch folgende Gleichung gegeben:
+:
+
+= ²+
+
++4
+
+a) Berechnen Sie die Nullstellen für b  5.
+b) Für welche Zahlen b hat die Parabel p genau einen Schnittpunkt mit der x-Achse?
+
+Aufgabe 5.2
+Gegeben sind die Parabel :
+
+= − ² +2
+
++ 3 und
+
+die Gerade g durch die Abbildung.
+a) Berechnen Sie die Koordinaten der Schnittpunkte
+von p und g.
+b) Bestimmen Sie rechnerisch den Scheitelpunkt der
+Parabel p.
+
+Aufgabe 5.3
+Für jede reelle Zahl c ist eine Parabel p durch folgende Gleichung gegeben:
+p: y = x² − 6x + c
+a) Bestimmen Sie für c = 3 die Scheitelform und zeichnen Sie die Parabel in ein
+rechtwinkliges Koordinatensystem.
+b) Welche Bedingung muss für c gelten, damit die Parabel zwei Nullstellen hat?
+
+11
+
+Übungsheft Mathematik
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+Seite:
+
+Aufgabe 5.4
+Die Abbildung zeigt den Plan einer
+Brücke. Die Punkte C, D und S
+liegen auf einer Parabel.
+
+9m
+
+a) Bestimmen Sie die Gleichung
+der Parabel.
+6m
+
+b) Unter dem mittleren Brückenbogen führt eine 6 m breite Straße durch. Kann ein
+Schwertransporter mit einer Breite von 4,80 m und 3,60 m Höhe unter dieser Brücke
+durchfahren?
+
+12
+
+Übungsheft Mathematik
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+Seite:
+
+6. Textverständnis
+Aufgabe 6.1
+Was kostet ein Polarhund?
+Ein Eskimo aus Grönland kauft einen wertvollen Leithund für sein
+Schlittengespann.
+„Der Hund und das Halsband kosten zusammen 110 dänische
+Kronen“, sagt der Verkäufer. „Wenn ich dir sage, dass der Hund 100
+Kronen mehr kostet als das Halsband, musst du zugeben, dass ich dir das Lederzeug fast
+schenke!“
+Wie viele dänische Kronen bezahlt er für den Hund und wie viel kostet das
+Halsband?
+
+Aufgabe 6.2
+Wie hoch ist das Symbol der Weltstadt New York, wenn die Fackel der Freiheitsstatue
+unter einem Winkel von 24,7° aus 100 m Entfernung gesehen wird?
+
+13
+
+Übungsheft Mathematik
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+Seite:
+
+Aufgabe 6.3
+Zwei Abspannseile eines Trägermastes
+des Olympiastadiondaches in München
+haben die Neigungswinkel von 69° und
+53°.
+a) In welcher Höhe sind die Seile
+befestigt, wenn das Seil mit dem
+Neigungswinkel 53° eine Länge von
+73 m hat?
+b) Wie lang ist das andere Seil?
+Wie weit sind die Seilbefestigungen am Boden vom Fußpunkt des Mastes entfernt?
+
+Aufgabe 6.4
+Ein Skilift hat von der Talstation bis zur Bergstation zwei verschiedene Steigungen zu
+überwinden. Berechne die beiden Steigungswinkel  und ß.
+
+Aufgabe 6.5
+Bei einer Mathematikarbeit können max. 30 Punkte erreicht werden. Die Zuordnung
+der Korrekturpunkte zu den Noten erfolgt mithilfe eines Terms. Der auf Zehntel
+gerundete Wert dieses Terms gibt die Note an. Bei 30 Korrekturpunkten soll die Note
+1,0 und bei 15 Korrekturpunkten die Note 3,5 erteilt werden.
+Stelle einen geeigneten Term für die Note n auf.
+
+14
+
+Übungsheft Mathematik
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+Seite:
+
+Aufgabe 6.6
+Zwei Grundstücksbesitzer möchten ihre Grundstücke tauschen.
+Beide Grundstücke sind rechteckig und haben denselben Flächeninhalt. Das
+Grundstück von Besitzer B ist zwar 7 m kürzer, dafür aber um 4 m breiter als das von
+Besitzer A. Besitzer A hat sein Grundstück mit einem 124 m langen Zaun umzäunt.
+Diesen Zaun möchte er nach dem Tausch an dem neuen Grundstück anbringen.
+Wird die Zaunlänge reichen?
+Aufgabe 6.7
+Im Hof des Pascal-Gymnasiums steht ein Denkmal für Blaise Pascal.
+Es besteht aus Granit und hat eine Gesamthöhe von 2,50 m.
+Die Grundfläche ist ein gleichseitiges Dreieck mit einer Seitenlänge
+von 30 cm. Die Pyramide ist 43 cm hoch. 1 dm3 Granit wiegt 2,9 kg.
+Wie schwer ist das Denkmal?
+
+Quelle: http://modellversuch-mathematik.he.schule.de/Materialien/Word-Dokumente/15Oberfl%E4chen%20und%20Volumina.doc
+
+Aufgabe 6.8
+Aus einem 39 cm dicken und 7 m langen Baumstamm sollen Dielen gesägt werden
+wie in nebenstehender Abbildung angegeben.
+a)
+
+Berechne das Volumen des Baumstamms.
+
+b)
+
+Wie viel m3 Holz kann für die Dielen genutzt
+werden? Wie viel Prozent beträgt der
+Schnittverlust
+
+c)
+
+Wenn die Dielen eine Dicke von 1,5 cm haben
+sollen, wie viel m2-Wohnfläche können damit
+ausgelegt werden?
+
+Quelle: http://modellversuch-mathematik.he.schule.de/Materialien/Word-Dokumente/15Oberfl%E4chen%20und%20Volumina.doc
+
+15
+
+Übungsheft Mathematik
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+Seite:
+
+16
+
+Aufgabe 6.9
+Gabi möchte für eine Klassenfeier Orangensaft kaufen. Ein Händler bietet diesen in
+drei Verpackungsgrößen an:
+1/3 Liter
+Getränkekartons für 0,44 €
+0,75 Liter
+
+Glasflaschen
+
+für 0,89 €
+
+2,5 Liter
+
+Jumbopacks
+
+für 2,75 €
+
+a)
+
+Wie viel kostet jeweils ein Liter Orangensaft?
+
+b)
+
+Um wie viel Prozent ist die gleiche Menge Orangensaft aus den
+Getränkekartons teurer als der Saft aus den Glasflaschen?
+
+c)
+
+Gabi soll 12 Liter Saft kaufen! Wie viel muss sie mindestens bezahlen?
+(Natürlich darf Gabi auch mehr Saft kaufen, wenn sie dadurch Geld sparen
+kann!)
+
+d)
+
+Wie viel muss Gabi mindestens bezahlen, wenn sie genau 12 Liter Saft
+mitbringen soll?
+
+e)
+
+100 ml Orangensaft enthalten 40 mg Vitamin C. Das sind 66% des
+Tagesbedarfs eines Schülers. Wie viele Schüler könnten ihren Tagesbedarf an
+Vitamin C mit 12 Liter Saft decken?
+
+f)
+
+Die Grundfläche der Jumbopacks ist 10 cm breit und 12,5 cm lang. Bestimme
+die Höhe der Behälter!
+
+g)
+
+Der Hersteller der Jumbopacks plant, 5 l-Behälter auf den Markt zu bringen.
+Dazu möchte er die Breite der Packs verdoppeln. Wie viel Prozent
+Verpackungsmaterial spart er im Vergleich zu zwei 2,5 l-Behältern?
+Hinweis: Die Klebekanten müssen bei diesem Aufgabenteil nicht berücksichtigt
+werden.
+
+Quelle: http://blk.mat.uni-bayreuth.de/material/db/60/Aufgabensammlung_der_Arbeitsgruppe_Mathematik.doc
+
+Übungsheft Mathematik
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+
+Seite:
+
+7. Herausforderungen (optional)
+Aufgabe 7.1
+Ein Schiff fährt in konstantem Abstand von 15 km einmal um eine Insel herum. Die
+Insel hat die Form eines gleichseitigen regelmäßigen Dreiecks (Vierecks, Sechsecks)
+und besitzt eine Küste von 400 km Länge.
+Wie lang ist der Weg, den das Schiff jeweils zurückgelegt hat?
+
+Aufgabe 7.2
+Die Skizze zeigt einen gotischen Spitzbogen.
+Berechnen Sie alle vorkommenden Kreisradien
+in Abhängigkeit der Basislänge b.
+
+b = r1
+
+TIPPS gibt es auf der nächsten Seite!
+
+17
+
+Übungsheft Mathematik
+
+Seite:
+
+Vorbereitung auf den Übergang
+Realschule – Berufliches Gymnasium
+Aufgabe 7.2 (Jetzt mit Tipps)
+Die Skizze zeigt einen gotischen Spitzbogen.
+Berechnen Sie alle vorkommenden Kreisradien in Abhängigkeit
+der Basislänge b.
+Tipps:
+
+
+
+
+Satz des Pythagoras
+Hilfslinien (vgl. Skizze)
+angegebene Punkte und Bezeichner
+
+r3
+
+r2
+
+b = r1
+
+Aufgabe 7.3
+Wie viel Prozent der Fläche des großen Kreises werden
+durch die drei gleich großen kleinen Kreise verdeckt?
+Bestimmen Sie zunächst einen Schätzwert.
+
+Tipps:
+
+
+
+
+
+Je zwei Seitenhalbierende eines Dreiecks teilen sich im Verhältnis 2:1.
+Die Mittelsenkrechten eines Dreiecks schneiden sich in einem Punkt, dem Umkreismittelpunkt
+des Dreiecks.
+Die drei Winkelhalbierenden eines Dreiecks schneiden sich in einem Punkt, dem Mittelpunkt
+des Inkreises.
+( )
+Verwende bei Bedarf:
+=
+( )
+
+18
+
+

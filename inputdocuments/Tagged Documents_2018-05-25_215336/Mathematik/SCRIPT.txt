@@ -1,0 +1,3630 @@
+Kompaktskript Mathematik,Version 10/2016 c Hochschule MuĚnchen, Dr. Christian Hort
+
+0
+
+Kompakt-Skript Mathematik I+II
+Definitionen und SaĚtze des 1. und 2. Semesters der StudiengaĚnge PHB,MFB
+Kein vollstaĚndiges Skript der Vorlesung!
+
+0. Notationen und Voraussetzungen
+Mengenlehre
+Element: x â A ,,x ist Element von Aâ ; a, b, c â M ,,a, b, c sind Elemente von M â.
+Mengenklammer: {a, b, c} ist die Menge, die genau die Elemente a, b, c enthaĚlt.
+{x | fuĚr x gilt < Bedingung >}, z.B. {1, 2, 3, 4} = {x | x â IN und 1 â¤ x â¤ 4},
+{a, a2 , a3 , ..., a99 } = {c | c = an fuĚr eine ganze Zahl n, 1 â¤ n â¤ 99}( sog. ,,PuĚnktchenschreibweiseâ)
+Vereinigung: A âŞ B := {x | x â A oder x â B} ,,A vereinigt mit Bâ
+Sind
+[ Ai fuĚr i â I mehrere (evtl. auch unendlich viele) Mengen, so ist
+Ai := {x | x ist Element von mindestens einem Ai }.
+iâI
+
+Durchschnitt: A âŠ B := {x | x â A und x â B} ,,A geschnitten mit Bâ
+Sind
+\ Ai fuĚr i â I mehrere (evtl. auch unendlich viele) Mengen, so ist
+Ai := {x | x ist Element von jedem Ai }.
+iâI
+
+Teilmenge: A â B bedeutet, dass fuĚr jedes x â A auch x â B, also insbes. A â A.
+Leere Menge: /0:={ }; Menge, die kein Element enthaĚlt. ( /0 6= {0/}!)
+Komplement: Sei A â B. Dann heiĂt A := {x | x â B und x 6â A} das Komplement
+von A (bzgl. B).
+Differenz: FuĚr die Mengen A, B â M ist A \B := A âŠ B ,,A ohne die Elemente von Bâ
+FuĚr die Mengen A, B â M gilt:
+A âŠ A = /0; A âŞ A = M ; A = A;
+A âŞ B = A âŠ B; A âŠ B = A âŞ B; (Regel von DeMorgan)
+
+Zahlen
+NatuĚrliche Zahlen: IN := {0, 1, 2, 3, ...}
+Ganze Zahlen: ZZ := {0, 1, â1, 2, â2, 3, â3, ...}
+Rationale Zahlen: Q
+|:={ nz | z â ZZ, n â IN, n 6= 0 und n und z sind teilerfremd}
+Reelle Zahlen: IR:= Menge aller unendlichen DezimalbruĚche
+Es gilt: IN â ZZ â Q
+| â IR.
+IN, ZZ und Q
+| sind abzaĚhlbar, IR heiĂt uĚberabzaĚhlbar.
+Die Zahlenbereiche IN, ZZ, Q
+| und IR sind durch die Kleiner-Relation < angeordnet.
+Q
+| liegt dicht in IR, d.h. fuĚr r, s â IR mit r < s gibt es ein q âQ
+|, so dass r < s < q.
+
+Kompaktskript Mathematik
+
+0. Notationen und Voraussetzungen 1
+
+Auf den Zahlenbereichen IN, ZZ, Q
+| und IR sind die Rechenoperationen
++ (,,Additionâ), - (,,Subtraktionâ), Âˇ (,,Multiplikationâ) wie uĚblich definiert.
+Die Operation : (,,Divisionâ) ist nur definiert als a : b , wenn b 6= 0.
+Ein Zahlenbereich B heiĂt gegenuĚber einer Operation â abgeschlossen, wenn fuĚr a, b â
+B auch a â b â B.
+Die Zahlenbereiche IN, ZZ, Q
+| und IR sind gegenuĚber Addition und Multiplikation abgeschlossen.
+ZZ ist auch gegenuĚber Subtraktion abgeschlossen, Q
+| und IR auch gegenuĚber Subtraktion
+und Division.
+Summenzeichen:
+
+m
+X
+
+ai := ak + ak+1 + ak+2 + ... + am ; z.B.
+
+(j + 1) = 18.
+
+j=2
+
+i=k
+n
+X
+
+5
+X
+
+n(n + 1)
+; (Arithmetische Summe)
+2
+j=1
+n
+X
+1 â q n+1
+; (Geometrische Summe)
+qj =
+1âq
+j=0
+=
+
+Produktzeichen:
+
+m
+Y
+
+ai := ak Âˇ ak+1 Âˇ ak+2 Âˇ ... Âˇ am ; z.B.
+
+5
+Y
+
+(j + 1) = 360.
+
+j=2
+
+i=k
+m
+
+0
+
+Potenzierung: a := 1; fuĚr 0 < m â IN : a :=
+
+m
+Y
+i=1
+
+a = |a Âˇ a Âˇ a{zÂˇ ... Âˇ a}; (,,a hoch mâ)
+mâmal
+
+1
+aâm := m ;
+a
+Es gelten: an+m = an Âˇ am ;
+n
+an Âˇ bn = (a Âˇ b)n ; abn = ( ab )n ;
+m
+anÂˇm = (an )m = (am )n 6= a(n ) (!).
+n
+Y
+
+FakultaĚt: FuĚr n â IN, n > 0 definiert man n! :=
+
+i; 0! := 1; z.B. 5! = 1Âˇ2Âˇ3Âˇ4Âˇ5 = 120.
+
+i=1
+
+!
+
+n
+n!
+Binomialkoeffizient: FuĚr n, m â IN, n âĽ m :
+:=
+(,,n uĚber mâ)
+m
+m!(n
+â
+m)!
+ 
+n
+Es gilt: m
+â IN. Bedeutet die Anzahl der MoĚglichkeiten, m viele aus n auszuwaĚhlen.
+n
+
+Binomische Formel: (a + b) =
+
+n
+X
+i=0
+
+!
+
+n
+Âˇ anâi Âˇ bi .
+i
+
+Wurzel: FuĚr eine nichtnegative Zahl a und einâ0 6= n â IN gibt es eine
+eindeutige, reelle
+â
+n
+n
+2
+LoĚsung
+der Gleichung: x = a. Diese wird mit a bezeichnet. Statt a schreibt man nur
+â
+a.
+â
+â n
+n
+3/2
+m := m a . Es gelten auch hier die Rechenregeln fuĚr Potenzen (s.o.). z.B. 4
+aâ
+= 43 =
+( 4)3 = 8.
+n
+X
+
+ai xi Polynom n-ten Grades in der
+i=0
+â
+Variablen x. Die ai heiĂen Koeffizienten. Z.B. P (x) = x3 â 2x2 + 2x â 7.
+Polynome: FuĚr a0 , a1 , ...an â IR heiĂt P (x) =
+
+LoĚsung einer quadratischen Gleichung: Die Gleichung ax2 + bx + c = 0 hat genau
+dann eine reelle LoĚsung, wenn b2 â 4ac âĽ 0 ist.
+â
+âb Âą b2 â 4ac
+Dann gibt es maximal zwei LoĚsungen x1,2 =
+. (,,Mitternachtsformelâ)
+2a
+
+Kompaktskript Mathematik
+
+0. Notationen und Voraussetzungen 2
+(
+
+Betrag: FuĚr a â IR ist |a|:=
+Es gelten: |a + b|â¤|a| + |b|;
+
+a
+falls a âĽ 0
+âa falls a < 0
+
+|a â b|â¤|a| + |b|;
+
+|a Âˇ b|=|a| Âˇ |b|;
+
+|a|
+a
+.
+| |=
+b
+|b|
+
+Intervalle: FuĚr a < b â IR definiert man:
+[a, b] := {x | a â¤ x â¤ b} ,,abgeschlossenes Intervallâ
+(a, b) := {x | a < x < b} ,,offenes Intervallâ
+(a, b] := {x | a < x â¤ b} ,,linksoffenes Intervallâ
+[a, b) := {x | a â¤ x < b} ,,rechtsoffenes Intervallâ
+[a, â) := {x | a â¤ x}; (a, â) := {x | x > a};
+(ââ, b] := {x | x â¤ b}; (ââ, b) := {x | x < b};
+Man schreibt auch IR+ fuĚr (0, â) und IRâ fuĚr (ââ, 0).
+Îľ-Umgebung: FuĚr 0 < Îľ und a â IR ist UÎľ (a) := {x | a â Îľ < x < a + Îľ};
+Maximum und Minimum: c â IR heiĂt Maximum (bzw. Minimum) der Menge M â IR,
+wenn fuĚr alle x â M gilt: x â¤ c (bzw. x âĽ c). Man schreibt dafuĚr max(M ) (bzw. min(M )).
+Supremum und Infimum:
+Jede nach oben beschraĚnkte Teilmenge M â IR hat ein Supremum
+sup(M ) := min{x | fuĚr alle y â M ist y â¤ x}
+Jede nach unten beschraĚnkte Teilmenge M â IR hat ein Infimum
+inf(M ) := max{x | fuĚr alle y â M ist y âĽ x}
+Wenn max(M ) bzw. min(M ) existieren, ist sup(M ) = max(M ) bzw. inf(M ) = min(M ).
+
+Funktionen
+Sind A und B nichtleere Mengen, so bezeichnet man mit f : A ââ B eine Funktion
+(oder auch Abbildung) aus dem Definitionsbereich A in den Wertebereich B.
+Eine Funktion ordnet jedem Element des Definitionsbereichs genau ein Element des Wertebereichs zu. FuĚr a â A ist f (a) â B das Bild von a unter f , man schreibt auch f : a 7â b.
+f : A ââ B heiĂt injektiv, wenn aus f (a1 ) = f (a2 ) folgt, dass a1 = a2 .
+f : A ââ B heiĂt surjektiv, wenn es zu jedem b â B ein a â A gibt, so dass f (a) = b.
+f : A ââ B heiĂt bijektiv, wenn es injektiv und surjektiv ist.
+Zu einer bijektiven Funktion f : A ââ B gibt es eine Umkehrfunktion f â1 : B ââ A
+mit f â1 (f (a)) = a.
+Sind f : A ââ B und g : B ââ C Funktionen, so ist die HintereinanderausfuĚhrung
+g âŚ f : A ââ C eine Funktion mit g âŚ f (a) := g(f (a)).
+Eine Funktion f : IR â IR heiĂt gerade, wenn fuĚr alle x â IR f (x) = f (âx) ist.
+Eine Funktion f : IR â IR heiĂt ungerade, wenn fuĚr alle x â IR f (âx) = âf (x) ist.
+Die Summe zweier gerader (bzw. ungerader] Funktionen ist wieder gerade (bzw. ungerade). Das Produkt zweier gerader Funktioinen ist wieder gerade. Das Produkt einer geraden
+mit einer ungeraden Funktion ist ungerade. Das Produkt zweier ungerader Funktionen ist
+gerade.
+
+VollstaĚndige Induktion
+Aussagen uĚber natuĚrliche Zahlen werden mit Hilfe vollstaĚndiger Induktion bewiesen:
+A(n) sei eine Aussage uĚber die Zahl n â IN .
+Wenn man zeigen kann, dass:
+
+Kompaktskript Mathematik
+
+0. Notationen und Voraussetzungen 3
+
+1) A(0) trifft zu
+(sog.âInduktionsanfangâ)
+2) aus A(n) folgt immer A(n + 1) (sog.âInduktionsschrittâ)
+dann ist damit bewiesen, dass A(n) fuĚr alle n â IN gilt.
+
+Kompaktskript Mathematik
+
+I. Grundlagen reeller Funktionen 4
+
+I. Grundlagen reeller Funktionen
+Definition (I.1)
+Sei A â IR. FuĚr alle i â IN sei ai â A. Dann heisst (a0 , a1 , a2 , ...) eine Folge in A.
+Man schreibt auch: (ai )iâIN oder nur (ai ).
+(ai ) konvergiert gegen c â IR, wenn fuĚr beliebiges positives Îľ â IR nur fuĚr endlich viele
+i â IN |c â ai |âĽ Îľ ist.
+c heiĂt dann auch der Grenzwert der Folge (ai ). Man schreibt auch: ai â c.
+Definition (I.2)
+Sei A â IR; b, c â IR und f : A â IR eine Funktion.
+f konvergiert bei b gegen c (oder: f hat bei b den Grenzwert c, oder: lim f (x) = c),
+xâb
+
+wenn fuĚr jede Folge (bi )iâIN in A, die gegen b konvergiert, die Folge (f (bi ))iâIN gegen c
+konvergiert.
+Definition (I.3)
+Sei A â IR eine nach oben (bzw. nach unten) unbeschraĚnkte Menge; c â IRc und
+f : A â IR eine Funktion.
+f konvergiert im (negativ) Unendlichen gegen c (oder: lim = c),
+xâÂąâ
+
+wenn fuĚr jede nach oben (bzw. nach unten) unbeschraĚnkte, steigende (bzw. fallende) Folge
+(ai ) in A f (ai ) â c.
+
+Satz (I.4) (Rechenregeln fuĚr Grenzwerte)
+Sei A â IR, b â IR und f, g : A â IR Funktionen.
+Wenn lim f (x) und lim g(x) existieren, dann gilt:
+xâb
+
+(1)
+(2)
+(3)
+
+xâb
+
+lim(f (x) + g(x)) = lim f (x) + lim g(x)
+
+xâb
+
+xâb
+
+xâb
+
+lim(f (x) â g(x)) = lim f (x) â lim g(x)
+
+xâb
+
+xâb
+
+xâb
+
+lim(f (x) Âˇ g(x)) = lim f (x) Âˇ lim g(x)
+
+xâb
+
+xâb
+
+xâb
+
+lim f (x)
+
+(4)
+
+lim(
+
+xâb
+
+f (x)
+) = xâb
+, falls lim g(x) 6= 0
+xâb
+g(x)
+lim g(x)
+xâb
+
+Definition (I.5)
+Sei A â IR, a â A und f : A â IR.
+f heiĂt stetig in a , wenn lim f (x) = f (a).
+xâa
+
+f heiĂt stetig , wenn f stetig in allen a â A ist.
+
+Kompaktskript Mathematik
+
+I. Grundlagen reeller Funktionen 5
+
+Satz (I.6)
+Die Summe, die Differenz, das Produkt und (falls definiert) der Quotient zweier stetiger
+Funktionen ist wieder stetig.
+Ebenso ist die HintereinanderausfuĚhrung zweier stetiger Funktion - falls definiert - wieder
+stetig. Also (f âŚ g)(x) := f (g(x)) ist stetig, falls f und g stetig und Bild(g) â Def (f ).
+Definition (I.7)
+Sei A â IR; a â A und f : A â IR stetig.
+f (a + Îľ) â f (a)
+Wenn der Grenzwert lim
+existiert, dann heiĂt er 1.Ableitung
+Îľâ0
+Îľ
+0
+an der Stelle a und wird mit f (a) bezeichnet.
+f heiĂt dann differenzierbar in a .
+d
+f (a) verwendet.
+Statt f 0 (a) wird auch die Schreibweise
+dx
+f heiĂt differenzierbar , wenn es in allen a â A differenzierbar ist.
+
+von f
+
+Definition (I.8)
+Sei A â IR; a â A und f : A â IR differenzierbar in a.
+Dann definiert man als Tangente an f bei a die Funktion Tf,a : IR â IR
+mit Tf,a (x) := f (a) + f 0 (a) Âˇ (x â a).
+Definition (I.9)
+Sei A â IR; a â A und y : A â IR differenzierbar in a.
+Unter dem Differenzial von y an der Stelle a versteht man die Funktion dy : IR â IR
+mit dy(Îľ) := Îľ Âˇ y 0 (a).
+Statt Îľ â IR schreibt man haĚufig auch dx, und damit: df (dx) = dx Âˇ f 0 (a) oder vereinfacht
+dy
+, der sogenannte Differenzialquotient .
+dy = dx Âˇ y 0 (a), bzw. y 0 (a) = dx
+Satz (I.10) (Rechenregeln fuĚr Ableitungen)
+Sei A â IR, c â IR und f, g : A â IR differenzierbare Funktionen. Dann gilt:
+(1) c Âˇ f : A â IR ist differenzierbar und (c Âˇ f )0 (x) = c Âˇ f 0 (x).
+(2) f + g : A â IR ist differenzierbar und (f + g)0 (x) = f 0 (x) + g 0 (x).
+(3) f Âˇ g : A â IR ist differenzierbar und
+(f Âˇ g)0 (x) = f 0 (x) Âˇ g(x) + f (x) Âˇ g 0 (x). (Produktregel)
+(4)
+
+Wenn fuĚr alle x â A g(x) 6= 0, dann ist
+1
+g 0 (x)
+( )0 (x) = â
+g
+g(x)2
+
+(5)
+
+Wenn fuĚr alle x â A g(x) 6= 0, dann ist
+
+1
+g
+
+: A â IR differenzierbar und
+
+(Kehrwertregel)
+f
+g
+
+: A â IR differenzierbar und
+
+f
+f 0 (x)g(x) â f (x)g 0 (x)
+( )0 (x) =
+g
+g(x)2
+
+(Quotientenregel)
+
+(6)
+Wenn Bild(g) â Def (f ), dann ist die HintereinanderausfuĚhrung f âŚ g : A â IR
+differenzierbar und
+(f âŚ g)0 (x) = f 0 (g(x))g 0 (x)
+
+(Kettenregel)
+
+Kompaktskript Mathematik
+
+I. Grundlagen reeller Funktionen 6
+
+Definition (I.11)
+Sei A â IR; a â A und f : A â IR differenzierbar (in a) .
+f heiĂt stetig differenzierbar (in a) , wenn f 0 stetig (in a) ist.
+
+Definition (I.12)
+Sei A â IR; a â A und f : A â IR.
+FuĚr n âĽ 1 heiĂt f n-fach (stetig) differenzierbar , wenn
+f (n) :=(...((f 0 )0 )....)0 existiert (und stetig ist).
+|
+
+{z
+
+}
+
+nâmal abgeleitet
+
+f (n) heiĂt die n-te Ableitung von f .
+Ist y = f (t), schreibt man statt f 0 (t), f 00 (t), ... auch yĚ, yĚ, ....
+Definition (I.13)
+Sei A â IR; a â A und f : A â IR .
+f hat einen relativen Extremwert (Maximum oder Minimum) an der Stelle a,
+wenn es eine Umgebung UÎľ (a) â A gibt, so dass:
+f (y) â¤ f (a) fuĚr alle y â UÎľ (a) (Maximum) oder
+f (y) âĽ f (a) fuĚr alle y â UÎľ (a) (Minimum).
+f hat einen Wendepunkt an der Stelle a, wenn f 00 (a) existiert und f 0 einen relativen
+Extremwert an der Stelle a hat.
+Wenn zudem f 0 (a) = 0, heiĂt der Wendepunkt auch Terrassenpunkt oder Sattelpunkt
+.
+Satz (I.14)
+Sei A â IR; a â A und f : A â IR 2-fach differenzierbar.
+Wenn f an der Stelle a einen relativen Extremwert hat, so gilt: f 0 (a) = 0.
+Wenn f an der Stelle a einen Wendepunkt hat, so gilt: f 00 (a) = 0.
+Satz (I.15)
+Sei A â IR; a â A und f : A â IR n-fach differenzierbar, f 0 (a) = 0 und m die kleinste
+Zahl 1 < m â¤ n, so dass f (m) (a) 6= 0. Dann gilt:
+f hat einen relativen Extremwert bei a, wenn m gerade ist, und zwar ein
+Maximum, wenn f (m) (a) < 0, bzw. ein
+Minimum, wenn f (m) (a) > 0.
+f hat einen Sattelpunkt bei a, wenn m ungerade ist.
+Satz (I.16) (Mittelwertsatz der Differenzialrechnung)
+Sei f : [a, b] â IR differenzierbar.
+f (b) â f (a)
+Dann gibt es x â IR, a â¤ x â¤ b, so dass f 0 (x) =
+.
+bâa
+Definition (I.17)
+Sei A â IR; f : A â IR. Eine differenzierbare Funktion F : A â IR heiĂt Stammfunktion
+zu f , wenn F 0 = f .
+
+Kompaktskript Mathematik
+
+I. Grundlagen reeller Funktionen 7
+
+Satz (I.18) (Regel von LâHospital)
+Sei A â IR; f, g : A â IR differenzierbare Funktionen; c â IR âŞ {ââ, â};
+sei auĂerdem g 0 (x) 6= 0 fuĚr alle x aus einer Umgebung von c.
+Gilt entweder xâc
+lim f (x) = xâc
+lim g(x) = 0
+(Fall: 00 )
+1
+1
+),
+oder
+lim
+= lim
+= 0 (Fall: â
+â
+xâc f (x)
+xâc g(x)
+f (x)
+f 0 (x)
+dann ist
+lim
+= lim 0
+.
+xâc g(x)
+xâc g (x)
+Satz (I.19) Newton-Verfahren
+Sei f : [a, b] â IR zweifach differenzierbar, f (a) < 0, f (b) > 0,
+und fuĚr alle x â [a, b]f 0 (x) 6= 0 und f 00 (x) âĽ 0 (d.h. linksgekruĚmmt oder konvex).
+FuĚr einen beliebigen Anfangswert x0 â [a, b], fuĚr den f (x0 ) âĽ 0 ist, definiert man die
+f (xi )
+Folge (xi )iâIN induktiv durch xi+1 := xi â 0
+.
+f (xi )
+Dann konvergiert (xi )iâIN gegen die einzige Nullstelle von f .
+Entsprechend gilt dieser Satz auch im Falle von RechtskruĚmmung (konkav). Dabei setzt
+man voraus, dass f (a) > 0, f (b) < 0, f 00 (x) â¤ 0 fuĚr alle x â [a, b] und f (x0 ) â¤ 0.
+Definition (I.20)
+Sei (ai )iâIN eine Folge in IR. Die unendliche Summe
+
+â
+X
+
+ai = a0 + a1 + a2 + ... heiĂt die zu
+
+i=0
+
+(ai ) gehoĚrige Reihe .
+Wenn die Folge der Partialsummen
+
+n
+X
+
+(
+
+ai )nâIN gegen c â IR konvergiert, heiĂt die
+
+i=0
+
+Reihe konvergent und man schreibt
+
+â
+X
+
+ai = c. Andernfalls heiĂt sie divergent .
+
+i=0
+
+Satz (I.21)
+Die Reihe
+
+â
+X
+
+ai konvergiert, wenn eines (oder mehrere) der drei Kriterien erfuĚllt ist:
+
+i=0
+
+1) Majorantenkriterium : Es gibt eine konvergente Reihe
+i â IN.
+an+1
+2) Quotientenkriterium : =nââ
+lim |
+|< 1.
+an
+q
+3) Wurzelkriterium : nââ
+lim n |an | < 1.
+Definition (I.22)
+Sei (ai ) eine Folge in IR, a â IR.
+Dann bestimmt die Reihe P (x) :=
+
+â
+X
+
+â
+X
+
+bi mit |ai |â¤|bi | fuĚr alle
+
+i=0
+
+ai Âˇ(xâa)i eine Funktion, die man die Potenzreihe
+
+i=0
+
+zur Folge (ai ) mit Entwicklungspunkt a nennt.
+
+Kompaktskript Mathematik
+
+I. Grundlagen reeller Funktionen 8
+
+Satz und Definition (I.23)
+Zu jeder Potenzreihe P (x) =
+
+â
+X
+
+ai Âˇ (x â a)i gibt es eine Zahl r â [0, â) âŞ {â}, den sog.
+
+i=0
+
+Konvergenzradius von P (x), so dass gilt:
+P (x) konvergiert fuĚr alle x â (a â r, a + r) und divergiert fuĚr alle x mit |x|> r.
+FuĚr |x|= r kann P (x) konvergieren oder divergieren!
+an
+1
+q
+.
+r = lim |
+|=
+nââ a
+n+1
+lim n |an |
+nââ
+
+Satz (I.24)
+Potenzreihen duĚrfen innerhalb ihrer Konvergenzradien gliedweise addiert, subtrahiert und
+abgeleitet werden.
+FuĚr P (x) =
+
+â
+X
+
+ai Âˇ (x â a)i ist P 0 (x) =
+
+i=0
+
+Satz (I.25) Sei P (x) =
+
+â
+X
+
+i Âˇ ai Âˇ (x â a)iâ1 .
+
+i=1
+â
+X
+
+i
+
+ai Âˇ x und Q(x) =
+
+i=0
+
+â
+X
+
+b i Âˇ xi .
+
+i=0
+
+Wenn fuĚr alle x aus einem Intervall P (x) = Q(x) , dann sind alle ai = bi .
+Definition (I.26)
+Sei f : A â IR n-fach differenzierbar und x0 â A.
+n
+X
+f (k) (x0 )
+Pn (x) :=
+(x â x0 )k heiĂt das Taylor-Polynom n-ter Ordnung von f mit
+k!
+k=0
+Entwicklungspunkt x0 .
+Rn (x) := f (x) â Pn (x) heiĂt Taylor-Restglied n-ter Ordnung .
+
+Satz (I.27)
+(Satz von Taylor)
+Sei I â IR ein offenes Intervall, f : I â IR beliebig oft differenzierbar und x0 â I.
+Pn (x) und Rn (x) seien die Taylor-Polynome und Taylor-Restglieder zu f mit Entwicklungspunkt x0 . Dann gilt:
+1) Pn(k) (x0 ) = f (k) (x0 ) fuĚr 0 â¤ k â¤ n, n â IN .
+2)
+
+lim
+xâx
+
+0
+
+Rn (x)
+= 0 fuĚr alle n â IN.
+(x â x0 )n
+â
+X
+
+f (k) (x0 )
+(x â x0 )k .
+3) Wenn Rn (x) â 0, dann ist f (x) =
+k!
+k=0
+
+Kompaktskript Mathematik
+
+II. Trigonometrische Funktionen 9
+
+II. Trigonometrische Funktionen
+Definition (II.1)
+ 
+
+x
+2
+2
+Die Menge E :=
+| x, y â IR, x + y = 1 â IR2 heiĂt Einheitskreis
+y
+
+um 0 mit
+
+Radius 1.
+Zu Ď â IR gibt es genau einen Punkt PĎ auf E, so dass die positive x-Achse mit der
+Verbindungslinie von 0 zu PĎ den Winkel Ď (gegen den Uhrzeigersinn) bildet.
+Damit definiert man die Funktionen Sinus (sin) und Kosinus (cos) als:
+sin(Ď) := y-Koordinate von PĎ ;
+cos(Ď) := x-Koordinate von PĎ .
+Satz (II.2)
+Sei x â IR. Es gelten:
+â1 â¤ sin(x) â¤ 1;
+â 1 â¤ cos(x) â¤ 1;
+sin(âx) = â sin(x);
+cos(âx) = cos(x);
+cos(x) = sin(x + Ď2 ); sin2 (x) + cos2 (x) = 1;
+sin(x) = cos(x â Ď2 );
+sin(x Âą 2Ď) = sin(x); cos(x Âą 2Ď) = cos(x);
+sin(0) = cos( Ď2 ) = 0; cos(0) = sin( Ď2 ) = 1; â
+sin( Ď4 ) = cos( Ď4 ) = â12 ; sin( Ď3 ) = cos( Ď6 ) = 23 ; sin( Ď6 ) = cos( Ď3 ) = 21 ;
+Satz (II.3) (Additionssatz)
+Seien Îą, Î˛ â IR.
+sin(Îą Âą Î˛) = sin(Îą) cos(Î˛) Âą cos(Îą) sin(Î˛);
+cos(Îą Âą Î˛) = cos(Îą) cos(Î˛) â sin(Îą) sin(Î˛);
+
+Satz (II.4)
+Seien Îą, Î˛ â IR.
+ÎąâÎ˛
+Îą+Î˛
+) cos(
+);
+2
+2
+Îą+Î˛
+ÎąâÎ˛
+cos(Îą) + cos(Î˛) = 2 cos(
+) cos(
+);
+2
+2
+sin(Îą) + sin(Î˛) = 2 sin(
+
+Satz (II.5)
+Im Dreieck ABC, in dem den Ecken A, B, C die Winkel Îą, Î˛, Îł zugeordnet sind und die
+Seiten a, b, c gegenuĚberliegen, gelten:
+a
+sin(Îą)
+=
+(Sinussatz)
+b
+sin(Î˛)
+a2 = b2 + c2 â 2bc Âˇ cos(Îą) (Kosinussatz)
+
+Definition (II.6)
+Seien Ď, Ď â IR mit cos(Ď) 6= 0, sin(Ď) 6= 0. Man definiert:
+sin(Ď)
+tan(Ď) :=
+Tangens
+cos(Ď)
+cos(Ď)
+cot(Ď) :=
+Kotangens
+sin(Ď)
+
+Kompaktskript Mathematik
+Satz (II.7)
+Seien Ď, Ď â IR mit Ď, Ď, Ď + Ď 6= kĎ +
+sin(2Ď)
+tan(Ď) =
+;
+1 + cos(2Ď)
+tan(Ď) Âą tan(Ď)
+;
+tan(Ď Âą Ď) =
+1 â tan(Ď) Âˇ tan(Ď)
+
+II. Trigonometrische Funktionen 10
+
+Ď
+2
+
+fuĚr alle k â ZZ.
+
+Satz (II.8) (Ableitung trigonometrischer Funktionen)
+d
+sin(Ď) = cos(Ď)
+dĎ
+d
+cos(Ď) = â sin(Ď)
+dĎ
+d
+1
+tan(Ď) =
+= 1 + tan2 (Ď)
+dĎ
+cos2 (Ď)
+d
+â1
+cot(Ď) =
+= â1 â tan2 (Ď)
+2
+dĎ
+sin (Ď)
+Satz (II.9) (Taylor-Entwicklung)
+FuĚr alle x â IR ist:
+x3 x5 x7
++
+â
+Âą ...
+sin(x) = x â
+3!
+5!
+7!
+x2 x4 x6
++
+â
+â ...
+cos(x) = 1 â
+2!
+4!
+6!
+Definition (II.10) (Arkus-Funktionen)
+Die trigonometrischen Funktionen sin, cos, tan, cot sind auf geeigneten Definitionsbereichen umkehrbar, und zwar:
+arcsin : [ â 1, 1] â [ â Ď2 , Ď2 ], arcsin(x) := sinâ1 (x) Arkussinus
+arccos : [ â 1, 1] â [0, Ď], arccos(x) := cosâ1 (x) Arkuskosinus
+arctan : IR â (â Ď2 , Ď2 ), arctan(x) := tanâ1 (x) Arkustangens
+arccot : IR â (0, Ď), arccot (x) := cotâ1 (x) Arkuskotangens
+Satz (II.11)
+Ď
+fuĚr x â [ â 1, 1]
+2
+Ď
+arctan(x) + arccot (x) = fuĚr x â IR.
+2
+â
+cos(arcsin(x)) = sin(arccos(x)) = 1 â x2 .
+arcsin(x) + arccos(x) =
+
+Satz (II.12) (Ableitungen der Arkusfunktionen)
+d
+1
+arcsin(x) = â
+dx
+1 â x2
+d
+â1
+arccos(x) = â
+dx
+1 â x2
+d
+1
+arctan(x) =
+dx
+1 + x2
+d
+â1
+arccot (x) =
+dx
+1 + x2
+
+Kompaktskript Mathematik
+
+II. Trigonometrische Funktionen 11
+
+Definition (II.13)
+Eine Funktion der Form:
+f (t) = A Âˇ sin(Ď Âˇ t + Î´) oder f (t) = A Âˇ cos(Ď Âˇ t + Î´) mit A, Ď, Î´ â IR
+heiĂt harmonische Schwingung (HS) . A nennt man die Amplitude ,
+Ď die Winkelgeschwindigkeit ,
+
+Ď
+2Ď
+
+die Frequenz
+
+und Î´ den Phasenwinkel .
+
+Satz (II.14)
+Die UĚberlagerung (d.h. Addition) zweier harmonischer Schwingungen gleicher Frequenz
+ist wieder eine harmonische Schwingung.
+Ist f (t) = A Âˇ cos(Ďt) und g(t) = B Âˇ sin(Ďt), so ist
+â
+f (t) + g(t) = A2 + B 2 cos(Ďt â Î´), wobei tan(Î´) = B
+.
+A
+
+Kompaktskript Mathematik
+
+III. Komplexe Zahlen
+
+12
+
+III. Komplexe Zahlen
+Definition (III.1)
+C
+|:= {(a, b) | a, b â IR} heiĂt Menge der Komplexen Zahlen
+oder Gaussâsche Zahlenebene .
+Man definiert die Addition: (a, b) + (c, d) := (a + c, b + d)
+und die Multiplikation: (a, b) Âˇ (c, d) := (ac â bd, ad + bc)
+Schreibweise: 0 := (0, 0); 1 := (1, 0); i := (0, 1);
+fuĚr a, b â IR bezeichnet man mit a auch die komplexe Zahl (a,0) und schreibt statt
+(a,b) auch a+ib .
+Satz (III.2)
+C
+| mit Addition (+) und Multiplikation ( Âˇ ) ist ein KoĚrper,
+d.h. fuĚr z, z1 , z2 , z3 â C
+| gelten:
+(1) z1 + z2 = z2 + z1
+(2) z1 Âˇ z2 = z2 Âˇ z1
+(3) 0 + z = z
+(4) 1 Âˇ z = z
+(5) z1 + (z2 + z3 ) = (z1 + z2 ) + z3
+(6) z1 Âˇ (z2 Âˇ z3 ) = (z1 Âˇ z2 ) Âˇ z3
+(7) z Âˇ (z1 + z2 ) = z Âˇ z1 + z Âˇ z2
+(8) es gibt genau eine Zahl (âz) âC
+|, so dass z + (âz) = 0
+(9) ist z 6= 0, so gibt es genau eine Zahl (z â1 ) âC
+|, so dass z Âˇ (z â1 ) = 1
+Definition (III.3)
+Sei z âC
+|, z = a + ib mit a, b â IR.
+Re (z) := a heiĂt Realteil von z. Im (z) := b heiĂt ImaginaĚrteil von z.
+â
+| z |:= a2 + b2 heiĂt Betrag von z.
+z := a â ib heiĂt die konjugiert komplexe Zahl zu z.
+Ist z 6= 0 und Ď der Winkel zwischen der Strecke 0z und der positiven Realachse, also
+sin Ď = Im (z)/ | z | und cos Ď = Re (z)/ | z |,
+so heiĂt arg(z) := Ď das Argument von z.
+Satz (III.4)
+Seien z, z1 , z2 â C
+|. Dann gelten:
+Re (z) = Re (z); Im (z) = Im (âz);
+z + z = 2Re (z) â IR
+z Âˇ z =| z |2 â IR
+z1 Âˇ z2 = z1 Âˇ z2
+z1 + z2 = z1 + z2
+| z1 Âˇ z2 |=| z1 | Âˇ | z2 |
+| z1 + z2 |â¤| z1 | + | z2 |
+arg(z1 Âˇ z2 ) = arg(z1 ) + arg(z2 )
+Satz (III.5)
+Jede komplexe Zahl z âC
+| ist eindeutig durch ihren Betrag und ihr Argument bestimmt:
+z =| z | Âˇ(cos(arg(z)) + i sin(arg(z))).
+
+Kompaktskript Mathematik
+
+III. Komplexe Zahlen
+
+13
+
+Definition (III.6)
+Sei z â C
+|. UÎľ (z) := {u âC
+| | | u â z |< Îľ} heiĂt offene Îľ-Umgebung von z.
+Ist (zk )kâIN eine Folge in C
+| und c âC
+|, so konvergiert sie gegen c, (zk )kâIN ââ c ,
+genau dann, wenn die reelle Folge (| zk â c |)kâIN ââ 0.
+Sei (ai )iâIN eine Folge in C
+|. Die Konvergenz der zugehoĚrigen Reihe ist definiert durch:
+â
+X
+
+ak = c :ââ (
+
+k=0
+
+n
+X
+
+ak )nâIN ââ c
+
+k=0
+
+| ist
+FuĚr den Entwicklungspunkt z0 âC
+â
+X
+
+ak Âˇ (z â z0 )k
+
+k=0
+
+die zugehoĚrige Potenzreihe in C
+|.
+Definition und Satz (III.7) (Komplexe e-Funktion)
+â
+X
+1 k
+Die Potenzreihe:
+exp (z) :=
+z
+k=0 k!
+ist fuĚr alle z â C
+| konvergent. exp(z) heiĂt Komplexe Exponentialfunktion
+wird auch mit ez bezeichnet.
+
+und
+
+Satz (III.8)
+Seien u, v â C
+| , n, m â IN, m 6= 0. Dann gelten:
+(1) exp(u + v) = exp(u) Âˇ exp(v)
+d
+(2) du
+exp(u) = exp(u)
+â
+n
+) = m en
+(3) exp( m
+Satz (III.9) (Eulerâsche Formel)
+Sei a, b â IR.
+ea+ib = ea (cos b + i sin b)
+Somit: | ea+ib |= ea und arg(ea+ib ) = b.
+Definition (III.10) (Kartesische und Polar-Koordinaten)
+Eine komplexe Zahl z kann dargestellt werden:
+(1) in kartesischen Koordinaten: z = (a, b) = a + ib ( a, b â IR, a, b eindeutig)
+oder
+(2) in Polarkoordinaten :
+z = x Âˇ eiy (x, y â IR, x eindeutig, aber 0 â¤ y < 2Ď
+nur eindeutig fuĚr z 6= 0).
+Satz (III.11) (Umrechnungsregeln)
+â
+Hat z die kartesische Form z = a + ib, dann ist die Polarform: z = a2 + b2 Âˇ eiĎ ,
+wobei tan(Ď) = ab , also
+(
+
+Ď=
+
+fuĚr z im I. oder IV.Q.
+arctan( ab )
+b
+arctan( a ) + Ď fuĚr z im II. oder III.Q.
+
+Hat z die Polarform z = x Âˇ eiy , dann ist die kartesische Form: z = x(cos(y) + i sin(y))
+
+Kompaktskript Mathematik
+
+III. Komplexe Zahlen
+
+14
+
+Satz (III.12)
+Sei z â C
+|, z 6= 0, n â IN, n âĽ 1.
+Dann hat z genau n n-te Wurzeln ,d.h. Zahlen z0 , z1 ....znâ1 â C
+|, alle paarweise vern
+n
+n
+schieden, mit z0 = z1 = ... = znâ1 = z.
+zk =
+
+q
+n
+
+| z | Âˇ ei
+
+arg(z)+2kĎ
+n
+
+(k = 0, ..., n â 1)
+
+Satz (III.13) (Fundamentalsatz der Algebra)
+Jedes Polynom in C
+| hat eine Nullstelle.
+Deshalb laĚsst sich jedes Polynom in C
+| vollstaĚndig in Linearfaktoren aufspalten:
+P (z) = (z â z1 )(z â z2 )....(z â zn ), wobei n der Grad von P (z) ist, und zi die (nicht
+notwendig verschiedenen) Nullstellen von P (z) sind.
+Satz (III.14)
+P
+Sei P (z) ein Polynom in C
+| mit Koeffizienten aus IR, also P (z) = nk=0 ak z k mit ak â IR.
+Dann ist zu jeder Nullstelle u von P (z) auch u eine Nullstelle von P (z).
+Definition (III.15) (Komplexifizierung)
+Sei A, Ď, Ď â IR.
+Aus der reellen Funktion y(t) = A Âˇ sin(Ďt + Ď) kann die komplexe Funktion
+| gebildet werden:
+y : IR â C
+y(t) := A Âˇ eiÂˇ(Ďt+Ď) = (A Âˇ eiÂˇĎ ) Âˇ (eiĎt ).
+y heiĂt die â Komplexifizierte â zu y.
+Mit A wird die komplexe Zahl A Âˇ eiÂˇĎ bezeichnet.
+
+Kompaktskript Mathematik I
+
+IV. Exponentialfunktion u. Logarithmus 15
+
+IV. Exponentialfunktion u. Logarithmus
+Definition und Satz (IV.1) (Exponentialfunktion)
+Die Potenzreihe:
+â
+X
+1 k
+exp (x) :=
+x
+k=0 k!
+ist fuĚr alle x â IR konvergent. exp(x) heiĂt Exponentialfunktion und wird auch mit
+ex bezeichnet.
+exp(1) = e = 2.7182818284... heiĂt die Eulerâsche Konstante .
+Satz (IV.2)
+d
+(1) dx
+exp(x) = exp(x)
+(2) Gilt fuĚr eine Funktion f : IR â IR, dass f = f 0 , so ist f (x) = c Âˇ exp(x).
+Satz (IV.3)
+Seien x, y â IR , n, m â IN, m 6= 0. Dann gelten:
+(1) exp(x + y) â
+= exp(x) Âˇ exp(y)
+m n
+n
+(2) exp( m ) = e
+Satz (IV.4)
+FuĚr alle x â IR gilt: nââ
+lim (1 +
+
+x n
+) = ex .
+n
+
+Satz (IV.5)
+Die Exponentialfunktion ex waĚchst staĚrker als jedes Polynom.
+Definition (IV.6) (Nat. Logarithmus)
+ln : IR+ â IR ist die Umkehrfunktion zur e-Funktion und heiĂt NatuĚrlicher Logarithmus
+.
+ln(x) = y :ââ ey = x.
+Satz (IV.7) (Rechenregeln fuĚr Logarithmus)
+ln(xy) = ln(x) + ln(y);
+
+x
+ln( ) = ln(x) â ln(y);
+y
+
+ln(xn ) = n Âˇ ln(x).
+
+Definition (IV.8)
+Zu a â IR definiert man: ax := eln(a)Âˇx .
+Definition (IV.9) (Allg. Logarithmus)
+FuĚr b â IR, b > 0 ist logb : IR+ â IR, logb (x) = y :ââ by = x.
+logb heiĂt Logarithmus zur Basis b .
+
+Satz (IV.10)
+Sei a, b â IR, a, b > 0. Dann gilt:
+logb (a) =
+
+ln(a)
+.
+ln(b)
+
+Kompaktskript Mathematik I
+
+IV. Exponentialfunktion u. Logarithmus 16
+
+Satz (IV.11) (Ableitung und Taylorentwicklung)
+d
+1
+logb (x) =
+.
+dx
+ln(b) Âˇ x
+
+d
+ln(x) = 1/x .
+dx
+ln(x) =
+
+xâ1
+1
+
+â
+
+(xâ1)2
+2
+
++
+
+(xâ1)3
+3
+
+k
+
+â ... Âą (â1)k+1 (xâ1)
+fuĚr 0 < x < 2.
+k
+
+Definition (IV.12)
+Sei f : A â IR differenzierbar.
+Eine Gleichung, in der die Variable x und die abhaĚngige Variable y(x) auftreten koĚnnen,
+und die Ableitung y 0 (x) (aber keine hoĚhere Ableitung, yâ, yââ,..) mindestens einmal vorkommt, heiĂt Differentialgleichung 1. Ordnung (DGL) . f (x) ist eine LoĚsung
+der DGL, wenn bei der Ersetzung von y durch f (x) und y 0 (x) durch f 0 (x) die Gleichung
+erfuĚllt ist.
+Satz (IV.13)
+Gegeben sei die Differentialgleichung: y 0 = g(x)Âˇy ( Homogene Lineare DGL ), wobei
+g : A â IR. Dann haben die LoĚsungen der DGL alle die Form:
+y = C Âˇ eG(x) ,
+wobei C â IR und G eine Stammfunktion von g ist.
+Satz (IV.14)
+Sei y 0 = g(x) Âˇ y + s(x) ( Inhomogene Lineare DGL ),
+s(x)
+wobei g : A â IR , s : A â IR und
+sei konstant.
+g(x)
+Dann haben die LoĚsungen der DGL alle die Form:
+y = C Âˇ eG(x) â
+
+s(x)
+,
+g(x)
+
+wobei C â IR und G eine Stammfunktion von g ist.
+Definition (IV.15) Hyperbelfunktionen
+sinh(x) := 12 (ex â eâx ) âSinus hyperbolicusâ
+cosh(x) := 21 (ex + eâx ) âCosinus hyperbolicusâ
+tanh(x) :=
+
+sinh(x)
+cosh(x)
+
+âTangens hyperbolicusâ
+
+Satz (IV.16)
+Additionssatz: sinh(x Âą y) = sinh(x) Âˇ cosh(y) Âą cosh(x) Âˇ sinh(y)
+cosh(x Âą y) = cosh(x) Âˇ cosh(y) Âą sinh(x) Âˇ sinh(y)
+Ableitung:
+sinh0 (x) = cosh(x)
+cosh0 (x) = sinh(x)
+3
+5
+7
+Taylor-Reihe: sinh(x) = x + x3! + x5! + x7! + ...
+2
+4
+6
+cosh(x) = 1 + x2! + x4! + x6! + ...
+
+Kompaktskript Mathematik
+
+V. Integration 17
+
+V. Integration
+Definition (V.1)
+Eine Funktion T : [a, b] â IR heiĂt Treppenfunktion , wenn es x0 , x1 , ..., xn â IR gibt,
+so dass a = x0 < x1 < x2 < ... < xn = b und fuĚr alle i < n T auf [xi , xi+1 ) konstant ist.
+FT :=
+
+n
+X
+
+00
+
+T (xkâ1 ) Âˇ (xk â xkâ1 )
+
+Summe der Stuf enf laĚchen00
+
+k=1
+
+Definition (V.2) (Riemann-Integral)
+Sei f : [a, b] â IR eine Funktion mit f (x) âĽ 0 fuĚr alle x â [a, b].
+Dann heiĂt:
+Z
+
+b
+
+a
+
+f (x)dx := sup(FT | T ist Treppenfunktion auf [a, b] und T (x) â¤ f (x) )
+
+das Bestimmte Integral (Riemann-Integral) uĚber f von a bis b.
+
+Satz (V.3) (Hauptsatz der Differenzial-und Integralrechnung)
+Sei f : [a, b] â IR eine Funktion mit f (x) âĽ 0 fuĚr alle x â [a, b] und F eine Stammfunktion zu f . Dann ist
+b
+
+Z
+
+a
+
+f (x)dx = F (b) â F (a) =: F (x) |ba .
+
+Definition (V.2)* (Erweitertete Def. des Riemann-Integrals, wg. Satz (V.3))
+Sei f : [a, b] â IR und F eine Stammfunktion von f . Dann heiĂt:
+Z
+
+b
+
+f (x)dx := F (b) â F (a)
+
+a
+
+das Bestimmte Integral (Riemann-Integral) uĚber f von a bis b.
+Definition (V.4) (Unbestimmtes Integral)
+R
+Sei
+f
+:
+[a,
+b]
+â
+IR.
+Dann
+bezeichnet
+f (x)dx die Menge aller Stammfunktionen von f .
+R
+0
+f (x)dx = {F : [a,Rb] â IR | F = f } heiĂt das Unbestimmte Integral von f .
+Man schreibt auch: f (x)dx = F (x) + C, wobei F eine StammfunktionRvon f und C â IR.
+f heiĂt integrierbar , wenn es eine Stammfunktion hat, wenn also f (x)dx 6= Ă.
+Satz (V.5)
+Seien f, g : [a, b] â IR, Îť, c â IR, a â¤ c â¤ b. Dann gelten:
+Z
+
+b
+
+f (x)dx =
+
+a
+
+Z
+
+Z
+
+c
+
+f (x)dx +
+
+a
+
+b
+
+f (x) + g(x)dx =
+
+a
+
+Z
+
+b
+
+f (x)dx +
+
+b
+
+a
+
+b
+
+f (x)dx.
+
+c
+
+a
+
+Z
+
+Z
+
+Îť Âˇ f (x)dx = Îť Âˇ
+
+Z
+
+b
+
+g(x)dx.
+
+a
+
+Z
+
+b
+
+a
+
+f (x)dx.
+
+Kompaktskript Mathematik
+
+V. Integration 18
+
+Satz (V.6)
+Sei f : [a, b] â IR integrierbar und c â [a, b].Dann ist
+Fc (x) :=
+
+Z
+
+x
+
+f (y)dy
+
+c
+
+eine Stammfunktion von f .
+Definition (V.7)
+Sei f : [a, b] â IR und sei a = u1 < u2 < ... < un = b eine Zerlegung von [a,b]. Ist f in
+jedem Abschnitt (ui , ui+1 ) integrierbar, so definiert man:
+Z
+
+b
+
+u2
+
+Z
+
+f (x)dx :=
+
+f (x)dx +
+
+u3
+
+f (x)dx... +
+
+Z
+
+un
+
+f (x)dx.
+
+unâ1
+
+u2
+
+u1
+
+a
+
+Z
+
+Satz (V.8) (Mittelwertsatz der Integralrechnung)
+Sei f : [a, b] â IR stetig. Dann gibt ein x0 â [a, b], so dass
+Z
+
+b
+
+a
+
+f (x)dx = (b â a) Âˇ f (x0 ).
+
+Satz (V.9) (Substitution)
+Sei f : [c, d] â IR integrierbar,F eine Stammfunktion von f und sei g : [a, b] â [c, d]
+differenzierbar. Dann ist
+Z
+
+b
+
+0
+
+f (g(t)) Âˇ g (t)dt =
+
+Z
+
+g(b)
+
+f (x)dx.
+
+g(a)
+
+a
+
+Z
+
+f (g(t)) Âˇ g 0 (t)dt = F (g(t)) + C.
+
+Satz (V.10) (HaĚufige Substitutionen)
+Sei f : [a, b] â IR integrierbar, F eine Stammfunktion von f , a, b, z â IR, z 6= â1.
+1
+Âˇ F (ax + b) + C
+a
+Z
+1
+f (x) Âˇ f 0 (x)dx = Âˇ f (x)2 + C
+2
+Z
+1
+f (x)z Âˇ f 0 (x)dx =
+Âˇ f (x)z+1 + C
+z+1
+Z 0
+f (x)
+dx = ln | f (x) | + C
+f (x)
+Z
+
+(1)
+(2)
+(3)
+(4)
+
+f (ax + b)dx =
+
+Satz (V.11) (Partielle Integration)
+Seien g, h : [a, b] â IR differenzierbar. Dann ist
+Z
+
+0
+
+g(x) Âˇ h (x)dx = g(x) Âˇ h(x) â
+
+Z
+
+g 0 (x) Âˇ h(x)dx.
+
+Kompaktskript Mathematik
+
+V. Integration 19
+
+Definition (V.12)
+P (x)
+mit
+Q(x)
+P (x) = a0 + a1 x + a2 x2 + ... + an xn und Q(x) = b0 + b1 x + b2 x2 + ... + bm xm
+heiĂt Rationale Funktion . Ist m > n, so heiĂt sie echt rational .
+Eine Funktion der Form f (x) =
+
+Satz (V.13)
+Seien P (x) = a0 +a1 x+a2 x2 +...+an xn und Q(x) = b0 +b1 x+b2 x2 +...+bm xm Polynome.
+Wenn fuĚr alle x â IR : P (x) = Q(x), dann ist m = n und ai = bi fuĚr alle 0 â¤ i â¤ n.
+Satz (V.14)
+Jedes Polynom P (x) in IR laĚsst sich eindeutig schreiben als Produkt aus Linearfaktoren
+der Form (x â a) und irreduziblen quadratischen Polynomen der Form (x2 + bx + c), wobei
+a, b, c â IR.
+Satz (V.15) (Partialbruchzerlegung)
+P (x)
+Jede echt rationale Funktion
+laĚsst sich darstellen als Summe von rationalen FunkQ(x)
+A
+Bx + C
+tionen der Gestalt
+oder der Gestalt 2
+, wobei A, B, C, b, c, d â IR
+j
+(x â b)
+(x + cx + d)j
+und j â IN, j âĽ 1.
+Definition (V.16) (Durchschnittswerte)
+Sei f : [a, b] â IR integrierbar. Dann heiĂt
+Z b
+1
+f (x)dx
+f :=
+Âˇ
+bâa a
+
+der Durchschnittswert (oder Mittelwert ) von f zwischen a und b.
+Definition (V.17) (Uneigentliches Integral)
+Sei f : [a, b) â IR integrierbar wobei b â IR âŞ {â}. Wenn der Grenzwert
+lim
+
+Z
+
+s
+
+sâb a
+
+f (x)dx
+
+existiert, so heiĂt er uneigentliches (rechtsseitiges) Integral und wird mit ab f (x)dx
+bezeichnet.
+Entsprechend definiert man ein uneigentliches linksseitiges bzw. beidseitiges Integral.
+R
+
+Satz (V.18) (Gamma-Funktion)
+Z
+
+â
+
+Die Funktion Î(Îą) :=
+eât tÎąâ1 dt ist fuĚr alle Îą > 0 definiert und heiĂt Gamma-Funktion
+0
+.
+Es gilt Î(x + 1) = x Âˇ Î(x) und Î(n + 1) = n! fuĚr n â IN .
+
+Kompaktskript Mathematik
+
+VI. Vektorrechnung
+
+20
+
+VI. Vektorrechnung
+Definition (VI.1)
+Ein zweidimensionaler Vektor
+
+ist ein Paar
+
+ 
+x
+mit x, y â IR.
+y
+
+Koordinaten
+.
+x und yheiĂen
+
+
+x
+2
+IR :=
+| x, y â IR ist der zweidimensionale IR-Vektorraum .
+y
+Definition (VI.2)
+ 
+ 
+a1 ~
+b
+Seien ~a = a , b = b1 â IR2 , Îť â IR. Man definiert:
+2
+
+2
+
+
+
+a +b
+~a + ~b := a1 + b1
+2
+2
+
+
+Îť Âˇ ~a :=
+
+Îť Âˇ a1
+Îť Âˇ a2
+
+
+
+(Vektoraddition)
+
+
+
+(Muliplikation mit Skalar)
+
+Satz (VI.3)
+Seien ~x, ~y , ~z â IR2 , Îť, Âľ â IR. Dann gelten:
+1)
+(~x + ~y ) + ~z = ~x + (~y + ~z).
+2)
+~x + ~y = ~y + ~x.
+3)
+Îť Âˇ (~x + ~y ) = Îť Âˇ ~x + Îť Âˇ ~y .
+4)
+(Îť + Âľ) Âˇ ~x = Îť Âˇ ~x + Âľ Âˇ ~x.
+Definition (VI.4)
+Sei ~a â IR2 .
+|~a|:=
+
+q
+
+a21 + a22
+
+heiĂt Betrag
+
+(oder LaĚnge ) von ~a und wird auch mit a bezeichnet.
+
+Satz (VI.5)
+Seien ~x, ~y â IR2 , Îť â IR. Dann gelten:
+1)
+|Îť Âˇ ~x|=|Îť| Âˇ |~x| .
+2)
+|~x + ~y |â¤|~x| + |~y | .
+(Dreiecksungleichung)
+3)
+|~x â ~y |â¤|~x| + |~y | .
+Definition (VI.6)
+Seien ~x, ~y â IR2 .
+~x.~y := x1 y1 + x2 y2
+heiĂt Skalarprodukt .
+~x âĽ ~y :ââ ~x.~y = 0 âx steht zu y senkrechtâ
+âĽ
+
+~x :=
+
+
+
+âx2
+x1
+
+
+
+âx orthogonal, d.h. Drehung um 90âŚ gegen Uhrzeigersinnâ
+
+Kompaktskript Mathematik
+
+VI. Vektorrechnung
+
+21
+
+Satz (VI.7)
+Seien ~x, ~y , ~z â IR2 , Îť â IR. Dann gelten:
+1)
+~x.~y = ~y .~x
+2)
+(~x + ~y ).~z = ~x.~z + ~y .~z
+3)
+Îť Âˇ (~x.~y ) = (Îť~x).~y = ~x.(Îť~y )
+4)
+~x.~x =|~x|2
+Satz (VI.8)
+Seien ~x, ~y â IR2 , ~x, ~y 6= 0, und sei Ď der Winkel zwischen ~x und ~y .
+Dann ist ~x.~y =|~x| Âˇ |~y | Âˇ cos(Ď).
+Somit gilt |~x.~y |â¤|~x| Âˇ |~y | . ( âCauchy-Schwarz-Ungleichungâ )
+Definition (VI.9)
+Seien ~a, ~v â IR2 . Dann heiĂt
+G := {~a + Îť~v | Îť â IR } eine Gerade .
+Man schreibt auch G = ~a + Îť~v .
+~a heiĂt AufhaĚngepunkt , ~v Richtungsvektor
+
+von G.
+
+Satz (VI.10)
+Gegeben
+ sei
+ die Gleichung (â) ax + by + c = 0, wobei a, b, c â IR und a 6= 0. Dann ist
+x
+
+G := { y | ax + by + c = 0 } eine Gerade.
+Die Gleichung (â) heiĂt implizite Geradengleichung . Es gilt:
+
+
+G=
+
+âc/a
+0
+
+
+
++ÎťÂˇ
+
+
+
+
+b/a
+.
+â1
+
+Satz und Definition (VI.11)
+Sei G eine Gerade in IR2 und ~z â G, so dass | ~z | minimal ist. Dann ist G darstellbar
+durch die implizite Geradengleichung
+x cos Îł + y sin Îłâ |~z |= 0,
+wobei Îł der Winkel zwischen ~z und der positiven x-Achse gegen den Uhrzeigersinn ist.
+Diese Darstellung heiĂt Hesseâsche Normalform der Geraden G.
+Satz (VI.12)
+
+
+Sei G =
+
+a1
+a2
+
+
+
+
+
+v
+
+
+
++ Îť v1 . Dann ist
+2
+
+v 2 x â v 1 y + a2 v 1 â a1 v 2 = 0
+eine implizite Geradengleichung zu G .
+Satz (VI.13)
+Sei die
+G gegeben durch die Hesseâsche Normalform ax + by â c = 0 und sei
+ Gerade
+
+p
+
+P = p1 .
+2
+Dann ist |a Âˇ p1 + b Âˇ p2 â c| der Abstand von P zu G.
+
+Kompaktskript Mathematik
+
+VI. Vektorrechnung
+
+22
+
+Definition (VI.14)
+ďŁŤ ďŁś
+x
+Ein dreidimensionaler Vektor ist ein Tripel ďŁ­ y ďŁ¸ mit x, y, z â IR.
+z
+ďŁąďŁŤ ďŁś
+ďŁź
+ďŁ˛ x
+ďŁ˝
+IR3 := ďŁłďŁ­ y ďŁ¸ | x, y, z â IRďŁž ist der dreidimensionale IR-Vektorraum .
+ďŁŤz ďŁś
+ďŁŤ ďŁś
+x1
+y1
+FuĚr ~x = ďŁ­ x2 ďŁ¸, ~y = ďŁ­ y2 ďŁ¸, Îť â IR definiert man:
+x
+y3
+ďŁŤ 3
+ďŁś
+x1 + y1
+~x + ~y := ďŁ­ x2 + y2 ďŁ¸
+(Vektoraddition)
+x3 + y3
+ďŁŤ
+ďŁś
+Îťx1
+Îť Âˇ ~x := ďŁ­ Îťx2 ďŁ¸
+(Multiplikation mit Skalar)
+Îťx3
+
+~x.~y :=qx1 y1 + x2 y2 + x3 y3
+|~x|:= x21 + x22 + x23
+~x âĽ ~y :ââ ~x.~y = 0
+
+(Skalarprodukt)
+(Betrag od. LaĚnge)
+(x steht zu y senkrecht)
+
+Die SaĚtze VI.3, VI.5, VI.7, VI.8 gelten auch fuĚr Vektoren aus IR3 .
+Satz (VI.15)
+~ B,
+~ C,
+~ D
+~ ein Viereck in IR3 bestimmt mit den Seiten
+Sei durch A,
+~ â A,
+~ ~b = C
+~ â B,
+~ ~c = D
+~ â C,
+~ d~ = A
+~ â D.
+~
+~a = B
+Dann spannen die Mittelpunkte der Seiten ein Parallelogramm auf.
+Definition (VI.16)
+Die Vektoren v~1 , v~2 , ..., v~n â IR3 (bzw. IR2 ). heiĂen linear unabhaĚngig voneinander
+, wenn es keine Îť1 , Îť2 , ..., Îťn â IR gibt, so dass Îť1 v~1 + Îť2 v~2 + ... + Îťn v~n = 0, auĂer fuĚr
+Îť1 = Îť2 = ... = Îťn = 0.
+Definition (VI.17)
+Drei Vektoren b~1 , b~2 , b~3 bilden eine Basis B = {b~1 , b~2 , b~3 } von IR3 , wenn sich jeder Vektor ~x â IR3 als ~x = Îť1 b~1 + Îť2 b~2 + Îť3 b~3 darstellen laĚsst.
+[entsprechend: zwei Vektoren v~1 , v~2 bilden eine Basis von IR2 , wenn sich jedes ~x â IR2 als
+x = Îť1 v~1 + Îť2 v~2 darstellen laĚsst. ]
+Eine Basis heiĂt orthogonal , wenn all ihre Vektoren zueinander senkrecht stehen.
+Eine Basis heiĂt Einheitsbasis , wenn all ihre Vektoren die LaĚnge 1 haben.
+Eine orthogonale Einheitsbasis heiĂt Orthonormalbasis .
+Satz (VI.18)
+In IR3 [ bzw. IR2 ] bilden drei [ bzw. zwei ] Vektoren eine Basis genau dann, wenn sie
+linear unabhaĚngig sind.
+Definition (VI.19)
+Sei B = {b~1 , b~2 , b~3 } eine orthogonale Basis von IR3 .
+B heiĂt rechtshaĚndig orientiert , wenn b~1 , b~2 , b~3 diesselbe Orientierung aufweisen wie
+Daumen, Zeigefinger und Mittelfinger der rechten Hand.
+
+Kompaktskript Mathematik
+
+VI. Vektorrechnung
+
+23
+
+Definition (VI.20)
+Seien ~x, ~yďŁŤâ IR3 .
+
+ďŁś
+x2 y3 â x3 y2
+~x Ă ~y := ďŁ­ x3 y1 â x1 y3 ďŁ¸ heiĂt Vektorprodukt
+x1 y2 â x2 y1
+
+aus ~x und ~y .
+
+Satz (VI.21)
+Seien ~x, ~y â IR3 , Îť â IR. Dann gilt:
+1)
+~x Ă ~y = â~y Ă ~x.
+2)
+Îť(~x Ă ~y ) = Îť~x Ă ~y = ~x Ă Îť~y .
+3)
+~x Ă (~y + ~z) = (~x Ă ~y ) + (~x Ă ~z).
+4)
+|~x Ă ~y |2 = (~x.~x)(~y .~y ) â (~x.~y )2 .
+5)
+Ist Ď der Winkel zwischen ~x und ~y , so ist |~x Ă ~y |=|~x| Âˇ |~y | Âˇ |sin Ď|.
+Satz (VI.22)
+Seien ~x, ~y â IR3 , ~x, ~y 6= 0.
+Dann sind 0, ~x, ~x + ~y , ~y die Ecken eines Parallelogramms mit dem FlaĚcheninhalt |~x Ă ~y | .
+Definition (VI.23)
+Seien ~a, ~v â IR3 .
+G:={~a + Îť~v | Îť â IR } heiĂt Gerade in IR3 mit AufhaĚngepunkt ~a und Richtungsvektor
+~v .
+Man schreibt auch G = ~a + Îť~v .
+Satz (VI.24)
+Seien G= ~a + Îť~v und H = ~b + Îťw.
+~ Dann gilt entweder:
+1)
+G = H,
+oder
+2)
+G k H, d.h. G 6= H und es gibt ein Âľ â IR, so dass ~v = Âľw
+~ (Geraden sind parallel)
+oder
+ďŁŤ ďŁś
+s1
+
+3)
+
+G âŠ H = {ďŁ­ s2 ďŁ¸}
+
+(Geraden schneiden sich in einem Punkt)
+
+s3
+
+oder
+4)
+GâŠH=â
+
+(Geraden sind windschief)
+
+Wenn G und H nicht parallel sind, ist
+d=
+
+|(~v Ă w)
+~ .(~a â ~b)|
+|~v Ă w|
+~
+
+der kuĚrzeste Abstand zwischen G und H.
+Satz (VI.25)
+~x, ~y , ~z â IR3 liegen auf einer Geraden genau dann, wenn (~x Ă ~y ) + (~y Ă ~z) + (~z Ă ~x) = 0.
+
+Kompaktskript Mathematik
+
+VI. Vektorrechnung
+
+24
+
+Satz (VI.26)
+Seien ~a, ~v , p~ â IR3 . und G= ~a + Îť~v . Dann ist
+d=
+
+|(~v Ă (~p â ~a)|
+|~v |
+
+der kuĚrzeste Abstand zwischen G und dem Punkt p~ .
+Definition (VI.27)
+Seien ~a, ~v , w
+~ â IR3 , wobei ~v und w
+~ linear unabhaĚngig sind. Dann heiĂt
+E := {~a + Îť~v + Âľw
+~ | Îť, Âľ â IR } Ebene in IR3 .
+Man schreibt auch E = ~a + Îť~v + Âľw
+~ .
+Definition (VI.28)
+Sei E = ~a + Îť~v + Âľw
+~ eine Ebene in IR3 .
+3
+~n â IR heiĂt Normalenvektor zu E, wenn ~n âĽ ~v und ~n âĽ w.
+~ Wenn |~n |= 1, heiĂt er
+auch Normaleneinheitsvektor und wird mit n~0 bezeichnet. Es gilt
+n~0 =
+
+~v Ă w
+~
+.
+|~v Ă w|
+~
+
+Satz (VI.29)
+Sei E eine Ebene in IR3 und p~ â IR3 . Dann ist
+d =|n~0 .(~p â ~a)|
+der Abstand von p~ zu E, wobei n~0 der Normaleneinheitsvektor zu E und ~a â E beliebig ist.
+Definition und Satz (VI.30)
+Seien a,
+c, d â IR, wobei mindestens eines der a, b, c ungleich Null ist. Dann ist
+ďŁŤb,ďŁś
+x
+
+E := {ďŁ­ y ďŁ¸ | ax + by + cz + d = 0 } eine Ebene in IR3 . Die Gleichung ax + by + cz + d = 0
+z
+
+heiĂt implizite Ebenengleichung . Die Gleichung
+ax + by + cz
+â
+â d = 0 mit d âĽ 0
+a2 + b 2 + c 2
+heiĂt Hesseâsche Normalform
+E zum Nullpunkt.
+
+der Ebenengleichung. Dabei ist d der Abstand von
+
+Satz (VI.31)
+Sei die Ebene E gegeben
+Ebenengleichung
+ax + by + cz + d = 0.
+ďŁŤ durch
+ďŁś die
+ďŁŤ implizite
+ďŁś
+ďŁŤ
+ďŁś
+âd/a
+
+âb/a
+
+âc/a
+
+Falls a 6= 0, gilt E = ďŁ­ 0 ďŁ¸ + ÎťďŁ­ 1 ďŁ¸ + ÂľďŁ­ 0 ďŁ¸
+0 ďŁś
+ďŁŤ 0 ďŁś
+ďŁŤ 1 ďŁś
+0
+1
+0
+ďŁ­
+ďŁ¸
+ďŁ­
+ďŁ¸
+ďŁ­
+ďŁ¸
+âd/b
+âa/b
+âc/b
+Falls b =
+6 0, gilt E =
++Îť
++Âľ
+0
+0
+1
+ďŁŤ
+
+Kompaktskript Mathematik
+
+VII. VektorraĚume und lineare Abbildungen 25
+
+VII. VektorraĚume und lineare Abbildungen
+Definition (VII.1)
+ďŁŤ
+
+Sei n âĽ 1. Ein n-dimensionaler Vektor ist ein n-Tupel
+
+ďŁś
+x1
+ďŁŹ x2 ďŁˇ
+ďŁŹ ďŁˇ
+ďŁŹ .. ďŁˇ
+ďŁ­ . ďŁ¸
+
+mit den Koordinaten
+
+xn
+
+x1 , ..., xďŁą
+â IR.
+nďŁŤ
+ďŁś
+IRn :=
+
+x1
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ˛ďŁŹ x2 ďŁˇ
+ďŁŹ ďŁˇ
+ďŁŹ .. ďŁˇ
+ďŁ´
+ďŁ­ . ďŁ¸
+ďŁ´
+ďŁ´
+ďŁł
+xn
+
+| x1 , ..., xn â IR
+
+ďŁź
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ˝
+
+ist der n-dimensionale IR-Vektorraum.
+
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁž
+
+FuĚr ~a, ~b â IRn ist die Addition ~a + ~b sowie die Multiplikation mit einem Skalar Îť~a
+koordinatenweise
+definiert wie fuĚr n = 2 oder n = 3.
+q
+2
+2
+|~a|:= a1 + a2 + ... + a2n .
+~a.~b := a1 b1 + a2 b2 + ...an bn .
+Die SaĚtze VI.3, VI.5, VI.7, VI.8 gelten auch fuĚr Vektoren aus IRn .
+Definition (VII.2)
+Sei n âĽ 1. Eine Teilmenge U â IRn heiĂt Untervektorraum von IRn , wenn sie gegen
+Addition und Skalarmultiplikation abgeschlossen ist, d.h. wenn
+1) fuĚr ~x, ~y â U : ~x + ~y â U
+2) fuĚr ~x â U, Îť â IR : Îť~x â U
+Definition (VII.3)
+Die Vektoren v~1 , v~2 , ..., v~m â IRn heiĂen linear unabhaĚngig voneinander , wenn es
+keine Îť1 , Îť2 , ..., Îťm â IR gibt, so dass Îť1 v~1 + Îť2 v~2 + ... + Îťm v~m = 0, auĂer fuĚr Îť1 = Îť2 =
+... = Îťm = 0.
+Definition (VII.4)
+Sei n âĽ 1, M â IRn .
+Die maximale Anzahl von linear unabhaĚngigen Vektoren in M nennt man die Dimension
+von M und bezeichnet sie mit dim(M ).
+Satz und Definition (VII.5)
+Sei n âĽ 1, M â IRn .
+Dann gibt es einen eindeutig bestimmten Unterraum U â IRn , so dass
+M â U und dim(M ) = dim(U ).
+Dieser Unterraum heiĂt der von M erzeugte (oder aufgespannte)
+IRn und wird auch mit span(M ) bezeichnet.
+
+Unterraum von
+
+Definition (VII.6)
+Sei n âĽ 1 und B = {~b1 , ..., ~bm } â IRn .
+Wenn dim(B) = m heiĂt B Basis des von B erzeugten Untervektorraumes.
+Ist insbesondere m = n, so ist B eine Basis von IRn .
+B heiĂt orthogonal , wenn ~bi âĽ ~bj fuĚr i 6= j â¤ m.
+B heiĂt Einheitsbasis , wenn |~bi |= 1 fuĚr i â¤ m.
+Eine orthogonale Einheitsbasis heiĂt Orthonormalbsis .
+
+Kompaktskript Mathematik
+
+VII. VektorraĚume und lineare Abbildungen 26
+
+Satz (VII.7)
+Seien U und W UntervektorraĚume von IRn . Dann gilt:
+1) U + W := {~u + w
+~ | ~u â U, w
+~ â W } ist ein Untervektorraum. (sog. Summenraum
+)
+2)
+U âŠ W ist ein Untervektorraum.
+Satz (VII.8) (Dimensionssatz)
+Seien U und W UntervektorraĚume von IRn .
+Dann ist dim(U + W ) = dim(U ) + dim(W ) â dim(U âŠ W )
+Satz (VII.9)
+Sei B = {~b1 , ..., ~bm } eine Basis des Untervektorraums U â IRn .
+Dann ist {~a1 , ..., ~am } eine Orthonormalbasis von U , wobei
+~a1 :=
+
+1 ~
+b1
+|~b1 |
+
+und fuĚr 2 â¤ k â¤ m :
+
+~ak :=
+
+kâ1
+X
+1 ~
+(~bk .~ai )~ai
+dk , wobei d~k := ~bk â
+|d~k |
+i=1
+
+Definition (VII.10)
+Seien U und V VektorraĚume.
+Eine Funktion f : U ââ V heiĂt lineare Abbildung , wenn gilt:
+1) f (~a + ~b) = f (~a) + f (~b) fuĚr alle ~a, ~b â U .
+2) f (Îť~a) = Îťf (~a) fuĚr alle ~a â U und Îť â IR.
+Satz (VII.11)
+Seien f, g : U ââ V und h : V ââ W lineare Abbildungen. Dann sind:
+1) f + g : U ââ V, (f + g)(~a) := f (~a) + g(~a) und
+2) h âŚ f : U ââ W, (h âŚ f )(~a) := h(f (~a))
+ebenfalls lineare Abbildungen.
+Definition und Satz (VII.12)
+Sei f : U ââ V eine lineare Abblidung. Man definiert:
+Bild(f ) := {f (~u) | ~u â U } â V und
+Kern(f ) := {~u | ~u â U, f (~u) = 0 } â U .
+Bild(f ) und Kern (f ) sind UntervektorraĚume von V bzw. U .
+dim(Bild(f )+dim(Kern(f )=dim(U ).
+Satz (VII.13)
+Ein rechteckiges Schema von Zahlen aus IR der Form
+ďŁŤ
+
+A=
+
+ďŁŹ
+ďŁŹ
+ďŁŹ
+ďŁŹ
+ďŁŹ
+ďŁŹ
+ďŁ­
+
+a11 a12 . . . a1n
+a21 a22 . . . a2n
+.
+.
+.
+.
+am1 am2 . . . amn
+
+ďŁś
+ďŁˇ
+ďŁˇ
+ďŁˇ
+ďŁˇ
+ďŁˇ
+ďŁˇ
+ďŁ¸
+
+Kompaktskript Mathematik
+
+VII. VektorraĚume und lineare Abbildungen 27
+
+heiĂt m-n-Matrix mit m Zeilen und n Spalten und wird auch mit (aij ) bezeichnet.
+(ai1 ...ain ) heiĂt i-ter Zeilenvektor ,
+ďŁŤ
+ďŁŹ
+ďŁŹ
+ďŁŹ
+ďŁ­
+
+a1j
+.
+.
+amj
+
+ďŁś
+ďŁˇ
+ďŁˇ
+ďŁˇ heiĂt
+ďŁ¸
+
+i-ter Spaltenvektor.
+
+Eine Matrix heiĂt Diagonalmatrix , wenn nur die Felder der Diagonale, also die Felder
+aii , von Null verschieden sein duĚrfen.
+Die n-n-Diagonalmatrix, deren Diagonale nur Einsen enthaĚlt, heiĂt Einheitsmatrix
+und wird mit E bezeichnet.
+Eine Matrix heiĂt Dreiecksmatrix , wenn alle Felder unterhalb der Diagonale 0 enthalten.
+Eine Matrix hat Zeilenstufenform (ZSF) , wenn ab der zweiten Zeile jeder Zeilenvektor mit einer Folge von Nullen beginnt, die laĚnger ist als die Folge von Nullen im
+daruĚberstehenden Zeilenvektor.
+Satz (VII.14)
+Jede lineare Abbildung f : IRn ââ IRm kann eindeutig durch eine m-n-Matrix Af
+dargestellt werden. Die n Spaltenvektoren von Af sind die m-dimensionalen Vektoren
+f (~e1 ), ..., f (~en ), wobei ~ei der i-te Einheitsvektor ist, d.h. der Vektor, der nur in der i-ten
+Koordinate 1 und sonst 0 ist.
+Umgekehrt definiert jede m-n-Matrix A eindeutig eine lineare Abbildung fA : IRn ââ IRm ,
+dadurch dass fA (~ei ) gleich dem i-ten Spaltenvektor von A ist.
+Definition (VII.15)
+Sei A eine m-n-Matrix,
+A = (aij ) mit 1 â¤
+i â¤ m und 1 â¤ j â¤ n.
+ďŁŤ
+ďŁś
+a11 a21 . . . am1
+ďŁŹ
+ďŁˇ
+ďŁŹ a12 a22 . . . am2 ďŁˇ
+ďŁŹ
+ďŁˇ
+.
+. ďŁˇ
+Die n-m-Matrix ďŁŹ
+ďŁŹ
+ďŁˇ, die durch Spiegelung an der Diagonalen entďŁŹ
+.
+. ďŁˇ
+ďŁ­
+ďŁ¸
+a1n a2n . . . amn
+steht, heiĂt Transponierte von A und wird mit AT bezeichnet.
+Definition (VII.16)
+Seien A = (aij ) und B = (bij ) n-m-Matrizen und sei Îť â IR. Man definiert:
+A + B := (aij + bij )
+
+Addition
+
+ÎťA := (Îťaij )
+
+Skalarmultiplikation
+
+Definition (VII.17)
+Seien A eine n-m-Matrix und B eine m-k-Matrix.
+Dann ist das Produkt A Âˇ B definiert als die n-k-Matrix (cij ) mit
+cij =
+
+m
+X
+p=1
+
+aip bpj fuĚr 1 â¤ i â¤ n, 1 â¤ j â¤ k.
+
+Kompaktskript Mathematik
+
+VII. VektorraĚume und lineare Abbildungen 28
+
+Satz (VII.18)
+Seien A, B n-m-Matrizen , C eine m-k-Matrix und sei Îť â IR. Dann gilt:
+fA+B = fA + fB
+fÎťA = ÎťfA
+fAÂˇC = fA âŚ fC
+Satz (VII.19)
+Seien A, B, C Matrizen. Dann gilt (falls die jeweiligen Summen und Produkte definiert
+sind):
+1) (A Âˇ B) Âˇ C = A Âˇ (B Âˇ C)
+2) A Âˇ (B + C) = A Âˇ B + A Âˇ C und (A + B) Âˇ C = A Âˇ C + B Âˇ C
+3) Îť(A Âˇ B) = (ÎťA) Âˇ B = A Âˇ (ÎťB)
+4) (A Âˇ B)T = B T Âˇ AT
+Satz und Definition (VII.20)
+Sei A eine Matrix. Dann ist die maximale Anzahl von linear unabhaĚngigen Zeilenvektoren
+gleich der maximalen Anzahl von linear unabhaĚngigen Spaltenvektoren. Diese Zahl heiĂt
+Rang von A und wird mit Rang(A) bezeichnet.
+Definition (VII.21)
+Unter einer elementaren Zeilenumformung einer Matrix A versteht man eine der
+folgenden Operationen:
+I) Multiplikation einer Zeile mit einer Zahl Îť â IR, Îť 6= 0.
+II) Addition des Îť-fachen einer Zeile zu einer anderen Zeile fuĚr Îť â IR.
+III) Vertauschung zweier Zeilen.
+Entsprechend definiert man elementare Spaltenumformung .
+Elementare Zeilenumformungen [Spaltenumformungen] veraĚndern den von den Zeilenvektoren [Spaltenvektoren] einer Matrix aufgespannten Untervektorraum nicht.
+Satz (VII.22)
+Jede Matrix kann durch eine Folge von elementaren Zeilen- und Spaltenumformungen in
+eine Diagonalmatrix umgewandelt werden.
+Jede Matrix kann durch eine Folge von elementaren Zeilenumformungen in Zeilenstufenform gebracht werden.
+Definition und Satz (VII.23)
+Sei A eine n-n-Matrix. A heiĂt regulaĚr , wenn Rang(A)=n.
+Eine lineare Abbildung f : IRn ââ IRn heiĂt Isomorphismus , wenn sie bijektiv ist,
+d.h. wenn es eine lineare Abbildung f â1 : IRn ââ IRn gibt, so dass f â1 (f (~x)) = ~x fuĚr alle
+~x â IRn .
+f ist genau dann ein Isomorphismus, wenn Af regulaĚr ist.
+Definition und Satz (VII.24)
+Die Matrix Aâ1 heiĂt Inverse zur Matrix A, wenn Aâ1 Âˇ A = E .
+Zu einer Matrix A gibt es eine Inverse, genau dann wenn A regulaĚr ist.
+
+Kompaktskript Mathematik
+
+VII. VektorraĚume und lineare Abbildungen 29
+
+Satz (VII.25)
+Seien A und B regulaĚre Matrizen. Dann gilt:
+1) (Aâ1 )â1 = A
+2) (A Âˇ B)â1 = B â1 Âˇ Aâ1
+3) (AT )â1 = (Aâ1 )T
+Definition und Satz (VII.26)
+Jeder n-n-Matrix A = (aij ) mit den Zeilenvektoren ~a1 ...~an wird eine Zahl det(A) â IR,
+die Determinante von A, zugeordnet mit folgenden Eigenschaften:
+E1)
+E2)
+
+E3)
+
+det(D)
+, wenn D = (dij ) eine Dreiecksmatrix ist.
+ďŁŤÂˇ dnnďŁś
+ďŁŤ =d
+ďŁś11 Âˇ d22 Âˇ ...
+
+~a1
+~a1
+ďŁŹ .
+ďŁŹ . ďŁˇ
+ďŁŹ
+ďŁŹ
+ďŁˇ
+ďŁŹ
+ďŁˇ
+det ďŁŹ
+ďŁŹ Îť~ai ďŁˇ = Îť det ďŁŹ ~ai
+ďŁ­ .
+ďŁ­ . ďŁ¸
+~a
+~a
+ďŁŤ n
+ďŁŤ n ďŁś
+~a1
+~a1
+ďŁŹ .
+ďŁŹ . ďŁˇ
+ďŁŹ
+ďŁˇ
+ďŁŹ
+ďŁˇ
+ďŁŹ
+~
+~
+det ďŁŹ b + ~c ďŁˇ = det ďŁŹ
+ďŁŹ b
+ďŁ­ .
+ďŁ­ . ďŁ¸
+~an
+~an
+
+ďŁˇ
+ďŁˇ
+ďŁˇ,
+ďŁˇ
+ďŁ¸
+ďŁś
+
+fuĚr 1 â¤ i â¤ n, Îť â IR.
+ďŁŤ
+
+ďŁŹ
+ďŁˇ
+ďŁŹ
+ďŁˇ
+ďŁˇ + det ďŁŹ
+ďŁŹ
+ďŁˇ
+ďŁ­
+ďŁ¸
+
+~a1
+.
+~c
+.
+~an
+
+ďŁś
+ďŁˇ
+ďŁˇ
+ďŁˇ,
+ďŁˇ
+ďŁ¸
+
+wenn ~b + ~c, bzw. ~b, ~c auf gleicher
+
+Koordinatenposition
+i â¤ nsind, und alle anderen Koordinaten gleich bleiben.
+ďŁŤ1 â¤ ďŁś
+ďŁŤ
+ďŁś
+
+E4)
+
+.
+ďŁŹ ~ak
+ďŁŹ
+det ďŁŹ
+ďŁŹ .
+ďŁ­ ~al
+.
+
+ďŁˇ
+ďŁˇ
+ďŁˇ
+ďŁˇ
+ďŁ¸
+
+=
+
+.
+ďŁŹ ~al ďŁˇ
+ďŁŹ
+ďŁˇ
+ďŁˇ
+â det ďŁŹ
+ďŁŹ . ďŁˇ,
+ďŁ­ ~ak ďŁ¸
+.
+
+wenn nur ~ak und ~al vertauscht sind.
+
+Die Determinante ist durch die Eigenschaften E1) bis E4) eindeutig bestimmt.
+Man schreibt statt det(A) auch |A|.
+Satz (VII.27) (Regel von Sarrus)
+FuĚr eine 2-2-Matrix gilt: det(aij ) = a11 a22 â a21 a12 .
+FuĚr eine 3-3-Matrix gilt:
+det(aij ) = a11 a22 a33 + a12 a23 a31 + a13 a21 a32 â a31 a22 a13 â a32 a23 a11 â a33 a21 a12 .
+Satz (VII.28)
+FuĚr die n-n-Matrizen A und B gilt: det(A Âˇ B) = det(A) det(B).
+Wenn A regulaĚr ist, gilt det(Aâ1 ) = det(A)â1 .
+Satz (VII.29)
+Sei A eine n-n-Matrix. Dann sind die sechs folgenden Aussagen gleichbedeutend:
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+
+A ist regulaĚr.
+A ist invertierbar.
+det(A) 6= 0.
+Die Zeilen von A sind linear unabhaĚngig.
+Die Spalten von A sind linear unabhaĚngig.
+fA ist ein Isomorphismus.
+Kern(fA )=0.
+
+Kompaktskript Mathematik
+
+VIII. Lineare Gleichungssystem 30
+
+VIII. Lineare Gleichungssysteme
+Definition (VIII.1)
+Seien n, m âĽ 1. n Gleichungen der Form:
+a11 x1 + a12 x2 + ... + a1m xm = b1
+a21 x1 + a22 x2 + ... + a2m xm = b2
+....
+an1 x1 + an2 x2 + ... + anm xm = bn
+mit aij , bi â IR nennt man ein Lineares Gleichungssystem (LGS) mit den
+Unbekannten (oder Variablen) x1 , ..., xm .
+Gilt b1 = b2 = ... = bn = 0, so heiĂt das LGS homogen , andernfalls inhomogen .
+Das LGS kann auch dargestellt
+durchďŁŤdie ďŁśGleichung:
+ďŁŤ werden
+ďŁś
+A~x = ~b, wobei A = (aij ), ~x =
+ďŁŤ
+
+Die Matrix (A, ~b) :=
+.
+
+ďŁŹ
+ďŁŹ
+ďŁŹ
+ďŁŹ
+ďŁŹ
+ďŁŹ
+ďŁ­
+
+x1
+ďŁŹ x2 ďŁˇ
+ďŁŹ
+ďŁˇ
+ďŁŹ .. ďŁˇ
+ďŁ­ . ďŁ¸
+xm
+
+und ~b =
+
+b1
+ďŁŹ b2 ďŁˇ
+ďŁŹ ďŁˇ
+ďŁŹ .. ďŁˇ.
+ďŁ­ . ďŁ¸
+bn
+ďŁś
+
+a11 a12 . . . a1m b1
+ďŁˇ
+a21 a22 . . . a2m b2 ďŁˇ
+ďŁˇ
+ďŁˇ heiĂt erweiterte Koeffizientenmatrix
+.
+.
+ďŁˇ
+.
+.
+. ďŁˇ
+ďŁ¸
+an1 an2 . . . anm bn
+
+Die Menge L = {~x | A~x = ~b } heiĂt LoĚsungsmenge des LGS.
+Satz(VIII.2)
+Sei A eine n-m-Matrix und L die LoĚsungsmenge des homogenen LGS A~x = 0.
+Dann ist L ein Untervektorraum von IRm und dim(L) = mâRang(A).
+Satz(VIII.3)
+Sei A eine n-m-Matrix, ~b â IRn . Sei ~s eine LoĚsung von A~x = ~b und L0 die LoĚsungsmenge
+des zugehoĚrigen homogenen LGS A~x = 0.
+Dann ist ~s + L0 := {~s + ~v | ~v â L0 } die LoĚsungsmenge von A~x = ~b.
+Satz (VIII.4)
+Sei A eine n-m-Matrix, ~b â IRn . Dann ist das LGS A~x = ~b loĚsbar genau dann, wenn
+Rang(A) =Rang(A, ~b).
+Satz (VIII.5)
+Sei A~x = ~b ein LGS mit LoĚsungsmenge L. Wenn man mit elementaren Zeilenumformungen aus (A, ~b) (A0 , b~0 ) erhaĚlt, hat A0~x = ~b0 diesselbe LoĚsungsmenge L.
+
+Kompaktskript Mathematik
+
+VIII. Lineare Gleichungssystem 31
+
+Satz (VIII.6) (GauĂ-scher Algorithmus)
+Sei (A, ~b) eine erweiterte Koeffizientenmatrix in Zeilenstufenform.
+Wenn eine Stufe breiter als 1 ist, also von Spalte j bis Spalte j + k reicht, nennt man die
+Variablen xj+1 , .., xj+k freie Variable. Es gebe insgesamt m freie Variable.
+I) FuĚr jede dieser freien Variablen errechnet man einen LoĚsungsvektor ~li (1 â¤ i â¤ m)
+des homogenen LGS A~x = 0, indem man sie auf 1, und alle anderen freien Variablen auf
+0 setzt und dann durch LoĚsen der homogenen Gleichungen von unten her die anderen
+(nicht-freien) Variablen bestimmt.
+II) Dann setzt man alle freien Variablen auf 0 und ermittelt durch LoĚsen der Gleichungen
+von A~x = ~b ebenfalls von unten her die Werte der anderen (nicht-freien) Variablen. Dies
+ergibt einen LoĚsungsvektor ~s fuĚr das (ggf. inhomogene) LGS A~x = ~b.
+III) Die vollstaĚndige LoĚsungsmenge ist L = {~s + Îť1~l1 + Îť2~l2 + ... + Îťm~lm | Îťi â IR }.
+Satz (VIII.7)
+Sei A eine n-n-Matrix und ~b â IRn . Dann hat das LGS A~x = ~b genau dann eine einzige
+LoĚsung, wenn A regulaĚr ist.
+Satz (VIII.8) (Cramerâsche Regel)
+n
+~
+Sei A
+ďŁŤ eine
+ďŁś regulaĚre n-n-Matrix und b â IR . Dann ist
+~s =
+
+s1
+ďŁŹ s2 ďŁˇ
+ďŁŹ ďŁˇ
+ďŁŹ .. ďŁˇ
+ďŁ­ . ďŁ¸
+sn
+
+si :=
+
+1
+det(A)
+
+die eindeutige LoĚsung des LGS A~x = ~b, wobei
+Âˇ det(Bi ) und Bi aus A entsteht, indem man die i-te Spalte durch ~b ersetzt.
+
+Definition (VIII.9)
+Sei A eine n-n-Matrix. Îť â IR heiĂt Eigenwert von A und ~v â IRn heiĂt zu Îť gehoĚriger
+Eigenvektor von A , wenn A~v = Îť~v
+Definition (VIII.10)
+Sei A eine n-n-Matrix. det(A â ÎťE) ist ein Polynom in der Variablen Îť und heiĂt
+charakteristisches Polynom von A.
+Satz (VIII.11)
+Sei A eine n-n-Matrix. Die Eigenwerte von A sind genau die Nullstellen des charakteristischen Polynoms von A.
+Die von 0 verschiedenen LoĚsungsvektoren des LGS (A â ÎťE)~x = 0 sind die zum Eigenwert Îť gehoĚrenden Eigenvektoren.
+Definition (VIII.12)
+Seien y1 , y2 , ..., yn Funktionsvariable und A = (aij ) eine n-n-Matrix.
+n Gleichungen der Form:
+y10 = a11 y1 + a12 y2 + ... + a1n yn
+y20 = a21 y1 + a22 y2 + ... + a2n yn
+. . . . . . . . .
+0
+yn = an1 y1 + an2 y2 + ... + ann yn
+
+Kompaktskript Mathematik
+
+VIII. Lineare Gleichungssystem 32
+
+nennt man ein System von linearen Differenzialgleichungen (DGL) .
+Man schreibt auch y~0 = A~y .
+Sind s1 , ..., sn : IR ââ IR differenzierbare Funktionen, so dass fuĚr alle t â IR und 1 â¤ i â¤ n
+alle Gleichungen:
+s0i (t) = ai1 s1 (t) + ai2 s2 (t) ďŁŤ
++ ...ďŁś+ ain sn (t)
+erfuĚllt sind, so heiĂt ~s =
+
+s1
+ďŁŹ s2 ďŁˇ
+ďŁŹ ďŁˇ
+ďŁŹ .. ďŁˇ
+ďŁ­ . ďŁ¸
+sn
+
+eine LoĚsung
+
+des Systems.
+
+Satz (VIII.13)
+Sei y~0 = A~y ein System linearer DGL.
+Seien Îť1 , .., Îťk alle Eigenwerte von A und zu jedem Îťi sei vi ein zugehoĚriger Eigenvektor.
+Dann ist fuĚr jedes i mit 1 â¤ i â¤ k der Vektor von Funktionen v~i eÎťi t eine LoĚsung.
+Wenn die Îťi fuĚr 1 â¤ i â¤ k alle verschieden sind, dann hat jede LoĚsung die Gestalt
+Âľ1 v~1 eÎť1 t + ... + Âľk v~k eÎťk t mit Âľ1 , .., Âľk â IR.
+
+IX. Differenzialrechnung in IRn 33
+
+Kompaktskript Mathematik
+
+IX. Differenzialrechnung in IRn
+Definition (IX.1)
+Sei a â IRn , Îľ > 0.
+UÎľ (a) := {x â IRn |
+
+|x â a|< Îľ} heiĂt offene Îľ -Umgebung
+
+von a.
+
+Definition (IX.2)
+Sei (ai )iâIN eine Folge in IRn .
+a â IRn heiĂt Grenzwert von (ai ), [ oder limiââ (ai ) = a oder (ai ) ââ a ] , wenn in
+jeder offenen -Umgebung von a fast alle ai liegen.
+Satz(IX.3)
+b1
+ai1
+ďŁŹ b
+ďŁŹ a ďŁˇ
+ďŁŹ
+ďŁŹ
+ďŁˇ
+Sei (ai ) eine Folge in IRn mit ai = ďŁŹ i2 ďŁˇ und b = ďŁŹ 2
+ďŁ­ ÂˇÂˇ
+ďŁ­ ÂˇÂˇ ďŁ¸
+bn
+ain
+Dann gilt (ai ) ââ b genau dann, wenn fuĚr jedes k â¤ n :
+ďŁŤ
+
+ďŁŤ
+
+ďŁś
+
+ďŁś
+ďŁˇ
+ďŁˇ
+ďŁˇ
+ďŁ¸
+
+â IRn .
+
+(aik ) ââiââ bk .
+
+Definition(IX.4)
+Sei f : IRm ââ IRn , x0 â IRm , b â IRn .
+f konvergiert an der Stelle x0 gegen b [ oder lim f (x) = b ] , wenn fuĚr jede Folge
+xâx0
+
+(ai ), die gegen x0 konvergiert, die Folge (f (ai )) gegen b konvergiert.
+Definition(IX.5)
+Sei f : IRm ââ IRn , x0 â IRm .
+f heiĂt stetig in x0 , wenn limxââx0 f (x) = f (x0 ).
+f heiĂt stetig , wenn f stetig in allen x â IRm .
+Definition(IX.6)
+ďŁŤ
+
+Sei f : IRn ââ IR und a :=
+
+ďŁś
+a1
+ďŁŹ a2 ďŁˇ
+ďŁŹ ďŁˇ
+ďŁŹ .. ďŁˇ, j
+ďŁ­ . ďŁ¸
+
+â¤ n.
+
+an
+
+f heiĂt partiell differenzierbar nach der j-ten Variablen an der Stelle a, wenn die
+Funktion x 7â f (a1 , .., ajâ1 , x, aj+1 , .., an ) an der Stelle aj differenzierbar ist.
+)âf (a1 ,..,ai ,..,an )
+Den Differenzialquotienten limxâai f (a1 ,..,x,..,anxâa
+nennt man die
+i
+âf
+j-te partielle Ableitung und bezeichnet sie mit âxj oder auch mit fxj .
+f heiĂt partiell differenzierbar, wenn es fuĚr alle j â¤ n und fuĚr alle a â IRn an der Stelle a
+nach der j-ten Variablen partiell differenzierbar ist.
+Definition(IX.7)
+ďŁŤ
+
+ďŁś
+
+f1 (x1 , .., xm )
+ďŁŹ
+ďŁˇ
+m
+n
+ÂˇÂˇ
+Sei f : IR ââ IR mit f (x1 , .., xm ) = ďŁ­
+ďŁ¸.
+fn (x1 , .., xm )
+f heiĂt partiell differenzierbar, wenn jedes fi : IRm ââ IR partiell differenzierbar ist.
+
+IX. Differenzialrechnung in IRn 34
+
+Kompaktskript Mathematik
+
+ďŁŤ
+âf
+âxi
+
+ďŁŹ
+
+âf1
+âxi
+
+ďŁś
+ďŁˇ
+
+ďŁˇ
+bezeichnet dann den Vektor der j-ten partiellen Ableitungen der f1 bis fn : ďŁŹ
+ďŁ­ ÂˇÂˇ ďŁ¸.
+âfn
+âxi
+
+Definition(IX.8)
+n
+Sei f : IRm ââ
+und a â IRm .
+ďŁś
+ďŁŤ âfIR partiellâfdifferenzierbar
+1
+(a) .. âxm1 (a)
+1
+ďŁˇ
+ďŁŹ âx
+ďŁŹ âf2 (a) .. âf2 (a) ďŁˇ
+âx
+âx
+ďŁˇ heiĂt die Ableitungsmatrix von f in a und wird
+ďŁŹ
+m
+1
+Die Matrix ďŁŹ
+ďŁˇ
+Âˇ
+Âˇ
+Âˇ
+ďŁ¸
+ďŁ­
+âfn
+âfn
+(a) .. âxm (a)
+âx1
+mit f 0 (a) bezeichnet.
+Wenn n = 1, also f : IRm ââ IR, dann ist f 0 (a) ein Zeilenvektor und wird Gradient
+genannt (grad f) .
+ďŁŤ ďŁś
+Man verwendet auch den Nabla-Operator
+
+â := ďŁ­
+
+â
+âx
+â
+ây
+â
+âz
+
+ďŁ¸,
+
+also âf=(grad f)T .
+
+Definition(IX.9)
+Sei f : IRm ââ IRn partiell differenzierbar in a â IRm . Wenn
+ďŁŤ
+
+lim
+xâa
+
+f (x) â f (a) â f 0 (a)(x â a) ďŁŹ
+ďŁŹ
+=ďŁŹ
+ďŁ­
+|x â a|
+
+0
+Âˇ
+Âˇ
+0
+
+ďŁś
+ďŁˇ
+ďŁˇ
+ďŁˇ,
+ďŁ¸
+
+dann nennt man f vollstaĚndig differenzierbar in a und die Funktion
+Tf,a (x) := f (a) + f 0 (a)(x â a) heiĂt Tangential-âEbeneâ zu f in a.
+Satz (IX.10)
+Sei f : IRm ââ IRn partiell differenzierbar in a â IRm und seien alle partiellen Ableitungen
+stetig in a.
+Dann ist f vollstaĚndig differenzierbar in a.
+Satz (IX.11)
+Seien f, g : IRm ââ IRn vollstaĚndig differenzierbar in a â IRm , und Îť, Âľ â IR.
+Dann ist Îťf + Âľg vollstaĚndig differenzierbar in a und (Îťf + Âľg)0 (a) = Îťf 0 (a) + Âľg 0 (a).
+Satz (IX.12) (Kettenregel)
+Seien g := IRm ââ IRk vollstaĚndig differenzierbar in a â IRm und f : IRk ââ IRn
+vollstaĚndig differenzierbar in g(a).
+Dann ist f âŚ g vollstaĚndig differenzierbar in a und (f âŚ g)0 (a) = f 0 (g(a)) Âˇ g 0 (a) (Matrixmultiplikation!).
+Definition und Satz (IX.13)
+Sei f : IRn ââ IR vollstaĚndig differenzierbar in a â IRn und sei v â IRn , v 6= 0.
+v
+Dann heiĂt f 0 (a) Âˇ
+die Steigung von f bei a in Richtung v.
+|v|
+f hat die groĚĂte Steigung bei a in Richtung âf (a).
+
+Kompaktskript Mathematik
+
+IX. Differenzialrechnung in IRn 35
+
+Definition (IX.14)
+Sei f : IRm ââ IRn und k â IN, k âĽ 1.
+f heiĂt k-fach partiell [ stetig ] differenzierbar , wenn
+fuĚr k = 1 f partiell differenzierbar ist [ und alle partiellen Ableitungen stetig sind ], oder
+fuĚr k > 1 alle (k â 1)-fachen partiellen Ableitungen von f wieder partiell differenzierbar
+sind [ und alle diese partiellen Ableitungen stetig sind ].
+Ist s1 , s2 , ..., sj eine Folge von Variablen â {x1 , x2 , ..., xm }, dann bezeichnet man die Funktion, die entsteht, wenn man zuerst nach s1 , dann nach s2 usw. ableitet, auch mit fs1 s2 ..sj .
+Satz (IX.15)
+Sei f : IRm ââ IRn k-fach partiell stetig differenzierbar fuĚr ein k > 1.
+Dann sind die hoĚheren Ableitungen unabhaĚngig von der Reihenfolge des Differenzierens.
+D.h. wenn s1 , s2 , .., sj eine Folge von Variablen â {x1 , .., xm }ist, und Ď eine Permutation
+der Zahlen 1 bis j, so ist fs1 s2 ...sj = fsĎ(1) sĎ(2) ...sĎ(j) .
+Definition (IX.16)
+Sei f : IRm ââ IR partiell differenzierbar.
+f hat bei x0 â IRm ein lokales Maximum [ Minimum ], wenn es eine Umgebung
+U von x0 gibt, so dass f (x) â¤ f (x0 ) [f (x) âĽ f (x0 ) ] fuĚr alle x â U .
+f hat bei x0 â IRm einen Sattelpunkt , wenn f 0 (x0 ) = 0 ist, jedoch bei x0 weder Maximum noch Minimum vorliegen.
+Definition (IX.17)
+Sei f : IRm ââ IR 2-fach partiell differenzierbar in x0 â IRm .
+2f
+)(i,jâ¤m) heiĂt Hesse-Matrix von f .
+Die Matrix ( âxâi âx
+j
+Satz (IX.18)
+Sei f : IR2 ââ IR 2-fach partiell differenzierbar in x0 â IR2 mit f 0 (x0 ) = 0.
+Sei â die Determinante der Hesse-Matrix von f .
+2
+Ist â > 0 und ââxf2 < 0, so hat f bei x0 ein lokales Maximum.
+2
+Ist â > 0 und ââxf2 > 0, so hat f bei x0 ein lokales Minimum.
+Ist â < 0 , so hat f bei x0 einen Sattelpunkt.
+
+X. Integralrechnung in IRn 36
+
+Kompaktskript Mathematik
+
+X. Integralrechnung in IRn
+Definition (X.1)
+Die Menge B â IRn heiĂt Normalbereich , wenn a, b â IR und stetige Funktionen
+i
+g1 , g2 , ..,
+ďŁŤ IR
+ďŁś und gi â¤ hi , so dass
+ďŁŤ mit
+ďŁś gi , hi : IR ââ
+ďŁŤ gnâ1
+ďŁś , h1 , h2 , .., hnâ1 gibt
+B=
+
+x1
+ďŁŹ x2 ďŁˇ
+ďŁŹ ďŁˇ
+{ďŁŹ .. ďŁˇ
+ďŁ­ . ďŁ¸
+xn
+
+| a â¤ x1 â¤ b,
+
+x1
+ďŁŹ x2 ďŁˇ
+ďŁŹ ďŁˇ
+gi ďŁŹ .. ďŁˇ
+ďŁ­ . ďŁ¸
+xi
+
+â¤ xi+1 â¤
+
+x1
+ďŁŹ x2 ďŁˇ
+ďŁŹ ďŁˇ
+hi ďŁŹ .. ďŁˇ,
+ďŁ­ . ďŁ¸
+xi
+
+i < n}.
+
+Definition (X.2)
+Sei B â IRn ein Normalbereich (mit den Bezeichnungen aus Def. (X.1)) und f : B ââ IR
+eine stetige Funktion. Dann heiĂt:
+ďŁŤ ďŁś
+ZZ
+
+f (~x) dB :=
+
+ZZ
+
+f (~x)d~x :=
+
+ZZ
+
+f (~x)dx1 ..dxn :=
+
+B
+B
+B
+das (n-dimensionale) Integral von f uĚber B.
+ZZ
+
+x1
+Z hnâ1 (x1 ,..,xnâ1 ) ďŁŹ x ďŁˇ
+ďŁŹ 2ďŁˇ
+..
+f ďŁŹ .. ďŁˇdxn dxnâ1 ...dx1
+ďŁ­ . ďŁ¸
+g1 (x1 )
+gnâ1 (x1 ,..,xnâ1 )
+xn
+
+Z b Z h1 (x1 )
+a
+
+d~x heiĂt das Volumen von B.
+
+B
+Definition (X.3)
+Sei A =
+
+n
+i=1 Bi , wobei die Bi â IR Normalbereiche sind und fuĚr i 6= j
+
+Sk
+
+ZZ
+
+d~x = 0.
+
+Bi âŠ Bj
+Sei f : A ââ IR eine Funktion und Ij :=
+
+ZZ
+
+f (~x)d~x fuĚr j â¤ k.
+
+Bj
+Dann heiĂt f integrierbar
+
+uĚber A mit
+
+ZZ
+
+f (~x)d~x :=
+
+k
+X
+
+Ij .
+
+j=1
+
+A
+Satz (X.4) (Substitutionsregel)
+Sei A â IRn , g : IRn ââ IRn stetig und auf A injektiv und sei f : IRn ââ IR integrierbar
+uĚber g(A). Dann gilt:
+
+ZZ
+
+f (g(~x))Âˇ |det(g 0 (~x))| d~x =
+
+A
+Definition und Satz (X.5) (Polarkoordinaten)
+Die
+T : IR+ Ă [0, 2Ď) ââ IR2 \ {0} mit
+ Abbildung
+
+
+r
+
+ZZ
+
+f (~y )d~y .
+
+g(A)
+
+r cos Ď
+
+T Ď := r sin Ď ist eine stetige Bijektion und heiĂt
+Transformation von Polarkoordinaten in kartesische Koordinaten .
+det(T
+
+0
+
+ 
+r
+)
+Ď
++
+
+= r.
+
+Ist B â IR Ă [0, 2Ď) , T (B) â IR2 und f : T (B) ââ IR , so dass f integrierbar uĚber
+T (B) und f âŚ T integrierbar uĚber B, so gilt:
+
+X. Integralrechnung in IRn 37
+
+Kompaktskript Mathematik
+
+ZZ
+
+f (~x)d~x =
+
+T (B)
+
+ZZ
+
+ 
+r
+f (T Ď )r
+
+dĎdr.
+
+B
+
+Definition und Satz (X.6) (Kugelkoordinaten)
+Die
+T : IR+ďŁśĂ [0, Ď] Ă [0, 2Ď) ââ IR3 \ {0} mit
+ďŁŤ Abbildung
+ďŁś
+ďŁŤ
+r
+
+r sin Ď cos Ď
+
+T ďŁ­ Ď ďŁ¸ := ďŁ­ r sin Ď sin Ď ďŁ¸ ist eine stetige Bijektion und heiĂt
+Ď
+
+r cos Ď
+
+Transformation von Kugelkoordinaten in kartesische Koordinaten .
+ďŁŤ ďŁś
+r
+det(T 0 ďŁ­ Ď ďŁ¸)
+Ď
+
+= r2 sin Ď.
+
+Ist B â IR+ Ă [0, Ď] Ă [0, 2Ď) , T (B) â IR3 und f : T (B) ââ IR , so dass f integrierbar
+uĚber T (B) und f âŚ T integrierbar uĚber B, so gilt:
+ZZ
+
+f (~x)d~x =
+
+ZZ
+
+ďŁŤ ďŁś
+r
+f (T ďŁ­ Ď ďŁ¸)r2 sin Ď
+Ď
+
+dĎdĎdr.
+
+T (B)
+B
+Definition (X.7) (Volumen und Schwerpunkt)
+Sei A â IRn . Dann heisst V (A) :=
+
+sn
+
+d~x das Volumen von A.
+
+A
+
+ďŁŤ
+
+~ :=
+Der Vektor S
+
+ďŁś
+s1
+ďŁŹ s2 ďŁˇ
+ďŁŹ ďŁˇ
+ďŁŹ .. ďŁˇ
+ďŁ­ . ďŁ¸
+
+ZZ
+
+mit si :=
+
+1
+V (A)
+
+ZZ
+
+xi d~x heisst Schwerpunkt von A.
+
+A
+
+Definition (X.8) Seien a, b â IR. Eine stetige Funktion Îł : [a, b] ââ IRn heiĂt Weg in
+IRn mit Anfangspunkt a und Endpunkt b. Ist Îł(a) = Îł(b), dann heisst Îł geschlossen .
+Die Menge CÎł := {Îł(t) | a â¤ t â¤ b} heiĂt Kurve in IRn .
+Definition und Satz (X.9)
+Sei Îł : [a, b] ââ IRRn ein stetig differenzierbarer, injektiver Weg.
+Dann heisst LÎł := ab |Îł 0 (t)| dt die LaĚnge von Îł.
+Wenn CÎł = CÎ´ , so ist LÎł = LÎ´ .
+Satz (X.10)
+2
+
+Sei Îł : [a, b] ââ IR ein differenzierbarer, geschlossener Weg mit Îł(t) =
+Dann ist die von Îł umschlossene ( algebraische ) FlaĚche FÎł =
+
+Rb
+a
+
+
+
+x(t)
+y(t)
+
+
+
+y(t) Âˇ x0 (t) dt
+
+Ist mit r(Ď) : [a, b] â IR2 eine ebene Kurve in Polarkordinaten gegeben, so ist die FlaĚche
+1Z b
+des von der Kurve und dem Nullpunkt begrenzten Segments F =
+r(Ď)2 dĎ. .
+2 a
+
+Kompaktskript Mathematik
+
+XI. Vektoranalysis 38
+
+XI. Vektoranalysis
+Definition (XI.1)
+Eine Funktion Ď : IR2 ââ IR heisst ebenes Skalarfeld .
+Eine Funktion Ď : IR3 ââ IR heisst (raĚumliches) Skalarfeld .
+
+
+
+
+F
+Eine Funktion F~ : IR2 ââ IR2 , F~ = Fx heisst ebenes Vektorfeld (VF) .
+ďŁŤ yďŁś
+Fx
+Eine Funktion F~ : IR3 ââ IR3 , F~ = ďŁ­ Fy ďŁ¸ heisst (raĚumliches) Vektorfeld (VF) .
+Fz
+
+Definition (XI.2) (Divergenz)
+Sei F~ ein raĚumliches partiell differenzierbares Vektorfeld.
+y
+x
+z
+divF~ := â Âˇ F~ = âF
++ âF
++ âF
+âx
+ây
+âz
+heisst Divergenz von F~ .
+FuĚr ein ebenes Vektorfeld ist divF~ := âFx + âFy .
+âx
+
+ây
+
+Punkte ~r, fuĚr die divF~ (~r) > 0 heiĂen Quellen , ist divF~ (~r) < 0 heiĂen sie Senken .
+Satz (XI.3)
+~ partiell differenzierbare Vektorfelder, Ď ein partiell differenzierbares SkaSeien F~ und G
+larfeld, Îą â IR. Dann gilt:
+1) div(ĎF~ ) = âĎ Âˇ F~ + Ď Âˇ divF~ .
+~ = divF~ + divG.
+~
+2) div(F~ + G)
+3) div(ÎąF~ ) = Îą divF~ .
+Definition (XI.4) (Rotation)
+ďŁŤ
+
+Sei F~ =
+
+ďŁś
+Fx
+ďŁ­ Fy ďŁ¸
+Fz
+
+ein raĚumliches partiell differenzierbares Vektorfeld.
+ďŁŤ
+
+ďŁŹ
+rotF~ := â Ă F~ = ďŁ­
+
+âFz
+ây
+âFx
+âz
+âFy
+âx
+
+â
+â
+â
+
+âFy
+âz
+âFz
+âx
+âFx
+ây
+
+ďŁś
+ďŁˇ
+ďŁ¸
+
+heiĂt Rotation von F~ .
+
+
+F
+FuĚr ein ebenes Vektorfeld F~ = Fx
+y
+
+
+
+ďŁŤ
+
+definiert man rotF~ :=
+
+ďŁś
+Fx
+rotďŁ­ Fy ďŁ¸
+0
+
+ďŁŤ
+
+=ďŁŹ
+ďŁ­
+
+ďŁś
+
+0
+0
+~y
+âF
+âx
+
+â
+
+~x
+âF
+ây
+
+Satz (XI.5)
+~ partiell differenzierbare Vektorfelder, Ď ein partiell differenzierbares
+Seien F~ und G
+Skalarfeld, Îą â IR. Dann gilt:
+1) rot(ĎF~ ) = âĎ Ă F~ + Ď Âˇ rotF~ .
+~ = rotF~ + rotG.
+~
+2) rot(F~ + G)
+~
+~
+3) rot(ÎąF ) = ÎąrotF .
+
+ďŁˇ
+ďŁ¸.
+
+Kompaktskript Mathematik
+
+XI. Vektoranalysis 39
+
+Satz (XI.6)
+Sei F~ ein 2-fach stetig partiell differenzierbares Vektorfeld und Ď ein 2-fach stetig partiell
+differenzierbares Skalarfeld, Dann gilt:
+1) div(rotF~ ) = 0 (âWirbelfeld ist quellenfreiâ)
+2) rot(âĎ) = 0 (âGradientenfeld ist wirbelfreiâ)
+3) Wenn F~ uĚberall definiert, stetig differenzierbar und wirbelfrei (d.h.rot(F~ ) = 0) ist,
+dann gibt es ein Skalarfeld f , so dass F~ = âf .
+Definition (XI.7) (Kurvenintegral)
+ďŁŤ
+
+Sei F~ =
+
+ďŁś
+Fx
+ďŁ­ Fy ďŁ¸
+Fz
+
+ein raĚumliches Vektorfeld und sei
+
+C =C Îł eine Kurve in IR3 mit Îł : [a, b] ââ IR3 differenzierbar.
+
+Z
+
+F~ d~r :=
+
+Z b
+
+F~ (Îł(t)) Âˇ Îł 0 (t) dt
+
+a
+
+C
+
+heisst das Kurvenintegral
+
+von F~ entlang C .
+
+Ist C geschlossen, schreibt man auch
+
+I
+
+F~ d~r.
+
+C
+Definition (XI.8)
+Ein Vektorfeld F~ heisst konservativ , wenn
+
+Z
+
+F~ d~r nur von Anfangs- und Endpunkt
+
+C
+der Kurve C abhaĚngt.
+Satz (XI.9)
+Ein Vektorfeld F~ ist konservativ genau dann, wenn F~ der Gradient eines Skalarfelds Ď
+ist, d.h. wenn Fx = âĎ
+und Fy = âĎ
+und Fz = âĎ
+, d.h. F~ = âĎ .
+âx
+ây
+âz
+FuĚr eine Kurve C Îł mit Anfangspunkt Îł(a) und Endpunkt Îł(b) ist dann:
+Z
+
+F~ d~r = Ď(Îł(b)) â Ď(Îł(a)).
+
+CÎł
+Definition (XI.10)
+A â IR3 heisst FlaĚche
+
+in IR3 , wenn es eine
+Funktion ~r : IR2 ââ IR3 und einen
+ stetige
+  
+x
+x
+Normalbereich B â IR2 gibt, so dass A = {~r y | y â B}.
+
+
+r
+
+~r = rx
+y
+
+
+
+heisst Parametrisierung
+
+Die Vektoren
+ 
+a
+b
+
+ 
+~tx a
+b
+
+:=
+
+ 
+â~r a
+âx b
+
+in x- bzw. y-Richtung.
+
+von A.
+ 
+
+a
+und ~ty b
+
+â~r a
+:=
+ây b
+
+ 
+
+heiĂen Tangenten
+
+im Punkt
+
+Kompaktskript Mathematik
+
+XI. Vektoranalysis 40
+
+ 
+
+Der Vektor N :=
+
+ 
+
+~tx a Ă ~ty a
+b
+b
+
+ 
+ 
+a
+a
+~
+|tx b Ă ty b |
+
+heiĂt die FlaĚchennormale von A in
+
+ 
+a
+.
+b
+
+A heisst
+wenn es eine stetige Bijektion zwischen der KugeloberflaĚche
+ďŁŤ geschlossen,
+ďŁś
+K=
+
+x
+ďŁ­
+{ yďŁ¸
+z
+
+| x2 + y 2 + z 2 = 1} und A gibt.
+
+Satz (XI.11)
+Sei A â IR3 eine differenzierbare FlaĚche mit Parametrisierung ~r : B ââ IR3 , ~r differenzierbar. Dann ist die FlaĚche von A:
+F (A) :=
+
+ZZ
+
+dA =
+
+A
+
+ZZ
+
+ 
+
+ 
+
+u
+u
+|~tu v Ă ~tv v | dvdu.
+
+B
+
+Definition und Satz (XI.12) (FlaĚchenintegral)
+Sei A eine FlaĚche in IR3 mit Parametrisierung ~r : B ââ IR3 , ~r differenzierbar, und sei F~
+ein raĚumliches Vektorfeld.
+ZZ
+
+ 
+
+ZZ
+
+~ :=
+F~ dA
+
+A
+
+ 
+
+x
+~ (~r x ) dA =
+F~ (~r y ) Âˇ N
+y
+
+A
+
+ZZ
+
+ 
+
+x
+F~ (~r y ) Âˇ (~tx Ă ~ty ) dxdy
+
+B
+
+heisst das OberflaĚchenintegral von F~ uĚber A. Es ist von der Parametrisierung ~r
+~ := N
+~ dA bezeichnet das gerichtete FlaĚchenelement.
+unabhaĚngig. dA
+Ist A geschlossen, so schreibt man auch
+
+ZZ
+
+~
+ââ F~ dA.
+
+A
+Satz (XI.13) (GauĂ-scher Integralsatz) Sei A eine geschlossene FlaĚche in IR3 und
+sei F~ ein raĚumliches Vektorfeld. Dann gilt:
+ZZ
+
+ZZ
+
+A
+
+V (A)
+
+~=
+ââ F~ dA
+
+divF~ dxdydz, wobei V (A) der von A umschlossene Bereich ist.
+
+Satz (XI.14) (Satz von Stokes)
+Sei F~ ein raĚumliches Vektorfeld und C eine geschlossene, differenzierbare Kurve in IR3 ,
+und sei A eine FlaĚche in IR3 , die von C umrandet wird. Dann gilt:
+I
+
+F~ d~r =
+
+C
+
+ZZ
+
+~
+rotF~ dA.
+
+A
+
+Folgerung: (Satz von Green)
+Ist F~ ein ebenes Vektorfeld, so gilt
+I
+
+C
+
+F~ d~r =
+
+ZZ
+
+A
+
+â ~
+â ~
+Fy â
+Fx dxdy.
+âx
+ây
+
+

@@ -1,0 +1,49 @@
+Bedeutung der einzelnen Ableitungen
+1) erste Ableitung
+Wie wir schon wissen sagt uns die erste Ableitung der Funktion in einen beliebigen Punkt x, die
+Steigung der Tangente im Punkt x.
+Somit können wir die Funktion auf das Monotonie-Verhalten und auf Extremstellen untersuchen:
+Monotoniesatz
+Sei f eine reelle Funktion von A auf die reellen Zahlen und I eine Teilmenge von A, dann gilt:
+1) f‘(x)>0 für alle x aus I => f streng monoton steigend in I
+2) f‘(x)<0 für alle x aus I => f streng monoton fallend in I
+Zusätzlich können wir die Funktion auf eine lokale Extremstelle untersuchen:
+1) Notwendige Bedingung für lokale Extremstellen:
+Ist p eine lokale Extremstelle einer Polynomfunktion f, dann ist f‘(p)=0.
+2) Hinreichende Bedingung für lokale Extremstellen:
+Ändert eine Polynomfunktion f an der Stelle p das Monotonieverhalten, dann ist p eine lokale
+Extremstellen von f.
+
+2) zweite Ableitung
+Mit der zweiten Ableitung können wir das Krümmungsverhalten einer Funktion untersuchen.
+Sei f eine reelle Funktion von A auf die reellen Zahlen, f‘ von A auf die reellen Zahlen ihre Ableitung
+und I ein Intervall von A dann gilt:
+
+
+
+linksgekrümmt in I, wenn f‘ streng monoton steigend in I ist.
+rechtsgekrümmt in I, wenn f‘ streng monoton fallend in I ist.
+
+Krümmungssatz:
+ist f von A auf die reellen Zahlen eine Polynomfunktion und I ein Intervall von A dann gilt:
+1) f‘‘(x)>0 für alle inneren Stellen x aus I => f linksgekrümmt in I (konvex)
+2) f‘‘(x)<0 für alle inneren Stellen x aus I =>f rechtsgekrümmt in I (konkav)
+
+Hinreichende Bedingung für lokale Extremstellen:
+Ist f von A auf die reellen Zahlen eine Polynomfunktion, I ein Intervall von A und p ein Punkt in I dann
+gilt:
+1) f‘(p)=0 und f‘‘(p)<0 => p ist lokale Maximumsstelle von f
+2) f‘(p)=0 und f‘‘(p)>0 => p ist lokale Minimumsstelle von f
+
+3) dritte Ableitung
+Notwendige Bedingung für Wendestellen
+für eine Polynomfunktion f gilt:
+p ist eine Wendestellen von f => f‘‘(p)=0
+Hinreichende Bedingung für Wendestellen:
+Ist f eine Abbildung von A auf die reellen Zahlen, I ein Intervall von A und p eine innere Stelle von I
+dann gilt:
+f‘‘(p)=0 und f‘‘‘(p)≠0 => p ist eine Wendestelle von f.
+
+4) Zusammenfassung für Kurvendiskussion
+
+

@@ -1,0 +1,339 @@
+
+                                                    Physik
+
+Einfόhrung:
+
+Die Physik befasst sich mit Erscheinungen (Phδnomenen) und  Zusammenhδngen
+(Gesetzmδίigkeiten) der unbelebten Natur. Was ist darunter zu verstehen?
+Ein Kφrper hat z.B. ein Volumen und eine Masse, wirkt auf ihn eine Kraft
+ein, dann wird er mit einer bestimmten Geschwindigkeit in Bewegung
+versetzt.Volumen, Masse, Kraft und Geschwindigkeit sind Beispiele fόr
+solche Phδnomene mit denen sich die Pysik auseinandersetzt.
+Diese Phδnomene bezeichnet man deshalb als physikalische Grφίen.
+Zusammenhδnge zwischen diesen physikalischen Grφίen bezeichnet man als
+physikalische Gesetze.
+Um diese physikalischen Gesetze mφglichst knapp und prδzise formulieren zu
+kφnnen wird in der Physik eine Art Kurzschrift verwendet.
+Physikalische Gesetze in dieser Kurzschrift bezeichnet man als
+physikalische Formeln.
+Um physikalische Formeln in dieser Kurzschrift darstellen zu kφnnen, hat
+jede physikalische Grφίe ein entsprechendes Formelzeichen.
+Einige Beispiele hierzu.
+
+|Physikalische Grφίe | Formelzeichen|
+|Volumen             |      V       |
+|Masse               |      m       |
+|Kraft               |      F       |
+|Geschwindigkeit     |      v       |
+
+Die Erkenntnisse  der Physik sind das Ergebnis genauer Beobachtung.
+Die genaue Beobachtung physikalischer Grφίen und Zusammenhδnge bezeichnet
+man als Messen.
+
+Unter Messen versteht man einen Vergleich mit einem Maίstab.
+Wird eine physikalische Grφίe gemessen,dann wird verglichen, wie oft ein
+bestimmter
+Maίstab in der zu messenden physikalischen Grφίe enthalten ist.Jede
+physikalische
+Grφίe hat ihren eigenen Maίstab in der sie gemessen werden kann.
+Diesen Maίstab nennt man Maίeinheit.
+Beispiele fόr physikalische Grφίen und ihre Maίeinheiten:
+
+|Physikalische   |Formelzeiche|  Maίeinheit    |
+|Grφίe           |n           |                |
+|Lδnge           |       s    |    1 m         |
+|Zeit            |       t    |    1 s         |
+| Kraft          |       F    |     1 N        |
+|Geschwindigkeit |       v    |     1m/s       |
+
+Eine  gemessene physikalische Grφίe wird in folgender Form angegeben
+
+      Grφίe  =  Maίzahl *  Maίeinheit
+
+ Z.B:   s  =  5 cm
+
+
+Die Grundgrφίen der Physik
+Es gibt fόnf physikalische Grφίen von deren Maίeinheiten alle anderen
+Maίeinheiten
+abgeleitet werden kφnnen.Alles was man physikalisch messen kann,kann auf
+die fόnf
+Maίeinheiten der fόnf Grundgrφίen zurόckgefόhrt werden.
+Welches sind diese fόnf Grundgrφίen?
+Grundgrφίen:
+
+|Grφίe        |Formelzeiche|  Maίeinheit   |
+|             |n           |               |
+|Lδnge        |   s        |   1 m         |
+|Masse        |   m        |   1 kg        |
+|Zeit         |   t        |   1  s        |
+|Temperatur   |   T        |   1  K        |
+|             |            |(Kelvin)       |
+|El.          |   I        |   1   A       |
+|Stromstδrke  |            |(Ampere)       |
+
+Die abgeleiteten Grφίen:
+Die Maίeinheiten aller Grφίen,die keine Grundgrφίen sind, kφnnen aus ihren
+physikalischen Gesetzen abgeleitet werden.
+Einige Beispiele hierzu:
+
+1.  Flδche:
+Die physikalische Grφίe Flδche errechnet sich aus dem Produkt
+Lδnge mal Breite oder Lδnge mal Lδnge, wobei die beiden Grundgrφίen
+Lδnge unterschiedlich in Richtung und Betrag sind.
+Als Formel ausgedrόckt:
+
+        A =  s . s
+Aus dieser Formel kann dann die Maίeinheit fόr Flδche abgeleitet werden:
+(Werden Maίeinheiten abgeleitet, dann schreibt man deren Formelzeichen in
+eckiger
+Klammer)
+
+Die Maίeinheit
+         der Flδche = Maίeinheit der Grundgrφίe Lδnge* Maίeinheit der
+Grundgrφίe Lδnge
+
+         [pic]
+
+         [pic] 1m * 1m =  1 m²
+
+Die Maίeinheit der Fδche ist 1 m².
+
+2.  Volumen
+    Das Volumen errechnet sich aus Lδnge mal Breite mal Hφhe.
+Als Formel gilt also
+V = s .s . s         wobei s unterschiedliche Richtung und Betrδge haben.
+
+Die Maίeinheit ist somit:
+[pic]
+
+[pic]=   1m .1m .1m  = 1 m³
+Die Maίeinheit fόr Volumen ist somit 1m³
+Unterteilung von Maίeinheiten:
+Maίeinheiten  kφnnen unterteilt werden.
+Beachten Sie jedoch folgende Unterschiede:
+Die Unterschiede ergeben sich aus der Ableitung der Maίeinheiten.
+Lδnge:
+1 m =  100 cm = 1000 mm =  1000 000 ?m
+Flδche:
+1m² =  10 000 cm² = 1 000 000 mm²
+Volumen:
+1 m³ = 1000 000 cm³ = 1 000 000 000 mm³
+
+Die Unterteilung von Grundmaίeinheiten wird durch folgende Zusδtze
+angegeben.
+z.B.:  dezi (d) ( 1/10,  centi (c) ( 1/100,  milli  (m) ( 1/1000,  mikro (?
+) ( 1/1000 000
+z.B.: 1 dm = 1/10 m,  1 cm = 1/100 m,  1mm = 1/1000 m, 1 ?m = 1/1000 000
+Ein Vielfaches von Grundmaίeinheiten wird durch diese Zusδtze angegeben:
+z.B.:  deka (da) ( Faktor 10, hecto (h) ( Faktor 100, kilo (k) ( Faktor
+1000,
+         mega (M)( Faktor 1 000 000 ,  giga ( Faktor 1 000 000 000
+z.B.:  1 daN = 10 N,  1 hPa = 100 Pa,  1 km = 1000 m, 1MHz = 1 000 000 Hz
+u.s.w.
+
+
+Weitere abgeleitete physikalische Grφίen:
+3. Geschwindigkeit:
+Unter Geschwindigkeit versteht man einen zurόckgelegten Weg in einer
+bestimmten Zeit.
+Als Formel ergibt sich daraus:
+
+                                 [pic]
+Die Maίeinheit fόr Geschwindigkeit ist somit:
+                    [pic]
+
+Eine weitere Unterteilung ist:
+
+[pic]
+
+oder analog:
+                      [pic]
+
+
+Beispiel hierzu:
+ Ein Auto fδhrt eine Strecke von 60 km und benφtigt hierzu eine Zeit
+von 45 min. Wie groί war seine Geschwindigkeit in km/h ?
+
+[pic]
+
+Die Umfangsgeschwindigkeit:
+Wird eine Kreisbewegung durchgefόhrt,dann tritt eine Umfangsgeschwindigkeit
+auf.
+Die Umfangsgeschwindigkeit ist die Geschwindigkeit,mit der ein Punkt auf
+dem Umfang eines Kreises rotiert.Auch hier gilt grundsδtzlich
+                             [pic]
+Hierbei ist der Weg der Umfang eines Kreises:  ? . d
+Setzt man die Zeit t = 1min ,dann ist die Umfangsgeschwindigkeit die Anzahl
+n der Umfδnge, die in  1 min durchlaufen werden.
+                                           [pic]
+n bezeichnet man als die Drehzahl und wird in Umdrehungen / min angegeben
+oder anders ausgedrόckt  [n] = 1/ min.Die Umfangsgeschwidigkeit spielt in
+der Technik eine wichtige Rolle.Sie ist gleichbedeutend mit der sogenannten
+Schnittgeschwindigkeit von rotierenden Schneidwerkzeugen.Jedes
+Schneidwerkzeug hat eine maximale Schnittgeschwindigkeit, die nicht
+όberschritten werden darf, sonst tritt sofortiger Verschleiί ein.Z.B. fόr
+Hartmetallfrδser ist
+vu max. = 750 m/min. Bei gegebenem Frδserdurchmesser d kann man dann mit
+der Schnittgeschwindigkeit die maximale Drehzahl n berechnen ,mit der der
+Frδser betrieben werden darf.
+Rechenbeispiel hierzu:
+Gegeben ist ein Hartmetall-Frδser mit d = 8 mm .Mit welcher maximalen
+Drehzahl n darf dieser Frδser betrieben werden ,damit kein vorzeitiger
+Verschleiί eintritt ?
+ Aus        [pic] ergibt sich
+                  [pic]
+[pic]
+
+Ergebnis: Der Frδser darf mit einer max.Drehzahl von ca. 30 000 1/min
+betrieben werden.
+
+4. Beschleunigung:
+Unter Beschleunigung versteht man die Δnderung der Geschwindigkeit in einer
+bestimmten Zeiteinheit:
+
+
+
+Dies ergibt als Formel:
+                                     [pic]
+Aus der Formel kφnnen wir wieder die Maίeinheit fόr Beschleunigung
+entwickeln.
+                               [pic]
+
+Die Maίeinheit der Beschleunigung ist somit   1 m/ s².
+Rechenbeispiel hierzu:
+Ein Auto hat eine Beschleunigung von 0 bis 100 km/h in  12 s.
+Wie groί ist seine Beschleunigung ausgedrόckt in m/s²  ?
+
+             [pic]
+
+Eigenschaften der Masse.
+Masse ist zwar eine Grundgrφίe , sie weist jedoch zwei Eigenschaften auf,
+die
+von besonderer Bedeutung sind.
+1. Massen sind trδge.
+       Das heiίt eine Masse verbleibt in dem Bewegungszustand , in dem sie
+sich gerade befindet,
+      solange keine anderen Krδfte auf sie einwirken.
+      Z.B. Eine Kugel wόrde ewig weiterrollen, wenn sie nicht durch eine
+Reibung     (Reibungskraft) gebremst wόrde.
+      Ein Wagen bleibt in Ruhe, (Bewegungszustand Null) bzw. bewegt sich
+nur dann, wenn man
+      ihn mit einer bestimmten Kraft anschiebt.
+      Massen sind trδge, heiίt also, daί sie nur dann in ihrem
+Bewegungszustand verδndert  werden kφnnen, wenn eine Kraft aufgewendet
+wird.
+2. Massen ziehen sich gegenseitig an.
+      Die Anziehungskraft von Massen auf der Erde nennt man Gewichtskraft.
+      Ein Stein fδllt zu Boden, weil er von der Masse Erde angezogen wird.
+      Gδbe es keine Anziehungskraft der Erde ,dann wόrden alle Kφrper auf
+der Erde in den  Weltraum entschweben.
+Massen werden mit der Balkenwaage gemessen.Es ist ein Vergleich mit
+vorgegebenen Gewichten.
+Das Urkilogramm, das festgelegte Maί von einem Kilogramm, wird in Paris
+aufbewahrt.
+
+Die Kraft.
+Was ist Kraft ?  Man weiί es nicht. Die physikalische Grφίe Kraft kann nur
+anhand ihrer Wirkungen beschrieben werden.
+1. Durch eine Kraft kann ein Kφrper in seiner Form verδndert werden.
+      z.B. Eine Spiralfeder wird lδnger, wenn man daran zieht. (Elastische
+Formverδnderung)
+      oder Knetmasse verδndert seine Form,wenn man den Daumen hineindrόckt.
+(Plastische      Formδnderung)
+
+
+2. Durch eine Kraft kann eine Masse in ihrem Bewegungszustand verδndert
+werden.
+      (Eine Masse bewegt sich nur,wenn eine Kraft auf sie einwirkt.)
+Kraft ist eine abgeleitete physikalische Grφίe (Formelzeichen :F)
+ und wird in  N  (Newton ) gemessen.
+Krδfte werden mit der Federwaage gemessen.Eine Spiralfeder dehnt sich
+proportional
+zur angreifenden Kraft, so daί die Kraft anhand der Dehnung gemessen werden
+kann.
+
+Von welchen Faktoren hδngt die Grφίe einer Kraft ab?
+Wir haben gelernt: Krδfte sind erforderlich um Massen in Bewegung zu
+versetzen.
+Hierbei gilt:
+
+1. Newtonsches Gesetz:
+Je grφίer eine Masse, umso grφίer ist auch die erfoderliche Kraft ,um diese
+in Bewegung zu versetzen.
+             F  [pic]  m
+Je grφίer die Kraft, umso grφίer ist auch die Beschleunigung, mit der eine
+Masse in ihrem
+Bewegungszustand verδndert wird.
+            F [pic] a
+Da keine weiteren Faktoren die Bewegung einer Masse beeinflussen gilt:
+                                 [pic]
+Damit kann die Grφίe der Maίeinheit N festgelegt werden.
+1N ist die Kraft, mit der eine Masse von 1 kg mit einer Beschleunigung von
+1 m/s²
+bewegt werden kann.
+oder:
+                           1 N =  1kg .1m/s²
+
+2. Newtonsches Gesetz:
+    Gesetz der Statik:
+Wirken auf einen Kφrper Krδfte und der Kφrper bewegt sich trotzdem nicht,
+dann
+werden diese durch eine gleich groίe Gegenkraft kompensiert.
+Bei Kφrpern in Ruhe gilt also:
+                                Kraft = Gegenkraft
+Z.B. Meine Tasche fδllt nicht zu Boden, weil ich sie mit einer gleich
+groίen Gegenkraft
+festhalte.
+
+            Kraft als gerichtete Grφίe.
+Um eine Kraft exakt anzugeben, ist nicht nur die Angabe ihrer Grφίe in N
+(Newton) erforderlich, sondern auch die Angabe ihrer Richtung.
+   Krδfte sind gerichtete Grφίen. d. h. Krδfte sind Vektoren.
+(Weitere gerichtete Grφίen sind Lδnge, Geschwindigkeit, Beschleunigung und
+viele mehr,
+   aber Masse , Temperatur, Energie z.B. haben keine Richtung.)
+Zur Darstellung einer Kraft wird deshalb ein sogenannter Krδftepfeil
+verwendet.Hierbei gibt die Richtung des Pfeils die Richtung der Kraft
+an.Diese Richtung bezeichnet man auch als die Wirkungslinie der Kraft. Die
+Lδnge des Pfeils gibt die Grφίe der Kraft an in N. Hierbei muί die Lδnge
+entsprechend geeicht werden, z.B. 1 cm = 10 N.
+
+
+Krδftepfeil fόr eine Kraft von 80 N.
+
+
+
+                                                             60N
+
+
+
+
+
+
+
+
+
+Wichtig:        Krδfte kφnnen auf ihrer Wirkungslinie verschoben werden ,
+ohne dass
+            hierdurch ihre Wirkung verδndert wird.
+(Z.B. Die Schubkraft einer Lokomotive ist die Gleiche, egal ob die
+Lokomotive vorne ,hinten,
+      oder in der Mitte angekuppelt ist.Durch die Schienen bleibt die
+Wirkungslinie die Gleiche.)
+
+
+
+-----------------------
+
+
+Wirkungslinie
+
+40N
+
+20N
+
+0 NNNN
+
+
+

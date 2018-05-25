@@ -1,0 +1,1098 @@
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+
+Manöverumsetzung auf einem dynamischen Motorrad Fahrsimulator –
+Lenken, Lehnen und Kopplungseffekte in der virtuellen Umgebung
+Raphael PLEß1, Sebastian WILL2, Marius HOFMANN1, Hermann WINNER1
+1
+TU Darmstadt Fachgebiet Fahrzeugtechnik (FZD)
+Otto-Berndt-Str. 2 64387 Darmstadt, Deutschland
+2
+Würzburger Institut für Verkehrswissenschaften (WIVW GmbH)
+Robert-Bosch-Straße 4, 97209 Veitshöchheim, Deutschland
+
+Zusammenfassung
+Abgesehen von der Gas-, Brems- und Kupplungsbetätigung sind die Fahreingaben auf einem
+Motorrad – das Lenken und Lehnen – z.B. aufgrund gyroskopischer Effekte stark voneinander
+abhängig. Diese Effekte werden als bidirektionale Lenk-Roll-Kopplung bezeichnet.
+Um eine höchstmögliche Immersion auf einem dynamischen Motorrad-Fahrsimulator zu erreichen,
+müssen die Fahreingaben präzise erfasst werden und zudem die Rückführungsgrößen so abgestimmt
+werden, dass sie dem Fahrer ein realgetreues Empfinden der Fahrdynamik ermöglichen.
+Dieser Bericht befasst sich mit dem Lenksystem, das im DESMORI-Motorrad-Fahrsimulator
+implementiert wurde und beschreibt die Einflüsse durch die bidirektionale Lenk-Roll-Kopplung. Dazu
+wird die Fahrerbewegungserkennung durch eine Rollmomentsensorik diskutiert.
+
+Maneuvering a Dynamic Motorcycle Riding Simulator –
+Steering, Leaning and Coupling Effects in the Virtual Environment
+
+Abstract
+Aside from throttle-, brake- and clutch actuation, the rider inputs on a motorcycle – the steering as
+well as the leaning motion – are highly dependent to each other e.g. due to gyroscopic effects. These
+effects are referred to as the so called bidirectional steer-roll-coupling.
+In order to achieve the highest possible immersion on a dynamic motorcycle riding simulator, it is
+mandatory to precisely determine the abovementioned rider inputs and generate a feedback to the
+rider that enables him to feel the motorcycle’s dynamic behavior as he would feel it in the real world.
+This paper concentrates on the steering system that has been implemented in the DESMORI
+motorcycle riding simulator and describes how it is influenced by the bidirectional steer-roll-coupling.
+Therefore, the rider motion determination via a roll torque sensor is discussed.
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+
+1 Einleitung
+Bei der Motorrad-Fahrsimulation stehen Entwickler vor der Herausforderung, das mit den hohen
+möglichen Beschleunigungs- und Verzögerungswerten, der Schräglage bei Kurvenfahrt, sowie dem
+direkten Lenkverhalten verbundene Fahrempfinden realgetreu abbilden zu können. Daraus resultiert
+die Notwendigkeit geeigneter Eingabeerfassungs- sowie Rückführungssysteme bei der Nutzung eines
+dynamischen Motorradfahrsimulators. Ein solcher Simulator kann nur dann untersuchungsrelevante
+Ergebnisse liefern, wenn er Probanden in ausreichendem Maß realgetreu empfinden und handeln
+lässt. Während Will et al. [1] sich mit der Anwendung des hier behandelten Simulators in einer
+Pilotstudie befasst, werden in den nachfolgenden Abschnitten die technischen Herausforderungen
+hinsichtlich der Eingabeerfassungs- sowie Rückführungssysteme behandelt, durch die eine von
+Probanden als realgetreu empfundene Manöverumsetzung ermöglicht wird. Dabei werden zur
+zunächst das Motorrad-Lenkverhalten und mögliche Fahrereingaben des Realfahrzeugs dargestellt,
+bevor der DESMORI-Simulator inklusive dessen Lenksystem sowie der Rollmomenterfassung im
+Detail beschrieben und diskutiert wird. Abschließend wird die gemeinsame Anwendung von Lenkund Roll-System im Simulator erläutert und ein Ausblick auf die nächsten Entwicklungsschritte
+gegeben. Weitere manöverrelevante Eingabegrößen wie Gas, Bremse oder Kupplung werden nicht
+näher behandelt, da deren Erfassung im Simulator keine weiteren technischen Herausforderungen
+mit sich bringt.
+
+2 Manöverumsetzung im realen Fahrzeug
+Wie zuvor erwähnt, findet die Manöverumsetzung im Motorrad durch Lenk- und Lehnbewegungen
+des Fahrers statt. Beide können unabhängig voneinander zur Beeinflussung der Fahrzeugquerdynamik genutzt werden, wobei sie sich stark in den erreichbaren Gradienten und Amplituden
+unterscheiden (siehe Abschnitt 2.1) und ihr Einfluss von der Fahrgeschwindigkeit abhängig ist.
+Abbildung 1 stellt die Zusammenhänge zwischen Fahrer und Fahrzeug dar, welches durch zwei
+Hauptbestandteile – den Front- sowie Heckrahmen – beschrieben wird. Der Frontrahmen beinhaltet
+dabei das Vorderrad sowie dessen Führungssystem und ist im Lenkkopf drehbar mit dem
+Heckrahmen verbunden, der das Hinterrad sowie wiederum dessen Führungssystem beinhaltet. Der
+Fahrer ist über den Fahrzeugsattel an den Heckrahmen angebunden und ist in der Lage,
+Drehmomente (Lenkmomente) auf das Gelenk zwischen Front- und Heckrahmen aufzuprägen, sowie
+durch seine Lehnbewegung Drehmomente um die Fahrzeuglängsachse (Rollmomente) auf den
+Heckrahmen aufzuprägen. Abbildung 1 stellt diese Eingabegrößen schematisch dar (blaue Pfeile).
+
+Abbildung 1: Fahrereingabe- und Rückmeldungsgrößen || Rider input and feedback cues [2]
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+Bringt der Fahrer ein Lenkmoment auf, so erhält er eine Rückmeldung durch ein entgegenwirkendes
+Widerstandsmoment sowie den sich einstellenden Lenkwinkel. Bringt der Fahrer (ggf. freihändig
+fahrend) durch das Lehnen zur Seite ein Rollmoment auf den Hauptrahmen auf, so erhält er eine
+Rückmeldung über den sich einstellenden Fahrzeugrollwinkel. Bedingt etwa durch Kreiselmomente
+und die sich einstellenden Kräfte im Reifenlatsch bei Schräglage wirken Änderungen von Lenk- und
+Rollwinkel gegenseitig aufeinander ein [3]. So folgt bei stationärer Geradeausfahrt auf eine
+Lenkbewegung nach links stets auch eine Rollbewegung nach rechts. Ebenso wird eine Rollbewegung
+des Motorradfahrers bspw. durch die Kreiselwirkung direkt zu einer gleichsinnigen Lenkbewegung
+führen.
+
+2.1 Positive- und Countersteering
+Die oben beschriebenen Gegebenheiten erlernt man im Allgemeinen bereits im Kindesalter, z.B.
+beim Fahrradfahren. Entsprechend sensibel können Probanden auf einem Simulator darauf
+reagieren, wenn sie nicht korrekt wiedergegeben werden. Hervorzuheben ist dabei das Empfinden
+von „Positive- und Countersteering“. Bei langsamen Fahrgeschwindigkeiten wird das Fahrzeug durch
+Körperverlagerung balanciert und ein bewusst oder unbewusst eingeleitetes Kippen des Fahrzeuges
+wird durch eine darauf folgende Drehung des Lenkers in Kipprichtung (engl.: „positive“) des
+Fahrzeuges aufgefangen, woraus sich erneut ein stabiler Fahrzustand ergibt. Bei zunehmenden
+Geschwindigkeiten steigt die Selbststabilisierung u. A. durch Nachlauf- und Kreiseleffekte zunehmend
+an, wodurch die Rollbewegung bedämpft wird und eine Fahrerschwerpunktverlagerung weniger
+Einfluss auf das Fahrzeug nimmt. Zu diesem Zeitpunkt nutzt der Fahrer eine Gegenlenkbewegung
+(engl.: „counter“) um einen gewünschten Rollwinkel einzustellen. Es werden somit vom Fahrer je
+nach Fahrsituation unterschiedliche Dreh- und Momentenrichtungen am Lenker wahrgenommen.
+Die bislang aus Forschung und Entwicklung bekannten Motorradfahrsimulatoren konzentrieren sich
+häufig auf die Anwendung nur eines der beiden Lenkprinzipien. Dadurch vereinfacht sich der Aufbau
+des Lenksystems – im Speziellen dessen Regelung – jedoch empfindet ein Fahrer je nach persönlicher
+Erwartungshaltung das Lenkgefühl in bestimmten Geschwindigkeitsbereichen als unnatürlich. Der
+„EF-Bike“-Simulator der Firma Eca-Faros [4] besitzt beispielsweise eine geschwindigkeitsabhängige
+Umschaltung zwischen Positive- und Countersteering, was jedoch im Übergangsbereich zu
+erheblichen Störungen der Bewegungsabläufe des Fahrers führen kann. Ziel bei der Entwicklung des
+DESMORI-Fahrsimulators ist eine realgetreue Abbildung beider beschriebener Effekte ohne
+Umschaltlogik.
+Entgegen der weitläufig verbreiteten Meinung, dass Positivesteering nur bei langsamen Geschwindigkeiten und Countersteering nur bei schnellen Geschwindigkeiten auftritt, ist festzuhalten, dass es
+sich hier nur um unterschiedliche Wahrnehmungen der Bewegungsabläufe beim Einleiten einer
+Kurvenfahrt in verschiedenen Geschwindigkeitsbereichen handelt. Die physikalisch wirksamen
+Effekte, die in Folge einer Lenk- oder Lehnbewegung eine Rollbewegung des Fahrzeuges bewirken,
+treten lediglich unterschiedlich stark ausgeprägt und in unterschiedlicher zeitlicher Abfolge auf. Zur
+Erläuterung dient das nachfolgende Beispiel, in dem zwei Simulationsszenarien betrachtet werden, in
+denen bei jeweils gleicher Fahrgeschwindigkeit von v = 10 m/s eine Kurvenfahrt eingeleitet wird
+(Abbildung 2). Dazu wird das von der Fahrdynamiksimulationssoftware bereitgestellte Fahrermodell
+vom Fahrzeug getrennt und dieses stattdessen von externen Reglern gesteuert. Als Stellgröße dienen
+der Versatz des Fahrerschwerpunktes yrider (durchgezogene Linie) sowie das Lenkmoment Tδ,rider
+(gestrichelt).
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+
+40
+
+yrider in cm
+T/;rider in Nm
+
++
+20
+
++
+-
+
+0
+
+-40
+
+0
+
+0.5
+
+1
+
+1.5
+
+T
+
+ ,rider
+
+y
+
+rider
+
+.
+2
+
+-20
+
+y
+
+rider
+
+.
+1
+
+-
+
+2
+
+.
+3
+
+2.5
+
+3
+
+3.5
+
+4
+
+4.5
+
+T
+
+ ,rider
+
+5
+
+5.5
+
+20
+
++
+
+ Positivesteering scenario
+
+-
+
+10
+
+'veh in
+
+/
+
+ Countersteering scenario
+
+0
+
+-10
+
+-20
+
+.
+4
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+3
+
+3.5
+
+4
+
+4.5
+
+5
+
+5.5
+
+t in s
+
+Abbildung 2: Positive- und Countersteering || ① „Negativer Lenkimpuls“, ② Fahrerquerversatz,
+③ „Positiver Lenkimpuls“ um Kippen entgegenzuwirken, ④ Rollwinkel-Drift zu Beginn der
+Simulation aufgrund Ungleichgewicht im Fahrdynamikmodell || v = 10 m/s
+Der Bereich vor t = 2 s zeigt die Startphase der Simulation ④, in der aufgrund zu geringer Eigenstabilisierung bereits ein kleiner Rollwinkel φveh nach links aufgebaut wird, der hier jedoch nicht weiter
+beachtet werden soll. Bei t = 2 s wird der Fahrerschwerpunkt im „Positivesteering“ Szenario (blau)
+um 20 cm zur rechten Seite ausgelenkt ②. Das Fahrzeug beginnt erwartungsgemäß nach rechts zu
+rollen. Ab t = 2,5 s regelt der externer Regler mit dem Lenkmoment als Stellgröße die Rollrate zu Null,
+sodass ein konstanter Rollwinkel von ca. 8° erreicht wird. Es ist zu erkennen, dass zur Stabilisierung
+der Kippbewegung ein Lenkmoment zur Kurveninnenseite (rechtsdrehend) aufgebracht werden muss
+③. Im „Countersteering“ Szenario (grün) wird – wiederum mit dem Lenkmoment als Stellgröße –
+nun der Rollwinkel φveh geregelt, wobei als Sollgröße der zuvor im „Positivesteering“ Szenario
+erhaltene Verlauf verwendet wird. Der Versatz des Fahrerschwerpunktes wird dabei konstant zu Null
+gesetzt. Es ist zu erkennen, dass durch die Wahl der getroffenen Regelparameter Abweichungen im
+Rollwinkelsignal auftreten und ein Überschwingen über den Zielwert auftritt. Trotz des unzureichenden Regelverhaltens ist jedoch ersichtlich, dass zum Erreichen des Sollrollwinkels zu Beginn des
+Manövers ein nach links gerichtetes Lenkmoment ① aufgebracht werden muss. Das simulative
+Beispiel zeigt, dass zum Erreichen gleicher Trajektorien unterschiedliche Steuereingaben durch den
+Fahrer gemacht werden können. Es ist ersichtlich, dass sich abhängig vom Fahrstil (Lean-In, Lean-Out)
+des Fahrers das Lenkmoment in Vorzeichen und Amplitude ändern kann. Dieser Arbeit liegt demnach
+die These zu Grunde, dass nur durch eine Erfassung von sowohl Lenk- als auch Lehneingaben eine
+realgetreue Steuerbarkeit des virtuellen Fahrzeuges möglich ist. Wird die Lenkeingabe
+vernachlässigt, ist das Steuern des Fahrzeuges auf das freihändige Fahren begrenzt, wodurch vor
+allem bei hohen Fahrgeschwindigkeiten keine ausreichende Dynamik erreicht werden kann.
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+Abbildung 3 zeigt das bei steigenden Geschwindigkeiten verringerte Rollvermögen durch Lehnbewegungen. Dabei werden Abstützkräfte zwischen Fahrer und Fahrzeug vernachlässigt.
+
+y
+
+120
+
+rider
+
+"v
+
+'
+B veh in / =s2 jj yrider in cm
+
+v = 10...30 m/s
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+-20
+1
+
+1.2
+
+1.4
+
+1.6
+
+1.8
+
+2
+
+2.2
+
+2.4
+
+2.6
+
+2.8
+
+3
+
+t in s
+
+Abbildung 3: Rollbeschleunigung durch Querversatz des Fahrerschwerpunktes
+Würde stattdessen in der Simulation die Lehneingabe vernachlässigt, kann durch die Lenkung
+weiterhin eine hohe Dynamik erreicht werden. Abbildung 4 zeigt das Rollvermögen durch Lenkbewegungen. Das Simulationsmodell wird bei steigenden Fahrgeschwindigkeiten mit einem Lenkmomentensprung (t = 2 s, Tδ = 10 Nm, Δt = 0,2 s) beaufschlagt. Die erreichten Maxima der Rollbeschleunigung unterscheiden sich dabei untereinander kaum. Jedoch übertreffen sie vor allem bei
+hohen Geschwindigkeiten die durch Versatz des Fahrerschwerpunktes erreichten Rollbeschleunigungen.
+
+T
+
+'
+B veh in / =s2 jj T/;rider in Nm
+
+120
+
+ ,rider
+
+"v
+
+v = 10...30 m/s
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+-20
+1
+
+1.2
+
+1.4
+
+1.6
+
+1.8
+
+2
+
+2.2
+
+2.4
+
+2.6
+
+t in s
+
+Abbildung 4: Rollbeschleunigung durch Aufbringen eines Lenkmoments
+
+2.8
+
+3
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+Wenngleich folglich bei alleiniger Verwendung der Lenkeingabe kein grundsätzlicher Verlust der
+Steuerbarkeit des Fahrzeuges zu erwarten ist, so kann doch bei Vernachlässigung der Lehneingabe
+keine Abbildung der gemeinhin als „Positive- und Countersteering“ bekannten Effekte geschehen.
+Daher ist der DESMORI-Simulator mit entsprechenden Systemen ausgerüstet, um den Probanden ein
+möglichst realgetreues Fahrgefühl zu ermöglichen, das ihrer Erwartungshaltung entspricht.
+Entscheidend ist, dass die Probanden nur dann am Fahrsimulator ihr natürliches Verhalten zeigen,
+wenn der Simulator entsprechend ihrer Erwartungen an das Motorrad reagiert. Diese Erwartungen
+entsprechen jedoch nicht immer den physikalischen Gesetzmäßigkeiten. Der Einfluss der
+Gewichtsverlagerung auf die entstehende Trajektorie wird bspw. regelmäßig überschätzt. Ein
+Wegnehmen dieser Fahrereingaben kann daher die Akzeptanz des Motorradfahrsimulators
+schmälern. Das nachfolgende Kapitel beschreibt kurz den Aufbau des Simulators, bevor schließlich
+detailliert auf das Lenksystem und die Rollmomenterfassung eingegangen wird.
+
+3 Der DESMORI-Simulator
+Der hier behandelte Simulator basiert auf Rahmen und Verkleidung eines Motorrads (BMW F 800 S),
+das auf einem hydraulischen Hexapod montiert ist, über den die Bewegungsdarstellung erfolgt. Das
+Am Motorrad-Mockup sind alle gängigen Eingabeelemente wie Lenker, Brems- und Kupplungshebel,
+Fußschalthebel und –bremspedal, so wie am realen Fahrzeug vorhanden. Die Lenkachse kann von
+einem Elektromotor mit einem Drehmoment von bis zu 80 Nm beaufschlagt werden. Eine zwischen
+Fahrzeug und Hexapod-Plattform verbaute Rollmomentsensorik ermöglicht es, Fahrerbewegungen
+zu erfassen. Der Simulator befindet sich in der Mitte einer zylindrischen Leinwand von 4,5 m
+Durchmesser und einer Höhe von 2,8 m, wodurch ein horizontales Sichtfeld von 220° aufgespannt
+wird. TFT Displays übernehmen die Darstellung der Rückspiegel sowie des Instrumentenkombis. Über
+helmintegrierte Kopfhörer erhält der Proband ein auditives Feedback zu Motor- und
+Windgeräuschen sowie der Umgebung (Witterungseinflüsse wie Regen, Umgebungsverkehr, etc.).
+Niederfrequente Schwingungen können zudem per Körperschallwandler auf das Fahrzeug
+aufgebracht werden. Über einen Seilzugmechanismus ist es ferner möglich, Längskräfte mit hohen
+Amplituden bei gleichzeitig niedrigen Frequenzen auf den Fahrer aufzubringen, wie sie bei
+Beschleunigungen und Verzögerungen oder durch Windlast in Realfahrten auftreten. Die
+Krafteinleitung erfolgt dabei mittels einer modifizierten Airbag-Weste (Motoairbag®) aus dem
+Motorradzubehör.
+Abbildung 5 zeigt den Simulator bei einer virtuellen Landstraßenfahrt. Zu erkennen sind der Helm mit
+Soundintegration, die TFT-Rückspiegel sowie das Seilzugsystem.
+
+Abbildung 5: DESMORI-Motorrad-Fahrsimulator
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+Die Ansteuerung des Simulators erfolgt über die Software SILAB der WIVW GmbH. SILAB übernimmt
+die Kommunikation mit allen benötigten Hard- und Software-Modulen und zeichnet alle relevanten
+Daten synchron zueinander auf. Als Fahrdynamiksimulationssoftware wird VI-BikeRealTime 16 (BRT)
+von der VI-grade GmbH verwendet. BRT wird in eine Co-Simulation mit MATLAB eingebettet, wo
+zudem weitere Regler sowie bspw. der Motion Cueing Algorithmus [5] hinterlegt sind. Eine
+Herausforderung stellt dabei die Substitution des VI-Fahrermodells durch die Mess- und Regelgrößen
+dar. So müssen alle in Offline-Simulationen vom Fahrermodell übernommenen Stabilisierungsmaßnahmen auch in der Online-Simulation vom Probanden korrekt durchgeführt werden oder die
+Stabilisierungsaufgabe von einem zusätzlichen Regler übernommen werden.
+
+3.1 Lenksystem
+Das Lenksystem des DESMORI-Simulators (Abbildung 6) besteht aus einem starr am Fahrzeugrahmen
+angebundenen Elektromotor (HarmonicDrive® Actuator). Dieser ist über eine DrehmomentMessdose (Torque Sensor) an die untere Gabelbrücke (Fork Crown) unterhalb des Lenkkopflagers
+angeflanscht.
+
+Abbildung 6: Hardware des Lenksystems
+Es existieren zwei mögliche Eingabegrößen zur Lenkung des virtuellen Fahrzeugs: Der Lenkwinkel und
+das Lenkmoment. Die Verwendung der einen Größe als Eingang in das Fahrdynamikmodell
+ermöglicht jeweils nur die andere Größe als Ausgang des Modells zu erhalten. Unter dieser
+Voraussetzung sind wiederum zwei einfache Regelkreise denkbar:
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+
+"Impedance Control"
+
+"Admittance Control"
+
+ steer,Mockup
+
+Steering
+
+Tsteer,Mockup
+
+VI-BRT
+
+Steering
+
+ steer,BRT
+
+Tsteer,BRT
+
+Actuator
+
+VI-BRT
+
+Actuator
+
+Abbildung 7: Direkte Lenksysteme
+
+
+
+
+„Impedanzregler“
+Messung des Simulator-Lenkwinkels  Eingabe des Lenkwinkels in das Fahrdynamikmodell
+ Ermittlung des resultierenden Lenkmoments in BRT  Stellen des Momentes am Aktor
+„Admittanzregler“
+Messung des Simulator-Lenkmomentes  Eingabe des Momentes in das Fahrdynamikmodell
+ Ermittlung des resultierenden Lenkwinkels in BRT  Stellen des Winkels am Aktor
+
+Sogenannte „Impedanzregler“ und „Admittanzregler“ finden häufig in der Robotik Anwendung [6,7],
+sind jedoch in Analogie auch für das hier beschriebene Lenksystem anwendbar. Ein Impedanzregler
+(auch Nachgiebigkeitsregler) reagiert auf von der Umwelt aufgebrachte Positionsänderungen mit
+entsprechenden Gegenkräften, während bei einer Admittanzreglung eine auf das Objekt wirkende
+Kraft in eine Bewegung umgewandelt wird.
+Beide Systeme, wie sie in Abbildung 7 dargestellt sind, unterliegen Latenzen bei der
+Messwerterfassung, der Verarbeitung innerhalb der Simulationsumgebung sowie der Stellgrößenerzeugung. Diese Latenzen schränken die erreichbare Dynamik stark ein. Bereits bei kleinen Totzeiten
+sowie durch begrenzte Verstärkungsfaktoren des Lenkaktors ist es nicht mehr möglich, einem vom
+Fahrer aufgebrachten Lenkimpuls das passende Widerstandsmoment entgegenzusetzen. Daraus
+resultiert eine unplausible Lenkwinkelvorgabe in der Fahrdynamiksimulation, die schließlich den
+geforderten Zustand nicht mehr simulieren kann und instabil wird – der Fahrer stürzt. Der Aufbau
+des Lenksystems analog zur Impedanzregelung kommt daher lediglich bei niedrigen Dynamiken in
+Frage und wird hier nicht weiter verfolgt. Das zu einer Admittanzregelung analoge System besitzt
+Vorteile hinsichtlich der Systemstabilität, da ein unplausibler Lenkmomentmesswert – solange er
+endlich ist – lediglich geänderte Lenkwinkelbeschleunigungen zur Folge hat, jedoch keine Unstetigkeiten erzeugen kann. Eine Verwendung dieses einfachen Systems wird jedoch durch die Drehmomentmessung verhindert. Schließlich kann der verwendete Sensor lediglich dann ein eingegebenes
+Moment messen, wenn es an anderer Stelle abgestützt wird. Wird jedoch bei einer bestimmten
+Fahrsituation kein, bzw. ein zu geringes Drehmoment durch den Lenkaktor aufgebracht (bspw. bei
+stabiler Geradeausfahrt), so wird auch bei Verdrehungen des Lenkers durch den Fahrer kein, bzw. ein
+zu geringes Drehmoment vom Sensor erfasst. Das Verlassen der Geradeausfahrt durch eine
+Lenkeingabe ist folglich nicht mehr möglich.
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+Aus den dargestellten Gegebenheiten lassen sich folgende Bedingungen an das Lenksystem stellen:
+1) Um Unstetigkeiten zu vermeiden, wird die Vorgabe eines Lenkmomentes in das Fahrdynamikmodell bevorzugt. (Lenkwinkelgeschwindigkeit oder –beschleunigung stehen zum Datum
+der Veröffentlichung nicht als Eingabegröße bereit)
+2) Aus der Momentenvorgabe in BRT folgt, dass eine Bewegungsgröße (Lenkwinkel /geschwindigkeit) als Ausgabe verwendet werden muss.
+3) Die Messung eines Lenkmomentes ist nur bei Vorhandensein eines Abstützmomentes
+möglich.
+Abbildung 8 skizziert das resultierende Systemblockschaltbild des im DESMORI-Simulator verwendeten Lenksystems. Lenker, Drehmomentsensor sowie Aktor sind wie in Abbildung 6 gezeigt starr
+miteinander verbunden. Ein PID-Regler führt den Simulator Lenkwinkel stets dem im Fahrdynamikmodell herrschenden Lenkwinkel nach. Dadurch sind o.g. Anforderung 1) und 2) erfüllt. Betrachtet
+man erneut das zuvor beschriebene Szenario der stabilen Geradeausfahrt, ist ersichtlich, dass nun
+eine Verdrehung des Lenkers durch den Fahrer einen Differenzwinkel Δδ zur Folge hat. Somit wird ein
+Gegenmoment durch den Aktor gestellt, das das Fahrerlenkmoment abstützt, das folglich vom
+Sensor erfasst werden kann und dem Fahrdynamikmodell als Eingangsgröße dient. Umgekehrt
+führen auch durch das Modell induzierte Lenkbewegungen (z.B. durch plötzliches Bremslenkmoment) zu Lenkbewegungen des Simulators. Werden diese vom Fahrer abgestützt, ergibt sich
+wiederum ein im Fahrdynamikmodell wirksames Lenkmoment.
+
+
+ steer,Mockup
+
+Steering
+ steer,BRT
+
+Tsteer,Mockup
+Torque Sensor
+
+VI-BRT
+
+Tsteer,HD
+
+u(s)
+
+PID
+
+e(s)
+
+HarmonicDrive
+
+Abbildung 8: Nachführen des Lenkwinkels
+Das gezeigte System ermöglicht das stabile Fahren des DESMORI-Simulators ab Fahrgeschwindigkeiten von ca. v > 30 km/h. Darunter bewirken die im System weiterhin vorhandenen Totzeiten
+bedingt durch die geringe Selbststabilisierung des Fahrzeugmodells eine unzureichende Steuerbarkeit. Gegenphasige und betragsmäßig falsche Lenkwinkel und –momente machen das Fahren des
+Simulators dann beinahe unmöglich. Um diesen negativen Effekt zu reduzieren, wird bei niedrigen
+Fahrzeuggeschwindigkeiten das in BRT eingegebene Lenkmoment abgeschwächt und ein stabilisierendes Rollmoment auf das virtuelle Fahrzeug aufgebracht.
+
+3.2 Rollmomenterfassung
+Um den Probanden auf dem DESMORI Simulator das Steuern des virtuellen Fahrzeuges per
+Körperbewegung zu ermöglichen, muss diese auf geeignete Art und Weise sensorisch erfasst werden.
+Die Positionsmessung körperfester Referenzpunkte bspw. durch eine Stereokamera ist zu diesem
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+Zweck leicht zu implementieren und ermöglicht grundsätzlich eine gute Steuerbarkeit des Fahrzeuges
+durch bewusste Lehnbewegungen des Fahrers. BRT besitzt, wie in 2.1 gezeigt, die Möglichkeit, eine
+Fahrerschwerpunktbewegung im Fahrdynamikmodell aufzubringen. Diese wird jedoch lediglich als
+quasistatische Größe betrachtet. Demnach werden Abstützungskräfte zwischen Fahrer und Fahrzeug,
+obwohl sie eine große Relevanz für die Fahrdynamik besitzen, (z.B. „Counter Lean“ [8]) nicht
+abgebildet und müssen wiederum mithilfe externer Regler als zusätzliche (beschleunigungsabhängige) Kraft in Richtung der Fahrzeugquerachse aufgebracht werden. Für die Fahrermasse sowie
+die Massenverteilung werden bei der kamerabasierten Positionserfassung i.A. Schätzwerte
+angenommen, die unabhängig vom Probanden beibehalten werden. Erfasst wird zudem lediglich die
+Bewegung angegebener Referenzpunkte. Eine Gewichtsverlagerung durch nicht betrachtete Körperteile (Arme, Beine, ggf. Hüfte) ist somit für das Fahrdynamikmodell irrelevant.
+Um eine Betrachtung aller Bewegungseinflüsse des Fahrers auf das Fahrzeug abbilden zu können und
+sich dabei nicht auf einzelne Komponenten wie die Vertikalkraft auf die Fußrasten zu beschränken,
+wurde in den DEMORI Fahrsimulator statt der Positionserfassung oder der Rastenkraftmessung eine
+Rollmomentsensorik verbaut, wie sie in Abbildung 9 zu sehen ist.
+
+Abbildung 9: Rollmomenterfassung auf dem DESMORI Simulator
+Auf der beweglichen Hexapod-Plattform wird eine zusätzliche Drehachse verbaut, um die der Aufbau
+um die Längsachse rotieren kann. Der Aufbau wird dann gegen die Hexapodplattform über eine
+Kraftmessdose abgestützt. Unter Kenntnis des senkrechten Abstandes zwischen Kraftmessdose und
+Drehachse kann das Drehmoment um die Längsachse des Fahrzeuges ermittelt werden. Dabei ist es
+irrelevant, ob das Drehmoment aus bewussten oder unbewussten Bewegungen des Fahrers resultiert
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+und mit welchen Körperpartien es erzeugt wurde. Dazu zählen bspw. auch etwaige Drehmomente,
+die in Fahrsituationen entstehen, bei denen der Fahrer „Druck auf die Fußrasten“ aufbringt oder „die
+Knie gegen den Tank abstützt“.
+Es wird schnell ersichtlich, dass bei horizontaler, nichtbeschleunigter Lage des Hexapod die
+gemessene Kraft direkt und alleinig von der Fahrerbewegung abhängig ist und als Eingang in das
+Fahrdynamikmodell genutzt werden kann. Sobald jedoch Bewegungen durch den Hexapod
+wiedergegeben werden, entstehen auch bei Bewegungslosigkeit des Fahrers Momentenanteile
+bspw. durch Gravitationsterme, Quer- oder Rollbeschleunigungen, die in Abhängigkeit von der
+Masseverteilung des Fahrzeuges sowie des Fahrers stehen. Es gilt nun, die rein aus dem Aufbau
+resultierenden Anteile des gemessenen Drehmomentes zu bestimmen, sodass das rein durch den
+Fahrer induzierte Rollmoment durch Differenzbildung ermittelt werden kann. Abbildung 10 skizziert
+das gewählte Vorgehen.
+
+Abbildung 10: Bestimmung des fahrerinduzierten Rollmomentes
+Ausgehend von der Fahrdynamik-Simulation werden Plattformbewegungen auf den Hexapod
+aufgebracht. Die Bewegungsgrößen des Hexapod, die z.B. aufgrund limitierter Pumpleistung der
+hydraulischen Aktoren vom Sollwert abweichen, werden gemessen und daraus ein Erwartungswert
+des Signals der Kraftmessdose unter Annahme einer starren, nicht beweglichen Körpermasse
+errechnet. Die Differenz aus dem gemessenen Signal und dem simulierten Erwartungswert entspricht
+der Kraft, die lediglich durch Fahreranregung entstanden sein kann. Sie beinhaltet dabei sowohl
+aktive Einflüsse z.B. durch bewusste Lehnbewegungen als auch Impedanzeffekte der Fahrermasse,
+die dämpfend auf die Fahrzeugbewegung wirken. Abbildung 11 zeigt ein Indiz auf diese Dämpfung
+anhand von Roll- und Lenkwinkel. Darin sind φnorm bzw. δnorm normierter Roll- und Lenkwinkel und Lφ
+sowie Lδ sind die Pegel dieser Winkel bei eingeschalteter Rollmomenterfassung („Trid on“) bezogen
+auf die Winkel bei ausgeschaltetem System. Als Fahrmanöver dient eine Slalomfahrt.
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+
+Abbildung 11: Dämpfung von Roll- und Lenkwinkel bei Verwendung der Rollmomentsensorik
+
+Die durchgezogenen Linien stellen die Frequenzspektren von Roll- und Lenkwinkel dar. Dabei zeigt
+die dicke rote Linie das Szenario mit ausgeschalteter Rollmomenterfassung („Trid off“). Als dominante
+Frequenz ist klar die Schwingfrequenz der Slalomfahrt knapp unterhalb von 0,2 Hz zu erkennen. Ein
+weiterer während Simulatorfahrten spürbarer Amplitudenanstieg geschieht im Bereich von 1,2 Hz.
+Dieser wird als stark störend empfunden und kann zur Destabilisierung der Simulatorfahrt führen.
+Wird nun die Rollmomenterfassung eingeschaltet (grün @ 60 km/h und lila @70 km/h) ist die
+Slalomfahrt besser zu beherrschen. Die Frequenzanteile im Bereich von 1,0 bis 1,8 Hz werden
+bedämpft. Als Maß der Dämpfung dienen die Schwingungspegel (gestrichelt), welche eine Abnahme
+der Schwingungsamplituden um bis zu 1 dB im Vergleich zum nicht aktiven System zeigen. Der
+Frequenzbereich von 1,0 bis 1,8 Hz erscheint jedoch etwas niedrig im Vergleich zu typischen
+Fahrerkörper-Eigenfrequenzen [9] und auch aufgrund der Koppelefekte zwischen Lenk- und
+Rolldynamik im Fahrdynamikmodell bleibt der genaue Wirkmechanismus der beobachteten
+Dämpfung in Folge der Anwendung der Rollmomenterfassung uneindeutig.
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+Im niedrigfrequenten Bereich – bei der bewussten Steuerung des Simulators durch Lehneingaben –
+kann hingegen eine klare Unterscheidung von Fahrszenarien erfolgen. So zeigt
+Abbildung 12 drei Fahrmanöver, bei dem jeweils eine konstante Kreisfahrt mit unterschiedlichen
+Körperpositionen (blau: Lean In, grün: Neutral, Rot: Lean Out; siehe rechts im Bild) durchgeführt
+wurde.
+Die oberen drei Diagramme zeigen die gemessene Kraft mit (dick) und ohne (dünn) Aufsassen bei der
+konstanten Kreisfahrt. Aus der Differenz (untere Diagramme, dünn) kann schließlich das
+fahrerinduzierte Rollmoment ermittelt werden (untere Diagramme, dick). Es ist zu erkennen, dass im
+Lean-In-Szenario ein eindrehendes und im Lean-Out-Szenario ein ausdrehendes Moment entsteht. In
+neutraler Fahrerposition wird erwartungsgemäß ein Rollmoment nahe Null ausgegeben.
+
+Lean In
+
+Neutral
+
+4000
+
+Frid in N
+
+3000
+
+
+
+2000
+
+F
+
+rid
+
+1000
+
+Lean Out
+
+4000
+
+4000
+
+3000
+
+3000
+
+2000
+
+2000
+
+1000
+
+1000
+
+0
+
+0
+
+0
+
+-1000
+
+-1000
+
+-1000
+
+-2000
+
+-2000
+
+-3000
+
+-3000
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+400
+
+mit Aufsasse
+ohne Aufsasse
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+400
+
+-3000
+
+rid
+
+300
+
+300
+
+200
+
+200
+
+100
+
+100
+
+100
+
+0
+
+0
+
+0
+
+-100
+
+-100
+
+-100
+
+-200
+
+-200
+
+0
+
+10
+
+20
+
+30
+
+40
+
+t in s
+
+50
+
+60
+
+0
+
+10
+
+20
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+30
+
+40
+
+50
+
+60
+
+400
+
+T
+
+Trid in Nm
+
+-2000
+
+
+
+300
+
+T
+
+200
+
+rid
+
+0
+
+10
+
+20
+
+30
+
+t in s
+
+40
+
+50
+
+60
+
+-200
+
+t in s
+
+Abbildung 12: Szenarienunterscheidung mittels Rollmomenterfassung
+
+3.3 Gesamtsystem
+Durch die zuvor erläuterten Systeme wird die Steuerbarkeit des virtuellen Fahrzeuges gewährleistet.
+Wenngleich bei niedrigen Fahrgeschwindigkeiten zusätzliche stabilisierende Regler integriert werden
+müssen, ist bei höheren Geschwindigkeiten eine stabile Fahrt aufgrund der selbststabilisierenden
+Effekte der Motorradfahrdynamik ohne solche zusätzlichen Regler möglich. Dabei besitzt der Fahrer
+die Möglichkeit, Kurven wahlweise per Körperverlagerung oder durch Lenkeingaben einzuleiten. Die
+Lenkeingabe ist, wie in 3.1. beschrieben, durch ein gemessenes Lenkmoment möglich. Abbildung 13
+zeigt das Durchfahren eines kurvenreichen Abschnitts (Path, links im Diagramm) auf dem
+Fahrsimulator. Es ist die gute Übereinstimmung der Lenkmomente (rechts oben im Diagramm) mit
+den Sollvorgaben der Simulation zu erkennen. Der Lenkwinkel (rechts unten im Diagramm) im
+Simulator (blau) ist von Sprüngen im Signalverlauf geprägt, welche jedoch nicht in das
+Fahrdynamikmodell (grün) übertragen werden. Diese sind dem gewählten Aktor geschuldet, dessen
+integriertes Getriebe bestimmte Raststellungen einnimmt. Eine Beeinflussung der Fahrlinie durch
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+diese Raststellungen wird nicht beobachtet, was darin begründet wird, dass nicht der gemessene
+Lenkwinkel, sondern das gemessene Lenkmoment als Fahreingabe dient.
+Path
+
+Steer Torque
+40
+
+Torque in Nm
+
+100
+
+0
+
+-100
+
+30
+
+TSensor
+
+20
+
+TBRT
+TMockup
+
+10
+0
+-10
+-20
+-30
+-40
+
+-200
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+Steer Angle
+
+-300
+6
+
+
+4
+
+
+
+Angle in degree
+
+-400
+
+-500
+
+-600
+
+Mockup
+BRT
+
+2
+0
+-2
+-4
+-6
+
+7000
+
+7050
+
+7100
+
+7150
+
+7200
+
+-8
+
+7250
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+Arclength in m
+
+Abbildung 13: Lenkverhalten des Simulators bei Landstraßenfahrt [10]
+Abbildung 14 zeigt den Einfluss der Rollmomenterfassung auf das Lenkmoment TSteer bei stationärer
+Kurvenfahrt. Bei annähernd konstantem Rollwinkel ϕVI-BRT des virtuellen Fahrzeuges wird zunächst
+eine neutrale Fahrerposition eingenommen. Ein daraufhin eingeleitetes Lean-In-Verhalten erhöht das
+gemessene Rollmoment (grün). Die Koppeleffekte in der Fahrdynamik bewirken eine Abnahme des
+Lenkmomentes (rot) bei t ≈ 100 s. Der abschließende Wechsel in die Lean-Out-Situation bei t ≈ 200 s
+dreht den Effekt entsprechend um und bewirkt einen Anstieg des stationären Lenkmomentes über
+das in Neutrallage erreichte Niveau heraus.
+Constant Radius Cornering R=100m
+50
+
+
+
+VI-BRT
+
+
+
+Stewart
+
+FLoadcell/100
+
+Torque in Nm || Force in N || Angle in degree
+
+40
+
+TSteer,VI-D.D Out
+
+30
+
+20
+
+10
+
+0
+
+-10
+
+-20
+
+0
+
+50
+
+100
+
+150
+
+200
+
+time in s
+
+Abbildung 14: Lenk-Roll-Kopplung bei konstanter Kurvenfahrt [10]
+
+250
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+
+4 Zusammenfassung und Ausblick
+Der vorliegende Beitrag zeigt eine mögliche Umsetzung einer Fahrereingabeerfassung auf, die
+sowohl Lenkeingaben als auch Fahrerbewegungen berücksichtigt. Wie in Kapitel 2 dargestellt, kann
+eine realgetreue Steuerung des virtuellen Motorrades nur unter Berücksichtigung beider Größen
+erfolgen. Die Manöverumsetzung ist dadurch unabhängig vom persönlichen Fahrstil der Probanden
+möglich. Die von vielen Fahrern empfundenen Effekte wie „Positive- und Countersteering“, „Druck
+auf den Fußrasten“ oder „Abstützen am Tank“ können von den Probanden in Simulatorstudien
+angewendet werden. Die tatsächlich stattfindenden, fahrdynamisch relevanten Effekte wie der
+zeitliche Versatz von Lenk- und Lehnbewegung oder die Fahrerimpedanzänderung durch Körperspannung können durch die verwendete Sensorik erfasst und im Fahrdynamikmodell umgesetzt
+werden.
+Die beste Fahrbarkeit des Simulators wird laut übereinstimmenden Meinungen der Probanden einer
+Expertenstudie bei mittleren bis hohen Geschwindigkeiten erreicht. Die gezeigten
+Eingabeerfassungssysteme sind für zukünftige Arbeiten noch hinsichtlich der Latenzen und
+erreichbaren Fahrstabilität zu optimieren, um auch im Niedriggeschwindigkeitsbereich nutzbar zu
+sein. Das Lenksystem würde dabei von einem Direktantrieb profitieren, um Reibung, Spiel und
+Elastizitäten im Lenkaktor zu vermeiden. Aus mechanischer Sicht ist zudem die Lagerung der
+zusätzlichen Rollachse des Rollmomenterfassungssystems hinsichtlich Reibungsarmut zu optimieren.
+Derzeit verbaute Gleitlager bewirken Reibmomente, die entweder modelliert werden müssen, was
+zu bekannten Problemen der Reibungsmodellbildung und Nichtlinearitäten führt, oder minimiert
+werden müssen, um gegenüber den tatsächlichen Momentenverläufen durch Fahrerbewegung
+vernachlässigbar zu sein.
+Erste Untersuchungen von Frequenzspektren der Bewegungsgrößen und Kraftverläufe sowie deren
+Übertragungsfunktionen lassen auf eine Beobachtbarkeit der Fahrerimpedanz schließen, wodurch
+Kontrollierbakeitsstudien mit hochdynamischen Fahrszenarien (Pendeln, Flattern, Notbrems- und
+Ausweichassistenz) denkbar werden. Wenn die Entwicklung motorradspezifischer Motion-CueingAlgorithmen ebenfalls entsprechende Fortschritte macht, könnte zukünftig ein Teil der Entwicklung
+und Absicherung aktiver Assistenzsysteme in Verbindung mit realen Fahrern auf Fahrsimulatoren
+ergänzend zum Fahrversuch stattfinden.
+
+5 Hinweise
+Die hier gezeigten Entwicklungen fanden im ZIM (Zentrales Innovationsprogramm Mittelstand)
+geförderten Projekt DESMORI statt, das durch das Bundesministerium für Wirtschaft und Energie
+unterstützt wurde.
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+
+6 Literaturnachweise
+[1]
+Will, S.; Hammer, T.; Pleß, R.; Guth, S.: “Assessing Powered Two Wheelers’ display and control
+concepts – results from a pilot study”, 11. Internationale Motorradkonferenz, 3.- 4. Oktober, Köln,
+Germany, 2016
+[2]
+Pleß, R.; Guth, S.; Will, S.; Winner, H.: “Determining the rider induced roll torque on a
+dynamic motorcycle riding simulator”, Driving Simulation Conference, September 16-18, Tübingen,
+Germany, 2015.
+[3]
+Schröter, K.; Wallisch, M.; Weidele, A.; Winner, H.: „Bremslenkmomentoptimierte
+Kurvenbremsung von Motorrädern“, ATZ Automobiltechnische Zeitung Vol. 115: S. 436 ff., 2013
+[4]
+
+ECA FAROS: „EF-BIKE – High end motorbike simulator“, Werbematerial, Lannion, France, 2011
+
+[5]
+Guth, S.; Geiger, M.; et al.: „Motion cueing algorithm to reproduce motorcycle specific lateral
+dynamics on riding simulators“, Driving Simulation Conference, September 16-18, Tübingen,
+Germany, 2015.
+[6]
+Winkler, A.: “Ein Beitrag zur kraftbasierten Mensch-Roboter-Interaktion”, Dissertationsschrift,
+Technische Universität Chemnitz, Fakultät für Elektrotechnik und Informationstechnik, Chemnitz,
+Germany, 2006
+[7]
+Wen, K.; Necsulescu, D.; Sasiadek, J.: “Haptic force control based on impedance/admittance
+control aided by visual feedback“, Multimedia Tools and Applications Vol. 37: S.39 ff., 2008
+[8]
+Fajans, J.: “Steering in bicycles and motorcycles”, American Association of Physics Teachers
+Vol. 68 (7), 2000
+[9]
+Doria, A.; Tognazzo, M.; Cossalter, V.: “The response of the rider’s body to roll oscillations of
+two wheeled vehicles; experimental tests and biomechanical models”, Proceedings of the Institution
+of Mechanical Engineers, Part D, 2012
+[10]
+Pleß, R.: “Maneuvering the DESMORI motorcycle simulators”, Workshop on Accidentology
+and Motorcycle Simulators, COST TU1407 Safe2Wheelers, Würzburg, 2016
+
+Proceedings – 11th International Motorcycle Conference 2016 - Cologne
+
+Kontakt
+Raphael Pleß M.Sc.
+Technische Universität Darmstadt
+Fachgebiet Fahrzeugtechnik
+Otto-Berndt-Straße 2
+D-64287 Darmstadt
+Tel: +49 (0)6151 - 16 24234
+Fax: +49 (0)6151 - 16 24205
+Mail: pless@fzd.tu-darmstadt.de
+
+

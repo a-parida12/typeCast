@@ -1,0 +1,166 @@
+Partielle Ableitung
+Beispiel:
+Funktion zweier Variabler ist
+eine zweidimensionale Fläche
+im Raum
+Setzen wir eine Variable
+konstant
+ Schnittkurven der
+Funktion
+
+z
+
+Schnittkurve parallel zur x-z-Ebene:
+- Abstand zur Ebene: y0
+- Schnittkurve ist Funktion nur von x !
+
+z ( x) 
+
+1
+1 x  y02
+2
+
+Dr. Hempel – Mathematische Grundlagen, partielle Ableitung
+
+1
+1 x  y2
+2
+
+Schnittkurve parallel zur y-z-Ebene:
+- Abstand zur Ebene: x0
+- Schnittkurve ist Funktion nur von y !
+
+z( y) 
+
+1
+1 x  y2
+2
+0
+
+-1-
+
+Steigung der Schnittkurven (geometrischer Sinn der Ableitung):
+
+Die Steigung der Schnittkurven lässt sich leicht
+ermitteln.
+Mit konstantem y ist die Schnittkurve eine
+Funktion von x :
+z  z (x)
+
+
+f z  
+1
+
+ 
+2
+2
+x x x 1  x  y 
+
+Den Anstieg erhält man aus der Ableitung.
+Um anzudeuten, dass die ursprüngliche Funktion
+auch von y abhing, hier aber nur der Anstieg
+bezüglich z(x) berechnet wird, steht statt des
+Zeichens d das Zeichen 
+
+mit einem konstanten y (z.B. y  y0 ) erhalten wir die partielle Ableitung nach x :
+
+f
+2x
+
+x
+1 x2  y2
+
+
+
+
+
+2
+
+Mit konstantem x ist die Schnittkurve eine
+Funktion von y :
+z  z( y)
+Den Anstieg erhält man wiederum aus der
+Ableitung.
+
+
+f z  
+1
+
+ 
+2
+2
+y y y 1  x  y 
+
+mit einem konstanten y (z.B. x  x0 ) erhalten wir die partielle Ableitung nach y :
+
+f
+2y
+
+y
+1  x2  y 2
+
+
+
+
+
+2
+
+Dr. Hempel – Mathematische Grundlagen, partielle Ableitung
+
+-2-
+
+ Möglich:
+Was eben an einer Funktion mit 2 Variablen ( x, y) gezeigt wurde, ist auch an einer Funktion mit
+3 Variablen ( x, y, z 
+
+ möglich.
+
+Formal sollte es keine Probleme bereiten den Formalismus zu übertragen, allein die
+Anschaulichkeit leidet !
+ Bezeichnung:
+Häufig anzutreffen ist eine vereinfachte Bezeichnungsweise für die partiellen Ableitungen nach
+x , y bzw. z :
+
+
+ fx;
+x
+
+
+ f y;
+y
+
+
+ fz
+z
+
+Mehrfache partielle Ableitungen:
+- da die partiellen Ableitungen selbst Funktionen sind, ist eine erneute Ableitung dieser Ableitungen
+problemlos möglich.
+Dabei kann mehrfach nach der gleichen Variablen abgeleitet werden, es können aber auch
+„gemischte“ Ableitungen auftreten:
+
+Beispiel:
+
+
+ 
+
+f ( x, y, z ) 
+x  y
+
+
+oder
+
+  f  
+ 
+f y  f xy
+x  y  x
+
+Dabei ist beim „Ausrechnen“ der Ableitung die Reihenfolge der Abarbeitungsschritte zu beachten!
+Im angeführten Beispiel wird zuerst nach y differenziert, dann nach x .
+Die Indexkette wird von rechts nach links abgearbeitet!
+
+Dr. Hempel – Mathematische Grundlagen, partielle Ableitung
+
+-3-
+
+

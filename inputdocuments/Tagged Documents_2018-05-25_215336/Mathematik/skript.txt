@@ -1,0 +1,3375 @@
+Vorkurs Mathematik
+
+Vorbereitung auf das Studium der
+Mathematik
+
+Skript
+
+Dr. Johanna Dettweiler
+Institut für Analysis
+20. Oktober 2009
+
+Inhaltsverzeichnis
+Einleitung
+
+7
+
+1 Aussagen und Mengen
+1.1 Aussagen: Definition . . . . . . . . . . . . . . . . . . . . . . .
+1.1.1 Beispiele für Aussagen . . . . . . . . . . . . . . . . . .
+1.1.2 keine Aussagen . . . . . . . . . . . . . . . . . . . . . .
+1.2 logische Verknüpfungen . . . . . . . . . . . . . . . . . . . . . .
+1.3 Mengen: Definition . . . . . . . . . . . . . . . . . . . . . . . .
+1.4 Darstellung von Mengen . . . . . . . . . . . . . . . . . . . . .
+1.5 Teilmengen . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.5.1 Beispiel . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.5.2 Leere Menge . . . . . . . . . . . . . . . . . . . . . . . .
+1.6 Schnitt- und Vereinigungsmenge . . . . . . . . . . . . . . . . .
+1.6.1 Beispiel . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.7 Relatives Komplement . . . . . . . . . . . . . . . . . . . . . .
+1.7.1 Beispiel . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.8 Die Mengen N, Z, Q, R . . . . . . . . . . . . . . . . . . . . . .
+1.8.1 Beispiel . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.8.2 Rechenregeln für reelle Zahlen und Ordnungsrelationen
+1.8.3 Regeln für das Rechnen mit Ungleichungen . . . . . . .
+1.8.4 Beispiele . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.9 Intervalle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.9.1 Definition . . . . . . . . . . . . . . . . . . . . . . . . .
+1.9.2 Beispiel . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+9
+9
+9
+9
+9
+10
+10
+11
+11
+11
+11
+12
+12
+12
+12
+13
+13
+14
+15
+15
+15
+16
+
+2 Prädikatenlogik
+2.1 Die Quantoren . . . . . . . . . . . . . . .
+2.1.1 Beispiel . . . . . . . . . . . . . . .
+2.1.2 Beispiel . . . . . . . . . . . . . . .
+2.1.3 Beispiel: Bedeutung der Reihenfolge
+2.2 Verneinung (Negation) von Aussagen . . .
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+17
+17
+17
+17
+18
+18
+
+. . . . . . . . .
+. . . . . . . . .
+. . . . . . . . .
+der Quantoren
+. . . . . . . . .
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+3 Potenzen, Logarithmus und Betrag
+19
+3.1 Potenzen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+3
+
+Inhaltsverzeichnis
+
+3.2
+
+3.3
+
+3.1.1 Definition . . . . . . . . . . . . . . . .
+3.1.2 Die q-te Wurzel . . . . . . . . . . . . .
+3.1.3 Potenzen mit rationalem Exponenten .
+3.1.4 Beispiele . . . . . . . . . . . . . . . . .
+3.1.5 Beispiel: Rationalmachen des Nenners .
+Der Logarithmus . . . . . . . . . . . . . . . .
+3.2.1 Die Logarithmengesetze . . . . . . . .
+3.2.2 Umrechenformel . . . . . . . . . . . . .
+3.2.3 Beispiele . . . . . . . . . . . . . . . . .
+3.2.4 Beispiele zu den Logarithmengesetzen .
+Der Betrag . . . . . . . . . . . . . . . . . . . .
+3.3.1 Beispiel . . . . . . . . . . . . . . . . .
+3.3.2 Beispiel . . . . . . . . . . . . . . . . .
+3.3.3 Auflösen von Betragsungleichungen . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+4 Lösen von Gleichungen und Ungleichungen
+4.1 in einer Variablen . . . . . . . . . . . . . . . . . . . .
+4.2 Quadratische Gleichungen und Ungleichungen . . . .
+4.2.1 Beispiel: Quadratisches Ergänzen . . . . . . .
+4.2.2 Lösungsmengen quadratischer Ungleichungen .
+4.2.3 Beispiel 1 . . . . . . . . . . . . . . . . . . . .
+4.2.4 Beispiel 2 . . . . . . . . . . . . . . . . . . . .
+4.3 Wurzelgleichungen . . . . . . . . . . . . . . . . . . .
+4.3.1 Beispiel 1 . . . . . . . . . . . . . . . . . . . .
+4.3.2 Beispiel 2 . . . . . . . . . . . . . . . . . . . .
+4.4 Bruchungleichungen . . . . . . . . . . . . . . . . . . .
+4.5 Betragsungleichungen . . . . . . . . . . . . . . . . . .
+4.6 ...in zwei Variablen . . . . . . . . . . . . . . . . . . .
+4.6.1 Kartesisches Produkt . . . . . . . . . . . . . .
+4.6.2 R2 . . . . . . . . . . . . . . . . . . . . . . . .
+4.6.3 Das kartesische Produkt zweier Intervalle . . .
+4.6.4 Einige Teilmengen des R2 . . . . . . . . . . .
+4.6.5 Vertauschen von x und y . . . . . . . . . . . .
+4.6.6 Beispiel . . . . . . . . . . . . . . . . . . . . .
+5 Funktionen
+5.1 Definition . . . . . . . . . . . . . . . . .
+5.2 Der Graph einer Funktion . . . . . . . .
+5.3 Eigenschaften von Funktionen . . . . . .
+5.3.1 Monotonie . . . . . . . . . . . . .
+5.3.2 gerade und ungerade Funktionen
+5.4 Definition der Umkehrfunktion . . . . . .
+
+4
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+19
+19
+20
+20
+20
+21
+21
+21
+22
+22
+22
+22
+23
+23
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+24
+24
+24
+24
+25
+25
+26
+26
+27
+27
+27
+29
+30
+30
+30
+30
+31
+31
+32
+
+.
+.
+.
+.
+.
+.
+
+34
+34
+34
+35
+35
+35
+35
+
+Inhaltsverzeichnis
+5.5
+5.6
+5.7
+
+5.8
+
+Die Potenzfunktion . . . . . . . . . . . . . . . . . . . .
+5.5.1 Beispiel . . . . . . . . . . . . . . . . . . . . . .
+Die Exponentialfunktion und die Logarithmusfunktion
+Polynome . . . . . . . . . . . . . . . . . . . . . . . . .
+5.7.1 Allgemeine lineare Funktionen . . . . . . . . . .
+5.7.2 Beispiele . . . . . . . . . . . . . . . . . . . . . .
+Verkettung von Funktionen . . . . . . . . . . . . . . .
+5.8.1 Beispiel . . . . . . . . . . . . . . . . . . . . . .
+5.8.2 Beispiele . . . . . . . . . . . . . . . . . . . . . .
+
+6 Trigonometrische Funktionen
+6.1 Herleitung und Definition . . . . . . . . . . .
+6.1.1 Schaubild des Sinus und Cosinus . . .
+6.1.2 Umrechnung von Grad- und Bogenmaß
+6.1.3 Schaubild des Tangens und Cotangens
+6.1.4 Spezielle Werte . . . . . . . . . . . . .
+6.1.5 Die Additionstheoreme . . . . . . . . .
+6.1.6 Beispiel . . . . . . . . . . . . . . . . .
+7 Einige Beweise
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+36
+37
+37
+38
+39
+39
+42
+42
+44
+
+.
+.
+.
+.
+.
+.
+.
+
+46
+46
+47
+47
+48
+48
+49
+49
+50
+
+8 Anhang
+53
+Lösungen zu den Beispielen des Skriptes . . . . . . . . . . . . . . . . . . . . . 53
+Index
+
+64
+
+5
+
+Einleitung
+Dieser Kurs soll wichtige Bereiche Ihres Schulwissens möglichst konsistent aufbereiten.
+Er richtet sich insbesondere an Studierende, die Unsicherheiten im Umgang mit dem
+mathematischen Schulstoff haben, deren Mathematikunterricht länger zurückliegt oder
+deren mathematischer Schulstoff nicht alle für das Studium notwendige Voraussetzungen
+umfasste. Der Vorkurs muss sich auf das Notwendigste beschränken, soll Sie aber schon
+vertraut machen mit der präzisen Darstellung mathematischer Sachverhalte, wie sie das
+Studium vermitteln und verlangen wird.
+Die dargestellten Inhalte sind vielerorts, sei es frei erhältlich im Internet, oder auf dem
+Büchermarkt in guten Darstellungen zu finden. In diesen Kurs fließen aber die speziellen
+Erfahrungen des Lehrbetriebes an der Karlsruher mathematischen Fakultät ein. Über
+Jahre konnten wir gravierende Lücken vieler Studienanfänger im Umgang mit elementaren Rechentechniken und Definitionen, wie Rechnen mit Beträgen oder den sicheren
+Umgang mit Ungleichungen beobachten. Wenn solche Lücken nicht aufgearbeitet werden,
+kann daran leicht das erfolgreiche Studium scheitern. Auch beobachteten wir bei vielen
+Studienanfängern und -anfängerinnen große Hemmungen, sich eigenständig an das Lösen
+auch einfacherer Übungsaufgaben zu machen. Das ist aber unumgänglich um mit dem
+Fortschreiten des Stoffes Schritt zu halten und nicht irgendwann abzuhängen“. Dieser
+”
+Vorkurs soll daher jedem Studienanfänger, jeder Studienanfängerin die Chance bieten,
+im Studium von Anfang an alle Übungsangebote optimal für sich nutzen zu können und
+damit die Grundlage für ein erfolgreiches Mathematik- oder Informatikstudium an der
+Universität Karlsruhe bieten.
+Auf dem Büchermarkt gibt es eine große Anzahl von mathematischen Einführungen und
+Vorkursen. Das folgende Material wurde von einigen davon inspiriert.
+[2]: Dieses Buch bietet eine sehr ausführliche Einführung in alle Grundlagen und Begriffe,
+die für ein Studium der Mathematik oder Wirtschaftswissenschaften benötigt werden. Da
+es sich an Studierende der Wirtschaftwissenschaften und Sozialwissenschaften richtet, ist
+es für mathematisch interessierte Studienanfänger im Bereich Mathematik und Informatik bestimmt etwas zu ausführlich. Einige der Beispiele des vorliegenden Vorkursskripts
+zu quadratischen Gleichungen und Ungleichungen wurden ihm entnommen.
+[3]: Dieses Werk bietet eine knappe aber konsistente Einführung in die Bereiche Mengen,
+Abbildungen, Rechenregeln für reelle Zahlen, Betrag, Intervalle, Summenzeichen. Die
+
+6
+
+Darstellung der Mengen N, Z, Q und R wird in diesem Buch sinngemäß übernommen,
+wie auch einige Aufgaben.
+[4]: Dieses Büchlein wird inzwischen leider nicht mehr aufgelegt. Gut verständliche
+Einführungen, sinnvoller Aufbau und eine große Zahl von Aufgaben mit Lösungen machen ein Selbststudium gut möglich. Einige Beispiele in den Kapiteln 3, 4 und 5 sind ihm
+entnommen. Zu bemerken wäre allenfalls, dass die Autoren gemäß ihrer Lehrtradition in
+ihrer Darstellung der Funktionen nicht zwischen einer Funktion f und dem Funktionswert an einer Stelle f (x) unterscheiden. Da diese Unterscheidung im Studium in vielen
+Vorlesungen aber getan wird, wird auch in diesem Vorkurs streng zwischen Funktion
+und Funktionswerten unterschieden.
+[1]: Diesem Buch, das auf anspruchsvolle Weise den Analysis-Stoff des Grundstudiums behandelt, habe ich sinngemäß das Kapitel 2 dieses Vorkurses (dort S. 4 ff) über
+Prädikatenlogik und die Verwendung der Quantoren entlehnt. Die vielen Beispiele helfen,
+abstrakte mathematische Definitionen, wie sie gleich zu Beginn des Studiums behandelt
+werden, zu verstehen. Die oft verwendete Technik des Verneinens von verknüpften Aussagen wird anhand vieler Beispiele geübt.
+
+7
+
+1 Aussagen und Mengen
+Wenn man sich über Mathematik verständigen will, ist es unumgänglich zu verstehen,
+was eine mathematische Aussage ist und wie sie verknüpft werden kann. Erst dann kann
+man verstehen, was bspw. ein mathematischer Beweis ist. Daher fängt dieser Vorkurs mit
+mathematischen Aussagen an und behandelt in Kürze, wie daraus durch verschiedene
+Verknüpfungen neue Aussagen entstehen.
+
+1.1 Aussagen: Definition
+Eine Aussage im mathematischen Sinne ist eine Feststellung, deren Wahrheitsgehalt
+stets mit wahr“ oder falsch“ angegeben werden kann.
+”
+”
+
+1.1.1 Beispiele für Aussagen
+• Dienstag ist ein Wochentag.
+• Dienstag ist Montag.
+• 2 ist eine gerade Zahl.
+• 2=1
+
+1.1.2 keine Aussagen
+• Mathematik macht Spaß.
+• 2 · log x
+
+sinx
+π
+
+1.2 logische Verknüpfungen
+Folgende logischen Verknüpfungen von Aussagen werden wir verwenden:
+
+8
+
+1.3 Mengen: Definition
+
+Symbol
+
+Bedeutung der Verknüpfung
+
+1. Negation
+
+¬A
+
+nicht A
+
+2. Konjunktion (und)
+
+A∧B
+
+A und B
+
+3. Disjunktion (oder)
+
+A∨B
+
+A oder B
+
+4. Implikation (Folgerung)
+
+A⇒B
+
+aus A folgt B
+
+Bezeichnung
+
+5. Äquivalenz (genau dann, A ⇔ B
+wenn; kurz: gdw)
+
+(es gilt: ¬(¬A) = A)
+
+A und B sind äquivalent
+
+In Kapitel 2 werden weitere Verknüpfungen von Aussagen erarbeitet werden.
+
+1.3 Mengen: Definition
+Eine Menge ist eine Zusammenfassung unterscheidbarer Objekte. Für jedes Objekt muss
+eindeutig feststellbar sein, ob es zu der Menge gehört oder nicht. Die zu einer Menge
+gehörenden Objekte heißen Elemente der Menge.
+Mengen werden im Allgemeinen mit Großbuchstaben A, B, C, ... und ihre Elemente mit
+kleinen Buchstaben a, b, c, ... bezeichnet.
+Wir schreiben
+a ∈ A für a ist Element von A“ und
+”
+a 6∈ A für a ist kein Element von A“.
+”
+
+1.4 Darstellung von Mengen
+Elemente von Mengen werden durch geschweifte Klammern {...} zusammengefasst.
+Dies geschieht
+entweder durch die aufzählende Darstellung, wie:
+die Menge A der Buchstaben des Namens Leonhard Euler“, mit Unterscheidung
+”
+großer und kleiner Buchstaben:
+A = {L, e, o, n, h, a, r, d, E, u, l} = {r, e, l, n, h, a, L, d, E, u, o},
+oder durch die beschreibende Darstellung {x|x hat die Eigenschaft E}, wie:
+B := {x|x ∈ A, x ist ein Großbuchstabe } = {L, E} oder
+C := {x|x ist eine ungerade Zahl}.
+
+9
+
+1 Aussagen und Mengen
+Es bedeutet X := Y X sei definiert als Y “.
+”
+Ist für ein x aus einer Menge X die Eigenschaft E in Gestalt eines Ausdruckes
+E(x) gegeben, so sind gleichbedeutend {x ∈ X| x hat die Eigenschaft E}, {x ∈
+X| E(x) ist wahr.} oder meist {x ∈ X| E(x)}. Die so definierte Menge ist dann
+eine Teilmenge von X (s.u.).
+
+1.5 Teilmengen
+Eine Menge A heißt Teilmenge einer Menge B, wenn jedes Element a aus A auch Element
+von B ist.
+Wir schreiben A ⊂ B.
+Falls A keine Teilmenge von B ist, so schreiben wir A 6⊂ B.
+Gilt A ⊂ B und B ⊂ A, so sind die Mengen gleich und wir schreiben A = B.
+
+1.5.1 Beispiel
+Mit A = {1, 2, 3}, B = {1, 2, 3, 4}, C = {3, 2, 1}, D = {2, 4} gilt:
+A ⊂ B, A ⊂ C, C ⊂ A, A = C und A 6⊂ D.
+Insbesondere ist jede Menge Teilmenge von sich selbst: A ⊂ A.
+Ist A ⊂ B, so nennt man B auch Obermenge von A.
+
+1.5.2 Leere Menge
+Die Menge, die kein Element besitzt, wird als leere Menge bezeichnet. Wir schreiben ∅
+oder {}.
+Nicht zu verwechseln mit {∅} oder {0}.
+
+1.6 Schnitt- und Vereinigungsmenge
+Seien A, B Mengen.
+Die Schnittmenge A ∩ B von A und B wird definiert als
+A ∩ B := {x|x ∈ A und x ∈ B}.
+
+10
+
+1.7 Relatives Komplement
+Die Vereinigungsmenge A ∪ B von A und B wird definiert als
+A ∪ B := {x|x ∈ A oder x ∈ B}.
+
+1.6.1 Beispiel
+Mit A := {1, 2, 3} und B = {3, 4, 5} ist A ∩ B = {3} und A ∪ B = {1, 2, 3, 4, 5}.
+
+1.7 Relatives Komplement
+Seine A, B Mengen. Als relatives Komplement von B in A definiert man die Menge
+A \ B = {x ∈ A|x 6∈ B}.
+
+1.7.1 Beispiel
+{1, 2, 3} \ {2, 4} = {1, 3}
+
+1.8 Die Mengen N, Z, Q, R
+In der Menge N der natürlichen Zahlen, N = {1, 2, 3, ...}, hat jede Zahl n einen Nachfolger
+n + 1; es gibt also keine größte natürliche Zahl. In N sind die Rechenoperationen + und
+· uneingeschränkt ausführbar, d.h. für a, b ∈ N gilt a + b, a · b ∈ N. Die Differenz a − b
+ist nur Element von N, falls a echt größer als b ist.
+In der Zahlenmenge der ganzen Zahlen Z = {..., −3, −2, −1, 0, 1, 2, 3, ...} ist die Differenzbildung a − b immer möglich; die Gleichung x + b = a (a, b ∈ N, x unbekannt, a, b
+bekannt) besitzt in Z stets eine Lösung. Es gilt N ⊂ Z. In Z gibt es im Gegensatz zu
+N keine kleinste Zahl. Der Quotient a : b (oder ab ), a ∈ Z, b ∈ N ist nicht immer in Z
+enthalten.
+In der Zahlenmenge der rationalen Zahlen
+n
+o
+a
+Q = x|x = mit a ∈ Z und b ∈ N
+b
+ist die Quotientenbildung a : b für a ∈ Z, b ∈ N immer möglich. Es gilt N ⊂ Z ⊂ Q. Eine
+beliebige rationale Zahl hat keinen unmittelbaren Nachfolger und keinen unmittelbaren
+Vorgänger, wie es in Z der Falle ist. Zwischen zwei rationalen Zahlen liegen stets noch
+(unendlich viele) andere rationale Zahlen.
+
+11
+
+1 Aussagen und Mengen
+√
+Die Zahl 2, für die gilt
+√ 2 √ √
+( 2) = 2 · 2 = 2,
+√
+ist nicht rational; 2 ist irrational.
+Beweis. Siehe Kapitel 7.
+Jede rationale Zahl läßt sich als endliche oder periodische Dezimalzahl schreiben und
+umgekehrt stellt jede endliche oder periodische Dezimalzahl eine rationale Zahl dar. In
+diesem Kontext soll es genügen, sich unter der Menge R der reellen Zahlen alle möglichen
+Dezimalzahlen vorzustellen, also endliche, periodische und nicht endliche, nicht periodische Dezimalzahlen. Es gilt N ⊂ Z ⊂ Q ⊂ R.
+
+1.8.1 Beispiel
+1∈N
+1, 17 ∈ Q
+1
+= 0.3333... ∈ Q ist periodisch, nicht endlich
+3
+√
+2 = 1, 41421... ∈ R ist nicht periodisch, nicht endlich
+π = 3.14159... ∈ R ist nicht periodisch, nicht endlich. Mit der Zahl π identifizieren wir
+die Länge eines Halbkreisbogens mit dem Radius 1.
+
+1.8.2 Rechenregeln für reelle Zahlen und Ordnungsrelationen
+Wir vereinbaren für x, y ∈ R:
+x = y steht für x ist gleich y“,
+”
+x < y steht für x ist echt kleiner als y“,
+”
+x ≤ y steht für x ist kleiner oder gleich y“,
+”
+x > y steht für x ist echt größer als y“,
+”
+x ≥ y steht für x ist größer oder gleich y“.
+”
+Die reellen Zahlen können auf der Zahlengeraden veranschaulicht werden. Jeder reellen
+Zahl entspricht genau ein Punkt auf der Zahlengeraden und umgekehrt. Für zwei beliebige reelle Zahlen x, y kann eindeutig entschieden werden, ob x < y, x = y oder x > y
+gilt. Auf der Menge der reellen Zahlen ist also ein Ordnungsstruktur gegeben. Für diese
+gelten folgende
+
+12
+
+1.8 Die Mengen N, Z, Q, R
+
+1.8.3 Regeln für das Rechnen mit Ungleichungen
+Seinen a, b, c ∈ R. Dann gilt
+Aus a < b und b < c folgt a < c.
+Aus a < b und c > 0 folgt ac < bc
+Aus a < b und c < 0 folgt ac > bc
+Aus a < b folgt a + c < b + c
+ab > 0 gilt genau dann, wenn (a > 0 und b > 0) oder (a < 0 und b < 0)
+ab < 0 gilt genau dann, wenn (a > 0 und b < 0) oder (a < 0 und b > 0)
+ab = 0 gilt genau dann, wenn (a = 0 oder b = 0)
+Entsprechende Aussagen gelten auch für ≤ und ≥.
+Für das Rechnen mit den reellen Zahlen gelten folgende
+
+Rechenregeln
+
+Kommutativgesetz der
+
+Assoziativgesetz der
+
+Addition
+
+a+b=b+a
+
+Multiplikation
+
+ab = ba
+
+Addition
+
+(a + b) + c = a + (b + c)
+
+Multiplikation
+
+(ab)c = a(bc)
+
+Distributivgesetz
+
+a(b + c) = ab + ac
+
+1. binomische Formel
+
+(a + b)2 = a2 + 2ab + b2
+
+2. binomische Formel
+
+(a − b)2 = a2 − 2ab + b2
+
+3. binomische Formel
+
+(a + b)(a − b) = a2 − b2
+
+Vorzeichenregeln
+
+−(−a) = a
+−(a + b) = −a − b
+−(a − b) = −a + b
+
+Die Regeln der Bruchrechnung werden als bekannt vorausgesetzt.
+
+13
+
+1 Aussagen und Mengen
+
+1.8.4 Beispiele
+1. Lösen Sie die folgenden Ungleichungen und geben Sie die Lösungsmenge
+L := {x ∈ R| Ungleichung bzw. Gleichung ist für x definiert und x erfüllt sie} an:
+x − 2 > 2x − 1 B
+2(x − 1) < 6(x + 35 ) B
+2. Faktorisieren Sie:
+9xy + 3y + 6x + 2 B
+2p3 + 9q 2 − 3p2 q − 6pq B
+3. Faktorisieren Sie mit Hilfe der binomischen Formeln:
+c2 − 1 B
+y 2 − 12y + 36 B
+16x4 − 8x2 y 2 + y 4 B
+4. Faktorisieren Sie (Nullstellen!):
+x2 + 3x + 2 B
+x2 + x − 2 B
+
+1.9 Intervalle
+Seien a, b ∈ R mit a ≤ b.
+
+1.9.1 Definition
+Das offene Intervall (a, b) ist die Menge
+(a, b) = {x ∈ R|a < x < b}.
+Das abgeschlossene Intervall [a, b] ist die Menge
+[a, b] = {x ∈ R|a ≤ x ≤ b}.
+Die halboffenen Intervalle sind definiert als die Mengen
+(a, b] = {x ∈ R|a < x ≤ b},
+
+[a, b) = {x ∈ R|a ≤ x < b}
+
+Ist speziell a = b, so gelten [a, a] = {a}, bzw. [a, a) = (a, a] = (a, a) = ∅. Als Intervallgrenzen sind auch ±∞ zugelassen. Daraus ergeben sich fünf weitere unbeschränkte
+Intervalltypen:
+(−∞, a) = {x ∈ R|x < a}
+(a, ∞) = {x ∈ R|x > a}
+(−∞, ∞) = R
+
+14
+
+(−∞, a] = {x ∈ R|x ≤ a}
+[a, ∞) = {x ∈ R|x ≥ a}
+
+1.9 Intervalle
+Der Schnitt zweier Intervalle ist stets ein Intervall (evtl. die leere Menge). Die Vereinigung zweier Intervalle kann ein Intervall sein, muss es aber nicht.
+
+1.9.2 Beispiel
+[3, 4] ∩ [1, ∞)=[3,4]
+[−2, 0) ∩ (−1, 0] = (−1, 0)
+[4, 7] ∩ [8, 9) = ∅
+[7, 8] ∩ [8, 9) = [8, 8] = {8}
+[4, 5) ∪ (−3, 1] ist kein Intervall
+[4, 5] ∪ (−3, 4) = (−3, 5]
+
+15
+
+2 Prädikatenlogik
+2.1 Die Quantoren
+Die Quantoren ∃ und ∀ sind logische Zeichen, die der abkürzenden Schreibweise in der
+Aussagenlogik dienen.
+Sei X eine Menge und E eine Eigenschaft, durch die für jedes x ∈ X eine Aussage E(x)
+gegeben ist. Dann bedeuten:
+
+∃x ∈ X : E(x) :
+Es existiert ein x ∈ X, sodass E(x) wahr ist.“ (2.1)
+”
+bzw. Es existiert ein x mit der Eigenschaft E.“
+”
+
+∀x ∈ X : E(x) :
+Für alle x ∈ X gilt E(x).“
+(2.2)
+”
+
+2.1.1 Beispiel
+Sei X die Menge der Teilnehmer dieses Vorkurses und E(x) die Aussage: x trägt eine
+”
+Brille.“
+1. Dann bedeutet (2.1): Mindestens ein Teilnehmer trägt eine Brille.“ In welchen
+”
+Konstellationen ist diese Aussage wahr bzw. falsch? B
+2. (2.2) bedeutet: Alle Teilnehmer tragen eine Brille.“
+”
+Diese Quantoren kann man auch iterativ verwenden: Seien X, Y Mengen und X × Y :=
+{(x, y)|x ∈ X, y ∈ Y } das sog. kartesische Produkt od. auch Kreuzprodukt von X und
+Y und E eine Eigenschaft auf X × Y .
+Dann bedeutet bspw.
+∃x ∈ X : (∀y ∈ Y : E(x, y)) : Es existiert ein x ∈ X, sodass für alle
+”
+y ∈ Y die Aussage E(x, y) gilt.“
+
+(2.3)
+
+2.1.2 Beispiel
+Sei X = Y = R. F (x, y) sei die Aussage x · y = 0. Dann bedeutet (2.3): Es existiert ein
+”
+x ∈ R, sodass für alle y ∈ R x · y = 0 gilt.“
+Ist diese Aussage wahr? Wenn ja, für welche x? B
+
+16
+
+2.2 Verneinung (Negation) von Aussagen
+
+2.1.3 Beispiel: Bedeutung der Reihenfolge der Quantoren
+Die Reihenfolge der auftretenden Quantoren ist für die Bedeutung der formulierten Aussage entscheidend. Die Aussagen ∀x ∃y : E(x, y) und ∃y ∀x : E(x, y) haben eine unterschiedliche Bedeutung. So unterscheiden sich die Aussagen Alle Anwesenden haben
+”
+einen Schuh, der passt.“ und Es gibt einen Schuh, der allen Anwesenden passt.“ oder
+”
+auch die Aussagen ∀x ∈ Q \ {0} ∃y ∈ Q : x · y = 1 und ∃y ∈ Q ∀x ∈ Q \ {0} : x · y = 1.
+
+2.2 Verneinung (Negation) von Aussagen
+Oft gelingt es bei einfachen Aussagen, diese nach Gefühl“ zu verneinen. Bei Aussagen,
+”
+die selbst wieder Verknüpfungen anderer Aussagen sind, wird das jedoch immer unzuverlässiger. Es gibt aber eine ganz einfache Regel, wie das Negieren einer Aussage ganz
+mechanisch“ zu bewerkstelligen ist:
+”
+• Behalte die Reihenfolge bei!
+• Vertausche ∃ und ∀ sowie ∨ und ∧.
+• Verneine alle auftretenden Aussagen.
+Die folgende Zusammenstellung listet Negierungen typischer Aussagetypen auf. Seien
+dabei A, B Aussagen, X, Y Mengen und E eine Eigenschaft.
+1. ¬¬A := ¬(¬A) = A.
+2. ¬(A ∧ B) = (¬A) ∨ (¬B).
+3. ¬(A ∨ B) = (¬A) ∧ (¬B).
+4. ¬(∀x ∈ X : E(x)) = (∃x ∈ X : ¬E(x)). Die Negation der Aussage Alle Teil”
+nehmer waren pünktlich da“ ist die Aussage Mindestens ein Teilnehmer war
+”
+unpünktlich“.
+5. ¬(∃x ∈ X : E(x)) = (∀x ∈ X : ¬E(x)). Die Negation der Aussage Es gibt einen
+”
+Teilnehmer mit Brille“ ist Alle Teilnehmer tragen keine Brille“, was natürlich eher
+”
+als Kein Teilnehmer trägt eine Brille“ formuliert wird.
+”
+
+
+6. ¬ ∀x ∈ X : (∃y ∈ Y : E(x, y)) = ∃x ∈ X : (∀y ∈ Y : ¬E(x, y)) . Die Negation
+der Aussage Jeder Teilnehmer findet mindestens einen Satz des bisherigen Stoffes
+”
+trivial“ ist die Aussage Es gibt einen Teilnehmer der alle bisherigen Sätze nicht”
+trivial findet“
+
+
+7. ¬ ∃x ∈ X : (∀y ∈ Y : E(x, y)) = ∀x ∈ X : (∃y ∈ Y : ¬E(x, y)) . Die Negation
+der Aussage Es gibt einen Teilnehmer, der alle Anwesenden bereits kennt“ ist
+”
+Alle Teilnehmer kennen mindestens einen der Anwesenden nicht“.
+”
+
+17
+
+3 Potenzen, Logarithmus und Betrag
+3.1 Potenzen
+3.1.1 Definition
+Für Zahlen a ∈ R und m ∈ Z wird die m-te Potenz von a definiert als
+am = 1,
+am = a
+| · a ·{z. . . · a},
+
+falls m = 0
+falls m > 0
+
+m−mal
+
+bzw.
+am =
+
+1
+a−m
+
+falls m < 0, a 6= 0.
+
+,
+
+Die Zahl a heißt Basis, m heißt Exponent.
+Für a, b ∈ R \ {0} und n, m ∈ Z gelten die folgenden Potenzgesetze:
+1. a0 = 1 und 00 = 1.
+2. an · am = an+m
+3.
+
+an
+am
+n
+
+= an−m
+
+4. a · bn = (a · b)n
+n
+n
+5. abn = ab
+6. (am )n = am·n
+
+3.1.2 Die q-te Wurzel
+1
+
+Für a ≥ 0 und q ∈ N ist a q die q-te Wurzel aus a,
+√
+1
+a q = q a;
+das ist √
+die Zahl x ∈ R, x ≥ 0, für die xq = a gilt. Für ungerade m √
+∈ N und a < 0 ist
+m
+x = − −a die Lösung der Gleichung xm = a. Z.B. ist x = −2 = − 3 8 die Lösung von
+x3 = −8.
+
+18
+
+3.1 Potenzen
+
+3.1.3 Potenzen mit rationalem Exponenten
+Für a ∈ R, a > 0, r ∈ Q mit r = pq , p ∈ Z, q ∈ N definieren wir die (gebrochene) Potenz
+ar durch
+ 1 p
+p
+r
+q
+a = a = aq
+Auch für rationale Exponenten gelten die obigen Potenzgesetze (m und n können durch
+r, s ∈ Q ersetzt werden). Der Anschauung halber formulieren wir hier einige mit der
+Wurzelschreibweise:
+Seien a ≥ 0 und n, k ∈ N und m ∈ Z. Dann gelten die sogenannten Wurzelgesetze
+√
+√
+√
+√
+1. n am = ( n a)m und n an = ( n a)n = a
+√
+√ √
+2. n a · n b = n ab
+√
+p
+na
+n a
+=
+3. √
+n
+b
+b
+p√
+p
+√
+√
+4. n k a = nk a = k n a
+
+3.1.4 Beispiele
+√
+√ 10
+10
+1024 = 210 = 10 2 = 2
+√ √
+√
+√
+6
+=
+4
+9
+=
+4
+·
+9
+=
+36 = 6
+q
+√
+√
+64
+√64 =
+= 16 = 4
+4
+4
+p
+p
+√
+√
+√
+3 2
+2 3
+64 =
+64 = 6 64 = 2
+√
+
+10
+
+3.1.5 Beispiel: Rationalmachen des Nenners
+Treten Brüche mit irrationalen Nennern
+m
+erweitert man den Bruch mit a1− n .
+
+√
+n
+
+m
+
+am = a n , a > 0, n, m ∈ N, m < n, so
+
+So ist:
+
+√
+3
+1
+1 22/3
+4
+√
+=
+·
+=
+3
+21/3 22/3
+2
+2
+
+Ist der Nenner der Gestalt
+
+√
+
+√
+√
+√
+a ± b mit a 6= b, so wird der Bruch mit a ∓ b erweitert.
+
+So ist:
+
+√
+√
+√
+√
+√
+1
+1
+2− 3
+2− 3 √
+√
+√ =√
+√ ·√
+√ =
+= 3− 2
+2−3
+2+ 3
+2+ 3
+2− 3
+
+19
+
+3 Potenzen, Logarithmus und Betrag
+
+3.2 Der Logarithmus
+Unter dem Logarithmus c einer positiven reellen Zahl a zur positiven reellen Basis b 6= 1
+c = logb a,
+
+a > 0,
+
+b > 0,
+
+b 6= 1
+
+versteht man diejenige reelle Zahl c, mit der die Basis b zu potenzieren ist, um a zu
+erhalten. Es ist also die Gleichung
+bc = a,
+
+a > 0,
+
+b > 0,
+
+b 6= 1
+
+mit der ersten Gleichung gleichwertig. Man schreibt auch log a anstelle logb a, falls man
+die Basis nicht festlegen will.
+Eine besondere Rolle spielt die sog. Eulersche Zahl e. Für die Basis e = 2, 71828...
+verwenden man das Symbol
+ln a = loge a.
+Es gilt insbesondere
+a = blogb a und ac = ec ln a .
+Es gilt immer
+logb 1 = 0,
+
+logb b = 1.
+
+3.2.1 Die Logarithmengesetze
+1. log(x · y) = log x + log y, x > 0, y > 0;
+x
+2. log = log x − log y, x > 0, y > 0;
+y
+3. log(xy ) = y · log x, x > 0;
+√
+1
+4. log y x = log x, x > 0, y ∈ N.
+y
+
+Wegen logb a = logb dlogd a = (logd a)(logb d) gilt die
+
+3.2.2 Umrechenformel
+logd a =
+
+20
+
+logb a
+,
+logb d
+
+a>0
+
+3.3 Der Betrag
+
+3.2.3 Beispiele
+1. 2x = 16 ⇔ x = 4
+
+5.
+
+log5 125 = x ⇔ x = 3
+
+1
+9
+
+6.
+
+log 1
+
+7.
+
+log3 x = 5 ⇔ x = 243
+
+8.
+
+log2 x = −5 ⇔ x =
+
+2. 3x =
+
+⇔ x = −2
+
+3.
+
+logx 36 = 2 ⇔ x = 6
+
+4.
+
+logx
+
+1
+64
+
+= −6 ⇔ x = 2
+
+2
+
+1
+16
+
+=x⇔x=4
+
+1
+32
+
+3.2.4 Beispiele zu den Logarithmengesetzen
+1.
+
+√
+2 a + ba3 b2
+log √
+3
+c(a + c)2
+
+2.
+
+log(a + b) + 2 log(a − b) −
+
+B
+1
+log(a2 − b2 )
+2
+
+B
+
+3.3 Der Betrag
+Sei a ∈ R; dann wird der Betrag von a, |a|, definiert als
+(
+a
+für a ≥ 0
+|a| :=
+.
+−a für a < 0
+
+3.3.1 Beispiel
+| − 3| = −(−3) = 3, da − 3 < 0;
+
+|3| = 3, da 3 > 0;
+
+|0| = 0.
+
+Der Abstand zweier beliebiger Zahlen a, b kann mit Hilfe des Betrages als Betrag der
+Differenz |a − b| definiert werden.
+Es gilt für a, b ∈ R:
+|a| ≥ 0; |a| = 0 gdw. a = 0
+|a · b| = |a| · |b|
+|a + b| ≤ |a| + |b| (Dreiecksungleichung)
+Für a ∈ R gilt
+√
+|a| = a2 .
+
+21
+
+3 Potenzen, Logarithmus und Betrag
+
+3.3.2 Beispiel
+Geben Sie alle a ∈ R an, für die folgenden Aussagen zutreffen:
+1. a2 = 4
+2. a2 > 3
+
+B
+
+3.3.3 Auflösen von Betragsungleichungen
+Sei ε > 0. Geben Sie die Menge aller x ∈ R an, für die folgende Ungleichungen erfüllt
+sind.
+1. |x| ≤ ε
+2. |x − 2| < ε
+
+22
+
+B
+
+4 Lösen von Gleichungen und
+Ungleichungen
+4.1 in einer Variablen
+Unter der Definitionsmenge D einer Gleichung bzw. Ungleichung in x ∈ R verstehen wir
+die Menge aller x, für die die Gleichung bzw. Ungleichung definiert ist. Die Lösungsmenge
+L (siehe Beispiel 1.8.4.1) ist dann eine Teilmenge der Definitionsmenge.
+Oft ist offensichtlich D = R und braucht nicht angegeben zu werden. Für die Ungleichung
+1
+> 1 hingegen ist D = R \ {0} und L = (0, 1). Auch gibt es weitere Möglichkeiten, die
+x
+Definitionsmenge korrekt anzugeben (siehe Abschnitt Bruchungleichungen)!
+
+4.2 Quadratische Gleichungen und Ungleichungen
+4.2.1 Beispiel: Quadratisches Ergänzen
+Das quadratische Ergänzen ist eine Technik zum Ermitteln von Nullstellen quadratischer
+Gleichungen. Zunächst werden die Terme in x2 und x durch eine binomische Formel
+ausgedrückt: das geht immer! Dann ist i.A. ein Korrekturterm notwendig um den xfreien Teil des binomischen Terms zu neutralisieren.
+Bestimmen Sie die Lösungen der Gleichung x2 − x − 6 = 0.
+1
+1
+1
+25
+x2 − x − 6 = (x − )2 − ( )2 − 6 = (x − )2 −
+2
+2
+2
+4
+
+23
+
+4 Lösen von Gleichungen und Ungleichungen
+also gilt
+x2 − x − 6 = 0
+1
+25
+⇔(x − )2 =
+2
+r4
+1
+25
+⇔x − = ±
+2
+4
+1 5
+⇔x = ±
+2 2
+⇔x = −2 ∨ x = 3
+
+4.2.2 Lösungsmengen quadratischer Ungleichungen
+Quadratische Ungleichungen können stets auf die Form
+≥
+x2 + px + q ≤ 0,
+
+>
+bzw. <
+
+für p, q ∈ R gebracht werden.
+Die Lösungsmenge L ist entweder leer, ein Intervall, oder Vereinigung zweier Intervalle. Zunächst muss die Lösungsmenge der quadratischen Gleichung x2 + px + q = 0
+bestimmt werden. Dies geschieht z.B. mit der oben ausgeführten Technik des quadratischen Ergänzens.
+
+Bild 1
+
+Bild 2
+
+Bild 3
+
+4.2.3 Beispiel 1
+Zeigen Sie, dass für alle x ∈ R die Ungleichung x2 − 2x + 3 > 0 erfüllt ist.
+x2 − 2x + 3 = (x − 1)2 − 1 + 3 = (x − 1)2 + 2 > 0.
+
+24
+
+4.3 Wurzelgleichungen
+Da die letzte Ungleichung offensichtlich für alle x ∈ R wahr ist, haben wir die Behauptung bewiesen.
+
+4.2.4 Beispiel 2
+Bestimmen Sie die Lösungsmenge der Ungleichung x2 − x − 6 > 0.
+1.Weg: über die Faktorisierung.
+Aus 4.2.1 kennen wir die beiden Nullstellen x1 = −2 und x2 = 3 von x2 − x − 6. Also
+gilt die Identität
+x2 − x − 6 = (x + 2)(x − 3) .
+Bekanntlich ist dieses Produkt genau dann größer Null, wenn (x + 2 > 0 und x − 3 > 0)
+oder (x + 2 < 0 und x − 3 < 0) erfüllt ist.
+Es gilt
+x+2>0 ∧ x−3>0
+⇔
+
+x > −2 ∧ x > 3
+
+⇔ x ∈ (3, ∞)
+und
+x+2<0 ∧ x−3<0
+⇔
+
+x < −2 ∧ x < 3
+
+⇔ x ∈ (−∞, −2) .
+Die Lösungsmenge ist also die Menge L = (−∞, −2) ∪ (3, ∞).
+2.Weg: über die Anschauung.
+Wie in Bild 1 dargestellt, ist das Schaubild von x2 −x−6 eine nach oben geöffnete Parabel,
+welche die x-Achse in den Punkten −2 und 3 schneidet. Gesucht ist nun die Menge aller
+x ∈ R an welchen die Parabel (echt) oberhalb der x-Achse liegt. Das entspricht in Bild 1
+der gestrichelten Menge. Man sieht also L = (−∞, −2) ∪ (3, ∞).
+
+4.3 Wurzelgleichungen
+Diese löst man durch wiederholtes Auflösen solcher Gleichungen nach einer Wurzel und
+anschließendem Potenzieren. Das führt auf eine rationale Gleichung in x, d.h. einer
+Gleichung in der nur noch ganzzahlige Exponenten von x auftauchen.
+
+25
+
+4 Lösen von Gleichungen und Ungleichungen
+Achtung: Nicht alle Lösungen der resultierenden rationalen Gleichung sind Lösungen der
+Wurzelgleichung. Jedoch kann es außer den Lösungen der rationalen Gleichung keine
+weiteren geben. Durch Einsetzen dieser Lösungen in die Ursprungsgleichung erhält man
+die Lösungsmenge.
+
+4.3.1 Beispiel 1
+√
+7 + 3 2x + 4 = 16 (∗)
+√
+⇔
+3 2x + 4 = 9
+√
+⇔
+2x + 4 = 3
+⇒
+
+2x + 4 = 9
+
+⇔
+
+x =
+
+Einsetzen von x =
+
+5
+2
+
+5
+2
+
+zeigt: x =
+
+5
+2
+
+löst (∗). Damit ist L =
+
+5
+2
+
+.
+
+4.3.2 Beispiel 2
+√
+x− x−1
+√
+√
+⇒
+( x − x − 1)2
+√ √
+⇔ x − 2 x x − 1 + (x − 1)
+p
+⇔
+2 x(x − 1)
+√
+
+⇔
+Probe:
+
+=
+
+√
+
+2x − 1 (∗∗)
+
+= 2x − 1
+= 2x − 1
+=0
+
+(x = 1) ∨ (x = 0)
+x = 1:
+
+1 − 0 = 1 stimmt!
+
+x = 0:
+
+die rechte Seite von (∗∗) ist für x = 0 nicht definiert.
+
+Also ist L = {1}.
+
+4.4 Bruchungleichungen
+Zunächst bestimmt man D, indem man alle x ausschließt, für die die auftretenden Nenner Null werden. Das Multiplizieren mit dem Nenner führt zu Fallunterscheidungen,
+abhängig vom Vorzeichen des Nenners.
+
+26
+
+4.4 Bruchungleichungen
+Gesucht sei die Lösungsmenge L folgender Ungleichung.
+2x + 1
+<1
+x−3
+
+(4.1)
+
+Sei x 6= 3. Wir unterscheiden die Fälle:
+Fall 1 x − 3 > 0, also x > 3: Dann gilt
+2x+1
+x−3
+
+< 1
+
+⇔ 2x + 1 < x − 3
+⇔
+
+x < −4
+
+Bezeichnen wir die Lösungsmenge in diesem Fall mit L1 , so gilt L1 = (3, ∞) ∩
+(−∞, −4) = ∅.
+Fall 2 x − 3 < 0, also x < 3: Dann gilt
+2x+1
+x−3
+
+< 1
+
+⇔ 2x + 1 > x − 3
+⇔
+
+x > −4
+
+Für die Lösungsmenge dieses Falles gilt L2 = (−∞, 3) ∩ (−4, ∞) = (−4, 3)
+Für die Gesamtlösungsmenge L gilt nun L = L1 ∪ L2 = (−4, 3).
+
+Bild 4.A
+
+27
+
+4 Lösen von Gleichungen und Ungleichungen
+
+4.5 Betragsungleichungen
+|2x + 1|
+≤1
+(∗)
+x−3
+Bestimmen Sie D und L.
+Sei x 6= 3.
+Fall 1: x > 3:
+(∗)
+⇔ |2x + 1|
+
+≤
+
+x−3
+
+⇔ 2x + 1
+
+≤
+
+x−3
+
+⇔ x
+
+≤
+
+−4
+
+Analog zu 4.4 Fall 1 ist hier L1 = ∅.
+Fall 2: x < 3:
+(∗)
+⇔ |2x + 1|
+
+≥
+
+x−3
+
+(∗∗)
+
+Fall 2a: x ≥ −1/2 (also 2x + 1 ≥ 0). Wir suchen jetzt also die x ∈ [−1/2, 3), die (∗∗)
+erfüllen.
+(∗∗)
+⇔ 2x + 1
+
+≥
+
+x−3
+
+⇔ x
+
+≥
+
+−4
+
+Also ist L2a = [−1/2, 3) ∩ [−4, ∞) = [−1/2, 3).
+Fall 2b: x < −1/2 (also 2x + 1 < 0).
+(∗∗)
+⇔ −(2x + 1)
+
+≥
+
+x−3
+
+⇔ −3x
+
+≥
+
+−2
+
+⇔ x
+
+≤
+
+2/3
+
+Also ist L2b = (−∞, 3) ∩ (−∞, −1/2) ∩ (−∞, 2/3) = (−∞, −1/2).
+Insgesamt ist L = L1 ∪ L2a ∪ L2b = (−∞, 3).
+
+28
+
+4.6 ...in zwei Variablen
+
+4.6 Gleichungen und Ungleichungen in zwei Variablen
+4.6.1 Kartesisches Produkt
+Seien A, B Mengen. Das kartesische Produkt auch Kreuzprodukt A × B der Mengen A
+und B ist die Menge aller geordneten Paare (a, b) von Elementen a ∈ A und b ∈ B
+A × B = {(a, b)|a ∈ A, b ∈ B}.
+
+4.6.2 R2
+Das kartesische Produkt R2 := R × R ist die Menge aller geordneten Paare (x, y) von
+Elementen x, y ∈ R. Wir können uns R2 durch ein Koordinatensystem in der Ebene
+veranschaulichen.
+
+4.6.3 Das kartesische Produkt zweier Intervalle
+Das kartesische Produkt zweier Intervalle kann leicht im Koordinatensystem dargestellt
+werden:
+
+29
+
+4 Lösen von Gleichungen und Ungleichungen
+Das kartesische Produkt A × B der Intervalle A = [1, 4] und
+B = [1, 2] im Koordinatensystem.
+
+Andere Beispiele lassen sich nicht als kartesische Produkte darstellen:
+
+4.6.4 Einige Teilmengen des R2
+1. S := {(x, y)|x2 + y 2 ≤ 1}
+2. K := {(x, y)|x2 + y 2 = 1}
+3. R := {(x, y)||x| + |y| ≤ 1}
+4. T := {(x, y)|0 ≤ y ≤ 1, x2 − y 2 > 0}
+
+4.6.5 Vertauschen von x und y
+Vergleichen Sie die beiden Mengen
+A := {(x, y)|(y − 1)2 + x2 ≤ 1, x ≥ 0}
+und
+B := {(x, y)|(x − 1)2 + y 2 ≤ 1, y ≥ 0}
+
+30
+
+4.6 ...in zwei Variablen
+
+B entsteht durch Spiegelung von A
+an der Achse x = y.
+
+4.6.6 Beispiel
+Ermitteln Sie die Lösungsmenge L in R2 , deren Elemente die folgende Ungleichung
+erfüllen
+2x − |y − 1| < 1
+Hier lösen Sie wie gewohnt die Betragsstriche auf und lösen dann die Ungleichungen
+nach y auf:
+Fall 1: y ≥ 1, dh. |y − 1| = y − 1.
+2x − |y − 1| < 1
+⇔ 2x − (y − 1) < 1
+⇔
+⇔
+
+−y < −2x
+y > 2x
+
+Also ist L1 := {(x, y)|y ≥ 1, y > 2x} Teilmenge von L.
+
+31
+
+4 Lösen von Gleichungen und Ungleichungen
+Fall 2: y < 1, dh. |y − 1| = 1 − y.
+2x − |y − 1| < 1
+⇔ 2x − (1 − y) < 1
+⇔
+
+y < 2 − 2x
+
+Insgesamt ist also L = L1 ∪ L2 mit L2 := {(x, y)|y < 1, y < 2 − 2x}.
+Skizzieren Sie die Lösungsmenge! B
+Bemerkung: Bei diesem Beispiel könnte man auch obige Überlegung über das Vertau”
+schen“ von x und y anwenden:
+Es gilt (nachrechnen): 2x − |y − 1| < 1 ⇔ x < 21 + 12 |y − 1|. Vertauschen wir hier x
+und y, so erhalten wir y < 12 + 12 |x − 1|. Die zugehörige Lösungsmenge lässt sich dann
+folgendermaßen skizzieren.
+
+Spiegeln an der Geranden x = y liefert dann die Skizze der ursprünglich gesuchten
+Menge.
+
+32
+
+5 Funktionen
+5.1 Definition
+Seien A, B Mengen. Eine Vorschrift f , die jedem Element x ∈ A genau ein Element y,
+y = f (x) ∈ B zuordnet, heißt Funktion oder auch Abbildung von A nach B.
+A bezeichnen wir als Definitionsbereich, B als Wertebereich.
+Schreibweisen: f : A → B, x 7→ f (x). Oder: f : A → B, y = f (x).
+
+5.2 Der Graph einer Funktion
+Funktionen mit A, B ⊂ R lassen sich durch ihren Graphen veranschaulichen, welcher
+durch folgende Teilmenge des R2 gegeben ist:
+G := {(x, y)|y = f (x), x ∈ A}
+
+Bild 5.A Graph einer Funktion
+
+33
+
+5 Funktionen
+
+5.3 Eigenschaften von Funktionen
+Im Folgenden sei stets D ⊂ R und f eine Funktion mit f : D → R. Eine solche Funktion
+nennt man auch reellwertige (reelle) Funktion.
+
+5.3.1 Monotonie
+Eine Funktion f : D → R mit x 7→ f (x) heißt auf D monoton wachsend (fallend), falls
+für alle Paare x1 , x2 ∈ D mit x1 < x2 gilt
+f (x1 ) ≤ f (x2 ), bzw. f (x1 ) ≥ f (x2 ) .
+Entfallen die Gleichheitszeichen, so spricht man von strenger Monotonie.
+
+Bild 5.B monoton
+
+Bild 5.C gerade Funktion
+
+Bild 5.D ungerade Funktion
+
+wachsende Funktion
+
+5.3.2 gerade und ungerade Funktionen
+Eine Funktion f heißt gerade oder symmetrisch, bzw. ungerade oder antisymmetrisch,
+wenn gilt
+f (−x) = f (x), bzw. f (−x) = −f (x)
+
+5.4 Definition der Umkehrfunktion
+Existiert zu jedem y ∈ W := {y ∈ R| ∃ x ∈ D : f (x) = y} (W heißt Wertemenge oder
+Bildmenge oder Bild ) genau ein x mit y = f (x), so nennt man die Funktion injektiv. In
+diesem Falle ist x als eindeutige Funktion von y erklärt. Die Funktion
+f −1 : W → D,
+
+34
+
+x = f −1 (y)
+
+5.5 Die Potenzfunktion
+heißt Umkehrfunktion von f .
+Es gilt also für alle x ∈ D und y ∈ W: f −1 (f (x)) = x und f (f −1 (y)) = y.
+Umkehrfunktionen existieren immer zu streng monotonen Funktionen. Die Graphen von
+f und f −1 liegen symmetrisch zur Geraden y = x.
+Achtung: Die Bildmenge W ist i.A. eine echte Untermenge des Wertebereiches und besteht nur aus den tatsächlich angenommenen Werten. Zudem ist es manchmal sinnvoll
+den Definitions- bzw. Wertebereich einer Funktion f mit Df bzw. Wf zu bezeichnen.
+Im Folgenden wird eine Reihe von elementaren Funktionen mit ihren Graphen angegeben.
+
+5.5 Die Potenzfunktion
+Im Folgenden bezeichnen R>0 , R<0 und R≥0 die Mengen {x ∈ R|x > 0}, {x ∈ R|x < 0}
+und {x ∈ R|x ≥ 0}. Man nennt R>0 die positiven Zahlen, R<0 die negativen Zahlen und
+R≥0 die nicht negativen Zahlen.
+Eine Funktion f : Df → R mit
+f (x) = axr ,
+
+a ∈ R,
+
+r∈Q
+
+heißt Potenzfunktion. Für a 6= 0 unterscheiden wir die Fälle
+1. r = 0. f ist eine konstante Funktion mit Df = R.
+2. r = 1. f ist eine lineare Funktion mit Df = R.
+3. r ∈ N, r ≥ 2. Df = R.
+4. r ∈ Z, r ≤ −1. Df = R \ {0}
+5. r 6∈ N, r > 0. Df = R≥0 .
+6. r 6∈ Z, r < 0. Df = R>0
+
+35
+
+5 Funktionen
+
+Bild 5.E
+
+Bild 5.F
+
+5.5.1 Beispiel
+Ist f : [0, ∞) → R durch y = xn , n ∈ N, n ≥ 2 gegeben, so ist die Umkehrfunktion f −1
+durch
+√
+f (x) = n x mit Df −1 = [0, ∞)
+gegeben.
+Der Graph der Umkehrfunktion f −1 entsteht durch Spiegelung des Graphen von f an
+der Achse x = y, wie man in Bild 5.E sehen kann.
+
+5.6 Die Exponentialfunktion und die
+Logarithmusfunktion
+Die Funktion f : R → R
+f (x) = ax = ex ln a ,
+
+a > 0,
+
+nennt man Exponentialfunktion.
+
+36
+
+a 6= 1
+
+5.7 Polynome
+Die Logarithmusfunktion mit
+y = loga x,
+
+a > 0,
+
+a 6= 1
+
+ist die Umkehrfunktion der Exponentialfunktion und auf D = (0, ∞) definiert (vgl. 3.2).
+
+Bild 5.G
+
+5.7 Polynome
+Als Polynome bezeichnen wir bestimmte Summen von Potenzfunktionen.
+Ein Funktion p : R → R gegeben durch
+p(x) = a0 + a1 x + a2 x2 + ... + an xn ,
+
+a0 , a1 , ..., an ∈ R,
+
+n ∈ N ∪ {0}
+
+nennen wir ein Polynom. Ist an 6= 0, so ist p ein Polynom n-ten Grades und n heißt der
+Grad von p.
+
+37
+
+5 Funktionen
+
+Bild 5.H Ein Polynom fünften Grades
+Der nächste Abschnitt behandelt den Fall n = 1.
+
+5.7.1 Allgemeine lineare Funktionen
+Die Funktion f : R → R, x 7→ a + bx, a, b ∈ R, nennt man allgemeine lineare Funktion.
+Sie ist ein Polynom ersten Grades!
+Skizzieren Sie den Graphen solch einer Funktion im Falle
+1. a = 0, b = 2
+2. a = 1, b = 0
+3. a = −1, b = −0.5
+
+B
+
+5.7.2 Beispiele
+1. Schreiben Sie die Funktion f : R → R, f (x) = 2 − |1 − x| − |x + 2| ohne Beträge.
+Skizzieren Sie ihren Graphen.
+Lösung: Zunächst ermitteln wir die kritischen Punkte, in denen die Terme innerhalb der Betragsstriche das Vorzeichen wechseln. Das sind die Punkte 1 und −2.
+
+38
+
+5.7 Polynome
+Das führt uns auf die drei Teilintervalle von R: (−∞, −2), [−2, 1) und [1, ∞) auf
+denen eine einheitliche Darstellung ohne Beträge möglich ist.
+Sei x ∈ (−∞, −2): Hier gilt
+f (x) = 2 − |1 − x| − |x + 2| = 2 − (1 − x) + (x + 2) = 3 + 2x
+Sei x ∈ [−2, 1): Hier gilt
+f (x) = 2 − (1 − x) − (x + 2) = −1
+Sei x ∈ [1, ∞): Hier gilt
+f (x) = 2 + (1 − x) − (x + 2) = −2x + 1
+Insgesamt ist
+
+
+3 + 2x x < −2
+f (x) = −1
+−2 ≤ x < 1
+
+
+1 − 2x x ≥ 1
+
+Bild 5.I Graph der Funktion f
+2. Bilden Sie von f : (−∞, −1) ∪ (−1, ∞) → R, x 7→
+zeichnen Sie deren Bilder.
+
+x−1
+,
+x+1
+
+die Umkehrfunktion und
+
+39
+
+5 Funktionen
+Lösung: Wie auf der Skizze zu sehen ist die Funktion f injektiv und somit inverx−1
+nach y auf.
+tierbar. Wir lösen zunächst die Gleichung y = x+1
+Sei x 6= −1.
+y =
+⇔
+
+x−1
+x+1
+
+(x + 1)y = x − 1
+
+⇔
+
+x(y − 1) = −1 − y
+ 
+y+1
+⇔
+x = − y−1
+
+y6=1
+
+Um die Umkehrfunktion f −1 zu bestimmen, muss man sich klarmachen, dass das
+obige y die Variable sein soll und man daher in der letzten Gleichung x und y
+x+1
+vertauschen muss. Wir erhalten also: f −1 : (−∞, 1) ∪ (1, ∞) → R, x 7→ − x−1
+.
+
+Bild 5.K Graph der Funktion f −1
+
+Bild 5.J Graph der Funktion f
+
+3. Geben Sie den Definitionsbereich und die Wertemenge von f an und bilden Sie
+x = f −1 (y) mit
+y = f (x) = √
+
+1
+√ ,
+a+ x
+
+a > 0.
+
+√
+Lösung: Es gilt Df = [0, ∞) und Wf = (0, 1/ a]. Insbesondere gilt also y 6= 0.
+y =
+⇔
+⇔
+√
+
+x≥0
+
+⇔
+
+40
+
+√
+
+a+
+
+√
+x =
+√
+x =
+x =
+
+√ 1√
+a+ x
+1
+y
+1
+y
+
+−
+
+
+
+1
+y
+
+√
+
+a
+√ 2
+− a
+
+5.8 Verkettung von Funktionen
+Damit ist die Aufgabe gelöst. Wir halten zusätzlich fest: f −1 : Wf → Df , x 7→
+√ 2
+1
+− a .
+x
+
+5.8 Verkettung von Funktionen
+Hat die Funktion g den Definitionsbereich Dg und die Bildmenge Wg und ist die Funktion
+f für alle z ∈ Wg definiert, so ist durch
+f ◦ g : Dg → R,
+
+x 7→ f (g(x))
+
+eine Funktion definiert, die man f nach g oder die Hintereinanderausführung von g und
+f oder die Verkettung von f und g nennt.
+Als Anwendung der obigen Definition wollen wir uns verschiedenen Manipulationen von
+Graphen widmen, wie Verschieben, Spiegeln, Strecken oder Stauchen. Dieses wird durch
+besonders einfache Verkettungen bewirkt, auch wenn diese der Einfachheit halber nicht
+mehr explizit aufgeschrieben werden. Die Betrachtung dieser Verkettungen erlaubt einem
+häufig, auf einfache Weise den Graphen der resultierenden Funktion f zu zeichnen oder
+Definitions- und Bildmenge zu bestimmen.
+
+5.8.1 Beispiel
+Sei f : R → R durch f (x) = −x2 + x + 2 definiert.
+
+
+
+
+Es gilt f (x) = −x2 +x+2 = −(x2 −x−2) = − (x−1/2)2 −1/4−2 = − (x−1/2)2 −9/4
+Der Graph von f entsteht nun aus dem Graphen von g mit g(x) = x2 durch Verschieben
+um 1/2 nach rechts, Verschieben um −9/4 nach unten und Spiegelung an der x-Achse.
+Daraus ist ersichtlich, dass Df = R und Wf = (−∞, 9/4] gilt.
+Allgemein sei f durch
+
+
+f (x) = ±c · g ± b(·x + a) + d,
+
+a, b, c, d ∈ R, b, c > 0
+
+gegeben. Wobei g eine elementare Funktion mit Dg = R sei. Ist Dg 6= R, so müssen die
+Definitionsbereiche der kombinierten Funktionen entsprechen angepasst werden, worauf
+wir hier wegen der Übersichtlichkeit aber nicht eingehen.
+
+41
+
+5 Funktionen
+
+Im Folgenden werden wir alle Schritte
+anhand g(x) = x3 illustrieren.
+
+Bild 5.L g(x) = x3
+
+In Bezug auf den Graphen von f (x) = ±c · g ± b(·x + a) + d bewirkt
+a eine Verschiebung des Graphen von g um −a entlang der x-Achse (s. Bild 5.M);
+b eine 1/b-fache Streckung in Richtung der x-Achse (für b > 1 wird der Graph also
+gestaucht) (s. Bild 5.N);
+− vor b eine Spiegelung an der Achse x = −a (s. Bild 5.O);
+
+Bild 5.M g(x − 1) = (x − 1)3
+
+Bild 5.N g(1/2(x − 1))
+
+Bild 5.O g(−1/2(x − 1))
+
+c eine c-fache Streckung in Richtung der y-Achse (s. Bild 5.P);
+− vor c eine Spiegelung an der x-Achse (s. Bild 5.Q);
+d eine Verschiebung des Graphen um d in Richtung der y-Achse (s. Bild 5.R).
+
+42
+
+5.8 Verkettung von Funktionen
+
+Bild 5.P 3 · g(−1/2(x − 1)) Bild 5.Q −3 · g(−1/2(x − 1)) Bild 5.R 3·g(−1/2(x−1))+1
+
+5.8.2 Beispiele
+1. Die Funktion f sei durch die Zuordnungsvorschrift
+y = ln(−x2 + x + 2)
+gegeben. Geben Sie den größtmöglichen Definitionsbereich Df und die Wertemenge
+Wf an.
+Lösung: Die Funktion f ist in der Form u ◦ v mit u = ln und v = −x2 + x + 2. Wir
+müssen nun den Definitionsbereich Dv so wählen, dass u für alle z ∈ Wv definiert
+ist. D.h. wir suchen die Menge Dv = {x ∈ R| − x2 + x + 2 > 0}
+Durch Ausprobieren erhalten wir die zwei Nullstellen −1 und 2 der quadratischen
+Gleichung x2 − x − 2 = 0 (Normalform). Wir verfahren wie in Abschnitt 4.2.2
+dargestellt.
+−x2 + x + 2 > 0 ⇔ x2 − x − 2 < 0 ⇔ x ∈ (−1, 2). Also ist Dv = (−1, 2). Mit dem
+Ergebnis aus Beispiel 5.8.1 erhalten wir Wv = (0, 9/4]. Wegen der Monotonie von
+u ist somit Wf = (−∞, ln 9/4] und Df = Dv = (−1, 2).
+2. Skizzieren Sie das Bild der Funktion f mit
+p
+f (x) = − 4 − (x − 1)2
+Geben Sie zunächst ihren Definitionsbereich an.
+Lösung: Es gilt D = {x ∈ R|4 − (x − 1)2 ≥ 0}. Dazu berechnen wir
+4 − (x − 1)2 ≥ 0
+⇔
+
+|x − 1| ≤ 2
+
+⇔
+
+−2 ≤ x − 1 ≤ 2
+
+⇔
+
+−1 ≤ x ≤ 3
+
+43
+
+5 Funktionen
+Also ist D = [−1, 3].
+Kreisgleichung In Abschnitt 4.6.4 haben wir die Kreisgleichung für den Einheitskreis, d.h. für den Kreis um Null mit Radius r = 1 kennen gelernt: x2 + y 2 = 1.
+Seien x0 , y0 ∈ R, r > 0. Dann lautet die allgemeine Kreisgleichung
+(x − x0 )2 + (y − y0 )2 = r2 ,
+
+x, y, ∈ R
+
+Die Lösungsmenge dieser Gleichung beschreibt einen Kreis um (x0 , y0 ) mit Radius r. Durch Umformung sieht man, dass der Graph des Kreises sich aus den
+Funktionen, welche durch
+p
+x ∈ [x0 − r, x0 + r], (oberer Halbkreis)
+y1 = r2 − (x − x0 )2 + y0 ,
+und
+p
+y2 = − r2 − (x − x0 )2 + y0 ,
+
+x ∈ [x0 − r, x0 + r], (unterer Halbkreis)
+
+beschrieben werden, zusammen setzt. Mit den obigen Überlegungen erkennt man,
+dass der resultierende Kreis aus einer Verschiebung um x0 nach rechts“ und y0
+”
+nach oben“ aus dem Kreis um Null mit Radius r hervorgegangen ist.
+”
+
+Zurück zur Aufgabenstellung: Das gegebene f stellt einen unteren Halbkreis
+um (1, 0) mit Radius r = 2 dar:
+
+Bild 5.S
+
+44
+
+6 Trigonometrische Funktionen
+6.1 Herleitung und Definition
+Für ein rechtwinkliges Dreieck
+
+Bild 6.A
+gelten die Definitionen
+sin α := Gegenkathete/Hypotenuse,
+cos α := Ankathete/Hypotenuse,
+tan α := Gegenkathete/Ankathete.
+Diese Definition ist nur für α < 90◦ möglich.
+Die sog. Trigonometrischen Funktionen sin und cos erweitern diese Darstellung auf den
+Definitionsbereich R. Dies soll aus der Anschauung des Einheitskreises hergeleitet werden.
+
+45
+
+6 Trigonometrische Funktionen
+
+Bild 6.B
+Daraus leiten wir die Funktionen sin : R → R, x 7→ sin x und cos : R → R, x 7→ cos(x)
+ab. Wir können Folgendes ablesen: Die Wertemengen Wsin und Wcos sind jeweils das
+Intervall [−1, 1]. Die Funktionen sind periodisch mit Periode 2π.
+
+6.1.1 Schaubild des Sinus und Cosinus
+
+Bild 6.C
+
+6.1.2 Umrechnung von Grad- und Bogenmaß
+Der Umfang des Einheitskreises ist 2π. Daraus leitet sich das Bogenmaß ab, dass im
+Folgenden statt des Gradmaßes verwendet wird.
+
+46
+
+6.1 Herleitung und Definition
+Es gilt 180◦ =π.
+b Also bestehen zwischen dem Gradmaß a und dem Bogenmaß b die
+Beziehungen
+180
+b
+π
+π ◦
+a
+b=
+180
+
+a◦ =
+
+6.1.3 Schaubild des Tangens und Cotangens
+Der Tangens
+tan x :=
+
+sin x
+cos x
+
+ist definiert für
+x ∈ R \ {x| cos x = 0}
+= R \ {kπ + π2 |k ∈ Z}.
+Der Cotangens
+cot x :=
+
+cos x
+sin x
+
+ist definiert für
+R \ {kπ|k ∈ Z}.
+
+Bild 6.D
+Die Funktionen sin und cos, bzw. tan und cot sind periodisch mit den Perioden 2π bzw.
+π. Für k ∈ Z gilt
+sin x = sin(x + 2kπ),
+tan x = tan(x + kπ),
+
+cos x = cos(x + 2kπ),
+cot x = cot(x + kπ).
+
+6.1.4 Spezielle Werte
+Leiten Sie folgende spezielle Funktionswerte aus der Anschauung des Einheitskreises her.
+
+47
+
+6 Trigonometrische Funktionen
+
+x in
+
+◦
+
+x im Bogenmaß
+
+sin x cos x tan x
+
+0◦
+B
+
+30◦
+45◦
+
+6.1.5 Die Additionstheoreme
+Es gilt
+1. sin2 x + cos2 x = 1, mit der Schreibweise sin2 x := (sin x)2
+2. sin(x ± y) = sin x cos y ± cos x sin y
+3. cos(x ± y) = cos x cos y ∓ sin x sin y
+
+6.1.6 Beispiel
+Machen Sie sich anschaulich klar, dass
+sin(x +
+
+π
+) = cos x
+2
+
+gilt (vgl. Beispiel 5.8.1)und beweisen Sie dieses mit den Additionstheoremen.
+
+48
+
+7 Einige Beweise
+Mathematische Beweise
+Kann eine Behauptung B allein durch logische Verknüpfungen aus einer gegebenen Voraussetzung A, bereits bewiesenen Aussagen und geltenden Axiomen gefolgert werden,
+so gilt B als bewiesen. Wir unterscheiden die folgenden Beweistechniken:
+
+Der direkte Beweis
+Hier wird die Behauptung B durch die Implikation A ⇒ B gezeigt.
+
+Beispiel 1
+Beweisen Sie: das Quadrat jeder geraden natürlichen Zahl n ist gerade.
+Anmerkungen: Die Voraussetzung lautet n ist gerade“. Dh. es existiert eine natürliche
+”
+Zahl k mit n = 2k. Die Behauptung lautet n2 ist gerade“.
+”
+Beweis. Wegen n = 2k für eine geeignete natürliche Zahl k gilt:
+V or.
+
+n2 = (2k)2 = 4k 2 = 2 · (2k 2 )
+Die Zahl n2 ist also das Doppelte einer natürlichen Zahl und somit gerade.
+
+Beispiel 2
+Beweisen Sie: Das Quadrat jeder ungeraden natürlichen Zahl n ist ungerade. B
+
+49
+
+7 Einige Beweise
+
+Der indirekte Beweis (auch: Widerspruchsbeweis)
+Hier nimmt man unter gegebenen Voraussetzungen an, dass die Behauptung falsch ist
+und führt das zu einem Widerspruch. Aus dem Widerspruch folgert man, dass die Behauptung nicht falsch sein kann. Dann muss sie aber richtig sein (warum?).
+Beispiel 3 Beweisen Sie: Die Darstellung einer rationalen Zahl r als gekürzter Bruch
+ist eindeutig.
+
+p
+q
+
+Beweis. Vorbemerkung: Nach Definition der rationalen Zahlen bezeichnen zwei Zahlen
+m j
+, , m, j ∈ Z, n, k ∈ N, das gleiche Element r ∈ Q, falls m · k = j · n gilt. Bsp. 69 = 46 ,
+n k
+da 6 · 6 = 4 · 9 gilt.
+Zum Beweis: Wir nehmen an, r hätte zwei verschiedene gekürzte Darstellungen r =
+p0
+q0
+
+p
+q
+
+=
+
+mit p, p0 ∈ Z, q, q 0 ∈ N und ggT(p, q) = ggT(p0 q 0 ) = 1 (ggT bezeichne den größten
+”
+gemeinsamen Teiler“). Wegen p q 0 = q p0 gilt q | p q 0 ( q teilt p q 0“), wegen ggT(q, p) = 1
+”
+muss zudem q | q 0 gelten. Analog zeigt man q 0 | q.
+Aus q | q 0 und q 0 | q folgt nun aber q = q 0 und damit p = p0 . Das steht im Widerspruch
+zur Annahme! Damit ist die behauptete Eindeutigkeit gezeigt.
+
+Beispiel 4 Beweisen Sie:
+
+√
+
+2 ist irrational.
+
+√
+2 ist rational. Dann existieren m, n ∈ N mit ggT(m, n) = 1 und
+Beweis.
+Annahme:
+√
+2= m
+.
+Nach
+Voraussetzung
+gilt
+n
+2=
+
+m2
+n2
+
+(∗)
+
+und damit 2n2 = m2 . Nach Beispiel 1+2 ist m somit eine gerade Zahl, dh. für ein k ∈ N
+gilt m = 2 · k. Damit formen wir (∗) um und erhalten 2n2 = 4k 2 , also n2 = 2k 2 . Also ist
+auch n2 und damit n eine gerade Zahl.
+√
+Widerspruch zur Annahme ggT(m, n) = 1! Also kann 2 keine rationale Zahl sein.
+
+Beispiel 5 Beweisen Sie: Es gibt unendlich viele Primzahlen.
+Beweis. Annahme: es gibt nur endlich viele, nämlich n Primzahlen, n ∈ N. Sei pn die
+größte dieser Primzahlen. Betrachte nun das Produnkt all dieser Primzahlen m := p1 ·
+p2 · ... · pn und die Zahl q := m + 1.
+
+50
+
+Es gibt nun zwei Möglichkeiten: Entweder q ist eine Primzahl, offensichtlich mit q > pn ,
+oder q ist selbst keine Primzahl. Im zweiten Fall sei p ein Primteiler von q. Wir zeigen
+nun, dass p 6∈ {pi |i = 1...n} gilt, dass also p > pn gelten muss:
+Wäre p eine der Primzahlen p1 , ..., pn , so teilte p sowohl m als auch m + 1 und damit
+auch die Differenz 1 = m + 1 − m. Wid.! Also gilt p > pn !
+Beide Fälle liefern also einen Widerspruch zur Annahme, dass es nur endlich viele Primzahlen gibt! Es gibt also unendlich viele Primzahlen!
+Es gibt noch weitere Beweistechniken, wie der konstruktive Beweis oder die vollständige
+Induktion.
+
+51
+
+8 Anhang
+Lösungen zu den Beispielen des Skriptes
+
+52
+
+1.8.4.1:
+x − 2 > 2x − 1
+⇔
+
+−x > 1
+
+⇔
+
+x < −1
+
+Also ist L = (−∞, −1)
+2(x − 1) < 6(x + 53 )
+⇔
+
+−4x < 12
+
+⇔
+
+x > −3
+
+Also ist L = (−3, ∞)
+1.8.4.2:
+9xy + 3y + 6x + 2 = 3y(3x + 1) + 2(3x + 1) = (3y + 2)(3x + 1)
+2p3 + 9q 2 − 3p2 q − 6pq = p2 (2p − 3q) − 3q(2p − 3q) = (p2 − 3q)(2p − 3q)
+1.8.4.3:
+c2 − 1 = (c + 1)(c − 1)
+y 2 − 12y + 36 = (y − 6)2
+2
+16x4 − 8x2 y 2 + y 4 = (4x2 − y 2 )2 = (2x + y)(2x − y)
+1.8.4.4:
+x2 + 3x + 2 = (x + 1)(x + 2)
+x2 + x − 2 = (x − 1)(x + 2)
+
+2.1.1:
+Wahr für: 1 Teilnehmer trägt Brille; mehrere Teilnehmer tragen eine Brille; alle Teilnehmer tragen eine Brille.
+Falsch für: keine Teilnehmer trägt eine Brille.
+
+2.1.2:
+Diese Aussage ist genau für x = 0 wahr!
+
+3.2.4:
+1. Unter der Bedingung a > 0, b > 0 und c > 0 gilt
+√
+2 a + ba3 b2
+1
+1
+log √
+= log 2 + log(a + b) + 3 log a + 2 log b − log c − 2 log(a + c).
+3
+2
+2
+3
+c(a + c)
+2. Unter der Bedingung b > 0 und a > b gilt
+log(a + b) + 2 log(a − b) −
+
+1
+3
+1
+log(a2 − b2 ) = log(a + b) + log(a − b).
+2
+2
+2
+
+3.3.2:
+1. a2 = 4 ⇔ |a| = 2 ⇔ a = 2, −2
+√
+√
+√
+√
+√
+2. a2 > 3 ⇔ |a| > 3 ⇔ a < − 3 od. a > 3, also a ∈ (−∞, − 3) ∪ ( 3, ∞).
+
+3.3.3:
+1. |x| ≤ ε ⇔ −ε ≤ x ≤ ε, dh. x ∈ [−ε, ε].
+2. |x − 2| < ε ⇔ −ε < x − 2 < ε ⇔ 2 − ε < x < 2 + ε, dh. x ∈ (2 − ε, 2 + ε).
+
+4.6.6:
+
+5.7.1:
+
+6.1.4:
+x in
+
+◦
+
+x im Bogenmaß
+
+sin x
+
+cos x
+
+tan x
+
+0◦
+
+0
+
+0
+
+1
+
+0
+
+30◦
+
+π/6
+
+1/2
+
+√
+√
+√
+3/2 1/ 3 = 3/3
+
+45◦
+
+π/4
+
+√
+2/2
+
+√
+2/2 1
+
+7 Beispiel 2:
+Beweisen Sie: Das Quadrat jeder ungeraden natürlichen Zahl n ist ungerade.
+Beweis. Wegen n = 2k + 1 für eine geeignete natürliche Zahl k gilt:
+V or.
+
+n2 = (2k + 1)2 = 4k 2 + 4k + 1 = 2 (2k 2 + 2k) + 1 = 2 m + 1
+mit m = 2k 2 + 2k. Somit ist n2 eine ungerade Zahl.
+
+Literaturverzeichnis
+[1] H. Amann und J. Escher Analysis I, Birkhäuser, Basel, 2006
+[2] E. Cramer und J. Nešlehová, Vorkurs Mathematik. Arbeitsbuch zum Studienbeginn in Bachelor-Studiengängen., EMIL@A-stat, Springer, 2008
+[3] R. Janßen und K. Benecke, Studienvorbereitung: Mathematik in den Naturwissenschaften -Teil 1-, Oldenburg, 1996
+[4] W. Schäfer und K. Georgi, Vorbereitung auf das Hochschulstudium, BSB B. Teubner Verlagsgesellschaft, 1985
+
+63
+
+Index
+<, 13
+=, 13
+>, 13
+A \ B, 12
+D, 24, 36
+L, 15
+⇔, 10
+N, 12
+Q, 12
+R2 , 30
+R>0 , R>0 , R≥0 , 36
+⇒, 10
+W, 36
+Z, 12
+∅, 11
+≥, 13
+∈, 10
+≤, 13
+logb a, ln, 21
+¬, 10
+π, 13
+⊂, 11
+∨, 10
+∧, 10
+f ◦ g, 42
+
+Betragsungleichungen, 29
+Beweis
+der direkte Beweis, 50
+der indirekte Beweis, 51
+Beweistechniken, 50
+Bild, 35
+Bildmenge, 35, 36
+binomische Formeln, 14
+Bogenlänge des Einheitskreises, 13, 47
+Bogenmaß, 47
+Bruchrechnung, 14, 51
+Bruchungleichungen, 27
+Cosinus, 47
+Cotangens, 48
+Definitionsbereich, 34
+Definitionsmenge, 24
+Eigenschaft, 11, 17
+Einheitskreis, 45, 46
+Element einer Menge, 10
+elementare Funktionen, 36
+Exponent, 19
+Exponentialfunktion, 37
+
+Abbildung, 34
+Additionstheoreme, 49
+allgemeine lineare Funktion, 39
+Aussage, 9
+
+Fallunterscheidungen, 27
+Funktion, 34
+gerade, 35
+symmetrische, 35
+trigonometrische Funktion, 46
+ungerade, 35
+Funktionen
+elementare, 36
+
+Basis, 19, 21
+
+ganze Zahlen, 12
+
+Df , 36
+Wf , 36
+
+64
+
+Index
+gerade Funktion, 35
+Gradmaß, 47
+Graph einer Funktion, 34
+Hintereinanderausführung von Funktionen, 42
+injektiv, 35
+Intervall, 15
+abgeschlossenes, 15
+offenes, 15
+kartesisches Produkt, 17, 30
+Kreisgleichung, 45
+Kreuzprodukt, 17
+Lösungsmenge, 15, 24
+leere Menge, 11
+Logarithmengesetze, 21
+Logarithmus
+Basis, 21
+Logarithmusfunktion, 37
+Logharithmus, 21
+logische Verknüpfungen, 9
+
+Potenzgesetze, 19
+Prädikatenlogik, 17
+quadratische Gleichungen, 24
+quadratische Ungleichungen, 24
+quadratisches Ergänzen, 24
+Quantoren, 17
+rationale Gleichung, 26
+rationale Zahlen, 12
+reelle Zahlen
+Rechenregeln, 14
+reellwertige Funktion, 35
+relatives Komplement, 12
+Schnittmenge, 11
+Sinus, 47
+streng monoton, 35
+symmetrisch, 35
+Tangens, 48
+Teilmenge, 11
+trigonometrische Funktionen, 46
+spezielle Werte, 48
+
+Menge, 10
+monoton, 35
+fallend, 35
+wachsend, 35
+
+Umkehrfunktion, 35
+Umrechenformel, 21
+ungerade Funktion, 35
+Ungleichungen, 24
+Regeln, 14
+
+natürliche Zahlen, 12
+Negation, 18
+negative Zahlen, 36
+nicht negative Zahlen, 36
+
+Vereinigungsmenge, 11
+Verkettung von Funktionen, 42
+Verneinung, 18
+
+Obermenge, 11
+Parabel, 25, 26
+Polynom, 38
+n-ten Grades, 38
+positive Zahlen, 36
+Potenz, 19
+gebrochene, 20
+Potenzfunktionen, 36
+
+Wertebereich, 34, 36
+Wertemenge, 35
+Wurzel, 19
+q-te, 19
+Wurzelgesetze, 20
+Wurzelgleichungen, 26
+Zuordnungsvorschrift, 34
+
+65
+
+

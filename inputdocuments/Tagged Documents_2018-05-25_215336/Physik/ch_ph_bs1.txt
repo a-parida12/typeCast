@@ -1,0 +1,1717 @@
+
+
+
+
+
+
+
+
+
+
+
+
+                                   PHYSIK
+
+
+                                     FάR
+
+
+                            CHEMIELABORTECHNIKER
+
+
+
+
+
+
+
+
+
+
+
+
+                             INHALTSVERZEICHNIS
+
+
+
+1. Einleitung 1
+
+  1.1. Aufgaben und Arbeitsgebiete der Physik  1
+  1.2. Arbeitsweise der Physik  1
+  1.3. Physikalische Grφίen  2
+  1.4. Physikalische Einheiten  4
+  1.5. Kφrperarten und Aggregatzustδnde  6
+    1.5.1.  Gemeinsame Merkmale aller Kφrper 6
+    1.5.2.  Aggregatzustδnde  6
+
+2. Mechanik 7
+
+  2.1. Lδnge und ihre  abgeleiteten Grφίen 7
+    2.1.1.  Lδnge (l , s, r)  7
+    2.1.2.  Flδche A 7
+    2.1.3.  Volumen V  8
+  2.2. Zeit und ihre  abgeleiteten Grφίen  9
+    2.2.1.  Zeit t   9
+    2.2.2.  Geschwindigkeit v 9
+    2.2.3.  Beschleunigung a  9
+  2.3. Masse und ihre  abgeleiteten Grφίen 10
+    2.3.1.  Masse m  10
+    2.3.2.  Kraft F und Trδgheit  10
+    2.3.3.  Dichte ? 11
+    2.3.4.  Arbeit W und Energie E  11
+    2.3.5.  Leistung P und Wirkungsgrad ?  12
+  2.4. Mechanische Eigenschaften von Feststoffen 12
+    2.4.1.  Innere Struktur der Festkφrper 12
+    2.4.2.  Arten der Deformation 13
+    2.4.3.  Druck p  13
+  2.5. Mechanische Eigenschaften von Flόssigkeiten und Gasen 14
+    2.5.1.  Kohδsions- und Adhδsionskrδfte 14
+    2.5.2.  Innere Reibung 15
+    2.5.3.  Strφmungsarten 15
+    2.5.4.  Viskositδt 16
+    2.5.5.  Oberflδchenspannung ? 16
+    2.5.6.  Kapillaritδt 19
+
+3. Wδrmelehre 20
+
+
+4. Elektrizitδtslehre  21
+
+  4.1. Grundlagen der Elektrizitδtslehre 21
+  4.2. Elektrische Grφίen und deren Einheiten  21
+    4.2.1.  Elektrische Ladung, Elektrizitδtsmenge Q  21
+    4.2.2.  Stromstδrke I  22
+    4.2.3.  Elektrische Spannung, elektrisches Potential U   22
+    4.2.4.  Elektrische Arbeit W, Leistung P und Wirkungsgrad ?  24
+    4.2.5.  Elektrischer Widerstand R 25
+  4.3. Der elektrische Stromkreis 26
+    4.3.1.  Serienschaltung, Reihenschaltung - unverzweigter Stromkreis 26
+    4.3.2.  Parallelschaltung - verzweigter Stromkreis  27
+  4.4. Arten des elektrischen Stroms  28
+    4.4.1.  Gleichstrom (=)   28
+    4.4.2.  Wechselstrom (~)  29
+    4.4.3.  Dreiphasen - Wechselstrom (3~) 29
+  4.5. Messung von elektrischen einheiten  29
+    4.5.1.  Stromstδrke  29
+    4.5.2.  Spannung 30
+    4.5.3.  Widerstand 31
+  4.6. Elektrische Leitung 31
+    4.6.1.  Stromleitung in Festkφrpern: 31
+    4.6.2.  Stromleitung in Flόssigkeiten  37
+    4.6.3.  Stromleitung im Vakuum  41
+
+5. Optik 43
+
+  5.1. Lichtausbreitung  43
+    5.1.1.  Art des Strahlenganges  43
+    5.1.2.  Geradlinige Ausbreitung 43
+    5.1.3.  Beugung  43
+  5.2. Lichtgeschwindigkeit  43
+  5.3. Reflexion des Lichtes 44
+    5.3.1.  Regelmδίige Reflexion (Spiegelung) 44
+    5.3.2.  Diffuse Reflexion 44
+  5.4. Spiegel  44
+    5.4.1.  Ebene Spiegel  44
+    5.4.2.  Gekrόmmte Spiegel 44
+  5.5. Brechung des Lichtes  45
+
+6. Literaturverzeichnis  59
+
+
+Einleitung
+
+
+1 Aufgaben und Arbeitsgebiete der Physik
+
+Die Physik gehφrt zu jenem Bereich der Naturwissenschaften, der die Aufgabe
+hat, jene Vorgδnge in der unbelebten Natur zu untersuchen, soweit es sich
+nicht um stoffliche Verδnderungen handelt.
+Es gibt allerdings sehr wohl άberschneidungen mit anderen
+naturwissenschaftlichen Bereichen, wie z.B. der Chemie, Biologie und
+Medizin.
+
+Teilgebiete der Physik sind:
+
+
+    . Mechanik
+
+
+    . Wδrmelehre
+
+
+    . Elektrizitδtslehre und Magnetismus
+
+
+    . Optik
+
+
+    . Akustik
+
+
+    . Quanten- und Atomphysik
+
+
+    . Kernphysik
+
+
+    . Relativitδtstheorie
+
+Auch innerhalb dieser Teilgebiete kommt es zu άberschneidungen.
+
+2 Arbeitsweise der Physik
+
+Die Arbeitsweise erfolgt in mehreren Stufen.
+
+ 1. Beobachten - ein Ereignis in der Natur wird bemerkt
+
+
+ 2. Messen - Experiment wird durchgefόhrt, es werden Vergleiche mit
+    Einheiten durchgefόhrt
+
+
+ 3. physikalisches Gesetz aufstellen - mit Hilfe der Mathematik werden
+    genaue Berechnungen durchgefόhrt und Gesetze (Formeln) aufgestellt
+
+
+ 4. physikalische Theorie aufstellen - Gesetze sind nie 100%ige Beweise,
+    sondern Vermutungen όber Gesetzmδίigkeiten der Natur, die durch
+    Experimente bestδtigt oder widerlegt werden kφnnen. Daher mόssen sie
+    letztendlich immer durch neue Gesetze entsprechend abgeδndert werden.
+
+
+Um Gesetze und Theorien aufstellen zu kφnnen benφtigt der Physiker sog.
+Modelle. Diese entsprechen grφίtenteils der Wirklichkeit, werden aber
+wesentlich einfacher dargestellt. Der Grund liegt darin, dass Naturvorgδnge
+doch etwas komplexer sind.
+
+
+Modelle:
+
+    . ideale Flόssigkeit: diese ist nicht komprimierbar, besitzt keine
+      innere Reibung
+    . ideales Gas: besteht aus punktfφrmigen Molekόlen ohne Anziehungskrδfte
+    . starrer Kφrper: besitzt eine unverδnderliche δuίere Gestalt
+    . Massenpunkt: besitzt keine rδumliche Ausdehnung
+
+Zusammenfassend kann man sagen, dass die Physik durch Beobachten und Messen
+versucht die Vorgδnge in der Natur zu verstehen und anhand von Modellen
+diese auch zu beschreiben.
+
+
+3 Physikalische Grφίen
+
+Alle messbaren Merkmale der Natur nennt man physikalische Grφίen.
+Eine physikalische Grφίe besteht immer aus einem Zahlenwert und einer
+Einheit.
+                 Physikalische Grφίe = Zahlenwert . Einheit
+                              z. B.  l = 5,3 m
+Die physikalische Grφίe ist im Gegensatz zum Zahlenwert von der Einheit
+unabhδngig, d.h. verwendet man eine kleinere (grφίere) Einheit, so wird der
+Zahlenwert grφίer (kleiner). Die physikalische Grφίe jedoch bleibt gleich.
+Innerhalb der physikalischen Grφίen unterscheidet man:
+    . Skalare Grφίen - Sie sind nichtgerichtete Grφίen und werden durch die
+      Angabe ihres Betrages bestimmt. (Temperatur, Masse, Dichte, Flδche,
+      Volumen,...)
+    . Vektorielle Grφίen - Diese haben zusδtzlich eine Richtungsangabe, die
+      mit einem Pfeil gekennzeichnet wird. Sie sind gerichtete Grφίen. (Weg
+      s , Geschwindigkeit v, Kraft F, Druck p,...)
+
+Physikalische Grφίen werden auch manchmal in Form von griechischen
+Buchstaben angegeben.
+|Alpha            |?  |?  |Ny               |?  |?  |
+|Beta             |?  |?  |Xi               |?  |?  |
+|Gamma            |?  |?  |Omikron          |?  |?  |
+|Delta            |?  |?  |Pi               |?  |?  |
+|Epsilon          |?  |?  |Rho              |?  |?  |
+|Zeta             |?  |?  |Sigma            |?  |?  |
+|Eta              |?  |?  |Tau              |?  |?  |
+|Theta            |?  |?  |Ypsilon          |?  |v  |
+|Iota             |?  |?  |Phi              |?  |?  |
+|Kappa            |?  |?  |Chi              |X  |?  |
+|Lambda           |?  |?  |Psi              |?  |?  |
+|My               |?  |?  |Omega            |?  |?  |
+
+
+
+4 Physikalische Einheiten
+
+Einheiten wurden willkόrlich vom Menschen festgelegt. Daher gab es auch im
+Laufe der Jahrhunderte sehr viele verschiedene Einheiten.
+Heute verwendet man ein internationales Einheitensystem -
+das sog. SI - System ( Systeme International d`Unites)
+
+Es gibt 7 Basiseinheiten, von denen sich weitere Einheiten ableiten lassen.
+
+|Physikalische Grφίe |Formelzeichen |Einheit            |
+|Lδnge               |l             |Meter     |m       |
+|Masse               |m             |Kilogramm |kg      |
+|Zeit                |t             |Sekunde   |s       |
+|Stromstδrke         |I             |Ampere    |A       |
+|Temperatur          |T             |Kelvin    |K       |
+|Stoffmenge          |n             |Mol       |mol     |
+|Lichtstδrke         |I             |Candela   |cd      |
+
+
+Abgeleitete Einheiten sind z.B.:
+
+|Physikalische     |Formel-z|abgleitet aus:                 |Einheit           |
+|Grφίe             |eichen  |                               |                  |
+|Flδche            |A       |Lδnge . Lδnge   l . |m . m     |Quadratmete|m2    |
+|                  |        |l                   |          |r          |      |
+|Volumen           |V       |Lδnge3      l . l . |m . m . m |Kubikmeter |m3    |
+|                  |        |l                   |          |           |      |
+|Kraft             |F       |Masse.Beschleunigung|kg . m /  |Newton     |N     |
+|                  |        |m . a               |s2        |           |      |
+|Druck             |p       |Kraft / Flδche    F |N / m2    |Pascal     |Pa    |
+|                  |        |/ A                 |          |           |      |
+|Arbeit            |W       |Kraft . Weg    F. s |N . m     |Joule      |J     |
+|Leistung          |P       |Arbeit / Zeit    W /|J / s     |Watt       |W     |
+|                  |        |t                   |          |           |      |
+|elektrische       |U       |Leistung / Zeit   P |W / s     |Volt       |V     |
+|Spannung,         |        |/ t                 |          |           |      |
+|elektrisches      |        |                    |          |           |      |
+|Potential         |        |                    |          |           |      |
+|elektrische Ladung|Q       |Stromstδrke . Zeit  |A.s       |Coulomb    |C     |
+|                  |        |I. t                |          |           |      |
+
+
+Wenn man Bruchteile oder Vielfache einer Einheit benutzt, werden
+Zehnerpotenzen mit negativen bzw. positiven Exponenten verwendet. Dazu
+setzt man folgende Abkόrzungen vor die Einheit:
+
+|Vorsilbe|Abkόrzung  |Wert            |Vorsilbe|Abkόrzung  |Wert              |
+|Peta    |P          |1015 |Billiarde|Dezi    |d          |10-1  |Zehntel    |
+|Tera    |T          |1012 |Billion  |Zenti   |c          |10-2  |Hundertstel|
+|Giga    |G          |109  |Milliarde|Milli   |m          |10-3  |Tausendstel|
+|Mega    |M          |106  |Million  |Mikro   |?          |10-6  |Millionstel|
+|Kilo    |k          |10³  |Tausend  |Nano    |n          |10-9  |Milliardste|
+|        |           |     |         |        |           |      |l          |
+|Hekto   |h          |10²  |Hundert  |Pico    |p          |10-12 |Billionstel|
+|Deka    |da         |101  |Zehn     |Femto   |f          |10-15 |Billiardste|
+|        |           |     |         |        |           |      |l          |
+
+
+5 Kφrperarten und Aggregatzustδnde
+
+
+1 Gemeinsame Merkmale aller Kφrper
+
+Die drei Eigenschaften aller Kφrper (unabhδngig von ihrer Erscheinungsform)
+sind:
+    . Raumanspruch
+      Wo ein Kφrper ist, kann nicht gleichzeitig ein zweiter sein.
+    . Masse
+      Jeder Kφrper zeigt einen Widerstand gegen Bewegungsδnderungen, die
+      sog. Trδgheit. Diese wird mit der Masse gemessen. Massenanziehung
+      aufgrund der Erdanziehung. Jeder Kφrper hat auf der Erde ein Gewicht.
+    . Atomarer Aufbau
+      Alle Kφrper sind aus Atomen aufgebaut
+
+2  Aggregatzustδnde
+
+|Aggregatzustand        |bestimmte Form         |bestimmtes Volumen     |
+|fest                   |ja                     |ja                     |
+|flόssig                |nein                   |ja                     |
+|gasfφrmig              |nein                   |nein                   |
+
+Festkφrper sind:                                            F
+    . formbestδndig
+    . volumenbestδndig
+    . inkompressibel
+
+
+Flόssigkeiten sind:                                       F
+    . volumenbestδndig
+    . weichen aber der Kraft aus
+
+
+Gase sind:                                                F
+    . kompressibel
+Mechanik
+
+
+1 Lδnge und ihre  abgeleiteten Grφίen
+
+
+1 Lδnge (l , s, r)
+
+SI-Einheit: Meter m
+Definition 1: Ein Meter ist jener Weg, den das Licht innerhalb von
+1/299792458 Sekunden im Vakuum zurόcklegt.
+Definition 2: Das Meter ist der Abstand, den 2 Strichmarken auf einem bei
+Paris aufbewahrtem Stab bei 0°C haben (=Urmeter)
+Andere Einheiten:
+Εngstrφm: 1Ε = 1.10 -10 m (Atomradien, Bindungslδngen)
+Zoll (Inch): 1" = 0,0254 m (Anwendung bei Rohren und im EDV - Bereich)
+Meile: 1mile =1609,344 m (Strecken)
+Messgerδte: Maίband, Maίstab, Schublehre, Mikrometerschraube, optische
+Methoden (fόr sehr groίe oder sehr kleine Lδngen) wie z.B. Messmikroskope
+und Interferometer
+
+2 Flδche A
+
+SI-Einheit: Quadratmeter m²
+Definition: Ein Quadratmeter ist gleich dem Flδcheninhalt eines Quadrates
+von 1 m Seitenlδnge.
+Weitere Einheiten:
+Ar: 1 a = 100 m²
+Hektar: 1 ha = 10000 m²
+Messmethoden und - gerδte:
+Regelmδίige Flδchen werden berechnet.
+Unregelmδίige Flδchen werden mit dem Planimeter bestimmt.
+
+3 Volumen V
+
+SI-Einheit: Kubikmeter m³
+Definition: Ein Kubikmeter ist gleich dem Volumen eines Wόrfels von 1 m
+Kantenlδnge.
+Messmethoden und - gerδte fόr:
+Feste Kφrper:
+Regelmδίige feste Kφrper werden berechnet.
+Unregelmδίige feste Kφrper werden durch Flόssigkeitsverdrδngung bestimmt.
+Dabei muss der Kφrper in die Flόssigkeit eintauchen, darf sich in der
+Flόssigkeit nicht lφsen und von dieser angegriffen werden.
+Die Dichte des Kφrpers muss grφίer sein als die der Flόssigkeit.
+
+Flόssigkeiten:
+Es gibt 2 Arten von Messgerδten:
+    . Eingussgeeichte Gefδίe:
+      Messzylinder (Mensuren), Messkolben
+      Das exakte Volumen erhδlt man beim Hineingieίen der Flόssigkeit in das
+      Gefδί. Bei der Entnahme erhδlt man nicht mehr das vollstδndige
+      Volumen.
+
+
+    . Ausgussgeeichte Gefδίe:
+      Pipetten (Voll- und Messpipetten), Bόretten
+      Das exakte Volumen erhδlt man beim Entleeren der Flόssigkeit aus dem
+      Gefδί. (s. Laboratoriumsόbungen I / S 18 )
+
+2 Zeit und ihre  abgeleiteten Grφίen
+
+
+1 Zeit t
+
+SI-Einheit: Sekunde s
+Definition: 1 s ist die Dauer von 9192631770 Perioden der Strahlung von
+133Cs.
+Weiter Einheiten:
+Minute: 1 min = 60 s
+Stunde: 1 h = 60 min = 3600 s
+Tag: 1 d = 24 h =1440 min = 86400 s
+Jahr: 1 a = 365 d = 8760 h
+Messgerδte: Uhren
+
+2 Geschwindigkeit v
+
+SI-Einheit: Meter pro Sekunde m/s
+Definition: Die Geschwindigkeit v ist das Verhδltnis zurόckgelegter Weg s
+zur benφtigten Zeit t.    v = [pic]
+Weiter Einheiten:
+km/h = [pic] m/s
+
+3 Beschleunigung a
+
+SI-Einheit: Meter pro Sekundequadrat m/s²
+Definition: Beschleunigung ist eine verδnderliche Geschwindigkeit, d.h. die
+Beschleunigung a ist das Verhδltnis von Geschwindigkeitsδnderung ?v zur
+Zeitδnderung ?t.      a = [pic]
+Verzφgerung: Negative Beschleunigung
+
+3 Masse und ihre  abgeleiteten Grφίen
+
+
+1 Masse m
+
+SI-Einheit: Kilogramm kg
+Definition: 1 kg ist die Masse des in Paris aufbewahrten Urkilogramms.
+Weitere Einheiten:
+Tonne: 1 t = 1000 kg
+Beachte: Die Vielfachen werden hier nicht von der Basiseinheit Kilogramm,
+sondern von ihrem 1000. Teil, dem Gramm gebildet.
+Die Masse m ist ein Maί der Trδgheit eines Kφrpers.
+Streng zu unterscheiden von der Masse ist das Gewicht eines Kφrpers. Die
+Masse eines Kφrpers ist an allen Orten gleich groί.
+Messmethoden und - gerδte
+Massen  werden  mit   Hebelwaagen   durch   Massevergleich   bestimmt.   Man
+unterscheidet nach der Bauform
+      . gleicharmige Hebelwaagen
+      . ungleicharmige Hebelwaagen (Dezimalwaage, Balkenwaage).
+Siehe auch Laboratoriumsόbungen I/ S 17
+
+2 Kraft F und Trδgheit
+
+SI-Einheit: Newton N
+Definition: Kraft ist das Produkt aus Masse und Beschleunigung.  F =  m . a
+1 N = 1 kgm/ s²
+Die Ursache einer Beschleunigung ist eine Kraft.
+Durch Muskelkraft kann man einen Kφrper verformen, beschleunigen oder
+abbremsen.
+Durch magnetische oder elektrische Krδfte kann man das gleiche erzielen.
+Alle Kφrper auf der Erde werden zum Erdmittelpunkt hingezogen =
+Erdanziehungskraft.
+1. Newtonsches Axiom: Ohne Krafteinwirkung bleibt ein ruhender Kφrper in
+Ruhe und ein bewegter Kφrper bewegt sich mit gleich bleibender
+Geschwindigkeit geradlinig weiter.
+2. Newtonsches Axiom:  Kraft = Masse . Beschleunigung          F =  m . a
+3. Newtonsches Axiom:  Zu jeder Kraft F1 zwischen Kφrpern gehφrt eine
+gleich groίe, entgegengesetzt gerichtete Gegenkraft F2.
+Die Masse oder exakter die trδge Masse ist jene Kφrpereigenschaft, der
+zufolge jeder Kφrper ein Beharrungsvermφgen besitzt.
+Trδgheitsprinzip von Galilei: Jeder Kφrper behδlt seine Geschwindigkeit
+nach Betrag und Richtung bei, wenn keine Kraft auf ihn einwirkt. = Trδgheit
+Das Gewicht G
+Jeder Kφrper auf der Erde fδllt durch die Erdanziehungskraft beschleunigt
+gegen den Erdmittelpunkt, wenn ihn nicht eine Gegenkraft daran hindert. =
+Erdbeschleunigung oder Fallbeschleunigung g = 9,81 m/s2   G = m . g
+Kraftmessung erfolgt:
+    . dynamisch aus der Beschleunigung bei bekannter Masse oder
+    . statisch mit Hilfe einer Federwaage
+
+3 Dichte ?
+
+SI-Einheit: Kilogramm pro Kubikmeter kg/m³
+Weitere Einheiten: Feststoffe g/cm³, Flόssigkeiten g/ml, Gase g/l
+Definition: Dichte ist der Quotient aus Masse und Volumen.     ? = [pic]
+Die Dichte ist eine Stoffkonstante.
+Sie ist temperatur- und druckabhδngig.
+
+4 Arbeit W und Energie E
+
+SI-Einheit: Joule J
+Definition: Unter Arbeit W versteht man immer einen Kraftaufwand F lδngs
+eines Weges s.  W =  F . s
+Energie ist daher die gespeicherte Arbeit bzw. die Arbeitsfδhigkeit
+innerhalb eines Kφrpers an dem Arbeit verrichtet worden ist und die
+wiederum zu einer Zustandsδnderung gefόhrt hat.
+1J = 1 Nm = 1 Ws = [pic]kWh
+
+Wir unterscheiden grundsδtzlich die potentielle Energie Epot(Lageenergie)
+und die kinetische Energie Ekin(Bewegungsenergie).
+Energieerhaltung
+    . In einem abgeschlossenen System bleibt die Gesamtenergie konstant.
+      Eges =Ekin+Epot
+    . In einem nicht abgeschlossenen System ist die Gesamtenergie gleich der
+      Arbeit der δuίeren Krδfte. ? Eges= WA
+    . Es kφnnen verschiedene Energieformen ineinander umgewandelt werden.
+
+5 Leistung P und Wirkungsgrad ?
+
+SI-Einheit: Watt W
+Definition: Unter Leistung P versteht man die verrichtete Arbeit pro
+Zeiteinheit.
+P=[pic]
+1W = 1 J/s
+Weitere Einheiten: 1 PS  = 735 W
+Der Wirkungsgrad ? einer Maschine ist das Verhδltnis von abgegebener
+bzw.nutzbarer zur aufgewendeten bzw. zugefόhrten Energie.
+         ? = [pic].100%                         ? = [pic].100%
+Da es in der Realitδt immer zu Energieverlusten kommt ist ? ? 1.
+Wδre  ? > 1 spricht man von einem "perpetuum mobile".
+
+4 Mechanische Eigenschaften von Feststoffen
+
+
+1 Innere Struktur der Festkφrper
+
+Die Atome eines Festkφrpers sind aufgrund hoher Bindungskrδfte in einem
+Atom- bzw. Kristallgitter regelmδίig angeordnet. Spricht man von amorphen
+Kφrpern, so sind das keine echten Festkφrper sondern unterkόhlte
+Flόssigkeiten, wie z.B.Glas.
+
+2 Arten der Deformation
+
+Wirken δuίere Krδfte auf einen Kφrper, so entsteht eine Formδnderung:
+    . Plastische Verformung: Formδnderung bleibt erhalten aufgrund einer neu
+      gefundenen Gleichgewichtslage der Molekόle nach Einwirken der δuίeren
+      Kraft.
+    . Elastische Verformung: Formδnderung wird rόckgδngig gemacht, weil die
+      Molekόle keine neue Gleichgewichtslage gefunden haben. Es entsteht
+      innerhalb des Gitterverbandes ein Spannungszustand (Gegenkraft)
+      wδhrend des Einwirkens der δuίeren Kraft.
+
+3 Druck p
+
+SI-Einheit: Pascal Pa
+Definition: Druck p wird dann ausgeόbt, wenn eine Kraft F auf eine
+bestimmte Flδche A wirksam wird.  p = [pic]
+Weitere Einheiten: 1Pa = 1 N/m2
+                1 bar = 105 Pa
+technische Atmosphδre at: 1at = 0,981 bar
+physikalische Atmosphδre atm: 1atm = 1,013bar  = 760 Torr (= Normaldruck)
+1 mm Quecksilbersδule = 1 Torr = 133,3 Pa
+1 mm Wassersδule = 9,81 Pa
+1 hPa = 1 mbar = 100 Pa (Meteorologie)
+Atmosphδrenόberdruck atό:
+Der  tatsδchliche  Druck  berechnet  sich  aus  angelegtem  Druck  und   dem
+Luftdruck.
+Messmethoden und -gerδte:
+Es gibt folgende Manometerarten:
+    . offenes U-Rohrmanometer:
+      Es dient zur Messung von Druckunterschieden
+    . geschlossenes U-Rohrmanometer:
+      Es steht auf der geschlossenen Seite unter Druck und basiert auf dem
+      Boyle - Mariotte'schen Gesetz. Daher ist es fόr hohe Drόcke zu
+      ungenau.
+    . Membranmanometer (Dosenmanometer):
+      der Innenraum steht unter Druck, so dass es eigentlich den άberdruck
+      anzeigt.
+    . Rφhrenfedermanometer bzw. die Bourdon'sche Rφhre:
+      Man verwendet es fόr hφhere und sehr hohe Drόcke.
+
+Luftdruck
+Das Eigengewicht der Luft erzeugt einen Druck, der mit zunehmender Hφhe
+abnimmt. In der Nδhe der Erdoberflδche nimmt der Luftdruck um ca.100 Pa / 8
+m ab.
+Praktische Anwendung: Fόr Hφhenmessungen
+Messung des Luftdruckes:
+Es gibt folgende Barometerarten:
+    . Dosenbarometer (Aneroidbarometer bzw. Vidiedosenbarometer): es gleicht
+      im Aufbau den Membranmanometern, nur ist der Innenraum evakuiert.
+    . Quecksilberbarometer: es gleicht im Aufbau dem geschlossenen
+      U-Rohrmanometer, nur ist die geschlossene Seite evakuiert.
+    . Das Vakuummeter ist eine Sonderform mit stark verkόrzter Messskala.
+
+Wirkung des Luftdruckes
+Die Funktion folgender Gerδte lassen sich mit  dem  Wirken  des  Luftdruckes
+erklδren: Pipette, Kolbensaugpumpe, Kolbendruckpumpe, Kreiselpumpe.
+Die grφίte  Fφrderhφhe  einer  Saugpumpe  betrδgt  ungefδhr  10  m,  da  der
+Luftdruck  ungefδhr  105  Pa  betrδgt.  Bei  dieser  Fφrderhφhe   sind   der
+Gewichtsdruck des Wassers und der Luftdruck gleich.
+
+
+5 Mechanische Eigenschaften von Flόssigkeiten und Gasen
+
+
+1 Kohδsions- und Adhδsionskrδfte
+
+Kohδsionskrδfte sind Wechselwirkungskrδfte, die zwischen den Molekόlen des
+gleichen Materials innerhalb einer Phase wirken.
+         . Kohδsionskrδfte sind in Feststoffen am grφίten
+         . in Flόssigkeiten wesentlich kleiner und
+         . in Gasen vernachlδssigbar gering
+Physikalische Grφίen bzw. Eigenschaften, die durch Kohδsionskrδfte bestimmt
+werden:
+         . die Viskositδt
+         . die Kompressibilitδt und
+         . die Oberflδchenspannung
+Kohδsionskrδfte mόssen zum Zerteilen (Schneiden, Reiίen) eines Stoffes
+όberwunden werden.
+Adhδsionskrδfte sind Wechselwirkungskrδfte zwischen den Molekόlen
+unterschiedlicher Stoffe zwischen mehreren Phasen.
+Adhδsionskrδfte bewirken
+         . die Haftreibung,
+         . das Aneinanderhaften von verschiedenen Stoffen und
+         . die Benetzung
+Wir nutzen Adhδsionskrδfte beim Verbinden (Kleben) und beim Beschichten
+(Lackieren) von Materialien.
+
+2 Innere Reibung
+
+
+
+3 Strφmungsarten
+
+
+Laminare Strφmung
+
+Turbulente Strφmung
+
+4 Viskositδt
+
+
+
+
+5 Oberflδchenspannung ?
+
+Die Krδfte zwischen Atomen bzw. Molekόlen an der Oberflδche und im Inneren
+einer Flόssigkeit sind verschieden.
+Innerhalb der Flόssigkeit wirken nur Kohδsionskrδfte, die nach allen Seiten
+gleich gerichtet sind. An der Grenzflδche Wasser - Luft (Flόssigkeit -
+Gas), die man auch als Oberflδche bezeichnet, wirkt die
+Oberflδchenspannung. Diese Grenzschicht wirkt dabei wie eine dόnne Membran.
+Hier werden die Molekόle in das Innere der Flόssigkeit gezogen. Dabei
+erfahren Molekόle innerhalb der Grenzschicht einerseits durch
+Kohδsionskrδfte, andererseits aber auch durch die von der Luft her
+wirkenden Adhδsionskrδfte, eine resultierende Kraft nach innen. Es muss
+also Arbeit geleistet werden um ein Molekόl gegen diese Kraft an die
+Oberflδche zu bringen. Diese Arbeit vergrφίert die Oberflδchenenergie der
+Flόssigkeit.
+
+Die Oberflδchenspannung ? wird in N/m angegeben.
+
+? =[pic]
+? =[pic] =[pic] =[pic]
+? = = [pic] = [pic] = [pic]
+
+In der Grenzschicht tritt aber auch eine tangentiale Kraft auf, die einen
+Riss in der Oberflδche auseinander zieht. Daher ist die Oberflδchenspannung
+auch jene Kraft, die notwendig ist, um einen Riss je Lδngeneinheit
+zusammenzuziehen.
+Man kann die Oberflδchenspannung an einem Wasserlδufer beobachten. Sein
+Gewicht reicht nicht aus diese zu όberwinden.
+Eine Rasierklinge bleibt solange auf der Wasseroberflδche liegen, solange
+diese nicht zerstφrt wird. Erst dann geht sie unter.
+Oberflδchenaktive Substanzen
+Verunreinigungen beeinflussen die Oberflδchenspannung stark.
+. z.B. Oberflδchenaktive Substanzen (Netzmittel, waschaktive Substanzen)
+  verringern die Oberflδchenspannung
+. Alkohole und Fettsδuren haben hydrophile (wasseranziehende) und
+  hydrophobe (wasserabweisende) Anteile in ihrem molekularen Aufbau. Sie
+  schieben sich zwischen Wassermolekόle und Luftmolekόle und reduzieren
+  dadurch die Oberflδchenspannung.
+Messung der Oberflδchenspannung:
+      Tensiometer                                 Stalagmometer
+
+
+
+
+
+
+
+
+
+Eine grφίere Oberflδche hat mehr potentielle (statische) Energie. Der
+Kφrper mit der kleinsten Oberflδche und minimalster potentieller Energie
+ist eine Kugel. Daher kommt es auch bei Flόssigkeiten zur Trφpfchenbildung.
+Die Tropfengrφίe einer abtropfenden Flόssigkeit wird durch die
+Oberflδchenspannung bestimmt. Auf die Tropfφffnung wirken das Gewicht des
+Flόssigkeitstropfens und die Oberflδchenspannung. Die Tropfengrφίe hδngt
+von der Dichte der Flόssigkeit und der Oberflδchenspannung ab.
+Tropfenform benetzender und nicht benetzender Flόssigkeiten
+Eine Flόssigkeit in einem Becherglas bildet an der Oberflδche zur Glaswand
+eine Dreiphasengrenze. Auf ein Molekόl wirken Adhδsions- und
+Kohδsionskrδfte. Benetzung und Tropfenformen sind vom Verhδltnis der
+Adhδsionskrδfte FA zwischen Wand und Flόssigkeit und den Kohδsionskrδften
+FK in der Flόssigkeit abhδngig.
+|Benetzende Flόssigkeiten            |nicht benetzende Flόssigkeiten        |
+|Eine Flόssigkeit ist benetzend,     |Eine Flόssigkeit ist nicht benetzend, |
+|wenn:                               |wenn: FA < FK                         |
+|FA> FK                              |Der Meniskus ist konvex.              |
+|Der Meniskus ist konkav.            |? > 90°                               |
+|? < 90°                             |                                      |
+|                                    |                                      |
+|                                    |                                      |
+
+
+
+
+
+
+    7 Kapillaritδt
+
+Die Kapillaritδt wird an Flόssigkeiten in engen Rφhren beobachtet.
+|Kapillaraszension:                   |Kapillardepression:                  |
+|Benetzende Flόssigkeiten steigen auf.|Nicht benetzende Flόssigkeiten sinken|
+|                                     |ab. Z.B. Quecksilber                 |
+|z.B. Wasser                          |                                     |
+|                                     |                                     |
+|                                     |                                     |
+|                                     |                                     |
+|                                     |                                     |
+|                                     |                                     |
+
+Wirkung der Kapillaritδt
+    . Die Kapillaritδt des Bodens ist fόr den Wassergehalt des Bodens und
+      fόr den Wassertransport zu den Wurzeln wichtig.
+    . Die Kapillaritδt bewirkt zusammen mit dem osmotischen Druck ein
+      Aufsteigen der Sδfte in den Pflanzen.
+    . Auf der Kapillaritδt beruht die Saugwirkung von Schwδmmen, Dochten und
+      Lφschpapier.
+
+
+Wδrmelehre
+
+
+
+
+
+
+
+
+Elektrizitδtslehre
+
+
+1 Grundlagen der Elektrizitδtslehre
+
+Als elektrischen Strom bezeichnet man Elektronen, die sich aus dem
+Atomverband gelφst haben und sich mit relativ geringer Geschwindigkeit
+fortbewegen.
+Elektrischer Strom kann nur in einem geschlossenen elektrischen Stromkreis
+flieίen.
+Jeder unverzweigte Stromkreis enthδlt in seiner einfachsten Form:
+      . einen Strom- oder eine Spannungsquelle (Batterie)
+      . den Verbraucher (Glόhlampe)
+    . Leitungen (Metalldrδhte)  als Hin- und Rόckleitung zwischen
+      Spannungsquelle und Verbraucher
+
+
+Elektrischen Strom kann man fόr verschiedene Gebiete der Technik anwenden:
+    . Magnetische Wirkung - zur Bereitstellung von Bewegungsenergie
+      (Elektromotore)
+    . Wδrmewirkung - zur Wδrmeerzeugung  (Heizleitung, Lichtbogen)
+    . chem. Wirkung - fόr chemische Reaktionen (Elektrolyse, Galvanisieren)
+    . optische Wirkung - zur Lichterzeugung (Glόhlampe, Leuchtstoffrφhre)
+
+
+    . physiologische Wirkung
+
+
+
+   2 Elektrische Grφίen und deren Einheiten
+
+
+1 Elektrische Ladung, Elektrizitδtsmenge Q
+
+
+Sie ist das Produkt aus Stromstδrke I und Zeit t.   Q= I.t
+Die Einheit ist Amperesekunde [As] oder Coulomb [C].
+1 As = 1 C
+Die kleinste elektrische Ladung ist die Elementarladung e.
+Sie ist fόr das Elektron negativ und fόr das Proton positiv und betrδgt
+   e = 1,6022 . 10 -19 C
+   1 C ( 6,24 .10 18  e
+Jede Ladung ist ein ganzzahliges Vielfaches der Elementarladung.
+Messgerδt: Coulombmeter
+
+
+2 Stromstδrke I
+
+
+Sie ist eine elektrische Basisgrφίe und ihre Einheit ist das Ampere [A].
+[A] = [pic].
+Definition 1: Die elektrische Stromstδrke I  ist ein Maί fόr die durch
+einen Leiterquerschnitt flieίende Ladungsmenge (Elementarladungen) Q pro
+Zeiteinheit t (Sekunde).           I= [pic]
+
+
+3 Elektrische Spannung, elektrisches Potential U
+
+
+Urspannung Ue, Quellenspannung Uq
+Sie herrscht zwischen den Polen einer Spannungsquelle und wird auch als
+elektromotorische Kraft (EMK) bezeichnet. Sie entsteht durch das Trennen
+von Ladungen (Potentialdifferenz).
+An der Kathode (negativer Pol) besteht ein Elektronenόberschuss, an der
+Anode (positiver Pol) ein Elektronenmangel. Auίerhalb der Spannungsquelle
+flieίen die Elektronen von der Kathode zur Anode.(= tatsδchliche
+Stromrichtung)
+Allgemein gilt aber durch die Festlegung der technischen Stromrichtung:
+Der elektrische Strom flieίt von der Anode zur Kathode.
+Je grφίer die Anzahl der getrennten Ladungen und je grφίer die Trennstrecke
+ist, desto grφίer ist auch die Spannung.
+Verbraucherspannung U
+Flieίt Strom einer bestimmten Stromstδrke I durch z.B. eines Heizdrahtes,
+entsteht Wδrmeenergie. Diese Wδrmemenge  wiederum entstand durch die
+elektrische Energie Wel und wird in Wattsekunden [Ws], Kilowattstunden
+[kWh],  Joule [J] oder Kilojoule [kJ] gemessen. Daher ist die
+Verbraucherspannung jenes Verhδltnis der umgesetzten elektrischen Energie
+im Verbraucher zur transportierten elektr. Ladungsmenge durch den
+Verbraucher.
+1 kWh = 3600 kJ
+1 Ws = 1J
+
+Spannungsabfall U / ?U
+Er ist immer ein Teil der Quellenspannung, der sog. "spezifische Verbrauch
+elektrischer Energie" und liegt zwischen zwei beliebigen Punkten eines
+stromdurchflossenen Leiters.
+Er ist das Verhδltnis zwischen Leistung und Stromstδrke.     U= [pic]
+Die Einheit der Stromspannung ist das Volt [V].
+Definition: Ein Volt ist jene elektrische Spannung, die benφtigt wird, um
+zwischen zwei Punkten eines Leiters, in dem ein Strom der Stδrke von 1
+Ampere flieίt, die Leistung von 1 Watt umsetzen zu kφnnen.
+Messgerδt: Voltmeter
+
+Gebrδuchliche Spannungen:
+
+Netzspannung    230V
+Kraftstrom      400V
+Straίenbahn     550V
+Elektrolokomotive   1,5kV
+Fernleitungen   380kV
+
+4 Elektrische Arbeit W, Leistung P und Wirkungsgrad ?
+
+
+Elektrische Energie entsteht aus anderen Energiearten und lδsst sich wieder
+in solche umwandeln. Es gilt fόr sie der Energieerhaltungssatz.
+
+Die Elektrische Arbeit W ist daher jene Energie, die die Stromquelle
+abgeben muss um die Ladungstrδger (z.B. Elektronen) durch den Leiter zu
+bewegen.
+W = U . I . t
+Die Einheit ist Joule [J], Kilojoule [kJ], Wattsekunde [Ws] oder
+Kilowattstunde [kWh].
+Wenn die Stromstδrke wδhrend der Zeit t konstant ist, wird die gesamte
+elektrische Energie in Wδrme umgewandelt.
+
+Die Elektrische Leistung P ist die aufgenommene oder abgegebene elektrische
+Arbeit W pro Zeiteinheit.
+P = U . I        P = [pic]
+
+Die Einheit ist Watt [W].  1 W = 1 VA
+Messgerδt: Wattmeter
+
+Wirkungsgrad ?
+Ein geringer Teil der zugefόhrten elektrischen Energie W1 geht als Verlust
+verloren und vermindert die abgegebene Energie W2 um diesen Betrag.
+Errechnet man sich das Verhδltnis von abgegebener zur zugefόhrter Energie,
+so bekommt man den Wirkungsgrad.
+
+            ? = [pic].100%                         ? = [pic].100%
+
+
+
+5 Elektrischer Widerstand R
+
+
+Wenn Strom durch einen metallischen Leiter flieίt, strφmen die freien
+Elektronen zwischen den Atomen des Leiterwerkstoffs. Diese wiederum
+schwingen aufgrund der Wδrmebewegung und behindern die Elektronen in ihrem
+Strφmungsfluss. Sie erzeugen einen Widerstand, der durch eine angelegte
+Spannung όberwunden werden muss.
+Man versteht unter ihm das Verhδltnis von Spannung und Stromstδrke.  R =
+[pic]
+Die Einheit ist das Ohm [(].     [(] = [pic]
+Messgerδt: Ohmmeter
+
+Definition: Ein Ohm ist jener Widerstand zwischen zwei Punkten eines
+elektrischen Leiters, durch den Strom der Stδrke von 1 Ampere und einer
+Spannung von 1 Volt flieίt.
+Je kleiner der Leiterquerschnitt und je grφίer die Lδnge des Leiters ist,
+umso grφίer ist auch der elektrische Widerstand.
+Zu berόcksichtigen ist auίerdem noch der
+
+"Spezifische elektrische Widerstand (":
+
+Er ist eine Stoffkonstante und ist jener Widerstand eines Leiters von 1 mm2
+Querschnitt und 1 m Lδnge bei 20°C.
+Er ist stark temperaturabhδngig. Der Widerstand eines metallischen Leiters
+steigt mit steigender Temperatur (Widerstandsthermometer).
+In der Nδhe des absoluten Nullpunktes sinkt er bei einigen Metallen auf
+annδhernd 0 (Supraleitung).
+Bei Halbleitern und Leitern 2. Klasse sinkt der Widerstand mit steigender
+Temperatur.
+
+Elektrischer Leitwert G
+Er ist der Kehrwert des elektrischen Widerstandes. G = [pic]
+Die Einheit ist das Siemens [S].   [S] = [pic]
+
+Die spezifische elektrische Leitfδhigkeit ( ist daher auch der Kehrwert des
+spezifischen Widerstandes (.
+
+Das Ohmsche Gesetz
+
+Man kann die Stromstδrke I in einem Stromkreis dann verδndern, wenn sich
+darin ein grφίenverstellbarer Widerstand R befindet und man dabei eine
+konstante Spannung U anlegt. Dabei ist die Stromstδrke I dem Widerstand R
+indirekt proportional.
+Allerdings ist bei konstantem Widerstand die Stromstδrke I der Spannung U
+direkt proportional.
+Aus diesen Tatsachen kann man das Ohmsche Gesetz ableiten:
+            U = R . I
+Es gilt auch fόr Teile des Stromkreises.
+
+
+3 Der elektrische Stromkreis
+
+ (siehe auch Wittenberger, Rechnen in der Chemie, S. 226 folgende)
+
+Im Stromkreis flieίen die Elektronen auίerhalb der Spannungsquelle von der
+Kathode zur Anode, innerhalb der Spannungsquelle von der Anode zur Kathode.
+Schaltet man mehrere Verbraucher in einen Stromkreis, gibt es verschiedenen
+Mφglichkeiten diese anzuordnen. Das wiederum fόhrt zu unterschiedlichen
+Beziehungen zwischen den elektrischen Grφίen innerhalb dieses Stromkreises.
+
+
+1 Serienschaltung, Reihenschaltung - unverzweigter Stromkreis
+
+
+Im Stromkreis werden alle Verbraucher (z.B. Widerstδnde) hintereinander
+geschaltet. Sie werden nacheinander vom gleichen Strom durchflossen.
+Die Stromstδrke ist an allen Stellen des Stromkreises gleich. I = konstant
+An jedem Widerstand erfolgt ein Spannungsabfall, der dem Widerstand direkt
+proportional ist.
+Es gilt das 2. Kirchhoff΄sche Gesetz: (Spannungsteilung)
+In einem geschlossenen Stromkreis ist die Urspannung bzw. Gesamtspannung
+der Spannungsquelle gleich der Summe aller Spannungsabfδlle bzw.
+Teilspannungen.
+
+          U1 + U2 + U3 + ............= UG
+
+          U1 : U2 : U3 : ...........= R1 : R2 : R3  :............
+
+          [pic] = [pic] = [pic] .....
+
+Genauso gilt auch fόr die in Serie geschalteten Widerstδnde, dass der
+Gesamtwiderstand  R gleich der Summe der einzelnen Widerstδnde ist.
+
+                    R1 + R2 + R3 +...........= RG
+
+
+2 Parallelschaltung - verzweigter Stromkreis
+
+
+Im Stromkreis werden alle Verbraucher (z.B. Widerstδnde) parallel
+zueinander geschaltet. Dadurch besteht die Mφglichkeit alle Verbraucher an
+eine Spannungsquelle anzuschlieίen.
+Die Spannung ist dabei an allen Stellen des Stromkreises gleich. U =
+konstant
+Der Strom verteilt sich auf die Verbraucher.
+Daraus ergibt sich, dass die Teilstrφme, die durch die einzelnen
+Widerstδnde flieίen, indirekt proportional den Einzelwiderstδnden sind.
+
+
+          I1 : I2 : I3 : .....= [pic] : [pic] : [pic] :  ....... = G1 : G2 :
+          G3 :........
+
+Es gilt das 1. Kirchhoff΄sche Gesetz: (Stromteilung)
+Der Gesamtstrom I der gemeinsamen Zuleitung ist gleich der Summe der
+Teilstrφme in den parallelen Leitungen.
+
+          IG = I1 +I2 +I3 +........
+
+Die Summe der Kehrwerte der Einzelwiderstδnde ist gleich dem Kehrwert des
+Gesamtwiderstandes.
+
+          [pic]   =   [pic] + [pic] + [pic] +  .......
+
+Die Summe der Leitwerte der Einzelwiderstδnde ist gleich dem Leitwert des
+Gesamtwiderstandes.
+
+          GG = G1 +G2 +G3 +........
+
+
+
+4 Arten des elektrischen Stroms
+
+
+1 Gleichstrom (=)
+
+
+Gleichstrom herrscht dann, wenn der Strom immer nur in eine Richtung flieίt
+und dabei zeitlich konstant ist. (Elektrolyse, Gleichstrommotor)
+
+
+2 Wechselstrom (~)
+
+
+Wechselstrom ist dann vorhanden, wenn der Strom seine Grφίe und Richtung im
+periodischen Wechsel δndert.
+Die Anzahl der Richtungsδnderungen des Stroms pro Sekunde nennt man
+Frequenz f. Ihre Einheit ist das Hertz [Hz].
+Er unterscheidet sich vom Gleichstrom dadurch, dass Stromstδrke und
+Spannung eine Funktion der Zeit sind. (sinusfφrmige Kurve)
+Fόr die Berechnung der Arbeit und Leistung nimmt man den Mittelwert aus den
+quadrierten Einzelwerten.
+Wechselstrom benφtigt man fόr kleinere elektr. Gerδte und Glόhbirnen.
+Das Leitungsnetz ist bei Gleich- und Wechselstrom dreipolig.
+
+
+3 Dreiphasen - Wechselstrom (3~)
+
+                       (Drehstrom, Kraftstrom, Starkstrom)
+
+Das Leitungsnetz ist fόnfpolig. Der Strom δndert in den drei stromfόhrenden
+Leitungen fortlaufend Grφίe und Richtung.
+
+
+
+5 Messung von elektrischen einheiten
+
+
+1 Stromstδrke
+
+
+Hitzdrahtinstrument (veraltet):  (=/~)
+Der Leiter erwδrmt sich bei Stromfluss und wird dadurch verlδngert. Diese
+Verlδngerung ist ein Maί fόr die Stδrke des Stromes.
+
+Dreheiseninstrument:  (=/~)
+Das Prinzip der Messung beruht darauf, dass sich zwei Eisenstδbe (ein
+drehbar gelagerter Dauermagnet und feststehender Elektromagnet), die
+innerhalb einer Spule liegen, bei Stromfluss abstoίen. Der Grund dafόr ist
+die magnetische Wirkung.
+Je stδrker der Strom ist, desto grφίer ist die Abstoίung der Eisenstόcke.
+
+Drehspulinstrument: (=)
+Eine drehbar gelagerte Spule befindet sich im Feld eines Dauermagneten. Bei
+Stromfluss wird diese Spule selbst zum Magneten und es entsteht durch die
+άberlagerung der beiden Magnetfelder ein Drehmoment. Das Verhδltnis von
+Drehmoment zur Stromstδrke ist direkt proportional.
+
+Amperemeter:
+Sie werden in Serie zu den Verbrauchern an beliebiger Stelle in den
+Stromkreis geschalten (Hauptschluss). Ihr Innenwiderstand (=
+Eigenwiderstand) soll mφglichst gering sein, um einen Spannungsabfall zu
+vermeiden.
+Werden Strφme gemessen, die όber den Messbereich des Galvanometers
+hinausgehen, muss dem Gerδt ein Widerstand (Nebenwiderstand)
+parallelgeschaltet werden, der einen Teil des Stroms vorbei leitet.
+       Rp ( Ri
+Galvanometer sind sehr empfindliche Amperemeter.
+
+
+2 Spannung
+
+
+Voltmeter:
+Sie werden parallel zu den Verbrauchern im Stromkreis geschalten
+(Nebenschluss).
+Ihr Innenwiderstand soll mφglichst groί sein, um die Klemmenspannung nicht
+zu verkleinern. Werden Spannungen gemessen, die όber den Messbereich des
+Galvanometers hinausgehen, muss ein Vorschaltwiderstand eingeschaltet
+werden, der einen Teil der Spannung aufnimmt.
+       Rv ( Ri
+
+
+3 Widerstand
+
+(dtv - Atlas S. 228)
+
+Wheatstonesche Brόcke:
+Es ist eine Widerstandsmessbrόcke, bestehend aus den Widerstδnden R1, R2,
+R3  und Rx . Wobei Rx der unbekannte Widerstand ist und R3 ein
+verδnderbarer Widerstand ist. R3 wird solange verstellt, bis durch das
+Galvanometer kein Strom mehr flieίt.
+Fόr I=0 gilt:    Rx = [pic]
+
+
+
+6 Elektrische Leitung
+
+
+Sie ist an bewegliche Ladungstrδger gebunden.
+Das sind:
+     . Elektronen bei festen Kφrpern und im Vakuum
+         . Ionen bei Flόssigkeiten und Gasen
+
+
+Die Ladungstrδger  bewegen sich immer unter der Kraftwirkung eines
+elektrischen Feldes. Dies gilt fόr alle Arten elektrischer Leitung.
+
+
+1 Stromleitung in Festkφrpern:
+
+
+Man teil sie ein in:
+               . Leiter (Metalle)
+               . Halbleiter
+               . Nichtleiter (Isolatoren)
+
+
+Physikalisch gesehen haben sie alle einen kristallinen Aufbau.
+Fόr die Leitung des elektr. Stroms benφtigt man frei bewegliche Elektronen.
+Die elektr. Leitfδhigkeit ergibt sich aus den Energieniveaus der Elektronen
+und wird durch die Gitterstruktur bestimmt.
+Die Wechselwirkungen zwischen den Elektronen in einem Festkφrper sind so
+groί, dass eine scharfe Grenze des Energiezustandes nicht mehr erkennbar
+ist. Dadurch werden die Energieniveaus bandfφrmig. (= Heisenbergsche
+Unschδrferelation)
+Sind die Abstδnde der Energieniveaus eines Atoms sehr gering, dann
+όberlappen sich diese Energiebδnder. Sind die Abstδnde der Energieniveaus
+eines Atoms grφίer, dann werden diese Energiebδnder durch Bandlόcken
+voneinander getrennt. Bandlόcken sind sog. "verbotene Zonen" fόr
+Elektronen.
+Jedes Energieband kann nur eine bestimmte Anzahl von Elektronen aufnehmen.
+Ist das Energieband vollstδndig besetzt, leitet es den elektrischen Strom
+nicht mehr. Man unterscheidet :
+
+    . Valenzband: Es ist das oberste Energieband mit Elektronen
+      vollbesetzte Energieband. Die Elektronen sind darin nicht frei
+      beweglich.
+    . Leitungsband: Energetisch liegt es oberhalb des Valenzbandes und ist
+      nicht vollstδndig mit Elektronen besetzt. Es kann Elektronen
+      aufnehmen.
+
+
+Getrennt werden Valenz- und Leitungsband ebenfalls durch eine Bandlόcke.
+Die Breite dieser Bandlόcke bedingt die Eigenschaften als Leiter,
+Halbleiter und Isolatoren.
+
+
+1 Metallische Leiter
+
+
+Hier όberlappen sich Valenz- und Leitungsband.
+Da die Elektronen nur sehr schwach am Atom gebunden sind, kφnnen sie sich
+bei bereits geringer Energiezufuhr bewegen (Elektronengas) und leicht vom
+Valenz- ins Leitungsband όbergehen. (siehe allgemeine Chemie:
+Metallbindung)  Die notwendige Energie erhδlt man, wenn man an den Leiter
+eine Spannung anlegt und diese wiederum ein elektrisches Feld erzeugt.
+Der Widerstand eines metallischen Leiters steigt mit steigender Temperatur,
+da die stδrker schwingenden Kerne die Bewegung der Elektronen behindern.
+Bei vielen Metallen nimmt der Widerstand in der Nδhe des absoluten
+Nullpunktes sprunghaft ab. Man spricht dann von Supraleitung.
+
+Thermoelektrizitδt:
+Einige frei bewegliche Elektronen kφnnen aus der Oberflδche eines Metalls
+austreten. Bei der Berόhrung zweier Metalle kφnnen Elektronen mit niedriger
+Austrittsarbeit in das andere Metall όberwechseln. Das passiert, wenn man
+zwei Metallstreifen an beiden Enden zusammenlφtet. An diesen Lφtstellen
+entsteht eine Berόhrungs- oder Kontaktspannung, die temperaturabhδngig ist.
+Ist die Temperatur an beiden Lφtstellen gleich flieίt kein Strom, da die
+Spannungsquellen entgegengesetzt geschalten sind. Sobald aber an den
+Lφtstellen eine Temperaturdifferenz herrscht, entsteht eine Thermospannung
+und es flieίt ein Thermostrom (Seebeck-Effekt). Ist das der Fall, dann
+spricht man von Thermoelementen, die zur Temperaturmessung verwendet
+werden. Der Peltier-Effekt ist die Umkehrung des Seebeck-Effekts: d.h. Es
+entsteht eine Temperaturdifferenz zwischen beiden Lφtstellen, wenn diese
+von elektr. Strom durchflossen werden. Je nach Stromrichtung, kommt es zur
+Erwδrmung bzw. Abkόhlung. Anwendung in der Halbleitertechnik.
+Die Grφίe des Thermostroms  ist vom Material und der Temperaturdifferenz
+abhδngig.
+Es gibt daher eine thermoelektrische Spannungsreihe, in der die Metalle
+eingeordnet werden. Als Bezugsmaterial nimmt man Kupfer.
+z.B.: Ni -2,2 mV/K, Pt und Hg -0,7mV/K, Cu 0mV/K, Fe 1,0mV/K
+Diese Werte beziehen sich auf eine Temperaturdifferenz von 100 K. Die
+Bezugstemperatur ist 0°C.
+Je weiter zwei Stoffe innerhalb der thermoelektrischen Spannungsreihe
+auseinanderliegen, umso grφίer ist auch die Thermospannung fόr eine
+gegebene Temperaturdifferenz.
+Thermospannungen einiger Thermoelemente in mV. Temperaturdifferenz ist 100
+K, die Bezugstemperatur 0°C.
+Cu / Konstantan 4,25 ;    CrNi / Konstantan 6,21 ;    Pt / PtRh 0,643
+
+2 Halbleiter
+
+
+Halbleiter sind jene Elemente und Verbindungen, deren elektr.
+Leitfδhigkeitsbereich  zwischen den Leitern und Isolatoren liegt.
+Dabei unterscheidet man zwischen Ionenleitung und Elektronenleitung in
+Kristallen:
+Ionenleitung (Gitterhalbleitung)
+In einem Ionenkristall besetzen abwechselnd Kationen und Anionen die
+Gitterplδtze. Durch die Anziehungskraft der positiven und negativen
+Ladungen dieser Ionen wird das Kristallgitter zusammengehalten.
+Normalerweise ist so ein Gitter nie ganz regelmδίig aufgebaut. d.h., dass
+manche Gitterstellen, die besetzt sein sollten, leer stehen. Es entstehen
+im Gitter "Lφcher". Legt man ein elektr. Feld an, so beginnen die Ionen zu
+wandern und besetzen dabei die "Lφcher", wobei aber in der
+entgegengesetzten Richtung wiederum neue "Lφcher" entstehen.
+
+Elektronenleitung (elektronischer Halbleiter)
+Sie erfolgt hauptsδchlich durch den Einbau von Fremdatomen in ein
+Kristallgitter (Dotation).
+Bei 0 K gibt es in einem reinen Kristall keine Elektronenleitung. Erhφht
+man die Temperatur, so kφnnen einige Elektronen die geringe Bandlόcke
+όberspringen und so vom Valenz- in das Leitungsband όbergehen. Das Anlegen
+eines elektr. Feldes alleine genόgt nicht.
+d.h. Der Kristall wird zum Eigenleiter, da er erst bei hφherer Temperatur
+eine gewisse Leitfδhigkeit bekommt  (im Gegensatz zu den Isolatoren), die
+von der Energiedifferenz (= Breite der Bandlόcke) zwischen Valenz- und
+Leitungsband abhδngig ist.
+Bei den Isolatoren ist die Bandlόcke so breit, dass ein άbergang von
+Elektronen in das Leitungsband bei Raumtemperatur nicht mφglich ist.
+Der Widerstand von Halbleitern sinkt mit steigender Temperatur.
+Technische Anwendung:
+Heiίleiter (Thermistor) mit Negativem Temperatur Koeffizienten
+(NTK -Widerstand)
+Die wichtigsten Halbleitermaterialien sind Silizium und Germanium, d.h.
+Elemente aus der 4.HG des PSE. Zum Dotieren verwendet man Elemente aus der
+3.HG (Al, Ga, In)  bzw. 5.HG (As, Sb) des PSE. Man unterscheidet n- und p-
+Leitung. Die 4 Auίenelektronen vom Ge und Si sind mit jeweils einem
+Elektron des Nachbaratoms an der Valenzbildung beteiligt. Dabei bleibt
+immer ein Elektron όbrig, das zur elektr. Leitung herangezogen wird.
+
+n- Leitung - άberschusshalbleiter:
+
+Baut man in das Ge- Gitter Stφrstellen aus Elementen der 5.HG ein (diese
+haben 5 Valenzelektronen) herrscht dort Elektronenόberschuss. Diese kφnnen
+in einem elektr. Feld mit geringem Energieaufwand abgelφst werden und sind
+frei beweglich. Diese Fremdatome nennt man Elektronendonatoren.
+
+p- Leitung - Elektronendeffekthalbleiter:
+
+Wird in das Ge- Gitter ein Element der 3.HG (3 Valenzelektronen) eingebaut,
+so ist fόr die Valenzbindung ein Elektron zuwenig. Es entsteht eine
+Elektronenlόcke. Diese kann in einem elektr. Feld nur mit einem Elektron
+eines benachbartem Ge- Atoms geschlossen werden. Dem Ge- Atom fehlt nun das
+eine Elektron, es entsteht dort ein "positives Loch", das im elektr. Feld
+zum negativen Pol wandert.
+Die Fremdatome nennt man Elektronenakzeptoren. Die Leitung erfolgt durch
+Defektelektronen.
+
+Freie Elektronen, die durch Stoί so viel an Energie verlieren, fallen
+wieder in das Valenzband zurόck und werden von einem Loch wieder
+eingefangen (Rekombination).
+Die Zahl der Elektronen-Defektelektronenpaare ist konstant, weil sich
+Neubildung und Rekombination bei unverδnderter Temperatur ausgleichen.
+Halbleiterdioden (pn-άbergang)
+
+Baut man Halbleiter aus p- und n- Leitern, erhδlt man eine Diode. Zwischen
+p- und n- Leitung ist eine pn- Grenzschicht, durch die die Ladungstrδger
+diffundieren kφnnen, bis Gleichgewicht herrscht.
+Legt man eine Spannung mit dem +Pol an die n-Schicht und den  -Pol an die p-
+Schicht, so wandern die Elektronen zum +Pol und die Lφcher zum  -Pol. An
+der Grenzschicht entsteht ein extremer Mangel an Ladungstrδgern. Dabei
+entsteht eine Sperrschicht, die den Stromdurchgang verhindert. Bei
+umgekehrter Polung entsteht ein starker Durchlassstrom.
+Dieser pn-άbergang wirkt als Gleichrichter, er lδsst den Strom nur von p
+nach n flieίen.
+pnp- und npn- Kombinationen werden im Transistorenbau verwendet.
+
+Photoleiter
+Das sind auch elektronische Halbleiter, bei denen die Energie des
+sichtbaren Lichtes ausreicht, um ein Elektron vom Valenzband in das
+Leitungsband zu heben.
+
+Photoeffekt:
+Ein Photon ist ein elementarer Bestandteil jeder Strahlung. Mittels
+Photonen entsteht der Energieaustausch zwischen Strahlung und Materie.
+Ein Photon kann ein Elektron freisetzen, sobald es mit genόgend Energie auf
+ein Atom trifft.
+
+    . Δuίerer Photoeffekt:
+      Von der Oberflδche des bestrahlten Materials treten Elektronen aus.
+      Technische Anwendung: Photozelle
+
+    . Innerer Photoeffekt:
+      Das Licht dringt in das Innere des Materials ein und setzt dort
+      Leitungselektronen frei.
+      Der άbergang von Elektronen aus dem Valenzband in das Leitungsband
+      erfolgt durch Lichtquanten mit entsprechender Energie.
+      Die Leitfδhigkeit nimmt mit der Zahl der auftretenden Lichtquanten zu.
+      Technische Anwendung: Photoelement - Sie wird ohne δuίere Spannung
+      betrieben.
+
+Photodiode:
+Bei einer in Sperrrichtung geschalteten Diode kann durch Lichteinwirkung
+der Sperrstrom vergrφίert werden, da bei Belichtung in der oberflδchennahen
+Sperrschicht zusδtzliche Ladungstrδger frei werden. Wichtig ist, dass der
+Sperrstrom proportional der Lichtstδrke ist.
+
+
+
+2 Stromleitung in Flόssigkeiten
+
+
+Trδger des elektrischen Stroms sind Ionen, die durch Dissoziation(=
+Zerfall) entstehen.
+Positive Ionen (Kationen) wandern zur Kathode, negative Ionen (Anionen)
+wandern zur Anode.
+
+
+1 Elektrolyse
+
+
+Es gibt leitende (dissozierte) Flόssigkeiten (Elektrolyte) und nicht
+leitende (undissozierte) Flόssigkeiten.
+Elektrolyte sind wδssrige Lφsungen von:
+    . Sδuren
+    . Salzen bzw. Salzschmelzen
+    . Basen
+An der Kathode scheidet sich bei Sδuren Wasserstoff und bei Salzen und
+Basen das jeweilige Metall ab.
+An der Anode scheidet sich bei Sδuren und Salzen der Sδurerest und bei
+Basen die OH-Gruppe ab.
+Eine Elektrolyse wird mit Gleichstrom betrieben. Chemisch gesehen ist sie
+eine Redoxreaktion. Fόr die Berechnung der abgeschiedenen Masse eines
+Stoffes gelten die Faradayschen Gesetze.
+
+1. Faradaysches Gesetz:
+Man kann aufgrund der abgeschiedenen Masse m  auch auf die Anzahl der
+transportierten Elementarladungen Q schlieίen. Das Verhδltnis ist direkt
+proportional:      d.h. aus Q= I.t
+
+m =  Δ . Q
+m =  Δ. I . t
+Das elektrochemisches Δquivalent  Δ gibt die abgeschiedene Masse eines
+Stoffes bei 1A  in 1s an.
+d.h. die abgeschiedene Masse eines Stoffes ist der Stromstδrke, der Zeit
+und dem elektrochemische Δquivalent, proportional.
+
+2. Faradaysches Gesetz:
+
+aus  Δ= [pic]
+m1 : m2 = Δ1 : Δ2 =   [pic] : [pic]
+
+
+Die von der gleichen Elektrizitδtsmenge abgeschiedenen Massen m verhalten
+sich wie ihre elektrochemischen Δquivalente oder wie ihre rel. Atommassen M
+gebrochen durch ihre Wertigkeit z.
+Daher benφtigt man zur Abscheidung von 1 mol eines Δquivalents
+9,6485309 . 104 C = 1Farad [F]
+
+
+2 Galvanische Elemente
+
+
+Metalle, die in ein Lφsungsmittel eintauchen, geben ihre Atome als positive
+Ionen an die Lφsung ab. Dadurch wird das eintauchende Metallstόck negativ
+und die Lφsung positiv geladen. Durch die Anziehungskraft der positiven
+Ionen in Lφsung zum negativ geladenen Metallstόck ergibt sich eine gewisse
+elektrische Spannung bis keine Ionen mehr in Lφsung gehen. Dabei wird auch
+das Auflφsen des Metalls im Lφsungsmittel verhindert. (Bsp. Cu in CuSO4-
+Lsg.)
+Um das Lφsungsbestreben und die Spannung zwischen Metall und Lφsungsmittel
+feststellen zu kφnnen, hat man die Metalle in eine elektrochemische
+Spannungsreihe eingeordnet.
+Bezugselement ist die Normalwasserstoffelektrode mit dem Potential 0.
+Die Normalwasserstoffelektrode ist eine Platinelektrode, die in eine 1
+molare Protonenlφsung eintaucht und von Wasserstoff mit einem Druck von
+1013,25 mbar bei einer Temperatur von 25°C umspόlt wird.
+Beispiele zur elektrochemischen Spannungsreihe:
+
+ElementAuAgCuH2NiCdFeZnPotential [V]1,40,80,340-0,24-0,4-0,44-0,76
+Je edler ein Metall ist, umso geringer ist das Lφsungsbestreben seiner Ionen und umso niedriger ist auch die Spannung zwischen Metall und Lφsungsmittel.     Kupfer lδdt sich nicht so stark negativ auf im Vergleich zu Zink aber negativer als Gold, d.h. Kupfer ist zwar edler als Zink, aber unedler im Vergleich zu Gold.     
+Taucht man zwei verschieden Metalle in eine Elektrolytlφsung, sind beide Elektroden verschieden negativ geladenen. Bei Kupfer und Zink wόrde das Zink negativer geladen sein als das Kupfer. Es entsteht eine elektrische Spannungsquelle, wobei Kupfer der +Pol und Zink der -Pol ist. Die dabei entstandene Spannungsdifferenz ergibt sich aus der elektrochemischen Spannungsreihe.
+Die gelieferte Spannung errechnet man sich aus der Differenz der Einzelpotentiale.  z.B.: Daniell-Element:
+
+  Cu/CuSO4 - Zn/ZnSO4  = 0,34 -(-0,76) = 1,1V
+
+Es erfolgt eine Umwandlung von chemischer Energie in elektrische Energie. Ist dieser Prozess nicht umkehrbar, spricht man von Primδrelementen.
+
+Akkumulatoren (Sammler)
+
+Akkumulatoren sind regenerierbare Galvanische Elemente.
+Sie speichern elektrische Energie in Form von chemischer Energie. Da dieser Prozess umkehrbar ist, spricht man von Sekundδrelementen.
+
+Blei-Akkumulator:
+
+Zwei Bleiplatten tauchen in Schwefelsδure. An der Oberflδche entsteht Bleisulfat. Beim Laden bildet sich an der Anode Bleidioxid, an der Kathode Blei. Die Konzentration der Schwefelsδure steigt, so dass sie ein Maί fόr den Ladezustand des Akkumulators ist.
+
+                               Laden            
+2PbSO4+2H2O                          Pb + PbO2 + 2H2SO4  
+                             Entladen
+
+Eine Zelle liefert bei normaler Belastung ca. 2 V
+
+Nickel-Eisen (Cadmium)-Akkumulator:
+
+Die Anode ist Ni(OH)2, die Kathode Fe(OH)2 oder Cd(OH)2, der Elektrolyt ist 20%ige KOH.
+
+                                       Laden       
+2Ni(OH)2 + Fe(OH)2                                                 2Ni(OH)3 + Fe 
+                                       Entladen 
+  
+Eine Zelle liefert bei normaler Belastung ca. 1,2V
+Werden die Zellen eines Akkumulators in Serie geschalten, bleibt die Stromstδrke gleich, die Spannung summiert sich.
+Werden die Zellen eines Akkumulators parallel geschalten, bleibt die Spannung gleich, die Stromstδrke summiert sich.
+
+
+Stromleitung im Vakuum
+
+Energie und Geschwindigkeit von Elektronen:
+
+Ein Elektron wird im elektrischen Feld von den Feldkrδften in Richtung Anode beschleunigt. Die Geschwindigkeit und kinetische Energie wachsen stδndig.
+Die Energie wird in Elektronenvolt [eV] angegeben.
+Unter einem Elektronenvolt versteht man die Energie, die ein Elektron beim Durchlaufen der Spannung von 1 Volt erreicht.
+
+Elektronenemission aus Metallen:
+
+Ein ideales Vakuum besitzt keine Ladungstrδger, es ist ein Isolator. Elektrischer Strom kann im Vakuum nur flieίen, wenn Ladungstrδger (Elektronen) in den Raum gebracht werden.
+Zum Lφsen aus der Metalloberflδche benφtigt ein Elektron eine bestimmte, stoffabhδngige Energie (mindestens gleich der Ablφse- oder Austrittsarbeit)
+Die notwendige Energie kann auf folgende Arten erreicht werden:
+Thermische Elektronenemission (Glόhemission)
+Feldemission (elektrisches Feld)
+Anwendung: Blitzableiter, Feldelektronenmikroskop usw.
+Photoemission (δuίerer photoelektrischer Effekt, Strahlungsquanten)
+Sekundδremission (Elektronen oder Ionen)
+Anwendung im Sekundδrelektronenvervielfacher (SEV) und Photosekundδrelektronenvervielfacher (Photomultiplier).
+
+Elektronenrφhren:
+
+Es sind Vakuumrφhren mit geheizter Kathode (700 - 800 °C, mit Bariumoxid-Dampf p ( 0,1 mPa). Zwischen Anode und Kathode liegt die Anodenspannung.
+Man unterscheidet
+Dioden (Zweipolrφhren), die fόr die Gleichrichtung von Wechselspannungen (heute meist durch Halbleiterdioden ersetzt) verwendet werden und
+Trioden (Dreipolrφhren), die fόr Verstδrkerrφhren eingesetzt werden ,wenn hohe Leistung, hohe Frequenz oder hohe Temperatur vorliegen (sonst werden sie durch Transistoren ersetzt).
+Sie haben zwischen Kathode und Anode noch ein Steuergitter.
+
+
+Optik
+Lichtausbreitung
+Licht ist physikalisch gesehen eine Energiestrahlung - eine elektromagnetische Strahlung in einem bestimmten Frequenzbereich, die in unserem Auge eine Lichtempfindung hervorruft.
+Art des Strahlenganges
+Nach der Art des Strahlenganges unterscheidet man:
+Divergente Strahlen: Diese gehen von einem gemeinsamen Punkt aus.
+Konvergente Strahlen: Diese laufen auf einen gemeinsamen Punkt zu.
+Diffuse Strahlen: Diese haben weder einen gemeinsamen Ausgangspunkt noch einen gemeinsamen Zielpunkt.
+Geradlinige Ausbreitung
+Licht breitet sich im Raum geradlinig aus, solange es nicht auf ein Hindernis trifft (Schattenbildung mit Kernschatten und Halbschatten).
+Beugung
+Trifft ein Lichtbόndel, das durch einen Spalt geht, auf eine Wand, so ist an dieser ein heller Streifen zu sehen. Die Breite des Streifens ist von der Spaltbreite abhδngig. Wird der Spalt enger, wird auch der Streifen enger. Ab einer gewissen Spaltbreite jedoch gibt es hierbei einen Umkehreffekt. Je enger der Spalt wird, desto breiter wird der Lichtstreifen auf der Wand. Man spricht hier von der Beugung des Lichts. Dieser Effekt entsteht aufgrund der Tatsache, dass das Licht sich als Welle ausbreitet.
+Lichtgeschwindigkeit
+Das ist jene Geschwindigkeit, mit der sich Licht im Vakuum ausbreitet. Sie betrδgt 299792458m/s (ca. 300000 km/s).
+In allen anderen Medien ist sie kleiner (z.B. Wasser 224 km/s, Diamant 122 km/s).
+Reflexion des Lichtes
+Es gibt zwei Arten der Reflexion:
+Regelmδίige Reflexion (Spiegelung)
+Trifft ein Lichtbόndel auf eine polierte Flδche (Spiegel), so wird es nach einer bestimmten Richtung reflektiert und bleibt gebόndelt. 
+Es gelten die Reflexionsgesetze: 
+a) Der Einfallswinkel ist genauso groί wie der Reflexionswinkel.
+b) Einfallender, reflektierter Strahl und Lot liegen in einer Ebene.
+Diffuse Reflexion
+Trifft ein Lichtbόndel auf eine raue Flδche, wird das Lichtbόndel aufgelφst. Die beleuchtete Flδche zerstreut das Licht nach allen Richtungen. 
+(z.B.: Zimmerwδnde, Projektionswδnde)
+
+Durch das Reflexionsgesetz wird nur der Strahlenverlauf fόr alle Spiegel festgelegt. Wie viel aber reflektiert wird, ist vom Material des Spiegels abhδngig. 
+Spiegel
+Ebene Spiegel
+Sie haben glatte Oberflδchen. Die parallel einfallenden Strahlen werden parallel reflektiert. Sie dienen zur Bilderzeugung.
+Gekrόmmte Spiegel
+Hohlspiegel (Konkavspiegel)  
+Dabei unterscheidet man 
+Kugelspiegel (Sphδrische Spiegel):
+Hier werden parallel einfallende Strahlen nach der Reflexion nur annδhernd im Brennpunkt F  gesammelt.
+
+Parabolspiegel: 
+Hier werden parallel einfallende Strahlen nach der Reflexion exakt im Brennpunkt F  gesammelt.
+
+Anwendung: als Objektive im Spiegelteleskop, zur Parallelrichtung von Strahlen einer punktfφrmigen Lichtquelle (Scheinwerfer).
+Wφlbspiegel (Konvexspiegel)
+Parallel zur Spiegelachse einfallende Strahlen werden so reflektiert, als kδmen sie von einem Zerstreuungspunkt Z hinter dem Spiegel.
+Er erzeugt virtuelle (nicht auf einen Schirm auffangbare), aufrechte und verkleinerte Bilder.
+Anwendung: als άberblicksspiegel bei unόbersichtlichen Straίenstellen, Auίenspiegel bei Autos
+Brechung des Lichtes
+
+Lichtbrechung
+An der Grenzflδche zweier Medien wird ein Lichtstrahl nicht nur reflektiert, sondern er tritt mit einem Teil in anderer Richtung in das neue Medium ein.
+Optisch dichtere Medien (Lichtgeschwindigkeit ist wesentlich kleiner als im Vakuum) lenken zum Lot ab, optisch dόnnere Medien (Lichtgeschwindigkeit unwesentlich kleiner oder gleich der Geschwindigkeit im Vakuum) lenken vom Lot weg.
+Totalreflexion
+Beim άbergang von einem dichteren in ein dόnneres Medium darf ein Grenzwinkel nicht όberschritten werden, da sonst Totalreflexion in das dichtere Medium eintritt.
+Anwendung der Totalreflexion:
+Brechzahlbestimmung (Brechungsindexbestimmung) n mit Refraktometer.
+Lichtleiter (Glasfasern mit der Brechzahl n1 werden mit einer dόnnen Schicht   ummantelt,  Brechzahl n2. Wenn n2 < n1 ist, werden die Lichtstrahlen am    Mantelinneren totalreflektiert und Fremdlicht kann von auίen nicht eindringen)
+Fata Morgana (Totalreflexion in Luftschichten)
+Planparallele Platte
+Der Lichtstrahl erfδhrt keine Richtungsδnderung sondern nur eine Parallelverschiebung
+Prisma
+Im Prisma wird der Lichstrahl 2 x gebrochen. Der Brechwinkel hδngt vom Einfallswinkel und der Wellenlδnge das Lichts ab (rotes Licht wird weniger stark gebrochen)
+Linsen
+Sie bestehen aus Glas, Kunststoff oder anderen durchsichtigen Materialien.
+Bei sphδrischen Linsen die Begrenzungsflδchen Teile von Kugeloberflδchen.
+Linsenarten:
+1.) Konvexlinsen (Sammellinsen) sind in der Mitte dicker als am Rand. Sie kφnnen   bikonvex, plankonvex oder konvexkonkav sein.
+ Planparallel eintretende Strahlen werden im Brennpunkt gesammelt
+2.) Konkavlinsen (Zerstreuungslinsen) sind in der Mitte dόnner als am Rand. Sie  kφnnen bikonkave, plankonkave und konkavkonvex sein
+ Sie zerstreuen parallel zur optischen Achsen eintretenden Strahlen so, als ob sie  von einem vor der Linse liegenden Brennpunkt kδmen.
+Optische Gerδte
+Sie dienen zur Bilderzeugung (Projektor oder Fotoapparat) oder zur Vergrφίerung des Sehwinkels (Lupe, Mikroskop, Fernrohr).
+
+ZERLEGUNG DES LICHTS
+Lichtquellen:
+Jeder Kφrper emittiert auf Grund seiner Temperatur Strahlung. Der Wellenlδngenbereich dehnt sich mit steigender Temperatur immer mehr zu den kόrzeren Wellenlδngen-bereichen aus.
+Nicht auf der Temperatur des Kφrpers beruhende Strahlung nennt man Lumineszenz.
+Sie entsteht beim Elektronensprung von kernferneren Bahnen auf kernnδhere Bahnen und ist fόr jedes Element charakteristisch.
+Die Elektronen mόssen durch Energiezufuhr erst auf hφhere Bahnen gehoben werden. 
+Auf Grund dieser Anregung unterscheidet man:
+Anregung mit der Flamme (Flammenfδrbung)
+Anregung mit elektrischem Strom (Elektrolumineszenz)
+chemische Anregung bei Fδulnisprozessen (Chemolumineszenz)
+Anregung mit elektromagnetischen Wellen kurzer Wellenlδnge (Fluoreszenz z.B. Bildrφhre, Leuchstoffrφhre)
+Phosphoreszenz entspricht der Fluoreszenz, nur kommt es nach Beendigung der Bestrahlung zu einem temperaturabhδngigen Nachleuchten.
+Lichtzerlegung:
+Beim Durchgang durch ein Prisma wird ein Lichtstrahl in verschiedene Wellenlδngen zerlegt. Ursache ist die verschiedenen Geschwindigkeit der einzelnen Wellenlδngen im Prisma. Die Ablenkung ist also von der Wellenlδnge abhδngig. Rotes Licht wird weniger stark gebrochen als violettes.
+Wird ein weiίer (polychromatischer) Lichtstrahl gebrochen, entsteht ein Farbband, das als Spektrum bezeichnet wird. Die einzelnen Farben (rot-orange-gelb-grόn-blau-violett) werden als Spektralfarben bezeichnet.
+Wellenlδngen der einzelnen Farbbereiche und ihre Komplementδrfarben:
+      Violett  Blau  Grόn   Gelb   Orange   Rot
+    390   435   495  570   590    630   770nm 
+UV-Bereich      VIS(ibler) sichtbarer Bereich       IR-Bereich
+
+Komplementδrfarben sind Misch- oder Spektralfarben, die sich zu weiί ergδnzen.
+Spektren:
+Licht, das von einer Lichtquelle ausgeht und dann zerlegt wird, bildet ein Emissionsspektrum. Geht das Licht durch einen Kφrper, der bestimmte Wellenlδngen absorbiert, und wird dann zerlegt, entsteht ein Absorptionsspektrum.
+
+a) Emissionsspektren:
+Man unterscheidet drei Arten:
+Kontinuierliche Spektren werden von glόhenden Festkφrpern oder Flόssigkeiten  erhalten.
+Linienspektren werden von atomaren Gasen oder Dδmpfen erzeugt. Sie sind   charakteristisch fόr den Bau der Atomhόlle des jeweiligen Elements.
+Bandenspektren werden von leuchtenden molekularen Gasen oder Dδmpfen   erzeugt. Sie sind charakteristisch fόr die chemische Verbindung.
+Linien- und Bandenspektren werden als diskontinuierliche Spektren bezeichnet und bilden die Grundlage fόr die Spektralanalyse.
+
+b)Absorptionsspektren:
+Lichtdurchlδssige Stoffe absorbieren einen Teil des Lichts. Das vorher kontinuierliche Spektrum wird unterbrochen. Feste und flόssige lichtdurchlδssige Stoffe absorbieren grφίere Bereiche, glόhende Gase und Dδmpfe nur die Wellenlδnge, die sie selbst emittieren (Fraunhofer΄sche Linien).
+Absorptionsspektren sind charakteristisch und dienen zum Nachweis und zur Identifikation eines Stoffes.
+
+Beantworte folgende Fragen:
+1.) Wie verhδlt sich der Wellenlδngenbereich zur Temperatur?
+2.) Wodurch entsteht Lumineszenz?
+3.) Welche Arten der Anregung gibt es?
+4.) Welches Licht wird durch ein Prisma stδrker gebrochen?
+5.) Welche Wellenlδngenbereiche gibt es?
+6.) Was sind Komplementδrfarben?
+7.) Wie entstehen Emissionsspektren?
+8.) Wie entstehen Absorptionsspektren?
+9.) Wie werden Emissionsspektren unterteilt?
+10.) Wofόr sind Linien- und Bandenspektren charakteristisch?
+11.) In welchen Bereich absorbieren glόhende Gase oder Dδmpfe?
+12.) Wozu dienen Absorptionsspektren?
+WELLENOPTIK
+Licht zeigt sich in vielen Fδllen als elektromagnetische Welle.
+Die Frequenz (Schwingungszahl) ist fόr eine bestimmte Lichtart konstant. Die Wellenlδnge hδngt von der Phasengeschwindigkeit im jeweiligen Medium ab.
+
+BEUGUNG:
+Lichtwellen kφnnen wie mechanische Wellen gebeugt werden. An scharfen Kanten (Drδhten, Spalt, Blenden) vorbeilaufendes Licht wird in den Schattenraum gebeugt.
+
+1. Beugung am engen Spalt:
+An den Kanten eines engen Spalts bilden sich Elementarwellen, die je nach Richtung einen Gangunterschied haben. Bei άberlagerung entstehen Maxima (Verstδrkung) oder Minima (Auslφschung).
+
+2. Beugung am Doppelspalt:
+Die Verhδltnisse sind der Beugung am engen Spalt δhnlich. Zur Interferenz gelangen jeweils entsprechende Strahlen beider Spalte.
+
+3. Beugungsgitter:
+Die Beugungserscheinungen sind gleich denen am Doppelspalt. Die Maxima sind wesentlich heller.
+Wichtig ist die Gitterkonstante g (=Summe aus Spaltbreite und Zwischenraum), die bei guten Gittern bis 1700 Spalte/mm geht.
+Wichtig: Rotes Licht wird im Gegensatz zu Prismen am stδrksten gebeugt.
+Je kleiner die Gitterkonstante desto grφίer ist der Beugungswinkel fόr bestimmte Wellenlδngen.
+Die Wellenlδnge einer Lichtstrahlung lδίt sich bei bekannter Gitterkonstante aus der Lage des Maximums bestimmen.
+
+4. Beugungsspektren:
+Tritt in ein Beugungsgitter polychromatisches Licht, so hat jede Wellenlδnge ihr eigenes Beugungsmaximum. Man nennt diese Spektrum Normalspektrum, weil die Lδnge der einzelnen Farbbereiche ihren Wellenlδngen entsprechen. (Am Prisma = Dispersions-spektrum ist der Rotbereich zu gedehnt)
+
+5. Auflφsungsvermφgen:
+Jedes optische Gerδte wirkt mit den Rδndern (Blenden, Fassungen usw.) beugend. Die Auflφsungsgrenze ist der kleinste Winkel oder der kleinste Abstand, unter dem zwei Gegenstandspunkte erscheinen dόrfen, um noch getrennt wahrgenommen zu werden.
+
+Beantworte folgende Fragen:
+1. Wie erscheint Licht in der Wellenoptik?
+2. Wie erfolgt Beugung am engen Spalt?
+3. Wovon ist die Beugung bei Beugungsgittern abhδngig?
+4. Welches Licht wird am stδrksten gebeugt?
+5. Welches Spektrum wird als Normalspektrum bezeichnet?
+6. Wovon ist das Auflφsungsvermφgen eines optischen Gerδts abhδngig?
+POLARISATION
+Eine Welle ist polarisiert, wenn eine bestimmte Schwingungsrichtung bevorzugt wird. Es gibt folgende Mφglichkeiten:
+linear polarisiert
+zirkular polarisiert und
+elliptisch polarisiert.
+Es lassen sich nur Transversalwellen polarisieren. Zirkular und elliptisch polarisierte Wellen lassen sich in je 2 linear polarisierte zerlegen.
+Eine Welle ist linear polarisiert, wenn sie nur in einer Richtung quer zur Ausbreitungsrichtung schwingt. Zur Polarisation verwendet man Polarisatoren ( zum Nachweis Analysatoren). Ein Polarisator lδίt nur eine Komponente mit einer bestimmten Schwingungsrichtung durch.
+
+Polarisation durch Reflexion:
+Hier gilt das Brewster΄sche Gesetz.
+Trifft ein Lichtstrahl unter dem Polarisationswinkel (p (Brewster-Winkel) auf die Grenzflδche, so ist der reflektierte Winkel vφllig polarisiert.
+Reflektierter und gebrochener Strahl bilden einen rechten Winkel.
+
+Polarisation durch Doppelbrechnung:
+Doppelbrechung ist die Eigenschaften bestimmter Stoffe einen Lichtstrahl in einen ordentlichen (o) und einen auίerordentlichen (ao) zu zerlegen. Beiden laufen mit unterschiedlicher Phasengeschwindigkeit in verschiedene Richtungen und sind senkrecht zu einander polarisiert.
+Stoffe, die diese Erscheinung zeigen heiίen anisotrop. Der o-Strahl gehorcht den Brechungsgesetzen, der ao-Strahl wird anders gebrochen. Diese Erscheinung ist auch von der Schwingungsrichtung abhδngig.
+Doppelbrechung tritt auf bei:
+Kristallen (Kalkspat, Quarz, Glimmer, Turmalin usw.)
+durchsichtigen Stoffen (Glas, Kunstharz) unter Einwirkung δuίerer oder innerer  Krδfte
+einigen isotropen Stoffen unter Einfluί des elektrischen Feldes (Kerr-Effekt).
+Verwendet werden:
+Nicol΄sche Prismen (Totalreflexion des o-Strahls)
+Turmalin mit 1 mm Dicke (Totalabsorption des o-Strahls)
+Kunststoffolien, Polarisationsfolien (Totalabsorption eines der beiden Strahlen.  Diese Erscheinung heiίt Dichroismus)
+Spannungsdoppelbrechung:
+Viele isotrope Stoffe werden durch elastische Verformung (Druck, Zug, Biegung, Torsion) doppelt brechend.
+Kerr-Effekt:
+Elektrische Felder erzeugen in isotropen Stoffen aller Aggregatszustδnde Doppelbrechung (der Kerr-Effekt ist eine elektrooptische Erscheinung). Sie tritt besonders bei Nitrobenzol und Nitrotoluol auf.
+Drehung der Schwingungsebene:
+Optisch aktive Stoffe drehen die Schwingungsebene des linear polarisierten Lichts. Die Drehung ist proportional der Lδnge des Lichtwegs und der Konzentration des Stoffes.
+Die spezifische Drehung gilt nur fόr wδίrige Lφsungen bei 20°C und die D-Linie (( = 589,3 nm)
+Verwendung: zur Konzentrationsbestimmung optisch aktiver Stoffe und zur Kontrolle von Reaktionen (z.B.: Invertierung von Saccharose).1
+
+Beantworte folgende Fragen: 
+1. Welche Mφglichkeiten der Polarisation gibt es? 
+2. Welches Gesetz gilt fόr die Polarisation durch Reflexion? Wie lautet es? 
+3. Wie funktioniert Polarisation durch Doppelbrechung? 
+4. Was sind anisotrope Stoffe? (Nenne einige Beispiele!) 
+5. Wie kφnnen isotrope Stoffe in anisotrope verwandelt werden? 
+6. Was ist der Kerr-Effekt? 
+7. Wovon ist die Drehung des polarisierten Lichtstrahls abhδngig? 
+8. Wozu wird sie verwendet? 
+Literaturverzeichnis
+
+Breuer H., Breuer R. (2000). dtv - Atlas Physik Band 1. Mόnchen: Deutscher Taschenbuch Verlag GmbH & Co. KG
+
+Breuer H., Breuer R. (2000). dtv - Atlas Physik Band 2. Mόnchen: Deutscher Taschenbuch Verlag GmbH & Co. KG
+
+Hammer K., Morass H., Raab E. (1977). Lehrbuch der Physik. Wien: R. Oldenbourg Verlag
+
+Ignatowitz E. (1994). Chemietechnik. 42781 Haan - Gruiten, Dόsselberger Straίe 23: Verlag Europa - Lehrmittel
+
+Seyr S., Schwaiger H. (1998). Elektrotechnik Grundlagen. Wien: Bohmann  Druck und Verlag Ges.m.b.H & Co. KG.
+
+Wittenberger W. (1988). Rechnen in der Chemie. Wien: Springer - Verlag
+
+Peyer H., Schubert W. (1993). Laboratoriumsόbungen II - Quantitatives anorganisch-, physikalisch- und organisch- chemisches Praktikum. Wien: Verlag des ΦGB
+[pic]
+-----------------------
+               FRes .
+
+
+  
+           F
+  Flόssigkeit
+
+
+
+Flόssigkeit
+
+Grenzschicht
+
+   Oberflδche
+
+"x
+
+F
+
+Federwaage
+
+Drahtbόgel
+
+V
+
+±
+
+
+
+Wasser
+
+±
+
+H2O
+
+±
+
+Quecksilber
+
+±
+
+Hg
+
+
+
+
+
+
+  
+           F
+  Flόssigkeit
+
+
+
+Flόssigkeit
+
+Grenzschicht
+
+   Oberflδche
+
+?x
+
+F
+
+Federwaage
+
+Drahtbόgel
+
+V
+
+?
+
+
+
+Wasser
+
+?
+
+H2O
+
+?
+
+Quecksilber
+
+?
+
+Hg

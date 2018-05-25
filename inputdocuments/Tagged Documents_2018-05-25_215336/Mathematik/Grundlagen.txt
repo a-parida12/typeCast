@@ -1,0 +1,2296 @@
+Grundlagen der Mathematik
+Mathias Schacht
+Fachbereich Mathematik
+UniversitaĚt Hamburg
+
+WS 2011/12
+Stand: 1. Dezember 2011
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Vorwort
+Diese Folien behandeln in Kurzform einige Grundlagen der Mathematik ausgehend
+von der axiomatischen Mengenlehre nach Zermelo, Fraenkel und anderen und entstanden fuĚr die Vorlesung Lineare Algebra und Analytische Geometrie
+im Wintersemester 2011/12 an der UniversitaĚt Hamburg.
+GroĂe Teile basieren auf dem Vorlesungsskript von Reinhard Diestel zur gleichnamigen Vorlesung.
+Aufgrund der zeitlichen BeschraĚnkungen konnten viele wichtige Themen, wie z. B.
+Kardinalzahlen, Ordinalzahlen, Theorie der Wohlordnungen, nur sehr kurz oder gar
+nicht behandelt werden.
+Eine empfehlenswerte und umfassende EinfuĚhrung in die Mengenlehre findet man
+zum Beispiel in dem gleichnamigen Buch von Ebbinghaus:
+H.-D. Ebbinghaus, EinfuĚhrung in die Mengenlehre,
+Spektrum Akademischer Verlag, 4. Auflage, 2003
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+UĚbersicht
+0 Naive Mengenlehre und Russels Paradoxon
+1 Aussagenlogik
+2 Axiomatische Mengenlehre
+3 NatuĚrliche Zahlen
+4 Relationen und Funktionen
+5 AĚquivalenzrelationen
+6 Ordnungsrelationen und Lemma von Zorn
+7 MaĚchtigkeiten, KardinalitaĚten
+8 Ganze, rationale und reelle Zahlen
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Kapitel 1
+Naive Mengenlehre und Russels Paradoxon
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Naive Mengenlehre
+Fragen im 19. Jahrhundert:
+Was sind die Grundlagen der Mathematik/Arithmetik?
+Was sind Zahlen? Was sind Mengen? Darf es unendliche Mengen geben?
+Idee/Definition (Ende 19. Jahrhundert, Cantor 1895)
+Mengen sind ungeordnete Zusammenfassungen von wohlunterschiedenen
+Objekten (unseres Denkens) zu einem Ganzen.
+Beispiele: {1010 , 1, Ď, 19, 2001}, Menge der natuĚrlichen Zahlen, {A, x, 1, B}
+Definition (Frege 1893)
+FuĚr jedes sprachliche PraĚdikat P gibt es die Menge MP aller der Objekte O, auf
+die das PraĚdikat P zutrifft
+MP = {O : P(O)} .
+Objekte O fuĚr die P(O) gilt, heiĂen Elemente von MP
+O â MP .
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Russels Paradoxon
+Antinomie (Russel 1903)
+Sei P das PraĚdikat x enthaĚlt sich nicht selbst als Element,â d. h.
+â
+MP = {O : O 6â O} .
+Widerspruch: MP 6â MP genau dann, wenn MP â MP .
+Beweis: Auf der einen Seite erhalten wir
+MP 6â MP â MP enthaĚlt sich nicht selbst als Element
+â P(MP ) gilt â MP â MP
+und auf der anderen Seite erhalten wir
+MP â MP â MP enthaĚlt sich selbst als Element
+â P(MP ) gilt nicht â MP 6â MP
+=â MP kann nicht existieren
+Freges Ansatz ist nicht widerspruchsfrei!
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+AufloĚsung des Paradoxons
+Probleme in Freges Definition:
+Was ist ein PraĚdikat? Wann ist ein PraĚdikat wahrâ, wann giltâ es?
+â
+â
+Was sind Objekte? Gibt es eine Grundmengeâ aller Objekte?
+â
+Ausweg:
+Formalisierung mathematischer Sprache (Aussagen) und Regeln
+â mathematische Logik
+Benennung als wahr angenommener Grundaussagen (Axiome)
+â axiomatische Mengenlehre
+der Wahrheitswert aller anderen Aussagen wird formal mit Hilfe der Regeln
+aus den Axiomen hergeleitet (Beweis)
+â Mathematik
+Probleme:
+(innere) Widerspruchsfreiheit der Regeln und Axiome
+VollstaĚndigkeit â Sind alle wahren Aussagen beweisbar?
+Mathias Schacht
+
+Mengenlehre
+
+unentscheidbar
+Nein, GoĚdel
+WS 2011/12
+
+Bemerkungen
+Idee
+Das mathematische Universumâ besteht ausschlieĂlich aus Mengen, ist also ein
+â
+System von Mengen. Jede Menge besteht aus wohlunterschiedenen Elementen,
+welche wiederum Mengen sind. Mengen stehen zu einander in Beziehung:
+M â N, die Menge N enthaĚlt die Menge M als Element,â
+â
+N = {. . . , M, . . . } .
+M â N, die Menge N enthaĚlt die Menge M als Teilmenge,â
+â
+d. h. jedes Element von M ist auch in N als Element enthalten.
+Wir schreiben M = N, wenn sowohl M â N als auch N â M gilt.
+Die Axiome der Mengenlehre beschreiben, welche Grundmengenâ es gibt und wie
+â
+man aus gegebenen Mengen neue Mengen erhaĚlt.
+
+Bsp.: M = {m, n, o} , N1 = {a, b, . . . , z} , N2 = {a, b, c}, {b, c, d}, . . . , {x, y , z}
+Dann gilt:
+M â N1 , M 6â N1 , M * N2 , M â N2 .
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Kapitel 2
+Aussagenlogik
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Aussagenlogik
+Definition (Aussagen)
+Aussagen sind Zeichenfolgen (AusdruĚcke) bestehend aus (u. U. verzierten)
+lateinischen, griechischen, hebraĚischen, . . . Buchstabenâ (Bezeichner) und
+â
+Symbolen (, ), {, }, [, ], â, â, =, : , ÂŹ, â¨, â§, â, â.
+Hierbei liest man
+: als so dass,
+
+ÂŹ als nicht,
+
+â¨ als oder,
+
+â§ als und,
+
+â als wenn . . . , dann . . . ,
+
+â als . . . genau dann, wenn . . . .
+
+FuĚr je zwei Mengen A und B sind die AusdruĚcke A â Bâ und A â Bâ
+â
+â
+primitive Aussagen.
+FuĚr zwei Aussagen p und q sind die AusdruĚcke ÂŹpâ, p â¨ qâ, p â§ qâ,
+â
+â
+â
+p â qâ und p â qâ zusammengesetzte Aussagen.
+â
+â
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Wahrheitsgehalt von Aussagen
+Definition (Wahrheitswerte)
+Primitive Aussagen der Form A â Bâ (bzw. A â Bâ) sind wahr, wenn die
+â
+â
+Mengen A und B in der Beziehung A â B (bzw. A â B) stehen und ansonsten
+sind sie falsch.
+FuĚr aus Aussagen p und q zusammengesetzte Aussagen gilt:
+
+wahr wenn p falsch ist,
+ÂŹp ist
+falsch sonst, d. h. wenn p wahr ist,
+
+wahr wenn mindestens eine der Aussagen p oder q wahr ist,
+p â¨ q ist
+falsch sonst, d. h. wenn keine der Aussagen p und q wahr ist,
+
+wahr wenn beide Aussagen p und q wahr sind,
+p â§ q ist
+falsch sonst, d. h. wenn hoĚchstens eine der Aussagen p, q wahr ist,
+
+wahr wenn q wahr ist oder wenn p falsch ist,
+p â q ist
+falsch sonst, d. h. wenn p wahr und q falsch ist,
+
+wahr wenn p und q beide wahr oder wenn beide falsch sind,
+p â q ist
+falsch sonst, d. h. wenn p und q unterschiedliche Wâwerte haben.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Reductio ad absurdum
+Widerspruchsbeweis bzw. indirekter Beweis
+Mit Hilfe der Implikation (â, wenn . . . , dann . . . ) kann eine Aussage p durch
+Widerspruch bewiesen werden. DafuĚr muss fuĚr eine bekannte falsche Aussage q die
+Implikation
+(ÂŹp) â q
+bewiesen werden, d. h. man beweist die Richtigkeit der Aussage
+wenn p falsch ist, dann ist q wahr.â
+â
+Da q aber falsch ist, kann p somit nicht falsch sein, also muss p wahr sein.
+â
+Bsp.: p = 2 ist irrationalâ und q = es gibt teilerfremde a, b fuĚr die a/b kuĚrzbar istâ
+â
+â
+q ist offensichtlich falsch
+â
+Angenommen ÂŹp ist wahr â 2 = a/b fuĚr teilerfremde natuĚrliche Zahlen a, bâ
+â 2b 2 = a2 â 2 teilt a2
+â da 2 eine Primzahl ist, teilt 2 somit auch a, d. h. a = 2a1 fuĚr geeignetes a1
+â 2b 2 = a2 = 4a12 â b 2 = 2a12 â 2 teilt b 2 â 2 teilt b, d. h. b = 2b1
+â a/b = (2a1 )/(2b1 ) = a1 /b1 â q ist wahr
+Also muss ÂŹp falsch sein und somit ist p wahr, d. h.
+Mathias Schacht
+
+Mengenlehre
+
+â
+
+2 ist irrational
+WS 2011/12
+
+Aussageformen
+Definition (Aussageform)
+Ersetzt man in einer Aussage eine oder mehrere darin auftretende Bezeichnungen
+fuĚr Mengen durch (als besondersâ vereinbarte und sonst in der Aussage nicht
+â
+verwendete) Symbole, die wir freie Variablen nennen werden, und zwar fuĚr jede
+ersetzte Mengenbezeichnung all ihre Vorkommnisse durch die gleiche Variable, so
+nennt man den dadurch entstehenden Ausdruck eine Aussageform.
+Beispiel: Seien A, B, C Mengen und x eine freie Variable. Ersetzt man B durch x
+in der Aussage
+p = (A â B) â¨ (B â C ) ,
+so erhaĚlt man die Aussageform
+p(x) = (A â x) â¨ (x â C ) ,
+die alle die Mengen beschreibtâ, die A als Element enthalten oder eine
+â
+Teilmenge von C sind. Allerdings sind
+p(x) = (x â B) â¨ (B â x)
+
+und p(x) = (A â x) â¨ (B â C )
+
+keine Aussageform, welche aus p gewonnen werden koĚnnen. (Warum?)
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Quantoren: â und â
+Definition (Allaussagen und Existenzaussagen)
+Sei p(x) eine Aussageform. Dann ist
+(âx)p(x) eine Aussage; die Allaussage.
+(âx)p(x) eine Aussage; die Existenzaussage.
+Die freie Variable x in p(x) heiĂt dann gebundene Variable in der All-/Existenzaussage.
+In All-/Existenzaussagen kann durch EinfuĚhrung einer neuen Variablen eine neue
+Aussageform gebildet werden, die durch einen weiteren Quantor wieder gebunden
+werden kann.
+Definition (Wahrheitswerte von All- und Existenzaussagen)
+FuĚr eine Aussageform p(x) gilt:
+
+wahr wenn p(M) fuĚr jede Menge M wahr ist
+(âx)p(x) ist
+falsch sonst, d. h. wenn es eine Menge M gibt fuĚr die p(M) falsch ist,
+
+wahr wenn es eine Menge M gibt fuĚr die p(M) wahr ist
+(âx)p(x) ist
+falsch sonst, d. h. p(M) fuĚr jede Menge M falsch ist.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Bemerkungen
+FuĚr Aussagen p und q und eine Aussageform p(x) gelten:
+
+ÂŹ(p â¨ q) â (ÂŹp) â§ (ÂŹq) ,
+ÂŹ(p â§ q) â
+
+
+p â q â ÂŹq â ÂŹp ,
+(p â ÂŹq) â
+
+
+
+ÂŹ (âx)p(x) â (âx) ÂŹp(x) ,
+ÂŹ (âx)p(x) â
+
+(ÂŹp) â¨ (ÂŹq) ,
+
+
+q â ÂŹp) ,
+(âx) ÂŹp(x) .
+
+
+FuĚr eine Menge M schreiben wir abkuĚrzend:
+(âx â M) p(x)
+
+fuĚr
+
+(âx â M) p(x)
+
+fuĚr
+
+(âx) x â M â p(x) ,
+
+(âx) x â M â§ p(x) .
+
+
+Insbesondere ist (âx â M)p(x) fuĚr alle Aussageformen p(x) wahr, falls M keine
+Elemente enthaĚlt.
+Mengen und Klassen
+FuĚr eine Aussageform p(x) ist im Fregeâschen Sinne die Zusammenfassungâ {M : p(M)}
+â
+aller Mengen M, fuĚr die p(M) gilt, eine Menge und fuĚr die Aussageform x 6â x ergibt sich
+Russels Paradoxon. Die folgenden Axiome werden diese Mengenbildungâ nicht zulassen.
+â
+Zusammenfassungen der Form {M : p(M)} bezeichnet man als Klassen. Nicht alle
+Klassen sind Mengen und Klassen die keine Mengen sind (wie z. B. die Russelâsche
+Klasse {M : M 6â M}) heiĂen echte Klassen.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Kapitel 3
+Axiomatische Mengenlehre
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Axiome der Mengenlehre
+
+Teil 1
+
+1 Existenz der leeren Menge: Es existiert eine Menge die kein Element enthaĚlt.
+(âx)(ây )(y â
+/ x)
+2 ExtensionalitaĚtsaxiom: Zwei Mengen sind genau dann gleich, wenn sie die gleichen
+Elemente enthalten.
+
+
+
+(âx)(ây ) (x = y ) â (âz) (z â x) â (z â y )
+3 Paarmengenaxiom: FuĚr je zwei Mengen A, B existiert die Menge {A, B}.
+
+
+(âx)(ây )(âz)(âu) (u â z) â (u = x) â¨ (u = y )
+S
+4 Vereinigungsmengenaxiom: FuĚr jede Menge A gibt es eine Menge A deren Elemente
+die Elemente der Elemente von 
+A sind.
+
+(âx)(ây )(âz) (z â y ) â (âu) (u â x) â§ (z â u)
+5 Potenzmengenaxiom: FuĚr jede Menge A existiert die Potenzmenge P(A) die alle
+Teilmengen von A als Elemente enthaĚlt.
+
+
+(âx)(ây )(âz) (z â y ) â (âu â z)(u â x)
+6 Sondierungsaxiom: FuĚr jede Menge A und jede Aussageform p(x) existiert die Menge
+{A 0 â A : p(A 0 )}, die Teilmenge von A deren Elemente p(x) erfuĚllen.
+
+
+(âx)(ây )(âz) (z â y ) â z â x) â§ p(z)
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Folgerungen aus den ersten sechs Axiomen
+Aus den ersten beiden Axiomen ergibt sich, dass es genaue eine leere Menge gibt, welche
+wir mit â bezeichnen.
+Wegen des ExtensionalitaĚtsaxioms enthaĚlt jede Menge jedes ihrer Elemente genau einmal.
+Genauer, da {A, B, B} und {A, B} dieselben Elemente enthalten gilt {A, B, B} = {A, B}.
+Das Paarmengenaxiom kann auch fuĚr den Fall B = A angewandt werden. Dann besagt es
+(zusammen mit dem ExtensionalitaĚtsaxiom), dass {A, A} = {A} fuĚr jede Menge A eine
+Menge ist.
+Das Paarmengenaxiom zusammen mit dem Vereinigungsaxiom ergibt, dass die
+Vereinigung der Elemente zweier Mengen wieder eine Menge ist. D. h. fuĚr alle Mengen A
+und B gibt es die Menge
+[
+A âŞ B := {A, B} ,
+welche alle Elemente aus A und alle Elemente aus B als Elemente enthaĚlt.
+Das Vereinigungsaxiom zusammen
+mit dem Sondierungsaxiom ergibt fuĚr jede Menge A die
+T
+Existenz der Schnittmenge A, welches nur die Elemente enthaĚlt die in jedem Element
+von A enthalten sind
+\
+[
+00
+A := A â
+A : (âA 0 â A)(A 00 â A 0 ) .
+T
+Anstelle von {A, B} schreiben wir A âŠ B.
+Falls A âŠ B = â, dann sind die beiden Mengen A und B disjunkt.
+Eine weitere Folgerung des Sondierungsaxioms ist die Existenz der Differenz(menge)
+zweier Mengen A und B
+A \ B := {A 0 â A : A 0 6â B} .
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Axiome der Mengenlehre
+
+Teil 2
+
+7 Unendlichkeitsaxiom: Es gibt eine Menge N, die die leere Menge als Element enthaĚlt und
+fuĚr jede Menge A, die ein Element von N ist, auch den Nachfolger A+ := A âŞ {A} in N als
+Element enthaĚlt.
+
+
+(âx) (â â x) â§ ây â x)((y âŞ {y }) â x)
+8 Ersetzungsaxiom: Das Bild einer Menge unter einer Funktionâ ist eine Menge. FuĚr jede
+â
+Aussagenform p(x, y ) mit der Eigenschaft, dass fuĚr jede Menge A genau eine Menge B
+existiert fuĚr die p(A, B) gilt, und fuĚr jede Menge M ist die Zusammenfassung der N 0 , fuĚr
+die eine N â M mit p(N, N 0 ) existiert, eine Menge.
+
+(âx)(ây )(âz) (z â y ) â ((âu â x)p(u, z))
+9 Fundierungsaxiom: Jede nicht leere Menge A enthaĚlt ein Element A 0 , deren Schnitt mit A
+leer ist.
+
+
+(âx)(x 6= â) â (ây â x)(âz â y )(z 6â x)
+10 Auswahlaxiom: FuĚr jede nicht leere Menge A bestehend aus paarweise disjunkten nicht
+leeren Mengen existiert eine Menge B, die aus jeder Menge A 0 â A genau ein Element
+enthaĚlt.
+
+
+(âx) (ây â x)(y 6= â) â§ (ây â x)(âz â x) (y 6= z) â (y âŠ z = â)
+â (âu)(ây â x)(â!z â y )(z â u)
+Hierbei steht â! fuĚr es existiert genau einâ, d.
+ h. (â!x)p(x) ist genau dann wahr, wenn die
+â
+Aussage (âx) p(x) â§ (ây )((y 6= x) â ÂŹp(y )) wahr ist.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Bemerkungen
+Streng genommen darf man in den formalen Beschreibungen der Axiome
+(7-10) nicht die leere Menge, âŞ, âŠ benutzen. Man kann (mit etwas UĚbung)
+uĚberpruĚfen, dass es reineâ Aussagen gibt, die genau dasselbe besagen.
+â
+Axiome 1-7 gehen auf die Arbeiten von Zermelo zuruĚck und das Ersetzungsund das Fundierungsaxiom wurden von Fraenkel, Skolem und von Neumann
+hinzugefuĚgt. Axiome 1-9 werden nach Zermelo und Fraenkel als ZF
+bezeichnet. Das Auswahlaxiom (Axiom of Choice) wird manchmal auf Grund
+seiner Konsequenzen kritisch gesehen. (Z. B. wird in Beweisen manchmal
+extra darauf hingewiesen, wenn Konsequenzen des Auswahlaxioms benoĚtigt
+werden.) Axiome 1-10 werden typischerweise mit ZFC bezeichnet.
+Es folgt aus dem Fundierungsaxioms (zusammen mit dem
+Paarmengenaxiom), dass fuĚr Mengen A und B niemals sowohl A â B, als
+auch B â A gelten kann. Insbesondere gibt es keine Menge A mit A â A.
+â
+
+Menge aller Mengenâ ist keine Menge und ist eine echte Klasse
+â
+â Vermeidung von Russels Paradoxon
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Kapitel 4
+NatuĚrliche Zahlen
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Induktive Mengen
+Definition (induktive Menge)
+Eine Menge N heiĂt induktiv, falls N die Eigenschaft des Unendlichkeitsaxioms
+erfuĚllt, d. h. â â N und fuĚr alle A â N ist der Nachfolger A+ := A âŞ {A} ein
+Element von N.
+Lemma 1
+T
+
+Falls alle Elemente von A 6= â induktiv sind, dann ist A induktiv.
+Insbesondere ist die Schnittmenge zweier induktiver Mengen wieder induktiv.
+Beweis.
+Da alle Elemente von A induktive Mengen sind, gilt â â A 0 fuĚr alle A 0 â A.
+T
+âââ A
+X
+T
+Sei B â A beliebig.
+â B â A 0 fuĚr alle A 0 â A
+Da alle Elemente von A induktive Mengen sind, gilt B + â A 0 fuĚr alle A 0 â A.
+T
++
+âB â A
+X
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+NatuĚrliche Zahlen
+Satz 2
+Es gibt genau eine induktive Menge, die Teilmenge einer jeden induktiven Menge ist.
+Beweis.
+Unendlichkeitsaxiom â es existiert eine induktive Menge A
+Potenzmengen- und Sondierungsaxiom â es gibt B := {B 0 â P(A) : B 0 induktiv}
+T
+da A â B, gilt B 6= â und somit ist wegen Lemma 1 die Menge C := B induktiv
+Beh.: Die Menge C hat die gesuchte Eigenschaft.
+ââ Sei D eine beliebige induktive Menge.
+â
+â Teilmenge D âŠ A von A ist induktiv (Lemma 1) â (D âŠ A) â B
+â C â (D âŠ A) â C â D
+X
+â!â Angenommen C 0 ist induktive Menge, die in jeder induktiven Menge enthalten ist.
+â
+â insbesondere C 0 â C , aber es gilt C â C 0 (wegen ââ-Teil oben)
+â
+â C 0 = C nach dem ExtensionalitaĚtsaxiom
+X
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+NatuĚrliche Zahlen
+Satz 2
+Es gibt genau eine induktive Menge, die Teilmenge einer jeden induktiven Menge ist.
+Bemerkung: Jede induktive Menge enthaĚlt die Elemente â, {â}, {â, {â}}, {â, {â}, {â, {â}}},
+usw. und die Menge aus Satz 2 enthaĚlt auch keine anderen.
+Definition (natuĚrliche Zahlen - N)
+Die induktive Menge aus Satz 0.1 identifizieren wir mit der Menge der natuĚrlichen
+Zahlen, welche wir mit N bezeichnen. D. h. jedes Element der induktiven Menge N
+entspricht einer natuĚrlichen Zahl.
+Wir fuĚhren folgende (vereinfachende) Schreibweisen ein:
+0 := â = { },
+
+kleinste natuĚrliche Zahl (hier)
+
+1 := 0+ = { â } = {0},
+2 := 1+ = { â, { â } } = {0, 1},
+3 := 2+ = { â, { â }, { â, { â } } } = {0, 1, 2}, . . .
+Wir sagen eine natuĚrliche Zahl n ist kleiner (bzw. kleiner gleich) einer natuĚrlichen
+Zahl m und schreiben n < m (bzw. n â¤ m), falls gilt n â m (bzw. n â m+ ).
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Beweisprinzip der vollstaĚndigen Induktion
+Korollar 3
+Jede induktive Teilmenge von N ist gleich N.
+Beweis.
+Falls M â N induktiv ist, dann gilt wegen Satz 2 und der Definition von N auch N â M
+und somit wegen des ExtensionalitaĚtsaxioms auch M = N.
+Korollar 4 (vollstaĚndige Induktion)
+Sei p(x) eine Aussageform. Falls
+Induktionsanfang: p(0) wahr ist (d. h. p(â) ist wahr) und
+Induktionsschritt: fuĚr alle n â N gilt die Implikation: p(n) â p(n+ ),
+dann gilt p(n) fuĚr alle n â N.
+Beweis.
+Nach dem Induktionsanfang und dem Induktionsschritt folgt, dass die Menge der n â N
+fuĚr die p(n) gilt eine induktive Teilmenge von N ist. Also folgt Korollar 4 wegen
+Korollar 3.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Beispiel - vollstaĚndige Induktion
+Korollar 4 (vollstaĚndige Induktion)
+Sei p(x) eine Aussageform. Falls
+Induktionsanfang: p(0) wahr ist (d. h. p(â) ist wahr) und
+Induktionsschritt: fuĚr alle n â N gilt die Implikation: p(n) â p(n+ ),
+dann gilt p(n) fuĚr alle n â N.
+Beispiele: (gewohnte Arithmetik der natuĚrlichen Zahlen aus der Schule vorausgesetzt)
+Beh.: Die Summe der natuĚrlichen Zahlen â¤ n ist
+
+n(n+1)
+.
+2
+
+0 = 0Âˇ(0+1)
+X
+Induktionsanfang (n = 0):
+2
+Induktionsannahme (â) (fuĚr n):
+es gelte 0 + 1 + Âˇ Âˇ Âˇ + n = n(n+1)
+2
+Induktionsschritt (von n nach n + 1):
+(â) n(n + 1)
+0 + 1 + Âˇ Âˇ Âˇ + n + (n + 1) = (0 + 1 + Âˇ Âˇ Âˇ + n) + (n + 1) =
++ (n + 1)
+2
+n(n + 1) + 2(n + 1)
+(n + 2)(n + 1)
+(n + 1)(n + 2)
+=
+=
+=
+2
+2
+2
+
+Mathias Schacht
+
+Mengenlehre
+
+X
+
+WS 2011/12
+
+Varianten vollstaĚndiger Induktion
+Varianten
+1 Induktionsanfang (IA) fuĚr n0 und Induktionsschritt (IS) von jedem n âĽ n0 nach n+
+
+â p(n) gilt fuĚr alle n â N mit n âĽ n0
+2 IA fuĚr n0 und n0+ und IS fuĚr jedes n âĽ n0 von n und n+ nach (n+ )+
+
+â p(n) gilt fuĚr alle n â N mit n âĽ n0
+
+3 IA fuĚr n0 und IS fuĚr jedes n âĽ n0 gilt die Implikation (p(n0 ) â§ Âˇ Âˇ Âˇ â§ p(n)) â p(n+ )
+
+â p(n) gilt fuĚr alle n â N mit n âĽ n0
+
+4 Doppelte Induktion: Aussage (âm â N)(ân â N)p(m, n)
+(i )
+(ii )
+(iii )
+
+Zeige: p(0, 0)
+Zeige fuĚr alle m, n â N: p(m, n) â p(m, n+ )
+Zeige fuĚr alle m â N: (ân â N)p(m, n) â p(m+ , 0)
+
+(IA)
+(innerer IS)
+(aĚuĂerer IS)
+
+Bemerkungen:
+es gibt offensichtliche Verallgemeinerungen von 2 und 4
+oftmals laĚsst sich Doppelinduktion vermeiden und durch einfache Induktion nach
+m + n ersetzen
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+VorgaĚnger
+Definition (VorgaĚnger)
+Falls m+ = n, dann heiĂt m VorgaĚnger von n.
+Satz 5
+FuĚr jede natuĚrliche Zahl n 6= 0 gibt es genau einen VorgaĚnger nâ mit (nâ )+ = n.
+Beweis.
+ââ Annahme: n â N mit n 6= 0 hat keinen VorgaĚnger
+â
+â N \ {n} ist induktive Menge
+â Widerspruch zu Korollar 3
+X
+â!â Annahme: n = m1+ und n = m2+ mit m1 6= m2
+â
+â n = m1 âŞ {m1 } und n = m2 âŞ {m2 }, also m1 â n und m2 â n
+â da m1 6= m2 gilt m2 â n \ {m1 } und wegen n \ {m1 } = m1 , folgt m2 â m1
+â gleiche Argumentation mit m1 und m2 vertauscht ergibt m1 â m2
+â Widerspruch in ZFC (siehe Bemerkungen nach den Axiomen)
+X
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Addition in N
+Definition (Addition +â)
+â
+Wir definieren rekursivďŁądie Summe n + m zweier natuĚrlicher Zahlen n und m wie folgt:
+ďŁ´
+0,
+falls m = 0 und n = 0,
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁ˛m,
+falls m > 0 und n = 0,
+m + n :=
+ďŁ´
+n,
+falls m = 0 und n > 0,
+ďŁ´
+ďŁ´
+ďŁ´
+ďŁł
+((mâ + nâ )+ )+ , sonst, d. h. falls m > 0 und n > 0.
+Insbesondere gilt: 0 + 1 = 1 = 0+ und fuĚr alle m > 0
+m + 1 = ((mâ + 0)+ )+ = ((mâ )+ )+ = m+ .
+Satz 6
+Die Addition auf N ist kommutativ, d. h. m + n = n + m fuĚr alle m, n â N.
+Beweis.
+O.B.d.A. sei m â¤ n (Warum?). Wir fuĚhren Induktion nach n. FuĚr den (IA) sei n = 0.
+Dann ist m = 0 und m + n = 0 + 0 = 0 = 0 + 0 = n + m.
+X
+Sei nun n > 0 und wir nehmen an (Induktionsannahme), dass der Satz bereits fuĚr nâ gilt.
+Falls m = 0 dann folgt aus der Definition 0 + n = n = n + 0.
+Falls m > 0, dann folgt aus der Induktionsannahme mâ + nâ = nâ + mâ und somit gilt
+m + n = ((mâ + nâ )+ )+ = ((nâ + mâ )+ )+ = n + m.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Multiplikation in N
+Definition (Multiplikation Âˇâ)
+â
+Wir definieren rekursiv das Produkt n Âˇ m zweier natuĚrlicher Zahlen n und m wie folgt:
+
+0,
+falls m = 0 oder n = 0,
+m Âˇ n :=
+
+â
+â
+â
+â
+(m Âˇ n ) + (m + n ) + 1, sonst, d. h. falls m > 0 und n > 0.
+Insbesondere: 0 Âˇ 1 = 0 und fuĚr alle m > 0 gilt
+m Âˇ 1 = ((mâ Âˇ 0) + (mâ + 0)) + 1 = (0 + mâ )+ = (mâ )+ = m .
+Wir schreiben oftmals abkuĚrzend mn an Stelle von m Âˇ n.
+Satz 7
+Die Multiplikation auf N ist kommutativ, d. h. mn = nm fuĚr alle m, n â N.
+Beweis.
+Sehr aĚhnlich wie der Beweis von Satz 6. (Tipp: Nutze die Symmetrie der etwas
+umstaĚndlichen Definition der Multiplikation aus.)
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Rechenregeln in N
+Satz 8
+Die Addition und die Multiplikation in N sind assoziativ und es gilt das
+Distributivgesetz. D. h. fuĚr alle a, b, c â N gilt:
+(a + b) + c = a + (b + c),
+
+AssoziativitaĚt der Addition
+
+(a Âˇ b) Âˇ c = a Âˇ (b Âˇ c) und
+
+AssoziativitaĚt der Multiplikation
+
+(a + b) Âˇ c = (a Âˇ c) + (b Âˇ c).
+
+Distributivgesetz
+
+Notation
+wegen der AssoziativitaĚt koĚnnen wir bei Summen und Produkten auf Klammern
+verzichten
+bei ungeklammerten gemischten Termen gilt Punktrechnung vor Strichrechnungâ
+â
+Pk
+wir schreiben i=1 xi fuĚr x1 + Âˇ Âˇ Âˇ + xk
+Q
+wir schreiben ki=1 xi fuĚr x1 Âˇ Âˇ Âˇ Âˇ Âˇ xk
+P
+die leere Summe (z. B. 0i=1 xi ) ergibt 0 und das leere Produkt ergibt 1
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Beweis der Rechenregeln
+
+Teil 1
+
+FuĚr natuĚrliche Zahlen a âĽ 0 und b âĽ 1 zeigen wir erst
+a + b = (a + b â )+ .
+
+(1)
+
+Die Aussage ist offensichtlich, falls a = 0 und von nun an nehmen wir an, dass
+a âĽ 1.
+Wir fuĚhren nun Induktion nach b. Falls b = 1, dann gilt a + b = a + 1 = a+ und
+(a + b â )+ = (a + 0)+ = a+ , was den Induktionsanfang ergibt. FuĚr den
+Induktionsschritt (von b nach b + 1 = b + ) beobachten wir
+Def.
+
+I.V.
+
+a + b + = ((aâ + b)+ )+ = (((aâ + b â )+ )+ )+ .
+Auf der anderen Seite gilt
+Def.
+
+(a + (b + )â )+ = (a + b)+ = (((aâ + b â )+ )+ )+ ,
+womit (1) bewiesen ist.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Beweis der Rechenregeln
+
+Teil 2
+
+AssoziativitaĚt von +â: (Induktion nach c)
+â
+Die FaĚlle c = 0 (Induktionsanfang) und b = 0 sind offensichtlich. Der Induktionsschritt
+von c â nach c folgt durch
+Def.
+
+(1)
+
+I.V.
+
+(1)
+
+(a + b) + c = (((a + b)â + c â )+ )+ = (((a + b â ) + c â )+ )+
+= ((a + (b â + c â ))+ )+ = (a + (b â + c â )+ )+
+
+(1)
+
+(1)
+
+(1)
+
+= (a + (b + c â ))+ = a + (b + c â )+ = a + (b + c) .
+
+Distributivgesetz: (Induktion nach c)
+Wieder sind die FaĚlle c = 0 (Induktionsanfang) und b = 0 offensichtlich. Der
+Induktionsschritt von c â nach c folgt durch
+(1)
+
+Def.
+
+(a + b)c = (a + b)â c â + (a + b)â + c â + 1 = (a + b â ) Âˇ c â + a + b â + c
+I.V.
+
+= ac â + b â c â + a + b â + c = (ac â + a) + (b â c â + b â ) + c
+I.V.
+
+Def.
+
+= (ac â + a Âˇ 1) + (b â c â + b â Âˇ 1) + c = a(c â + 1) + b â (c â + 1) + c
+
+= ac + (b â c + 1 Âˇ c) = ac + bc .
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Beweis der Rechenregeln
+
+Teil 3
+
+AssoziativitaĚt von Âˇâ: (Induktion nach c)
+â
+Wieder sind die FaĚlle c = 0 (Induktionsanfang) und a = 0 oder b = 0
+offensichtlich. Der Induktionsschritt von c â nach c folgt durch
+
+Âˇâ-Def.
+â
+â
+â
+â
+(ab)c â = (ab) c + ((ab) + c ) + 1
+A.+
+
+= ((ab)â c â + c â ) + ((ab)â + 1)
+
+Âˇâ-Def.
+â
+
+= ((ab)â c â + 1 Âˇ c â ) + ((ab)â + 1)
+
+D.G.
+
+= ((ab)â + 1)c â + ((ab)â + 1)
+
++â-Def.
+â
+
+= (ab)c â + ab
+
+I.V.
+
+= a(bc â ) + ab
+
+D.G.
+
+= a(bc â + b)
+
+Âˇâ-Def.
+â
+
+= a(bc â + b Âˇ 1)
+
+D.G.
+
+= a(b(c â + 1))
+
++â-Def.
+â
+
+= a(bc) .
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Kapitel 5
+Relationen und Funktionen
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Geordnete Paare und kartesisches Produkt
+Definition (Paar)
+Eine Menge der Form {{a}, {a, b}} heiĂt (geordnetes) Paar (a, b).
+Beispiele: (b, a) = {{b}, {b, a}} und (a, a) = {{a}}
+Proposition 9
+Zwei Paare (a, b) und (c, d) sind genau dann gleich, wenn a = c und b = d.
+Beweis. UĚbung.
+Definition (Kartesisches Produkt)
+FuĚr Mengen A, B heiĂt
+A Ă B := {(a, b) : a â A und b â B}
+das kartesische Produkt (auch Kreuzprodukt) von A und B.
+Statt A Ă A schreibt man auch A2 .
+ACHTUNG: Bei der obigen Definition ist nicht klar, dass A Ă B eine Menge ist! Aber
+
+
+A Ă B = C â P(P(A âŞ B)) : (âa â A)(âb â B) C = {a}, {a, b}
+Mathias Schacht
+
+Mengenlehre
+
+
+
+.
+WS 2011/12
+
+Relationen
+Definition (Relation)
+Eine Menge R von Paaren heiĂt (zweistellige) Relation. FuĚr (a, b) â R schreibt man auch aRb.
+Falls R â A2 , dann ist R eine Relation auf A.
+Definition (Eigenschaften von Relationen)
+Eine Relation R auf A heiĂt
+reflexiv, falls (a, a) â R fuĚr alle a â A.
+symmetrisch, falls fuĚr alle a, b â A gilt: (a, b) â R â (b, a) â R.
+antisymmetrisch, falls fuĚr alle a, b â A gilt: ((a, b) â R und (b, a) â R) â a = b.
+transitiv, falls fuĚr alle a, b, c â A gilt: ((a, b) â R und (b, c) â R) â (a, c) â R.
+Definition (Spezielle Relationen)
+Eine Relation R auf A ist eine
+AĚquivalenzrelation, falls R reflexiv, symmetrisch und transitiv ist.
+Teilordnung (manchmal auch Halbordnung, Ordnung, Ordnungsrelation genannt),
+falls R reflexiv, antisymmetrisch und transitiv ist.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Funktionen
+Definition (Abbildungen und Funktion)
+Eine Menge von Paaren f heiĂt Abbildung, falls fuĚr alle Paare (a, b) und (a 0 , b 0 ) in f gilt: falls
+a = a 0 , dann b = b 0 .
+FuĚr eine Abbildung f â A Ă B heiĂt A der Definitionsbereich (auch Urbildbereich) und B
+der Wertebereich (auch Bildbereich).
+Eine Abbildung f â A Ă B ist auf (ganz) A definiert, falls fuĚr jedes a â A ein b â B mit
+(a, b) â f existiert. Dann ist f eine Funktion und wir schreiben f : A â B.
+FuĚr zwei Mengen A und B ist
+B A := {f â P(A Ă B) : f : A â B}
+die Menge aller Funktionen von A nach B.
+FuĚr (a, b) â f â A Ă B schreiben wir auch f (a) = b oder f : a 7â b.
+Dann heiĂt b Bild (auch Wert) von a (unter f ) und a heiĂt Urbild von b (unter f ).
+Die Menge {b â B : âa â A : f (a) = b} ist das Bild von f und die Menge
+{a â A : âb â B : f (a) = b} ist das Urbild von f .
+Allgemeiner fuĚr Teilmengen A 0 â A und B 0 â B ist
+f (A 0 ) := {b â B : âa â A 0 : f (a) = b}
+das Bild von A 0 (unter f ) und
+f â1 (B 0 ) := {a â A : âb â B 0 : f (a) = b}
+ist das Urbild von B 0 (unter f ).
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Spezielle Funktionen
+Definition (injektiv, surjektiv, bijektiv)
+Eine Abbildung f â A Ă B heiĂt
+injektiv, falls fuĚr alle a, a 0 im Urbild mit a 6= a 0 gilt: f (a) 6= f (a 0 ).
+surjektiv, falls das Bild von f ganz B ist.
+bijektiv, falls f injektiv und surjektiv ist.
+Beispiel: FuĚr jede Menge A gibt es eine (natuĚrliche / offensichtliche / triviale /
+kanonische) Bijektion Ď zwischen 2A = {0, 1}A und der Potenzmenge P(A):
+Ď : {0, 1}A â P(A) ,
+definiert fuĚr jede Funktion f : A â {0, 1} durch
+Ď(f ) = {a â A : f (a) = 1} .
+Den Teilmengen A 0 von A entsprechen die Funktionen Ďâ1 (A 0 ) â 2A .
+Wegen dieser Bijektion wird die Potenzmenge von A oft auch mit 2A bezeichnet.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+IdentitaĚt und Umkehrabbildung
+Definition (IdentitaĚt - id)
+FuĚr eine Menge A bezeichnen wir die Funktion idA : A â A definiert durch a 7â a fuĚr
+alle a â A als IdentitaĚt auf A. (Offensichtlich ist idA eine Bijektion.)
+Definition (Umkehrabbildung - f â1 )
+FuĚr jede injektive Abbildung f â A Ă B ist auch
+f â1 := {(b, a) â B Ă A : (a, b) â f }
+eine injektive Abbildung (Beweis!). Diese Abbildung heiĂt Umkehrabbildung von f .
+Die Abbildung f â1 kann natuĚrlich nur surjektiv sein, wenn f auf ganz A definiert ist.
+TatsaĚchlich kann man zeigen, dass falls die Funktion f : A â B bijektiv ist, dann ist
+f â1 : B â A auch bijektiv.
+ACHTUNG: Entspricht f â1 (B 0 ) fuĚr B 0 â B hier dem aus der Definition von Funktion?
+Ja, denn
+0
+
+{a â A : âb â B : f (a) = b}
+Mathias Schacht
+
+Def. f
+
+=
+
+f
+
+â1
+
+0
+
+(B )
+
+Def. f â1
+
+Mengenlehre
+
+=
+
+{a â A : âb â B 0 : f â1 (b) = a} .
+WS 2011/12
+
+Operationen mit Funktionen
+Definition (EinschraĚnkung - f |A 0 )
+FuĚr eine Abbildung f â A Ă B und A 0 â A heiĂt
+f |A 0 := f âŠ (A 0 Ă B) = {(a, b) â f : a â A 0 }
+die EinschraĚnkung (auch Restriktion) von f auf A 0 .
+Definition (Verkettung - g âŚ f )
+FuĚr Abbildungen f â A Ă B und g â B Ă C heiĂt die fuĚr jedes a, welches im
+Definitionsbereich von f liegt und fuĚr das f (a) im Definitionsbereich von g liegt,
+durch
+a 7â g (f (a))
+definierte Abbildung g âŚ f â A Ă C (sprich g nach f â) die Verkettung (auch
+â
+Komposition oder HinereinanderausfuĚhrung) der Abbildungen f und g .
+Falls f : A â B und g : B â C , dann gilt g âŚ f : A â C .
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Kartesisches Produkt
+Definition (n-Tupel, Indexmenge)
+Sei A eine Menge und n â N
+Die Notation A2 wurde zweimal eingefuĚhrt (einmal als kartesisches Produkt A Ă A und
+einmal A{0,1} als Menge der Funktionen von {0, 1} nach A.
+TatsaĚchlich gibt es eine offensichtlich Bijektion Ď zwischen diesen beiden Mengen, welche
+fuĚr alle (a, a 0 ) â A Ă A durch
+Ď : (a, a 0 ) 7â f â A{0,1}
+
+mit f (0) = a und f (1) = a 0
+
+definiert ist. Deswegen ist diese Doppelbedeutungâ vernachlaĚssigbar.
+â
+Allgemeiner fuĚr alle n âĽ 2 heiĂt die Menge An n-faches kartesisches Produkt und die
+Elemente von An heiĂen n-Tupel (Tripel, Quadrupel, Quintupel, . . . fuĚr n = 3, 4, 5, . . . ).
+Analog zur Schreibweise fuĚr Paare beschreibt man ein n-Tupel (Funktion von {0, . . . , n â 1}
+nach A) meist durch Angabe seiner Bilder ai der Elemente i = 0, . . . , n â 1 in der Form
+(a0 , . . . , anâ1 ).
+Noch allgemeiner fuĚr eine Menge I (hier auch Indexmenge genannt) deren Elemente wir
+uns als Indizes vorstellen, heiĂt AI auch kartesisches Produkt und man schreibt fuĚr
+f â AI an Stelle von f (i) = ai fuĚr alle i â I auch f = (ai )iâI .
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Allgemeines kartesisches Produkt
+Definition (Kartesiches Produkt - allgemeiner Fall)
+Sei I eine Menge (Indexmenge) und fuĚr jedes i â I sei Ai eine Menge. Dann gilt:
+A = {Ai : i â I} ist eine Menge und
+S
+A = A ist eine Menge.
+
+(folgt aus dem Ersetzungsaxiom)
+(folgt aus dem Vereinigungsaxiom)
+
+Wir definieren das kartesische Produkt der Ai mit i â I als
+Y
+Ai := f â AI : f (i) â Ai fuĚr alle i â I .
+iâI
+
+Bemerkung: Interessanterweise braucht man das Auswahlaxiom, um allgemein
+zeigen zu koĚnnen, dass
+Y
+Ai 6= â
+iâI
+
+falls Ai 6= â fuĚr alle i â I.
+Mathias Schacht
+
+(Warum braucht man Ai 6= â fuĚr alle i â I hier?)
+Mengenlehre
+
+WS 2011/12
+
+Kapitel 6
+AĚquivalenzrelationen
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+AĚquivalenzrelationen
+
+(reflexiv, symmetrisch, transitiv)
+
+Definition (Partition)
+Eine Menge A von Teilmengen einer Menge A heiĂt Partition (oder Zerlegung) von A, wenn die
+Elemente von A nicht-leer sind, paarweise disjunkt sind, und es gilt
+[
+
+A = A.
+
+Bemerkung: Disjunkte Vereinigungen
+werden wir manchmal mit einem Punkt uĚber dem
+S
+_
+. . . ).
+Vereinigungszeichen anzeigen (z. B. _ A, AâŞB,
+Satz 10
+FuĚr jede Menge A gilt
+(i )
+
+fuĚr jede Partition A von A ist durch
+x âźA y :â â A 0 â A : x, y â A 0
+eine AĚquivalenzrelation definiert.
+
+(ii )
+
+fuĚr jede AĚquivalenzrelation âź auf A gibt es genau eine Partition A von A mit âź = âźA .
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Beweis von Satz 10 (i )
+Sei A eine Partition von A und âźA wie in der Behauptung definiert.
+Wir zeigen, dass âźA reflexiv, symmetrisch und transitiv ist.
+ReflexivitaĚt: Sei a â A. Da A =
+somit a âźA a.
+
+S
+
+A, existiert A 0 â A mit a â A 0 und
+
+Symmetrie: Seien a, b â A mit a âźA b. D. h. es gibt A 0 â A mit a,
+b â A 0 und somit b âźA a.
+TransitivitaĚt: Seien a, b und c â A mit a âźA b und b âźA c. Nach
+Definition von âźA gibt es A 0 und A 00 â A mit a, b â A 0 und b,
+c â A 00 . Also gilt b â A 0 âŠ A 00 und da A eine Partition ist (paarweise
+disjunkte Elemente), folgt A 0 = A 00 . Somit enthaĚlt A 0 neben a und b
+auch c und es folgt a âźA c.
+X
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Beweis von Satz 10 (ii )
+
+Teil 1
+
+Sei âź eine AĚquivalenzrelation auf A.
+Zuerst zeigen wir die Existenz einer Partition A und dann die Eindeutigkeit.
+Definition von A: Wir setzen A := {Aa : a â A}, wobei fuĚr jedes a â A
+Aa := {b â A : a âź b} .
+A ist Partition: Wir muĚssen zeigen, dass die Mengen in A nicht-leer sind, paarweise
+disjunkt sind und ihre Vereinigung ganz A ergibt.
+S
+nicht-leer und A = A: Da âź reflexiv ist, gilt a âź a fuĚr jedes a â A und somit
+S
+gilt a â Aa . Also ist Aa nicht-leer fuĚr jedes a â A und A enthaĚlt jedes
+S
+a â A, also A = A.
+disjunkt: Seien A 0 und A 00 Mengen aus A und sei a â A 0 âŠ A 00 .
+Aus der Definition von A folgt, dass es a 0 â A und a 00 â A gibt, so dass
+A 0 = Aa 0 und A 00 = Aa 00 . Wegen a â Aa 0 âŠ Aa 00 , folgt a 0 âź a und a 00 âź a und
+aus der Symmetrie und TransitivitaĚt von âź ergibt sich a 0 âź a 00 .
+Wir zeigen nun A 0 â A 00 . DafuĚr sei b â A 0 beliebig. Es gilt also a 0 âź b und
+wegen der Symmetrie von âź auch b âź a 0 . Da wir bereits a 0 âź a 00 gezeigt
+hatten, folgt wegen der TransitivitaĚt auch b âź a 00 und eine weitere
+Anwendung der Symmetrie ergibt a 00 âź b. Also ist b â Aa 00 = A 00 .
+Da b â A 0 beliebig war, gilt A 0 â A 00 . Analoge Argumentation zeigt auch
+A 00 â A 0 und somit A 0 = A 00 , falls A 0 âŠ A 00 6= â.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Beweis von Satz 10 (ii )
+
+Teil 2
+
+Als naĚchstes zeigen wir âź = âźA und dann die Eindeutigkeit von A.
+âź â âźA : Sei a âź b, also (a, b) â âź. Dann gilt a, b â Aa und aus der Definition von âźA
+(angewandt fuĚr A 0 = Aa ) folgt a âźA b, also (a, b) â âźA .
+âźA â âź : Sei nun a âźA b, also (a, b) â âźA . Dann existiert ein A 0 â A mit a, b â A 0 .
+Wegen der Definition von A gibt es ein a 0 â A mit A 0 = Aa 0 .
+Da also a, b aus A 0 sind, folgt a 0 âź a und a 0 âź b und mit Symmetrie und
+TransitivitaĚt von âź auch a âź b. D. h. (a, b) â âź wie gewuĚnscht.
+Eindeutigkeit: Sei B eine weitere Partition mit âźB = âź. Aus dem bereits Gezeigten
+folgt also âźB = âź = âźA und somit gilt fuĚr alle a, b â A
+a âźB b
+
+â
+
+aâźb
+
+â
+
+a âźA b .
+
+Folglich gilt fuĚr alle a â A auch
+Ba := {b â A : a âźB b} = {b â A : a âź b} = Aa .
+Somit ist {Ba : a â A} = A.
+Des Weiteren ist Ba offensichtlich eine Teilmenge der Menge B 0 â B, die a
+enthaĚlt. Aber wegen der TransitivitaĚt von âźB gilt tatsaĚchlich Ba = B 0 . D. h.
+{Ba : a â A} = B, also B = A was den Beweis von Satz 10 (ii ) abschlieĂt.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+AĚquivalenzklassen
+Definition (AĚquivalenzklassen)
+Sei âź eine AĚquivalenzrelation auf A.
+Die eindeutig bestimmte Partition A aus Satz 10 (ii ) bezeichnet man mit A/âź und
+sie heiĂt Faktormenge (auch Quotientenmenge).
+Die Elemente von A/âź heiĂen AĚquivalenzklassen, welche man mit [a] (manchmal
+auch a) statt Aa bezeichnet.
+Die Elemente einer AĚquivalenzklasse sind die RepraĚsentanten dieser
+AĚquivalenzklasse und wir sagen sie sind aĚquivalent zueinander.
+Zwei Elemente a und b â A repraĚsentieren also die gleiche AĚquivalenzklasse genau
+dann, wenn sie aĚquivalent sind
+[a] = [b] â a âź b .
+Die Funktion a 7â [a] heiĂt kanonische Projektion von A nach A/âź.
+Beispiel: Partitioniert man N in die geraden und ungeraden Zahlen und bezeichnet diese
+Partition mit A, so ist âźA die AĚquivalenzrelation mit zwei AĚquivalenzklassen und zwei
+Zahlen sind genau denn aĚquivalent, wenn sie die gleiche ParitaĚt haben. Jede ungerade
+Zahl repraĚsentiert die AĚquivalenzklasse der ungeraden Zahlen usw.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Wie macht man Funktionen injektiv?
+Satz 11
+Sei f : A â B eine Funktion. FuĚr a, a 0 â A definiere die Relation âź durch
+a âź a 0 :â f (a) = f (a 0 ) .
+Dann ist âź eine AĚquivalenzrelation und [a] 7â f (a) eine injektive Funktion g : A/âź â B.
+Sei Îş die kanonische Projektion von âź. Dann besagt der Satz, es gibt inj. g mit f = g âŚ Îş
+f
+
+A
+
+B
+g
+
+Îş
+A/âź
+Beweis.
+Zu zeigen ist:
+1 âź ist eine AĚquivalenzrelation,
+
+X
+
+2 g ist wohldefiniert, d. h. g ([a]) ist unabhaĚngig vom gewaĚhlten RepraĚsentanten!
+
+X
+
+3 g ist injektiv.
+
+X
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Von Quasiordnungen zu Teilordnungen
+Definition (Quasiordnung)
+Eine reflexive und transitive Relation heiĂt Quasiordnung.
+Satz 12
+FuĚr jede Quasiordnung 4 auf einer Menge A ist durch
+aâźb
+
+(a 4 b und b 4 a)
+
+:â
+
+eine AĚquivalenzrelation auf A definiert. Auf A/âź definiert dann
+[a] â¤ [b]
+
+:â
+
+a4b
+
+eine Teilordnung.
+Bemerkung: Die Idee hinter den SaĚtzen 11 und 12 ist weit verbreitet in der Mathematik.
+Die offensichtlichen Ursachen werden ausfaktorisiertâ. So werden alle Urbilder a, a 0
+â
+von f , die gegen die InjektivitaĚt verstoĂen, in Satz 11 aĚquivalent gemacht. Genauso
+werden alle symmetrischen Paare der Quasiordnung aus Satz 12 in âź gleichgesetztâ.
+â
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Beweis von Satz 12
+Der Beweis hat drei Teile:
+1 âź ist eine AĚquivalenzrelation,
+2 â¤ ist wohldefiniert und
+3 â¤ ist eine Teilordnung.
+zu 1: ReflexivitaĚt und TransitivitaĚt vererben sich von 4 und Symmetrie folgt von
+der Definition von âź.
+zu 2: Es ist zu zeigen, dass die Definition unabhaĚngig von den gewaĚhlten
+RepraĚsentanten ist. D. h. fuĚr alle a 0 â [a] und b 0 â [b] muss gelten:
+a4b
+
+â
+
+a0 4 b0 .
+
+Es gilt: a 0 â [a] â a 0 âź a â a 0 4 a und a 4 a 0 .
+Ebenso b 0 â [b] â b 0 4 b und b 4 b 0 .
+Wegen der TransitivitaĚt von 4 gilt also a 4 b â a 0 4 a 4 b 4 b 0 â a 0 4 b 0
+und ebenso b 4 a â b 0 4 a 0 .
+zu 3: ReflexivitaĚt und TransitivitaĚt vererben sich von 4.
+FuĚr die Antisymmetrie seien a, b â A mit [a] â¤ [b] und [b] â¤ [a]. Aus der
+Definition von â¤ folgern wir a 4 b 4 a und somit a âź b, also [a] = [b].
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Kapitel 7
+Ordnungsrelationen und Lemma von Zorn
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Teilordnungen
+
+(reflexiv, antisymmetrisch, transitiv)
+
+Definition (Notation)
+Sei (A, â¤) eine Teilordnung, d. h. â¤ ist eine Teilordnung auf A.
+Elemente a, b heiĂen (durch â¤) vergleichbar, wenn a â¤ b oder b â¤ a gilt
+und sonst heiĂen sie unvergleichbar.
+FuĚr a â¤ b schreiben wir alternativ auch b âĽ a.
+Falls a â¤ b und a 6= b, dann schreiben wir auch a < b bzw. b > a.
+Wir sagen die Menge A ist durch â¤ (teilweise) geordnet.
+Beispiel: FuĚr jede Menge A ist P(A) durch â teilweise geordnet.
+Proposition 13
+Sei R eine Teilordnung auf A und B â A. Dann ist R âŠ B 2 wieder eine
+Teilordnung. Sie heiĂt die durch R auf B induzierte Teilordnung.
+Beweis.
+ReflexivitaĚt, Antisymmetrie und TransitivitaĚt vererben sich von R auf R âŠ B 2 .
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+VollstaĚndige Ordnung, Extrema, Wohlordnung
+Definition (VollstaĚndige Ordnungen und Ketten)
+Sei (A, â¤) eine Teilordnung.
+Die Relation â¤ heiĂt vollstaĚndige (oder lineare) Ordnung (oder auch Totalordnung)
+auf A, wenn je zwei Elemente von A durch â¤ vergleichbar sind.
+Eine Teilmenge B â A heiĂt Kette (bezuĚglich â¤), wenn â¤ auf B eine vollstaĚndige
+Ordnung induziert.
+Definition (Extrema)
+Sei (A, â¤) eine Teilordnung. Ein Element a â A heiĂt
+maximal (bzw. minimal) in A, wenn es kein b â A mit a < b (bzw. b < a) gibt.
+groĚĂtes (bzw. kleinstes) Element in A, wenn âb â A gilt b â¤ a (bzw. a â¤ b).
+obere (bzw. untere) Schranke fuĚr eine Menge B, wenn âb â B gilt b â¤ a (bzw. a â¤ b).
+Bemerkungen:
+obere (bzw. untere) Schranken a von B muĚssen nicht in B liegen
+groĚĂte (bzw. kleinste) Elemente sind immer eindeutig bestimmt (Antisymmetrie!)
+max A (bzw. min A) bezeichnen das groĚĂte (bzw. kleinste) Element von A â X (in der
+induzierten Teilordnung) falls es existiert
+Definition (Wohlordnungen)
+Eine vollstaĚndige Ordnung auf A heiĂt Wohlordnung, falls jede nicht-leere Teilmenge B von A
+ein (in der induzierten Ordnung) kleinstes Element enthaĚlt, welches mit min B bezeichnet wird.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Zorns Lemma, Wohlordnungssatz und Auswahlaxiom
+Satz 14 (Zornâsche Lemma â Zorn 1935, Kuratowski 1922)
+Hat in einer teilweise geordneten nicht leeren Menge X jede Kette eine
+obere (bzw. untere) Schranke, dann enthaĚlt X ein maximales (bzw.
+minimales) Element.
+Satz 15 (Wohlordnungssatz)
+FuĚr jede Menge existiert eine Wohlordnung.
+Bemerkungen:
+Das Zornâsche Lemma, der Wohlordnungssatz und das Auswahlaxiom
+sind aĚquivalent.
+D. h. in dem Axiomensystem ZFC kann man das Auswahlaxiom durch
+Zorns Lemma oder auch durch den Wohlordnungssatz ersetzen und
+erhaĚlt ein gleichmaĚchtiges Axiomensystem.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Beweis von Zorns Lemma â Vorbereitungen Teil 1
+Definition (Auswahlfunktion)
+S
+Eine Funktion f : A â A heiĂt Auswahlfunktion, wenn sie jeder nicht-leeren Menge B â A ein
+Element f (B) â B zuordnet.
+Proposition 16
+FuĚr jede Menge A gibt es eine Auswahlfunktion.
+Beweis.
+Ersetzungsaxioms â A 0 = {{B} Ă B : B â A mit B 6= â} ist eine Menge
+Elemente von A 0 sind paarweise disjunkt
+Auswahlaxiom â es gibt eine Menge F mit der Eigenschaft:
+fuĚr jedes B 0 â A 0 enthaĚlt F genau ein Element aus B 0
+jedes B 0 â A 0 hat die Form B 0 = {B} Ă B = {(B, b) : b â B} fuĚr ein B â A
+â F enthaĚlt fuĚr jedes B â A genau ein Element
+Form (B, b) mit b â B
+S der
+â Auswahlfunktion f â F existiert (f = F âŠ ( A 0 ))
+Bemerkung: Der UĚbergang von F nach f ist noĚtig, da in der hier gewaĚhlten Formulierung des
+Auswahlaxioms nicht gefordert wird, dass F aus nichts weiter besteht, als den eindeutigen
+Elementen aus jeder Menge aus A 0 .
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Beweis von Zorns Lemma â Vorbereitungen Teil 2
+Definition (AnfangsstuĚcke)
+Sei (X , â¤) eine Teilordnung (Menge X mit Teilordnung â¤ auf X ). Eine Teilmenge A â X heiĂt
+AnfangsstuĚck von X , falls alle x â X mit x â¤ a fuĚr ein a â A auch in A enthalten sind.
+Beobachtung: Falls â¤ eine Wohlordnung auf X definiert und A â X , dann existiert
+y = min(X \ A) und A ist genau dann ein AnfangsstuĚck, wenn A = {x â X : x < y }.
+Proposition 17
+Sei (X , â¤) eine Teilordnung und sei K eine Menge von Ketten in X die durch â¤ wohlgeordnet
+sind. Falls alle Ketten K und L â K die Eigenschaft haben, dass eine das AnfangsstuĚck der
+anderen ist (in der jeweils induzierten Teilordnung), dann gilt
+S
+1 jede Kette K â K ist AnfangsstuĚck von Y := K â X und
+2 Y ist durch â¤ wohlgeordnet.
+Beweis.
+Wir schreiben K 4 L, falls K ein AnfangsstuĚck von (L, â¤) ist.
+1 Sei K â K und x â Y \ K mit x â¤ y â K â â L â K mit x â L â K 4 L â x â K
+2 Seien x, y â Y mit x â K â K und y â L â K und o. B. d. A. K 4 L.
+â entweder (y â L \ K und damit y > x) oder (x, y â K und somit vergleichbar) X
+Sei Z â Y â â K â K mit Z âŠ K 6= â und wir setzen z0 = min(Z âŠ K )
+Sei z â Z . Falls z â Z âŠ K , dann z0 â¤ z. Falls z â L \ K â K 4 L â z > z0 .
+X
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Knesers Beweis von Zorns Lemma
+Widerspruchsbeweis: Sei (X , â¤) Teilordnung ohne maximales Element, fuĚr die fuĚr jede Kette
+eine obere Schranke existiert. Wir fixieren
+f eine Auswahlfunktion von P(X )
+und fuĚr wohlgeordnete Ketten K (Teilmenge von X die durch â¤ wohlgeordnet wird) und y â K
+K<y := {z â K : z < y } Teilkette unterhalb y
+K> := {x â X : x > y fuĚr alle y â K } 6= â Menge der oberen Schranken von K in X \ K
+g (K ) := f (K> ), beachte: g (â) = f (X )
+wohlgeordnete Kette K ist g -bestimmt, falls fuĚr alle y â K gilt y = g (K<y ).
+Behauptung: Von je zwei g -bestimmten Ketten K und L ist eine das AnfangsstuĚck der anderen.
+Beweis der Behauptung.
+â
+â
+â
+â
+
+Sei J die Vereinigung aller AnfangsstuĚcke von X die AnfangsstuĚcke von K und von L sind.
+J ist inklusionsmaximales AnfangsstuĚck von K und von L
+Angenommen J 6= K und J 6= L (sonst waĚren wir fertig)
+es gibt yK = min(K \ J) und yL = min(L \ J), da K und L wohlgeordnet sind
+yK = g (J) = yL , da K und L g -bestimmt sind
+J âŞ {yK } = J âŞ {yL } ) J ist AnfangsstuĚck von K und L
+J ist inklusionsmaximal
+
+Sei Y die Vereinigung aller g -bestimmten Ketten.
+Proposition 17 â Y ist eine Kette
+Y ist inklusionsmaximale g -bestimmte Kette
+(Warum ist Y wieder g -bestimmt?)
+Aber: Y âŞ { g (Y ) } ) Y ist ebenfalls g -bestimmte Kette
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+VollstaĚndige Ordnung (N, â¤)
+Erinnerung: m â¤ n :â m â n+
+Beobachtung: m â n â m â n (Beweis: Induktion)
+Proposition 18
+Das auf N bereits definierte â¤ ist eine vollstaĚndige Ordnung auf N.
+Beweis.
+ReflexivitaĚt: n+ = n âŞ {n} â n â n+ â n â¤ n
+
+X
+
+Antisymmetrie: m â¤ n und n â¤ m â m â n+ = n âŞ {n} und n â m âŞ {m}
+falls m 6= n, dann m â n und n â m
+
+(Fundierungsaxiom)
+
+TransitivitaĚt: ` â¤ m und m â¤ n â falls ` 6= m und m 6= n, dann ` â m und m â n und wegen
+der Beobachtung ` â m â n â ` â¤ n
+VollstaĚndigkeit: Induktiv uĚber m:
+
+ân â N : m â n oder m = n oder n â m.
+IA
+
+m = 0 = â: n = 0: X
+n â n+ : n+ = n âŞ {n} â n =â â â n oder n = â â â â n+ X
+m â m+ , n â N: IA â m â n oder m = n oder n â m
+falls m = n, dann n â m+
+X
++
+falls n â m, dann n â m â m
+X
+falls m â n, beweise induktiv uĚber n, dass dann m+ = n oder m+ â n: (n = 0 klar)
+IA(n)
+
+n â n+ : m â n+ â m â n oder m = n =â (m+ = n oder m+ â n) oder m+ = n+
+=â m+ â n+ oder m+ = n+
+X
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Wohlordnung (N, â¤)
+Korollar 19
+Die vollstaĚndige Ordnung (N, â¤) ist eine Wohlordnung.
+Beweis.
+Angenommen, M â N habe kein kleinstes Element.
+Wir zeigen mit Induktion, dass n â
+/ M gilt fuĚr alle n â N. Dann ist M leer,
+wie behauptet.
+Es sei n â N gegeben. Wir nehmen m 6â M fuĚr alle m < n an (IA) und
+zeigen n 6â M.
+WaĚre n â M, so waĚre n nach Induktionsannahme minimal mit dieser
+Eigenschaft in N, und damit erst recht in M â N. Als minimales Element
+von M waĚre n aber auch sein kleinstes, denn die von N auf M induzierte
+Ordnung ist auch auf M vollstaĚndig. Dies widerspricht der Voraussetzung.
+Somit gilt n 6â M, wie behauptet.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Kapitel 8
+MaĚchtigkeiten, KardinalitaĚten
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+MaĚchtigkeiten
+Definition (KardinalitaĚten)
+FuĚr Mengen A und B schreiben wir:
+|A| = |B|, falls es eine bijektive Funktion f : A â B gibt. Die Mengen A und
+B heiĂen dann gleichmaĚchtig.
+|A| â¤ |B|, falls es eine injektive Funktion f : A â B gibt.
+|A| < |B|, falls |A| â¤ |B| gilt aber nicht |A| = |B|.
+FuĚr n â N schreiben wir |A| = n statt |A| = |n|.
+Beispiele:
+|A| = 1001 bedeutet, dass es eine bijektive Funktion von A nach
+{0, . . . , 1000} gibt.
+|N| = |N \ {0}|, da n 7â n+ eine bijektive Funktion ist (InjektivitaĚt folgt aus
+der Eindeutigkeit des VorgaĚngers und SurjektivitaĚt mit Induktion).
+|N Ă N| = |N|, da z. B. (x, y ) 7â 12 (x + y )(x + y + 1) + y eine bijektive
+Funktion zwischen den beiden Mengen ist.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Gibt es |A| 6= |B|, obwohl |A| â¤ |B| â¤ |A|?
+Satz 20 (Cantor, SchroĚder, Bernstein 1895-97; Dedekind 1887)
+FuĚr je zwei Mengen A und B folgt aus |A| â¤ |B| und |B| â¤ |A|, dass |A| = |B|.
+Beweis.
+Seien also f : A â B und g : B â A injektive Funktionen. Da wegen der InjektivitaĚt von f gilt
+|A| = |f (A)|, koĚnnen wir o. B. d. A. annehmen, dass A â B und f = idA . Setze
+\
+C =
+D â P(B) : (B \ A) â D und g (D) â D .
+Da g (B) â B und B â (B \ A) erfolgt der Schnitt nicht uĚber die leere Menge und somit gilt C
+ist inklusionsminimal mit den beiden Eigenschaften C â (B \ A) und g (C ) â C , d. h. jede
+Menge C 0 â B mit denselben beiden Eigenschaften enthaĚlt C als Teilmenge.
+g (B) â A â g (C ) â C âŠ A, d. h. g |C : C â C âŠ A ist injektiv
+falls x â (C âŠ A) \ g (C ), dann widerspricht C 0 = C \ {x} der MinimalitaĚt von C
+â g (C ) = C âŠ A â g |C ist bijektiv
+â die Funktion h definiert durch
+
+g (x), x â C ,
+x 7â
+x,
+x âB \C,
+ist injektiv, auf ganz B definiert und hat als Bild (C âŠ A) âŞ (B \ C ) = A, da hier
+B \ C = A \ C ist (siehe Bild auf der naĚchste Seite).
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Gibt es |A| 6= |B|, obwohl |A| â¤ |B| â¤ |A|?
+
+B \A
+C
+A
+
+B
+
+A \ C =B \ C
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+KardinalitaĚten aller Mengen sind vergleichbar
+Korollar 21
+FuĚr je zwei Mengen A und B gilt immer genau eine der drei Beziehungen |A| < |B|,
+|A| = |B| oder |A| > |B|.
+Beweis.
+Nach Satz 20 reicht es zu zeigen, dass es eine injektive Funktion A â B oder eine
+injektive Funktion B â A gibt.
+Wir werden das Lemma von Zorn anwenden. Sei F â P(A Ă B) die Menge aller
+injektiven Abbildungen f â A Ă B. Insbesondere muss f nicht auf ganz A definiert sein.
+Dann definiert â eine Teilordnung auf der Menge dieser Abbildungen. Hierbei gilt f â g ,
+falls das Urbild X von f eine Teilmenge vom Urbild von g ist und f (x) = g (x) fuĚr alle
+x â X.
+S
+FuĚr eine Kette K â F ist deswegen fK := K wieder eine injektive Abbildung aus F
+und somit hat jede Kette in F eine obere Schranke.
+Aufgrund von Zorns Lemma gibt es ein maximales injektives fM â F . Dann muss gelten,
+entweder fM ist auf ganz A definiert und dann sind wir fertig, oder fM (A) = B. Im
+letzteren Fall ist aber fMâ1 eine injektive Funktion von B nach A.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+GroĚĂere Mengen und unendliche Mengen
+Satz 22 (Cantor 1892)
+FuĚr jede Menge A gilt |A| < |P(A)|.
+Beweis.
+â¤â a 7â {a} ist injektive Funktion von A nach P(A)
+â
+6=â Angenommen g : A â P(A) ist surjektiv und sei A 0 = {a â A : a 6â g (a)}
+â
+â es gibt a 0 â A mit g (a 0 ) = A 0 , aber dann: a 0 â A 0 = g (a 0 ) â a 0 6â A 0
+
+X
+
+Bemerkung: Dieser Beweis inspirierte Russell zu seinem Paradoxon.
+Definition (endlich, unendlich, abzaĚhlbar, uĚberabzaĚhlbar)
+Eine Menge A heiĂt
+1 unendlich wenn sie zu einer echten Teilmenge von sich gleichmaĚchtig ist und sonst
+
+heiĂt sie endlich.
+2 abzaĚhlbar, wenn sie zu einer Teilmenge von N gleichmaĚchtig ist und sonst heiĂt sie
+uĚberabzaĚhlbar.
+3 abzaĚhlbar unendlich, wenn sie zu N gleichmaĚchtig ist und eine bijektive Funktion
+von N nach A heiĂt AufzaĚhlung von A.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Endliche Mengen
+Satz 23
+Eine Menge A ist genau dann endlich, wenn es ein n â N mit |A| = n gibt.
+Beweis (Skizze).
+ââ Es ist hinreichend zu zeigen, dass fuĚr jedes n â N die Menge n endlich ist.
+â
+Widerspruchsbeweis:
+Sei n die kleinste natuĚrliche Zahl, so dass n = {0, . . . , n â 1} unendlich ist.
+((N, â¤) ist wohlgeordnet und deswegen muss es ein solches n geben)
+â n kann injektiv auf nâ abgebildet werden
+â n ist unendlich und |n| â¤ |nâ |, also ist auch nâ unendlich
+ââ Falls A = â, dann ist A = 0 und somit |A| = |0| = 0. Sei A also nicht-leer und fuĚr jedes
+â
+n â N definieren wir rekursiv eine Funktion fn : n â A durch
+fn+ (m) = fn (m) fuĚr alle m â¤ n
+und falls a â A \ {fn (0), fn (1), . . . , fn (n)} existiert, dann setze
+fn+ (n+ ) = a und fn+ (n+ ) = fn+ (0) = fn (0) = Âˇ Âˇ Âˇ = f0 (0) sonst.
+â1
+â fn ist injektiv
+S genau dann, wenn |fn (0)| = 1.
+Dann ist f := nâN fn eine Funktion von N nach A mit f |n âĄ fn fuĚr alle n â N.
+Da A endlich und N unendlich ist, ist f nicht injektiv.
+(Warum?)
+â Es existiert kleinstes n â N, so dass fn+ nicht injektiv ist.
+â fn ist injektiv und surjektiv und somit |A| = n.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Kapitel 9
+Ganze, rationale und reelle Zahlen
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Ganze Zahlen
+Idee:
+Die Umkehroperation der Addition, die Subtraktion, kann nicht
+beliebig innerhalb von N definiert werden. Z. B. 7 â 12 liegt nicht in N.
+Erweitere N, um Abgeschlossenheit bezuĚglich der Subtraktion zu
+erhalten.
+Definiere die ganze Zahl z als Menge der Paare von natuĚrlichen
+Zahlen (a, b) mit a â b = zâ (z. B. (7, 12) und (0, 5) sind
+â
+RepraĚsentanten von â5).
+Da es aber kein ââ in N gibt, druĚcken wir diese Beziehung innerhalb
+â
+von N durch umstellenâ wie folgt aus
+â
+a â b = a0 â b0 â
+
+â
+
+a + b0 = a0 + b .
+
+â
+Damit definieren wir eine AĚquivalenzrelation auf N2 deren
+AĚquivalenzklassen den ganzen Zahlen entsprechen.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Ganze Zahlen
+formale Definition
+
+Idee
+
+Definition (Z)
+Durch
+(a, b) âź (a 0 , b 0 ) :â a + b 0 = a 0 + b
+
+a â b = a 0 â b 0â
+â
+
+wird auf N2 eine AĚquivalenzrelation definiert.
+Wir bezeichnen die Faktormenge N2 /âź mit Z und nennen ihre Elemente die ganzen Zahlen.
+Ganze Zahlen der Form [(n, 0)] bezeichnen wir kuĚrzer durch die natuĚrliche Zahl n und ganze
+Zahlen der Form [(0, n)] als ân.
+Die Operationen + und Âˇ und die vollstaĚndige Ordnung â¤ von N erweitert man auf ganz Z
+[(a, b)]+Z [(a 0 , b 0 )] :â [(a+a 0 , b+b 0 )]
+
+(aâb)+(a 0 âb 0 )= (a+a 0 )â(b+b 0 )â
+â
+0
+0
+0
+0
+0
+0
+[(a, b)]ÂˇZ [(a , b )] :â [(aÂˇa +bÂˇb , aÂˇb +bÂˇa )]
+(aâb)Âˇ(a 0âb 0 )= (aÂˇa 0 +bÂˇb 0 )â(aÂˇb 0 +bÂˇa 0 )â
+â
+
+und
+[(a, b)] â¤Z [(a 0 , b 0 )] :â a+b 0 â¤ a 0 +b
+
+(a â b)â¤ (a 0 â b 0 )â
+â
+
+Bemerkung: Man kann zeigen, dass diese Operationen wohldefiniert sind (UĚbung).
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Rationale Zahlen
+Idee:
+VervollstaĚndige Z, um Abgeschlossenheit bezuĚglich der Division zu
+erhalten.
+Definiere die rationale Zahl q durch ihre Bruchdarstellungen, d. h. das
+Paar von ganzen Zahlen (a, b) mit b 6= 0 soll die rationale Zahl
+q = a/b repraĚsentieren und verschiedene Bruchdarstellungen der
+Selben Zahl q werden gleich (aĚquivalent) gesetzt.
+AĚhnlich wie bei der Darstellung von ââ, stellen wir um
+â
+a
+a0 â
+= 0
+â
+a ÂˇZ b 0 = a 0 ÂˇZ b .
+b
+b
+â
+Damit definieren wir eine AĚquivalenzrelation auf Z Ă (Z \ {0}) deren
+AĚquivalenzklassen den rationalen Zahlen entsprechen.
+
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Rationale Zahlen
+Definition (Q)
+Durch
+0
+
+0
+
+(a, b) â (a , b ) :â a ÂˇZ b
+
+0
+
+0
+
+= a ÂˇZ b
+â
+
+wird auf Z Ă (Z \ {0}) eine AĚquivalenzrelation definiert.
+
+a
+a0 â
+= 0
+b
+b
+
+Wir bezeichnen die Faktormenge (Z Ă (Z \ {0}))/â mit Q und nennen ihre Elemente die
+rationalen Zahlen. Rationale Zahlen der Form [(z, 1)] bezeichnen wir kuĚrzer durch die ganze
+Zahl z und rationale Zahlen der Form [(1, z)] als 1/z.
+Die Operationen +Z und ÂˇZ und die vollstaĚndige Ordnung â¤Z aus Z erweitert man auf ganz Q
+0
+
+0
+
+0
+
+0
+
+0
+
+[(a, b)] +Q [(a , b )] :â [(a ÂˇZ b +Z a ÂˇZ b , b ÂˇZ b )]
+[(a, b)] ÂˇQ [(a 0 , b 0 )] :â [(a ÂˇZ a 0 , b ÂˇZ b 0 )]
+
+a
++
+b
+â
+a
+Âˇ
+b
+â
+
+a0 a Âˇ b0 + a0 Âˇ b â
+=
+b0
+b Âˇ b0
+a0 a Âˇ a0 â
+=
+b0 b Âˇ b0
+
+und
+0
+
+0
+
+0
+
+0
+
+[(a, b)] â¤Q [(a , b )] :â a ÂˇZ b â¤ a ÂˇZ b
+â
+
+a a0 â
+â¤
+b b0
+
+Bemerkung: Man kann zeigen, dass diese Operationen wohldefiniert sind.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Cauchy-Folgen
+Definition (Nullfolge, Konvergenz, Cauchy-Folge)
+Sei (qn )nâN â QN eine Folge rationaler Zahlen und q â Q. Die Folge (qn )nâN
+heiĂt
+Nullfolge, falls fuĚr jede natuĚrliche Zahl m âĽ 1 ein Index n0 â N existiert, so
+dass fuĚr alle n1 âĽ n0 gilt
+1
+1
+â â¤ qn â¤ .
+m
+m
+konvergent gegen q (geschrieben qn â q bzw. limnââ qn = q), falls
+(pn )nâN , definiert durch pn := qn â q, eine Nullfolge ist.
+Cauchy-Folge, falls fuĚr jede natuĚrliche Zahl m âĽ 1 ein Index n0 â N
+existiert, so dass fuĚr alle n1 , n2 âĽ n0 gilt
+1
+1
+â â¤ qn1 â qn2 â¤ .
+m
+m
+Bemerkung: Aus der Definition folgt, dass eine Folge genau dann eine Nullfolge
+ist, wenn sie gegen 0 konvergiert.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Arithmetik von Cauchy-Folgen
+Proposition 24
+Seien (pn )nâN und (qn )nâN Cauchy-Folgen. Dann gilt
+1 (pn + qn )nâN ist eine Cauchy-Folge und
+2 (pn Âˇ qn )nâN ist eine Cauchy-Folge.
+Beweis.
+1 Sei m âĽ 1. Da (pn )nâN und (qn )nâN Cauchy-Folgen sind, gibt es fuĚr M = 2m Indizes N0,p
+und N0,q , so dass insbesondere fuĚr alle n1 , n2 âĽ n0 := max{N0,p , N0,q } gilt
+1
+1
+1
+1
+1
+1
+1
+1
+âM
+= â 2m
+â¤ pn1 â pn2 â¤ 2m
+= M
+und â M
+= â 2m
+â¤ qn1 â qn2 â¤ 2m
+= M
+und somit
+1
+1
+1
+1
+1
+= â 2m
+â 2m
+â¤ (pn1 â pn2 ) + (qn1 â qn2 ) = (pn1 + qn1 ) â (pn2 + qn2 ) â¤ 2m
++ 2m
+=
+âm
+
+1
+m
+
+Da m âĽ 1 beliebig war, ist also (pn + qn )nâN eine Cauchy-Folge.
+2 Sei m âĽ 1. Zuerst waĚhlen wir einen Index N groĂ genug, so dass fuĚr alle n âĽ N gilt
+pn â¤ pN + 1 und qn â¤ qN + 1. Als naĚchstes waĚhlen wir n0 âĽ N (in AbhaĚngigkeit von pN ,
+qN und m) groĂ genug, so dass fuĚr alle n1 und n2 âĽ n0 gilt
+1
+1
+und |qn1 â qn2 | â¤
+,
+|pn1 â pn2 | â¤
+2m(|qN | + 1)
+2m(|pN | + 1)
+wobei fuĚr jedes x â Q der Absolutbetrag |x| von x durch |x| := max{x, âx} definiert ist.
+Somit folgt mit pn1 qn1 â pn2 qn2 = (pn1 â pn2 )qn1 + (qn1 â qn2 )pn2 dann auch
+|pn1 qn1 â pn2 qn2 | â¤
+Mathias Schacht
+
+qn1
+2m(|qN |+1)
+
++
+
+Mengenlehre
+
+pn2
+2m(|pN |+1)
+
+â¤
+
+1
+2m
+
++
+
+1
+2m
+
+â¤
+
+1
+m
+
+.
+WS 2011/12
+
+.
+
+UnvollstaĚndigkeit von Q
+Proposition 25
+Jede konvergente Folge ist eine Cauchy-Folge, aber die Umkehrung gilt nicht in Q.
+Beweis (konvergent â Cauchy).
+Sei (qn )nâN eine Folge die gegen q â Q konvergiert. Dann gibt es fuĚr jedes m âĽ 1
+1
+fuĚr jedes n âĽ n0 . Somit gilt fuĚr alle n1 , n2 âĽ n0
+ein n0 , so dass |qn â q| â¤ 2m
+|qn1 â qn2 | = |qn1 â q + q â qn2 |
+(â)
+â¤ |qn1 â q| + |q â qn2 |
+1
+1
++
+â¤
+2m 2m
+1
+=
+m
+und (qn )nâN ist deswegen eine Cauchy-Folge.
+
+X
+
+Bem.: Die einfach zu pruĚfende Ungleichung (â) heiĂt auch Dreiecksungleichung.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+UnvollstaĚndigkeit von Q
+Proposition 25
+Jede konvergente Folge ist eine Cauchy-Folge, aber die Umkehrung gilt nicht in Q.
+Beweis (Beispiel nicht-konvergenter Cauchy-Folgen).
+Setze s0 = 1 und t0 = 2 und fuĚr n âĽ 1 sei qnâ1 = (snâ1 + tnâ1 )/2 und
+
+
+2
+2
+< 2,
+< 2,
+tnâ1 , falls qnâ1
+qnâ1 , falls qnâ1
+und tn =
+sn =
+qnâ1 , sonst.
+snâ1 , sonst,
+Aus der Definition folgt fuĚr alle n â N
+sn , tn â Q,
+sn < tn und sn2 < 2 < tn2 , da fuĚr keine rationale Zahl q gilt q 2 = 2,
+sn â¤ sn+1 und tn+1 â¤ tn
+â
+â s0 â¤ s1 â¤ Âˇ Âˇ Âˇ â¤ sn â¤ Âˇ Âˇ Âˇ <
+2â < Âˇ Âˇ Âˇ â¤ tn â¤ Âˇ Âˇ Âˇ â¤ t1 â¤ t0
+â
+tn â sn = (tnâ1 â snâ1 )/2 â tn â sn = (t0 â s0 )/2n = 1/2n
+â |sn1 â sn2 | â¤ 1/2n und |tn1 â tn2 | â¤ 1/2n fuĚr all n1 , n2 âĽ n
+â (sn )nâN und (tn )nâN sind Cauchy-Folgen in Q
+(tn â sn )nâN ist Nullfolge â moĚglicher Grenzwert r von (sn ) und (tn ) muss
+r 2 = 2 erfuĚllen â Cauchy-Folgen (sn ) und (tn ) konvergieren nicht in Q X
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Reelle Zahlen
+Idee:
+VervollstaĚndige Q, so dass jede Cauchy-Folge konvergiert. Als Nebeneffekt
+werden wir auf diese Weise z. B. Wurzeln beliebiger nicht-negativer
+rationaler Zahlen bekommen. TatsaĚchlich sind die reellen Zahlen ein viel
+â
+groĚĂererâ Zahlbereich als nur Q plus Wurzeln rationaler Zahlenâ.
+â
+Definiere die reelle Zahl r als Grenzwert aller Cauchy-Folgen rationaler
+Zahlen die gegen r konvergierenâ, d. h. r entspricht einer AĚquivalenzklasse
+â
+von Cauchy-Folgen deren punktweise Differenz eine Nullfolge ist.
+Genauer fuĚr zwei Cauchy-Folgen p = (pn )nâN und q = (qn )nâN â QN sei
+p â q = (pn â qn )nâN
+p und q haben gleichen Grenzwertâ â p â q ist eine Nullfolge
+â
+Damit definieren wir eine AĚquivalenzrelation auf der Menge der rationalen
+Cauchy-Folgen deren AĚquivalenzklassen dann den reelen Zahlen entsprechen.
+Diese Art der VervollstaĚndigung wird auch allgemeiner z. B. bei vollstaĚndigen
+metrische RaĚumen verwendet.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+Reelle Zahlen
+Definition (R)
+Durch
+
+_
+pâq
+:â p â q â 0
+
+wird auf der Menge der rationalen Cauchy-Folgen eine AĚquivalenzrelation definiert.
+Wir bezeichnen die Faktormenge mit R und nennen ihre Elemente die reellen Zahlen. Reelle
+Zahlen der Form [(q)nâN ] fuĚr q â Q bezeichnen wir kuĚrzer durch die rationale Zahl q.
+Die Operationen +Q und ÂˇQ und die vollstaĚndige Ordnung â¤Q aus Q erweitert man auf ganz R,
+indem man fuĚr rationale Cauchy-Folgen p = (pn )nâN und q = (qn )nâN folgendes setzt
+[p] +R [q] :â [(pn +Q qn )nâN ]
+[p] ÂˇR [q] :â [(pn ÂˇQ qn )nâN ]
+und
+[p] â¤R [q] :â (pn â qn )nâN â 0 oder pn <Q qn fuĚr alle bis auf endlich viele n â N.
+Bemerkung: Auf Grund von Proposition 24 sind (pn +Q qn )nâN und (pn ÂˇQ qn )nâN tatsaĚchlich
+Cauchy-Folgen und man kann zeigen, dass +R , ÂˇR und
+â â¤R wohldefiniert sind. Per Definition
+konvergieren rationale Cauchy-Folgen in R (also ist 2 â R, z. B. wegen der Folgen (sn ) und
+(tn ) aus Proposition 25) und man kann zeigen, dass reelle Cauchy-Folgen (analog definiert wie
+rationale) auch in R konvergieren. D. h. R ist vollstaĚndig.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+NâZâQâR?
+Streng genommen geht aus den vorangegangenen Definitionen von Z, Q und R nicht
+hervor, dass N eine Teilmenge von Z oder Z eine Teilmenge von Q oder Q eine Teilmenge
+von R ist. Zum Beispiel wurde Z als die Faktormenge einer AĚquivalenzrelation auf N Ă N
+definiert und diese Faktormenge enthaĚlt N nicht!
+Auf der anderen Seite, haben wir eine injektive Funktion n 7â [(n, 0)] von N in diese
+Faktormenge angegeben, fuĚr die sich die auf N definierte Addition und Multiplikation
+erhaĚlt, z. B. fuĚr die Addition ergibt sich aus der Definition sofort fuĚr alle natuĚrlichen
+Zahlen `, m und n, dass ` + m = n genau dann gilt, wenn [(`, 0)] +Z [(m, 0)] = [(n, 0)].
+Diese Einbettung von N erlaubt es N als Teilmenge von Z zu betrachten und wir werden
+von nun an N immer als diese Teilmenge von Z ansehen.
+Genauso kann mit Hilfe der Funktion z 7â [(z, 1)] die Menge der ganzen Zahlen in Q
+eingebettet werden, welche wiederum durch q 7â [(q)nâN ] als eine Teilmenge von R
+aufgefasst werden kann. Von nun an werden wir auf Grund dieser Einbettungen sowohl
+die rationalen, als auch die ganzen und die natuĚrlichen Zahlen als durch â¤ vollstaĚndig
+geordnete Teilmengen der reellen Zahlen betrachten und die Addition und Multiplikation
+einfach mit + und Âˇ bezeichnen. Insbesondere gilt also
+N â Z â Q â R.
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+|N| = |Z| = |Q| < |R|
+Satz 26 (Cantor 1874)
+R ist uĚberabzaĚhlbar.
+Beweis.
+Wir zeigen |P(N)| â¤ |R| und auf Grund von Satz 22 folgt dann
+|N| < |P(N)| â¤ |R| ,
+also R ist nicht abzaĚhlbar und somit uĚberabzaĚhlbar.
+Wir verwenden hier die uĚbliche Dezimaldarstellung der reellen Zahlen (ohne diese formal
+einzufuĚhren) und betrachten die folgende Funktion f : P(N) â R definiert fuĚr jedes
+A â N durch
+f (A) = xA mit 0 â¤ xA â¤ 1/9 ,
+wobei die reelle Zahl xA = 0, xA,1 xA,2 . . . an der n-ten Dezimalstelle xA,n hinter dem
+Komma 1 ist, falls n â A, und 0 sonst.
+Da es fuĚr zwei verschiedene Mengen A und B â N ein kleinstes n â N gibt, welches in
+genau einer der Mengen A oder B enthalten ist, ist xA 6= xB . Somit ist f injektiv und
+|P(N)| â¤ |{x â R : 0 â¤ x â¤ 1/9}| â¤ |R| .
+Mathias Schacht
+
+Mengenlehre
+
+WS 2011/12
+
+

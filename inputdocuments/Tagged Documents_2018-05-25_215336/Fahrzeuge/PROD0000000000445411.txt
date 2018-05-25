@@ -1,0 +1,2381 @@
+Deutschland-Monitor
+Digitale Ökonomie und struktureller Wandel
+
+Das „digitale Auto“
+19. Juni 2017
+
+Mehr Umsatz, mehr Konkurrenz, mehr Kooperation
+
+Autoren
+Eric Heymann
++49 69 910-31730
+eric.heymann@db.com
+
+Die traditionelle Automobilindustrie sowie bislang branchenfremde Unternehmen arbeiten mit Hochdruck an Software-Lösungen, Fahrassistenzsystemen
+und anderen Technologien, die ein vernetztes, autonomes, stau- und unfallfreies Fahren ermöglichen sollen. Das „digitale Auto“ in seiner Idealform ist somit keine utopische Zukunftsvision mehr, sondern nimmt allmählich Gestalt an.
+
+Janina Meister
+Editor
+Stefan Schneider
+Deutsche Bank AG
+Deutsche Bank Research
+Frankfurt am Main
+Deutschland
+E-Mail: marketing.dbr@db.com
+Fax: +49 69 910-31877
+www.dbresearch.de
+DB Research Management
+Stefan Schneider
+
+Der Weg zum „digitalen Auto“ wird allerdings eher einer Evolution statt einer
+Revolution gleichen. Dafür sprechen Faktoren auf der Angebots- und der Nachfrageseite. Zu nennen sind die langen Entwicklungszeiten in der Branche sowie
+die Langlebigkeit des Produkts Auto. Ferner dürften sich die seit Jahrzehnten
+gewachsenen Konsumpräferenzen nur langsam ändern. Es werden noch mehrere Jahrzehnte vergehen, bis das „digitale Auto“ den Pkw-Bestand weitgehend
+durchdrungen hat; vor 2040 wird dies wohl nicht der Fall sein.
+Die für das „digitale Auto“ notwendigen Technologien werden das Umsatzwachstum in der Autoindustrie begünstigen. Die meisten Technologien müssen
+zusätzlich in „digitalen Autos“ verbaut werden. Um das höhere Marktvolumen
+werden Unternehmen kämpfen, die bislang nicht oder nur am Rande in der
+Automobilindustrie aktiv waren. Der Sektor wird gegenüber heute deutlich
+heterogener und komplexer. Branchenübergreifende Kooperationen werden in
+den kommenden Jahren das Bild der Branche ändern. Trotz dieser Kooperationen bleibt der Wettbewerb in der erweiterten Automobilindustrie intensiv.
+Es gibt kein Unternehmen, welches hinsichtlich des Gesamtpakts „digitales
+Auto“ uneinholbar vorne läge. Unternehmen etwa aus der IT-Welt haben in Teilbereichen des „digitalen Autos“ (etwa dem künftig stark wachsenden automobilen Datenmarkt) Wissensvorsprünge gegenüber der klassischen Automobilindustrie. Allerdings stellt die Beherrschung der gesamten automobilen Wertschöpfungskette in einem Massenmarkt eine beachtliche Marktzutrittsbarriere
+für Newcomer dar. Die eigentliche Automobilproduktion bleibt wohl relativ wenig
+angreifbar und auch künftig die Domäne der traditionellen Autohersteller.
+Parallel zur Entwicklung des „digitalen Autos“ verändert sich das gesellschaftliche Mobilitätsverhalten. Innovative Mobilitätsdienstleistungen auf der Basis von
+Carsharing und Ridesharing gewinnen Marktanteile, gerade in Großstädten, wo
+künftig mehr private Haushalte auf einen eigenen Pkw verzichten. Auf der Angebotsseite steht hier in den nächsten Jahren eine Konsolidierungswelle an.
+Das „digitale Auto“ wird nicht die Lösung für die Verkehrsprobleme in hochverdichteten Städten sein – vor allem nicht in Schwellenländern. Diese brauchen in
+erster Linie einen gut funktionierenden ÖPNV, um den Verkehrskollaps zu verhindern. Allerdings kann das „digitale Auto“ gegenüber einem Business-asusual-Szenario zu einem verbesserten Verkehrsfluss in den Städten beitragen.
+Das Verkehrsaufkommen insgesamt muss dabei nicht zwangsläufig sinken; die
+Auslastung der betreffenden Fahrzeuge wird steigen.
+
+Das „digitale Auto“
+
+1.
+
+Das „digitale Auto“ nimmt allmählich
+Gestalt an
+
+Einleitung: Der digitale Strukturwandel fordert die Automobilindustrie heraus
+
+Das Auto, das wichtigste Verkehrsmittel des 20. Jahrhunderts, befindet sich in
+einem durch Digitalisierung getriebenen Strukturwandel. Dieser Digitalisierungsprozess verändert sowohl das Produkt Auto als auch die gesamte automobile Wertschöpfungskette. Automobilindustrie und branchenfremde Unternehmen arbeiten mit Hochdruck an Software-Lösungen, Fahrassistenzsystemen
+und anderen Technologien, die ein vernetztes, autonomes, stau- und unfallfreies Fahren ermöglichen sollen und das Automobil immer mehr in einen rollenden Computer verwandeln. Das „digitale Auto“ ist somit keine utopische Zukunftsvision mehr, sondern nimmt allmählich Gestalt an. Hinzu kommt ein sich
+veränderndes gesellschaftliches Mobilitätsverhalten, das z.B. die Entwicklung
+von innovativen Mobilitätsdienstleistungen auf der Basis von Carsharing sowie
+der intelligenten Vernetzung verschiedener Verkehrsmittel vorantreibt. Aufgrund
+staatlicher Regulierungen zum Klima- und Umweltschutz, durch veränderte
+Konsumentenpräferenzen sowie angesichts der Endlichkeit der Ölressourcen
+rücken zudem alternative, CO2-arme und energieeffiziente Antriebstechnologien
+stärker in den Fokus. Diese Trends stellen die Automobilindustrie vor große
+Herausforderungen:
+— Technologische Anforderungen: Die Erwartungen der Öffentlichkeit an das
+„digitale Auto“ sind enorm. Es wird umfangreiche Kapazitäten bei den beteiligten Unternehmen beanspruchen, diese Erwartungen (zeitnah) zu erfüllen.
+— Markt- und Wettbewerbsstrukturen: Neue Marktakteure vor allem aus der
+IT- und Datenwirtschaft verändern die klassischen Marktstrukturen in der
+Automobilindustrie. Sie sorgen für Innovations- und Positionierungsdruck
+und verschärfen den Wettbewerb in der Branche erheblich.
+
+Staatliche Regulierung bewegt sich in
+einem Spannungsfeld
+
+— Staatliche Regulierung: Die technologischen Entwicklungen rund um das
+„digitale Auto“ stehen im Fokus staatlicher Regulierung; dies betrifft u.a.
+Sicherheitsaspekte oder den Datenschutz. Die Regulierung bewegt sich dabei immer in einem Spannungsfeld: Sie sollte einerseits technischen Fortschritt und fairen Wettbewerb ermöglichen und andererseits unerwünschte
+Entwicklungen verhindern (z.B. den Missbrauch einer marktbeherrschenden
+Stellung oder die Zulassung nicht ausgereifter Technologien).
+— Gesellschaftliche Mobilitätstrends: Ein verändertes Konsum- und Nutzungsverhalten vieler (nicht nur) junger urbaner Kunden vor allem in den Industrieländern sowie ein steigendes Interesse an Dienstleistungen rund um
+Carsharing bzw. die flexible Nutzung verschiedener Verkehrsmittel werfen
+die Frage auf, ob der Besitz eines eigenen Autos an Attraktivität verlieren
+könnte und welche Konsequenzen aus neuartigen Mobilitätskonzepten für
+das Absatzpotenzial der Hersteller resultieren. Aus volks- und verkehrswirtschaftlicher Sicht ist natürlich auch der Einfluss dieser Trends auf das gesamte Verkehrsaufkommen gerade in Städten relevant.
+Auswirkungen auf die Automobilindustrie
+Im vorliegenden Bericht betrachten wir die Auswirkungen der Digitalisierung des
+Autos auf die Automobilbranche. Dabei gehen wir u.a. der Frage nach, wie
+schnell und in welchen Schritten sich das „digitale Auto“ durchsetzen könnte.
+Wir geben zunächst einen Überblick über den aktuellen Stand der Technik sowie über die öffentliche Erwartungshaltung an die neuen Technologien. Dazu
+erläutern wir, was wir unter dem Schlagwort „digitales Auto“ eigentlich verstehen
+(Kapitel 2). Wir analysieren aus volkswirtschaftlicher Perspektive, wie sich die
+Markt- und Wettbewerbsstrukturen auf der Angebotsseite der Branche künftig
+
+2
+
+|
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+verändern dürften (Kapitel 3). Hierbei stellen wir die potenziellen Wettbewerbsvorteile neuer Marktakteure z.B. aus der IT- und Datenwirtschaft den Stärken
+klassischer Unternehmen der Automobilindustrie gegenüber. Wir betrachten die
+Position der deutschen Anbieter detaillierter und erörtern die Frage, ob die neuen Marktakteure künftig eher zu Konkurrenten oder Partnern der traditionellen
+Automobilindustrie werden dürften.
+Im 4. Kapitel beleuchten wir die Nachfrageseite: Wie schnell könnte sich das
+„digitale Auto“ bei den Kunden durchsetzen? Welche Treiber und Hemmschuhe
+existieren aus Konsumentensicht? Zum einen gehen wir dabei der Frage nach,
+inwieweit das Auto als Besitzobjekt (speziell in Deutschland) an Bedeutung verlieren könnte. Welche Konsequenzen würden daraus für das Absatzpotenzial
+der Hersteller resultieren? Zum anderen beschäftigen wir uns mit der Frage, wie
+Fahrassistenzsysteme und alternative Mobilitätskonzepte (am Beispiel
+Carsharing in Deutschland) beim Nutzer ankommen und beleuchten die Zukunftsperspektiven des Carsharing-Marktes. Abschließend gehen wir der Frage
+nach, welche Konsequenzen die neuen, auf digitalen Technologien basierenden
+Mobilitätsmöglichkeiten für das absolute Verkehrsaufkommen im (städtischen)
+Straßenverkehr haben könnten (Kapitel 5). Kann das „digitale Auto“ die hohen
+Erwartungen in puncto Verkehrsfluss und Verkehrssicherheit, Effizienz, Bequemlichkeit und bestenfalls auch Umweltverträglichkeit erfüllen? Oder kann
+(auch) das „digitale Auto“ die hochverdichteten urbanen Zentren nicht vor dem
+Verkehrskollaps bewahren? Zu diesen Fragen skizzieren wir vier Szenarien.
+Technologische Aspekte des „digitalen Autos“ sowie Digitalisierung des
+Produktionsprozesses stehen nicht
+im Fokus des Berichts
+
+Im Rahmen unseres Berichts betrachten wir weniger die technischen Entwicklungsschritte und Herausforderungen auf dem Weg zum „digitalen Auto“. Wir
+gehen darüber hinaus nicht auf die (unbestritten wichtige) Frage ein, wie die
+Digitalisierung den Produktionsprozess in der Automobilindustrie verändern wird
+(Stichworte: Industrie 4.0, Internet der Dinge, Einzelfertigung in Großserie). Zudem lassen wir weitgehend außen vor, wie schnell und in welchem Umfang sich
+alternative Antriebstechnologien (z.B. E-Mobilität) auch im „digitalen Auto“
+durchsetzen werden, wobei sich grundsätzlich abzeichnet, dass der Elektrifizierungsgrad der Fahrzeuge in den nächsten Jahren schrittweise zunimmt. Es
+würde jedoch den Rahmen dieses Berichts sprengen, die drei genannten Aspekte zusätzlich (ausführlich) zu beleuchten.
+Die Idee des „digitalen Autos“ lässt die Utopie einer Welt ohne Unfälle und
+Staus im Straßenverkehr greifbar nah erscheinen. Ohne die Ergebnisse unseres
+Berichts im Detail vorwegzunehmen, dürfte dieser Weg jedoch eher einer kontinuierlichen Evolution als einer radikalen Revolution gleichen.
+
+Pkw-Bestand wächst stetig
+
+1
+
+Weltweiter Pkw-Bestand, Mrd.
+1,2
+1,0
+0,8
+0,6
+0,4
+0,2
+0,0
+05 06 07 08 09 10 11 12 13 14 15 16
+Quellen: OICA, eigene Schätzungen
+
+3
+
+|
+
+19. Juni 2017
+
+2.
+
+Mobilität heute und morgen: Das Auto bleibt – aber wie?
+
+2.1
+
+Ein Massenverkehrsmittel im Wandel
+
+Die Digitalisierung des Autos schreitet in großen Schritten voran. Der technische
+Fortschritt bei der Entwicklung des „digitalen Autos“ ist in den Medien stark präsent; das Meinungsspektrum ist dabei durchaus breit. Manche Marktbeobachter
+sehen – nicht zuletzt angesichts der ambitionierten Forschungsaktivitäten der
+Tech-Konzerne z.B. aus dem Silicon Valley – im konventionellen Auto und sogar in der gesamten klassischen Automobilindustrie ein Auslaufmodell.
+Tatsache hingegen ist: Das Automobil ist in den westlichen Industriestaaten das
+mit Abstand wichtigste Verkehrsmittel – und das im Grunde schon seit der nach
+dem 2. Weltkrieg einsetzenden Massenmotorisierung in den meisten Industrieländern. Immer mehr Schwellenländer folgen diesem Muster. Weltweit und auch
+in Deutschland steigt die Zahl der Pkw auf den Straßen weiterhin stetig an. Die
+Automobilindustrie selbst ist in vielen Ländern ein wichtiger Arbeitgeber und
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+investiert hohe Summen in neue oder bestehende Produktionsstätten sowie in
+Forschung und Entwicklung.
+
+Auto ist ein sehr emotionales Produkt
+
+Das Produkt Automobil wurde in den letzten Jahrzehnten stetig verbessert. Dies
+gilt für ganz verschiedene Kriterien wie Leistungsfähigkeit, Sicherheit, Komfort,
+Energieeffizienz bzw. Umweltverträglichkeit oder Zuverlässigkeit. Das Design
+der Fahrzeuge hat sich im Laufe der Zeit ebenso gewandelt und spielt bis heute
+eine sehr wichtige Rolle für die Kunden. Auch das Image einer Automarke hat
+nach wie vor einen sehr großen Einfluss auf die Kaufentscheidung vieler Autofahrer. Insofern war und ist das Auto für viele Kunden ein sehr emotionales Produkt und auch privater Rückzugsraum. Natürlich bleibt die Funktion eines Autos,
+individuelle Mobilität flexibel zu ermöglichen, der entscheidende Erfolgsfaktor.
+Allerdings verändern sich die Ansprüche der Kunden an das Auto. Kommunikation und Vernetzung mit anderen Verkehrsteilnehmern, mit Familie, Freunden
+oder Geschäftspartnern sind zunehmend gefragt. Für immer mehr Nutzer ist es
+wichtig, dass ihr Auto internetfähig ist und eine Schnittstelle z.B. zu den eigenen
+mobilen Endgeräten (Smartphone & Co.) bietet. Diese Trends werden dank des
+technischen Fortschritts im IT-Sektor auch von der Angebotsseite stetig vorangetrieben. Daher befindet sich das Automobil weiterhin im Wandel. Die „Digitalisierung“ ist neben der Umwelt- und Klimaverträglichkeit bzw. Energieeffizienz
+der Fahrzeuge derzeit der bestimmende technologische Megatrend in der Autoindustrie. Was ist aber gemeint, wenn wir vom „digitalen Auto“ sprechen?
+Was ist mit dem „digitalen Auto“ gemeint?
+
+Fahrassistenzsysteme gewinnen an
+Bedeutung
+
+Das Auto verfügt heute und noch mehr in Zukunft über viele zusätzliche Funktionen, die es in dieser Form vor wenigen Jahren – zumindest in Serienfahrzeugen – noch nicht gab. Die so genannten Fahrassistenzsysteme (FAS; engl.
+Advanced Driver Assistance Systems (ADAS)) nehmen dem Autofahrer (während der Fahrt) immer mehr Aufgaben ab.1 So unterstützen sie beim Lenken,
+Bremsen oder Einparken. Einige Assistenzsysteme sind sogar schon gesetzlich
+verpflichtend. Beispielsweise schreibt eine EU-Verordnung seit 2011 den Einbau des Elektronischen Stabilitätsprogramms (kurz: ESP) für alle in der EU neu
+zugelassenen Fahrzeuge vor. Dieses erleichtert es dem Autofahrer, durch eine
+verbesserte Brems- und Lenkfunktion in schwierigen Fahrsituationen (z.B. bei
+Glätte, Regen oder Schnee) die Spur zu halten.
+Solche Assistenzsysteme sind der Einstieg in eine Entwicklung, die perspektivisch zum autonom fahrenden Automobil führt. Um eine solche Entwicklung zu
+ermöglichen, werden Autos mit immer mehr Software, Sensoren oder Radarund Kamerasystemen ausgestattet. Ferner werden Technologien benötigt, die
+eine Kommunikation der Fahrzeuge untereinander oder mit Verkehrsleitsystemen und anderen festinstallierten Einrichtungen außerhalb der Fahrzeuge gewährleisten (Car-to-X-Kommunikation). Zwar ist noch offen, wie die notwendigen Technologien im Detail aussehen werden und welche Möglichkeiten sich
+daraus für Autofahrer im Alltag ergeben. Der digitale Wandel rund um das Automobil bedeutet aber in jedem Fall eine große Herausforderung für Autohersteller, Zulieferer und sonstige Firmen, die sich in diesem Markt positionieren.
+Wem es gelingt, diese Herausforderungen zu meistern, dem eröffnen sich neue
+Wachstumschancen.
+
+Das „digitale Auto“ ist voll vernetzt
+und kommuniziert mit seinem Umfeld
+
+Das „digitale Auto“ der Zukunft ist also voll vernetzt und kann mit seinem Umfeld
+kommunizieren. Für eine Unterscheidung der verschiedenen Stufen des autonomen Fahrens bietet eine Einteilung der Arbeitsgruppe „Rechtliche Folgen
+zunehmender Fahrautomatisierung“ der Bundesanstalt für Straßenwesen
+(BASt) eine hilfreiche Orientierung. Diese reicht von „Driver only“ (Stufe 0) über
+1
+
+4
+
+|
+
+19. Juni 2017
+
+Vgl. Deutsche Bank Markets Research (2016). Pricing the Car of Tomorrow – Part II“. FITTReport. London.
+Deutschland-Monitor
+
+Das „digitale Auto“
+
+Fahrerloses Fahren als Endstufe der
+Automatisierung
+
+„teil-, hoch- und vollautomatisiert“ (Stufen 2 bis 4) bis hin zum vollständig
+„fahrerlosen Fahren“ (Stufe 5). Während jegliche Längs- und Querschnittsaufgaben der Fahrzeugführung (Beschleunigen, Verzögern, Lenken) auf den
+Stufen „assistiert“ (Stufe 1) und „teilautomatisiert“ (Stufe 2) dem Fahrer obliegen, kann das System auf den Stufen „hochautomatisiert“ (Stufe 3) und „vollautomatisiert“ (Stufe 4) zunehmend mehr Fahrsituationen automatisch bewältigen.
+Für unseren Überblick über den Stand der Technologie orientieren wir uns an
+jenen Entwicklungsstufen. Natürlich können diese lediglich der groben Orientierung dienen. Das „digitale Auto“ entspräche im technologischen Endzustand
+damit der höchsten Automatisierungsstufe „fahrerlos“ (Stufe 5), die eine technisch funktionierende vollumfängliche Vernetzung und Kommunikation des
+Fahrzeugs mit der Umwelt voraussetzen würde.
+Stufen des automatisierten Fahrens (Automatisierungsgrad)
+
+2
+
+100%
+80%
+
+Fahrer führt
+das
+Fahrzeug
+
+Fahrer führt
+das
+Fahrzeug
+
+Fahrer
+überwacht
+das System
+
+System
+übernimmt
+Assistenz
+
+System
+übernimmt
+einige
+Fahrfunktionen
+
+keine
+Überwachung
+durch Fahrer
+notwenig
+
+kein Fahrer
+erforderlich
+
+60%
+40%
+20%
+0%
+
+kein System
+aktiv
+
+Stufe 0
+Driver only
+
+Stufe 1
+Assistiert
+
+System
+übernimmt
+zahlreiche
+Fahrfunktionen
+
+System
+übernimmt
+(fast) alle
+Fahrfunktionen
+
+Stufe 2
+Stufe 3
+Stufe 4
+Teilautomatisiert Hochautomatis. Vollautomatisiert
+
+System
+fährt
+ohne
+Fahrer
+
+Stufe 5
+Fahrerlos
+
+Quelle: VDA
+
+Enorme technologische Herausforderungen
+
+Straßenverkehr ist chaotisches
+System mit vielen Unwägbarkeiten,
+aber auch regelbasiert
+
+Fahrzeuge mit unterschiedlichem
+Automatisierungsgrad werden künftig
+gleichzeitig auf den Straßen unterwegs sein
+
+Auf dem Weg zum „digitalen Auto“ müssen enorme technologische Hürden
+überwunden werden, die wir hier nur kurz anreißen können. Der Straßenverkehr
+ist von Millionen von ständig wechselnden und immer wieder neuen Situationen
+und Unwägbarkeiten geprägt. Diese erfordern in Bruchteilen von Sekunden
+Entscheidungen, welche im Extremfall über Leben und Tod entscheiden kön2
+nen. Sämtliche Entscheidungen haben unmittelbar Rückwirkungen auf andere
+beteiligte Verkehrsteilnehmer. Autobahnfahrten, bei denen der Gegenverkehr
+oder Fußgänger (im Normalfall) keine Rolle spielen, sind z.B. weniger komplexe
+Verkehrssituationen als der Straßenverkehr in hochverdichteten Städten mit
+sehr unterschiedlichen Verkehrsteilnehmern. Ein solches „chaotisches“ System
+3
+zu automatisieren, ist hochkomplex.
+Erschwert wird das Vorhaben dadurch, dass die technologischen Möglichkeiten
+der Fahrzeuge im Bestand in einer Übergangsphase von mehreren Jahrzehnten
+unterschiedlich fortschrittlich sind (siehe auch Kapitel 4). Damit ist auch der
+(fehleranfällige) Einfluss des Menschen auf das Gesamtsystem im Zeitablauf
+unterschiedlich stark ausgeprägt. In 20 Jahren könnten sich z.B. vollautomatisierte Autos die Straßen mit Fahrzeugen teilen, die noch komplett manuell vom
+Menschen gesteuert werden. Die Prozesse der Entscheidungsfindung bei Menschen und digitalen Algorithmen unterscheiden sich stark. Diese unterschiedlichen Technologiestandards so zu harmonisieren, dass eine hohe Verkehrs2
+
+3
+
+5
+
+|
+
+19. Juni 2017
+
+Intensiv wird beispielsweise die Frage diskutiert, wie automatisiert fahrende Autos in Situationen
+entscheiden sollen, in denen ein Unfall zwar unvermeidlich ist, jedoch die Art des Unfalls offen ist.
+Soll ein Algorithmus in erster Linie die Fahrzeuginsassen schützen, auch auf die Gefahr hin, dass
+z.B. Fußgänger vom Auto erfasst werden statt eines massiven Gegenstands? Neben dem moralischen Aspekt sind hier natürlich auch versicherungstechnische Fragen relevant.
+Beispielsweise ist der Schienenverkehr allein schon wegen der trassengebundenen Verkehrsführung und der geringeren Zahl an Fahrzeugen leichter zu automatisieren als der Straßenverkehr.
+Deutschland-Monitor
+
+Das „digitale Auto“
+sicherheit gewährleistet ist, ist nicht einfach. Hinzu kommt, dass es immer auch
+Verkehrsteilnehmer geben wird, die nicht digital mit Fahrzeugen vernetzt sind
+(z.B. Fußgänger, Kinder, Radfahrer, Tiere, Gegenstände unterschiedlichster Art
+auf der Fahrbahn). Verfolgt man die aktuelle Berichterstattung über das „digitale
+Auto“ bzw. autonomes Fahren, kann der Eindruck entstehen, als seien diese
+technologischen Hürden leicht zu überwinden. Dies ist jedoch nicht der Fall.
+Gleichwohl erwarten wir, dass das „digitale Auto“ in seiner Idealform langfristig
+möglich sein wird und dass die Verkehrssicherheit durch mehr Automation künftig zunimmt.
+2.2
+
+Viele Unternehmen treiben den technischen Fortschritt voran
+
+Während die Vision vom „digitalen Auto“ schon in den fortschrittsgläubigen
+1950er Jahren künstlerisch Gestalt annahm, nähert sich diese frühere Zukunftsvision derzeit schrittweise der technischen Realität.
+
+Gesetzlicher Rahmen für autonomes
+Fahren in Deutschland steht
+
+Fahrzeuge mit teilautomatisierten
+Fahreigenschaften werden inzwischen in Serie produziert
+
+Forschung ist schon weiter vorangeschritten
+
+6
+
+|
+
+19. Juni 2017
+
+Hinsichtlich des Automatisierungsgrads befinden wir uns derzeit im Übergang
+zwischen der teil- und der hochautomatisierten Fahrtechnologie (Stufen 2 und
+3). Das bedeutet: Der menschliche Fahrer ist bis dato erforderlich und verpflichtet, das Fahrgeschehen zu jeder Zeit zu überwachen. Dieser technologische
+Status entspricht auch den aktuellen gesetzlichen Bestimmungen nach dem
+„Wiener Übereinkommen über den Straßenverkehr“ von 1968. Dieses sieht vor,
+dass ein Fahrzeug jederzeit von einem Fahrzeugführer kontrolliert werden
+muss, solange es bewegt wird. Die deutsche Bundesregierung hatte 2016 einer
+Änderung dieses Übereinkommens zugestimmt. Sie sieht eine Lockerung der
+bisherigen Regelungen grundsätzlich vor und schafft damit einen ersten gesetzlichen Rahmen für teilautonome Assistenzsysteme. Im 1. Halbjahr 2017 haben
+Bundestag und Bundesrat ein Gesetz zum autonomen Fahren (inklusive hochautomatisiertem Fahren) verabschiedet. Danach ist der Betrieb von hoch- und
+vollautomatisiert fahrenden Autos grundsätzlich zulässig. Allerdings muss der
+Fahrer jederzeit die Kontrolle über das Auto übernehmen können, u.a. wenn er
+vom System dazu aufgefordert wird; er muss also „wahrnehmungsbereit“ sein.
+Bezüglich der Haftung bei Unfällen muss u.a. geklärt werden, ob das Fahrzeug
+im automatisierten Modus unterwegs war oder ob der Autofahrer schnell genug
+auf die Aufforderung des Systems reagiert hat. Im Einzelfall dürfte es häufig
+notwendig sein zu klären, ob die Versicherung der Fahrzeughalters oder des
+Fahrzeugherstellers für Schäden des Unfallbeteiligten aufkommen muss.
+Der technische Fortschritt schreitet derweil voran: Assistenzsysteme und Fahrzeuge mit teilautomatisierten Fahreigenschaften werden inzwischen von fast
+allen großen Automobilherstellern in Serie produziert. Diese sind z.B. mit Tempomat, Beschleunigungs- und Bremsassistent, Einparkhilfe, Bergabfahr- und
+Anfahrhilfe, Notbremssystem oder Abstandsregeltempomat ausgestattet. Neben
+den großen etablierten Automobilherstellern aus Europa, den USA, Japan und
+Korea bietet auch der noch recht junge US-amerikanische Autoproduzent Tesla
+Fahrzeuge an, die teilautomatisiertes Fahren ermöglichen. Zudem sind hier
+auch die (bislang) branchenfremden IT-Konzerne Google und Apple aktiv,
+wenngleich die betreffenden Fahrzeuge (noch) nicht am Markt verfügbar sind.
+Der Fahrdienstvermittler Uber ist ein Beispiel für die Anwendung dieser neuen
+Technologien und Fahrzeuge, ohne selbst hauptverantwortlich in deren Entwicklung oder Produktion involviert zu sein.
+Die aktuellen Forschungsaktivitäten richten sich primär auf die hoch- und vollautomatisierte Fahrtechnik. So testet Daimler das hochautomatisierte Forschungsfahrzeug „015 Luxury in Motion“ sowie das Assistenzsystem „Highway Pilot“ für
+vollautomatisierte Nutzfahrzeuge. Google, Apple und Uber befinden sich ebenfalls bereits seit geraumer Zeit in der Testphase von vollautomatisierten Prototypen. Auch andere Hersteller wie Toyota, PSA, BMW und Volkswagen testen
+ähnliche Technologien bereits in der Praxis. Der US-amerikanische Autoherstel-
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+
+Verschiedene Unternehmen treiben
+technischen Fortschritt voran
+
+ler Ford gab bekannt, man wolle bis zum Jahr 2021 autonome Fahrzeuge ohne
+Lenkrad und Pedale produzieren. Ebenso stellte Volkswagen auf dem letzten
+Pariser Automobilsalon sein neues für 2020 geplantes Elektroauto vor, welches
+bis 2025 auch in einer autonom fahrenden Version auf den Markt kommen soll.
+Die Liste der Forschungsaktivitäten von Autoherstellern und Kfz-Zulieferern auf
+diesem Gebiet wird stetig länger, weshalb hier nur eine Auswahl genannt werden kann.
+Die Beispiele verdeutlichen: Treiber des technischen Fortschritts sind sowohl
+die großen Automobilhersteller (und ihre traditionellen Zulieferer) als auch bislang branchenfremde IT-Konzerne. Diese bringen die etablierten Unternehmen
+in Zugzwang. Insofern gilt hier das Sprichwort, dass Konkurrenz das Geschäft
+belebt. Es ist plausibel, dass das Engagement der traditionellen Autohersteller
+im Bereich des autonomen Fahrens bzw. des „digitalen Autos“ ohne die Initiativen der „Newcomer“ weniger groß ausgefallen wäre.
+
+Straßenverkehr wichtige
+Emissionsquelle
+
+3
+
+Anteil einzelner Sektoren an globalen energiebedingten CO2-Emissionen, 2014
+
+42,1
+17,5
+
+— Verkehrsaufkommen und Verkehrsfluss: Weltweit befinden sich derzeit bereits über 1 Milliarde Kraftfahrzeuge in Gebrauch (inklusive Nutzfahrzeuge).
+Seit 2005 dürfte der weltweite Kfz-Bestand um insgesamt knapp 50% zugenommen haben. Auch die Verkehrsleistung im Straßenverkehr steigt stetig.
+Staus zählen in vielen Städten und an Verkehrsknotenpunkten zum Alltag.
+Intelligente Fahrtechnologien könnten den Verkehrsfluss erhöhen und im
+Idealfall – so die Hoffnung vieler Marktakteure – das Verkehrsaufkommen
+senken bzw. zumindest die Wachstumsrate des Verkehrsaufkommens verringern.
+
+19,2
+
+Strom- und Wärmeerzeugung
+Industrie und Bau
+Straßenverkehr
+Sonstige
+Quelle: IEA
+
+Zahl der Verkehrstoten im Straßenverkehr in
+Deutschland
+12.000
+10.000
+8.000
+6.000
+4.000
+2.000
+0
+91 93 95 97 99 01 03 05 07 09 11 13 15
+Quellen: DIW Verkehr in Zahlen, Statistisches Bundesamt
+
+Das „digitale Auto“ weckt große Hoffnungen und Erwartungen
+
+Während die Anbieter die Technologien rund um das „digitale Auto“ vorantreiben, wachsen öffentliches Interesse und Erwartungen. Zunehmende Verkehrsengpässe (vor allem in den Großstädten der Schwellenländer), Luftverschmutzung durch Abgase und ein erhöhtes Unfallrisiko in vielen Ländern sind unerwünschte Entwicklungen, die mit dem bisherigen Mobilitätsverhalten einhergehen. Die Hoffnungen und Erwartungen bestehen, diese Trends durch eine intelligentere Mobilität u.a. mittels „digitaler Autos“ abzumildern oder umzukehren:
+
+21,2
+
+Zahl der Verkehrstoten sinkt in
+Deutschland tendenziell
+
+2.3
+
+4
+
+— Klima- und Umweltwirkungen: Auf den Straßenverkehr entfallen knapp 18%
+der weltweiten energiebedingten CO 2-Emissionen. Das „digitale Auto“ könnte z.B. über einen verbesserten Verkehrsfluss, eine höhere Fahrzeugauslastung bzw. ein verringertes Verkehrsaufkommen dazu beitragen, Fortschritte auf dem Weg zu einem langfristig angestrebten klimaneutralen
+Straßenverkehr zu erzielen. Dazu müsste dieser in den nächsten Jahrzehnten natürlich vor allem auf (bezahlbare) erneuerbare Energien umgestellt
+werden; der Einfluss allein des „digitalen Autos“ ist stark begrenzt, solange
+diese überwiegend mit fossilen Kraftstoffen betrieben werden.
+— Verkehrssicherheit: Weltweit sterben laut Weltgesundheitsorganisation jährlich rd. 1,25 Mio. Menschen im Straßenverkehr, bei leicht steigender Tendenz. In Deutschland ist die Zahl zwar rückläufig, es waren 2016 aber immer noch etwas mehr als 3.200 Menschen. Die Unfallursachen bei Straßenverkehrsunfällen mit Personenschaden in Deutschland lagen nach Angaben des Deutschen Instituts für Wirtschaftsforschung (DIW) 2015 bei
+knapp 88% der Fälle beim Fahrzeugführer. Mehr Sicherheit und weniger
+Unfälle im Straßenverkehr zählen daher zu den wichtigsten Erwartungen an
+das „digitale Auto“.
+— Zugang zu individueller Mobilität: Der Anteil der erwachsenen Personen mit
+Führerschein ist in Deutschland mit zuletzt rd. 87% (Stand: 2014) sehr
+hoch. Dennoch ist die Automobilität – etwa aus Kostengründen – nicht für
+alle zugänglich. Das „digitale Auto“ könnte individuelle Mobilität für mehr
+
+7
+
+|
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+Unfallursachen liegen meist beim
+Fahrzeugführer
+
+5
+
+Unfallursachen bei Straßenverkehrsunfällen mit
+Personenschaden in DE, 2015, Anteile, %
+0,9
+
+3,4
+
+3,4 4,7
+
+gesellschaftliche Gruppen ermöglichen. Freilich liegt hierin ein gewisser
+Widerspruch zum Ziel, das Verkehrsaufkommen insgesamt zu senken.
+— Mehr Komfort und frei verfügbare Zeit: Fahrassistenzsysteme bieten schon
+heute einen hohen Fahrkomfort. Das „digitale Auto“ könnte den Komfort in
+Zukunft noch steigern und es dem Fahrer ermöglichen, während der Fahrt
+produktiveren Tätigkeiten nachzugehen oder sich zu entspannen.
+In den folgenden Ausführungen diskutieren wir, inwiefern die hier skizzierten
+Erwartungen an das „digitale Auto“ erfüllt werden dürften.
+
+87,6
+
+3. Die Angebotsseite: Das „digitale Auto“ sorgt für spürbare
+Marktverschiebungen
+Ursachen bei Fahrzeugführern
+Ursachen bei Fahrzeugen
+Ursachen bei Fußgängern
+Straßenverhältnisse
+Sonstige
+Quelle: DIW Verkehr in Zahlen
+
+Die hohe Geschwindigkeit des technischen Fortschritts auf dem Weg zum „digitalen Auto“ basiert auf einem Wettrennen der beteiligten Unternehmen. Der
+Konkurrenzdruck zwischen alteingesessenen Automobilherstellern und bislang
+branchenfremden Akteuren aus dem IT-Sektor ist dabei ein wichtiger Treiber.
+Beim Blick auf die mediale Berichtserstattung entsteht häufig sogar der Eindruck, als befinde sich die klassische Automobilindustrie in der Rolle des Getriebenen. Aber stehen die Marktchancen für die traditionellen Autohersteller
+wirklich so schlecht? Bevor wir uns den Zukunftsperspektiven der Branche insgesamt widmen, ist aus volkswirtschaftlicher Sicht eine kurze Skizze des Automobilmarkts aufschlussreich. Wie genau verändert der Digitalisierungsprozess
+die Markt- und Wettbewerbsbedingungen?
+Markt- und Wettbewerbsstrukturen im Automobilsektor: ein Überblick
+
+Automobile Wertschöpfungskette ist
+sehr komplex
+
+Wenige Automobilhersteller, viele
+Zulieferer
+
+Der gesamte Automobilsektor umfasst eine viel größere Zahl an Akteuren, als
+es auf den ersten Blick scheint: Zu nennen ist die eigentliche Automobilindustrie, die sich nach offizieller statistischer Abgrenzung aus den Autoherstellern,
+den Kfz-Zulieferern sowie dem recht kleinen Bereich der Hersteller von Karosserien, Aufbauten und Anhängern zusammensetzt. Darüber hinaus spielen weitere vor- und nachgelagerte Sektoren eine wichtige Rolle. So liefern auch
+Unternehmen aus der Elektrotechnik, der Metall-, Chemie-, Kunststoff- oder
+Textilindustrie Vorprodukte an die eigentliche Automobilindustrie. Bedeutsam
+sind ferner die Ausrüster von Automobilfabriken, vor allem der Maschinenbau.
+Eine große Rolle spielen zudem verschiedene Forschungseinrichtungen. Zu
+den nachgelagerten Sektoren gehören u.a. Kfz-Händler und Werkstätten. Die
+automobile Wertschöpfungskette wird zum Teil von spezialisierten Logistikunternehmen organisiert. Schließlich gibt es eine Reihe automobilspezifischer
+Dienstleistungen (z.B. Kfz-Banken, Versicherungen und Sachverständige, Entwicklungsbüros, TÜV).
+Die Zahl der Anbieter fällt in den einzelnen Teilbereichen unterschiedlich hoch
+aus. In der eigentlichen Automobilindustrie stehen dabei recht wenige, dafür
+aber zumeist große Autohersteller sehr vielen Zulieferern gegenüber. Bei letzteren reicht das Spektrum von kleinen und mittelständischen Betrieben bis hin zu
+global agierenden Konzernen. Die Vielzahl beteiligter Akteure deutet auf einen
+intensiven brancheninternen Wettbewerb hin. Charakteristisch für den Sektor
+und das Produkt Auto ist außerdem das hohe Maß an Regulierung. Dies gilt vor
+allem für die Bereiche Ökologie bzw. Klimaschutz und Sicherheit.
+Die Bedeutung der Zulieferer für die Innovationskraft der gesamten Automobilindustrie ist immens. Das Produktportfolio der Zulieferer ist besonders vielfältig.
+In Zukunft dürfte sich dies noch verstärken, denn durch die Digitalisierung des
+Automobils werden (noch) mehr software- statt hardwarebasierte Systeme benötigt. Dies bindet erhebliche finanzielle und personelle Kapazitäten bei den
+Zulieferern. Für die Branche bedeutet dies eine große Herausforderung, zumal
+
+8
+
+|
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+gleichzeitig aus Kostengründen der Produktionsprozess fortlaufend optimiert
+werden muss. Die Notwendigkeit, alternative Antriebstechnologien zur Marktreife zu bringen, erfordert parallel dazu weitere Ressourcen und stellt perspektivisch ganze Geschäftsbereiche in Frage. Bei der Umstellung vom herkömmlichen Verbrennungsmotor zur batterieelektrischen Mobilität wird nämlich eine
+Reihe an Bauteilen (z.B. Getriebe oder Abgasreinigung) schlicht überflüssig,
+wenngleich dies nicht von heute auf morgen geschieht.
+Grenzen zwischen eigentlicher Automobilindustrie und angrenzenden
+Sektoren verschwimmen
+
+Komplexität der automobilen Wertschöpfungskette bildet
+Marktzutrittsbarriere
+
+Insgesamt erweitert sich der Kreis potenzieller Zulieferer infolge der Digitalisierung des Autos (vor allem in den Bereichen Elektrotechnik, Software und Datenverarbeitung sowie digitale Sicherheit). Für die Marktstrukturen der Branche
+heißt das: Der Automobilsektor wird noch komplexer, neue Produktsparten und
+potenzielle Marktakteure treten hinzu, und eine klare Trennung zwischen Automobilsektor und angrenzenden Bereichen wird immer schwieriger.
+Warum erläutern wir diese Marktstrukturen? Nun, angesichts der skizzierten
+Komplexität der gesamten automobilen Wertschöpfungskette, des intensiven
+Wettbewerbs sowie wegen des hohen Maßes an Regulierung erscheint die
+Branche auf den ersten Blick für Neu- und Quereinsteiger wenig attraktiv bzw.
+nur schwer anfechtbar. Dennoch sind im Zuge der Digitalisierung des Automobils (und durch den Bedeutungsgewinn alternativer Antriebe) neue Akteure
+auf dem Sprung. Dies stellt die Automobilhersteller, die großen und international
+agierenden Zulieferer sowie kleine und mittelständisch geprägte Zulieferer vor
+unterschiedliche Herausforderungen. Aus volkswirtschaftlicher Sicht gilt es deshalb, ein differenziertes Bild zu zeichnen. Wer könnte den Sprung in welche
+Bereiche des automobilen Sektors der Zukunft wagen?
+3.1
+
+Digitale Ökosysteme zählen zu den
+neuen Akteuren im Automobilsektor
+
+Neue Marktakteure sind bereits gestartet
+
+Mit Google und Apple mischen zwei branchenfremde Unternehmen im Rennen
+um das „digitale Auto“ kräftig mit. Angesichts ihrer Innovationskraft und Finanzstärke gelten sie als neue Konkurrenten der Automobilindustrie, seit ihre Ambitionen auf diesem Gebiet bekannt wurden. So testete Google bereits 2009 seinen ersten Prototypen eines autonom fahrenden Autos und gilt für viele Marktbeobachter als Pionier auf diesem Gebiet. Doch die neuen Akteure sind weitaus
+vielfältiger. Daher gibt es auch keine einfache Antwort auf die Frage, wie groß
+das Bedrohungspotenzial für die traditionelle Automobilindustrie ist.
+Wer sind die neuen Marktakteure und weshalb interessieren sie sich für das
+Automobilgeschäft (oder auch nicht)?
+Für eine genauere Betrachtung der neuen Konkurrenzsituation in der Automobilindustrie verwenden wir die nachfolgende Klassifizierung, anhand derer wir
+potenzielle Konkurrenten für die traditionelle Automobilindustrie mit ihren jüngsten Aktivitäten und der Ausrichtung ihrer Geschäftstätigkeit vorstellen:
+i.
+
+Neue Automobilhersteller
+
+ii.
+
+Neue Zulieferer
+
+iii. Digitale Ökosysteme
+iv. Digitale Mobilitätsdienstleister und Carsharing-Anbieter
+Neue Automobilhersteller
+Nur wenige neue Autohersteller
+
+9
+
+|
+
+19. Juni 2017
+
+Weltweit ist die Zahl der unabhängig agierenden Automobilhersteller in den
+letzten Jahrzehnten fast stetig gesunken; der intensive Wettbewerb sowie die
+Bedeutung von Größenvorteilen in Einkauf, Produktion und Vertrieb haben
+maßgeblich zu diesem Konsolidierungsprozess beigetragen. Neue Anbieter mit
+Deutschland-Monitor
+
+Das „digitale Auto“
+
+Tesla macht Fortschritte beim
+autonomen Fahren
+
+überregionaler Bedeutung sind die absolute Ausnahme. Und es gibt tatsächlich
+keinen (neuen) Anbieter, der vor allem durch die Themen „digitales Auto“ oder
+„autonomes Fahren“ getrieben ist. Eine direkte Konkurrenz im Kerngeschäft der
+Automobilproduktion besteht derzeit also kaum. Am ehesten passt hier das USamerikanische Unternehmen Tesla Motors ins Bild, welches 2003 gegründet
+wurde. Das Unternehmen ist vor allem dafür bekannt, vollständig auf elektrische
+Antriebe zu setzen – bislang mit einem Fokus auf Fahrzeuge der automobilen
+Oberklasse. Allerdings erzielt Tesla auch im Bereich autonomes Fahren erhebliche Fortschritte. So hat Tesla als erster Hersteller angekündigt, seine Autos mit
+der nötigen Hardware auszustatten, die zu einem späteren Zeitpunkt autonomes Fahren ermöglichen soll. Zudem gab das Unternehmen Pläne bekannt,
+eine Online-Plattform für die Vermittlung von Mobilitätsdiensten einzurichten.
+Damit positioniert sich Tesla in den Geschäftsfeldern „autonomes Fahren“ und
+„digitale Mobilitätsdienstleistungen“. Betriebswirtschaftlich erwirtschaftet Tesla
+aus verschiedenen Gründen bislang zwar ganz überwiegend Verluste und ist
+gemessen an den abgesetzten Fahrzeugen nach wie vor ein Nischenanbieter.
+Aufgrund der Ausrichtung des Unternehmens auf den Bau von Elektrofahrzeugen, die perspektivisch autonomes Fahren ermöglichen sollen, ist Tesla derzeit
+aber wohl der einzige (recht) neue direkte Konkurrent der klassischen Automobilhersteller im Kerngeschäft des Automobilbaus.
+Neue Zulieferer
+
+Für alte und neue Zulieferer eröffnet
+sich umfangreiches Produktspektrum
+
+Ohne die Innovationskraft der Kfz-Zulieferer dürfte das „digitale Auto“ wohl nur
+schwer den Weg auf die Straße finden. Es ist zu erwarten, dass viele der etablierten Unternehmen ihr Produktspektrum in diesen Bereich erweitern. Gleichwohl treten auch neue Anbieter in den Markt ein. Die Gruppe potenzieller neuer
+Zulieferer ist groß und schwer überschaubar. Einerseits signalisieren breit aufgestellte IT- und Softwarekonzerne wie Google, Apple oder der chinesische
+Suchmaschinenanbieter Baidu Interesse, ihre Geschäftsmodelle in den Bereich
+des „digitalen Autos“ auszuweiten, andererseits finden sich auf dem Markt hoch
+spezialisierte Hersteller z.B. von Fahrassistenzsystemen wie der israelische
+Hersteller Mobileye. Hier entstehen derzeit zahlreiche neue strategische Partnerschaften und Kooperationen. Auch der Bereich Sicherheit wird für die Automobilbranche zunehmend relevanter und eröffnet u.a. jungen Unternehmen den
+Zugang zur Branche. Das israelische Start-up-Unternehmen Argus Cyber Security spezialisierte sich beispielsweise auf die Car-Hacking-Problematik.
+Digitale Ökosysteme
+
+Apple und Google erweitern ihr
+Angebot stetig
+
+In der öffentlichen Wahrnehmung werden so genannte digitale Ökosysteme aus
+der IT- und Datenwirtschaft häufig als größte Konkurrenten der traditionellen
+Automobilindustrie eingeschätzt. Die bekanntesten Beispiele sind sicherlich
+Google und Apple. Während Google mit seiner Suchmaschine ursprünglich als
+Anbieter von softwarebasierten Internetdienstleistungen startete, wurde Apple
+als einer der ersten Anbieter von Computern für die private Nutzung zunächst
+als Hardwareanbieter bekannt. Beide Unternehmen erweiterten ihr Angebot im
+Laufe der Jahre stark; ihr breites Produktspektrum ist inzwischen zu einem Markenzeichen geworden. Sowohl Google als auch Apple haben Technologien
+entwickelt, mit denen eine Vernetzung von Smartphones, die mit dem jeweils
+eigenen Betriebssystem ausgestattet sind, mit dem Kommunikationssystem der
+Fahrzeuge ermöglicht wird (Android Auto und Apple CarPlay).
+Apple sorgt seit 2014 mit dem „Project Titan“ für Aufmerksamkeit in der Branche. Laut Medienberichten hatte Apple zahlreiche Spezialisten aus der Automobilindustrie abgeworben. Daher sind die anhaltenden Diskussionen nachvollziehbar, dass das Unternehmen an einem autonom fahrenden und elektrisch
+
+10 |
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+angetriebenen „Apple Car“ arbeite. Zwischenzeitlich konnte man der Presse
+jedoch auch Nachrichten über Unsicherheiten bezüglich der konkreten Fortführung des Projekts entnehmen. Im Frühjahr 2017 stellte Apple in den USA den
+Antrag, Testfahrten mit autonom fahrenden Autos durchführen zu können.
+Google sorgt mit seinen autonomen Testversuchen seit einiger Zeit für Schlagzeilen. Die bereits im Oktober 2016 angekündigten Pläne, die bisherige Forschungsabteilung auf diesem Gebiet in eine eigenständige Firma überführen zu
+wollen, konkretisierten sich. Seit Dezember 2016 treibt eine neue Tochterfirma
+unter dem Namen „Waymo“ die Entwicklung autonomer Fahrtechnologien voran. Gleichzeitig sorgte eine Meldung für Aufsehen, wonach Google auch im
+Mobilitätsdienstleistungssegment aktiv werden wolle.
+Vielfältige Beteiligungen
+
+Automobildaten sind für digitale Ökosysteme sehr interessant
+
+Grundsätzlich bemühen sich beide Unternehmen um Partnerschaften mit Autoherstellern und digitalen Mobilitätsdienstleistern. So beteiligte sich Google am
+Mobilitätsdienstleister Uber und kooperiert mit dem Autobauer Fiat Chrysler,
+dessen Fahrzeuge das Unternehmen für seine Testversuche im Bereich autonomes Fahren umbaut. Apple ist beim chinesischen Mobilitätsdienstleister Didi
+Chuxing eingestiegen, und eine Kooperation mit dem indischen Fahrdienstleister Ola ermöglicht es den Fahrgästen des indischen Marktführers, das Musikangebot von Apple zu nutzen.
+Aufgrund ihrer Herkunft ist es naheliegend, dass die beiden Unternehmen in
+ganz besonderem Maß daran interessiert sind, digitale Serviceleistungen auszubauen und zu vermarkten, die rund um den Straßenverkehr und darüber hinaus nützlich sein können. Es geht ihnen letztlich also (auch) darum, die Datenflut zu monetarisieren, die vor, während und nach einer Autofahrt verfügbar ist
+bzw. generiert wird. Je umfangreicher der Zugriff der Unternehmen auf die jeweils aktuellen und zu erwartenden Daten der einzelnen Autofahrer sowie der
+eingesetzten Fahrzeuge ist, desto leichter wird dieses Vorhaben fallen. Letztlich
+dürften die Nutzer quasi mit ihren persönlichen Daten dafür zahlen, dass ihnen
+im weitesten Sinne maßgeschneiderte Informationen rund um ihre Autofahrt
+angeboten werden oder dass sie die Fahrtzeit besser nach individuellen Präferenzen für geschäftliche und private Zwecke nutzen können. Fragen der Datenhoheit und -sicherheit werden damit relevant. Erfahrungen aus anderen digitalen Geschäftsfeldern (z.B. aus den sozialen Medien) zeigen, dass viele Internetnutzer bezüglich ihrer Datenhohehit recht gleichgültig, großzügig oder zumindest unbekümmert agieren.
+Digitale Mobilitätsdienstleister und Carsharing-Anbieter
+
+Viele junge Unternehmen bieten
+digitale Mobilitätsdienste an
+
+Eine große Gruppe neuer Akteure bilden schließlich die digitalen Mobilitätsdienstleister im weitesten Sinne. Ein Vergleich der bekanntesten Unternehmen
+hinsichtlich Produktangebot bzw. Geschäftsmodell sowie Absatzmarkt zeigt,
+dass die Anbieter sehr verschieden ausgerichtet sind und sich ihre Geschäftsmodelle im Wandel befinden. Eine Gemeinsamkeit liegt darin, dass es sich
+überwiegend um recht junge Unternehmen handelt. Am bekanntesten ist wohl
+der US-amerikanische Fahrdienstleister Uber (seit 2009). Das Unternehmen ist
+in sehr vielen Ländern aktiv und vermittelt Fahrgäste über eine App an Fahrer
+mit Mietwagen oder privatem Pkw. Google und Toyota sind an Uber beteiligt.
+Seit 2016 macht das Unternehmen mit seinen autonomen Testfahrten mit Fahrzeugen des Autoherstellers Ford auf sich aufmerksam. Direkter Konkurrent auf
+dem US-amerikanischen Markt ist das Unternehmen Lyft (seit 2012), an dem
+unter anderem General Motors beteiligt ist.
+Das 2010 gegründete israelisch-amerikanische Unternehmen Gett ist in mehr
+als 100 Städten weltweit aktiv. Seit 2016 ist VW an Gett beteiligt. Im Gegensatz
+zu Uber (und Lyft) arbeitet Gett ausschließlich mit lizensierten Taxifahrern zusammen und entgeht damit rechtlichen Grauzonen, mit denen Uber derzeit vor
+
+11 |
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+allem auf dem europäischen Markt zu kämpfen hat. Dabei geht es zum einen
+(mit Blick auf die Auswahl der Fahrer) um entsprechende Lizenzen, die bei privaten Fahrern meist nicht vorhanden sind. In diesem Zusammenhang bleiben
+viele versicherungstechnische Fragen (z.B. bezüglich der Haftung bei Zwischenfällen) beim Geschäftsmodell von Uber Gegenstand rechtlicher Grauzonen.
+Daher ist das Vermittlungsangebot z.B. in Deutschland per Gerichtsbeschluss
+zurzeit grundsätzlich als rechtswidrig eingestuft und wurde in der Folge deutschlandweit vorerst eingestellt. Zum anderen befinden sich arbeitsrechtliche Fragen
+zum Thema Anstellungs- und Lohnverhältnisse derzeit in der öffentlichen Diskussion. Wie diese rechtliche Debatte um private digitale Mobilitätsdienstleistungen ausgehen wird, ist derzeit nicht absehbar. Von Land zu Land unterschiedliche Lösungen sind wahrscheinlich.
+
+Kritik am Geschäftsmodell von
+Anbietern digitaler Mobilitätsdienstleistungen
+
+Konsolidierung auf Anbieterseite
+wahrscheinlich
+
+Autohersteller im Carsharing-Markt
+aktiv
+
+Nutzung des Produkts Auto ändert
+sich durch Carsharing & Co.
+
+12 |
+
+19. Juni 2017
+
+Auf dem chinesischen Markt ist der Mobilitätsdienst Didi Chuxing (seit 2012)
+aktiv. Hier hält Apple eine Beteiligung. Der Anbieter Grab-Taxi (seit 2012) ist im
+südostasiatischen Raum marktführend und kooperiert mit dem Start-up
+nuTonomy, welcher in Singapur autonome Taxidienstleistungen testet. Der indische Markt für Mobilitätsdienstleistungen wird vom lokalen Anbieter Ola bedient, der ebenfalls seit November 2016 mit Apple kooperiert. Im noch jungen
+Mobilitätsdienstleistungssektor herrscht also eine hohe Dynamik. Gleichzeitig
+kämpft die Start-up-Szene mit Vorwürfen, das Geschäftsmodell funktioniere
+maßgeblich aufgrund von schlecht bezahlten Arbeitsplätzen (v.a. in Form von
+Scheinselbstständigkeit) bzw. ungeregelten Arbeitszeiten. Solche Vorwürfe sind
+auch aus anderen, auf digitalen Servicedienstleistungen basierenden Bereichen
+bekannt (z.B. Bezahlung und Arbeitszeiten von Paketzustellern im Bereich ECommerce oder von Kurieren bei so genannten Food-Delivery-Services). Solange regulatorische Marktzutrittsbarrieren gering sind, ist dennoch zu erwarten,
+dass weitere Unternehmen auf den Markt für digitale Mobilitätsdienstleistungen
+drängen und neue Städte/Regionen erschlossen werden. Da aber zugleich
+Netzwerkeffekte und Größenvorteile für die Nutzerakzeptanz sowie die Kostenbasis der Anbieter wichtig sind, ist eine Konsolidierung wohl unvermeidbar; man
+vergleiche hierzu den Markt für Fernbuslinienverkehre in Deutschland, wo sich
+nach einem anfänglichen raschen Zuwachs der Zahl neuer Anbieter nur noch
+wenige große Anbieter tummeln (die jedoch auf Subunternehmen zurückgreifen).
+Während das Geschäftsmodell der digitalen Mobilitätsdienstleister fast ausschließlich auf das digitale Vermitteln von Fahrdiensten ausgelegt ist, richten
+Carsharing-Anbieter ihr Angebot stärker auf die Vermietung von Fahrzeugen.
+Ein Blick auf die größeren Carsharing-Anbieter zeigt allerdings, dass diese ihren
+Ursprung – zumindest in Deutschland – häufig bei den Automobilherstellern
+(und Autovermietern) selbst haben und somit letztlich keine komplett neuen
+Akteure darstellen. So ist z.B. das Angebot Car2Go (seit 2012) ein Dienst von
+Daimler in Zusammenarbeit mit der Autovermietung Europcar. Der CarsharingDienst DriveNow wird von BMW in Kooperation mit dem Mietwagenunternehmen Sixt angeboten und expandiert unter dem Namen ReachNow auf den amerikanischen Markt. Autovermietungen haben ohnehin eine natürliche Nähe zum
+Thema Carsharing. Der größte Carsharing-Anbieter in den USA (Zipcar) wird
+beispielsweise von der Autovermietung Avis betrieben.
+Es lässt sich festhalten, dass sowohl die Unternehmen, die sich auf das Vermitteln von Fahrdiensten spezialisiert haben, als auch die Carsharing-Anbieter
+nicht direkt mit der klassischen Automobilindustrie in der Automobilproduktion
+konkurrieren. Vielmehr verändert ihre Marktdurchdringung das Nutzungsverhalten bzw. die Nachfrage der Autofahrer nach individueller Mobilität. Auf die Auswirkungen eines veränderten Nachfrageverhaltens auf die Autohersteller gehen
+wir im 4. Kapitel ein.
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+3.2
+
+Neue Märkte rund um das "digitale
+Auto" eröffnen sich
+
+6
+
+Geschätztes jährliches Umsatzpotenzial nach
+Sparten der Automobilindustrie, Mrd. USD
+10.000
+8.000
+450-750
+1.400
+
+6.000
+4.000
+2.000
+
+30
+720
+2.750
+
+1.200
+
+4.000
+
+0
+Heute
+Autoverkauf
+Shared Mobility
+
+Ca. 2030
+Aftermarket
+Datenmarkt
+
+Quelle: McKinsey
+
+Vielfältige Konkurrenz für die klassische Automobilindustrie – Marktchancen für die neuen Akteure, aber auch Alteingesessene
+
+Es ist unsicher, wie groß der Markt rund um das „digitale Auto“ künftig sein wird.
+Dies gilt auch für die Frage, wer die neuen Märkte wie schnell und wie profitabel
+erschließen kann. Aktuelle Schätzungen vermitteln jedoch einen ungefähren
+Eindruck von den entsprechenden Größenordnungen. Laut einer Studie von
+4
+McKinsey könnte der weltweite Umsatz im Automarkt (Autoverkauf,
+Aftermarket, Shared Mobility sowie Datenmarkt und digitale Servicedienstleistungen) bis 2030 um jährlich 5% auf über USD 7.000 Mrd. wachsen; dies
+entspräche einer Verdopplung im Vergleich zu heute. Überdurchschnittliche
+Wachstumstreiber sind dabei die jungen digitalen Teilmärkte. So würde nach
+dieser Einschätzung der Anteil des Datenmarktes sowie der digitalen Servicedienstleitungen 2030 (je nach Umsatzentwicklung) etwa 6 bis 10% des Gesamtumsatzes ausmachen (aktuell ist er praktisch nicht existent). Stark zulegen
+dürften auch die Märkte rund um die geteilte Mobilität. Während die Umsätze in
+diesem Bereich heute nicht einmal 1% (rd. USD 30 Mrd.) des gesamten Marktes
+betragen, könnte ihr Anteil den Schätzungen zufolge bis 2030 auf über 20% (rd.
+USD 1.400 Mrd.) steigen. Zwar sind solche Langfristprognosen stets mit Vorsicht zu genießen; und eine trennscharfe Abgrenzung der Märkte ist nicht möglich. Aber die Größenordnungen in der zitierten Schätzung deuten darauf hin,
+dass der mit dem Autoverkehr zusammenhängende Daten- und Dienstleistungsmarkt sowie der Bereich Shared Mobility enorme Potenziale bergen. In
+welchen Zukunftsmärkten dürften sich die neuen Akteure vor allem positionieren? Und wie sind ihre jeweiligen Marktchancen einzuschätzen?
+Konkurrenz in einzelnen Marktsegment unterschiedlich ausgeprägt
+Betrachtet man die neuen Marktakteure, lässt sich feststellen, dass die Konkurrenzbeziehungen zur klassischen Automobilindustrie in den einzelnen Bereichen (Automobilproduktion, Entwicklung von neuen Technologien rund um das
+autonome Fahren, Mobilitätsdienstleistungen, Carsharing und digitale Datendienstleistungen) sehr unterschiedlich ausfallen:
+
+Wettbewerb im traditionellen Kerngeschäft der Automobilproduktion dürfte
+sich nur wenig ändern
+
+Viel spricht dagegen, dass digitale
+Ökosysteme in die Autoproduktion
+einsteigen
+
+Automobilproduktion: Da kaum ein neuer Anbieter mit seinen Aktivitäten speziell
+auf die Automobilproduktion abzielt, dürfte sich nach unserer Einschätzung der
+Wettbewerb in diesem traditionellen Kerngeschäft nur wenig ändern. Natürlich
+hat sich Tesla in einzelnen Märkten zu einem wichtigen Wettbewerber gerade
+für die deutschen Hersteller im Bereich der automobilen Oberklasse entwickelt;
+dies gilt vor allem für Automärkte, in denen die Elektromobilität staatlich geför5
+dert wird. Das Unternehmen hat den Innovationsdruck auf die etablierten Anbieter im Bereich der Elektromobilität auch durch geschicktes Marketing massiv
+erhöht. Selbst wenn es Tesla aber gelänge, seine ehrgeizigen Wachstumspläne
+umzusetzen und dabei dauerhaft positive Ergebnisse zu erwirtschaften, bliebe
+das Unternehmen, gemessen an der gesamten weltweiten Fahrzeugproduktion,
+auf Jahre hinaus ein relativ kleiner Anbieter.
+Aus heutiger Sicht rechnen wir zudem nicht damit, dass die großen digitalen
+Ökosysteme ihr Geschäftsmodell auf die Automobilproduktion ausdehnen. Mehrere Argumente sprechen für unsere These:
+— Die Automobilindustrie ist ein stark regulierter Markt. Die Anforderungen an
+die Fahrzeuge werden z.B. in Sachen Umwelt- und Klimaverträglichkeit
+oder Sicherheit weiter steigen. Warum sollten Unternehmen, die bislang in
+
+4
+
+5
+
+13 |
+
+19. Juni 2017
+
+Vgl. McKinsey (2016). Monetizing car data. New service business opportunities to create new
+customer benefits.
+Vgl. Heymann, Eric (2017). Elektroautos legen Fehlstart hin – Dilemma für Autoindustrie und
+Staat. Deutsche Bank Research. Aktueller Kommentar. Frankfurt am Main.
+Deutschland-Monitor
+
+Das „digitale Auto“
+deutlich weniger regulierten Märkten unterwegs sind, ihre eigene regulatorische Belastung spürbar erhöhen?
+Relativ niedrige Renditen in der
+Automobilindustrie
+
+— Die durchschnittlichen Renditen in der Automobilindustrie fallen u.a. aufgrund des intensiven Wettbewerbs niedriger aus, als dies Unternehmen aus
+der IT- und Datenwirtschaft grundsätzlich gewohnt sind und auch anstreben. Ein Engagement in der eigentlichen Automobilproduktion könnte die
+durchschnittlich zu erzielende Rendite spürbar schmälern.
+— Die oben skizzierten gewachsenen Strukturen in der gesamten automobilen
+Wertschöpfungskette bilden eine gewisse Marktzutrittsbarriere. Denn allein
+mit der Automobilproduktion ist es natürlich nicht getan. Kurz- bis mittelfristig könnten die digitalen Ökosysteme ein „Komplettpaket“ wohl nur durch
+externes Wachstum – also durch Zukäufe – anbieten. Ihre Finanzkraft würde den digitalen Ökosystemen natürlich ein solches externes Wachstum
+ermöglichen. Die Frage ist dann wiederum, ob nicht andere Investments
+renditeträchtiger wären.
+— Der gewerkschaftliche Organisationsgrad dürfte bei Mitarbeitern in der eigentlichen Automobilproduktion im Durchschnitt höher sein als bei der klassischen Belegschaft der digitalen Ökosysteme.
+
+Unternehmen aus der Elektrotechnik
+sowie der IT- und Softwareindustrie
+können vom Trend zum digitalen
+Auto profitieren
+
+Digitale Mobilitätsdienstleistungen:
+Neue Anbieter könnten hohe Marktanteile erreichen
+
+Technologien rund um das autonome Fahren: Viele Unternehmen werden in
+den nächsten Jahren Technologien entwickeln, die das „digitale Auto“ voranbringen. Die Konkurrenz zu bislang branchenfremden Akteuren dürfte dabei
+sehr viel größer ausfallen, als wir das für die eigentliche Automobilproduktion
+erwarten. Unternehmen aus der Elektrotechnik oder der IT- und Softwareindustrie haben hier gute Startbedingungen. Marktchancen für neue und auch etablierte Zulieferer ergeben sich vermutlich vor allem im Bereich hochspezialisierter
+Software für Fahrassistenzsysteme sowie im Bereich digitaler Sicherheitstechnik. Der durch diese neuen Technologien generierte Umsatz erhöht das Wachstumspotenzial der gesamten Automobilindustrie. Der zusätzliche Umsatz dürfte
+2030 auf globaler Ebene im dreistelligen Milliarden-US-Dollar-Bereich pro Jahr
+liegen. Ob neue oder traditionelle Anbieter einen größeren Teil des Umsatzes
+auf sich vereinen, ist aus heutiger Sicht schwer zu beurteilen. Die neuen Akteure dürften aber durchaus in der Lage sein, etwa die Hälfte des zusätzlichen Umsatzes für sich zu verbuchen.
+Digitale Mobilitätsdienstleistungen: Im Bereich der digitalen Mobilitätsdienstleistungen haben neue Akteure sogar gute Chancen auf noch höhere Anteile
+am künftigen Marktvolumen. Die digitalen Mobilitätsdienstleister (Uber & Co.)
+zeichnen sich besonders durch ihre starke Orientierung an den Bedürfnissen
+jener Konsumenten aus, für die der Besitz eines eigenen Fahrzeugs nicht
+unbedingt erstrebenswert ist. Ihre Geschäftsideen basieren auf softwarebasierten Vermittlungsdienstleistungen und sind relativ leicht aufzubauen, weil z.B.
+keine Kosten für den Bau von Produktionsstätten anfallen. Zudem haben die
+bekanntesten Vermittlungsdienste Uber, Lyft, Gett und Didi Chuxing in der jüngeren Vergangenheit von einem enormen Zustrom an Finanzmitteln profitiert.
+Die Marktchancen für Mobilitätsdienstleister stehen daher durchaus gut, wobei
+Wachstumsperspektiven u.a. stark vom regulatorischen Umfeld und dem bisherigen Motorisierungsgrad abhängen dürften. Wo eine relativ lockere Gesetzeslage herrscht – etwa in China – könnten die Geschäftsmodelle der Fahrdienstleister deutlich stärker wachsen als etwa in Europa, wo sie regulatorisch noch
+umstritten sind. Eine offene Frage ist allerdings, ob die Mobilitätsdienstleister
+zukünftig eigenständig bleiben oder (wie das große Investitionsinteresse von
+vielen Seiten andeutet) zuletzt von größeren Unternehmen aus der IT-Wirtschaft
+oder sogar von großen Autoherstellern übernommen werden.
+Im Bereich Carsharing könnten die traditionellen Autohersteller sowie Vermietungsgesellschaften auch künftig eine sehr wichtige Rolle spielen. Gleichwohl
+dürften auch neue Unternehmen mit (regional begrenzten) Carsharing-
+
+14 |
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+Angeboten auf den Markt drängen. Da Größenvorteile für die Anbieter aus Kostengründen und Netzwerkeffekte für die Kunden hinsichtlich der Nutzerfreundlichkeit wichtige Faktoren sein dürften, dürfte es längerfristig zumindest auf jeweils nationaler Ebene zu Konsolidierungstendenzen kommen.
+
+Datenmarkt dürfte Domäne der digitalen Ökosysteme werden – Wem
+gehören die Daten?
+
+Autohersteller und Internet-Konzerne
+begegnen sich auf Augenhöhe …
+
+… und könnten Stärken kooperativ
+bündeln
+
+Digitale Datendienste und Vernetzung: In den datenbasierten Bereichen rund
+um digitale Dienstleistungen und Vernetzung ergeben sich insbesondere für
+Daten- und IT-Konzerne wie Google, Apple oder den chinesischen Suchmaschinenanbieter Baidu besonders gute Perspektiven. Die Chancen von digitalen
+Ökosystemen, die im Autoverkehr anfallenden Daten zu monetarisieren (z.B.
+über Werbung oder den anonymisierten Verkauf an Dritte), dürften davon abhängen, in welcher Form und wie erfolgreich sie mit Partnern v.a. aus der Automobilindustrie kooperieren. Ebenfalls relevant ist in diesem Zusammenhang
+natürlich die Frage, wem die anfallenden Daten eigentlich gehören und wem
+letztlich die Einnahmen zustehen, die aus einer Vermarktung der Daten resultieren: demjenigen, der sie generiert, oder demjenigen, der sie tatsächlich vermarkten kann? Diese Frage dürfte von den beteiligten Unternehmen, den Autofahrern und letztlich vom Gesetzgeber sowie von Land zu Land unterschiedlich
+beantwortet werden.
+Mit den digitalen Ökosystemen sowie den Autoherstellern begegnen sich
+grundsätzlich Unternehmen mit jeweils sehr umfangreichen spezifischen Stärken und ausgeprägtem Selbstbewusstsein. Neben ihrer Finanzkraft liegt die
+größte Stärke der digitalen Ökosysteme in der Vermarktung großer Datenmengen, denn dies ist ein wesentlicher Teil ihres Geschäftsmodells. Diesen Vorsprung dürften die Autohersteller wohl auch nicht einholen können. Mit dem
+Zugriff auf automobilnahe Daten und deren Vermarktung entwickeln sich die
+Internet-Konzerne zu einflussreichen Unternehmen im künftigen Automobilmarkt. Denn sie dürften einen großen Teil des zusätzlichen Marktwachstums in
+diesem Segment für sich erobern; dafür sprechen u.a. ihre langjährige Erfahrungen in diesem Segment sowie der weit über den Automobilsektor hinausgehende Kundenstamm. Gleichzeitig werden die etablierten Autoproduzenten das
+neu entstehende Feld nicht freiwillig der Konkurrenz überlassen. Sie verfügen
+schließlich über enge und zum Teil langfristig gewachsene Beziehungen zu
+ihren Kunden und möchten diese weiter intensivieren. Und natürlich verstehen
+die Autohersteller mehr vom Produkt Automobil und der automobilen Wertschöpfungskette als die Konkurrenz aus der IT-Welt. Die skizzierte Konstellation
+spricht dafür, dass digitale Ökosysteme und Autohersteller ihre jeweiligen Stärken kooperativ bündeln. Aus heutiger Sicht ist dies zumindest wahrscheinlicher
+als eine dauerhafte Konfrontation.
+Automobiler Datenmarkt: auf dem Weg zum „Null-Euro-Auto“?
+Der Markt für digitale Fahrzeugdaten wird unbestritten rasant wachsen. Die
+oben erwähnten potenziellen Umsatzzahlen geben hierfür eine grobe Orientierung, wenngleich es nicht einfach ist, den relevanten Markt abzugrenzen. Zählen jene Umsätze dazu, die auf einer Raststätte oder in einem Restaurant getätigt werden, welche dem Autofahrer während der Fahrt über digitale Medien
+angezeigt wurden? Zählen Online-Käufe per Smartphone, die im Fahrzeug getätigt werden, zum digitalen automobilen Datenmarkt?
+Nicht einfach zu beantworten ist zudem die Frage, wieviel die Daten pro Fahrzeug künftig wert sein werden. Einige Marktbeobachter gehen so weit zu sagen,
+dass der Wert dieser Daten über die Lebensdauer eines Autos künftig den
+Kaufpreis des Neuwagens übersteigen könnte. In letzter Konsequenz, so die
+Argumentation, könnten Autos dann auch an die Nutzer verschenkt werden,
+weil das von ihnen und ihren Fahrzeugen generierte Datenvolumen werthaltiger
+als das Fahrzeug an sich sei.
+
+15 |
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+
+Das „Null-Euro-Auto“ ist aus unserer
+Sicht unwahrscheinlich
+
+Geringe Kapazitätsauslastung von
+Autos erschwert Umsetzung des
+„Null-Euro-Autos“
+
+Zahlungsströme müssten sich
+komplett ändern
+
+Nun ist es schlicht unmöglich, den technischen Fortschritt im automobilen Datenmarkt, die Monetarisierungsmöglichkeiten sowie die wirtschaftlichen und
+regulatorischen Rahmenbedingungen für die nächsten 20 Jahre vorherzusagen.
+Diese Vision eines „Null-Euro-Autos“ (Zero Dollar Car) halten wir aus heutiger
+Sicht jedoch für unwahrscheinlich. Warum? Dagegen spricht, dass ein großer
+Teil der Autofahrten heute und wohl auch in Zukunft recht standardisiert ist (z.B.
+Fahrten zwischen Wohnort und Arbeitsstätte oder für Einkaufszwecke). Gleichzeitig ist die zurückgelegte Entfernung bei diesen Fahrten häufig sehr gering.
+Sind die dann anfallenden Daten wirklich so wertvoll, dass sie eine kostenfreie
+Abgabe an den Autonutzer ermöglichen? Sind die Autofahrer – oder bei (teil-)
+autonom fahrenden Autos die Fahrgäste – bei solchen standardisierten und
+kurzen Fahrten wirklich derart empfänglich für Werbung?
+Hinzu kommt, dass überwiegend privat genutzte Fahrzeuge wohl auch in Zukunft einen großen Teil des Tages ungenutzt sind. So liegt die durchschnittliche
+Verkehrsleistung eines Pkw in Deutschland derzeit bei etwa 14.000 Kilometern
+pro Jahr, also durchschnittlich bei weniger als 40 Kilometern pro Tag. Bei einer
+angenommen mittleren Geschwindigkeit von 50 Kilometern pro Stunde bedeutet
+dies, dass ein durchschnittliches Auto zu 97% der verfügbaren Zeit nicht genutzt
+wird und damit keine (mobilen) Daten produziert. Selbst wenn man unterstellt,
+dass durch Carsharing & Co. die durchschnittliche Verkehrsleistung und Nutzungsdauer pro Auto massiv steigt, stellt die geringe Kapazitätsauslastung eines Autos ein Problem für die Realisierung eines „Null-Euro-Autos“ dar. Interessant ist in diesem Zusammenhang, dass private Autonutzer heute den hohen
+Anschaffungspreis der Autos trotz der tatsächlich sehr niedrigen Nutzungsdauer
+in Kauf nehmen. Für die Möglichkeit, jederzeit auf das eigene Auto zugreifen zu
+können, existiert also offensichtlich eine sehr hohe Zahlungsbereitschaft.
+Eine weitere Hürde für das „Null-Euro-Auto“ besteht schließlich darin, dass es
+eine komplette Änderung der Zahlungsströme voraussetzte. Dies gilt zumindest
+für den Fall, dass die Automobilindustrie die anfallenden Daten nicht oder nur zu
+einem kleinen Teil selbst monetarisieren könnte. Letztlich müssten die Unternehmen, welche die automobilen Daten monetarisieren können, die Autos von
+den Herstellern erwerben und im Extremfall an die Nutzer kostenfrei abgeben.
+Wir halten eine solche Entwicklung innerhalb der nächsten 20 Jahre für sehr
+unwahrscheinlich. Unsere Skepsis lässt sich auch mit dem Blick auf die aktuelle
+Situation illustrieren: Heute geben Internetnutzer – freiwillig oder unfreiwillig –
+eine Vielzahl von Informationen über sich während der Nutzung preis. Als
+Gegenleistung erhalten sie Zugang zu Kommunikationskanälen wie sozialen
+Medien, allgemeinen oder persönlich maßgeschneiderten Informationen und
+vielen anderen digitalen Services. Es fließt jedoch kein Geld an die Nutzer; diese müssen zudem in aller Regel einen Preis für ihre Endgeräte zahlen (direkt
+oder indirekt). Das „Null-Euro-Smartphone“ oder der „Null-Euro-PC“ existiert
+wohl auch deshalb nicht, weil die individuellen Informationen des einzelnen
+Internetnutzers für ihn selbst keinen wesentlichen monetären Wert darstellen.
+Eventuell reicht aber auch die Fantasie der Autoren des vorliegenden Berichts
+nicht aus, um die künftigen Potenziale der digitalen automobilen Datenwelt besser einschätzen zu können. Es bleibt in jedem Fall spannend.
+3.3
+
+Zwischenfazit: Kerngeschäft Automobilproduktion bleibt relativ unangetastet, der neue Datenmarkt bietet digitalen Ökosystemen Chancen
+
+Insgesamt lässt sich aus unserer Sicht festhalten: Die eigentliche Automobilproduktion bleibt wohl relativ wenig angreifbar und auch künftig die Domäne der
+traditionellen Autohersteller. Fraglich ist, ob noch weitere neue Unternehmen
+wie Tesla den Sprung in die Automobilproduktion wagen werden oder ob z.B.
+bislang national agierende chinesische Anbieter mit einem Fokus auf autonomes Fahren & Co. auf andere Automärkte drängen. Das Beispiel Tesla zeigt
+zumindest, dass es kurz- bis mittelfristig nicht trivial ist, ein betriebswirtschaftlich
+16 |
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+
+Wettbewerbsstrukturen werden sich
+je nach Teilgebiet der Automobilindustrie stark unterscheiden
+
+Viele Faktoren sprechen für eine
+evolutionäre Entwicklung hin zum
+„digitalen Auto“
+
+tragfähiges Geschäftsmodell im Kerngeschäft der Automobilindustrie zu etablieren. Aus unserer Sicht werden die digitalen Ökosysteme ihr Geschäftsmodell
+nicht um die eigentliche Automobilproduktion (in Großserie) erweitern. Sie dürften sich vor allem auf die Ausrüstung der „digitalen Autos“ mit Soft- und Hardware sowie auf den wachsenden automobilen Datenmarkt konzentrieren. Hier
+haben sie gegenüber den traditionellen Autoherstellern auch spürbare Startvorteile, weshalb es ihnen gelingen könnte, einen großen Teil des zusätzlichen
+Umsatzes in diesem datenaffinen Segment für sich zu vereinnahmen. Dies dürfte durch einen besonderen Fokus auf Technologien begleitet werden, die perspektivisch autonomes Fahren ermöglichen sollen. Neue Zulieferer werden den
+Wettbewerb im Markt der digitalen Automobiltechnologien intensivieren. Und bei
+digitalen Mobilitätsdienstleistungen (Fahrdienste, Carsharing usw.) existieren für
+traditionelle und neue Anbieter gleichermaßen gute Chancen. Größenvorteile
+bzw. Netzwerkeffekte sprechen hier perspektivisch für eine starke Konsolidierung. Insgesamt verschwimmen die Grenzen innerhalb des gesamten Automobilsektors.
+Grundsätzlich lohnt eine Einschätzung zur zeitlichen Dimension des Strukturwandels. Verfolgt man die Berichterstattung über das „digitale Auto“, kann man
+den Eindruck gewinnen, dass die Branche nicht nur in technologischer, sondern
+auch in zeitlicher Hinsicht vor einer regelrechten Revolution stehe. Gleichwohl
+sprechen viele Gründe dafür, dass der Weg zum „digitalen Auto“ in zeitlicher
+Perspektive evolutionär und nicht revolutionär sein wird. Zu nennen sind die
+Langlebigkeit der Fahrzeuge, traditionelle Verhaltensmuster der Autofahrer und
+regulatorische Hürden. Trotz des schnellen technischen Fortschritts, der sämtliche beteiligten Unternehmen herausfordert, sind die technologischen Probleme
+auf dem Weg zum autonomen, unfall- und staufreien Fahrzeug noch groß. Wir
+kommen auf diese Aspekte zurück.
+Automobilindustrie: von Schockstarre keine Spur – mehr Kooperationen
+
+Autohersteller erweitern ihrerseits ihr
+Produktspektrum
+
+Branchenübergreifende Kooperationen an der Tagesordnung
+
+17 |
+
+19. Juni 2017
+
+Die etablierten Automobilhersteller reagieren auf den verstärkten Innovationsund Wettbewerbsdruck. Sie investieren in Technologien rund um das „digitale
+Auto“ bzw. das autonome Fahren und werden vollautomatisierte Fahrzeuge in
+den nächsten Jahren in Richtung Serienreife vorantreiben; der Gesetzgeber
+dürfte die Regulierung an die Technologie anpassen, wobei den Sicherheitsaspekten auch künftig besondere Aufmerksamkeit geschenkt wird. Im Geschäftsfeld der digitalen Mobilitätsdienstleistungen dürften die Autohersteller ebenfalls
+aktiv bleiben. Die erwähnten Carsharing-Angebote Car2Go und DriveNow seien
+als Beispiele genannt. Hinzu kommen weitere digitale Services wie Taxivermittlung (z.B. die myTaxi-App von Daimler), Online-Parkplatzvorbestellung
+(ParkNow) oder Ladestationsvermittlung für Elektroautos (ChargeNow). Zudem
+können die Autofahrer während der Fahrt immer mehr (digitale) Echtzeitinformationen über ihre Route, Einkaufsmöglichkeiten, Restaurants, Tankstellen, Hotels
+usw. erhalten und bei immer mehr Autoherstellern auch Service-Mitarbeiter
+persönliche kontaktieren, die für den Kunden während der bestimmte Tätigkeiten durchführen (z.B. Restaurant- oder Hotelreservierungen).
+Der Weg zum „digitalen Auto“ ist von einer Vielzahl an branchenübergreifenden
+Kooperationen, Beteiligungen und Übernahmen geprägt. Dieser Trend dürfte
+sich künftig fortsetzen. Die deutschen Automobilhersteller zeigen sich hier sehr
+kooperationsfreudig, wie folgende weitere Beispiele zeigen: Audi, BMW und
+Daimler haben 2015 gemeinsam den Online-Geodaten- und Kartendienstleister
+HERE übernommen. Ferner wurde im Herbst 2016 die 5G Automotive
+Association gegründet. Hier kooperieren die drei genannten deutschen Autohersteller mit Ericsson, Huawei, Intel, Nokia und Qualcomm, um Fortschritte
+beim vernetzten Fahrzeug zu erzielen. Das Bündnis kann durchaus als Antwort
+auf die Aktivitäten der digitalen Ökosysteme interpretiert werden. Auch im Seg-
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+ment der Kfz-Zulieferer oder bei den digitalen Mobilitätsdienstleistern gibt es
+Kooperationen und Übernahmen. Insgesamt wird fast täglich über neue (branchenübergreifende) Kooperationen berichtet, die auf das „digitale Auto“ ausgerichtet sind. Die hier und an anderer Stelle des Berichts genannten Beispiele
+zeigen also nur einen kleinen Ausschnitt der Aktivitäten.
+Traditionelle Stärken der Automobilindustrie bleiben erhalten
+
+Deutsche Hersteller forschungsstark
+
+Die Stärken der traditionellen Automobilhersteller dürften auch auf dem Weg
+zum „digitalen Auto“ bedeutsam bleiben. Zu nennen sind langfristig gewachsene
+Geschäftsbeziehungen zu anderen Firmen aus der automobilen Wertschöpfungskette sowie das Beherrschen dieser Wertschöpfungskette, von der Forschung und Entwicklung bis hin zum Vertrieb und After-Sales-Service. Ein Indiz,
+welches die Innovationskraft der (deutschen) Automobilindustrie unterstreicht,
+ist die Zahl der erteilen Patente im Bereich autonomes Fahren. Demnach gingen 57% der (seit 2010) weltweit erteilten Patente in diesem Bereich an
+deutsche Hersteller und Zulieferer.6 Die internationale Ausrichtung schützt in
+gewissem Maße vor konjunkturellen Schwankungen; auch hier haben deutsche
+Unternehmen in den letzten Dekaden enorme Fortschritte erzielt. In Sachen
+Markenbekanntheit und Image brauchen sich viele Autohersteller nicht vor der
+neuen Konkurrenz aus der IT-Industrie zu verstecken, wobei es natürlich Kundengruppen gibt, die sich stärker an den Marken aus der IT-Welt orientieren.
+Für den Autofahrer sind die Änderungen auf der Angebotsseite des Automobilsektors grundsätzlich positive Nachrichten. Es tummeln sich mehr Unternehmen
+in diesem Markt, die das bisherige automobile Angebot verbessern und um digitale Services erweitern wollen. Der Wettbewerb begünstigt Innnovationen und
+niedrigere Preise. Ob diese Angebote auch auf fruchtbaren Boden fallen, werden wir im nächsten Kapitel beleuchten.
+
+4.
+
+Gegen den Willen des Kunden
+geht wenig
+
+Die Nachfrageseite: Was will eigentlich der Nutzer?
+
+Wir haben gesehen, dass viele Unternehmen aus unterschiedlichen Branchen
+an der Entwicklung des „digitalen Autos“ arbeiten. Wenn man so will, ist die
+Angebotsseite bestrebt, zusätzliche Nachfrage zu schaffen. Dabei wird das „digitale Auto“ – sofern es keinen staatlichen Zwang gibt und Alternativen existieren bleiben – gegen den Willen des Nutzers nicht den Weg auf die Straßen finden. Im folgenden Kapitel versuchen wir einzuschätzen, inwiefern die Präferenzen der (potenziellen) Nutzer sowie gesellschaftliche Mobilitätstrends als Treiber
+bei der Entwicklung des „digitalen Auto“ wirken können. Im Mittelpunkt stehen
+dabei folgende Fragen: Wie steht der Nutzer dem „digitalen Auto“ gegenüber?
+Welche Eigenschaften schätzt er besonders und bei welchen Technologien ist
+er skeptisch? Inwieweit verliert der Besitz eines eigenen Autos durch Carsharing
+und alternative Mobilitätskonzepte an Bedeutung? Wie wirken sich veränderte
+Mobilitätspräferenzen auf die Automobilindustrie aus, und wie sind die Unternehmen hier aufgestellt?
+4.1
+
+Das „digitale Auto“ stiftet zusätzlichen Nutzen – aber wieviel?
+
+Das „digitale Auto“ in seiner Idealform wird dem Autofahrer – oder besser: dem
+Insassen – spürbaren zusätzlichen Nutzen stiften. Beispielsweise kann die im
+Auto verbrachte Zeit flexibler genutzt werden, wenn das Fahrzeug autonom
+fährt; maßgeschneiderte Informationen erleichtern den Alltag. Wie hoch dieser
+Nutzen ausfällt bzw. wie wertvoll er von den einzelnen Nutzern eingeschätzt
+wird, hängt u.a. von deren individuellen Präferenzen, dem Zweck und der Länge
+6
+
+18 |
+
+19. Juni 2017
+
+Vgl. Bardt, Hubertus (2016). Autonomes Fahren. Eine Herausforderung für die deutsche Autoindustrie. Institut der deutschen Wirtschaft. IW-Trends 2/2016. Köln.
+Deutschland-Monitor
+
+Das „digitale Auto“
+der Autofahrt sowie von den zum jeweiligen Zeitpunkt gegebenen technischen
+Möglichkeiten des Fahrzeugs und damit den Freiheitsgraden des Nutzers ab.
+Insofern lässt sich die Frage, wie attraktiv das „digitale Auto“ für den Nutzer
+tatsächlich ist, nicht einfach beantworten.
+
+Umfragen kommen zu sehr unterschiedlichen Ergebnissen
+
+Wann etabliert sich autonomes
+Fahren? Meinungen gehen
+weit auseinander
+
+Autofahrer würde Kontrolle im
+"Stop-and-go-Verkehr" und im
+Stau gerne abgeben
+
+Diese erste Einschätzung deckt sich gut mit den sehr unterschiedlichen Ergebnissen von Umfragen zum digitalen Auto bzw. zum autonomen Fahren, die in
+den letzten Monaten und Jahren veröffentlicht wurden bzw. über die berichtet
+wurde. So kommt eine Umfrage von McKinsey zu dem Ergebnis, dass 81% aller
+deutschen Autokäufer auf einen autonom fahrenden Pkw umsteigen würden,
+sofern sie weiterhin die Möglichkeit besäßen, jederzeit selbst die Fahrzeugkont7
+rolle zu übernehmen. Eine Studie von Deloitte sagt aus, dass sich etwa die
+Hälfte der Befragten vorstellen kann, autonomes Fahren zu nutzen. Dabei wollen aber 90% der Befragten jederzeit die Kontrolle über das Fahrzeug übernehmen können. Nach dieser Umfrage steht die junge Stadtbevölkerung dem
+Thema „autonomes Fahren“ besonders aufgeschlossen gegenüber; die größte
+Skepsis herrscht bei der älteren Landbevölkerung.8 Zurückhaltender sind die
+Ergebnisse einer Umfrage des ADAC von Ende 2016: Danach kommt für ein
+Drittel der Befragten (ADAC-Mitglieder) grundsätzlich in Frage, ein autonomes
+Fahrzeug zu nutzen. Zugleich ist dies für 35% der Umfrageteilnehmer jedoch
+keine Option.9 Weitere Umfragen bestätigen dieses gemischte Bild.
+Unterschiedliche Einschätzungen gibt es auch zur Frage, bis wann sich autonome Autos durchsetzen könnten. Eine Forsa-Umfrage im Auftrag der DEKRA
+vom Herbst 2015 ergab, dass 8% der befragten Personen in Deutschland damit
+rechnen, dass sich autonome Fahrzeuge innerhalb der nächsten 10 Jahre
+durchsetzen würden; weitere 26% glaubten, dass dies 10 bis 20 Jahre dauern
+werde. 32% der Umfrageteilnehmer erwarteten damals sogar, dass mehr als 20
+Jahre vergehen würden, während 31% der Meinung waren, dass sich vollständig autonom fahrende Autos niemals durchsetzen würden. Die gleiche Umfrage
+wurde auch in anderen Ländern durchgeführt. Am zuversichtlichsten zeigten
+sich dabei die US-Amerikaner: Hier glaubten 33% der Befragten an einen
+Durchbruch der Technologie innerhalb der nächsten 10 Jahre, und 29% waren
+der Meinung, dass dies noch 10 bis 20 Jahre dauern würde. 10
+In aktuellen Umfragen wird zudem unterschiedlich eingeschätzt, in welchen
+Fahrsituationen autonome Fahrtechnologien wohl am ehesten oder am
+schnellsten zum Einsatz kommen werden. Beispielhaft sei eine auf dem OnlinePortal Statista veröffentlichte Umfrage vom Sommer 2015 genannt. Auf die Frage, in welchen Situationen die Umfrageteilnehmer grundsätzlich bereit wären,
+die Kontrolle über ihr Fahrzeug abzugeben, antworteten 63% „beim Parken“ und
+45% der Befragten „im Stau auf der Autobahn“ (Mehrfachantworten waren möglich). Nur 7% konnten sich vorstellen, die Kontrolle während der ganzen Fahrt
+abzugeben, und für 27% kam es überhaupt nicht in Frage, die Kontrolle auf das
+Auto zu übertragen. Laut der oben erwähnten Umfrage von Deloitte sind Staus
+sowie Stop-and-go-Verkehre jene Fahrsituationen, in denen die Umfrageeilnehmer am ehesten bereit wären, für autonome Fahrtechnologien zu zahlen.
+
+7
+8
+9
+10
+
+19 |
+
+19. Juni 2017
+
+Vgl. McKinsey (2016). Fahrdaten werden zum Milliardengeschäft. Pressemitteilung. Düsseldorf.
+Deloitte (2016). Autonomes Fahren in Deutschland – wie Kunden überzeugt werden.
+Vgl. ADAC (2016). Mitglieder rechnen mit autonomen Autos.
+Dekra Automobil GmbH (2016). Leben retten durch technische Sicherheit. In: Verkehrssicherheitsreport 2016 – Personenverkehr. Stuttgart.
+Deutschland-Monitor
+
+Das „digitale Auto“
+Erfahrungswerte für digitale Autos fehlen
+
+Berichte über Unfälle mit autonom
+fahrenden Autos beeinflussen
+Meinungsbild
+
+Gruppe der Autofahrer ist alles
+andere als homogen
+
+Nutzer werden mehr und mehr positive Erfahrungen mit Technologie machen
+
+Viele alte Autos unterwegs
+
+7
+
+Verteilung des Pkw-Bestands in DE Anfang 2017
+nach Jahr der Erstzulassung, Mio. Pkw
+8
+6
+4
+2
+
+Wie lassen sich die großen Unterscheide in den zitierten und anderen Umfragen
+erklären? Zunächst sind Umfrageergebnisse stets mit einer gewissen Vorsicht
+zu genießen. Nicht selten weichen Aussagen in Umfragen zum geplanten vom
+tatsächlichen Handeln ab. Im konkreten Fall kommt als Erklärung für die unterschiedlichen Einschätzungen hinzu, dass Erfahrungswerte (weitgehend) fehlen,
+welche Möglichkeiten das „digitale Auto“ den Insassen bieten wird. Da die Umfrageteilnehmer z.B. autonomes Fahren noch nicht selbst erlebt haben, ist eine
+skeptische Haltung nachvollziehbar. So ist zu erklären, dass die Bereitschaft der
+Befragten heute gering ist, die Kontrolle über das Auto gänzlich abzugeben.
+Dies ist u.a. ein Zeichen für fehlendes Vertrauen in die noch junge Technologie.
+Berichte über Unfälle mit autonom fahrenden Testwagen beeinflussen kurzfristig
+entsprechende Umfragen. Interessant ist in diesem Zusammenhang, dass der
+Mehrwert der digitalen Technologien (des autonomen Fahrens) für den Autofahrer eigentlich noch sehr eingeschränkt ist, solange er jederzeit die Kontrolle
+über das Fahrzeug übernehmen muss und/oder im Falle eines Unfalls eventuell
+haften muss. Jedenfalls kommen die potenziellen Vorteile des autonomen Fahrens – mehr Zeit für andere Dinge als das Steuern des Fahrzeugs, Bequemlichkeit, im Idealfall mehr Sicherheit – dann nur begrenzt zur Geltung. Eigentlich
+müsste die Bereitschaft, die Kontrolle komplett abzugeben, also viel größer sein,
+weil nur dann die frei gewordene Zeit auch genutzt werden kann. Dies ist wohl
+eine Frage des im Zeitablauf steigenden Vertrauens.
+Die Umfrageergebnisse zeigen auch, dass die Gruppe der Autofahrer alles andere als homogen ist. Für einen Teil der Autofahrer ist das Autofahren selbst mit
+Emotionen und Freude verbunden – zumindest zeitweise. Diese Autofahrer
+haben also (heute noch) überhaupt kein ausgeprägtes Interesse, sich chauffieren zu lassen, sondern wollen ihren Wagen selbst steuern. In der Autowerbung
+steht nicht zuletzt deshalb häufig die Botschaft im Mittelpunkt, dass Autofahren
+Spaß macht. Andere Autofahrer würden dagegen lieber heute als morgen auf
+Autopilot umsteigen, um die im Auto verbrachte Zeit anders zu nutzen.
+Im Laufe der nächsten Jahre werden die Autofahrer immer mehr positive Erfahrungen mit den Möglichkeiten des teilautonomen Fahrens machen. Jede Modellgeneration wird hier Verbesserungen bringen. Dies erhöht schrittweise das
+Vertrauen der Nutzer – allerdings nur, wenn die Technologien reibungslos funktionieren und der Anschaffungspreis für die Autokunden nicht dramatisch steigt.
+Wenn parallel zum technischen Fortschritt auch regulatorische Fragen (z.B.
+Versicherungsaspekte und Haftungsfragen, Datensicherheit) geklärt werden,
+dürfte sich die Einstellung zum autonomen Fahren verbessern. Nicht zuletzt
+wegen der Langlebigkeit der Fahrzeuge wird dieser Prozess allerdings viele
+Jahre dauern. Die meisten Autos, die heute gebaut und entwickelt werden, verfügen in puncto „automatisiertes Fahren“ nur über eingeschränkte Möglichkeiten. Allerdings werden viele dieser Fahrzeuge auch in den 2030er Jahren noch
+auf den Straßen unterwegs sein, falls dies nicht vom Gesetzgeber unterbunden
+wird (was aus heutiger Sicht sehr unwahrscheinlich ist). Beispielsweise waren
+Anfang 2017 mehr als ein Drittel des Pkw-Bestands in Deutschland (knapp 16
+Mio. Autos) bereits im Jahr 2005 oder früher erstmals zugelassen worden. Letztlich zeigt sich hier abermals, dass das „digitale Auto“ in seiner Idealform den
+tatsächlich genutzten Fahrzeugbestand erst am Ende einer evolutionären Entwicklung dominieren wird. Wir sprechen hier von mehreren Jahrzehnten.
+
+0
+2000 02
+u.
+älter
+
+04
+
+06
+
+08
+
+10
+
+12
+
+14
+
+16
+
+Quelle: Kraftfahrt-Bundesamt
+
+20 |
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+Zahlungsbereitschaft ist grundsätzlich vorhanden
+
+Kosten der neuen Technologien
+dürften durch Größenvorteile
+im Zeitablauf deutlich sinken
+
+Preisaufschläge dürften für die
+meisten Endkunden verkraftbar sein
+
+Zahlungsbereitschaft vor allem für
+Dienste, die sich unmittelbar auf das
+Fahrzeug beziehen
+
+Über Erfolg oder Misserfolg des „digitalen Autos“ und seine Akzeptanz beim
+Nutzer entscheiden nicht zuletzt die Kosten, die mit den zusätzlichen Technologien verbunden sind. Grundsätzlich muss hier zwischen einmaligen Kosten, die
+auf den Anschaffungspreis aufgeschlagen werden, und laufenden Kosten, etwa
+für das Nutzen digitaler Assistenzsysteme, unterschieden werden. Bezüglich der
+einmaligen Kosten zeigt das Beispiel der Elektromobilität, dass ein (zu) hoher
+Kaufpreis für Elektroautos vom durchschnittlichen Autokäufer nicht akzeptiert
+wird. Es ist zu erwarten, dass viele Technologien, die das „digitale Auto“ ermöglichen, zunächst in der automobilen Oberklasse eingesetzt werden, wo die relativen Preisaufschläge auf den Listenpreis recht gering sind und auf eine höhere
+Zahlungsbereitschaft treffen. Durch Größenvorteile und Produktivitätsfortschritte
+in der Produktion sinken dann im Laufe der Zeit die Kosten, sodass nach und
+nach ein Einsatz im Volumensegment möglich wird. Ein solches Muster, also
+eine Diffusion neuer Technologien „von oben nach unten“, konnte in den letzten
+Jahrzehnten sehr häufig in der Automobilindustrie beobachtet werden (z.B. bei
+Sicherheitstechnologien). Die Kosten für Technologien, die vor allem auf Software basieren, dürften besonders schnell sinken und dadurch für den Massenmarkt einsatzfähig werden. Bei elektrischen Ausrüstungen dürften die Produktionskosten ebenfalls rasch zurückgehen; der stetige Preisverfall bei Konsumelektronik ist hierfür ein Indiz. Die jeweiligen Preisaufschläge bleiben nach unserer Einschätzung für den durchschnittlichen Endkunden auch deshalb verkraftbar, weil die Ausrüstung der Fahrzeuge mit „digitalen Technologien“ (Hardware
+und Software) schrittweise mit jeder Modellgeneration und nicht schlagartig
+umfangreicher wird. Die zusätzlichen Kosten dürften, in Abhängigkeit von der
+Fahrzeugklasse und der technologischen Ausstattung, im drei- bis vierstelligen
+Euro-Bereich liegen. Dies wären gerade im Volumensegment deutlich geringere
+Preisaufschläge, als sie derzeit noch für Autos mit alternativen Antrieben (Elektroautos oder Plug-in-Hybride) erhoben werden.
+Umfragen zeigen, dass grundsätzlich eine Zahlungsbereitschaft für digitale
+Assistenzdienste vorhanden ist. Laut einer Umfrage von Berylls Strategy
+Advisors und mm customer strategy unter deutschen und chinesischen potenziellen Neuwagenkäufern aus dem Jahr 2016 wäre eine überwiegende Mehrheit
+(80% der Befragten in Deutschland und 97% in China) prinzipiell bereit, für digitale Assistenzsysteme zu zahlen. Dies gilt jedoch vor allem für Dienste, die sich
+direkt auf das Fahrzeug beziehen (Sicherheit, Navigation, Reparatur und Wartung). Deutlich geringer ist die Zahlungsbereitschaft für Dienste, die sich nicht
+auf das Fahrzeug beziehen und z.B. auch mit dem eigenen Smartphone genutzt
+werden können. Die Befragten in Deutschland beziffern ihre Zahlungsbereitschaft für digitale Assistenzdienste auf immerhin EUR 400 (einmalige Zahlung)
+11
+für die ersten drei Jahre. Die erwähnte Umfrage von Deloitte signalisiert eine
+deutliche Präferenz der Umfrageteilnehmer für Einmalzahlungen beim Kauf des
+Autos. Fortlaufende nutzungsabhängige Zahlungen oder zeitliche Abonnements
+werden dagegen eher abgelehnt.
+Eine Umfrage des Deutschen Verkehrssicherheitsrates von 2016 verdeutlicht,
+dass die Gründe, warum Autokäufer auf neue Assistenzsysteme verzichten,
+weniger in den Kosten als vielmehr in einem (noch) geringen Bekanntheitsgrad
+oder einer fehlenden Verfügbarkeit der Technologien im bevorzugten Automo12
+dell zu finden sind. Bei beiden Aspekten sind in den kommenden Jahren Verbesserungen sehr wahrscheinlich.
+
+11
+
+12
+
+21 |
+
+19. Juni 2017
+
+Vgl. Berylls Strategy Advisors (2016). Endkunden-Studie zum vernetzten Fahrzeug. Presseinformation. München.
+Vgl. Deutscher Verkehrssicherheitsrat (2016). Fahrerassistenzsysteme: geringe Verbreitung trotz
+hoher Akzeptanz. Pressemitteilung. Bonn.
+Deutschland-Monitor
+
+Das „digitale Auto“
+Autonomes Fahren der Zukunft: staatlicher Zwang oder Freiwilligkeit
+
+Sind die Autofahrer der Zukunft bereit, Freiheiten im Straßenverkehr
+aufzugeben?
+
+Eine höhere Sicherheit im Straßenverkehr wird häufig als ein positives Argument genannt, wenn es um das „digitale Auto“ bzw. das autonome Fahren geht.
+In diesem Zusammenhang sind Fragen interessant, die bislang recht wenig
+diskutiert werden: Wird der Gesetzgeber langfristig – sobald die technologischen Möglichkeiten dafür gegeben sind – den Autonutzer zum autonomen
+Fahren verpflichten, um die „Fehlerquelle“ Mensch im Straßenverkehr auszuschalten? Wird die individuelle Komponente der privaten Autonutzung eliminiert, z.B. bezüglich der gewünschten Geschwindigkeit oder des allgemeinen
+Fahrverhaltens? Geht autonomes Fahren Hand in Hand mit einem allgemeinen
+Tempolimit? Würden die Autonutzer angesichts des heute noch vorhandenen
+Wunsches, jederzeit selbst ins Fahrgeschehen eingreifen zu können, eine solche Pflicht akzeptieren? Diese Fragen zu beantworten, wäre spekulativ. Klar ist
+jedoch, dass eine solche allgemeine Pflicht, aber wohl schon eine „Entmündigung“ des Autofahrers nur auf ausgewählten Strecken oder in bestimmten
+Fahrsituationen auf erhebliche Widerstände eines Teils der Autofahrer stoßen
+würde. Zudem hätte dies einen erheblichen Einfluss auf die Kaufentscheidungen der Autonutzer und damit letztlich auch die Ausstattung der Fahrzeuge,
+denn der „Spaßfaktor“ beim eigentlichen Autofahren würde eliminiert. Wir kommen hierauf im Kapitel 4.3 zurück.
+4.2
+
+Auto wichtigstes Verkehrsmittel
+
+8
+
+Verkehrsleistung einzelner Verkehrsträger in
+Deutschland, Bill. Personenkilometer
+1,2
+1,0
+0,8
+0,6
+0,4
+0,2
+0,0
+98
+
+00
+
+02
+
+04
+
+06
+
+08
+
+10
+
+12
+
+14
+
+Eisenbahnen
+Öffentl. Straßenpersonenverkehr
+Motorisierter Individualverkehr
+Quelle: DIWVerkehr in Zahlen
+
+Hoher Anteil der Bevölkerung verfügt
+über Führerschein
+
+22 |
+
+19. Juni 2017
+
+Gewinnt das „geteilte Auto“ an Bedeutung? Oder: Was der Nutzer am
+eigenen Auto schätzt, und was es ihn kostet
+
+Im vorherigen Kapitel haben wir uns damit befasst, welchen zusätzlichen Nutzen der technologische Fortschritt in Richtung „digitales Autos“ den Autofahrern
+stiften kann. Im Folgenden beschäftigen wir uns mit der Frage, ob der Besitz
+eines eigenen Autos zugunsten z.B. von Carsharing oder alternativen Mobilitätsdienstleistungen aktuell oder in Zukunft an Bedeutung verliert. Dass diese
+Frage nicht einfach zu beantworten ist, zeigen folgende Daten:
+— Der so genannte Motorisierte Individualverkehr (MIV) ist seit Jahren mit
+einem recht konstanten Anteil von rd. 80% an der gesamten Verkehrsleistung der mit Abstand wichtigste Verkehrsträger im Personenverkehr in
+Deutschland. In der EU insgesamt sowie in den USA kommt der MIV auf
+ähnlich hohe und ebenfalls recht konstante Anteile. Zu berücksichtigen ist
+hier zwar, dass der MIV auch den Taxi- und Mietwagenverkehr umfasst. Deren Anteil am gesamten MIV dürfte jedoch klein sein.
+— Die hohe Bedeutung des Autos als „alltägliches“ Gebrauchsgut zeigt auch
+folgende Zahl: In Deutschland verfügen laut Statistischem Bundesamt etwa
+77% aller privaten Haushalte über einen Pkw. Auch dieser Wert ist seit vielen Jahren weitgehend konstant.
+— Der Anteil der erwachsenen Personen mit Führerschein lag 2014 in
+Deutschland bei 87%. 2005 waren es 84%. Der Zuwachs ist vor allem auf
+einen höheren Anteil von weiblichen Führerscheinbesitzern zurückzuführen.
+Nach dieser Statistik ist von „Automüdigkeit“ also nichts zu spüren. Gleichzeitig nimmt jedoch laut vielen Medienberichten der Anteil junger Menschen
+in Deutschland (und in anderen Industrieländern) zu, die keine Führerscheinprüfung ablegen, wenn sie das dafür notwendige Alter erreicht haben.
+Laut Kraftfahrt-Bundesamt wurden 2013 in Deutschland (über alle Altersklassen hinweg) gut 12% weniger allgemeine Fahrerlaubnisse für Pkw erteilt als 2004 (seit 2013 werden keine Daten mehr erhoben). Im gleichen
+Zeitraum sank die Zahl der Personen im Alter von unter 20 Jahren aber
+ebenfalls um rd. 12%; insofern ist die demografische Entwicklung eine wichtige erklärende Variable. Fraglich ist zudem, ob die betreffenden jungen
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+Junge Autokäufer verlieren zuletzt
+nicht mehr an Bedeutung
+Anteil der unter 30-Jährigen an den PkwNeuzulassungen in Deutschland, %
+10
+8
+6
+4
+2
+0
+99
+
+01
+
+03
+
+05
+
+07
+
+09
+
+11
+
+Menschen „für immer“ auf einen Führerschein verzichten oder diesen lediglich später erwerben. Dies kann noch nicht abschließend beurteilt werden.
+
+9
+
+13
+
+15
+
+Anteil an Neuzulassungen privater Halter*
+Anteil an allen Neuzulassungen
+* Sämtliche Halter, deren Alter bekannt ist (also ohne
+Pkw-Zulassungen von juristischen Personen)
+Quelle: Kraftfahrt-Bundesamt
+
+Carsharing: Stationsungebundene
+Angebote auf dem Vormarsch
+
+10
+
+Fahrberechtigte bei Carsharing-Angeboten
+in Deutschland, '000
+1.400
+1.200
+1.000
+800
+600
+400
+200
+0
+97 99 01 03 05 07 09 11 13 15 17
+Fahrberechtigte bei stationsbasierten
+Angeboten
+Fahrberechtigte bei stationsungebundenen
+Angeboten
+Quelle: Bundesverband CarSharing e.V.
+
+Zahl der Carsharing-Fahrzeuge steigt
+stetig
+
+11
+
+Fahrzeuge bei Carsharing-Angeboten
+in Deutschland, '000
+10
+
+— Allerdings haben junge Menschen in Deutschland im langfristigen Vergleich
+13
+als Autokäufer an Bedeutung verloren. Entfielen auf die unter 30-Jährigen
+1999 noch 9,6% aller Pkw-Neuzulassungen der privaten Halter, waren es
+2016 nur noch 6,9%. Für diese Entwicklung sind mehrere Gründe maßgeblich: Ganz banal liegt dies an den erwähnten kleineren Jahrgängen.
+Zudem treffen tendenziell steigende Kosten der Fahrzeughaltung auf einen
+höheren Anteil an Studierenden (mit geringeren finanziellen Möglichkeiten).
+Zu nennen ist ferner, dass Familien immer später gegründet werden, was
+den Verzicht auf ein Auto erleichtert. Darüber hinaus ist der zunehmende
+Anteil der städtischen Bevölkerung ein Faktor, denn das ÖPNV-Angebot ist
+in Städten umfangreicher als auf dem Land. Bemerkenswert ist jedoch,
+dass der Bedeutungsverlust junger Menschen als Neuwagenkäufer in
+Deutschland seit einigen Jahren nicht weiter voranschreitet, sondern auf
+dem genannten niedrigen Niveau verharrt.
+— Einige der zuvor genannten Trends sind dafür maßgeblich, dass in Deutschland und anderen Ländern das steigende Carsharing-Angebot auf größere
+Beliebtheit stößt. Laut Bundesverband CarSharing e.V. waren Anfang 2017
+mehr als 1,7 Mio. Fahrberechtige für Carsharing-Angebote gemeldet. Dies
+entspricht einem Zuwachs von 36% gegenüber 2016. Insgesamt waren zuletzt etwa 150 Anbieter im Markt aktiv. Die Zahl der Fahrzeuge belief sich
+Anfang 2017 auf gut 17.000. Die stationsunabhängigen CarsharingAngebote erfreuten sich in den letzten Jahren eines besonders starken Zulaufs. Während es zu Beginn der laufenden Dekade in Deutschland noch
+keine stationsunabhängigen Angebote gab, waren zuletzt rd. 73% aller
+Fahrberechtigten bei solchen Anbietern registriert. Trotz des starken
+Wachstums im deutschen Carsharing-Markt verdeutlicht u.a. die niedrige
+Zahl der eingesetzten Fahrzeuge, dass Carsharing gemessen am gesamten
+MIV nur ein Nischenmarkt ist; in Deutschland befanden sich Anfang 2017
+etwa 45,8 Mio. Pkw im Bestand. Nach Schätzungen von Berylls deckt
+Carsharing lediglich 0,05% des Mobilitätsbedarfs in Deutschland. 14
+Die genannten Zahlen unterstreichen die hohe Bedeutung des Autos für die
+alltägliche Mobilität. Was macht das Auto in den Augen der Nutzer so wertvoll?
+Eine Umfrage unter Pkw-Haltern, über die im DAT-Report 2016 berichtet wird,
+gibt hierüber Aufschluss: 80% der Befragten (maximal drei Nennungen waren
+möglich) schätzen vor allem die individuelle Mobilität und Freiheit, die ein eigenes Auto ermöglicht. Als zweiwichtigsten Grund geben 64% der Befragten an,
+auf das eigene Auto angewiesen zu sein. Auf den Plätzen 3 und 4 folgen der
+Faktor Zeitersparnis (48%) sowie der höhere Komfort gegenüber öffentlichen
+Verkehrsmitteln (41%). Der Kostenfaktor spielt dagegen eine untergeordnete
+Rolle: Lediglich 20% der Befragten nannten als Grund für den eigenen Autobesitz, dass das Verhältnis von Kosten zu Nutzen besser sei als bei öffentlichen
+15
+Verkehrsmitteln.
+
+8
+
+Hohe Zahlungsbereitschaft für mobile Freiheit, Flexibilität und Bequemlichkeit
+
+6
+
+Tatsächlich ist das Auto jedoch ein wichtiger Kostenfaktor für private Haushalte.
+So beziffert der ADAC die gesamten Kosten für einen VW Golf je nach Ausstattung und Motorisierung auf etwa EUR 600 pro Monat. Dabei werden sämtliche
+Kosten der Autonutzung berücksichtigt (Wertverlust, Fix- und Betriebskosten,
+
+4
+2
+0
+97 99 01 03 05 07 09 11 13 15 17
+Fahrzeuge bei stationsbasierten Angeboten
+
+13
+
+Fahrzeuge bei stationsungebundenen
+Angeboten
+
+14
+
+15
+
+Quelle: Bundesverband CarSharing e.V.
+
+23 |
+
+19. Juni 2017
+
+Vgl. Heymann, Eric (2013). Junge kaufen weniger Autos. Deutsche Bank Research. Aktueller
+Kommentar. Frankfurt am Main.
+Vgl. Berylls Strategy Advisors (2015). Carsharing – der große Durchbruch steht noch bevor.
+Presseninformation. München.
+Vgl. Deutsche Automobil Treuhand GmbH (2016). DAT-Report 2016. Ostfildern.
+Deutschland-Monitor
+
+Das „digitale Auto“
+Wartung und Reparatur) sowie eine Fahrleistung von 15.000 Kilometern pro
+Jahr unterstellt. Aus rein wirtschaftlicher Sicht dürfte sich ein eigenes Auto für
+viele Autobesitzer nicht lohnen, was vor allem auf den hohen Wertverlust bei
+zugleich niedriger „Kapazitätsauslastung“ (also langen Standzeiten) zurückzuführen ist. Offensichtlich sind die Autofahrer jedoch bereit, für individuelle mobile
+Freiheit, Flexibilität und Bequemlichkeit diese Kosten in Kauf zu nehmen, wie
+auch die zuvor erwähnte Umfrage bestätigt.
+
+Die meisten Pkw-Halter sehen im
+Carsharing keine Alternative zum
+eigenen Auto
+
+Um den durchschnittlichen Autofahrer von heute dazu zu bewegen, auf sein
+Auto zu verzichten und stattdessen auf alternative (digitale) Mobilitätsdienstleistungen und/oder Carsharing-Angebote umzusteigen, müssen letztere ihre
+potenziellen Nutzer offenbar also vor allem in Sachen Flexibilität und Bequemlichkeit überzeugen. Dies wird kein leichtes Unterfangen, wie eine weitere Umfrage im bereits erwähnten DAT-Report von 2016 signalisiert. Danach ist
+Carsharing für 88% der Pkw-Halter keine Alternative zum eigenen Auto. Als
+wichtigster Ablehnungsgrund wird der hohe Aufwand genannt, der (tatsächlich
+oder vermutet) damit verbunden ist, einen Pkw zur gewünschten Zeit zu finden.
+Es folgt die Begründung, dass Carsharing in der Nähe der Befragten nicht angeboten wird. Ferner gaben die Umfrageteilnehmer an, dass sie ein Auto nicht
+mit anderen teilen wollten und dass Carsharing nicht flexibel genug sei. Interessanterweise meint nur ein kleiner Teil der Befragten (12%), dass das Verhältnis
+von Kosten zu Nutzen bei Carsharing-Angeboten zu schlecht sei.
+Langjährige Mobilitätsgewohnheiten hohe Hürde für Carsharing & Co.
+
+Wer ein eigenes Auto hat, ist schwer
+von Alternativen zu überzeugen
+
+Zugang zu digitalen Mobilitätsdienstleistungen wird künftig einfacher
+
+Es nicht gänzlich überraschend, dass Pkw-Halter eine hohe Affinität zu einem
+eigenen Auto haben. Dies muss bei der Interpretation der Umfrageergebnisse
+aus dem DAT-Report berücksichtigt werden, denn hier wurden ausschließlich
+Pkw-Halter befragt. Die Skepsis gegenüber Carsharing fiele wohl weniger groß
+aus, wenn in den erwähnten Umfragen auch Personen befragt worden wären,
+die nicht über einen eigenen Pkw verfügen.16 Grundsätzlich sprechen die Umfragen jedoch dafür, dass Menschen, die es seit Jahren oder Jahrzehnten gewohnt sind, jederzeit auf ein eigenes Auto zugreifen zu können, schwerer von
+alternativen Mobilitätskonzepten zu überzeugen sind, als Personen, die noch
+nie ein Auto besessen haben (Status-quo-Bias). Insofern stellen langjährig gewachsene Mobilitätsgewohnheiten gepaart mit dem hohen Motorisierungsgrad
+eine Hürde für Carsharing & Co. dar. Die Umfragen deuten darauf hin, dass
+diese Gewohnheiten für die Autonutzer relevanter sind als Kostenargumente.
+Letztlich stellt Carsharing nur eine von vielen Formen geteilter Nutzung eines
+Autos dar. Die klassischen Formen (z.B. Taxibetrieb, Autovermietung) werden
+durch neue Angebote ergänzt (Vermittlung von Mitfahrgelegenheiten oder Fahrdiensten). Durch digitale Technologien wird es für Kunden leichter möglich, diese Dienste zu nutzen und sie mit anderen Verkehrsträgern wie dem ÖPNV zu
+verknüpfen, der letztlich auch eine Form der geteilten Mobilität ist. Die heute
+gegenüber dem eigenen Auto noch existierenden Nachteile in puncto Flexibilität
+und Bequemlichkeit werden somit kleiner.
+Für wen kommt Carsharing am ehesten in Frage?
+17
+
+Studien zum Thema Carsharing sowie die empirischen Daten zeigen, dass
+Carsharing vor allem für innerstädtische Strecken, für Fahrten, die größeren
+Einkäufen dienen, Wochenendausflüge oder Kurzurlaube genutzt wird. Die
+zitierte Studie des Instituts für Mobilitätsforschung weist darauf hin, dass die
+16
+
+17
+
+24 |
+
+19. Juni 2017
+
+Dies erklärt sich auch aus dem Besitz-Bias, nachdem Menschen ein Produkt wertvoller einschätzen, wenn sie es besitzen.
+Siehe hierzu beispielsweise Institut für Mobilitätsforschung (2016). Carsharing 2025 – Nische
+oder Mainstream? Dresden, Wien.
+Deutschland-Monitor
+
+Das „digitale Auto“
+stationsunabhängigen Angebote überdurchschnittlich oft für (vermutlich häufig
+spontane) innerstädtische Fahrten genutzt werden, während für Transporte oder
+Kurzurlaube stärker auf stationsabhängige Angebote zurückgegriffen wird; bei
+diesen ist die durchschnittlich zurückgelegte Strecke demnach auch länger.
+
+Carsharing kommt für junge, urbane
+Bevölkerung besonders in Frage
+
+Carsharing & Co. haben es in
+ländlichen Gebieten schwer
+
+Letztlich zielt Carsharing (bislang) vor allem auf jüngere, städtische Bevölkerungsschichten ab, die in der Regel nicht über ein eigenes Autos verfügen.
+Es ist interessant für Menschen, die im Alltag mit dem ÖPNV, per Fahrrad oder
+zu Fuß mobil sind, aber gelegentlich ein Auto benötigen. Die tatsächlichen Nutzerprofile sind zwar viel heterogener, aber in den nächsten Jahren dürfte die
+Nachfrage nach Carsharing-Angeboten weiterhin vor allem in den Städten
+wachsen. Da die Bevölkerungszahl in urbanen Zentren überall auf der Welt
+wächst, steigt auch das Marktpotenzial für Carsharing & Co. Durch digitale
+Technologien dürften eventuell anfallende einmalige Kosten für die Registrierung bei einem Carsharing-Anbieter oder jährliche Fixkosten sinken. In der Folge dürfte die Zahl der registrierten Nutzer schneller wachsen als die Zahl der
+verfügbaren Fahrzeuge; dies war in Deutschland schon in den letzten Jahren
+der Fall. Laut Berylls wird Carsharing in Deutschland nur von 6% der Registrierten intensiv genutzt.
+Je ländlicher eine Region geprägt ist, desto mehr sind private Haushalte im
+Alltag auf ein eigenes Auto angewiesen; letztlich besitzen sie gerade deshalb
+häufig auch ein eigenes Auto. Zusammen mit der geringeren Bevölkerungsdichte auf dem Land erschwert dies ein wirtschaftlich tragfähiges Geschäftsmodell
+von Carsharing-Anbietern außerhalb größerer Städte. Dies gilt grundsätzlich
+auch für das Vermitteln von Fahrdiensten. Es ist zwar denkbar, dass Carsharing
+in ländlichen Regionen privat organisiert wird (Nachbarn teilen sich ein Auto).
+Allerdings schätzen wir das Potenzial hierfür klein ein, obwohl solche privaten
+Carsharing-Modelle für die beteiligten privaten Haushalte wirtschaftlich lukrativ
+sein dürften. Vor allem der Faktor Bequemlichkeit verhindert wohl eine stärkere
+Verbreitung.
+Machen digitale Mobilitätsdienste den Besitz eines Autos überflüssig?
+
+Marktpotenzial für Carsharing steigt,
+bleibt aber vorerst in der Nische
+
+Wir erwarten, dass Mobilitätsdienste wie Carsharing in den nächsten Jahren
+durch digitale Technologien für viele Kunden attraktiver werden. Dies betrifft
+sowohl den bequemen Zugang zu solchen Diensten als auch deren Nutzung
+(z.B. Buchungs- und Abrechnungsprozess, das Auffinden von Fahrzeugen oder
+Parkplätzen, individualisierte Zusatzinformationen). Ferner wird sich das Kosten-Nutzen-Verhältnis für die Kunden verbessern. Durch den Zuzug in die Städte steigt die Zahl der Personen, die vorübergehend oder gar dauerhaft auf einen
+eigenen Pkw verzichten wollen und können und im Bedarfsfall Carsharing,
+Mietwagen oder Fahrdienste nutzen. Dennoch halten wir es für sehr unwahrscheinlich, dass (digital gestützte) Mobilitätsdienste den privaten Pkw-Besitz
+schnell und umfassend ersetzen werden. Mehrere Gründe sprechen dagegen:
+— Kosten: Die Frage, ob ein eigener Pkw oder das Nutzen von alternativen
+Mobilitätsdiensten günstiger ist, lässt sich nicht pauschal beantworten. Dies
+hängt von den individuellen Mobilitätsbedürfnissen ab. Carsharing & Co.
+sind jedenfalls kein Garant für eine stets kostengünstige Mobilität.
+— Bequemlichkeit: In Sachen Bequemlichkeit ist der jederzeitige Zugriff auf ein
+eigenes Auto wohl auch künftig nicht zu schlagen. Die gilt auch für Flexibilität, Unabhängigkeit usw. Die oben genannten Umfragen haben gezeigt,
+dass für diese Faktoren eine hohe Zahlungsbereitschaft bei privaten Haushalten besteht.
+— Gefestigte Konsummuster und Langlebigkeit der Autos: Der durchschnittliche Autofahrer ist es seit vielen Jahren oder Jahrzehnten gewohnt, ein Auto
+selbst zu besitzen. Diese gefestigten Konsummuster dürften nicht leicht
+
+25 |
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+
+Autos auf Deutschlands Straßen
+werden immer älter
+
+12
+
+Durchschnittsalter von Pkw im Bestand in
+Deutschland, Jahre
+9,5
+9
+8,5
+8
+7,5
+7
+6,5
+98
+
+00 02
+
+04 06 08* 10
+
+12 14 16
+
+* Der Rückgang des Jahres 2008 ist auf eine Änderung
+der statistischen Bemessungsgrundlage zurückzuführen
+Quelle: Kraftfahrt-Bundesamt
+
+Anbieter von Carsharing dürften ihre
+Kapazitäten nicht an der Spitzenlast
+ausrichten
+
+aufzubrechen sein, zumal der private Neuwagenkäufer in Deutschland im
+Mittel etwa 53 Jahre alt ist und damit (noch) nicht zu den „Digital Natives“
+zählt. Die bereits erwähnte Langlebigkeit eines Automobils verzögert ebenfalls den Umstieg vom eigenen Auto auf Mobilitätsdienste. Das Durchschnittsalter der Pkw-Flotte in Deutschland lag Anfang 2017 bei 9,3 Jahren.
+Zumindest dürften die meisten privaten Haushalte ihr Fahrzeug nicht „ohne
+Not“ verkaufen. Hinzu kommt die emotionale Bindung vieler Autofahrer an
+ihr eigenes Fahrzeug. Traditionelle Konsummuster können übrigens auch
+erklären, warum alternative Antriebstechnologien wie die Elektromobilität
+weltweit nur langsam nennenswerte Marktanteile erobern, obwohl in einigen
+Automärkten Subventionen für Elektroautos gewährt werden.
+— Problem der Spitzenlast. Auf der Angebotsseite finden sich ebenfalls Gründe, warum digitale Mobilitätsdienste, Carsharing & Co. den privaten PkwBesitz nur eingeschränkt ersetzen können. Dies hängt mit der ungleichmäßigen Verteilung der Verkehrsströme im Tages-, Wochen- und Jahresverlauf zusammen. So sind innerhalb eines Werktages die Morgen- und
+Abendstunden typischerweise Spitzenlastzeiten, also Zeiten, in denen viele
+Verkehrsteilnehmer unterwegs sind (v.a. Fahrten zur Arbeit oder zur
+Bildungsstätte). In dieser Zeit werden entsprechend viele Fahrzeuge gleichzeitig genutzt, die (heute) für den Rest des Tages, also in den Schwachlastzeiten, kaum bewegt werden. Spitzen- und Schwachlastzeiten sind für die
+meisten Verkehrsträger charakteristisch. Trotz zunehmender Flexibilisierung
+der Arbeitszeiten dürften diese Unterschiede auch langfristig bestehen bleiben. Auch durch zeitliche Preisdifferenzierung (hohe Preise in der Spitzenlastzeit, niedrige in der Schwachlast) können die Unterschiede nur bedingt
+nivelliert werden. Es ist unwahrscheinlich, dass Carsharing-Anbieter ihre
+Fahrzeugkapazitäten an den Spitzenlastzeiten ausrichten. Die Auslastung
+der Kapazitäten in der Schwachlast wäre zu niedrig, weshalb ein solches
+Angebot betriebswirtschaftlich wohl kaum rentabel zu betreiben wäre. Zudem könnte bei einer Ausrichtung auf die Spitzenlast die Zahl der Parkplätze im öffentlichen Raum knapp werden, weil privat genutzte Fahrzeuge zumindest zeitweise auf privaten Grundstücken geparkt werden. Je mehr Anbieter im jeweils relevanten Markt aktiv sind, desto größer würde das Problem nicht ausgelasteter Kapazitäten in der Schwachlast. Langfristig würden zudem jene autonom fahrenden Autos das Angebot erhöhen, die sich
+in Privatbesitz befinden, aber von Dritten für Fahrten gebucht werden können, wenn der eigentliche Besitzer das Auto nicht benötigt. Dies würde die
+Kapazitätsauslastung gewerblicher Carsharing-Anbieter zusätzlich unter
+Druck setzen. Wie wir bereits ausgeführt haben, sind private Pkw-Besitzer
+(heute) bereit, für die geringe Auslastung des eigenen Autos (also die hohen Fixkosten) zu zahlen, obwohl dies betriebswirtschaftlich häufig nicht
+rentabel ist. Gewerbliche Anbieter von Mobilitätsdiensten müssen dagegen
+in der Lage sein, Gewinne zu erzielen. Dabei stellt die Kapazitätsauslastung
+der Fahrzeuge einen wesentlichen Erfolgsfaktor dar.
+Alternative Mobilitätsdienstleistungen werden ein Milliardenmarkt
+Die genannten Gründe zeigen, dass das privat gehaltene bzw. genutzte Auto
+(inklusive Dienstwagen usw.) auch mittel- bis längerfristig noch kein Auslaufmodell ist. Flexibilität und Bequemlichkeit sind wohl die entscheidenden Vorteile
+gerade für Menschen, die häufig bzw. regelmäßig ein Auto benötigen. Gleichwohl gewinnen alternative Mobilitätsdienste wie Carsharing oder Fahrdienstvermittlungen in den nächsten Jahren in Deutschland und anderswo an Bedeutung. Primäre Zielgruppe ist die junge städtische Bevölkerung. Letztlich entwickelt sich hier ein Milliarden-Euro-Markt. Dies verdeutlicht eine einfache
+Überschlagsrechnung: Man nehme an, der Anteil alternativer (autogestützter)
+Mobilitätsdienstleistungen an der gesamten (heutigen) Fahrleistung der existie-
+
+26 |
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+renden Pkw-Flotte in Deutschland (2015: 635 Mrd. Kilometer) steige in den
+kommenden 10 bis 15 Jahren auf 5% (dies wäre grob geschätzt ein um den
+Faktor 100 höherer Marktanteil als heute). Man nehme ferner an, dass die Nutzer für jeden gefahrenen Kilometer 30 Cent zahlen. In einem solchen (nicht
+unrealistischen) Szenario würde der Umsatz dieser Mobilitätsdienste allein in
+Deutschland knapp EUR 10 Mrd. pro Jahr betragen (ohne pauschale Gebühren
+der Nutzer usw.).
+Carsharing: ein aussichtsreicher Business-Case für Automobilhersteller?
+Carsharing & Co.: Marktanteil von 5%
+am gesamten MIV in den nächsten
+10 bis 15 Jahren möglich
+
+Einige Autohersteller tummeln sich im
+Carsharing-Markt
+
+Carsharing hat für Autohersteller
+auch einen Marketing-Effekt
+
+Das große Marktpotenzial von Carsharing & Co. ist ein wesentlicher Grund dafür, dass die Automobilindustrie selbst in diesem Bereich aktiv ist. Während
+amerikanische Autohersteller bislang vorwiegend auf Beteiligungen an neuen
+Mobilitätsdienstleistern setzen, ist die Gründung eigener Carsharing-Dienste
+durchaus ein deutsches Phänomen. Unter dem Strich steigt das Angebot an
+alternativen Pkw-Nutzungsformen. Neben schon länger existierenden Diensten
+(z.B. teilAuto (1992), stadtmobil (1999), Cambio (2000), Flinkster (2001)) sind in
+Deutschland auch Autohersteller mit eigenen Carsharing-Diensten aktiv. Zu
+nennen sind BMW mit seinem Carsharing-Dienst DriveNow (2011), Daimler mit
+car2go (2012) oder die PSA-Gruppe mit Free2Move (2017). Zudem sind national und international Beteiligungen von Autoherstellern an alternativen Mobilitätsdienstleistern zu beobachten. Der VW-Konzern kooperiert (ähnlich wie General Motors und Ford) mit dem israelischen Mobilitätsdienst Gett und setzt mit
+dem Ende 2016 gestarteten Tochterunternehmen MOIA nach eigenen Angaben
+auf IT-basierte On-Demand-Angebot (u.a. Fahrtenvermittlung).
+Zwar werden für viele Carsharing-Dienste, die von Autoherstellern betrieben
+werden, keine betriebswirtschaftlichen Kennzahlen veröffentlicht. Aber es ist ein
+offenes Geheimnis, dass dieses Geschäftsfeld für die Hersteller bislang in der
+Regel noch nicht rentabel ist. Die anfallenden Verluste werden bislang jedoch in
+Kauf genommen, da viele Hersteller im Markt für Mobilitätsdienstleistungen einen Fuß in der Tür haben und eigene Erfahrungen sammeln wollen, wenn sich
+die Nutzungsweise ihres Produktes strukturell ändert. Zudem bietet die
+Carsharing-Flotte einen nicht zu vernachlässigenden Marketing-Effekt. Einer
+Studie zufolge werden gut ein Viertel der Carsharing-Nutzer zu Neukunden der
+entsprechenden Marke, während nur knapp ein Zehntel der Carsharing-Nutzer
+plant, das eigene Auto abzuschaffen. Es bleibt abzuwarten, ob und wie schnell
+es gelingt, Carsharing-Angebote zu etablieren, die dauerhaft betriebswirtschaftlich rentabel sind. Dass eine Konsolidierung im Carsharing-Markt mittel- bis
+langfristig wahrscheinlich ist, hatten wir bereits ausgeführt (Größenvorteile und
+Netzwerkeffekte).
+Zwischenfazit: Nutzer zeigt skeptische Aufgeschlossenheit gegenüber „digitalem
+Auto“
+
+Neue Technologien müssen echten
+Mehrwert bieten
+
+Die Summe aller Autofahrer ist eine heterogene Gruppe. Der durchschnittliche
+Nutzer steht dem „digitalen Auto“ insofern sowohl neugierig und aufgeschlossen
+als auch mit einer gehörigen Portion Skepsis gegenüber. Angesichts der weitgehend fehlenden Erfahrungen mit den neuen Technologien ist eine solche
+Haltung verständlich. Je weiter der technologische Fortschritt voranschreitet,
+desto mehr werden Vertrauen und Akzeptanz der Nutzer zunehmen. Dazu müssen die Technologien natürlich einen echten Mehrwert bieten und nicht nur
+„Spielereien“ darstellen. Das Thema Sicherheit genießt höchste Priorität. Der
+Weg zum vollständig autonom fahrenden Auto im Massenmarkt wird auch auf
+der Nachfrageseite evolutionär und nicht revolutionär erfolgen.
+Wir halten es zudem für wahrscheinlich, dass das eigene Auto in den kommenden Jahren aus den genannten Gründen für den Großteil der Autofahrer der
+
+27 |
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+Normalfall bleibt, obwohl Carsharing, Fahrtenvermittlung und andere Mobilitätsdienste gerade in urbanen Zentren an Bedeutung gewinnen werden. Innerhalb
+der nächsten 10 bis 15 Jahre könnte der Anteil dieser Angebote am gesamten
+MIV in Deutschland auf 5% steigen; der Markanteil wird von Land zu Land unterschiedlich ausfallen und u.a. von der jeweiligen Regulierung abhängen.
+
+Funktionalität rückt bei Carsharing in
+den Vordergrund
+
+Datensicherheit und Datenschutz
+bleiben kontroverse Themen
+
+Recht wenig haben wir das Thema Datenzugriff und Datensicherheit diskutiert.
+Der „gläserne Autofahrer“ wird durch das digitale Auto technologisch möglich.
+Bis zu welchem Maße dies vom Autofahrer akzeptiert wird, bleibt abzuwarten.
+Der durchschnittliche Smartphone- und Internetnutzer geht heute recht sorglos
+mit seinen Daten um. Wird er dieses Verhalten auch im Autoverkehr beibehalten? Die bei einer Autofahrt individuell anfallenden Daten sind für den eigentlichen Nutzer nur wenig wert. Durch Aggregation der Daten vieler Verkehrsteilnehmer werden sie aber vor allem für digitale Ökosysteme wertvoll, denn deren
+Monetarisierungsstrategie basiert auf dem Zugang zu den Daten. Wertvoll sind
+sie auch für die Autohersteller (Informationen zum Fahrverhalten, Wartung, Verkehrsinformationen durch Aggregation der Daten aller Fahrzeuge eines Anbieters). Auch Versicherungen haben ein Interesse an den Daten, denn Unfälle
+können mit digitalen Autos sehr viel leichter rekonstruiert werden (die „Black
+Box“ im Auto). Nicht zuletzt hat auch der Staat ein Interesse an den anfallenden
+Daten; dies gilt für die Verkehrslenkung, aber auch für das Verfolgen von Straftaten. Der Kampf um die Daten dürfte spannend werden. Ob der einzelne Autonutzer auf seine Datenhoheit pochen bzw. diese auch tatsächlich durchsetzen
+kann, ist fraglich.
+4.3
+
+Weniger Autos und weniger Premium durch Carsharing und autonomes
+Fahren?
+
+Die Nachfrage nach Autos bzw. autogestützter Mobilität wird sich in den nächsten Jahren ändern; zwar evolutionär und regional mit unterschiedlichem Tempo,
+aber doch dauerhaft. Die Bedeutung von Carsharing, flexiblen Fahrtenvermittlungsdiensten (Ridesharing) und anderen Angeboten dieser Art nimmt zu. Dies
+beeinflusst sowohl die absolute Zahl der abgesetzten Autos als auch die Ausstattung der Fahrzeuge.
+
+Durch autonom fahrende Autos kann
+der Pkw-Bestand sinken, aber Fahrleistung pro Fahrzeug steigt
+
+— Mehr Menschen werden auf ein eigenes Auto verzichten, wenn sich die
+Möglichkeiten verbessern, auf alternative (autobasierte) Mobilitätsdienstleistungen zurückgreifen zu können. Perspektivisch kann ein autonom fahrendes Auto mehrere konventionelle Fahrzeuge ersetzen. Bei sonst gleichen
+Bedingungen sinkt also das Absatzpotenzial im betreffenden Automarkt. Die
+Kollegen von Deutsche Bank Markets Research haben beispielsweise errechnet, dass der Kfz-Bestand in den USA um etwa 7% sinken würde, wenn
+15% der privaten Haushalte von zwei herkömmlichen auf nur noch ein
+autonom fahrendes Auto umsteigen würden. Dies sind zunächst schlechte
+Nachrichten für die Automobilindustrie. Gleichwohl kann der skizzierte Effekt dadurch überkompensiert werden, dass die absolute jährliche Fahrleistung pro Fahrzeug stark steigt. Da die Lebensdauer eines Autos ganz entscheidend von der Fahrleistung abhängt, dürften jene Autos, deren durchschnittliche Auslastung und Fahrleistung überdurchschnittlich hoch ausfällt,
+schneller ersetzt werden. Ein zusätzlicher Impuls könnte daraus resultieren,
+dass durch autonome Fahrtechnologien auch Menschen in die Lage versetzt werden, ein Auto zu nutzen, die z.B. keinen Führerschein haben oder
+körperlich eingeschränkt sind. In Summe könnten dann sogar mehr Fahr18
+zeuge verkauft werden.
+
+18
+
+28 |
+
+19. Juni 2017
+
+Vgl. Deutsche Bank Markets Research (2016). Pricing the Car of Tomorrow – Part II. FITTReport. London. In diesem Bericht sind weitere akademische Studien aufgeführt, die Aussagen
+darüber treffen, in welchem Umfang autonome Fahrzeuge zu einem insgesamt geringeren FahrDeutschland-Monitor
+
+Das „digitale Auto“
+
+Technischer Fortschritt und Mobilitätspräferenzen der Autonutzer
+wichtige Einflussfaktoren
+
+Privat genutzte autonome Autos:
+Interieur wichtiger als Motorisierung
+
+Unternehmen können sich anpassen
+
+— Gerade für deutsche Autohersteller mit ihrem Fokus auf Fahrzeuge der
+automobilen Oberklasse und ihrem Premium-Anspruch ist von Bedeutung,
+wie sich die Ansprüche der Kunden an das Auto ändern, wenn sie häufiger
+Carsharing nutzen oder perspektivisch autonomes Fahren zum Alltag wird.
+Beim Carsharing steht die Funktionalität in der Regel mehr im Vordergrund
+als bei einem eigenen Auto, das für viele Kunden ein sehr emotionales Produkt ist. Es ist sehr wahrscheinlich, dass die Ansprüche der Kunden an ein
+Auto aus einer Carsharing-Flotte in Sachen Ausstattung, Motorisierung usw.
+geringer sind als bei einem Fahrzeug, dass man selbst konfiguriert und
+dann für einige Jahre nutzt. Daher dürfte die durchschnittliche Ausstattung
+eines Carsharing-Autos weniger umfangreich ausfallen als bei einem privat
+genutzten Fahrzeug. In der Folge würden die Möglichkeiten der Autohersteller sinken, über eine besonders hochwertige Ausstattung oder Motorisierung zusätzliche Erträge zu generieren. Bei autonom fahrenden Autos in
+privatem Besitz werden sich die Kundenpräferenzen ebenfalls verschieben.
+Wenn man selbst nicht mehr lenkt oder das Gaspedal bedient, verliert die
+Motorisierung des Autos an Bedeutung zugunsten einer hochwertigen Ausstattung im Innenraum der Autos. „Freude am Fahren“ bezieht sich dann
+weniger auf die Motorleistung oder Beschleunigung, sondern auf möglichst
+viel Komfort. Der Motorenbau, Kernkompetenz und wichtiger Renditebringer
+der Autohersteller, verlöre damit längerfristig an Bedeutung. Dies gilt noch
+mehr, wenn elektrische Antriebstechnologien nach und nach den Verbrennungsmotor verdrängen. Unter dem Strich dürfte bei autonom fahrenden
+Autos die Zahlungsbereitschaft für die Premium-Ausstattung unter der Motorhaube sinken; mit Sicherheit würde dies gelten, wenn autonomes Fahren
+verpflichtend eingeführt würde. Letztlich dürfte eine solche Entwicklung für
+die Autohersteller die größere Gefahr darstellen als eventuell sinkende
+Stückzahlen durch mehr Carsharing & Co.
+Die genannten Entwicklungen werden sich über viele Jahre hinziehen, weshalb
+alle beteiligten Unternehmen grundsätzlich die Möglichkeit haben, sich an die
+sich ändernden Kundenpräferenzen anzupassen (wenngleich es nicht allen
+gelingen dürfte). Für die eigentlichen Autohersteller ist zudem wichtig, dass der
+Nachholbedarf in Sachen individuelle Mobilität sowie der Wunsch nach einem
+eigenen Fahrzeug in vielen Ländern noch stark ausgeprägt sind. Die Nachfrage
+nach Autos wird in den nächsten Jahren global wachsen. Premium wird dabei
+auch künftig eine wichtige Rolle spielen. Gerade jene Kundschaft, die sich
+hochpreisige Autos leisten kann, wird nur bedingt Carsharing nutzen oder ihr
+Fahrzeug mit anderen teilen wollen. Grundsätzlich dürften sich gesellschaftliche
+Mobilitätspräferenzen (z.B. die vermeintliche Abkehr vom eigenen Auto) nur
+sehr langsam ändern; in den Städten schneller als auf dem Land. Den Autoherstellern könnte es gelingen, im Markt für alternative Mobilitätsdienstleistungen
+langfristig eine wichtige Rolle zu spielen.
+
+5. Das „digitale Auto“: eine Lösung für hochverdichtete Städte?
+Eine wesentliche Erwartung an das „digitale Auto“ ist es, den Verkehrsfluss in
+hochverdichteten urbanen Zentren zu verbessern. Im Folgenden skizzieren wir
+in vier Szenarien, wie eine auf digitalen Technologien basierende Automobilität
+das städtische Verkehrsaufkommen sowie den Verkehrsfluss in 15 bis 25 Jahren verändern kann. Wir beschreiben die Szenarien daher in etwa aus der Sicht
+des Jahres 2035. Die in den Szenarien behandelte Fragestellung (Einfluss des
+digitalen Autos auf städtische Verkehrsentwicklung) basiert aus unserer Sicht
+auf zwei wesentlichen Einflussfaktoren: Erstens ist dies der Grad des technischen Fortschritts beim „digitalen Auto“ selbst. Zweitens ist die Nachfrageseite
+relevant, also die Mobilitätspräferenzen der Nutzer. Für beide Einflussfaktoren
+zeugbestand führen können. Nicht eindeutig sind die Aussagen jedoch bezüglich des zeitlichen
+Rahmens, also bis wann diese Entwicklungen eintreten könnten.
+29 |
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+legen wir jeweils zwei Ausprägungen fest: So kann der technische Fortschritt
+beim „digitalen Auto“ zum einen schnell und umfangreich oder zum anderen
+langsam und unzureichend voranschreiten (digitale Mobilität versus teilweise
+digitale Mobilität). Das „digitale Auto“ in seiner Idealform könnte also entweder
+rasch zur technischen Realität werden. Oder die Entwicklung hin zum „digitalen
+Auto“ verläuft weniger reibungslos, sodass der Straßenverkehr noch für viele
+Jahre durch lediglich teilautomatisiertes Fahren dominiert bleibt. Die Mobilitätspräferenzen der Nutzer könnten sich wiederum entweder mehrheitlich zugunsten von alternativen Mobilitätsdienstleistungen auf der Basis von Carsharing
+und Ridesharing verändern oder stärker bei der bisher dominierenden individuellen Automobilität mit einem hohen Besitzanteil verharren (geteilte versus
+private Mobilität).
+
+Schematische Darstellung der vier
+Szenarien
+
+13
+
+X-Achse: Grad der technologischen Entwicklung
+Y-Achse: Mobilitätspräferenz des Nutzers
+Geteilte Mobilität
+SZENARIO IV Car- und
+Ridesharing
+
+SZENARIO I "Digitales Robo-Taxi"
+Digital
+
+Teilweise
+digital
+SZENARIO III Privater Pkw
+
+SZENARIO II"Digitaler privater
+Pkw"
+
+Private Mobilität
+Quelle: Deutsche Bank Research
+
+Je nach Ausprägung beider Faktoren ergeben sich vier Szenarien (siehe schematische Darstellung), wobei sich die einzelnen Ausprägungen nicht einfach
+quantifizieren lassen. Zudem ist zu berücksichtigen, dass weitere Rahmenbedingungen einen erheblichen Einfluss auf die Verkehrsentwicklung (nicht nur) in
+Städten sowie auf die Attraktivität einzelner Verkehrsträger haben werden. Dazu
+zählen z.B. Kraftstoff- bzw. Energiepreise, die staatliche Regulierung des Verkehrs z.B. in Form von Beschränkungen oder Begünstigungen einzelner Verkehrsmittel, die relativen Kosten alternativer Verkehrsformen oder die Siedlungsstruktur (weitere Verdichtung in den Innenstädten oder Renaissance und
+Ausdehnung der „Speckgürtel“). Zu nennen sind ferner sozio-demografische
+Entwicklungen: Wie entwickelt sich die durchschnittliche Zahl der Personen pro
+Haushalt? Hält die Zuwanderung an? Wie schnell altert die Gesellschaft? Wann
+werden Familien gegründet? Relevant sind darüber hinaus Umbrüche in der
+Arbeitswelt (z.B. Bedeutung von Home Office), Änderungen der Einkaufsmöglichkeiten (E-Commerce versus stationären Handel), die Leistungsfähigkeit der
+IT-Infrastruktur (z.B. zur Bewältigung des durch „digitale Autos“ anfallenden
+Datenvolumens), die Bedeutung von Dienstwagen für die Autonutzer oder Versicherungsfragen. Auf diese Rahmenbedingungen können wir hier nicht im Detail eingehen. Insofern können die im Folgenden beschriebenen Szenarien eine
+mögliche Zukunft nur rudimentär beschreiben und sollen vor allem zum Nachdenken anregen.
+Szenario I: das „digitale Robo-Taxi“
+
+Szenario I: deutlich weniger Pkw pro
+Haushalt in den Städten
+
+30 |
+
+19. Juni 2017
+
+Im Szenario I (digitale geteilte Mobilität) verzichten große Teile der städtischen
+Bevölkerung (mehr als 60% der privaten Haushalte) im Jahr 2035 auf ein eigenes Auto. Sie nutzen im Alltag stattdessen digitale Mobilitätsdienstleistungen
+wie Car- und Ridesharing und natürlich den ÖPNV oder das Fahrrad. Zum Vergleich: Heute kommen auf jeden privaten Haushalt in den drei deutschen Stadtstaaten etwa 0,66 Pkw; außerhalb der Stadtstaaten sind es rechnerisch 1,14
+Pkw pro Haushalt. Die digitalen Mobilitätsdienste sind 2035 kostengünstig sowie
+flexibel und bequem zu erreichen. Nach einer Konsolidierungswelle auf der Anbieterseite ist in diesem Sektor deutschlandweit nur noch eine Handvoll Unternehmen aktiv. Dies ermöglicht Größenvorteile. Die Kunden können in vielen
+Städten mit mehr als etwa 100.000 Einwohnern das Angebot der gleichen
+Unternehmen nutzen; die Zugangsschwellen zu den Mobilitätsdiensten sind
+gering. Auf dem „platten Land“ bilden solche Angebote jedoch noch immer die
+Ausnahme. Trotz der hohen absoluten Nutzerzahlen kommt die Spitzenlastproblematik nur wenig zur Geltung, weil für städtische und stadtnahe Pendlerverkehre der ÖPNV das wichtigste Standbein bleibt – auch dank staatlicher Förderung. Zudem haben sich die Arbeitszeiten gerade in den Städten weiter flexibilisiert. In diesem Szenario sind absolut gesehen weniger Autos auf den städtischen Straßen unterwegs; deren durchschnittliche Auslastung ist jedoch deutlich gestiegen. Der schnelle technische Fortschritt ermöglicht eine effiziente
+Verkehrsführung und einen relativ reibungslosen Verkehrsfluss. In vielen GroßDeutschland-Monitor
+
+Das „digitale Auto“
+städten zählen komplett autonom fahrende Autos von gewerblichen Anbietern
+bereits zum täglichen Straßenbild (Robo-Taxis). Auch Privatleute stellen ihre
+autonom fahrenden Autos Dritten für Fahrdienste zur Verfügung; dies wird
+durch effiziente Abrechnungssysteme und entsprechende Versicherungsprodukte ermöglicht. Die autonom fahrenden Autos werden auch von Menschen
+genutzt, die selbst keinen Führerschein besitzen (inklusive Kinder und Jugendliche) oder körperlich eingeschränkt sind. Die Fahrzeuge gewerblicher Anbieter
+sind funktional ausgestattet; die reine Transportfunktion steht im Vordergrund.
+Bezüglich des Designs haben diese autonom fahrenden Autos wenig mit der
+heutigen Fahrzeuggeneration gemeinsam. Durch den technischen Fortschritt
+haben sich die Unfallzahlen in den Städten deutlich reduziert. Zu den Verlierern
+zählen klassische Taxi-Betriebe, die spürbar weniger von Privatleuten genutzt
+werden. Für Urlaubsfahrten oder andere nicht alltägliche Zwecke können die
+„autolosen“ privaten Haushalte von verschiedenen Anbietern Fahrzeuge mieten,
+die zu ihren jeweiligen Bedürfnissen passen. Dies verursacht zwar recht hohe
+einmalige Kosten. Für die Nutzer ist es finanziell dennoch lukrativ, weil sie im
+Rest des Jahres keine Fixkosten für ein eigenes Fahrzeug tragen müssen.
+Szenario II: der „digitale private Pkw“
+
+Szenario II: Private Haushalte können dank autonom fahrender Autos
+auf Zweit- oder Drittwagen verzichten
+
+Auch im zweiten Szenario (digitale private Mobilität) entwickelte sich der technische Fortschritt bis 2035 so schnell, dass „digitale Autos“ rasch Marktanteile
+erobern und dank ihrer zahlreichen Funktionen eine fahrerlose, komfortable und
+sichere Fahrt ermöglichen. Ein im Vergleich zu Szenario I größerer Teil der
+Kunden möchte jedoch nach wie vor ein eigenes Fahrzeug besitzen; die unerreichbar hohe Flexibilität ist hierfür der maßgebliche Grund. Diese Zurückhaltung auf der Nachfrageseite erschwert es gewerblichen Anbietern, finanziell
+attraktive und zugleich betriebswirtschaftlich dauerhaft tragfähige Carsharingoder Ridesharing-Angebote zu unterbreiten. In einigen Großstädten mit über
+250.000 Einwohnern und somit einem ausreichend hohen Kundenpotenzial gibt
+es zwar solche Angebote, die auch autonomes Fahren einschließen. In den
+meisten kleineren Städten konnten sie sich jedoch nicht durchsetzen. Dank des
+„digitalen Autos“ können 2035 mehr private Haushalte, vor allem Familien, auf
+einen Zweit- oder Drittwagen verzichten. So können autonome Fahrzeuge zeitlich versetzt ihre Besitzer zum Arbeitsplatz, die Kinder zur Schule, zum Verein
+oder zu Freunden bringen oder Einkäufe bei darauf spezialisierten Einzelhändlern erledigen. Die autonomen Fahrzeuge werden vor allem innerhalb eines
+Familienverbundes geteilt, in einigen Fällen aber auch mit Nachbarn oder
+Freunden; dazu passende Versicherungsangebote machen dies möglich. Die
+Ausstattung der Fahrzeuge ist grundsätzlich stärker auf Komfort ausgerichtet als
+im ersten Szenario. Der Premium-Anspruch bleibt aufgrund des Eigentums am
+Auto bedeutsam. Die absolute Zahl an Autos in den Städten hat sich bis 2035
+gegenüber der heutigen Situation verringert, aber noch immer besitzt knapp die
+Hälfte der privaten Haushalte ein eigenes Auto. Dabei gilt der Grundsatz: Je
+größer die Stadt, desto geringer die Eigentumsquote. Dank einer relativ gleichmäßigen Auslastung der Autos verbessert sich auch im zweiten Szenario der
+Verkehrsfluss in den Städten spürbar. Ohne einen effizienten und kundenfreundlichen ÖPNV wäre dies jedoch nicht möglich.
+Szenario III: der „private Pkw“
+
+Szenario III: fehlende Größenvorteile
+erschweren betriebswirtschaftlich
+rentablen Betrieb von digitalen
+Mobilitätsdienstleistungen
+
+31 |
+
+19. Juni 2017
+
+Im Szenario III (teilweise digitale private Mobilität) verlief der technische Fortschritt bis 2035 deutlich schleppender. Das „digitale Auto“ in seiner Idealform ist
+zwar auch hier schon seit einigen Jahren am Markt verfügbar. Autonomes Fahren ist jedoch ganz überwiegend auf Autobahnen und bestimmte Bundesstraßen beschränkt, wo die Verkehrsflüsse leichter digital zu steuern sind. Im Stadtverkehr spielt das autonome Fahren noch keine große Rolle, sondern ist auf
+Deutschland-Monitor
+
+Das „digitale Auto“
+wenige Städte und einzelne Strecken begrenzt; dies schränkt die Vorteile für die
+Nutzer deutlich ein. Die langsame Entwicklung ist auch darauf zurückzuführen,
+dass der Gesetzgeber aufgrund einiger Unfälle mit autonom fahrenden Autos
+stets vorsichtig agierte. Zugleich präferiert in diesem Szenario ein Großteil der
+Nutzer den Besitz eines eigenen Autos. Digitale Mobilitätsdienste stellen (auch
+aufgrund der nicht ausgereiften Technik) für viele Kunden in Sachen Flexibilität
+und auch in finanzieller Hinsicht keine attraktive Alternative zum eigenen Auto
+dar. Aufgrund fehlender Größenvorteile beim Betrieb der Fahrzeugflotten fallen
+die Gebühren für die Nutzer nämlich recht hoch aus. In den Anfangsjahren wurden solche Geschäftsmodelle von den Anbietern häufig noch quersubventioniert. Viele Unternehmen verabschiedeten sich jedoch im Laufe der Jahre von
+dieser betriebswirtschaftlich nicht tragfähigen Strategie. Ab der Mitte der 2020er
+Jahre sank auch in diesem Szenario die Zahl der Pkw pro Haushalt in den Städten, jedoch weniger stark als in den beiden ersten Szenarien. Maßgeblich für
+die geringere Pkw-Dichte waren u.a. höhere Kosten der Fahrzeughaltung, die
+auch regulatorisch bedingt waren (City-Maut und regionale Fahrverbote in einzelnen Städten und für einzelnen Fahrzeugtypen). Die regulatorische Belastung
+des MIV wurde von Seiten der Politik sowohl ökologisch als auch mit häufig
+auftretenden Staus in den Innenstädten begründet. Fahrzeuge mit geringen
+lokalen Schadstoff- & CO2-Emissionen (Elektroautos) werden vom Regulierer
+dagegen deutlich begünstigt. In hoch verdichteten Städten ist das Problem der
+Ladeinfrastruktur jedoch nicht umfassend gelöst. Der private Pkw-Besitz ist in
+diesem Szenario stärker als heute ein Zeichen für wohlhabende Haushalte. Die
+meisten Haushalte, die in diesem Szenario ein Auto trotz der höheren regulatorischen und fiskalischen Belastungen selbst besitzen, legen besonderen Wert
+auf die Ausstattung der Fahrzeuge. Innerhalb der Automobilindustrie verloren
+die Volumenhersteller bis 2035 Marktanteile zugunsten der Unternehmen im
+Premium-Segment. Außerhalb der Städte ist die private Pkw-Nutzung nach wie
+vor das Standardmodell. Der Motorisierungsgrad ist hier unverändert hoch.
+Szenario IV: das klassische Car- und Ridesharing
+
+Szenario IV: klassisches Carsharing
+vor allem in Städten mit mehr als
+500.000 Einwohnern sehr erfolgreich
+
+32 |
+
+19. Juni 2017
+
+Im Szenario IV (teilweise digitale geteilte Mobilität) hat sich das „digitale Auto“ in
+seiner Idealform noch nicht im Massenmarkt etabliert. Wie schon in Szenario III
+findet vollständig autonomes Fahren überwiegend auf Autobahnen und Bundestraßen statt. Da allerdings die fixen und variablen Kosten der privaten PkwHaltung bis 2035 stark gestiegen waren, haben sich mehr private Haushalte
+gegen einen eigenen Pkw und für alternative Mobilitätsdienste entschieden.
+Hier gab es auf der Angebotsseite einen massiven Konsolidierungsprozess,
+sodass nur noch wenige Anbieter auf dem Markt aktiv sind. Besonders erfolgreich sind solche Angebote in Städten mit mehr als 500.000 Einwohnern, weil
+hier leichter Größenvorteile zu erzielen sind, die Auslastung der Fahrzeuge höher ist und sich damit die Nutzergebühren für die Kunden in Grenzen halten. Es
+dominieren stationsunabhängige Dienste, trotz der höheren logischen Herausforderungen für die Unternehmen (Parkplatzverfügbarkeit, Betankung bzw. Aufladung der Batterie bei Elektroautos, Reinigung, Wartung usw.). Die betreffenden Autos können leicht per Smartphone geortet, gebucht und nach der Fahrt
+wieder an einem beliebigen Ort abgestellt werden. Die Nutzer sitzen jedoch
+ganz überwiegend selbst am Steuer. In kleineren Städten ist das Angebot an
+Car- und Ridesharing deutlich übersichtlicher. Die betreffenden Unternehmen
+haben gelernt, unter welchen Voraussetzungen (Einwohnerzahl, Siedlungsstruktur, Bedeutung des ÖPNV, Pendlergewohnheiten usw.) wirtschaftlich tragfähige Angebote möglich sind. Konsequenterweise haben sie sich aus Märkten
+zurückgezogen, wo diese Voraussetzungen nicht gegeben sind. Außerhalb der
+Großstädte haben private Sharing-Modelle (z.B. unter Nachbarn) an Bedeutung
+gewonnen. Autovermietungen, Autohändler und Autohersteller kooperieren mit
+neuen Akteuren im Bereich des städtischen Car- und Ridesharing. Sie bieten
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+zudem flexible Lösungen für jene (städtischen) Haushalte an, die ein Auto für
+längere Zeit (Urlaubsfahrten) größere Strecke und/oder besondere Anlässe
+mieten möchten. Die Kunden haben sich daran gewöhnt, dass die variablen
+Kosten solcher Angebote auf den ersten Blick hoch ausfallen, gemessen am
+Besitz eines Autos jedoch noch immer wirtschaftlich vertretbar sind. Im skizzierten Szenario hat sich der innerstädtische Verkehrsfluss verbessert; weniger
+Autos sind auf den Straßen unterwegs. Die Funktionalität des Autos hat an Bedeutung gewonnen, während die emotionale Bindung der Nutzer zum Auto gesunken ist. Dies spiegelt sich sowohl in der reduzierten Motorisierung als auch
+im „nüchternen“ Interieur wider. Eine solche Entwicklung stellte die deutschen
+Autohersteller im Premium-Segment vor Herausforderungen, wenngleich viele
+kaufkräftige Haushalte mit eigenem Pkw nach wie vor eine komfortable Ausstattung ihrer Autos wertschätzen.
+Das Auto ist nicht die Lösung für innerstädtische Verkehrsprobleme
+Motorisierungsgrad in den Städten
+kann durch das „digitale Auto“ sinken
+
+Funktionierende ÖPNV wichtig, um
+Verkehrskollaps zu verhindern
+
+Lange Übergangsphase sehr
+wahrscheinlich
+
+Die vier Szenarien sollen und können eine mögliche Zukunft nur in Grundzügen
+skizzieren. Einige Muster sind jedoch zu erkennen. Beispielsweise nimmt der
+individuelle Motorisierungsgrad in den Städten nicht nur, aber auch aufgrund
+des „digitalen Autos“ in allen Szenarien langfristig ab. Dies gilt natürlich in erster
+Linie für Städte in Industrieländern, wo die Pkw-Dichte schon heute recht hoch
+ist. In vielen Entwicklungs- und Schwellenländern dürfte der Nachholbedarf gepaart mit höheren Einkommen jedoch vorerst für eine steigende individuelle
+Motorisierung sorgen.
+Zu erkennen ist auch, dass das Auto weder in seiner „digitalen“ noch in seiner
+„herkömmlichen“ Form die Verkehrsprobleme in urbanen Zentren löst. Auch ein
+autonom fahrendes und gut ausgelastetes Auto benötigt pro Passagier verhältnismäßig viel Platz, der gerade in den hochverdichteten und stark wachsenden
+Großstädten der Entwicklungs- und Schwellenländern schlicht nicht vorhanden
+ist. Diese Städte benötigen einen gut funktionierenden ÖPNV, um den Verkehrskollaps zu vermeiden. Für einen hohen Anteil des MIV sind sie jedenfalls
+nicht ausgelegt, wie viele Beispiele aus den großen Ballungsräumen der Erde
+schon heute zeigen. Letztlich sind massive, kostenintensive Investitionen in die
+ÖPNV-Infrastruktur und entsprechende Fahrzeuge nötig. Das „digitale Auto“
+kann gegenüber einem Business-as-usual-Fall die Verkehrsprobleme lediglich
+mildern. Durch den gestiegenen Anteil von Elektroautos und schadstoffärmere
+Fahrzeuge mit Verbrennungsmotor verringern sich die lokalen Schadstoffemissionen.
+2035 werden in allen Szenarien noch viele Fahrzeuge auf den Straßen unterwegs sein, die in technologischer Hinsicht weit vom „digitalen Auto“ in seiner
+Idealform entfernt sind. Dazu zählen sowohl ältere Fahrzeuge, die z.B. in den
+frühen 2020er Jahren zugelassen wurden, als auch junge Autos, deren Ausstattung aber lediglich teilautomatisiertes Fahren ermöglicht. Die Automärkte werden sich also aller Voraussicht nach in etwa 20 Jahren (immer noch) in einer
+Übergangsphase befinden (was auch für Antriebstechnologien gelten wird).
+Angesichts der derzeit häufig dominierenden „Schwarz-Weiß-Betrachtung“ zur
+Zukunft des Automobils ist es sicherlich sinnvoll, sich die vielen möglichen
+Grautöne vorzustellen, durch die die Branche künftig geprägt sein dürfte. Klar ist
+auch, dass es große regionale Unterschiede hinsichtlich der Marktdurchdringung „digitaler Autos“ geben wird. Diese Unterschiede dürften sowohl zwischen
+einzelnen Ländern als auch innerhalb einzelner Länder zu beobachten sein.
+
+6.
+
+Fazit und Ausblick
+
+Die künftigen Entwicklungen rund um das „digitale Auto“ zu prognostizieren,
+gleicht angesichts der technologischen, wirtschaftlichen, politischen, gesell-
+
+33 |
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+schaftlichen und sonstigen Unsicherheiten einem Blick in die Glaskugel. Erschwert wird der Ausblick auf die Zukunft auch durch das weitgehende Fehlen
+einer (quantitativen) Historie zu diesem Thema. Dennoch ist es aus unserer
+Sicht möglich, einige belastbare Aussagen zum „digitalen Auto“ zu treffen.
+Wir haben in diesem Bericht an verschiedenen Stellen das Bild aufgegriffen,
+dass der Weg zum „digitalen Auto“ einer Evolution statt einer Revolution gleichen wird. Dafür sprechen Faktoren auf der Angebots- und der Nachfrageseite.
+Wir erinnern an die langen Entwicklungszeiten in der Branche sowie die Langlebigkeit des Produkts Auto an sich. Zu nennen sind ferner die seit Jahrzehnten
+gewachsenen Konsumpräferenzen, die sich wohl nur langsam ändern. Die
+Summe aller Autofahrer ist sehr heterogen.
+Grundsätzlich erwarten wir, dass das „digitale Auto“ in seiner Idealform technologisch möglich ist und auch in komplexen Verkehrssituationen wie dem Stadtverkehr zum alltäglichen Straßenbild zählen wird. Autonomes Fahren ist keine
+Utopie. Es werden jedoch noch mehrere Jahrzehnte vergehen, bis das „digitale
+Auto“ den Pkw-Bestand weitgehend durchdrungen hat; vor 2040 wird dies wohl
+nicht der Fall sein. Voraussetzung für einen hohen Anteil autonom fahrender
+Fahrzeuge ist zudem, dass die Autonutzer bereit sind, Freiheiten im Straßenverkehr aufzugeben, die für sie heute selbstverständlich zum Autofahren dazugehören. Ein Teil der Autonutzer wird freiwillig auf solche Freiheiten verzichten.
+Einen anderen Teil wird man durch staatliche Regulierung zwingen müssen. Die
+politischen Diskussionen hierzu dürften kontrovers ausfallen. Das „digitale Auto“
+dürfte dazu beitragen, dass die Unfallzahlen im Straßenverkehr langfristig sinken; der „Unsicherheitsfaktor“ Mensch verliert an Bedeutung. Zudem wird sich
+(ceteris paribus) der Verkehrsfluss durch mehr Automation verbessern.
+Die für das „digitale Auto“ notwendigen Technologien werden das Umsatzwachstum in der Automobilindustrie begünstigen. Die meisten Technologien
+(Software und Hardware) müssen zusätzlich in „digitalen Autos“ verbaut werden. Sie ersetzen nicht zwangsläufig andere Teile. Dies ist ein erheblicher Unterschied zu den alternativen Antriebstechnologien in der Automobilindustrie.
+Beispielsweise werden bei batterieelektrischen Autos viele Teile und Komponenten eines Fahrzeugs mit Verbrennungsmotor nicht mehr benötigt.
+Der Umsatz in der Automobilindustrie wird durch das „digitale Auto“ also steigen. Um das höhere Marktvolumen werden Unternehmen kämpfen, die bislang
+nicht oder nur am Rande in der Automobilindustrie aktiv waren. Die Angebotsstruktur wird gegenüber heute deutlich heterogener. Branchenübergreifende
+Kooperationen sind bereits an der Tagesordnung und werden auch in den
+kommenden Jahren das Bild der Branche ändern. Durch solche Kooperationen
+können die Stärken der einzelnen Akteure am besten gebündelt werden. Trotz
+vermehrter Kooperationen bleibt der Wettbewerb in der „erweiterten“ Automobilindustrie intensiv.
+Gerade die deutsche Automobilindustrie muss sich in Deutschland recht häufig
+den Vorwurf anhören, wichtige Entwicklungen auf dem Weg zum „digitalen Auto“ komplett zu verschlafen oder verschlafen zu haben. Solche Vorwürfe waren
+und sind auch bei anderen Themen zu vernehmen, etwa bei der Elektromobilität. In ihrer Pauschalität sind sie aber schlicht falsch. Sicherlich haben einige
+Unternehmen etwa aus der IT-Welt in Teilbereichen des „digitalen Autos“ (z.B.
+dem wachsenden automobilen Datenmarkt) Wissensvorsprünge gegenüber der
+klassischen (deutschen) Automobilindustrie. Aber es gibt kein Unternehmen,
+welches hinsichtlich des Gesamtpakets „digitales Auto“ uneinholbar vorne läge.
+Zudem haben wir in diesem Bericht gezeigt, dass die Beherrschung der gesamten automobilen Wertschöpfungskette in einem Massenmarkt eine beachtliche
+Marktzutrittsbarriere für Newcomer darstellt. Nicht zuletzt aufgrund der evolutionären Entwicklung hin zum „digitalen Auto“ haben sämtliche Unternehmen
+grundsätzlich die Möglichkeit, sich an technologische, gesellschaftliche oder
+
+34 |
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Das „digitale Auto“
+regulatorische Trends anzupassen. Natürlich wird dies manchen Unternehmen
+nicht gelingen, was letztlich jedoch nur einem Ausleseprozess entspricht.
+Die Diskussionen um das „digitale Auto“, um autonomes Fahren, Carsharing,
+Fahrdienste und andere digitale Mobilitätsdienstleistungen sowie um neue Konkurrenten der Automobilindustrie erinnern ein wenig an die euphorischen Einschätzungen zur Elektromobilität vor knapp zehn Jahren. Einige Marktbeobachter erwecken nun abermals den Eindruck, als bliebe in der Branche kurzfristig
+(also in den nächsten fünf Jahren) kein Stein auf dem anderen. Dabei drängt
+sich der Eindruck auf, dass eine Meinung medial umso mehr Gehör findet, je
+extremer sie ausfällt. Aus unserer Sicht ist mehr Nüchternheit angezeigt: Natürlich ist die Digitalisierung des Automobils (neben der Entwicklung alternativer
+Antriebstechnologien sowie einer verbesserten Energieeffizienz und Klimabilanz
+der Fahrzeuge) ein wesentlicher Megatrend in der Branche. Sie stellt die Unternehmen technologisch und finanziell vor große Herausforderungen, verändert
+das Produkt Automobil und seine Nutzung dauerhaft und führt zu komplett neuen Wettbewerbskonstellationen. Unter dem Strich ist der Automarkt jedoch weniger anfällig für kurzfristige (technologische) Revolutionen als z.B. der Markt für
+recht kurzlebige elektronische Konsumgüter. Es kann sich natürlich kein Unternehmen leisten, die Hände in den Schoß zu legen und abzuwarten. Aber angesichts der Innovations- und Anpassungsfähigkeit sowie dank des Beherrschens
+der gesamten automobilen Wertschöpfungskette, wäre es nicht überraschend,
+wenn auch in 15 bis 25 Jahren noch viele der heute aktiven Automobilhersteller
+(nicht nur aus Deutschland) sowie ihre Zulieferer technologische Trends beim
+„digitalen Auto“ maßgeblich mitbestimmen würden.
+Eric Heymann (+49 69 910-31730, eric.heymann@db.com)
+Janina Meister
+
+35 |
+
+19. Juni 2017
+
+Deutschland-Monitor
+
+Deutschland-Monitor
+In der Reihe „Deutschland-Monitor” greifen wir politische und strukturelle Themen mit großer Bedeutung für Deutschland
+auf. Darunter fallen die Kommentierung von Wahlen und politischen Weichenstellungen sowie Technologie- und
+Branchenthemen, aber auch makroökonomische Themen, die über konjunkturelle Fragstellungen – die im Ausblick
+Deutschland behandelt werden – hinausgehen.
+
+Unsere Publikationen finden Sie unentgeltlich
+auf unserer Internetseite www.dbresearch.de
+Dort können Sie sich auch als regelmäßiger
+Empfänger unserer Publikationen per E-Mail
+eintragen.
+Für die Print-Version wenden Sie sich bitte an:
+Deutsche Bank Research
+Marketing
+60262 Frankfurt am Main
+Fax: +49 69 910-31877
+E-Mail: marketing.dbr@db.com
+
+Schneller via E-Mail:
+marketing.dbr@db.com
+
+„ Das "digitale Auto": Mehr Umsatz,
+mehr Konkurrenz, mehr Kooperation ............................... 19. Juni 2017
+„ Unsicherheit bremst Investitionen aus ........................ 18. Januar 2017
+„ Deutscher Häuser- und Wohnungsmarkt 2017:
+Ausblick auf Preise und Mieten der Städte Berlin,
+Düsseldorf, Frankfurt, Hamburg und München............ 10. Januar 2017
+„ Krümel oder Kuchen – wie stark profitiert
+Frankfurts Immobilienmarkt vom BREXIT? ............ 28. November 2016
+„ Logistik: Schwaches Umfeld – Trendwende
+nicht in Sicht.............................................................. 26. Oktober 2016
+
+© Copyright 2017. Deutsche Bank AG, Deutsche Bank Research, 60262 Frankfurt am Main, Deutschland. Alle Rechte vorbehalten. Bei Zitaten wird um
+Quellenangabe „Deutsche Bank Research“ gebeten.
+Die vorstehenden Angaben stellen keine Anlage-, Rechts- oder Steuerberatung dar. Alle Meinungsaussagen geben die aktuelle Einschätzung des
+Verfassers wieder, die nicht notwendigerweise der Meinung der Deutsche Bank AG oder ihrer assoziierten Unternehmen entspricht. Alle Meinungen
+können ohne vorherige Ankündigung geändert werden. Die Meinungen können von Einschätzungen abweichen, die in anderen von der Deutsche Bank
+veröffentlichten Dokumenten, einschließlich Research-Veröffentlichungen, vertreten werden. Die vorstehenden Angaben werden nur zu Informationszwecken und ohne vertragliche oder sonstige Verpflichtung zur Verfügung gestellt. Für die Richtigkeit, Vollständigkeit oder Angemessenheit der vorstehenden Angaben oder Einschätzungen wird keine Gewähr übernommen.
+In Deutschland wird dieser Bericht von Deutsche Bank AG Frankfurt genehmigt und/oder verbreitet, die über eine Erlaubnis zur Erbringung von Bankgeschäften und Finanzdienstleistungen verfügt und unter der Aufsicht der Europäischen Zentralbank (EZB) und der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) steht. Im Vereinigten Königreich wird dieser Bericht durch Deutsche Bank AG, Filiale London, Mitglied der London Stock Exchange, genehmigt und/oder verbreitet, die von der UK Prudential Regulation Authority (PRA) zugelassen wurde und der eingeschränkten Aufsicht der
+Financial Conduct Authority (FCA) (unter der Nummer 150018) sowie der PRA unterliegt. In Hongkong wird dieser Bericht durch Deutsche Bank AG,
+Hong Kong Branch, in Korea durch Deutsche Securities Korea Co. und in Singapur durch Deutsche Bank AG, Singapore Branch, verbreitet. In Japan
+wird dieser Bericht durch Deutsche Securities Inc. genehmigt und/oder verbreitet. In Australien sollten Privatkunden eine Kopie der betreffenden Produktinformation (Product Disclosure Statement oder PDS) zu jeglichem in diesem Bericht erwähnten Finanzinstrument beziehen und dieses PDS berücksichtigen, bevor sie eine Anlageentscheidung treffen.
+Druck: HST Offsetdruck Schadt & Tetzlaff GbR, Dieburg
+
+ISSN: 2511-1663
+
+

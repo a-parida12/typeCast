@@ -1,0 +1,62 @@
+
+Die Achsenspiegelung
+
+
+	Wird einer Urfigur (ABC) durch Spiegelung an einer Geraden a umkehrbar eindeutig genau eine Bildfigur (ABC) zugeordnet, so handelt es sich bei der Abbildung um eine Achsenspiegelung.
+
+Die Gerade a heißt Spiegelachse.
+
+Kurzschreibweise:       
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4128 by 635, depth 1
+pict001.wmf
+
+Urfigur und Bildfigur liegen symmetrisch zur Spiegelachse a.	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 6352 by 6216, depth 1
+pict002.wmf	
+
+
+
+	
+Eigenschaften: ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2046 by 670, depth 1
+pict003.wmf	
+		" 
+Bei allen Achsenspiegelungen schneidet die Verbindungsstrecke von Urpunkt P und Bildpunkt P die Spiegelachse unter einem rechten Winkel und sie wird von ihr halbiert.
+
+"        
+Bei allen Achsenspiegelungen ist nur die Spiegelachse Fixpunktgerade.
+
+"        
+Alle Senkrechten zur Spiegelachse und die Spiegelachse selbst sind Fixgeraden.
+
+"        
+Alle Achsenspiegelungen sind längen- und winkeltreu (Kongruenzabbildung).
+
+"        
+Alle Achsenspiegelungen sind geraden- und kreistreu.
+	
+
+
+Übungen:
+
+	1.      
+Eine Figur, die durch Achsenspiegelung an einer Spiegelachse auf sich abgebildet werden kann, ist achsensymmetrisch. Die Spiegelachse ist die Symmetrieachse der Figur.
+
+        
+Zeichne die Tanne fertig.
+
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4015 by 3955, depth 1
+pict004.wmf	
+
+
+
+	2.      
+Spiegle das Blatt erst an der Geradeng und dann an der Geradenh.
+
+
+
+
+
+
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 9035 by 4607, depth 1
+pict005.wmf	
+
+

@@ -1,0 +1,42 @@
+
+Aufgaben zur Optik / Licht
+
+   1. Welche elektromagnetischen Wellen bezeichnet man als Licht?
+   2. Wovon hδngt die Lichtgeschwindigkeit ab?
+   3. Welche Gesetze gelten fόr die Reflexion und die Brechung?
+   4. Wodurch ist die Brechungszahl bestimmt?
+   5. Unter welchen Bedingungen kommt es zur Totalreflexion?
+   6. Nennen Sie die Bedingungen unter denen  von  einem  "optisch  dichten"
+      bzw. "optisch dόnnen" Medium gesprochen wird?
+   7. Ein Mensch befindet sich 12 m unter Wasser. Infolge der Totalreflexion
+      ist  die  Wasseroberflδche  fόr  ihn  nur  innerhalb   eines   Kreises
+      durchsichtig. Berechnen Sie den Durchmesser  dieses  Kreises.  (?Luft-
+      Wasser = 1,33)
+   8. Welche Brechungszahl muss der zylindrische Glasstab der nebenstehenden
+      Abbildung mindestens haben, wenn alle an der Vorderseite  eintretenden
+      Lichtstrahlen infolge  der  Totalreflexion  im  Stab  bleiben  sollen.
+      (Problem fόr  optische  Kabel,  da  sie  auch  noch  gekrόmmt  verlegt
+      werden.)
+   9. Wie groί darf der Eintrittswinkel ?  zum  nebenstehenden  Glaszylinder
+      hφchstens  sein,  wenn  eine  B  seine  Brechungszahl  mit  ? = 1,33
+      angenommen wird und das Licht im Stab bleiben soll?
+  10. Eine Konvexlinse mit einer Brechkraft von 3,4 dpt entwirft  von  einem
+      70 cm entfernten und 10 cm groίen Gegenstand ein Bild.
+        a. Berechnen Sie die Brennweite!
+        b. Ermitteln Sie die Bildweite und -grφίe durch Rechnung.
+  11. Berechnen Sie den Strahlenverlauf durch eine planparallele Platte  von
+      3 cm Dicke mit der Brechzahl 1,53 fόr einen Einfallswinkel von 68°.
+  12.  Lichtstrahlen treffen auf eine Grundplatte. Ein teil von  ihnen  muss
+      durch eine 20 cm dicke Glaswand mit der Brechzahl 1,5. Der andere Teil
+      schreitet in der Luft voran. Wie groί ist der Zeitunterschied, mit dem
+      das gleichzeitig ausgesandte Licht die Platte erreicht
+  13. Die Wellenlange einer Lichtwelle im Glas mit der Brechzahl 1,4 betrδgt
+      [pic]. Wie groί ist ihre Frequenz (Schwingzahl)?
+  14. Die Wellenlange einer Lichtwelle im Glas mit der Brechzahl 1,4 betrδgt
+      [pic]. Wie groί ist ihre  Ausbreitungsgeschwindigkeit?  Wie  groί  ist
+      ihre Frequenz?
+  15. Was bezeichnen wir als Brennpunkt?
+  16. Wie lautet die Linsengleichung?
+  17. Wie verhalten sich Lichtstrahlen an planparallelen Medien?
+  18. Welch Bilder erzeugt die Sammellinse bzw. die Streulinse?
+

@@ -1,0 +1,177 @@
+Thema der Unterrichtseinheit: Stammfunktionen
+Methode: Planarbeit / Differenzierung über Umfang und Tiefgang, Pflicht-, Wahl- und Zusatzaufgaben
+Zeitbedarf: 90 Minuten und HausaufgabenAnzahl der Abstufungen: 3
+StufeKompetenzerwerb
+
+Leitidee Algorithmus: „in einfachen Fällen Stammfunktionen angeben“
+Lernen: „Informationsquellen, insbesondere mathematische Texte erschließen und für den Aufbau neuen Wissens nutzen“
+Begründen: „Begründungstypen und Beweismethoden der Mathematik kennen, gezielt auswählen und anwenden“
+                         A* Regeln zum Bilden von Stammfunktionen kennen und  in einfachen Fällen weitgehend sicher anwenden
+* den Zusammenhang zwischen den Stammfunktionen einer Funktion anschaulich begründen
+* rechnerisch nachweisen, dass eine Funktion Stammfunktion einer zweiten Funktion istB* Regeln zum Bilden von Stammfunktionen formulieren und in einfachen Fällen sicher anwenden
+* den Beweis für den Zusammenhang zwischen den Stammfunktionen einer Funktion nachvollziehen
+* Vom Graphen einer Funktion auf den Graphen einer Stammfunktion schließen und umgekehrtC* Regeln zum Bilden von Stammfunktionen begründen und in komplexeren Fällen sicher anwenden
+* den Beweis für den Zusammenhang zwischen den Stammfunktionen einer Funktion selbstständig führen
+* komplexere Zusammenhänge zwischen Funktion, Ableitung und Stammfunktion erkennen und anwenden
+
+Bemerkungen
+Die Differenzierung im Rahmen dieser Planarbeit findet auf folgende Weise statt:
+
+* Es wird zwischen Pflicht- und Zusatzaufgaben unterschieden. 
+* Die Schüler wählen Umfang und Typ der Zusatzaufgaben.
+* Die Schüler entscheiden, ob sie die Aufgaben mit oder ohne zusätzliche Hilfen bzw. Informationen aus dem eingeführten Schulbuch lösen.
+* Jeder Schüler bildet Beispiele auf seinem Leistungsniveau.
+* Jeder Schüler arbeitet in seinem Tempo.
+
+
+
+Integrationsphase  /  Sicherung und Vertiefung
+* Selbstständige Lösungskontrolle mit dem GTR und Ergebnisvergleich anhand eines Lösungsblattes
+* gemeinsame Besprechung von Schwierigkeiten und Fehlern der Schüler
+* Schüler nennen im Plenum  Beispiele für Funktionen, die sie sicher bzw. gerade noch und nicht mehr aufleiten können. Diskussion der Beispiele.
+* Schülervorträge zu Wahl-  und Zusatzaufgaben (Auswahl)
+
+
+Planarbeit zum Thema Stammfunktionen
+
+eingeführtes Schulbuch, aus dem auch die Übungen zu Aufgabe 5 stammen: Lambacher Schweizer Kursstufe (2009)
+alle  
+Aufgabe 1: Aufleiten statt Ableiten - von der Ableitung zur ursprünglichen Funktion
+
+Füllen Sie die folgenden Tabellen aus.
+a)
+    f(x)x22x3 - 4x-55sin(2x)
+f ’(x)
+
+
+b) Kontrollieren Sie Ihre Lösungen mithilfe einer Probe durch Ableiten.
+
+    f(x)
+
+f ’(x)3x25x4x42x3 + 14x-2
+Information 1: Was ist eine Stammfunktion?
+In Aufgabe 1b haben Sie zu einer gegebenen Ableitung die ursprüngliche Funktion gesucht. Das heißt: Sie haben eine Funktion f gesucht, die abgeleitet f’(x) ergibt.
+Oft bezeichnet man die gegebene Ableitung nicht mit f’ sondern mit f und die ursprüngliche Funktion mit F. Diese Funktion F nennt man Stammfunktion von f. 
+
+Definition: Eine Funktion F heißt Stammfunktion einer Funktion f auf einem Intervall I, wenn für alle xI gilt: F’(x) = f(x).
+
+Man kann Stammfunktionen als „Großmütter oder Großväter von Funktionen“ bezeichnen und die Ableitung von einer Funktion als „Enkel der Funktion“. Dieser Vergleich trifft die Situation im „Reich der Funktionen“ aber nicht ganz, denn eine Funktion hat höchstens eine Ableitung, aber unendlich viele Funktionen als Stammfunktionen.
+
+Stammfunktionen von f:         F1               F2                        F3           …
+
+                                                                                                              „aufleiten“
+gegebene Funktion f                                   f
+                                                                                                               ableiten                                                         
+Ableitungsfunktion von f:                             f’      
+
+Aufgabe 2: Eine Funktion f und viele Stammfunktionen von f
+Gegeben ist die Funktion f mit f(x) = 2x - 4.
+a) Geben Sie die Gleichung einer Stammfunktion F von f an.
+Zeichnen Sie das Schaubild von f und das Schaubild von F in ein geeignetes Koordinatensystem.
+b) Geben Sie die Gleichungen von drei weiteren Stammfunktionen F2, F3 und F4 von f an. Worin unterscheiden sich die Terme dieser drei Funktionen? Wie zeigen sich diese Unterschiede im Schaubild?
+
+Hinweis: Wenn Sie keine Idee haben, wie Sie diese Aufgaben lösen können, dann informieren Sie sich in Ihrem Buch (S. 97 Beispiel 1b)
+B / Cc) Zusatzaufgabe: Beweisen Sie den folgenden Satz: 
+ 
+Sind F und G Stammfunktionen derselben Funktion f, dann gibt es einen Konstante c mit G(x) = F(x) + c.
+
+Tipp: Betrachten Sie die Differenzfunktion D(x) = F(x) – G(x) und leiten Sie diese ab.
+Sollten Sie keine Beweisidee haben und mit diesem Tipp nichts anfangen können, so analysieren Sie den Beweis im Buch (S. 95 unten). Nennen Sie das entscheidende Argument im Beweis.
+alle Aufgabe 3: „Aufleitungsregeln“
+Zum Aufleiten muss man die Ableitungsregeln einfach nur umkehren. 
+
+a)   Füllen Sie die folgende Tabelle aus. 
+
+
+Beispiele
+RegelFunktion fStammfunktion F von f mit F(0) = 0Funktion fStammfunktion F 
+von f mit F(0) = 0Potenzregelf(x) = x4F(x) = x5f(x) = xr, r?-1
+ F(x) = f(x)= x-3f(x) = x0 = 1Faktorregelf(x) = 5 ?cos(x)f(x) = c? g(x)
+c IRF(x) =f(x) = 3x2f(x) = 4Summen-regelf(x) = x2 + 2x3f(x)= u(x) + v(x)F(x) =f(x) = sin(x) – xKettenregel 
+(innere Fkt. ist linear)f(x) = (4x – 3)2f(x)= u(ax + b)F(x) = f(x) = sin(2 – 3x)
+d) Vergleichen Sie mit dem Aufleitungsregeln in Ihrem Buch auf S. 100. Ergänzen bzw. korrigieren Sie.
+
+e) Formulieren Sie die Aufleitungsregel für Potenzen in Worten.
+
+
+
+B/Cf) Zusatzaufgabe:
+Begründen Sie, warum die Potenzregel nur für Exponenten r ? -1 gültig ist.
+Skizzieren Sie näherungsweise den Graphen einer Funktion, deren Ableitung die Funktion f mit f(x) =  (x ? 0) ist.
+alle 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pflicht
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WahlAufgabe 4: 
+Gegeben ist die Funktion f mit f(x) = x3 ? cos(x).      
+Zeigen Sie durch Ableiten, dass F(x) = x4 ? sin (x) keine Stammfunktion von f ist.
+
+Information 2: Grenzen des Aufleitens
+Sie kennen weitere Ableitungsregeln, deren Umkehrung Sie in der obigen Tabelle vermissen, die Produktregel, die Quotientenregel und die Kettenregel für beliebige innere Funktionen. Leider gibt es keine (einfachen) Aufleitungsregeln für Produkte, Quotienten und verkettete Funktionen. Beachten Sie insbesondere, dass Produktfunktionen nicht einfach aufgeleitet werden können, in dem man sie faktorweise aufleitet. Weitere Informationen zum Thema „Aufleiten von Produktfunktionen“ finden Sie in Ihrem Buch (S. 118).
+
+Aufgabe 5: Übungen zum Bestimmen von Stammfunktionen
+
+Pflichtaufgaben für alle: Seite 101f Nr. 1, 2, 5;  Seite 97  Nr. 3 
+Kontrollieren Sie durch Ableiten.
+
+
+
+
+
+
+
+
+
+Aufgaben zur Wahl (mindestens zwei Aufgaben sollen bearbeitet werden): S. 98 Nr. 7;
+S. 102 Nr. 11, 12, 6, 7 
+
+
+
+
+
+
+Binnendifferenzierung in der Kursstufe	             	Beispiel 9: Planarbeit / Stammfunktionen
+

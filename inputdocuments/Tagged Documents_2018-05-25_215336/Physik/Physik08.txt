@@ -1,0 +1,1627 @@
+
+
+
+
+
+
+
+                               Physik - Skript
+
+
+
+
+
+                                  Klasse 8
+
+
+
+
+                           Edith-Stein-Realschule
+                              Raiffeisenstr. 25
+                           85716 Unterschleiίheim
+
+                           Lehrer: Reinhard Apelt
+
+
+
+
+
+
+                         Name: _____________________
+
+
+
+
+                   Inhaltsverzeichnis dieses Arbeitsheftes
+
+
+1.    Einfόhrung 4
+
+  1.1       Aufgaben der Physik   4
+
+  1.2       Arbeitsweise der Physik    4
+
+  1.3       Zusammenfassung 5
+
+
+
+2.    Messungen  6
+
+  2.1       Die Lδngenmessung     6
+    2.1.1 Umwandeln von Lδngeneinheiten      6
+    2.1.2 άbungsaufgaben: Wandle um!   7
+    2.1.3 Die Messgenauigkeit     7
+
+  2.2 Die Flδchenmessung    7
+    2.2.1 Umwandeln von Flδcheneinheiten     8
+    2.2.2 άbungsaufgaben    8
+
+  2.3 Die Volumenmessung ( Inhalt )    8
+    2.3.1 Volumenmessung fester, flόssiger und gasfφrmiger Kφrper  9
+    2.3.2  άbungsaufgaben - Rechne um! 9
+
+  2.4 Die Zeitmessung  10
+    2.4.1 άbungsaufgaben:   10
+
+  2.5 Die Geschwindigkeit   10
+    2.5.1 Beispielaufgabe zur Geschwindigkeit      11
+    2.5.2 άbungsaufgaben zur Geschwindigkeit 12
+
+
+
+3.    Eigenschaften und Aufbau der Kφrper    13
+
+  3.1 Die Aggregatszustδnde fest - flόssig - gasfφrmig  13
+    3.1.1 Feste Kφrper 13
+    3.1.2 Flόssige Kφrper   13
+    3.1.2 Gasfφrmige Kφrper 13
+
+  3.2 Δnderungen des Aggregatszustandes      13
+
+  3.3 Die thermische Bewegung     14
+
+
+
+4.    Der Schall 15
+
+  4.1 Wie entsteht Schall?  15
+    4.1.1 άbungsaufgaben:   15
+
+  4.2 Laut und leise - hoch und tief   15
+    4.2.1 άbungsaufgaben    16
+    4.2.2 Das menschliche Hφrvermφgen  16
+
+  4.3 Die Schallausbreitung 16
+    4.3.1 άbungsaufgaben    17
+
+  4.4 Die Geschwindigkeit des Schalls  17
+    4.4.1 Das Echolot in der Schifffahrt     17
+    4.4.2 Die Ultraschall-Untersuchung in der Medizin   18
+
+
+    4.4.3 Die Echo-Ortung der Fledermδuse    18
+    4.4.4 άbungsaufgabe     18
+
+5.    Mechanik   18
+
+  5.1 Kraftwirkungen   18
+
+  5.2 Die Abhδngigkeit der Federdehnung zur dehnenden Kraft  19
+
+  5.3 Die Elastizitδt  20
+
+  5.4 Die Kraftmessung 20
+    5.4.1 Der Kraftmesser = Federwaage 20
+
+  5.5 Gewichtkraft und Masse      21
+    5.5.1 Die Einheit der Masse - das Kilogramm (kg)    21
+    5.5.2 Die Massentrδgheit      22
+
+  5.6 Die Kraft als Vektor  23
+    5.6.1 Wirkungen gleicher Krδfte    23
+    5.6.2 Zeichnerische Darstellung einer Kraft    23
+    5.6.3 Krδfte mit gleicher und entgegen gesetzter Richtung 24
+    5.6.4 Wenn Krδfte Winkel bilden    24
+
+  5.7 Die Massenanziehungskraft = Gravitation     24
+    5.7.1 Die Massenanziehungskraft zwischen einem Kφrper     25
+    5.7.2 Massenanziehungskraft anderer Himmelskφrper   26
+    5.7.3 άbungsaufgaben    26
+
+  5.8 Die Dichte 27
+    5.8.1 Die Einheit der Dichte  27
+    5.8.2 άbungsaufgaben    28
+
+  5.9 Die Reibung      28
+    5.9.1 Reibung in der Technik  29
+    5.9.2 Abhδngigkeit der Reibungskraft     29
+    5.9.3 Die Reibungszahl  30
+    5.9.4 άbungsaufgaben    30
+
+  5.10 Hebel     31
+    5.10.1 Die Drehwirkung M (=Drehmoment)   31
+    5.10.2 άbungsaufgaben zum einseitigen Hebel    31
+    5.10.3 Der zweiseitige Hebel  32
+    5.10.4 άbungsaufgaben zum zweiseitigen Hebel   32
+
+  5.11 Die schiefe Ebene    32
+
+  5.12 Feste und lose Rollen      33
+
+  5.13 Kraft F und Weg s - die Arbeit W      34
+
+  5.14 Arbeit W und Zeit t - die Leistung    34
+
+  5.15 Energie und Energieumwandlungen 35
+
+  5.16 άbungsaufgaben zu Arbeit, Leistung und Energie   36
+
+
+
+6.    Mechanik der Flόssigkeiten  36
+
+  6.1 Zusammenhang zwischen Kraft F, Flδche A und Druck p    37
+
+  6.2 Die hydraulische Presse     38
+
+  6.3 Der Schweredruck in Flόssigkeiten      38
+
+  6.4 Der Luftdruck    39
+
+  6.5 Der Auftrieb im Wasser      39
+
+
+                         Physik Klasse 8 Realschule
+
+1.    Einfόhrung
+
+1.1   Aufgaben der Physik
+Das Wort PHYSIK geht auf das griechische Wort PHYSIS zurόck, es bedeutet
+Natur. Heute verstehen wir unter Physik die Wissenschaft, die sich mit den
+Vorgδngen und Erscheinungen in der Natur beschδftigt.
+
+Beispiele: ____________________________________________
+
+Die Physik ist eine Naturwissenschaft. Ihr Ziel ist es, Gesetze in
+
+der Natur zu erkennen = ______________________________
+
+
+1.2   Arbeitsweise der Physik
+
+a) Problem: Ist ein leerer Raum mφglich?
+
+b) Vermutung:
+   Otto von Guericke war einer der ersten Wissenschaftler, dem  ein  leerer
+   Raum durchaus mφglich erschien. Erfah-rungsgemδί waren  Hohlrδume  stets
+   mit Luft gefόllt. Es kam also darauf an, ein Gefδί  zu  entleeren,  ohne
+   dass gleichzeitig Luft eindringen konnte.
+
+c) Experiment
+    Guericke lieί ein Fass mit Wasser fόllen und luftdicht
+    verschlieίen. Eine Pumpe am unteren Ende sollte das Wasser
+    heraus befφrdern und einen leeren Raum hinterlassen.
+
+d) Beobachtung
+    Tatsδchlich kam so Wasser heraus, aber schon mit dem
+    zweiten Pumpenzug wurde die Arbeit immer schwerer. Und
+    bald hφrte man "ein Gerδusch wie beim lebhaften Sieden von
+    Wasser".
+
+e) Ergebnis: __________________________________________
+
+f) Modernes physikalisches Experiment
+
+Heute steht uns eine elektrische _______________________ zur Verfόgung, mit
+deren Hilfe ein δhnliches Experiment durchgefόhrt werden kann.
+
+V) Hinter einer Schutzscheibe wird eine Glaskugel ausgepumpt.
+Um heraus zu finden, ob das Gefδί vφllig leer ist, halten wir  das  Rohr  in
+ein Wasserbecken. Wird jetzt der Absperrhahn geφffnet, so
+
+__________________________
+
+__________________________.
+
+Eine kleine Luftblase deutet darauf hin, ____________________
+
+_____________________________. Ein winziger Luftrest ist aus technischen
+Grόnden nicht zu vermeiden.
+
+g) Erkenntnis
+Ein leerer Raum ______________________________________
+Praktisch kann man allerdings auch mit den modernsten technischen
+Hilfsmitteln bis heute noch keinen absolut leeren Raum erzeugen.
+
+1.3   Zusammenfassung
+
+In der Naturwissenschaft ist kein _______________   allein durch Nachdenken
+zu lφsen.
+
+Ob eine ____________________ = Theorie mit der Wirklichkeit vereinbar ist,
+muss όberprόft werden.
+
+Ein __________________= Versuch muss durchgefόhrt werden.
+
+Dabei werden ___________________ gemacht, die zu einem
+
+________________ fόhren.
+
+2.    Messungen
+
+2.1   Die Lδngenmessung
+
+Eine Lδnge messen heiίt, man prόft:
+
+____________________________________________________
+
+Die international vereinbarte Lδngeneinheit ist _______________
+
+Die Lδnge "1 Meter" (1 m) ist festgelegt als die Lδnge eines Platinstabes
+in Paris bei 0°C, dem sog. "URMETER".
+
+Gebrδuchliche Lδngeneinheiten sind:
+
+|1 Kilometer (1 km)      |= 1000 m                |= 103 m                 |
+|1 Meter ( 1m)           |                        |                        |
+|1 Dezimeter (1 dm)      |= 1 / 10 m              |                        |
+|1 Zentimeter (1 cm)     |= 1 / 10 dm             |= 1 / 100 m             |
+|1 Millimeter (1 mm)     |= 1 / 10 cm             |= 1 / 1000 m            |
+|1 Mikrometer (1 ?m)     |= 1 / 1000 mm           |= 1 / 1 000 000 m       |
+
+1 m =       _______         km    = _____    km   = ____ km
+
+1 m =       _______         dm    = _____    dm
+
+1 m =       _______         cm    = _____    cm
+
+1 m = _______          mm   = _____    mm
+
+1 m =       _________  ?m   = _____    ?m
+
+
+2.1.1 Umwandeln von Lδngeneinheiten
+
+
+Wenn die Lδngeneinheit kleiner wird, dann wird die Zahl ______, d.h. man
+muss multiplizieren (malnehmen).
+
+Wenn die Lδngeneinheit grφίer wird, dann wird die Zahl ______, d.h. man
+muss dividieren (teilen).
+
+2.1.2 άbungsaufgaben: Wandle um!
+
+a) 125 mm in cm  b) 14 dm in cm   c) 0,5 km in m
+d) 860 mm in dm  e) 57000 ?m in mm
+f)  1,22 dm in mm      g) 57.000.000 cm in km
+h) 0,034 m in mm       i) 12400 cm in m      k) 0,035 km in dm
+
+
+2.1.3 Die Messgenauigkeit
+
+V) Miss den Abstand der beiden Punkte A und B auf mm genau!
+
+                                                                   .  B
+
+        A  .
+
+Dein Ergebnis: _____ cm = ______ mm
+
+Ergebnisse der anderen Klassenkameraden:
+
+___________________________________________________
+
+Der Mittelwert MW aller Werte betrδgt dann:
+
+
+Die Extremwerte weichen um ± ___ mm vom Mittelwert MW ab.
+
+Man schreibt deshalb: Strecke AB = ______________________
+
+                      Formel: Lδnge L = MW ± Abweichung
+
+
+2.2 Die Flδchenmessung
+
+
+Die international vereinbarte Flδcheneinheit ist ______________
+
+1 m2 = 1 m . 1 m
+
+1 m2 = ___ dm . ___ dm = ____ dm2 = ____ dm2
+
+1 m2 = ____ cm . ____ cm = _______ cm2 = _____ cm2
+
+1 m2 = _____ mm . _____ mm = ________ mm2 = ____ mm2
+2.2.1 Umwandeln von Flδcheneinheiten
+
+
+Wenn die Flδcheneinheit kleiner wird, dann wird die Zahl ______, d.h. man
+muss multiplizieren (malnehmen).
+
+Wenn die Flδcheneinheit grφίer wird, dann wird die Zahl ______, d.h. man
+muss dividieren (teilen).
+
+
+2.2.2 άbungsaufgaben
+
+a) 800 mm2 in dm2      b) 7,5 m2 in cm2
+c) 6500 cm2 in m2           d) 18,3 dm2 in cm2
+
+e) Franz misst mit seinem Lineal die Lδnge eines Bleistifts und sagt, es
+seien 10,33 cm. Was hδlst du von diesem Messergebnis?
+
+f) Wie kφnnte man die Dicke einer Buchseite auch ohne Mikrometerschraube
+herausbekommen?
+
+g) Die Lδnge eines Werkstόckes wird mehrmals gemessen. Ermittle den
+Mittelwert und die maximale Abweichung.
+Lδnge in cm: 26,0 - 26,6 - 26,0 - 26,3 - 26,1 - 26,4 - 26, 6
+
+h)    1,7 dm2 in cm2 und in m2 und in mm2
+i)    0,42 m2 in cm2 und in dm2 und in mm2
+
+
+2.3 Die Volumenmessung ( Inhalt )
+
+Die international vereinbarte Einheit des Volumens ist
+
+_______________________________.
+
+1 m3 = 1 m . 1 m . 1 m
+
+1 m3 = 10 dm . 10 dm . 10 dm = _______ dm3 = ____ dm3
+
+1 m3 = 100 cm . 100 cm . 100 cm = __________ cm3 = ____ cm3
+
+1 m3 = 1000 mm . 1000 mm . 1000 mm
+
+      = ________________ mm3 = _____ mm3
+1 cm3 = 1 ml ( ____________ )
+
+1 dm3 = 1 l ( __________ )
+
+
+2.3.1 Volumenmessung fester, flόssiger und gasfφrmiger Kφrper
+
+άberlege, wie du das Volumen folgender Kφrper ermitteln kφnntest:
+a) Kaffeetasse voller Wasser
+b) beliebiger Stein
+c) eine Schuhschachtel
+d) ein aufgeblasener Luftballon
+
+Ergebnisse: __________________________________________
+
+____________________________________________________
+
+____________________________________________________
+
+____________________________________________________
+
+____________________________________________________
+
+
+2.3.2  άbungsaufgaben - Rechne um!
+
+a) 30 cm3 in dm3       b) 450 dm3 in m3      c) 4200 cm3 in Liter
+
+d) In der Gebrauchsanweisung eines Pflegemittels fόr Aquarien steht: " 5 ml
+reichen fόr 10 Liter Wasser".
+Das Aquarium ist 80 cm lang, 50 cm breit und 50 cm hoch.
+Berechne, wie viel Pflegemittel benφtigt wird.
+
+e) 4200 cm3 in l und in dm3 f) 38 dm3 in cm3 und in m3
+g) 0,3 dm3 in cm3 und in ml h) 2 dm3 in m3 und in mm3
+
+
+2.4 Die Zeitmessung
+
+|1 Jahr (a)  =       |365 Ό Tage (d)                        |
+|1 Tag (d)  =        |Stunden (h)                           |
+|1 Stunde (h) =      |Minuten (min)                         |
+|1 Minute (min) =    |Sekunden (sec oder nur s)             |
+
+1 Jahr ist vergangen, wenn die Erde
+
+_______________________________
+
+1 Tag ist die Zeit, in der sich die Erde
+
+_______________________________
+
+
+2.4.1 άbungsaufgaben:
+
+a) Wie viele Minuten hat 1 Tag?
+b) Wie viele Sekunden hat ein Tag?
+c) Wie viele Sekunden hat 1 Stunde?
+d) Wie viele Stunden hat 1 Jahr?
+e) Rechne jeweils um:
+      1h:30min; 2h:20min; 3h:05min; 4h:25min    in Minuten!
+      10 min; 1h:15min; 2h:50min    in Sekunden!
+
+f) 140 sec = ? min; 12 min = ? sec; 4h:03min = ? sec;
+      2520 min = ? h
+g) Nenne 3 Typen von Uhren und beschreibe die Funktionsweise.
+
+
+2.5 Die Geschwindigkeit
+
+V) Wir lassen ein elektrisch angetriebenes Spielzeugauto an einer Messlatte
+(1 m) entlangfahren und lesen ab, welchen Weg es nach 1,2,3,4 usw. Sekunden
+zurόckgelegt hat.
+Trage die Ergebnisse in dein Heft ein!
+
+Ergebnis: Je weiter das Auto fδhrt, desto _________ Zeit benφtigt
+
+es dafόr. ( _____________ Proportionalitδt ! )
+
+                     Geschwindigkeit v = Weg s : Zeit t
+
+Einheit der Geschwindigkeit: _____________________________
+2.5.1 Beispielaufgabe zur Geschwindigkeit
+
+Ein Marathonlδufer bewegt sich mit einer Durchschnitts-geschwindigkeit von
+5 m/sec. Welche Zeit benφtigt er fόr die Strecke von Unterschleiίheim nach
+Mόnchen-Pasing (19 km) ?
+
+|άberlegung                         |Praktische Ausfόhrung               |
+|a) Welche Formel passt zu          |Geschwindigkeit = Weg : Zeit        |
+|dieser Aufgabe ?                   |v = s : t                           |
+|b) Was ist gesucht ?               |Die Zeit t                          |
+|                                   |(die der Lδufer braucht)            |
+|c) Der Rest muss gegeben           |geg.: v = 5 m/sec                   |
+|sein!                              |s = 19 km                           |
+|d) Die Formel muss nun passend     |                                    |
+|umgeformt werden!                  |                                    |
+|                                   |                                    |
+|d1) Welches Rechenzeichen steht vor|                                    |
+|dem Gesuchten?                     |                                    |
+|1. wenn nix oder . ==> OK          |                                    |
+|2. wenn : , dann muss das          |Vor dem t steht : , also umstellen: |
+|Gesuchte auf die andere            |v = s : t                           |
+|Seite der Gleichung. Aber          |<=>                                 |
+|mit umgekehrtem Rechen-            |v . t = s                           |
+|zeichen!                           |                                    |
+|                                   |v . t = s  (oder  t . v = s)        |
+|d2) Das Gesuchte muss allein       |<=>                                 |
+|stehen! Alles, was bei dem         |t = s : v                           |
+|Gesuchten dabei steht,             |                                    |
+|muss auf die andere Seite          |                                    |
+|der Gleichung.                     |                                    |
+|e) Stimmen die Einheiten όberein?  |Nein !                              |
+|Wenn nicht, dann umrechnen!        |v = 5 m/sec ,  s = 19 km            |
+|                                   |=> s = 19000 m                      |
+|f) Einsetzen in die umge- wandelte |t = s : v                           |
+|Formel                             |t = 19000 m : 5 m/sec               |
+|g) Ausrechnen!                     |t = 3800 sec (m kόrzen sich)        |
+|h) Antwortsatz!                    |Der Lδufer benφtigt 3800 Sekunden   |
+|                                   |(ca. 63 min).                       |
+2.5.2 άbungsaufgaben zur Geschwindigkeit
+
+a) Rechne um!
+a1) 80 km/h in m/sec     a2) 120 km/h in m/sec
+a3) 26 m/sec in km/h     a4) 1,5 m/sec in km/h
+
+b) Ein Motorrad legt in einer Zeitspanne von 0,3 sec eine Strecke von 10 m
+zurόck. Berechne seine Durchschnittsgeschwindigkeit in m/sec und km/h.
+
+c) Welche Durchschnittsgeschwindigkeit erreicht ein Zug, der um 09:04 Uhr
+in Dόsseldorf abfδhrt und um 12:35 Uhr im 264 km entfernten Frankfurt
+ankommt?
+
+d) Wie lange braucht ein Radrennfahrer fόr eine Bahnrunde
+(120 m), wenn seine Geschwindigkeit 45 km/h betrδgt? Und wie viele Runden
+schafft er in 15 min?
+
+e) Ein LKW fδhrt von Mόnchen nach Ulm (122 km). Die gesamte Fahrt dauert
+von 08:00 Uhr bis 10:45 Uhr. Welche Durchschnitts-geschwindigkeit erreicht
+er ?
+
+f) Eine Straίenbahn braucht fόr eine 50 m lange Strecke 3,4 sec. Wie groί
+ist ihre Geschwindigkeit ?
+
+g) Welche Strecke legst du in 2 Minuten mit dem Fahrrad zurόck, wenn der
+Tachometer konstant 22 km/h anzeigt ?
+
+h) Wie lange braucht der ICE bei einer Geschwindigkeit von
+178 km/h fόr eine Strecke von 200 m ?
+
+i) Die Erde dreht sich in 24 h einmal um ihre Achse. Mit welcher
+Geschwindigkeit bewegt sich eine Palme auf dem Δquator ? (Δquatorumfang =
+40.000 km)
+
+k) Welchen Weg legt ein Auto bei einer Geschwindigkeit von
+50 km/h in 1 sec ("Schrecksekunde") zurόck ?
+
+l) Herr Klein fδhrt auf der Autobahn von Kiel nach Wόrzburg (600 km) mit
+konstant 120 km/h. Frau Groί fδhrt auf der gleichen Strecke den halben Weg
+mit 110 km/h, den Rest mit 140 km/h.
+Wer ist zuerst da?
+
+
+3.    Eigenschaften und Aufbau der Kφrper
+
+
+
+
+4.    Der Schall
+
+4.1 Wie entsteht Schall?
+
+V1) Erzeuge mit folgenden Gegenstδnden Schall: Lineal, Stricknadel, Flasche
+V2) Fόlle Wasser in ein Weinglas. Tauche deinen Zeigefinger ein und fahre
+mit ihm auf dem Glasrand entlang.
+V3) Blase einen Luftballon auf und ziehe die Φffnung auseinander.
+V4) Lasse einen "singenden Schlauch" όber deinem Kopf kreisen.
+V5) Berόhre mit einer angeschlagenen Stimmgabel eine Wasseroberflδche.
+
+Ergebnis der Versuche:
+
+
+Schall wird durch ____________________________________
+eines Schallerregers erzeugt.
+
+Unterscheide die Begriffe "Ton", "Gerδusch" und "Knall".
+
+4.1.1 άbungsaufgaben:
+
+a) Zδhle je drei Schlag-, Zupf-, Blas- und Streichinstrumente auf.
+
+b) Begrόnde, dass das Quietschen einer Tόr ein Gerδusch und kein Ton ist
+
+
+4.2 Laut und leise - hoch und tief
+
+V) Halte ein Lineal so am Tisch fest, dass der grφίte Teil frei schwingen
+kann.
+a) Wovon hδngt die Lautstδrke ab?
+
+________________________________
+
+b) Wovon hδngt die Tonhφhe ab?
+
+________________________________
+
+
+
+Die Auf- und Abbewegung einer Schwingung heiίt ___________
+
+Die Anzahl der Schwingungen pro Sekunde wird _____________ genannt.
+
+Die Einheit der Frequenz ist Hertz (Hz).
+
+1 Hz = ____________________________________.
+
+
+4.2.1 άbungsaufgaben
+
+a) Welche Begriffe gehφren zusammen? (Amplitude, Tonhφhe, Lautstδrke und
+Frequenz)
+b) Was bedeutet die Angabe "440 Hz" auf einer Stimmgabel ?
+c) Weshalb erzeugen die Saiten einer Gitarre unterschiedlich hohe Tφne? Wie
+lδsst sich der Ton verδndern, den eine Saite erzeugt?
+d) Aus der Frequenz kannst du die Schwingungsdauer T berechnen. Wie groί
+ist T bei 40 Hz ?
+e) Welche Frequenz hat ein Orgelton bei einer Schwingungsdauer von T =
+0,0045 s ?
+
+4.2.2 Das menschliche Hφrvermφgen
+
+V) Mit einem Frequenzgenerator testen wir unser Ohr. Ergebnis:
+
+Mein Hφrbereich liegt zwischen _____ Hz und __________ Hz.
+
+
+4.3 Die Schallausbreitung
+
+V1) Bastle aus 2 Konservendosen und einer Schnur ein "Telefon".
+
+V2) Stelle einen Wecker in ein gepolstertes Becherglas. Wo ist sein Ticken
+am deutlichsten zu hφren?
+
+Antwort: _______________________________
+
+V3) Wir stellen einen Wecker unter eine Vakuumglocke. Wo ist das Klingeln
+wahrnehmbar?
+
+Antwort: __________________________
+
+
+Schallwellen benφtigen einen Stoff (z.B.:_______________) um
+
+sich auszubreiten. An Grenzflδchen (z.B.: Glaswand) kφnnen sie
+
+________________________________ werden. Im Vakuum
+
+___________________________________________________.
+
+4.3.1 άbungsaufgaben
+
+a) Nenne 4 Mφglichkeiten, um die Belδstigung durch Verkehrslδrm zu
+verringern.
+b) Warum mόssen in Wδnden verlegte Wasserrohre mit Glas- oder Steinwolle
+umgeben sein?
+c) Welche Methode haben Eisenbahn-Rδuber im Wilden Westen angewendet, um
+das Herannahen eines Zuges zu erkennen, lange bevor sie ihn sehen konnten?
+d) Erklδre den Begriff "Echo" sehr genau.
+e) Δrzte benόtzen zum Abhφren der Herztφne und Atemgerδusche ein
+Stethoskop. Wie funktioniert es?
+
+
+4.4 Die Geschwindigkeit des Schalls
+
+Sie betrδgt in der Luft 344 m/sec. Die Schallmauer
+
+wird also bei etwa _________ km/h ( = Schallgeschwindigkeit ) durchbrochen!
+
+In Wasser (ca. 1500 m/sec), in Glas (ca. 4000 m/sec) und in
+
+Eisen (ca. 5000 m/sec) ist die Schallgeschwindigkeit __________
+als in Luft!
+
+4.4.1 Das Echolot in der Schifffahrt
+
+Ein Schallgeber sendet Schallwellen aus. Diese
+laufen zum Meeresboden und werden dort
+
+______________________ . Der Echoempfδnger
+errechnet aus dem Zeitraum bis zum Eintreffen der
+
+Schallwellen die _________________________.
+
+4.4.2 Die Ultraschall-Untersuchung in der Medizin
+
+Fachausdruck: _________________________
+Δhnlich wie beim Echolot lassen sich innere Organe und ungeborene Babys
+darstellen.
+
+4.4.3 Die Echo-Ortung der Fledermδuse
+
+Selbst in dunkelsten Hφhlen kφnnen sich Fledermδuse mit Ultraschall-Rufen
+gut orientieren. Zum Empfang besitzen sie
+
+______________________________________________.
+
+4.4.4 άbungsaufgabe
+
+Wie weit ist ein Gewitter entfernt, wenn zwischen Blitz und Donner eine
+Zeit von t = 6 sec vergeht ?
+
+
+5.    Mechanik
+
+5.1 Kraftwirkungen
+
+Krδfte kφnnen die ________ eines Kφrpers verδndern. Umgekehrt schlieίen wir
+aus jeder Formverδnderung, dass eine Kraft gewirkt hat.
+
+V1) An einem Ende einer Schraubenfeder ist eine Eisenkugel angebracht.
+Durch welche verschiedenen Krδfte kφnnen wir die Feder dehnen = verformen ?
+
+a) ____________________________
+
+b) ____________________________
+
+c) __________________________________________
+
+V2) bis V7)      Erklδrung:
+
+Krδfte kφnnen auch ___________________________________
+eines Kφrpers verδndern.
+V8) Ein Gewicht wir mit Bindfaden an einer Schraubenfeder befestigt. Mit
+einer Schere schneiden wir plφtzlich den Faden durch.
+Beob.: _____________________________________________
+
+___________________________________________________
+
+Erkl.: Es mόssen ______ Krδfte im Spiel gewesen sein.
+
+a) _________________________________________________
+
+b) _________________________________________________
+
+Gesetz vom englischen Physiker Isaac Newton:
+
+
+
+
+
+5.2 Die Abhδngigkeit der Federdehnung zur dehnenden Kraft
+
+V) Wir belasten verschiedene Schraubenfedern nacheinander mit 1, 2, 3, 4
+usw. Normkφrpern (alle gleich schwer), und messen, um wie viel cm die Feder
+jeweils verlδngert wurde.
+Schreibe die Beobachtungen in dein Heft, bzw. in den Computer.
+
+Ergebnis: Die doppelte, dreifache usw. Kraft bewirkt eine
+
+___________________________________________________
+
+___________________________________________________
+
+
+Hook'sches Gesetz:
+
+Solange eine Feder nicht όberdehnt wird, ist die Verlδngerung
+
+Delta L dieser Feder __________________________________
+
+__________________________________________________.
+
+                              Delta L ~ Kraft F
+
+
+5.3 Die Elastizitδt
+
+V) Wirf zuerst einen Gummiball, danach einen Klumpen Plastilin auf die
+Erde.
+
+Beob.: _____________________________________________
+
+___________________________________________________
+
+___________________________________________________
+
+Erkl.: _______________________________________________
+
+____________________________________________________
+
+___________________________________________________.
+
+
+5.4 Die Kraftmessung
+
+Die international vereinbarte Einheit der Kraft ist 1 Newton (1 N).
+1 Newton ist die Gewichtskraft von etwa 1/10 eines Kilogramms.
+(genauer: der 9,81ste Teil eines Kilogramms). Also hat
+1 Kilogramm auf der Erde die Gewichtskraft 10 Newton!
+
+5.4.1 Der Kraftmesser = Federwaage
+
+Je mehr Gewicht daran hδngen,
+
+______________________________
+
+______________________________.
+
+Trage im Heft / Computer ein, wie
+das Verhδltnis Kraft zu Federdehnung
+rechnerisch jeweils aussieht.
+
+Diesen konstanten Faktor (bei unserer
+
+
+Federwaage ____ N/m) bezeichnet man als
+
+______________________ der Feder.      Formel:
+
+Federkonstante D = Kraft F : Lδngenausdehnung Delta L (N/m)
+
+Je grφίer D ist, desto "_______________" ist die Feder !
+
+5.5 Gewichtkraft und Masse
+
+Auf dem Mond ist das Gewicht (in Newton) eines Kφrpers 6 mal leichter als
+auf der Erde.
+Meine Masse in Kilogramm: _____ kg.
+Wie viele Newton Gewicht hast du auf der Erde und wie viele hδttest du auf
+dem Mond? Anwort:
+
+a) auf der Erde: _______ N ,  b) auf dem Mond: ______ N.
+
+Grund: Der Mond ist kleiner als die Erde und hat deshalb nur
+
+____________________________________________________
+
+Die Masse (in kg) eines Kφrpers ist όberall gleich. Seine Gewichtskraft (in
+N) ist dagegen abhδngig vom Ort, an dem sich der Kφrper gerade befindet.
+
+
+5.5.1 Die Einheit der Masse - das Kilogramm (kg)
+
+
+                   1 kg Masse = 1 Liter Wasser bei + 4 °C
+
+
+1 Tonne     = ______ kg
+
+1 kg        = ________ Gramm (g)             = _____ g
+
+1 kg        = ____________ Milligramm (mg)   = _____ mg
+
+
+άberlege, womit man die Masse von Kφrpern ermitteln kann.
+
+Wir benφtigen dazu _________________________________
+
+
+V) Nun messen wir die Masse verschiedener Gegenstδnde und tragen die
+Ergebnisse ins Heft / in den Computer ein.
+
+5.5.2 Die Massentrδgheit
+
+Der Astronaut Neil Armstrong  berichtete  όber  seinen  Aufenthalt  auf  dem
+Mond:  "Mit  den  verδnderten  Schwereverhδltnissen  mussten  wir  erst  mal
+vertraut  werden.  Auf  dem  Mond  fδnde  es  ein  Astronaut  gar  nicht  so
+schwierig, Sprόnge bis zu 6 m Hφhe zu machen. Aber er darf nicht  vergessen,
+dass die Masse seines Kφrpers die gleiche bleibt.  Der  Aufprall  mit  hoher
+Geschwindigkeit auf einen Mondfelsen wόrde genau so wehtun wie der  Aufprall
+auf einen Felsbrocken hier auf der Erde."
+
+V1) Ein Wagen, der mit einem zweiten, kleineren Wagen beladen ist, rollt
+eine schrδge Rampe herab. Was passiert beim Aufprall auf eine Stufe in der
+Fahrbahn?
+
+Beob.: ______________________________________________
+
+____________________________________________________
+
+V2) Der grφίere Wagen wird aus der Ruhelage durch einen Stoί mit dem Lineal
+in Bewegung gesetzt.
+
+V3) Auf einem Tischtuch befindet sich ein Teller und eine Tasse. Was
+passiert, wenn man das Tischtuch mit einem Ruck und sehr schnell wegzieht?
+
+Erklδrungen V1) bis V3): Jeder Kφrper mφchte am liebsten
+
+___________________________________________________
+
+
+Diese Eigenschaft eines Kφrpers nennt man _______________.
+
+Je mehr Masse ein Kφrper hat, __________________________
+
+- das gilt auch umgekehrt !
+
+V4) Ein wassergefόlles Glas wird angestoίen
+
+Beob.: _____________________________________________
+
+Erkl.: ______________________________________________
+
+
+5.6 Die Kraft als Vektor
+
+5.6.1 Wirkungen gleicher Krδfte
+
+V1)   Wir ziehen mit einer Kraft von jeweils ___ N am oberen Ende
+      eines fest eingespannten Holzstabes
+      a) in senkrechter Richtung
+      b) schrδg nach oben und c) in waagrechter Richtung
+
+Beob.: ____________________________________________
+
+__________________________________________________
+
+__________________________________________________
+
+Erkl.: Die Wirkung einer Kraft hδngt auch _________________.
+
+__________________________________________________
+
+V2) Wir ziehen nun waagrecht mit einer Kraft von ___ N an dem
+      Stab a) ganz unten,   b) in der Mitte   und   c) ganz oben
+
+Beob.: ____________________________________________
+
+__________________________________________________
+
+__________________________________________________
+
+Erkl.: Die Wirkung einer Kraft hδngt auch _________________
+
+__________________________________________________
+
+
+5.6.2 Zeichnerische Darstellung einer Kraft
+
+Man kann eine Kraft als ____________ darstellen. Die Richtung
+
+des Pfeils ist auch die Richtung der Kraft. Je grφίer die Kraft ist,
+
+desto _______________________________________________
+5.6.3 Krδfte mit gleicher und entgegen gesetzter Richtung
+
+V1) Wirken 2 Krδfte in die gleiche Richtung, dann muss man die
+
+Betrδge ____________________________________.
+
+V2) Wirken 2 Krδfte in entgegengesetzte Richtung, dann muss
+
+man die Betrδge __________________________________.
+
+
+5.6.4 Wenn Krδfte Winkel bilden
+
+V) Ein Mitschόler wird am Gόrtel an 2 Seile gebunden. Wohin wirkt die
+Gesamtkraft, wenn 1 Schόler ihn schrδg nach vorne links, ein anderer nach
+rechts zieht?
+
+Antwort: ___________________________________!
+
+Zeichnerische Lφsung: das Krδfteparallelogramm
+
+
+
+
+
+
+
+
+
+
+
+5.7 Die Massenanziehungskraft = ____________________
+
+άberlege, warum ein Apfel vom Baum zur Erde fδllt.
+
+Ursache: _________________________________________
+
+Von wem geht diese Kraft scheinbar aus? __________________
+
+V) Zwei Wagen werden unterschiedlich schwer beladen. Zwischen die
+festgehaltenen Wagen spannen wir eine weiche Feder. Danach entfernen wir
+die Bremsklφtzchen.
+
+Beob.: ____________________________________________
+
+__________________________________________________
+
+__________________________________________________
+
+Erkl.: ______________________________________________
+
+__________________________________________________
+
+Trotzdem gilt auch hier: Kraft = Gegenkraft. Nur die beobachteten
+
+Wirkungen sind wegen unterschiedlicher __________________
+verschieden groί.
+
+Im Fall "Apfel - Erde" zieht nicht nur die Erde den Apfel mit etwa
+
+1 N an, sondern _____________________________________
+
+___________________________________________________
+
+Die Erde ist aber wegen ihrer riesigen Masse ganz besonders
+
+___________________________________________________
+
+
+5.7.1 Die Massenanziehungskraft zwischen einem Kφrper
+       und der Erde
+
+V) Mit einer Balkenwaage messen wir zunδchst die Masse (in kg)
+verschiedener Gegenstδnde. Anschlieίend bestimmen wir fόr jeden der
+Gegenstδnde noch die Gewichtskraft (in N) mit einer Federwaage. Trage die
+Ergebnisse ins Heft / in den Computer ein.
+
+Je mehr Masse ein Kφrper hat, desto ______________ ist seine
+
+Gewichtskraft. ( = ________________ Proportionalitδt )
+
+Wir rechnen nun den Quotient Gewichtskraft F : Masse m aus.
+
+Er betrδgt fόr unseren Messort Unterschleiίheim _____ N/kg.
+Dieser Wert ist auf der Erde konstant. Er betrδgt exakt gemessen
+
+
+                 Gewichtskraft F = _________ N/kg . Masse m
+5.7.2 Massenanziehungskraft anderer Himmelskφrper
+
+Ein 1-kg Massestόck hat eine Gewichtskraft F:
+
+auf der Erde:          09,8 N
+auf dem Mond:    01,6 N
+auf dem Mars:    03,7 N
+auf dem Jupiter:       23,0 N
+auf dem Saturn:  09,1 N
+
+
+Diese Planeten umkreisen alle die ____________ (von innen nach auίen): 1.
+Merkur , 2. Venus , 3. Erde , 4. Mars , 5. Jupiter , 6. Saturn , 7. Uranus
+, 8. Neptun , 9. Pluto
+
+Merksatz: ___________________________________________
+
+___________________________________________________
+
+
+5.7.3 άbungsaufgaben
+
+a) Welche Masse hδtte das Urkilogramm auf dem Mond?
+
+b) Begrόnde physikalisch, warum man sich beim Autofahren Sicherheitsgurte
+anlegen muss.
+
+c) Um wie viel Newton (N) wδchst die Gewichtskraft F eines 20.000 Liter
+Tankwagens, wenn man den Tank mit Wasser fόllt?
+
+d) Die Skala eines Kraftmessers ist unkenntlich geworden; nur die Marken
+fόr 0 N und 5 N sind erhalten geblieben. Wie kannst du die Einteilung
+wieder herstellen? Begrόnde!
+
+e) Eine Feder wird durch ein Gewicht von 1,4 N um 5,6 cm verlδngert.
+Bestimme die Federkonstante D dieser Feder.
+
+
+5.8 Die Dichte
+
+V1) Unsere Wδgestόcke sind aus Messing, ihre Masse ist bekannt. Bestimme
+fόr jedes Stόck jeweils das genaue Volumen.
+
+Masse = 500 g    Volumen V = ____ cm3
+
+Masse = 200 g    Volumen V = ____ cm3
+
+Masse = 100 g    Volumen V = ____ cm3
+
+Masse = 50 g           Volumen V = ____ cm3
+
+Erg.: Je grφίer die Masse ist, desto ______________ ist das
+
+Volumen. ( _________________ Proportionalitδt !)
+
+              Der Quotient     Masse m : Volumen V = Dichte Rho
+
+Messing (V1) hat eine konstante Dichte Rho von _______ g/cm3
+
+V2) Wir bestimmen die Dichte Rho bei verschiedenen Stoffen:
+
+Eisen: ______  ; Holz: ______  ;  Styropor: ______
+
+Tabelle: Dichte einiger Stoffe in g/cm3
+
+|Aluminium: 2,72         |Alkohol: 0,79           |Blei: 11,35             |
+|Benzin: 0,70            |Eis: 0,92               |Eisen: 7,86             |
+|Glas: 2,50              |Fichtenholz: 0,50       |Gold: 19,3              |
+|Granit: 2,80            |Kork: 0,25              |Kupfer: 8,93            |
+|Marmor: 2,70            |Messing: 8,50           |Olivenφl: 0,92          |
+|Quecksilber: 13,55      |Schaumstoff: 0,015      |Silber: 10,50           |
+|Wasser: 1,00            |Meerwasser: 1,03        |Zink: 7,30              |
+
+
+5.8.1 Die Einheit der Dichte
+
+Eine Glaskugel hat eine Masse m = 35 g
+und ein Volumen V = 14 cm3.
+
+Die Dichte Rho = _____________________________________
+Wir rechnen nun um:
+
+____________________________________________________
+
+____________________________________________________
+
+Es gilt also:                1 g/cm3 = 1000 kg/m3
+
+
+5.8.2 άbungsaufgaben
+
+a) Welche Dichte hat 1 kg Luft, die in einer Taucherflasche von 20 Liter
+zusammen gepresst ist ?
+
+b) Welches Volumen haben 2,2 kg Blei ?
+
+c) Ein Laderaum hat das Volumen 45 m3. Kann er 0,75 t Schaumstoff aufnehmen
+?
+
+d) Eine Vollkugel mit 250 kg Masse hat ein Volumen von 0,5 m3. Woraus
+besteht sie ?
+
+e) Welche Gewichtskraft όbt ein Wόrfel (Kantenlδnge = 12 cm) aus
+Fichtenholz, aus Glas und aus Zink aus ?
+
+f) Wie kφnntest du das Volumen eines unfφrmigen Glasklumpens mit Hilfe
+eines Kraftmessers ermitteln ?
+
+g) Ein Aluminiumquader hat eine Gewichtskraft von 6 N. Welches Volumen
+besitzt er ?
+
+
+
+5.9 Die Reibung
+
+V1) Wir ziehen mit einem Kraftmesser parallel zur Tischplatte an einem
+Holzquader, der auf dem Tisch liegt.
+
+Beob.: ______________________________________________
+
+____________________________________________________
+
+____________________________________________________
+
+                 Ursache:         Haftreibungskraft F(haft)
+V2) Wir lassen den gleichen Holzquader nun mφglichst gleichmδίig όber den
+Tisch gleiten.
+
+Beob.: ______________________________________________
+
+____________________________________________________
+
+                Ursache:         Gleitreibungskraft F(gleit)
+
+Vergleich der beiden Krδfte:   F(haft) ___ F(gleit)
+
+V3) Wir legen den Holzquader auf runde Bleistifte und messen nun die
+erforderliche Kraft.
+
+Beob.: ______________________________________________
+
+                 Ursache:         Rollreibungskraft F(roll)
+
+                      F(roll) ___ F(gleit) ___ F(haft)
+
+
+5.9.1 Reibung in der Technik
+
+a) unerwόnscht: bei ___________________________________
+
+Herabsetzung der Reibung durch: ________________________
+
+___________________________________________________
+
+b) erwόnscht: ___________________________________
+
+
+5.9.2 Abhδngigkeit der Reibungskraft
+
+V4) Wir lassen den Holzquader όber verschiedene Unterlagen gleiten.
+Beob.: ______________________________________________
+
+V5) Beim Messen der Gleitreibungskraft legen wir den Quader erst auf seine
+breite, dann auf seine schmale Seite.
+
+Beob.: ______________________________________________
+V6) Wir beschweren unseren Holzquader nacheinander mit immer mehr
+Gewichten.
+
+Beob.: _____________________________________________
+
+___________________________________________________
+
+
+5.9.3 Die Reibungszahl
+
+Aus V6) haben wir gesehen, dass F(gleit) : F(Gewicht) = konst.
+Diese konstante Zahl nennen wir Gleitreibungszahl ?(gleit).
+
+                      ?(gleit) = F(gleit) : F(Gewicht)
+
+Einige Reibungszahlen
+
+Stahl auf Stahl glatt:      ?(gleit) = 0,05
+Holz auf Holz poliert:      ?(gleit) = 0,30
+Papier auf Papier:          ?(gleit) = 0,40
+Schlittschuhe auf Eis: ?(gleit) = 0,01
+Blockierter Autoreifen
+auf trockener Straίe:  ?(gleit) = 0,80
+auf nasser Straίe:          ?(gleit) = 0,50
+auf Glatteis:               ?(gleit) = 0,05
+
+
+5.9.4 άbungsaufgaben
+
+a) Wie groί ist die Gleitreibungskraft F(gleit), mit der ein
+Schlittschuhlδufer gebremst wird, der 600 N wiegt ?
+
+b) Ein Eislδufer braucht nur eine Kraft von 8 N, um in Bewegung zu bleiben.
+Wie viel wiegt er ?
+
+c) Wie groί sind die Reibungskrδfte, die bei einem bremsenden PKW von 8000
+N Gewicht auftreten, wenn dessen Reifen auf trockener, auf nasser und auf
+vereister Fahrbahn blockieren ?
+
+d) Warum sollten man beim Seilklettern nicht zu rasch hinunter rutschen ?
+
+e) Beim Ski-Langlauf sind Reibungskrδfte teils erwόnscht, teils
+unerwόnscht. Wieso ?
+f) Ein Mann zieht seine beiden Kinder (25 kg und 21 kg) auf
+einem Schlitten (7 kg). Wie groί ist die Reibungskraft wδhrend der Fahrt,
+wenn die Reibungszahl ?(gleit) = 0,20 ist ?
+
+
+
+5.10 Hebel
+
+5.10.1 Die Drehwirkung M (=Drehmoment)
+
+V1) Hδnge an einen Hebelarm erst ein, dann zwei usw. Gewichte mit jeweils
+der gleichen Gewichtskraft F.
+
+Beob.: _____________________________________________
+
+___________________________________________________
+
+V2) Hδnge an einen Hebelarm nur ein Gewicht. Hδnge dann das Gewicht um:
+schrittweise immer weiter nach auίen.
+
+Beob.: _____________________________________________
+
+___________________________________________________
+
+___________________________________________________
+
+Problem: Wie sieht eine physikalische Formel zu V1) und V2) aus, die
+Drehwirkung M, Gewichtskraft F und Abstand a enthδlt ?
+
+
+
+
+Einheit der Drehwirkung M = _____________________________
+
+
+5.10.2 άbungsaufgaben zum einseitigen Hebel
+
+Bestimme jeweils die gesamte Drehwirkung M
+a) 0,5 N in 1,5 m nach oben
+b) 1 N in 2 m nach unten
+c) 2 N in 1,5 m nach oben und 5 N in 0,5 m nach unten
+d) 3 N in 0,5 m nach unten und 2 N in 0,75 m nach oben
+
+5.10.3 Der zweiseitige Hebel
+
+Gleichgewicht herrscht, wenn
+
+_________________________
+
+_________________________
+
+_________________________
+
+                 Drehgrφίe M (links) = Drehgrφίe M (rechts)
+
+
+
+
+
+5.10.4 άbungsaufgaben zum zweiseitigen Hebel
+
+Berechne jeweils die fehlende Grφίe!
+a) F1 = 12 N, a1 = 0,6 m, F2 = 9 N
+b) F1 = 18 N, a1 = 50 cm, a2 = 0,15 m
+c) a1 = 0,2 m, F2 = 24 N, a2 = 80 cm
+d) F1 = 17,5 N, a1 = 0,6 m, a2 = 2,5 m
+e) F1 = 13,8 N, a1 = 0,55 m, F2 = 1,1 N
+f) F1 = 5 N, F2 = 4,4 N, a2 = 125 cm
+g) F1 = 7,9 N, a1 = 250 mm, a2 = 0,5 m
+h) a1 = 0,005 km, F2 = 25,5 N, a2 = 1000 mm
+i) F1 = 8 N, a1 = 3 cm, a2 = 120 mm
+k) F1 = 13,6 N, a1 = 500 cm, F2 = 6,8 N
+l) a1 = 1,11 m, F2 = 30 N, a2 = 18,5 cm
+m) F1 = 16,8 N, F2 = 8 N, a2 = 9,45 m
+
+
+5.11 Die schiefe Ebene
+
+
+V) Auf einer schrδgen Fahrbahn
+wird ein Wagen am Kraftmesser
+hochgezogen. Wir messen die
+Zugkraft bei unterschiedlich
+geneigter Fahrbahn.
+
+
+Beob.: ____________________________________________
+
+__________________________________________________
+
+__________________________________________________
+
+Aber: Je mehr Kraft ich spare, desto ______________________
+
+                        = Goldene Regel der Mechanik
+
+Praktische Beispiele fόr schiefe Ebenen:
+
+__________________________________________________
+
+__________________________________________________
+
+
+
+5.12 Feste und lose Rollen
+
+a) eine feste Rolle ______________________
+So kann man z.B. einen Eimer heraufziehen, indem man das Seil nach unten
+zieht.
+
+b) eine lose Rolle bietet den Vorteil, dass ein
+
+Gewicht ______________________________
+
+____________________________________.
+
+Allerdings wird die Lδnge des όber die Rolle zu ziehenden Seils doppelt so
+lang, wie der Hubweg. Welches physikalische Prinzip ist das?
+Antwort: ___________________________________________
+
+Anwendung: ___________________________
+Durch eine Kombination von mehreren losen Rollen kann man zum Heben
+schwerer Lasten viel Kraft sparen! Jede lose Rolle spart die Hδlfte der
+Gewichtskraft.
+
+V) mit einem Flaschenzug heben wir mehrere Gewichte nach oben und
+vergleichen die Kraft, die wir aufwenden mόssen, mit der Gewichtskraft.
+
+5.13 Kraft F und Weg s - _______________________
+
+V1) Hebe ein Gewichtsstόck von 1 N genau 1 m hoch.
+
+Erg.:       Kraft F = _____ ; Weg s = _____ ;
+
+            Arbeit W = ______________________________
+
+
+                    Arbeit W = __________________________
+
+V2) Ziehe einen beladenen Wagen mit einem vorgespannten Kraftmesser όber
+eine waagrechte Flδche.
+Lδnge des Weges = 1 m. Berechne die verrichtete Arbeit!
+
+      Kraft F = ________ ; Weg s = 1 m
+
+      Arbeit W = ______________
+
+V3) Nun ziehe den gleichen Wagen eine schrδge Rampe von 1 m Lδnge hinauf!
+
+      Kraft F = _______ ; Weg s = 1 m
+
+      Arbeit W = _________________
+
+              Die Arbeitseinheit 1 Newtonmeter (1 Nm) wird auch
+              1 Joule (1 J) oder 1 Wattsekunde (1 Ws) genannt.
+
+
+5.14 Arbeit W und Zeit t - _____________________
+
+V1) Wir heben ganz langsam ein Gewicht von 1 N genau 1 m hoch. Wie groί ist
+die verrichtete Arbeit?
+
+Antwort: ______________
+
+V2) Nun heben wir das gleiche Gewicht ganz schnell hoch.
+
+Die verrichtete Arbeit ist ____________________________ .
+
+Aber: wo haben wir mehr geleistet ?
+
+Antwort: _____________________________________________
+
+____________________________________________________
+
+Versuche eine Formel zu erstellen, bei der die Leistung P aus Arbeit W und
+Zeit t beschrieben wird.
+
+
+Leistung P  = __________________________________
+
+                 = ___________________________________
+
+Einheit fόr P    = ______________________________________
+
+
+
+5.15 Energie und Energieumwandlungen
+
+V) Ein groίes Pendel wird beobachtet
+Wann hat das Gewicht die grφίte Geschwindigkeit?
+
+Antwort: __________________________
+
+Hier ist _____________________________________________
+
+___________________________________________________
+
+Wann hat das Gewicht die kleinste Geschwindigkeit?
+
+Antwort: ____________________________________________
+Hier ist die kinetische Energie gleich Null.
+
+Dafόr ist ____________________________________________
+
+___________________________________________________
+
+Die Energie wird in den gleichen Einheiten wie die Arbeit gemessen, also
+
+
+                  1 Nm = _________________________________
+
+                           Energieerhaltungssatz:
+                   Energie kann nicht erzeugt, sondern nur
+                 in andere Energieformen umgewandelt werden!
+
+Weitere Energieformen: ________________________________
+
+____________________________________________________
+
+
+5.16 άbungsaufgaben zu Arbeit, Leistung und Energie
+
+a) Auf einem Bau sollen 450 Steine, von denen jeder eine Gewichtskraft von
+20 N hat, 14 m weit nach oben geschafft werden. Wie groί ist die zu
+verrichtende Arbeit insgesamt, wenn a) alle Steine auf einmal oder b) nur
+jeweils 10 Steine gleichzeitig befφrdert werden ?
+
+b) Vergleiche die Leistung zweier Seilwinden A und B (in kW):
+A hebt in 3 s eine Last von 1.000 N 15 m hoch; B hebt eine Last von 5.000 N
+in 2 s auf 1,6 m Hφhe.
+
+c) Eine Ramme verrichtet pro Schlag eine Arbeit von 50 Nm. Berechne die
+Leistung bei 15 Schlδgen in der Minute.
+
+d) Beim Schaukeln wird stδndig Energie umgewandelt.
+-     In welchem Punkt wird ein Maximum an kinetischer Energie
+      erreicht?
+-     Wann wird Beschleunigungsarbeit verrichtet?
+-     Auf welche Weise kφnnen "Energieverluste durch Reibung"
+ausgeglichen werden?
+
+
+
+6.    Mechanik der Flόssigkeiten
+
+V) In einer wassergefόllten Glaskugel mit Φffnungen wird ein Druck auf die
+Flόssigkeit ausgeόbt.
+
+Beob.: _____________________________________________
+
+___________________________________________________
+
+Erklδrung: Wirkt auf einen festen Kφrper eine Kraft, so wird diese in ihm
+in gerader Richtung weitergeleitet (also nur in einer Richtung!).
+Bei der Flόssigkeit aber weichen die Molekόle bei Krafteinwirkung nach
+allen Richtungen aus; es entsteht ein Druck p auf alle Gefδίwδnde.
+
+
+6.1 Zusammenhang zwischen Kraft F, Flδche A und Druck p
+
+Wieso sinkt man mit Schneeschuhen nicht so tief ein wie mit normalen
+Winterstiefeln?
+
+Antwort: ____________________________________________
+
+___________________________________________________
+
+___________________________________________________
+
+Wie muss daher die Formel fόr den Druck p aussehen?
+
+
+
+
+Einheiten des Drucks p:   N : m2 = Pascal (Pa)
+100 Pa = 1 hPa
+
+V) 2 wassergefόllte Spritzen mit unterschiedlichem Querschnitt (A1 = 6,16
+cm2 und A2 = 2,04 cm2) sind mit einem Schlauch verbunden. Die Kolben werden
+nun so belastet, dass Gleichgewicht herrscht.
+
+|F1 (N)  |A1 (cm2)   |F2 (N)  |A2 (cm2)    |p1 (N/cm2)   |p2 (N/cm2)       |
+|        |           |        |            |             |                 |
+|        |           |        |            |             |                 |
+|        |           |        |            |             |                 |
+
+Da der Druck im ganzen geschlossenen System όberall gleich ist, gilt: p1 =
+p2, also auch:
+
+
+           _________________ und umgeformt auch _________________
+
+6.2 Die hydraulische Presse
+
+Sie nutzt die Tatsache aus, dass durch eine kleine Kolbenflδche ein groίer
+Druck erzeugt werden kann. Dieser Druck bewirkt an einem zweiten Kolben mit
+groίer Flδche eine groίe Kraft.
+
+Bau und Wirkungsweise
+
+Die Kraft F1 wirkt auf die kleine Flδche A1 des Druckkolbens und erzeugt
+dabei einen starken Druck p (p = F : A).
+Dieser Druck pflanzt sich durch das ganze Flόssigkeitssystem fort und wirkt
+auf den groίen Querschnitt A2 des Hubkolbens. Dort erzeugt er eine groίe
+Kraft F2.
+
+F2 = __________________________
+
+Was man aber an Kraft gewinnt, muss man an Weg draufzahlen!
+
+= ___________________________________________
+
+In der Technik wird daher der Druckkolben meist durch eine Motorpumpe
+ersetzt.
+
+Beispiel: Der Motor der Pumpe όbt auf den kleinen Pumpenkolben mit der
+Flδche A1 = 5 cm2 die Kraft F1 = 100 N aus.
+p = ________________________________________________
+Der gleiche Druck wirkt auch auf die groίe Flδche A2 = 500 cm2 des
+Hubkolbens.
+p = F2 : A2 => F2 = ___________________________________
+
+___________________________________________________
+
+Diese Kraft reicht aus, um einen Wagen der Masse __________
+zu heben!
+
+
+6.3 Der Schweredruck in Flόssigkeiten
+
+Vom Tauchen weiί man, dass der Druck __________________
+
+___________________________________________________.
+Erkl.: Je tiefer man taucht, desto mehr Wasser befindet sich όber dem
+Taucher. Das Wasser erzeugt also mit seiner Gewichtskraft einen
+Schweredruck, der auf dem Taucher lastet.
+
+V) Wir fόllen verbundene Gefδίe (kommunizierende Rφhren) mit Wasser.
+
+Beob.: _____________________________________________
+
+__________________________________________________.
+
+Erg.: Der Schweredruck ist _____________________________
+
+__________________________________________________.
+
+
+
+6.4 Der Luftdruck
+
+Die Erde ist von einer Lufthόlle umgeben. Wir leben also auf dem Grund
+eines riesigen Meeres aus Luft.
+Genau wir in einer Flόssigkeit entsteht auch in der Luft ein Schweredruck.
+Je hφher wir uns auf der Erde befinden, desto
+
+________________________________________________.
+
+Auf Meeresspiegelhφhe herrscht ein durchschnittlicher Luftdruck
+
+von etwa ______________________
+
+Beispiel: Bei einem Strohhalm erzeugst du mit dem Mund einen Unterdruck.
+Dadurch presst der δuίere Luftdruck das Getrδnk in deinen Mund hinein.
+
+
+
+6.5 Der Auftrieb im Wasser
+
+Die grφίten Dinosaurier, die es je gab (Brachiosaurus), lebten stδndig im
+Wasser.
+
+Grund: ____________________________________________
+
+_________________________________________________.
+V1) Wir tauchen ein Gewicht am Kraftmesser in ein
+Wasserbecken.
+
+Beob.: ____________________________________________
+
+Erkl.: Im Wasser ist jeder Kφrper leichter. Diese gegen die
+
+Schwerkraft wirkende Kraft heiίt _______________________.
+
+V2) Wir tauchen verschiedene Kφrper in Wasser ein und messen jeweils deren
+Volumen und die Auftriebskraft.
+
+Beob.: ____________________________________________
+
+_________________________________________________.
+
+Erkl.: _____________________________________________
+
+__________________________________________________
+
+__________________________________________________
+
+
+
+
+Wenn F(A) < Gewichtskraft F(G): _______________________
+
+Wenn F(A) < Gewichtskraft F(G): ________________________
+
+Wenn F(A) < Gewichtskraft F(G): ________________________
+
+

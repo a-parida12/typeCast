@@ -1,0 +1,2251 @@
+Die Welt der Batterien
+Funktion, Systeme, Entsorgung
+
+Stiftung
+Gemeinsames
+Rücknahmesystem
+Batterien
+
+2
+2
+
+Die Welt der Batterien – Funktion, Systeme, Entsorgung
+
+Inhalt
+Vorwort
+
+Erster Teil
+
+Zweiter Teil
+
+Die Entwicklung und die Funktion der Gerätebatterien
+Anfänge
+
+4
+
+Funktionsweise
+
+5
+
+Unterschiede zwischen Primär- und Sekundärsystemen
+
+5
+
+Bezeichnungen
+
+8
+
+Die Technik und die Produktion der Primärbatterie-Systeme
+Zink-Kohle
+
+9
+
+Alkali-Mangan
+
+10
+
+Zink-Luft
+
+11
+
+Silberoxid
+
+11
+
+Lithium-Mangandioxid
+
+12
+
+Die Technik und die Produktion der Sekundärbatterie-Systeme
+
+Dritter Teil
+
+Vierter Teil
+
+Nickel-Cadmium
+
+14
+
+Blei
+
+15
+
+Nickel-Metallhydrid
+
+15
+
+Lithium-Ion
+
+16
+
+Lithium-Polymer
+
+17
+
+Die Entsorgung
+Batterieverordnung
+
+18
+
+Stiftung GRS Batterien
+
+18
+
+Sortierverfahren
+
+19
+
+Verwertungsverfahren
+
+20
+
+Der Ausblick
+Die Zukunft von heute, morgen und übermorgen
+
+Fünfter Teil
+
+23
+
+Der Anhang
+Glossar
+
+25
+
+Abkürzungen
+
+26
+
+Quellen
+
+26
+
+Impressum
+
+26
+
+3
+
+Vorwort
+
+Mobile Energieträger nehmen zunehmend Einfluss auf unser modernes Leben. Das ist wohl einer der Gründe dafür, dass sich die
+Broschüre „Die Welt der Batterien“ einer über die Jahre hinweg steigenden Beliebtheit erfreut.
+Auch Batterien und Akkus wurden und werden ständig an den Stand der Technik angepasst: elektronische Geräte fordern auch von der
+Stromversorgung immer öfter eine höhere Leistung bei gleichzeitig geringerem Gewicht. Das wird deutlich in den Verkaufszahlen der
+Systeme Alkali-Mangan oder Lithium.
+Doch auch heute gibt es noch keine „Wunderbatterie“, die alle gewünschten Eigenschaften wie hohe Energiedichte, leichte Bauweise, sichere
+Handhabung und viele Tausend Ladezyklen in sich vereint. Aus diesem Grund wird es auch in Zukunft noch viele unterschiedliche BatterieSysteme und -Typen geben, um den jeweiligen Anforderungen an den Betrieb eines Geräts zu genügen.
+Auch das Thema „Verwertungsverfahren für Batterien“ hat einen höheren Stellenwert in dieser Broschüre erhalten, denn zwischenzeitlich
+werden mehr als 90 % der Batterien metallurgisch verwertet.
+Um der stetigen Weiterentwicklung auf dem Gebiet der mobilen Stromversorgung gerecht zu werden, ist eine komplette Überarbeitung
+dieser Broschüre notwendig geworden.
+Wir freuen uns, Ihnen nunmehr die 2., völlig neu überarbeitete Auflage der „Welt der Batterien“ präsentieren zu können.
+
+Dr. Jürgen Fricke
+Vorstandvorsitzender GRS Batterien
+Hamburg, im Dezember 2007
+
+4
+
+Die Welt der Batterien – Funktion, Systeme, Entsorgung
+
+Erster Teil: Die Entwicklung und die Funktion der Gerätebatterien
+
+Anfänge
+
+1789
+
+Die Geschichte der elektrochemischen Energiespeicher begann mit der
+naturwissenschaftlichen Untersuchung der Elektrizität. Namen wie
+Luigi Galvani (1737–1798) und Alessandro Volta (1745–1827) sind mit
+
+Geschichte der Batterieentwicklung
+1600
+
+Gilbert (England)
+
+Beginn der elektrochemischen Untersuchungen
+
+1789
+
+Galvani (Italien )
+
+Entdeckung von Elektrizität bei Tieren/
+Frosch-Experiment
+
+1800
+
+Volta (Italien)
+
+Entdeckung der Volta-Zelle/„Voltasche Säule“
+
+1802
+
+Cruickshank (England)
+
+Erste elektrische Batterie für Massenproduktion
+
+1802
+
+Ritter (Deutschland)
+
+Erster Akkumulator „Rittersche Säule“
+
+1820
+
+Ampère (Frankreich)
+
+Elektrizität durch Magnetfelder
+
+1833
+
+Faraday (England)
+
+Bekanntgabe des Gesetzes von Faraday
+
+1836
+
+Daniell (England)
+
+Entdeckung des „Daniell-Elements“/Galvanische Zelle
+
+1859
+
+Planté (Frankreich)
+
+Erfindung der Blei-Säure-Batterie
+
+Leclanché (Frankreich)
+
+Erfindung der „Leclanché-Zelle“ BraunsteinZink-Element
+
+diesen Arbeiten verbunden und leben auch heute noch in Bezeichnungen
+wie „galvanische Zelle“ und „Volt“ fort. Galvani fiel 1789 bei Experimenten auf, dass Froschbeine zu zucken beginnen, wenn sie mit zwei
+verschiedenen Metallen in Berührung kommen. Er schloss daraus auf
+einen Zusammenhang zwischen Elektrizität und Muskeltätigkeit.
+Zehn Jahre später baute Volta die erste einfache Batterie: Er schichtete
+Kupfer- und Zinkscheiben abwechselnd übereinander und legte zwi-
+
+1860
+
+schen die Scheiben jeweils ein in Salzlösung getränktes Stück Pappe.
+
+1888
+
+Gassner / Schmidt
+(Deutschland)
+
+Erfindung von Trockenzellen
+
+1899
+
+Jungner (Schweden)
+
+Erfindung der Nickel-Cadmium-Batterie
+
+1901
+
+Edison (USA)
+
+Erfindung der Nickel-Metallhydrid-Batterie
+
+1932
+
+Schlecht & Ackermann
+(Deutschland)
+
+Erfindung der gesinterten Elektroden
+
+1947
+
+Neumann (Frankreich)
+
+Erfolgreiches Versiegeln der Nickel-Cadmium-Batterie
+
+1960
+
+Union Carbide (USA)
+
+Diese „Voltasche Säule“ lieferte Energie, wenn die Scheiben durch
+Draht verbunden wurden. Die Spannung ließ sich mit mehreren in Serie
+geschalteten Säulen noch erhöhen.
+Johann Wilhelm Ritter (1776–1810), der mit Goethe auf dem Gebiet der
+Naturwissenschaften zusammenarbeitete, entwickelte 1802 eine Batterie, die sogenannte „Rittersche Säule“. Die Säule bestand aus über-
+
+Entwicklung der ventilregulierten Blei-Säure-Battterie
+
+1990
+
+Kommerzialisierung von Nickel-Metallhydrid-Batterien
+(z. B. für Fahrzeuge)
+
+einandergeschichteten und mit Tafelsalz (Natriumchlorid) getränkten
+Kupfer- und Kartonscheiben. Diese Vorrichtung konnte mit elektrischem
+Strom geladen werden und gab bei der Entladung den Strom wieder ab.
+Sie gilt als Urform des Akkumulators – der wiederaufladbaren Batterie.
+An galvanischen Elementen wurde in den folgenden hundert Jahren
+sehr intensiv weitergearbeitet, sodass schon um die Wende vom
+19. ins 20. Jahrhundert aus der nur stationär zu betreibenden Batterie
+ein recht brauchbares Trockenelement entstand. Entscheidende Beiträge zur Verbesserung haben hier der französische Ingenieur Georges
+Leclanché (1839–1882), der deutsche Arzt Dr. Carl Gassner (1855–1942)
+und Paul Schmidt (1868–1948) geleistet. So erfand Leclanché das auch
+heute noch weit verbreitete Braunstein-Zink-Element mit Salmiakelektrolyten, während es Gassner und Schmidt später gelang, den bis dahin
+noch flüssigen Elektrolyten einzudicken und damit die Grundlage für
+eine transportable Batterie zu schaffen.
+
+Entwicklung der Alkali-Mangan-Batterie
+
+1970
+
+1992
+
+Kordesh (Kanada)
+
+Kommerzialisierung von wiederaufladbaren Alkali-Mangan-Batterien
+
+1999
+
+Kommerzialisierung von Lithium-Ion-Polymer-Batterien
+
+2002
+
+Begrenzte Herstellung von Brennstoff-Zellen (PEM, für
+Gerätebatterien und Fahrzeuge)
+
+2006
+
+Erster MP3-Player mit „Bakterien-Batterie“ (noch nicht
+kommerziell nutzbar)
+
+2007
+
+Erste „Papierbatterie“ (noch nicht kommerziell nutzbar)
+
+Das Prinzip der chemischen Speicherung elektrischer Energie ist möglicherweise
+sehr viel älter: Bereits die Parther (ca. 250 v.Ch.) nutzten Tongefäße, in denen ein
+Kupferblech und ein Eisenstab steckten. Dies wird als Beweis dafür gesehen, dass die
+Menschen auch zu dieser Zeit bereits die Galvanisierung beherrschten. Den Ägyptern
+wird nachgesagt, sie hätten schon vor über 4300 Jahren mit Antimon galvanisierte
+Kupferplatten hergestellt.
+
+5
+
+Funktionsweise
+Das Prinzip einer Batterie oder eines Akkumulators lässt sich mit zwei
+
+Im Fall der Batterie werden die Höhe Spannung und der Wasserfluss
+
+Wasserbehältern, die auf verschiedenen Höhen stehen, darstellen.
+
+Strom genannt. Je höher die Spannung (je höher der Wasserbehälter
+
+Wird Wasser in den oberen Behälter gefüllt und werden beide Behäl-
+
+steht), desto mehr Arbeit kann die Batterie oder der Akku (bei gleich
+
+ter mit einer Wasserleitung verbunden, kann durch den Wasserfluss
+
+großen Wasserbehältern) liefern. Je größer die Wasserbehälter sind,
+
+ein Rad betrieben werden. Ist der obere Behälter leer, kann entweder
+
+desto länger kann das Wasserrad gedreht werden. Im Fall der Batterie
+
+neues Wasser eingefüllt oder aber das Wasser vom unteren in den
+
+wird die Größe des Wasserbehälters als Kapazität bezeichnet. Sie gibt
+
+oberen Behälter gefüllt werden. Letztlich funktioniert eine Batterie
+
+an, wie viele Elektronen in den Elektroden gespeichert werden können.
+
+genauso wie diese beiden Wasserbehälter.
+
+Also: Je höher die Kapazität, desto länger läuft der MP3-Player.
+
+In einer Batterie werden die Behälter Elektroden genannt, und zwischen
+
+Bei der Batterie sollte man statt von Strom besser von elektrischer Lei-
+
+den Elektroden fließt kein Wasser, sondern Elektronen. Die Elektronen
+
+stung sprechen, da der Strom stets von einer Spannung begleitet wird
+
+sind in den Elektroden „gespeichert“ und betreiben dann kein Was-
+
+und Strom multipliziert mit Spannung Leistung ist. Leistung multipli-
+
+serrad, sondern eben ein Handy oder einen MP3-Player. Batterien und
+
+ziert mit Zeit ist Energie. Die Batterie ist ein elektrochemischer Energie-
+
+Akkumulatoren unterscheiden sich dadurch, dass, wenn die Elektrode
+
+wandler, der gespeicherte chemische Energie auf direktem Wege in
+
+(oberer Behälter) leer ist, entweder eine neue Batterie eingesetzt wird
+
+elektrische Energie umwandeln kann. Bildlich gesprochen bietet der
+
+(neues Wasser einfüllen) oder ein Akkumulator wieder geladen wird
+
+Minuspol die Elektronen in großer Stückzahl und mit „hohem“ Druck
+
+(das Wasser vom unteren Behälter wird in den oberen gefüllt). Je höher
+
+an, und der Pluspol „saugt“ die Elektronen wieder ab. Der „Druckun-
+
+der eine Behälter steht und je steiler das Wasserrohr ist, desto schnel-
+
+terschied“ entspricht der Spannung der Batterie; die pro Zeiteinheit
+
+ler dreht sich das Wasserrad.
+
+fließende Menge der Elektronen ist der Strom.
+Die Leistungsfähigkeit einer Batterie wird durch die Spannung in Volt
+(bestimmt durch die chemische Zusammensetzung einer Batterie)
+und die Kapazität in Amperestunden (bestimmt durch die Menge des
+aktiven Materials) definiert.
+Ein MP3-Player braucht mehr Energie pro Zeiteinheit als eine Uhr. Das
+macht bei gleicher Leistungsfähigkeit unterschiedliche Bauformen
+notwendig.
+
+Unterschiede zwischen Primär- und
+Sekundärsystemen
+Der Strom hört in den Polen natürlich nicht auf. In der Batterie gibt es
+immer einen vollständigen Stromkreis in dem der Strom als Ionenstrom
+in der Elektrolytflüssigkeit von einer Elektrode zur anderen „fließt“. Hier
+laufen die dazugehörigen elektrochemischen Reaktionen ab: Verschiedene Elektrodenmaterialien geben die Elektronen ab (Minuspol), andere
+„saugen“ sie wieder auf (Pluspol). Für Taschenlampen oder Fernbedienungen werden meistens Braunstein-Zink-Batterien benutzt. Hier gibt
+es die Varianten „Zink-Kohle“ und „Alkali-Mangan“, auch „Alkaline“
+genannt. Bei beiden versorgt Zink den Minuspol mit Elektronen, weil das
+Zink seine Elektronen so schnell wie möglich abgeben möchte. Der Pluspol besteht aus Braunstein, der diese Elektronen dann wieder aufnimmt.
+Als Urform des Akkumulators gilt die sogenannte „Rittersche Säule“,
+die Ritter 1802 entwickelte.
+
+6
+
+Die Welt der Batterien – Funktion, Systeme, Entsorgung
+
+Diese Elektrodenmaterialien heißen „aktive Massen“ und dürfen
+
+wobei die dazugehörigen entladenen Elektrodenmassen wieder auf-
+
+sich in der Batterie nicht berühren, sonst entsteht ein Kurzschluss
+
+geladen und damit reaktiviert werden. Der Entlade-/Ladevorgang lässt
+
+und die Batterie entlädt sich von selbst. Deshalb trennt ein Sepa-
+
+sich bis zu tausendmal wiederholen. Primärbatterien sind dagegen nur
+
+rator die aktiven Massen. Dieser besteht aus einer Art Papier, das
+
+einmal entladbar.
+
+mit Elektrolytflüssigkeit getränkt ist, und durch seine Poren fließen
+die Ionen vom Braunstein zum Zink – so schließt sich dann der
+
+Die Zitronenbatterie zeigt, dass bei chemischen Reaktionen Elektrizität
+
+Stromkreis.
+
+entstehen kann. Ohne solche elektrochemischen Vorgänge gäbe es
+keine Batterien und Akkumulatoren.
+
+Bei wiederaufladbaren Batterien (auch Sekundärbatterien, Akkumulatoren oder kurz Akkus genannt) lässt sich die verbrauchte chemische
+
+Deutliche Unterschiede zwischen Primär- und Sekundärsystemen
+
+Energie durch einen Aufladevorgang wiederherstellen. Dafür pumpt
+
+bestehen bei der spezifischen, speicherbaren Energie und Belastbar-
+
+das Ladegerät die Elektronen vom Pluspol zum Minuspol zurück,
+
+keit sowie der Selbstentladung. So ist beispielsweise die gewichts- und
+volumenbezogene Energiedichte von Primärbatterien in der Regel deutlich größer als die von Sekundärbatterien. Energiedichte ist die in einer
+Batterie oder Zelle gespeicherte Energie. Sie wird entweder zur Masse
+(spezifische Energie – Wattstunden pro Gramm) oder zum Volumen
+(Energiedichte – Wattstunden pro Kubikzentimeter) in Beziehung gesetzt.
+Bei der Belastbarkeit ist die Reihenfolge genau umgekehrt: Hier
+weisen wiederaufladbare Systeme bessere Werte auf. Eine Ausnahme
+unter den wiederaufladbaren Systemen bezüglich ihres Energieinhalts
+bilden Lithium-Ion-Batterien. Diese können von allen Akku-Systemen
+pro Volumen oder Gewicht am meisten Energie speichern, und das
+für viele Male (Entladungen/Ladungen). Den höchsten Energieinhalt
+von allen elektrochemischen Systemen bietet die alkalische Zink-LuftPrimärzelle. Ist das Gerät ausgeschaltet, ruht auch die Batterie, und die
+Prozesse der Entladung kommen zum Erliegen. Die positive Elektrode
+und die negative Elektrode stellen unter dieser Bedingung ihr elektrochemisches Gleichgewicht ein. Dieses ist für ein gegebenes System mit
+einer bestimmten Spannung verbunden (zum Beispiel Zink-Kohle 1,5 V
+pro Zelle, Bleibatterie 2 V pro Zelle).
+In der Praxis laufen unter dieser Bedingung noch Selbstentladungsvorgänge ab, die – je nach System – von unterschiedlich großem Einfluss
+sind. Die Selbstentladung ist ein temperaturabhängiger Reaktionsprozess an den Elektroden der Zelle und unabhängig vom Verbraucher. Sie
+
+Wenn man einen Kupferblech- und einen Zinkblechstreifen in eine Zitrone steckt, ohne
+dass die Bleche sich berühren, kann man zwischen den beiden Blechen eine
+Spannung von ungefähr 1 V messen. Diese Spannung reicht zum Betrieb einer
+elektrischen Uhr aus. Die beiden Metallstreifen werden Elektroden genannt. An ihnen
+laufen Reaktionen ab, bei denen Energie nicht als Wärme oder Licht, sondern in Form
+von elektrischer Energie abgegeben wird.
+
+ist bei Primärbatterien sehr klein, im Gegensatz zu wiederaufladbaren
+Systemen. Hier kann es Boten-Ionen geben, die eine Selbstentladung
+fördern, wie etwa bei Nickel-Cadmium (NiCd)- und Nickel-Metallhydrid
+(NiMH)-Akkumulatoren. Diese Boten-Ionen wandern zwischen den Elektroden hin und her und transportieren dabei Ladungen (der Fachmann
+
+Die Zitrone kann man zum Beispiel durch eine Kochsalz- oder eine andere leitfähige
+Lösung ersetzen. Man kann also immer dann eine Spannung messen, wenn man zwei
+unterschiedliche Metalle in eine leitfähige Lösung eintaucht.
+Die Zitronenbatterie zeigt, dass bei chemischen Reaktionen Elektrizität entstehen
+kann. Ohne solche elektrochemischen Vorgänge gäbe es keine Batterien und
+Akkumulatoren.
+
+spricht von einem sogenannten Redoxsystem). Bei den Systemen NiCd
+und NiMH kommt hinzu, dass ihre Nickel-(hydroxid-) Elektrode nicht
+lagerstabil ist. Eine Selbstentladung von bis zu 30 Prozent pro Monat
+ist bei diesen Systemen „normal“. Derartige Standardakkus sind also
+
+7
+
+nach rund drei Monaten „leer“. Aus diesem Grund ist es nicht ratsam,
+
+Bei Primärbatterien ist die elektrochemische Selbstentladung nicht
+
+Taschenlampen oder Warnleuchten mit Standardakkus zu bestücken.
+
+nennenswert. Sie liegt bei Raumtemperatur deutlich unter zwei Prozent
+
+Werden diese dann irgendwann gebraucht, sind die Batterien garan-
+
+pro Jahr.
+
+tiert entladen. Für diese Zwecke empfehlen sich Primärbatterien der
+Systeme Zink-Kohle oder Alkali-Mangan.
+
+Parallel wirken jedoch noch Vorgänge, die ihren inneren Widerstand
+während der Lagerung erhöhen. Diese Vorgänge sind mit einer Abnah-
+
+Seit einigen Jahren sind aber auch weiterentwickelte NiMH verfügbar,
+
+me ihrer Belastbarkeit verbunden.
+
+die als „low self discharge“ oder „ready to use“ vermarktet werden.
+Diese Akkus sind nach rund einem Jahr Lagerung noch immer zu circa
+
+Bemerkbar macht sich der Verlust an nutzbarer Energie nur bei hohen
+
+75 % „voll“. Der Grad der Selbstentladung ist also bei Akkus deutlich
+
+Belastungen (Motor-Anwendung, Blitzlicht) – dieser Effekt hat jedoch
+
+höher als bei Primärbatterien. Eine Ausnahme sind auch hier die Lithium-
+
+nichts mit der elektrochemischen Selbstentladung zu tun. Bei nied-
+
+Ion- und Lithium-Polymer-Batterien. Ihre Stärke ist eine geringere Selbst-
+
+rigen Entladeströmen ist der während der Lagerung gestiegene innere
+
+entladung bei gleichzeitig hohem Energieinhalt und hoher Belastbarkeit.
+
+Widerstand nicht feststellbar.
+
+Prinzip der Elektrolyse
+
+Redoxreaktionen als Spannungsquelle
+
+Wird der Batterie elektrische Energie entnommen, geben die Zink-Atome (Minuspol) Elektronen ab (Oxidation) und gehen als Zink-Ionen in Lösung. Die Elektronen fließen über
+einen äußeren Leiter zum Verbraucher (beispielsweise eine Taschenlampe) und dann zum Pluspol der Batterie. Dort nehmen die Kupfer-Ionen die Elektronen auf
+(Reduktion). Diese Elektronenübertragung heißt in der Fachsprache Redoxreaktion. Der Stromkreis wird durch die Wanderung von Ionen zwischen den Elektroden durch den
+Elektrolyten geschlossen (Ionenstrom). Dieser Elektronenaustausch zwischen geeigneten Reaktionspartnern ist somit die Ursache der elektrischen Spannung in Batterien. An der
+Kathode findet also eine Reduktion und an der Anode eine Oxidation statt.
+
+8
+
+Die Welt der Batterien – Funktion, Systeme, Entsorgung
+
+Kurzcharakteristika und Anwendungsbeispiele gebräuchlichster Batterie-Systeme
+Typ
+
+Zink-Kohle
+
+Alkali-Mangan
+
+Silberoxid
+
+Lithium
+
+Nickel-Metallhydrid
+
+Nickel-Cadmium-Akku
+
+Lithium-Ion
+
+Spannung
+
+1,5 V
+
+1,5 V
+
+1,55 V
+
+3V
+
+1,2 V
+
+1,2 V
+
+3,6 V
+
+Minuspol
+Anode
+
+Zink
+
+Zink
+
+Zink
+
+Lithium
+
+wasserspeichernde
+Metalllegierung
+
+Cadmium
+
+Lithium-KobaltVerbindungen
+
+Pluspol
+Kathode
+
+Mangandioxid
+
+Mangandioxid
+
+Silberoxid
+
+Mangandioxid
+
+Nickelhydroxid
+
+Nickelhydroxid
+
+Graphit
+
+Elektrolyt
+
+Salmiak- oder Zinkchlorid
+
+Kalilauge
+
+Kalilauge
+
+Lithiumverbindung
+in org. Lösungsmittel
+
+Kalilauge
+
+Kalilauge
+
+Lithiumverbindungen
+in org. Lösungsmitteln
+
+Eigenschaften
+
+Spannung sinkt bei der
+Entladung deutlich ab,
+preiswert
+
+auslaufsicher,
+hohe Leistung,
+langlebig
+
+Spannung bleibt
+lange konstant,
+sehr langlebig
+
+sehr lange lagerfähig,
+Spannung bleibt sehr
+lange konstant
+
+hohe Belastbarkeit,
+wiederaufladbar
+
+wiederaufladbar,
+preiswert
+
+Hohe Belastbarkeit,
+hohe Energiedichte,
+wiederaufladbar
+
+Verwendung
+
+Taschenlampen,
+Uhren
+
+Radios,
+Kameras,
+Spielzeug
+
+Armbanduhren,
+Rechner,
+Kameras
+
+Fernbedienungen,
+Rechner,
+Back-up-Systeme
+
+schnurlose Telefone,
+Digitalkameras,
+Rasierer
+
+Videokameras,
+Werkzeuge
+
+Handys,
+Laptops,
+Digitalkameras
+
+Bezeichnungen
+Die kleinste elektrochemische Einheit einer Batterie heißt Zelle. Sie
+
+Dabei ist die zylindrische Zelle noch immer die am weitesten verbrei-
+
+besitzt noch kein gebrauchsfertiges Gehäuse, keine anschlusssicheren
+
+tete Bauform. Sie ist einfach zu produzieren, gestattet die größte
+
+Kontakte und ist in der Regel durch Löt- oder Schweißkontakte mit der
+
+Energiedichte und ist mechanisch sehr stabil. Der Zylinder weist die
+
+Nachbarzelle innerhalb der Batterie verbunden.
+
+Fähigkeit auf, innerem Druck sehr gut zu widerstehen. Weitere Standardformen sind Knopfzellen, Rundzellen, prismatische Zellen oder die
+flexible Folienzelle.
+
+Eine Batterie ist an einem gebrauchsfertigen Gehäuse zu erkennen.
+Sie verfügt über anschlusssichere Kontakte und ist gekennzeichnet mit
+Hersteller- und Typangabe, Batteriespannung und weiteren Angaben.
+
+Allgemeine Bezeichnung (Typ)
+
+IEC-Bezeichnung
+
+ANSI-Norm
+
+JIS-Norm
+
+Durchschnitts­gewichte in g
+
+Maße in mm
+
+AlMn/ZnC
+
+AlMn/ZnC
+
+AlMn /ZnC
+
+AlMn/ZnC
+
+Micro
+
+LR 3/R 3
+
+AAA
+
+AM4  /UM4
+
+11/9
+
+Ø 10,5 x 44,5
+
+Mignon
+
+LR 6 R 6
+
+AA
+
+AM3  /UM3
+
+23/17
+
+Ø 14,5 x 50,5
+
+Baby
+
+LR 14/R 14
+
+C
+
+AM2 /UM2
+
+69/46
+
+Ø 26,2 x 50,0
+
+Mono
+
+LR 20/R 20
+
+D
+
+AM1 /UM1
+
+141/95
+
+Ø 34,2 x 61,5
+
+9 V Block
+
+6 LR 61/6 F 22
+
+1604 D
+
+6AM6 /006P
+
+46/37
+
+26,5 x 17,5 x 48,5
+
+9
+
+Zweiter Teil: Die Technik und die Produktion der Primärbatterie-Systeme
+
+Zink-Kohle
+
+ZnC
+
+1860 erfand der französische Ingenieur Georges Leclanché (1839–1882)
+das Braunstein-Zink-Element mit Salmiakelektrolyten. Von dem nach
+ihm benannten galvanischen Element werden noch heute weltweit pro
+Jahr mehrere Milliarden Stück hergestellt. Die klassische Zink-KohleBatterie ist nach wie vor eine günstige Alternative zu Alkali-ManganBatterien oder wiederaufladbaren Batterie-Systemen. Steigende
+Ansprüche an Kapazität und Leistung verdrängen jedoch inzwischen
+langsam diesen Batterie-Typ.
+Das Zink-Kohle-Element müsste eigentlich „Braunstein-Zink-System mit
+Salmiak- beziehungsweise mit Zinkchlorid-Elektrolyten“ heißen. Statt-
+
+Zink-Kohle/ZnC
+
+dessen bezieht man sich in der Bezeichnung auf die Ableiter Kohle (für
+
+Der Anwendungsbereich der Zink-Kohle-Batterien erstreckt sich
+
+die positive Elektrode, Kathode) und Zink (für die negative Elektrode,
+
+hauptsächlich auf Geräte, die keine hohen Anforderungen an die
+
+Anode). Aus Zink bestehen gleichzeitig das negative Elektrodenmateri-
+
+Dauerleistung einer Batterie stellen, zum Beispiel Wecker, Fern-
+
+al und das Zellengefäß.
+
+bedienungen für den Fernseher oder Taschenrechner. Da immer
+mehr Geräte leistungsfähigere Batterien zum Betrieb benötigen,
+
+Die positive Elektrode besteht aus einer Braunsteinmasse mit einem
+
+werden diese Batterien zunehmend von dem System Alkali-Mangan
+
+zentral angeordneten Kohlestift als Ableiter. Als Elektrolyt dient – je
+
+verdrängt. Auch wenn der Absatz von Zink-Kohle-Batterien rückläu-
+
+nach System – eine Salmiaksalz- oder eine Zinkchloridlösung. Das
+
+fig ist, gibt es doch noch einen bedeutenden Anteil im Abfallstrom.
+
+höherwertige System ist das Zinkchlorid-System.
+
+Fast alle Zink-Kohle-Batterien werden in den fünf Standardgrößen
+hergestellt, die sich im Abfallstrom wie folgt verteilen:
+
+Zink-Kohle/ZnC
+
+2 % AAA , 40 % AA , 24 % C, 28 % D und 6 % 9 V-Blocks.
+
+10
+
+Die Welt der Batterien – Funktion, Systeme, Entsorgung
+
+Alkali-Mangan
+
+AlMn
+
+Schon seit dem Zweiten Weltkrieg ist bekannt, dass sich bei Batterie-
+
+Alkani-Mangan/AlMn
+
+Systemen mit alkalischem Elektrolyt relativ hohe Energiedichten bei
+relativ hoher Belastbarkeit realisieren lassen. Damals versuchten
+Entwickler in den USA, eine Braunstein-Zink-Zelle mit alkalischem Elektrolyt zu bauen. Dieser Zellentyp war zuerst nur für den militärischen
+Bereich gedacht. Anfang der 70er-Jahre fand er erst einen geringen
+Verbreitungsgrad im zivilen Markt.
+Dieses Bild hat sich inzwischen vollständig gewandelt: Seit Mitte der
+80er-Jahre haben die Absätze der alkalischen Rundzellen die der ZinkKohle-Zellen in Europa übertroffen.
+Die Alkali-Mangan-Batterie müsste richtiger als „Braunstein-Zink-Element mit alkalischem Elektrolyt“ bezeichnet werden, da weder Alkalien
+noch Mangan ihre aktiven Materialien darstellen. Bei diesem System
+besteht die Kathode aus einer Mischung von Mangandioxid und Graphit
+und die Anode aus Zinkpulver. Kathode, Separator und Anode sind mit
+der als Elektrolyt dienenden Kalilauge getränkt.
+
+Alkali-Mangan/AlMn
+
+Alkali-Mangan-Batterien sind mittlerweile das häufigste BatterieSystem – zwei Drittel aller in Deutschland in Verkehr gebrachten
+Batterien und Akkus gehören zu diesem System. Es gibt sie in
+allen Baugrößen von der Knopfzelle bis zur mehreren Kilogramm
+Viele netzunabhängige Geräte wie MP3-Player, Organizer (PDA) und
+
+schweren Industriebatterie. Abhängig vom Einsatzbereich haben
+
+digitale Fotoapparate verlangen heute nach hochwertigen Batterien mit
+
+AlMn-Batterien eine recht unterschiedliche Lebensdauer am Markt.
+
+besonders großen Stromreserven. Für Hochstromanwendungen sind
+
+Zurzeit ist jede AlMn-Batterie im Abfallstrom fünf Jahre oder älter.
+
+heute verbesserte Alkali-Mangan-Batterien erhältlich.
+
+Früher enthielten auch Rundzellen noch bis zu 2 % Quecksilber. Im
+
+Die verstärkte Kraft kommt durch mehr aktive Masse einer dickeren
+
+Gegensatz zu Cadmium oder Blei war Quecksilber allerdings nie
+
+Kathode in einem größeren Zellinnen-Volumen und einem verbesserten
+
+aktiv an der Redoxreaktion beteiligt, es hatte jedoch unterschied-
+
+Elektrolyten mit hoher Leitfähigkeit. Diese verbesserten Alkali-Mangan-
+
+liche passive Funktionen: so wurde u. a. durch die Amalgamierung
+
+Batterien leisten bis zu 15-mal mehr als vergleichbare Zink-Kohle-
+
+des Zinks eine Dendritenbildung verhindert. Heute sind alle AlMn-
+
+Batterien.
+
+Batterien – bis auf Knopfzellen – quecksilberfrei.
+
+11
+
+Zink-Luft
+
+ZnLuft
+
+In Batterien dieses Typs reagiert Luftsauerstoff zusammen mit einer
+katalytischen Kathode und einer Zink-Anode. Da die Kathode (positiver
+Pol) sehr dünn ist, steht dem Anodenmaterial (Zinkpulver) sehr viel
+Platz zur Verfügung. Dadurch erreichen die alkalischen Zink-Luft-Zellen
+von allen elektrochemischen Systemen die höchste Energiedichte und
+die höchste spezifische Energie und Kapazität. Ein typisches Einsatzge-
+
+Silberoxid
+
+biet sind Hörgeräte.
+
+AgO
+
+Dieses System wird überwiegend als Knopfzelle bis zu den kleinsten
+Abmessungen gefertigt. Es ähnelt im Aufbau den Alkali-Mangan-Zellen.
+Anstelle von Braunstein dient Silberoxid in Tablettenform als Kathodenmaterial. Die Anode besteht aus Zinkpulver.
+
+Sie erfordern kleinste Abmessungen, hohe Kapazitäten und eine flache
+Entladungskurve. Zink-Luft-Systeme sind im aktivierten Zustand (Klebefolie abgezogen, Luftöffnungen frei) nur begrenzt lagerfähig. Daher ist
+es erforderlich, sie bis zum Gebrauch luftdicht verschlossen zu halten.
+Nach Abziehen der Folie sollte die Zelle in einem Zeitraum von maximal
+500 Stunden entladen werden. Dieses gilt insbesondere bei ihrem
+
+Batterien dieser Art benötigen sehr teure Rohstoffe. Ihr Einsatz ist
+
+Betrieb in trockener Atmosphäre (beheizte Räume), da sie hier relativ
+
+daher auf Anwendungen beschränkt geblieben, die auf kleinstem
+
+schnell austrocknen können. Im versiegelten Zustand sind Zink-Luft-
+
+Raum eine Batterie mit hohem Energieinhalt und hoher Belastbarkeit
+
+Batterien nahezu unbegrenzt lagerfähig.
+
+benötigen.
+
+Zink-Luft/Zn Luft
+
+Silberoxid/AgO
+
+12
+12
+
+Die Welt der Batterien – Funktion, Systeme, Entsorgung
+Die Welt der Batterien – Funktion, Systeme, Entsorgung
+
+LiMnO2
+Lithium-Mangandioxid
+
+Die Forscher und Entwickler haben im letzten Jahrhundert nahezu alle
+
+Lithium-Mangandioxid/LiMnO2
+
+denkbaren Elektrodenkombinationen und Elektrolyte untersucht. Ein
+ganz besonderes Interesse galt dem Lithium zum Einsatz als negative
+Elektrode. Lithium ist ein Leichtmetall mit einer hohen spezifischen
+Kapazität (3,86 Ah/g) und einzigartigen elektrochemischen Eigenschaften. Von Anfang an standen die Entwickler jedoch vor Herausforderungen: Es galt, eine geeignete positive Elektrode zur negativen
+Lithium-Elektrode zu finden. Außerdem ist der Umgang mit Lithium
+schwierig. Es reagiert mit feuchter Luft und besonders intensiv mit
+Wasser. Schon bei 180 °C schmilzt es.
+Aufgrund der heftigen Reaktionsfähigkeit des Lithiums mit Wasser werden in den Zellen nur wasserfreie Materialien verwendet. Im Gegensatz
+
+hohe Spannungslage, hohe Energiedichte, flache Entladungskurven,
+
+zu den herkömmlichen Batterie-Systemen kommen auch nur wasser-
+
+sehr gutes Lagerverhalten und ein weit nutzbarer Temperaturbereich.
+
+freie Elektrolyte zum Einsatz. Sie bestehen vielfach aus organischen
+
+Sie sind zudem in allen Bauformen erhältlich. Aufgrund der geringen
+
+und anorganischen Lösungsmitteln. Zusätze bestimmter Salze fördern
+
+Selbstentladung eignen sich Lithium-Batterien für Langzeitanwen-
+
+die Leitfähigkeit.
+
+dungen in der Elektronik, Telekommunikation und im Messwesen.
+Darüber hinaus kommen sie häufig für Fotoanwendungen zum Einsatz.
+
+Es gibt mehrere Typen und ein breites Größensystem von Lithium-Pri-
+
+Mit ihrer Energie funktionieren bei modernen Fotoapparaten der auto-
+
+märbatterien. Sie unterscheiden sich durch die Zusammensetzung des
+
+matische Filmtransport, die Belichtungskontrolle oder das Blitzlicht.
+
+Elektrolyts und des aktiven Materials der positiven Elektrode, also des
+sich beim Entladen reduzierenden Teils. Dieses Material kann flüssig
+
+Eine weitere Entwicklung ist die dünne Lithium-Flachzelle, auch
+
+sein oder fest wie bei den Lithium-Mangandioxid-Zellen. Bei diesen
+
+Lithium-Papierzelle genannt. Diese Batterie misst weniger als
+
+Zellen besteht die negative Elektrode aus Lithium und die positive
+
+0,4 Millimeter und passt perfekt in scheckkartengroße, intelligente
+
+Elektrode aus Mangandioxid. Das System Lithium-Mangandioxid ist
+
+Smartcards. Das sind aktive Karten mit batteriebetriebenem Mikrochip
+
+am weitesten verbreitet. Zu den Vorteilen der Lithium-Zellen zählen
+
+sowie integriertem Display.
+
+13
+
+Ohne Batterie in der Karte sind die sogenannten Transponderfunkti-
+
+Lithium/Li
+
+onen über größere Entfernungen nicht möglich. Die Bezeichnung Transponder setzt sich zusammen aus Transmitter (Sender) und Responder
+
+Lithium-Primärbatterien gibt es in unterschiedlichen Bauweisen.
+
+(Beantworter). Smartcards öffnen nicht nur Türen, sie können den ge-
+
+Bei der Bobbin-Konstruktion hat die Kathode eine zylindrische
+
+samten Zahlungsverkehr abwickeln. Egal, ob Fahrscheine im Personen-
+
+Form. Die Anode ist innen auf die Gehäusewand aufgewalzt.
+
+nahverkehr, Flugtickets, Autobahn- oder Parkgebühren bezahlt werden
+
+Dadurch ergeben sich einige Vorteile für die Sicherheit, da bei
+
+müssen, ob beim Einchecken auf dem Flughafen oder im Hotel: Die
+
+unbeabsichtigtem Kurzschluss die Ströme nicht sehr hoch werden.
+
+„smarte Karte“ übernimmt für ihren Besitzer all diese Verpflichtungen.
+
+Die Wärme, die hauptsächlich an der Berührungsfläche zwischen
+
+Die neue Flachzelle ist auch ideal geeignet für andere Anwendungen,
+
+Anode und Kathode gebildet wird, kann nach außen abgeführt
+
+bei denen sehr niedrige Bauhöhen flache Batterien erfordern.
+
+werden. Das führt dazu, dass die Batterien auch ohne Sollbruchstelle keinen Überdruck aufbauen können. Bei der Flachzellenbau-
+
+Zunehmend erhalten auch andere Lithium-Systeme Eingang in den
+
+weise wird die Anode an den Becherboden gepresst. Die Kathode
+
+Verbrauchermarkt. Durch die Verbindung von Lithium und Elektrolyten
+
+hat die Form einer Scheibe und befindet sich, durch den Separator
+
+mit niedrigem Gefrierpunkt – wie z. B. nicht entflammbares Thionylchlo-
+
+getrennt, über der Anode. Diese Bauweise hat dieselben Vorteile im
+
+rid (SOCl2  ) – entstehen Batterien mit hoher Energiedichte, geringem
+
+Hinblick auf die konstruktive Sicherheit wie die Bobbin-Bauweise.
+
+Gewicht und niedriger Selbstentladung, die selbst unter extremen Be-
+
+Bis auf das Dichtungssystem (gebördelte Kunststoffdichtung) sind
+
+dingungen einsatzfähig sind. Je nach Zellentyp und Bauweise kommen
+
+Lithium-Knopfzellen ähnlich aufgebaut.
+
+die LiSOCl2-Zellen als Energiequelle für sehr unterschiedliche Anwendungen zum Einsatz, wie z. B. Back-up-Systeme, Verbrauchszähler oder
+Sicherheits-, Alarm- und Ortungssysteme.
+
+Lithium-Manganoxid/LiMnO2 (Bobbinbauweise)
+
+Lithium-Manganoxid/LiMnO2 (Flachzellenbauweise)
+Negativer Pol
+Dichtung
+
+Positiver Pol
+Überdruckventil
+Dichtung
+
+Deckel
+
+Deckel
+Positiver Ableiter
+
+Ableiter
+Elektrolyt
+Manganoxid (Kathode)
+
+Lithium (Anode)
+Elektrolyt + Separator
+Manganoxid (Kathode)
+
+Lithium (Anode)
+Separator
+Positiver Pol
+
+Negativer Ableiter
+Isolator
+
+14
+
+Die Welt der Batterien – Funktion, Systeme, Entsorgung
+
+Die Technik und die Produktion der Sekundärbatterie-Systeme
+
+Nickel-Cadmium
+
+NiCd
+
+Die aktiven Komponenten von NiCd-Akkumulatoren sind im geladenen
+
+Kapazität der negativen Elektrode
+
+Zustand Nickelhydroxid in der positiven Elektrode und Cadmium in der
+
+bei gegebener Belastung immer
+
+negativen Elektrode. Der Elektrolyt besteht aus Kaliumhydroxid. Die
+
+mehr, sodass der Akku nur noch
+
+Vorteile dieses Batterie-Systems, auch gegenüber neueren Akku-Syste-
+
+wenige Minuten die nötige Span-
+
+men, sind hohe Belastbarkeit, Schnellladefähigkeit und Kältefestigkeit
+
+nung liefert. Jetzt empfiehlt sich,
+
+bis minus 15 °C. Deshalb sind NiCd-Akkus in schnurlosen Werkzeugen
+
+auf keinen Fall vorsorglich nach-
+
+immer noch sehr verbreitet. Für andere Anwendungen, wie zum Bei-
+
+zuladen, sondern den Energie-
+
+spiel bei schnurlosen Telefonen, wird dieses System wegen des hohen
+
+speicher so weit zu entleeren, bis
+
+Cadmiumgehalts nicht mehr verwendet und durch NiMH-Akkus ersetzt.
+
+das Gerät nicht mehr funktioniert.
+
+Ein weiterer Nachteil ist der relativ geringe Energieinhalt gegenüber
+
+Dann ist die sogenannte Geräte-
+
+alkalischen und Lithium-Primärsystemen. Außerdem kann es zum
+
+Abschaltspannung erreicht und
+
+Memory-Effekt kommen.
+
+der Ladevorgang kann beginnen.
+
+Der klassische Memory-Effekt hat mit den Eigenschaften der negativen
+
+Ein Akku kann auf einfache Weise
+
+Cadmium-Elektrode zu tun, tritt also nur bei Nickel-Cadmium-Akkus
+
+entladen werden, indem man das
+
+auf. Er ist ein Phänomen, das die Akkus bei falscher Handhabung
+
+Gerät so lange betreibt, bis dieses
+
+schnell außer Gefecht setzen kann. Die technische Erklärung ist, dass
+
+nicht mehr genügend Spannung
+
+bei einer Dauerladung mit niedrigen Strömen oder bei Aufladung vor
+
+erhält. Besser ist es jedoch, ein
+
+der vollständigen Entleerung an der negativen Elektrode bestimmte
+
+Ladegerät mit Entladefunktion zu
+
+metallische Kristalle entstehen. Dadurch verringert sich die verfügbare
+
+verwenden. Ist ein NiCd-Akku einmal durch den klassischen MemoryEffekt lahmgelegt, kann er durch vollständige Entladung mit einem
+
+Nickel-Cadmium/NiCd
+
+speziellen Refreshing-Gerät wieder reaktiviert werden. Der klassische
+Memory-Effekt ist also reversibel.
+Moderne Ladegeräte vermeiden den Memory-Effekt durch exakte Messung des Ladezustands sowohl vor der eigentlichen Ladung als auch
+bei Erreichen der maximalen Kapazitätsgrenze.
+Kapazitätsverlust durch klassischen Memory-Effekt
+
+15
+15
+Blei – Pb
+
+Der Bleiakkumulator gehört zu den ältesten Akku-Systemen über-
+
+Verschlossene Zellen (wartungsfreie Zellen): Diese Zellen ent-
+
+haupt, er ist schon seit Mitte des 19. Jahrhunderts bekannt. Aufgrund
+
+halten ein Überdruckventil, welches erhöhten Betriebsdrücken
+
+des Haupteinsatzgebietes als Auto-, Antriebs- oder Industriebatterie
+
+standhält. Der Elektrolyt wird dabei entweder in einem Gelkissen
+
+wird er in dieser Broschüre nicht ausführlich behandelt. Im Unter-
+
+eingelagert oder in ein Vlies eingebunden. Blei-Akkumulatoren
+
+schied zu anderen Akkumulatoren hat eine Zelle 2 V. Der Bleiakkumu-
+
+mit der Vlies-Technologie nehmen mittlerweile die bedeutendere
+
+lator hat keinen Memory-Effekt, kann also unabhängig vom Entlade-
+
+Marktstellung ein.
+
+zustand immer wieder geladen werden. Es existieren vornehmlich
+zwei Bauweisen:
+
+Positive Elektrode: PbO2 + 3 H+ + HSO4- + 2 e- = PbSO4 + 2 H2O
+
+Offene Zellen: Nachfüllen von Wasser ist möglich (z. B. bei Starterbat-
+
+Negative Elektrode: Pb + H2SO4 = PbSO4 + 2 H+ + 2 e-
+
+terien oder Notstromanlagen)
+
+Gesamtreaktion:
+
+Nickel-Metallhydrid
+
+Pb + PbO2 + 2 H2SO4 = 2 PbSO4 + 2 H2O
+
+NiMH
+
+Batterien dieses Systems bestehen im geladenen Zustand aus den
+
+infrage, für die auch das System NiCd genutzt wurde – der prinzipielle
+
+folgenden Hauptkomponenten: einer positiven Elektrode aus Nickelhy-
+
+Aufbau beider Batterie-Systeme ist identisch.
+
+droxid, einer negativen Elektrode aus einer Wasserstoff speichernden
+Legierung und einem alkalischen Elektrolyten. Der wesentliche Unter-
+
+Bei der NiMH-Technologie kann ein Lazy-Battery-Effekt, vergleich-
+
+schied zwischen NiMH- und NiCd-Batterien besteht darin, dass das
+
+bar mit dem klassischen Memory-Effekt, auftreten. Dieser lässt sich
+
+Cadmium vollständig durch eine Wasserstoff speichernde Legierung
+
+ebenfalls wieder vollständig beheben. Die Ursachen sind im Prinzip
+
+ersetzt ist. Aufgrund der schnellen Innovationszyklen ist die Energie-
+
+die gleichen wie beim klassischen Memory-Effekt (Dauerladungen be-
+
+dichte pro Volumen für NiMH-Akkus inzwischen wesentlich höher als
+
+ziehungsweise nur Teilentladungen), wirken sich aber auf die positive
+
+bei herkömmlichen NiCd-Akkus.
+
+Nickelhydroxid-Elektrode aus. Die Entladespannung sinkt hier nur geringfügig ab, zudem gibt es die gleiche einfache Verjüngungskur, indem
+der Akku von Zeit zu Zeit komplett entladen und wieder aufgeladen
+wird, am besten zwei- bis dreimal hintereinander.
+Für diesen Vorgang ist ein Ladegerät mit Entladefunktion von Vorteil.
+So lassen sich die Folgen des Lazy-Battery-Effekts vollständig beseitigen, und der Akku erhält seine alte Leistungsfähigkeit zurück. Der
+
+Die Entwicklung bei Nickel-Metallhydrid-Batterien geht in verschiedene
+
+Lazy-Battery-Effekt ist weit weniger gravierend als der klassische
+
+Richtungen. Zum einen werden durch Optimierungen der Elektroden
+
+Memory-Effekt. Die Spannung liegt zwar etwas tiefer als normal, die
+
+und Elektrolyte die mögliche Anzahl der Zyklen deutlich verbessert und
+
+Nutzungsdauer bleibt jedoch fast vollkommen erhalten. Wie beim klas-
+
+nähern sich Bereichen, welche bisher nur von Nickel-Cadmium-Zellen
+
+sischen Memory-Effekt nimmt der Akku auch hier keinen Schaden.
+
+erreicht wurden. Zum anderen geht die Entwicklung aber auch zu Zellen
+mit verringertem Innenwiderstand, um deutlich mehr Leistung bei
+gleichzeitig geringerer Erwärmung zu erhalten. Diese Zellen kommen
+unter anderem in Elektrofahrrädern zum Einsatz, wo sie zum Teil auch
+über einen längeren Zeitraum – wie an einer Steigung – Ströme bis zu
+30 Ampere oder mehr liefern müssen. Ein weiterer Fortschritt ist die
+Entwicklung von NiMH-Zellen für Anforderungen im Hochtemperaturbereich. Genutzt werden diese in Notleuchten oder in Back-up-Anwendungen und bieten den Vorteil, dass sie bei gleicher Kapazität ein deutlich kleineres Volumen als Nickel-Cadmium-Batterien mit vergleichbarer
+Kapazität haben. So kommen NiMH-Batterien für viele Anwendungen
+
+Lazy-Battery-Effekt: Vorübergehende Kapazitätsminderung
+
+16
+16
+
+Die Welt der Batterien – Funktion, Systeme, Entsorgung
+Die Welt der Batterien – Funktion, Systeme, Entsorgung
+
+Lithium-Ion
+
+Li-Ion
+
+Schon sehr früh versuchte man, wiederaufladbare Lithium-Batterien zu
+
+Diese Batterien besitzen von allen wiederaufladbaren Systemen die
+
+entwickeln. Heute sind Lithium-Ion-Batterien für viele Einsatzzwecke,
+
+höchste Energiedichte und können daher am meisten Energie bezogen
+
+bei denen es auf hohe Energiedichten ankommt, das System der
+
+auf ein bestimmtes Volumen oder Gewicht abgeben. Wie bei anderen
+
+Wahl. Wiederaufladbare Lithiumbatterien enthalten kein metallisches
+
+Sekundärsystemen hängt die Zyklendauer von der Anwendung ab. Die
+
+Lithium. Hauptanwendungen sind Telekommunikation und tragbare
+
+Energiedichte von Lithium-Ion ist typischerweise etwa das Doppelte
+
+Computer. Als Industriebatterie finden Lithium-Ion-Systeme ihren
+
+einer Standard-Nickel-Cadmium-Batterie. Zudem gibt es noch Potenzial
+
+Einsatz in Hybridfahrzeugen oder in Fahrzeugen mit neuen Bordnetzen.
+
+für höhere Energiedichten. Die Belastungscharakteristik ist recht gut,
+
+Lithium-Ion-Akkus sind nicht kompatibel zu NiCd- oder NiMH-Akkus.
+
+sie verhält sich in Bezug auf die Entladung ähnlich wie Nickel-Cadmium.
+
+Sie erfordern eine spezielle Ladetechnik und ein besonderes Zellenma-
+
+Die hohe Spannung von 3,6 V pro Zelle erlaubt den Bau einzelliger Bat-
+
+nagement.
+
+terien. Die meisten Mobiltelefone arbeiten mit einer Einzelzelle. Eine
+Batterie auf Nickelbasis benötigt zum Erreichen der gleichen Spannung
+drei in Serie geschaltete 1,2 V-Zellen.
+Wiederaufladbare Lithiumbatterien haben keinen Memory- oder LazyEffekt.
+Zur Lagerung empfehlen die meisten Hersteller eine 40-Prozent-Ladung
+in kühler Umgebung.
+
+Zwar funktionieren Lithium-Batterien auch wie galvanische Zellen –
+allerdings findet bei ihnen keine chemische Reaktion der aktiven Materialien statt. Stattdessen werden in positiver Elektrode und negativer
+Elektrode Lithium-Ionen eingelagert, die beim Laden gewissermaßen
+von einer Elektrode zur anderen gepumpt werden. Sie werden quasi
+zwischen positivem und negativem Einlagematerial ausgetauscht.
+Dieses ist eine sicherere Alternative im Vergleich zur LithiummetallGalvanisierung. Die Energiedichte wird dabei hauptsächlich durch das
+Kathodenmaterial bestimmt – gängig ist zurzeit vor allem Kobaltoxid,
+das für Werte von bis zu 180 Wattstunden pro Kilogramm geeignet ist.
+Mit Lithium-Nickel-Kobalt (LiNiCo) lassen sich sogar Energiedichten
+bis 240 Wh/kg erreichen. Die prinzipielle Reaktionsgleichung kann wie
+folgt dargestellt werden:
+Anfangsladung:
+LiCoO2 + C
+
+Li1-xCoO2 + LixC
+
+Beim Entladen findet der umgekehrte Vorgang statt: Lithium-Ionen
+werden vom negativen Material freigesetzt und kehren in das positive
+Material zurück:
+Li1-xCoO2 + LixC
+
+Li1-x+dxCoO2 + Lix-dxC
+
+Lithium-Ion/Li-Ion
+
+17
+
+Lithium-Polymer
+
+Li-Polymer
+
+Seit Jahren arbeiten Wissenschaft und Industrie an der Entwicklung
+
+Jedoch leidet das trockene Lithiumpolymer unter schwacher Leitfähig-
+
+fester Polymerelektrolyte, die konventionelle flüssige organische
+
+keit. Der innere Widerstand ist zu hoch, um die für moderne Kommuni-
+
+Elektrolyte ersetzen sollen und einen klassischen Separator überflüssig
+
+kationsgeräte nötigen Stromspitzen liefern zu können, was zu Proble-
+
+machen. Die Lithium-Polymer-Batterie unterscheidet sich also von an-
+
+men mit der Festplatte von mobilen Computern führt. Eine Erwärmung
+
+deren wiederaufladbaren Lithiumbatterien in der Art des verwendeten
+
+der Zellen auf 60 °C und mehr verbessert zwar die Leitfähigkeit, ist aber
+
+Elektrolyts. Dieser Elektrolyt gleicht einer plastikähnlichen Schicht, die
+
+eine Anforderung, die für tragbare Anwendungen nicht umsetzbar ist.
+
+für Elektrizität nicht leitfähig ist, aber einen Ionenaustausch gestattet
+(Austausch elektrisch geladener Atome oder Gruppen von Atomen).
+Der Polymerelektrolyt ersetzt das traditionelle poröse Trennelement,
+welches mit Elektrolyt gesättigt ist. Da diese Akkus keinen flüssigen
+Elektrolyten besitzen, sind sie absolut auslaufsicher. Anstelle von
+Metallgefäßen als Zellengehäuse können daher Aluminium- oder metallisierte Kunststofffolien Verwendung finden.
+Die Lösung mit trockenem Polymer bietet Vereinfachungen in Bezug auf
+Herstellung, Robustheit, Sicherheit und schlanke Formen an. Es lassen
+sich beliebige Formen realisieren, um beispielsweise in Geräten Hohlräume zu nutzen. Auch besonders flache, folienähnliche Anordnungen
+sind möglich. Mit einer Zelldicke von etwa einem Millimeter können
+Gerätekonstrukteure ihrer Fantasie für Form, Beschaffenheit und Größe
+freien Lauf lassen.
+
+Die meisten kommerziellen Lithium-Polymer-Batterien, die heute
+für die mobile Telefonie verwendet werden, sind Hybridzellen und
+enthalten Gel-Elektrolyte. Die richtige Bezeichnung dafür ist Lithium-
+
+Lithium-Polymer/Li-Polymer
+
+Ion-Polymer. Es ist die einzige funktionierende Polymer-Batterie für den
+mobilen Einsatz. Auch wenn Charakteristik und Leistung der beiden
+Typen (Lithium-Ion-Batterie und Lithium-Ion-Polymer-Batterie) ähnlich
+sind, ist die Lithium-Ion-Polymer-Batterie die einzige, bei der ein fester
+Elektrolyt das poröse Trennelement ersetzt.
+Der Gel-Elektrolyt wird nur beigefügt, um die Ionenleitfähigkeit zu verbessern. Lithium-Ion-Polymer-Batterien finden ihren Markt in Nischenanwendungen immer dann, wenn ultradünne oder flexible Geometrien
+gebraucht werden, zum Beispiel für Kreditkarten.
+
+18
+
+Die Welt der Batterien – Funktion, Systeme, Entsorgung
+
+Dritter Teil: Die Entsorgung
+
+Batterieverordnung
+
+Stiftung GRS Batterien
+
+Die Batterieverordnung (Verordnung über die Rücknahme und Entsor-
+
+Die Stiftung Gemeinsames Rücknahmesystem Batterien (GRS Batte-
+
+gung gebrauchter Batterien und Akkumulatoren – BattV) trat 1998 in
+
+rien) ist ein Gemeinsames Rücknahmesystem der Hersteller. Sie wurde
+
+Kraft. Sie wird seitdem regelmäßig überarbeitet und an die neuesten
+
+1998 von den Firmen Duracell, Energizer, Panasonic, Philips, Saft,
+
+Umweltvorschriften der EU angepasst. Diese Novellierungen betreffen
+
+Sanyo, Sony, Varta und dem Zentralverband der Elektrotechnik- und
+
+auch das Verbot des Inverkehrbringens von Batterien, die definierte
+
+Elektronikindustrie (ZVEI) gegründet. Als Stiftung macht GRS Batterien
+
+Quecksilber-, Cadmium- oder Bleigehalte überschreiten.
+
+keine Gewinne. Zwischenzeitlich (Ende 2007) nutzen 900 Hersteller
+und Importeure die Serviceleistungen von GRS Batterien. Sie bezahlen
+
+Batterien und Akkus dürfen nicht in den Hausmüll, unabhängig vom
+
+einen Entsorgungskostenbeitrag für ihre in Deutschland in Verkehr
+
+elektrochemischen System und Schadstoff-(Schwermetall-)gehalt. Der
+
+gebrachten Batterien und Akkus, der abhängig ist von dem Gewicht
+
+Verbraucher ist der erste in der Rücknahmekette: Er muss gebrauchte
+
+und dem elektrochemischen System.
+
+Batterien und Akkus entweder dort zurückgeben, wo man
+Batterien oder Akkus kaufen kann, oder zu den Annahmestellen der
+
+Diese Hersteller und Importeure, die einen Vertrag mit GRS Batterien
+
+Kommunen bringen. Sowohl Handel als auch Kommunen haben eine
+
+abgeschlossen haben, bringen jährlich fast 1,5 Milliarden Batterien
+
+unentgeltliche Rücknahmepflicht, und zwar unabhängig von der Marke
+
+und Akkus in Verkehr. Die Rücknahme wird von GRS Batterien orga-
+
+und dem System der Batterie. Hersteller und Importeure von Batterien
+
+nisiert, indem flächendeckend Handel, gewerbliche und industrielle
+
+haben nun wiederum die Pflicht, Handel und Kommunen mit geeig-
+
+Verbraucher, öffentliche Einrichtungen oder Kommunen unentgeltlich
+
+neten Sammelbehältern auszustatten und die gesammelten Gerätebat-
+
+mit Sammel- und Transportbehältern ausgestattet werden. Ungefähr
+
+terien unentgeltlich zurückzunehmen.
+
+170.000 solcher Sammelstellen für verbrauchte Batterien und Akkus
+gibt es bereits deutschlandweit. GRS Batterien organisiert anschließend den Transport der gefüllten Behälter, die Sortierung der Batterien
+und Akkus in die elektrochemischen Systeme und die nachfolgende
+Entsorgung (Verwertung oder Beseitigung).
+Im Jahr 2007 nahm GRS Batterien bereits über 14.000 t gebrauchter
+Gerätebatterien und Akkus zurück und mehr als 90 % der Batterien und
+Akkus wurden verwertet. Darum heißt das Motto: „Recycling – Wert-
+
+Batterien gehören nicht in den Hausmüll.
+
+stoffe für die Zukunft“. Mit der umfangreichen Dokumentation aller
+Entsorgungsleistungen gegenüber den Landesbehörden übernimmt
+
+Um diese umfassende Rücknahme zu gewährleisten, bietet die Batterie-
+
+GRS Batterien ebenfalls die Erfolgskontrolle.
+
+verordnung den Herstellern und Importeuren zwei Möglichkeiten: Entweder sie installieren ein individuelles Rücknahmesystem für ihre Batterien
+
+Die aktuellen Zahlen und Fakten zum System werden regelmäßig auf
+
+oder sie schließen sich einem Gemeinsamen Rücknahmesystem an.
+
+der Internetseite www.grs-batterien.de veröffentlicht.
+
+19
+
+Sortierverfahren
+
+Das Röntgenverfahren
+
+Die Sammlung der Gerätebatterien und -akkus erfolgt als Gemisch, da
+
+Nach einer Größensortierung werden die Rundzellen durch einen Rönt-
+
+vom Verbraucher eine Vorsortierung nicht geleistet werden kann. Erst
+
+gensensor geleitet. Das Batterie-System wird anhand der Grauabstufung
+
+nach der Sammlung werden die Batterien und Akkus in die elektro-
+
+im Röntgenbild erkannt. Mit diesem Verfahren können mehr als 26 Batte-
+
+chemischen Systeme getrennt. Diese Sortierung ist wichtig für die
+
+rien pro Sekunde in einer Reinheit von mehr als 98 % sortiert werden.
+
+nachfolgende Verwertung, denn je nach Inhaltsstoff der Batterie gibt es
+unterschiedliche Verwertungsverfahren.
+
+Die Gesamtkapazität der Sortieranlagen beträgt über 15.000 t/a.
+
+Zwei Sortierverfahren werden von GRS Batterien genutzt:
+
+Unabhängig vom Sortierverfahren durchlaufen alle AlMn- und ZnC-Batterien anschließend einen weiteren Sortierschritt, den UV-Sensor. Bis
+zum Jahr 2005 haben europäische Batteriehersteller quecksilberfreie
+AlMn- und einen Teil der quecksilberfreien ZnC-Batterien mit einem
+UV-sensiblen Pigment im Lack versehen. Werden so markierte Batterien
+vom Sensor erkannt, sind diese garantiert quecksilberfrei und können
+kostengünstig verwertet werden.
+
+Das elektromagnetische Verfahren
+Dieses Verfahren identifiziert das System magnetischer Rundzellen
+mithilfe eines elektromagnetischen Sensors. Je nachdem, welches elektrochemische System gerade den Sensor passiert, wird ein anliegendes
+Magnetfeld unterschiedlich gestört. Diese „Störung“ induziert eine
+Spannungsänderung, die man messen kann. So lassen sich mit einer
+Leistung von bis zu sechs Batterien pro Sekunde die jeweiligen Batterie-
+
+Zwar ist bereits seit 2001 das Inverkehrbringen quecksilberhaltiger
+
+Systeme erkennen. Die Sortierreinheit beträgt dabei mindestens 98 %.
+
+Batterien (bis auf Knopfzellen) verboten, doch befinden sich noch
+
+.
+
+immer ältere Batterien mit einem unbekannten Quecksilbergehalt
+im Abfallstrom. GRS Batterien ermittelt durch Analysen regelmäßig
+den Quecksilbergehalt gesammelter AlMn- und ZnC-Batterien. Die
+Ergebnisse zeigen, dass der Quecksilbergehalt kontinuierlich abnimmt.
+Deshalb ist das UV-sensible Pigment nicht mehr notwendig.
+Somit sind gute Voraussetzungen geschaffen, um den Anteil der Batterien, die verwertet werden können, kontinuierlich zu erhöhen.
+
+20
+20
+
+Die Welt der Batterien – Funktion, Systeme, Entsorgung
+Die Welt der Batterien – Funktion, Systeme, Entsorgung
+
+Verwertungsverfahren
+Der Anteil verwertbarer Batterien steigt kontinuierlich. Zurzeit werden
+
+Eines der Verwertungsverfahren, das eine hohe Verwertungsqualität
+
+mehr als 90 % der sortierten Batterien metallurgisch recycelt, Tendenz
+
+garantiert, ist der Hochofen. Hier können quecksilberfreie Alkali-Man-
+
+steigend. Ein Augenmerk liegt dabei auf Verwertungsverfahren, die
+
+gan- und Zink-Kohle-Batterien wiederverwertet und dabei vor allem die
+
+qualitativ hochwertige Produkte erzeugen.
+
+Produkte Roheisen, Zinkkonzentrat und Schlacke erzeugt werden.
+
+Hochofen
+
+Beschickung. Über einen Schrägaufzug
+werden von oben abwechselnd Koks,
+Möller, aber auch Batterien in den Hochofen gegeben. Möller ist zerkleinertes
+Eisenerz mit Zuschlägen wie Kalkstein.
+
+Batterien
+
+Beschickung
+
+Gichtglocke
+
+Gicht. Der obere Teil des Hochofens
+heißt Gicht. Zwei Glocken verschließen
+den Hochofen beim Beschicken gasdicht.
+
+Gichtgas zum Winderhitzer
+
+Gichtgase. An der Gicht treten Gichtgase
+aus. Sie enthalten 20 % brennbares Kohlenmonoxid und 5 % Wasserstoff. Über
+die Gichtgase wird auch das Zink aus den
+Batterien abgeführt. Nach der Reinigung
+wird das Gichtgas verbrannt und beheizt
+die Winderhitzer. In diesen wird aus
+Frischluft Heißluft gemacht.
+
+Wasserkühlung
+
+Wasserkühlung. Die Wand des Hochofens muss ständig gekühlt werden,
+damit sie sich nicht überhitzt.
+
+Größe und Betriebsdauer. Ein Hochofen
+ist bis zu 50 m hoch und kann einen
+Durchmesser von 30 m haben. Er ist etwa
+10 Jahre lang Tag und Nacht in Betrieb.
+
+Heißluft-Ringleitung
+Heißluft vom Winderhitzer
+Ringleitung. Sie bringt über 1200 ˚C
+heiße Luft aus den Winderhitzern in den
+Hochofen ein. Dadurch steigt dort die
+Temperatur beim Verbrennen des Kokses
+bis 2000 ˚C.
+
+Schlacke
+
+Schlacke. Die Schlacke schwimmt auf
+dem Roheisen und verhindert so eine
+Oxidation zu Eisenoxid. Die Schlacke
+kann beim Straßenbau verwendet
+werden.
+
+Reduktionszone. Hier wird das Eisenoxid
+zu Eisen reduziert. Der Sauerstoff des
+Eisenoxids reagiert mit Kohlenstoff und
+Kohlenstoffmonoxid, das beim Verbrennen des Kokses entsteht.
+
+Roheisen
+
+Roheisenabstich. Das flüssige Roheisen
+ist schwerer als die anderen Stoffe. Es
+sinkt daher im Hochofen nach unten.
+Eisen und Mangan aus den Batterien
+werden hier zusammen abgestochen. Das
+Abstichloch für Roheisen befindet sich
+am tiefsten Punkt des Hochofens.
+
+21
+
+Nachfolgend werden einige Verwertungsverfahren für bestimmte Batterie-Systeme ausführlicher beschrieben:
+
+AlMn- und ZnC-Batterien
+
+NiCd-Batterien
+
+Neben der Verwertung im Hochofen werden noch andere Verfahren
+
+In der Regel wird das Cadmium im Vakuum oder in einer inerten Atmo-
+
+genutzt.
+
+sphäre abdestilliert und das zurückbleibende Stahl-Nickel-Gemisch
+
+1. Zum Beispiel können Alkali-Mangan- und Zink-Kohle-Batterien
+
+zur Stahlerzeugung weitergegeben. Das Cadmium findet in der Regel
+
+in einem überwachten Prozess zerkleinert und anschließend der
+
+Verwendung bei der Herstellung neuer NiCd-Batterien.
+
+Eisenanteil vom zinkhaltigen Braunstein (Manganoxid) getrennt
+werden. Der Eisenanteil wird an Stahlwerke weitergegeben und
+der zinkhaltige Braunstein in Drehrohröfen (Wälzöfen) zu Zinkoxid
+
+NiMH-Batterien
+
+weiterverarbeitet.
+Hier liegt der Verfahrensschwerpunkt auf der Wiedergewinnung des
+2. Der Elektrostahlofen erzeugt u. a. aus Batterien Ferromangan, das
+
+Nickels. Wegen der möglichen Wasserstofffreisetzung bei der Zerkleine-
+
+Zink lässt sich als Zinkstaub zurückgewinnen. Eventuell anfallende
+
+rung der NiMH-Batterien muss die Verarbeitung in einer überwachten
+
+Schlacke kommt im Wegebau zum Einsatz. Die elektrische Behei-
+
+Atmosphäre stattfinden. Nach Separation der enthaltenen Kunststoffe
+
+zung erfolgt durch einen zwischen zwei Kohleelektroden gebildeten
+
+liegt ein hochnickelhaltiges Produkt vor, das als wichtiger Legierungs-
+
+Lichtbogen oder durch Widerstandsheizung. Verunreinigungen
+
+bestandteil bei der Stahlproduktion verwendet wird.
+
+durch Brennstoffe und Feuerungsgase können nicht auftreten.
+Deshalb zeichnet sich der aus Elektroöfen gewonnene flüssige
+Stahl, Flussstahl genannt, durch große Reinheit aus.
+
+Lithium-Batterien
+GRS Batterien lässt Lithium-Primärsysteme (LiMnO2 ) über ein vakuum-
+
+Wälzofen
+
+destillatives Verfahren wiederverwerten. Der Schwerpunkt liegt hierbei
+auf Wiedergewinnung von nickelhaltigem Eisen und Ferromangan.
+Zinkhaltiger Braunstein aus Batterien und
+andere zinkhaltige Produkte
+
+Lithium dient dem Prozess als Reduktionsmittel. Das Recycling der
+wiederaufladbaren Lithium-Systeme (Li-Ion bzw. Li-Polymer) erfolgt
+ebenfalls metallurgisch, insbesondere zur Wiedergewinnung von Ko-
+
+Zwischenlager
+
+balt, Nickel und Kupfer.
+
+Mischer
+Wasser
+
+Quecksilberhaltige Knopfzellen
+
+Wälzrohr
+
+Wasser
+
+Gegenwärtig existieren in Deutschland mehrere Techniken zur Aufbereitung quecksilberhaltiger Knopfzellen. Diese Techniken werden vorzugsweise eingesetzt, um Quecksilber aus quecksilberhaltigen Bauteilen
+
+Kühlturm
+Filter
+
+Koks Schlacke
+
+zurückzugewinnen. Hierbei werden die quecksilberhaltigen Abfälle
+vakuothermisch behandelt. Bei Temperaturen zwischen 350 ° C und
+650 ° C verdampft das enthaltene Quecksilber, kondensiert anschlie-
+
+Wälzoxid (Zinkoxid)
+
+ßend bei niedrigeren Temperaturen und kann so dem Wirtschaftskreislauf wieder zugeführt werden. Der quecksilberfreie „entquickte“ Stahl
+wird verkauft.
+
+22
+
+Die Welt der Batterien – Funktion, Systeme, Entsorgung
+
+Durch das Batterierecycling können unter anderem folgende Wertstoffe gewonnen werden:
+
+Rohstoffgewinnung durch Batterierecycling
+
+Eisen
+
+Zink
+
+Eisen in der Batterie
+In der Batterietechnik findet Eisen Verwendung als
+Gehäusematerial sowie als Legierungs-, Matrix- oder
+Trägermaterial für Elektroden. Batterien mit reinen
+Eisen-Elektroden wurden zwar realisiert, konnten sich
+jedoch nicht durchsetzen, zum Beispiel der Nickel-EisenAkkumulator.
+
+Zink in der Batterie
+Metallisches Zink gehört zu den wichtigsten Materialien
+für negative Elektroden (Anoden) in nicht wiederaufladbaren Batterien. Daneben dient bei der ZnC-Batterie ein
+zinkhaltiger Gefäßbecher als negative Elektrode, an der
+Zink zu Zinkoxid oxidiert wird. Zink hat sich als Anodenmaterial in vielen Primär-Batterie-Systemen bewährt. Es
+bildet ein hohes Spannungspotenzial, ist preiswert, leicht
+verfügbar und umwelttechnisch unbedenklich.
+
+Eisen als Wertstoff
+Eisen ist für die Herstellung von Stahl sehr bedeutsam.
+Stähle sind Legierungen des Eisens, die beim Vermischen
+(Legieren) mit anderen Metallen und auch Nichtmetallen (insbesondere Kohlenstoff ) entstehen. Eisen ist
+das weltweit meistverwendete Metall und erreicht eine
+hervorragende Festigkeit und Zähigkeit durch Legierung
+mit anderen Metallen wie Chrom, Molybdän oder Nickel.
+Es wird bei der Herstellung von Fahrzeugen, Schiffen und
+im gesamten Baubereich (Stahlbeton) eingesetzt und ist
+(neben Kobalt und Nickel) eines jener drei ferromagnetischen Metalle, die mit ihrer Eigenschaft den großtechnischen Einsatz des Elektromagnetismus in Generatoren,
+Transformatoren und Elektromotoren ermöglichen.
+
+Zink als Wertstoff
+Zink ist ein bläulich weißes, unedles Metall, welches bei
+Zimmertemperatur und oberhalb 200°C ziemlich spröde
+ist. Zwischen 100°C und 200°C lässt es sich leicht verformen. An der Luft bildet Zink eine witterungsbeständige
+Schutzschicht aus Zinkoxid und -carbonat. Daher verwendet man es trotz seines ansonsten unedlen Charakters
+als Korrosionsschutz.
+
+Stahlbecher
+Zink-Gel (Anode)
+Braunstein (Kathode)
+
+Mangan
+
+Abbildung: Alkali-Mangan Batterie
+
+Mangan in der Batterie
+Mangandioxid (Braunstein) dient als Oxidationsmittel
+und Elektrodenmaterial in Trockenbatterien. Erstmalig
+wurde das Prinzip in einer ZnC-Batterie des Franzosen Georges Leclanché 1860 realisiert. Dort wurde
+die Graphit-Kathode mit Braunstein umhüllt. In der
+Sekundärbatterietechnik spielt Mangan als Bestandteil
+der Mischmetall-Legierungen für NiMH-Akkus eine Rolle
+sowie als Kathodenmaterial von Li-Ion-Akkus.
+Mangan als Wertstoff
+Mangan ist ein grau-weißes, hartes und sehr sprödes
+Metall. Wegen seiner hohen Reaktionsfreudigkeit mit
+Schwefel oder Sauerstoff sowie seiner werkstoffverbessernden Eigenschaften ist es von hoher Bedeutung für
+die Metallindustrie. Mangan dient z. B. zur Desoxidation
+und Entschwefelung oder als festigkeitssteigerndes
+Legierungselement in Stählen. Nach Eisen ist Mangan
+das zweithäufigste Metall.
+
+Nickelhydroxid (Kathode)
+
+Nickel
+Nickel in der Batterie
+Nickel findet in der Batterietechnik hauptsächlich Anwendung als Kathodenmaterial. Seit der Entwicklung des
+Nickel-Cadmium-Akkumulators um 1899 durch Waldemar
+Jungner hat es sich in verschiedenen AkkumulatorenSystemen (z. B. NiCd oder NiMH) bestens bewährt. Da
+Nickelelektroden in der Praxis nur eine recht unbefriedigende elektrische Leitfähigkeit aufweisen, wird das
+Nickel gewöhnlich als Nickelschwamm, auf einer gut
+leitfähigen Matrix aufgebracht, verwendet.
+Nickel als Wertstoff
+Nickel ist ein silbrig-weißes Metall. Es ist hart, schmiedbar, plastisch verformbar und lässt sich ausgezeichnet
+polieren. Es ist wie Eisen und Kobalt ferromagnetisch.
+Nickel ist ein bedeutendes Legierungsmetall, das
+hauptsächlich zur Stahlveredelung verwendet wird.
+Es macht Stahl korrosionsbeständig und erhöht seine
+Härte, Zähigkeit und Verformbarkeit. Mit Nickel legierte
+Stähle werden bei besonders korrosiven Umgebungen
+eingesetzt.
+
+Abbildung: Nickel-Cadmium-Batterie
+
+23
+23
+
+Vierter Teil: Der Ausblick
+Die Zukunft von heute
+Das Periodensystem bietet nur eine begrenzte Anzahl geeigneter
+
+zum Stromversorger: Handys werden in die Jackenärmel eingenäht und
+
+Elemente für eine Batterie. Deswegen wird es wohl auch in naher
+
+der Akku dabei über eingebaute Solarzellen im Kragen wieder aufgela-
+
+Zukunft keine wesentlich neuen Batterie-Systeme geben. Doch keine
+
+den. So geht dem Träger (zumindest bei unbewölktem Himmel) nicht so
+
+Regel ohne Ausnahme: seit einigen Jahren ist das System Nickel-Zink
+
+schnell der Strom aus. Schuhe, die nicht nur die Füße schützen, son-
+
+vermehrt auf dem Markt und verdrängt bei Hochstromanwendungen
+
+dern dem Läufer via eingebauter Sensoren den aktuellen Puls mitteilen,
+
+zum Teil bereits die Alkali-Mangan-Batterie. Nickel-Zink (Abkürzung ZR)
+
+wandeln sich so vom Kleidungsstück zum Kommunikationsdesign. Die
+
+ist ein alkalisches System, bei dem die positive Masse überwiegend
+
+Kleidung der Zukunft soll nicht nur wärmen, sondern ein Klimamanage-
+
+aus Nickel-Hydroxid besteht, die negative Masse überwiegend aus
+
+ment aufrechterhalten. Zentral gesteuert werden dann Anrufe, Puls und
+
+Zink. Eine Entwicklung wird bereits seit einigen Jahren deutlich: die
+
+Herzfrequenz oder „gefühlte“ Klimadaten über den nur wenige Gramm
+
+Miniaturisierung. Immer kleiner werdende Anwendungen erfordern ein
+
+schweren Computer im Rückenteil.
+
+immer komplexer werdendes Energiemanagement auf immer kleinerem
+Raum. Hierfür sind bereits aufladbare Lithium-Polymerbatterien mit
+einem Gewicht von nur noch 8 g auf dem Markt.
+
+Die Zukunft von morgen
+Doch nicht nur Kleidung wird intelligent. Bereits seit einigen Jahren sind
+die sogenannten Smartcards auf dem Markt. Sie sehen zwar aus wie
+eine gewöhnliche Kreditkarte, haben aber nebenbei noch zahlreiche
+andere Funktionen und sind in der Lage, eine begrenzte Anzahl von
+Informationen neu aufzunehmen und zu speichern. Ermöglicht wurde
+dieses mit einer nur 0,4 Millimeter dünnen Lithiumbatterie. Und die
+Entwicklung geht weiter: Ein zukünftig breites Anwendungsgebiet
+werden sicherlich „intelligente“ Zeitungen mit organischen Elektronikkomponenten und aufgedruckten Batterien und Displays haben. Die
+Zeitung der Zukunft wird eine Chimäre zwischen digitaler und gedruckter Welt. Wer freut sich nicht auf bewegte Bilder, die einem aus der
+Tageszeitung entgegenwinken, Minivideos, die einem die schönsten
+Tore des letzten Fußballspiels noch einmal zeigen, oder den Artikel, der
+einem auf Wunsch von der Zeitung selbst vorgelesen wird.
+
+Heute gibt es kaum noch einen Tag ohne Batterien, keinen Anwendungsbereich, bei dem keine mobile Stromversorgung gefragt ist. An
+batteriebetriebene Milchaufschäumer hat man sich ja schon gewöhnt.
+Kaum sichtbar hingegen verrichten etliche „heimliche“ Batterien ihren
+Dienst, zum Beispiel in elektronischen Steuerelementen, die permanent
+den Reifendruck von Fahrzeugen der gehobenen Preisklasse ermitteln,
+in Wärmezählern oder Back-up-Systemen. Salonfähig geworden ist
+mittlerweile auch die sogenannte intelligente Kleidung. Längst aus den
+(blinkenden) Kinderschuhen herausgewachsen, erobert die batteriebetriebene Garderobe die internationale Modewelt. Unter dem Namen
+„Wearable Technologies“ verzichtet kaum ein namhafter Designer auf
+intelligente Kleidung in seinem Portfolio. Die Kleidung selbst wird dabei
+
+24
+
+Die Zukunft von übermorgen
+Strom aus Zucker? Mit einer Batterie, die durch Zucker angetrieben
+wird, könnten umweltbewusste Verbraucher angesprochen werden.
+Ein Prototyp der Biobatterie hat bereits bis zu 50 Milliwatt Leistung
+produziert.
+Trinken wird man den zuckerhaltigen Fitnessdrink also nicht mehr
+selbst, sondern dieser wird dann dem MP3-Player den notwendigen
+Strom liefern. In dem Batterie-System wird mithilfe von Enzymen und
+einem leitenden Metall aus Zucker Strom erzeugt. Die Enzyme sollen
+dabei nur in der Nähe der Anode arbeiten. Eine neu entwickelte Struktur der Kathode sorgt dafür, dass das System mit ausreichend Sauerstoff versorgt und die notwendige Menge Wasser beibehalten wird. Ein
+optimierter Elektrolyt ermöglicht es schließlich, den vergleichsweise
+hohen Energielevel zu erreichen.
+
+Prinzip der „Biobatterie“
+
+Hierbei wurden Forscher von der Photosynthese bei Pflanzen inspiriert.
+Im Inneren der Batterie zerlegen Enzyme den Zucker in seine Bestand-
+
+Glukonolakton
+
+Glukose
+C6H12O6
+
+teile. Dabei werden Elektronen und Wasserstoff frei, der sich mit SauerElektron (e-)
+
+Enzyme
+
+Anode
+
+Mediator
+Wasserstoff-Ion (H+)
+
+stoff aus der Luft zu Wasser verbindet. Die frei werdende Energie speist
+Elektrizität
+
+das elektrische Kleingerät.
+„Zuckerbatterien“ sind natürlich völlig biologisch abbaubar – die Koh-
+
+Separator
+
+lenhydrate zur Herstellung der Batterien könnten überall auf der Welt
+Enzyme
+
+Mediator
+
+Kathode
+Elektron (e-)
+
+O2
+
+H2O
+
+leicht aus Pflanzen gewonnen werden. Von Marktreife kann man allerdings noch nicht sprechen. Ein einzelnes würfelförmiges Batteriemodul
+hat eine Kantenlänge von vier Zentimetern. Vier Stück muss man davon
+zusammenstecken, um z. B. einem MP3-Player Töne zu entlocken.
+
+Zwar hat sich seit Galvanis zuckenden Froschbeinen vor fast 220 Jahren einiges getan, doch ist die Geschichte der Batterie lange nicht am
+Ende. Wer weiß, was uns noch erwartet? Die Broschüre „Die Welt der Batterien“ wird ihre Leser auf dem Laufenden halten.
+
+25
+
+Fünfter Teil: Der Anhang
+
+Glossar
+Aktive Masse: das Material in den Elektroden, das an den Lade- und
+
+Elektron: negativ geladenes Teilchen
+
+Entladereaktionen teilnimmt.
+Inertgas: reaktionsträges Gas
+Anode*: negative Elektrode jeder elektrochemischen Stromquelle
+während der Entladung. Bei Batterien besteht die Anode aus einem
+
+Ion: elektrisch geladenes Teilchen
+
+Metall, beispielsweise Zink oder Blei, das bei Entladung „kalt verbrannt“ wird, das heißt es wird oxidiert.
+
+Kathode*: Bezeichnung für die positive Elektrode jeder elektrochemischen Stromquelle während der Entladung. Bei geladenen Batte-
+
+Elektrode: meistens ein metallischer Leiter, der dazu dient, elek-
+
+rien/Akkus besteht die Kathode aus einem Metalloxid.
+
+trische Ladungsträger in eine Flüssigkeit, in ein Gas, in ein Vakuum
+oder auf die Oberfläche eines festen Körpers zu leiten, zum Beispiel
+
+Sekundärbatterie: wiederaufladbare Batterie, Akku
+
+bei der Elektrolyse.
+Selbstentladung: Kapazitätsverlust einer Zelle während der LageElektrolyse: das Zerlegen einer Ionen leitenden Flüssigkeit (Elektro-
+
+rung. Die Höhe der Selbstentladung wird von der Umgebungstempe-
+
+lyt) bei Anlegen einer ausreichend hohen Spannung. Die Elektroly-
+
+ratur beeinflusst.
+
+seprodukte eines wässrigen Systems sind die Gase Wasserstoff und
+Sauerstoff.
+
+Vakuumdestillativ: temperaturabhängige Abtrennung der einzelnen
+Anteile eines Stoffgemisches im Vakuum.
+
+Elektrolyt: Ionen leitende Flüssigkeit, die im Innern der Batterie/
+des Akkus den funktionsnotwendigen Ladungs- und Stofftransport
+zwischen den Elektroden sicherstellt. Zum Einsatz kommen flüssige,
+pastöse oder feste Elektrolyte.
+
+* Bei einem Primärelement ist die negative Elektrode immer die Anode
+– und die positive Elektrode immer die Kathode. Gleiches trifft beim
+Akku nur bei der Entladung zu.
+
+26
+26
+
+Die Welt der Batterien – Funktion, Systeme, Entsorgung
+
+Abkürzungen
+
+Quellen
+
+AgO: Silberoxid
+
+Verordnung über die Rücknahme und Entsorgung gebrauchter
+Batterien und Akkumulatoren – Batterieverordnung vom 27. März
+
+AlMn: Alkali-Mangan
+
+1998 und erste Verordnung zur Änderung der Batterieverordnung
+vom 26. Juni 2001
+
+ANSI: American National Standards Institute, US-amerikanische
+Stelle zur Normung industrieller Verfahrensweisen. Das deutsche
+
+Battery University, www.batteryuniversity.com (Stand 2007)
+
+Gegenstück ist das Deutsche Institut für Normung e. V. (DIN)
+
+Batterielexikon, www.sat-akku.ch (Stand 2007)
+Fraunhofer, www.ict.fraunhofer.de/deutsch/glossar/
+
+BattV: Verordnung über die Rücknahme und Entsorgung
+
+batterie.html (Stand 2007)
+
+gebrauchter Batterien und Akkumulatoren
+
+Drösser Stahllexikon, www.droesser.de (Stand 2007)
+NATUR PLUS 7-10 Chemie, © 2003 Schroedel Verlag
+
+Hg-frei: quecksilberfrei
+
+Umweltrelevante Inhaltsstoffe in Elektro- und Elektronikgeräten.
+Augsburg, 2002 – ISBN 3-936385-05-X
+
+Hg-haltig: quecksilberhaltig
+Impressum
+HgO: Quecksilberoxid
+Herausgeber:
+IEC: International Electrotechnical Commission, internationales
+
+Stiftung Gemeinsames Rücknahmesystem Batterien
+
+Normierungsgremium im Bereich der Elektrotechnik und Elektronik
+
+Heidenkampsweg 44
+
+mit Sitz in Genf
+
+20097 Hamburg
+www.grs-batterien.de
+
+JIS: Japanese Industrial Standard, japanische Organisation für
+
+info@grs-batterien.de
+
+Normung
+Abbildungen:
+Li, primär: Lithium, nicht wiederaufladbares Lithium-System
+
+Seite 5:
+
+Varta
+
+Seite 6:	NATUR PLUS 7-10 Chemie, © 2003 Schroedel Verlag
+Li-Ion/Li-Polymer: Lithium-Ion, Lithium-Polymer, wiederaufladbares
+Lithium-System
+
+Seite 9:
+
+Siemens, Varta, WMF
+
+Seite 10: Sony, Varta
+Seite 11: Casio, Citizen, Siemens Hörgeräte, Varta
+
+NiCd: Nickel-Cadmium
+
+Seite 12:	Ista, Varta, Volvo
+Seite 13: Varta
+
+NiMH: Nickel-Metallhydrid
+
+Seite 14: Procter & Gamble, Varta
+Seite 15: Philips
+
+ppm: parts per million (zum Beispiel ein Milligramm pro Kilogramm)
+
+Seite 16: Dell, Varta, Volvo
+Seite 17: Panasonic, Varta
+
+Zn-Luft: Zink-Luft
+
+Seite 18: GRS Batterien
+Seite 19:	Uni-Cyc GmbH
+
+ZnC: Zink-Kohle
+
+Seite 20:	NATUR PLUS 7-10 Chemie, © 2003 Schroedel Verlag
+Seite 22: Varta
+Seite 23: Zegna, Plastic Logic
+Seite 24: Sony
+
+27
+
+Recycling –
+Wertstoffe für die
+
+Zukunft
+
+Stiftung Gemeinsames
+Rücknahmesystem Batterien
+Heidenkampsweg 44
+D 20097 Hamburg
+Telefon:
+
++49 (40) 23 77 88
+
+Telefax:
+
++49 (40) 23 77 87
+
+E-Mail:
+
+info@grs-batterien.de
+
+www.grs-batterien.de
+
+

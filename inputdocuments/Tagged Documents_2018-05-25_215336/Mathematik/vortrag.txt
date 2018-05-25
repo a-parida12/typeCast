@@ -1,0 +1,339 @@
+
+Angewandte Statistik - Bericht über den Nachdiplomkurs
+
+
+|Markus Schor                       |November 1999                          |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              INHALTSÜBERSICHT
+
+
+1. Kursinhalte
+2. Partnersuche - Ein Beispiel zur linearen Regression
+3. Schweinezucht - Ein Beispiel zur Varianzanalyse
+
+
+
+
+
+2. Partnersuche - Ein Beispiel zur linearen Regression
+
+Problemstellung:
+Wir betrachten eine Variable x mit festen Werten und eine Zufallsvariable
+Y. Es wird vermutet, dass x eine Einfluss auf Y ausüben könnte. Es wird
+angenommen, dieser Zusammenhang sei ein linearer. Unter dieser Annahme soll
+der Zusammenhang untersucht werden.
+x  heisst Einflussgrösse, Y heisst Zielgrösse.
+
+Das Beispiel:  (Nach Prof. H. Riedwyl)
+In Kontaktinseraten wird häufig das Alter des Inserenten / der Inserentin
+angegeben, aber auch das gewünschte Alter der Partnerin / des Partners. Uns
+interessiert der Zusammenhang zwischen dem Alter der Person, von der ein
+Inserat stammt und dem gewünschten Alter des Partners. Das Wunschverhalten
+von Männern und Frauen ist vermutlich verschieden. Darum wurden nur
+Inserate von Frauen berücksichtigt, die einen Partner suchen.
+In der folgenden Tabelle gibt x das Alter der Inserentin wieder, y das
+Wunschalter des gesuchten Partners. Der Scatter - Plot zeigt, dass die
+Annahme eines linearen Zusammenhangs keineswegs abwegig ist.
+Das Modell:
+Zu einem gegebenen Wert x der Einflussgrösse ist die Zielgrösse Y
+normalverteilt mit einem Mittelwert [pic] und einer von x unabhängigen
+Standardabweichung (.
+Also:
+                                    [pic]
+n = Umfang der Stichprobe (im Bsp.: n = 94)
+Ei = Residuen = Abweichung der Yi von ihrem Mittelwert. Die Residuen sind
+normalverteilt,
+                                    [pic]
+Dadurch ist die Regressionsgerade y = ( + (x definiert. Allerdings sind die
+Parameter (, ( und ( unbekannt.
+( = Intercept (Abschnitt auf der y - Achse)
+( = Steigung
+( = Standardabweichung ; misst die Streuung der Punkte (xi;yi) um die
+Regressionsgerade.
+
+1. Problem: Schätzung der Parameter
+Schätzmethode: Methode der kleinsten Quadrate
+Die Summe
+                                    [pic]
+ist möglichst klein zu machen.
+Herleitung: Siehe Anhang 1
+
+Ergebnis:
+[pic]=2.7769     [pic]
+                                                        [pic]
+Gleichung der Regressionsgeraden:
+                            y = 5.4749 + 0.9636x
+Dabei wurden folgende Abkürzungen verwendet:
+
+                                    [pic]
+[pic] sind Zufallsvariablen.
+Aus den Einflussgrössen lassen sich nun die geschätzten Werte der
+Zielgrössen berechnen:
+                                    [pic]
+und daraus die beobachteten Werte der Residuen:
+                                    [pic]
+Im Hinblick auf die Beurteilung der gemachten Voraussetzungen ist zu
+überprüfen, ob die Residuen annähernd als Stichprobe einer Normalverteilung
+gelten können. Ein Punktediagramm der Wertepaare [pic] kann Aufschluss
+darüber bringen, ob das zugrundeliegende Modell korrekt ist. Bei erfüllten
+Voraussetzungen sollten sich die Residuen im ganzen Bereich von [pic]ohne
+erkennbare Struktur um 0 scharen.
+
+
+
+
+
+
+
+
+2. Problem: Testen von Hypothesen
+Kann man das obige Modell zur Beschreibung der Daten vereinfachen? Unter
+Einhaltung des Signifikanzgrenze von 5% testen wir folgende Hypothesen:
+
+1. Nullhypothese  H0:   ( = 0          gegen   H1:   ( ( 0
+2. Nullhypothese H0:   ( = 1           gegen   H1:   ( ( 1
+
+Verwendet wird ein F - Test, basierend auf der F - Verteilung.
+Testgrösse:            [pic]
+Freiheitsgrade:  im Zähler:       1          im Nenner: n-2 = 92
+[pic]= Minimale Fehlerquadratsumme unter der Nullhypothese
+Signifikanzniveau: 5%
+
+H0 wird verworfen, wenn gilt:
+      [pic] > F0.95(1;92)  (= 95% - Quantil der F - Verteilung)
+      Aus der Tabelle gewinnt man den Wert: F0.95(1;92) = 3.9445
+
+1. Test:    Nullhypothese  H0:   ( = 0       Alternativhypothese H1:   ( (
+0
+Unter H0  reduziert sich unser Modell zu:    [pic]
+[pic]= 912.0383  (Herleitung Anhang 2)
+(     [pic]=26.2715 > F0.95(1;92) = 3.9445   (    H0:  ( = 0 wird verworfen
+Eine Modellvereinfachung dieser Art ist nicht geeignet. Wir gehen also
+davon aus, dass die Gerade, die das Wunschalter in Abhängigkeit vom Alter
+der Inserentinnen darstellt, nicht durch den Ursprung des
+Koordinatensystems geht. Das Wunschalter des Partners ist also nicht
+proportional zum Alter der Inserentin.
+
+2. Test:    Nullhypothese  H0:   ( = 1       Alternativhypothese H1:   ( (
+1
+Unter H0  reduziert sich unser Modell zu:    [pic]
+Jetzt muss ( neu geschätzt und die Testgrösse berechnet werden.
+                                 [pic]=4.25
+[pic] = 720.375  (     [pic]=1.4169 < F0.95(1;92) = 3.9445
+    < Die Nullhypothese H0:  ( = 1 kann nicht verworfen werden.
+
+Das Modell
+                                    [pic]
+           Wunschalter des Partners = 4.25 + Alter der Inserentin
+beschreibt also die Situation innerhalb der gesetzten Signifikanzgrenze von
+5%.
+
+Scatterplot der Residuen vom obigen Modell:
+
+
+
+
+
+
+
+
+
+
+
+Regressionsgerade im Scatterplot:
+
+
+
+
+3. Schweinezucht - Ein Beispiel zur Varianzanalyse
+Problemstellung:
+Die Grundlagen der Varianzanalyse (ANOVA = ANALYSIS OF VARIANCE) stammen
+von Sir Ronald Fisher (F - Verteilung, F - Test). Ihn interessierte die
+Frage: Unterscheiden sich die Eigenschaften verschiedener Pflanzensorten in
+systematischer Weise oder nur zufällig?
+Die ANOVA untersucht also, ob sich verschiedene Gruppen grundsätzlich in
+einer bestimmten Grösse (= Faktoren) unterscheiden, oder ob der beobachtete
+Unterschied nur zufällig ist.
+Methode dazu ist ein Vergleich von Mittelwerten.
+
+Das Beispiel:
+(aus Gilbert, N. (1989) Biometrical Interpretation - Making Sense of
+Statistics in Biology, Oxford, dargestellt von Dr. H.R. Roth in seinem
+Script zur Vorlesung "Varianzanalyse 1")
+
+Vier Würfe von je zwei reinrassigen Schweinegruppen und sechs Würfe aus
+einer Kreuzung der beiden Rassen wurden auf das Längenwachstum pro Tag
+untersucht. Die Aufzucht aller Würfe erfolgte unter gleichen Bedingungen.
+Die folgende Tabelle zeigt das durchschnittliche Längenwachstum pro Tag und
+Wurf, sowie die Mittelwerte und Varianzen.
+
+|  |reine Elternrassen       |Kreuzung      |           |
+|  |Large White |Landrace    |LW ( Landrace |Total      |
+|i |1           |2           |3             |           |
+|= |            |            |              |           |
+|j |Gruppe 1    |Gruppe 2    |Gruppe 3      |           |
+|( |            |            |              |           |
+|1 |y11 =|1.07  |y21 =|1.20  |y31 =|1.35    |           |
+|2 |y12 =|1.20  |y22 =|1.31  |y32 =|1.41    |           |
+|3 |y13 =|0.98  |y23 =|1.36  |y33 =|1.40    |           |
+|4 |y14 =|1.07  |y24 =|1.27  |y34 =|1.37    |           |
+|5 |     |      |     |      |y35 =|1.36    |           |
+|6 |     |      |     |      |y36 =|1.39    |           |
+|  |n1 = |4     |n2 = |4     |n3 = |6       |n =  |14    |
+|  |[pic]|1.080 |[pic]|1.285 |[pic]|1.380   |[pic]|1.267 |
+|  |[pic]|0.0082|[pic]|0.0046|[pic]|0.0006  |[pic]|0.0037|
+
+[pic] Mittelwert der Gruppe i.               [pic] Varianz der Gruppe i.
+[pic] Mittelwert aller Beobachtungen
+
+Frage:      Sind die beobachteten Unterschiede im Längenwachstum zufällig,
+       oder unterscheiden sich die Rassen darin grundsätzlich.
+
+Einen ersten Vergleich der Gruppen bietet das folgende Streudiagramm.
+
+Das Modell:
+An n Objekte in g verschiedenen Gruppen wird eine stetige Zufallsvariable Y
+beobachtet. Die i-te Gruppe umfasst ni Beobachtungen.  [pic]
+                                    [pic]
+(           allgemeines Niveau;   feste, unbekannte Grösse
+[pic] mittleres Niveau der Gruppe i
+(i          Haupteffekt / Gruppierungsfaktor;     feste, unbekannte Grösse
+[pic]       zufälliger Fehler
+
+Das Modell hat g + 1 Parameter bei g Gruppen. Es ist überparametrisiert.
+Folgende Nebenbedingung ist nötig:
+                                    [pic]
+Zum Modell gehören folgende Voraussetzungen:
+ - Die [pic] setzen sich aus vielen Effekten von unbekannten oder nicht
+   erfassbaren Faktoren zusammen.
+ - Die [pic] sind in allen Gruppen normalverteilt. Ihr Erwartungswert ist 0
+   und sie weisen alle die gleiche Varianz [pic] auf., also: [pic]
+   (i.i.d. heisst: independent and identically distributed)
+ - Untereinander sollen die Fehler unabhängig sein, innerhalb und zwischen
+   den Gruppen.
+
+Aus diesen Voraussetzungen und dem Modell folgt sofort:
+                                    [pic]
+
+Schätzprobleme:             [pic]
+Die (i sind schätzbar. Gute Schätzer sind die Mittelwerte der Gruppen.
+Also:
+                                    [pic]
+Im Beispiel:     [pic]
+Die Varianzen der Gruppen:        [pic]
+Die resultierenden Werte sind in obiger Tabelle ersichtlich.
+Die Varianz aller Beobachtungen gemeinsam wird mit dem gewogenen Mittel
+geschätzt:
+                                    [pic]
+im Beispiel:     [pic]
+
+Schätzung der Haupteffekte (i:
+Modell:          [pic]
+Voraussetzung:   [pic]
+Nebenbedingung:  [pic]
+[pic]
+[pic][pic]
+im Beispiel:     [pic]
+
+Testprobleme:
+Mit der einfachen Varianzanalyse wird ein Globaltest durchgeführt.
+
+Nullhypothese:   Zwischen den Gruppen gibt es keine Unterschiede
+Alternativhypothese:   Mindestens eine Gruppe unterscheidet sich von den
+andern.
+
+Im Beispiel:
+H0:   (1 = (2 = (3                oder:           (1 = (2 = (3 = 0
+H1:   für mindestens ein (i gilt: (i ( 0
+
+Es gilt:         (Herleitung siehe Anhang 4)
+
+                                    [pic]
+
+FG    = Freiheitsgrade
+SQ    = Summe der quadrierten Abweichungen
+         (kurz: Summe der Quadrate / engl: sum of squares, SS)
+SQ(total)   = SQ der beobachteten Werte vom totalen Mittelwert.
+SQ(zwischen)     = SQ der Gruppenmittel vom totalen Mittel
+SQ(innerhalb)    = SQ der beobachteten Werte vom zugehörigen Gruppenmittel
+
+Mit der Schätzung der Haupteffekte ergibt sich noch die Beziehung:
+                                    [pic]
+
+Dividiert man die SQ - Werte durch die entsprechenden Freiheitsgrade,
+erhält man die "durchschnittliche quadratische Abweichung" DQ (kurz:
+Durchschnittsquadrate / engl: mean squares, MS)
+
+Die Testgrösse:  [pic] folgt unter H0 einer F - Verteilung
+                            mit g - 1 Freiheitsgraden im Zähler und
+                            mit n - g Freiheitsgraden im Nenner.
+H0 wird verworfen, wenn F > Tabellenwert der entspr. F - Verteilung.
+
+Daraus ergibt sich die typische Tabelle für eine Einweg - Varianzanalyse:
+
+|ANOVA             |FG    |SQ         |[pic]             |[pic]             |
+|Zwischen den      |g - 1 |SQ(zwischen|DQ(zwischen)      |                  |
+|Gruppen           |      |)          |                  |                  |
+|Innerhalb der     |n - g |SQ(innerhal|DQ(innerhalb)     |                  |
+|Gruppen           |      |b)         |                  |                  |
+|Total             |n - 1 |SQ(total)  |                  |                  |
+
+
+Im Beispiel ergeben sich folgende Werte:
+
+|ANOVA             |FG       |SQ         |[pic]        |[pic]              |
+|Zwischen den      |3 - 1 =2 |0.2178     |0.1089       |29.144             |
+|Rassen            |         |           |             |                   |
+|Innerhalb der     |14 - 3 = |0.0411     |0.0037       |                   |
+|Rassen            |11       |           |             |                   |
+|Total             |14 - 1=13|0.2589     |             |                   |
+
+
+Der Wert aus der F - Verteilung mit 2 und 11 Freiheitsgraden beträgt 3.9823
+(Tabelle).
+
+( F = 29.144 > 3.9823 ( H0 muss verworfen werden.
+
+Antwort:
+Die drei Gruppen haben kein einheitliches Niveau. Die beobachteten
+Unterschiede im Längenwachstum sind nicht zufällig.
+
+-----------------------
+[pic]
+
+[pic]
+
+                                    [pic]
+
+[pic]
+
+                                    [pic]
+
+                                    [pic]
+
+                                    [pic]
+
+                                    [pic]
+
+

@@ -1,0 +1,5938 @@
+Wenn das Auto
+die Kontrolle übernimmt
+Ein Blick in die Zukunft des autonomen Fahrens
+
+Wenn das Auto die Kontrolle übernimmt
+Ein Blick in die Zukunft des autonomen Fahrens
+
+I.
+II.
+III.
+
+DAS AUTONOME FAHRZEUG KOMMT …
+
+4
+
+DIE ENTWICKLUNG DES AUTONOMEN FAHRENS
+
+6
+
+1.
+2.
+3.
+4.
+
+Stufen der „Auto-nomie“
+Zentrale Funktionen selbstfahrender Fahrzeuge
+Das zukünftige Ökosystem des autonomen Fahrens
+Szenarien der Marktdurchdringung
+
+6
+8
+12
+15
+
+SZENARIO EINS (UM 2020):
+Autonome Fahrzeuge erobern die Straßen
+
+18
+
+1.
+2.
+3.
+4.
+5.
+
+19
+20
+21
+22
+22
+
+Teilen statt Besitzen
+Autonome Fahrzeuge im Personen- und Kraftverkehr
+Minimale Änderungen im Fahrgastraum
+Neue Versicherungsfragen
+Szenario eins – das Wichtigste im Überblick
+
+SZENARIO ZWEI (UM 2050):
+Überwiegend autonome Fahrzeuge auf den Straßen
+
+24
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+
+24
+25
+26
+27
+28
+29
+30
+32
+34
+37
+38
+
+Die Automobilbranche wandelt sich – neuer Aftersales
+Neues Verhältnis zwischen Kunden und OEM
+Mechaniker werden zu IT-Spezialisten
+Carsharing nimmt weiter zu
+Werden Versicherungen überflüssig?
+Neue Formen der Gebührenerhebung und Rechnungsstellung
+Was passiert mit Führerschein und Fahrlehrern?
+Der Fahrzeuginnenraum als Wohnzimmer oder Büro
+Personennahverkehr wird flexibler
+Wie verändern sich der Verkehr, Städte und das Leben?
+Szenario zwei – das Wichtigste im Überblick
+
+Wenn das Auto die Kontrolle übernimmt – ein Blick in die Zukunft des autonomen Fahrens
+
+IV.
+
+V.
+
+www.nttdata.de
+
+SZENARIO DREI (UM 2060):
+Eine Welt mit ausschließlich vollautomatisierten Fahrzeugen
+
+40
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+40
+43
+44
+47
+48
+51
+51
+52
+
+Carsharing als Zukunftsmodell
+Herausforderungen für Autobauer
+Das Aftersales-Geschäft der Zukunft
+Möglichkeiten der Freizeitnutzung während der Fahrt
+Die Städte wandeln sich
+Positiver Einfluss auf die Umwelt
+Autonome Fahrzeuge übernehmen Jobs
+Szenario drei – das Wichtigste im Überblick
+
+VORAUSSETZUNGEN FÜR AUTONOME FAHRZEUGE IM ALLTAG
+
+54
+
+1.
+2.
+3.
+4.
+5.
+
+56
+64
+66
+67
+71
+
+Technologische Reife
+Sicherheit
+Rechtliche Rahmenbedingungen
+Gesellschaftliche Akzeptanz
+Preisliche Wettbewerbsfähigkeit
+
+FAZIT
+
+74
+
+ÜBER DEN AUTOR
+
+77
+
+QUELLEN
+
+78
+
+DAS
+AUTONOME
+FAHRZEUG
+KOMMT
+
+… daran besteht kein Zweifel. Die Frage ist nur:
+
+WANN
+werden die ersten autonomen Fahrzeuge auf den Straßen erscheinen?
+
+WIE
+wird sich die Anzahl autonomer Fahrzeuge am Markt entwickeln?
+
+WELCHE
+Voraussetzungen gibt es für den Erfolg autonomer Fahrzeuge?
+
+Welche technologischen und gesetzlichen Voraus-
+
+Veränderungen, die das autonome Fahren mit sich
+
+setzungen müssen erfüllt sein bzw. sind zu schaffen
+
+bringen wird – für die Fahrer ebenso wie für die Automobil-
+
+und was können (und müssen) Automobil- und Zuliefer-
+
+und Zulieferindustrie. Dabei greifen wir jeweils zentrale
+
+industrie bereits heute tun, um die Weichen für die
+
+Punkte heraus, zum Beispiel die komplette Umgestaltung
+
+Zukunft zu stellen – eine Zukunft, die dem autonomen
+
+des Fahrgastraums, den vollkommen neuen Stellenwert
+
+Fahren gehört?
+
+von Carsharing oder grundlegende Änderungen im
+Aftersales.
+
+Auf diese Fragen gibt Ihnen das vorliegende Whitepaper
+von NTT DATA Antworten: Wir, die wir seit über einem
+
+Neben den drei Zukunftsszenarien befassen wir uns
+
+halben Jahrhundert einen klaren Schwerpunkt auf
+
+eingehend mit der Frage, was die elementaren Bausteine
+
+innovativen
+
+des autonomen Fahrens sind – im Hinblick auf Techno-
+
+IT-Lösungen
+
+für
+
+die
+
+Automobil-
+
+und
+
+Zulieferindustrie haben, skizzieren in drei Szenarien
+
+logie, Sicherheit und rechtliche Rahmenbedingungen.
+
+für die Jahre 2020, 2050 und 2060 eine Reihe von
+
+Wir wünschen Ihnen eine interessante Lektüre!
+
+www.nttdata.de
+
+I.
+
+DIE ENT WICK LUNG
+DES AU TONOMEN FAHRENS
+
+Bei der Betrachtung des autonomen Fahrens ist es wichtig zu verstehen, dass
+„autonom“ nicht ausschließlich vollkommen selbstfahrende Fahrzeuge meint, welche
+keinen Fahrer mehr benötigen. Sondern vielmehr verwenden Hersteller und öffentliche Institutionen unterschiedliche Stufen der Automatisierung beziehungsweise
+der Autonomie. In diesem Whitepaper beziehen wir uns auf die folgende Einteilung
+basierend auf der Norm SAE J3016:
+1. Stufen der „Auto-nomie“
+Die verschiedenen Entwicklungsstufen des autonomen Fahrens
+
+0
+1
+2
+3
+4
+5
+
+STUFE 0
+allein der Fahrer fährt – kein eingreifendes System aktiv
+
+STUFE 1
+assistiertes Fahren – einzelne Funktionen werden unterstützt
+
+STUFE 2
+assistiertes Fahren – mehrere Funktionen werden unterstützt
+
+STUFE 3
+bedingt automatisiertes Fahren – automatisiertes Fahren in speziellen Situationen
+(Stau, Autobahnassistent) möglich; Fahrer muss eingreifen, falls erforderlich
+
+STUFE 4
+hochautomatisiertes Fahren – automatisiertes Fahren in den meisten
+Situationen möglich; Notfallprogramm, falls Fahrer nicht eingreift
+
+STUFE 5
+vollautomatisiertes Fahren – fahrerloses Fahren
+
+D I E E N T W I C K LU N G D ES AU TO N O M E N FA H R E N S
+
+I.
+
+Stufe 1 haben, abgesehen von Oldtimern, alle Fahrzeuge
+
+und könnten abhängig von den Rahmenbedingungen
+
+heute bereits erreicht – die meisten sogar Stufe 2.
+
+bald auf den Markt kommen. Viele Hersteller avisieren für
+
+Funktionen wie die dynamische Abstandsregelung, der
+
+den Markteintritt das Jahr 2020. Bis jedoch Fahrzeuge der
+
+Notbrems- oder Spurhalteassistent sind heute bereits in
+
+Stufe 5 in nennenswerter Anzahl verkauft werden, wird
+
+Premium-Modellen verfügbar. Automatisches Einparken
+
+es wohl noch einige Jahre dauern. Unserer Einschätzung
+
+ist ebenfalls in einer Reihe von Modellen nutzbar. Technisch
+
+nach wird eine verstärkte Verbreitung um 2050 zunächst
+
+gesehen stehen Fahrzeuge für die Stufen 3 und 4 bereit
+
+über das Premium-Segment beginnen.
+
+www.nttdata.de
+
+2. Zentrale Funktionen selbstfahrender Fahrzeuge
+
+VORAUSSCHAUENDE ROUTENOPTIMIERUNG
+Mittels Internetverbindung und präziser Daten zu Standort und Verkehr kann die künstliche Intelligenz eines
+selbstfahrenden Fahrzeugs die Route vorausschauend
+optimieren, zu viel Verkehr vermeiden und die Fahrzeit
+verkürzen. Mithilfe der Daten lässt sich auch die optimale
+Startzeit ermitteln, um rechtzeitig am Ziel anzukommen.
+Möglicherweise wird man in Zukunft analog zum Flugverkehr ein Startfenster zugeteilt bekommen.
+
+6min
+quicker
+
+3min
+slower
+
+KOLLABORATIVER SPURWECHSEL
+ODER KOLLABORATIVES ABBIEGEN
+Das System sucht per Radar, Laser oder Kamera nach einer
+Lücke, um sicher die Spur zu wechseln oder abzubiegen.
+Bevor das System den Prozess in Gang setzen kann,
+muss es den Spurwechsel oder das Abbiegemanöver an
+die Fahrzeuge in der Umgebung kommunizieren – durch
+Blinken oder Car-to-Car-Kommunikation.
+
+KOLLISIONSVERMEIDUNG
+Das System basiert auf Radar-, Laser- oder KameraTechnologie, die Zusammenstöße auf Basis einer stetigen
+360-Grad-Überprüfung der Umgebung (andere Fahrzeuge, Fußgänger, Fahrräder) verhindert. Das System
+leitet eine Notbremsung oder ein Ausweichmanöver ein,
+wenn eine Kollision droht.
+
+Wenn das Auto die Kontrolle übernimmt – ein Blick in die Zukunft des autonomen Fahrens
+
+SPURHALTEASSISTENT
+Ohne menschliche Steuerung braucht das selbstfahrende
+Fahrzeug Funktionen, um konstant die Spur halten zu
+können: Sensoren oder Kameras müssen die Spur
+erkennen und das Fahrzeug innerhalb der Fahrbahnmarkierung halten. Sie müssen schnell auf ungewöhnliche
+Bewegungen des Fahrzeugs reagieren und es wieder auf
+den richtigen Weg bringen.
+
+AMPELSTOPP UND
+VERKEHRSSCHILDERKENNUNG
+Das selbstfahrende Fahrzeug muss Verkehrsschilder und
+Ampeln erkennen und sich entsprechend der Regeln
+verhalten. Dies kann durch Kameras passieren, die
+Ampeln oder Schilder erkennen können, oder durch Car2-X-Kommunikation, bei der Ampeln oder Straßenschilder
+entsprechende Informationen direkt an das Fahrzeug
+senden. In Zukunft könnte das Fahrzeug auch dynamische
+Verkehrsregelinformationen von einer zentralen Stelle
+erhalten.
+
+KOLLABORATIVE
+GESCHWINDIGKEITSKONTROLLE
+Durch Radarsensoren misst das Fahrzeug den Abstand zu
+Hindernissen und anderen Fahrzeugen in der Umgebung.
+Mit Sensordaten kann die Technologie die Geschwindigkeit an die Verkehrssituation anpassen und plötzliche
+Geschwindigkeitsänderungen aufgrund von umliegenden
+Einflüssen vorhersagen. So ist es möglich, einen sicheren
+Abstand zu wahren und die Geschwindigkeit entsprechend
+anzupassen – für einen optimalen Verkehrsfluss.
+
+www.nttdata.de
+
+D I E E N T W I C K LU N G D ES AU TO N O M E N FA H R E N S
+
+I.
+
+AUTOMATISCHE ABSTANDSHALTUNG
+Radarsensoren messen den Abstand zum nächsten Fahrzeug. Sensordaten sorgen dafür, dass das Fahrzeug seine
+Geschwindigkeit an das voranfahrende Fahrzeug anpasst.
+So ist jederzeit ein sicherer Abstand gegeben und die
+Geschwindigkeitsvorschriften werden eingehalten.
+
+AUTOMATISCHES EINPARKEN
+Mit Hilfe von Kameras und Ultraschall-Technologie findet
+das Fahrzeug eine Parklücke und parkt eigenständig ein.
+Durch Kommunikation mit dem Connected Car Backend ist das autonome Fahrzeug stets über aktuell oder
+prognostiziert verfügbare Parkplätze informiert.
+
+SELBST-TANKEN/SELBST-AUFLADEN
+Selbstfahrende Fahrzeuge, ob elektrisch oder (noch)
+kraftstoffbetrieben, fahren selbstständig zur Ladestation
+oder zur Tankstelle. Die Betankung erfolgt dann entweder
+durch einen Menschen oder durch Robotersysteme,
+die Netzstecker oder Kraftstoffdüsen an das Fahrzeug
+anschließen.
+
+Wenn das Auto die Kontrolle übernimmt – ein Blick in die Zukunft des autonomen Fahrens
+
+KOLLABORATIVES ÜBERHOLEN
+Ein Fahrzeug kommuniziert ein geplantes Überholmanöver an die umgebenden Fahrzeuge. Diese passen ihr
+Verhalten entsprechend an, sodass der Überholvorgang
+problemlos erfolgen kann.
+
+FAHREN IN KOLONNEN (PLATOONING)
+Mehrere Fahrzeuge (vor allem LKWs) fahren dicht hintereinander, um den Kraftstoffverbrauch durch verringerten
+Luftwiderstand zu reduzieren.
+
+WARTUNGS- UND REPARATURMANAGEMENT
+Vollautomatisierte Fahrzeuge können eine erforderliche
+Reparatur oder Wartung selbst erkennen und sich eigenständig verwalten. Die Fahrzeuge können Ersatzteile
+bestellen, einen Termin mit der Werkstatt vereinbaren und
+selbst dort hinfahren. Auch der Abrechnungs- und Bezahlvorgang kann – nach Freigabe durch den Eigentümer –
+fast vollständig automatisiert werden.
+
+www.nttdata.de
+
+D I E E N T W I C K LU N G D ES AU TO N O M E N FA H R E N S
+
+I.
+
+3. Das zukünftige Ökosystem des autonomen Fahrens
+OVER-THE-AIR SOFTWARE UPDATE
+
+CYBER-SICHERHEIT UND
+
+Regelmäßige Over-the-Air Software
+Updates – für neue Funktionen, mehr
+Kundennutzen und vor allem mehr
+Sicherheit.
+
+VERTRAULICHKEIT
+Schutz der Fahrzeug-IT und
+vernetzter Backend-Systeme
+vor Hackerangriffen ebenso
+wie Schutz personenbezogener
+Daten und der Privatsphäre
+der Insassen.
+
+VERKEHRSINFRASTRUKTUR
+NEUES GESCHÄFTSMODELL
+Carsharing-Plattformen für
+autonome Fahrzeuge werden
+entstehen. Nutzer können
+Fahrzeuge buchen und autonome Fahrzeuge können ihre
+voraussichtliche Verfügbarkeit
+ständig aktualisieren.
+
+In der Welt des autonomen Fahrens kann
+die Verkehrsinfrastruktur auf das absolute
+Minimum beschränkt werden. Denn die
+Autos kennen immer die aktuellste
+virtuelle Beschilderung.
+
+NAVIGATION
+Verwendung eines hochgenauen Satellitenpositionierungssignals in Kombination mit exakten
+Straßenkarten für eine detaillierte Positionsbestimmung.
+ELEKTRONISCHE STEUEREINHEITEN
+UND FUNKTIONEN
+ECUs erhalten Befehle, um Funktionen des Fahrzeugs wie
+Beschleunigung, Bremse oder Lenkung zu steuern.
+DATEN VOR ORT
+
+AUFTANKEN UND AUFLADEN
+Autonome Fahrzeuge werden sich eigenständig
+auftanken oder aufladen lassen. Dies wird
+mittels Induktion oder durch Roboter an
+der Ladestation oder Tankstelle erfolgen.
+PRIVATER EIGENTÜMER UND
+FLOTTENBETREIBER
+Zukünftig werden mehr Fahrzeuge
+im Flottenbesitz als im Privatbesitz
+sein. Das Fahren wird zur
+Mobilitätsdienstleistung.
+
+RENT
+
+4
+
+DRIVE
+
+DriveShare
+
+Das massive Datenvolumen eines
+Fahrzeugs kann nicht über das
+Mobilfunknetz übertragen und
+verarbeitet werden. Eine lokale
+Datenverarbeitung ist somit
+erforderlich.
+HOCHENTWICKELTES
+FAHRERASSISTENZSYSTEM (ADAS)
+Das Fahrzeug nutzt Sensordaten und externe Daten
+(z. B. über Verkehr, Wetter, Car-to-X), um das
+nächste Fahrmanöver optimal zu bestimmen.
+
+NEUE INNENRAUMGESTALTUNG
+Das autonome Fahrzeug wird zum zweiten
+Wohnzimmer oder Büro mit hoch
+ausgereiftem Infotainment. Dafür werden
+spezielle Displays und Innenraumausstattungen entwickelt.
+
+I.
+ELEKTRONISCHE
+BEZAHLMÖGLICHKEITEN
+Bezahlmöglichkeiten für
+Infotainment-Dienste, Maut,
+Parkgebühren oder Wartung und
+Reparatur sowie Auftanken bzw.
+Aufladen des Fahrzeuges und
+weiterer Dienstleistungen müssen
+geschaffen werden und vom
+Eigentümer steuerbar sein.
+
+5G
+LIDAR
+Generiert ein
+360-Grad-Bild
+der Umgebung
+
+HÄNDLER UND WERKSTATT
+MOBILFUNK MINDESTENS 5G
+Bessere Netze mit höherer Leistungsfähigkeit für die zunehmende Nutzung
+von Infotainment- und Streaming-Diensten
+während des Fahrens ebenso wie
+direkte Car-to-X-Kommunikation.
+
+Autonome Fahrzeuge wissen,
+wann Instandhaltungsmaßnahmen
+notwendig sind: Sie vereinbaren
+eigenständig Termine mit der
+Werkstatt. Somit ist der Kunde,
+außer bei der Zahlungsabwicklung, nicht mehr persönlich
+in den Vorgang involviert.
+
+KAMERAS
+Um den Abstand zu anderen Objekten zu bestimmen,
+erzeugen Kameras Bilder von Objekten in der Umgebung.
+Zudem sind Kameras nötig, um Verkehrszeichen und Signale
+zu erfassen ebenso wie sich bewegende Objekte (z. B. Fahrradfahrer und Fußgänger) in der Umgebung des Fahrzeugs.
+RADAR
+Fernbereichssensoren zum
+Messen der Entfernung zwischen
+Auto und Hindernissen.
+ULTRASCHALL
+Nahfeldsensoren –
+z. B. fürs Einparken
+
+ÖFFENTLICHE INFRASTRUKTUR
+Autonome Fahrzeuge werden fähig sein,
+direkt mit der öffentlichen Infrastruktur
+zu kommunizieren: z. B. um in
+Parkhäusern Stellflächen zu
+buchen oder zu bezahlen.
+
+BLACKBOX
+Aufzeichnung sämtlicher Fahrzeugmanöver, Sensordaten und ECU-Befehle für die Untersuchung
+von Unfällen und Zwischenfällen.
+
+VERKEHRSTEILNEHMER
+Über seine Sensoren und Car-to-X-Kommunikation
+kommuniziert das autonome Fahrzeug direkt mit
+anderen Verkehrsteilnehmern – für einen störungsund unfallfreien Verkehr.
+
+PARKHAUS
+
+4. Szenarien der Marktdurchdringung
+Elon Musk sagte 2014 voraus, dass die Technologie für
+
+Prozent an der Gesamtheit verkaufter Neuwagen immer
+
+vollständig selbstfahrende Fahrzeuge in fünf bis sechs
+
+noch sehr klein sein. Doch mit steigendem Interesse an
+
+Jahren vorhanden sein werde1. Dies würde eine Serienreife
+
+der Technologie, Weiterentwicklungen und sinkenden
+
+ab 2020 implizieren. Eine Studie aus dem Jahr 2015
+
+Preisen aufgrund von Skaleneffekten wird der Anteil
+
+geht davon aus, dass Verbraucher die neue automobile
+
+autonomer Fahrzeuge an den Neuverkäufen rasch auf
+
+Technologie bis 2030 angenommen haben werden. Bis
+
+50 Prozent in den frühen und 100 Prozent in den späten
+
+2050 sollen autonome Fahrzeuge sogar das vorrangige
+
+2040ern steigen. Dann wird der Anteil selbstfahrender
+
+Fortbewegungsmittel werden .
+
+Fahrzeuge im gesamten Fahrzeugbestand des Marktes
+
+2
+
+schnell zunehmen.
+Auf der anderen Seite sagt Chris Dixon3, Partner bei der
+Investment Firma Andreessen Horowitz im Silicon Valley,
+
+Die autonome Technologie wird die durch Menschen
+
+dass die Straßen schon in zwei bis zehn Jahren voll mit
+
+verursachten Unfälle und Umweltschäden reduzieren. Eine
+
+fahrerlosen Fahrzeugen sein werden – je nachdem,
+
+gesetzliche Verpflichtung zum flächendeckenden Einsatz
+
+welches Land man betrachte.
+
+der Technologie, zum Beispiel bei der Einführung von
+Sicherheitsgurten oder Airbags, erscheint auch bei „Self-
+
+Diese unterschiedlichen Aussagen belegen die Schwierig-
+
+driving Cars“ (SDC) realistisch. Auf diesem Wege wird
+
+keit bei der Prognose der Verbreitung selbstfahrender
+
+eine 100-prozentige Marktdurchdringung in einem über-
+
+Fahrzeuge. Neben dem Marktbedarf gibt es viele weitere
+
+schaubaren Zeitraum bis ungefähr 2060 möglich.
+
+Faktoren, die Einfluss auf die Marktdurchdringung haben.
+So muss man beispielsweise berücksichtigen, wie
+
+Die vorliegenden Einschätzungen basieren auf der globalen
+
+viele Neufahrzeuge jedes Jahr verkauft werden, wie der
+
+Annahme, dass neu registrierte Fahrzeuge ab dem
+
+Fahrzeugbestand im Markt ist und wie viele alte Fahrzeuge
+
+Jahr 2045 mindestens hochautomatisiert (Stufe 4) sein
+
+jedes Jahr durch Verschrottung oder Stilllegung aus dem
+
+müssen und nach einer Umrüstungsphase von 15 Jahren
+
+Verkehr genommen werden.
+
+ab 2060 ausschließlich autonome Fahrzeuge (Stufe 4
+und 5) auf den Straßen erlaubt sind. Damit wäre ab
+
+Darüber hinaus sind für eine verlässliche Prognose Daten
+
+dem Jahr 2045 eine Phase der Umrüstung zu erwarten.
+
+aus der Vergangenheit und Vorhersagen über Trends in
+
+Nicht und bedingt autonome Fahrzeuge müssen von den
+
+der Automobilindustrie notwendig. Experten rechnen
+
+Straßen weichen. Deshalb wird die Anzahl stillgelegter
+
+für die Zukunft mit stagnierenden oder gar rückläufigen
+
+bzw. verschrotteter Fahrzeuge beträchtlich steigen.
+
+Autoverkäufen in den reifen Märkten. Zudem werden
+
+Infolgedessen wird die Zahl verkaufter Neuwagen in dieser
+
+Geschäftsmodelle wie Carsharing den Abverkauf an
+
+Zeit ebenfalls steigen.
+
+Neuwagen im Markt weiter negativ beeinflussen.
+Sobald die gesetzliche Vorschrift für die Verpflichtung
+Weltweit gibt es derzeit rund 1,2 Milliarden Fahrzeuge im
+
+von autonomen Fahrzeugen in Kraft tritt, wird die
+
+Bestand. Rund 73 Prozent davon entfallen auf die ent-
+
+Wachstumsrate verkaufter Neuwagen in unserem Szenario
+
+wickelten Märkte, was etwa 870 Millionen Fahrzeugen
+
+zunächst steigen. Ihren Höhepunkt wird diese in der Mitte
+
+entspricht. Heute besitzt rund jede sechste Person welt-
+
+der 15-jährigen Umrüstungsperiode erreichen und danach
+
+weit ein Fahrzeug und in den entwickelten Märkten ist es
+
+wieder abflachen, bis alle verbliebenen nicht autonomen
+
+sogar jeder Dritte.
+
+Fahrzeuge ersetzt sein müssen. Zum Ende dieser Periode
+ist ein Sinken der Anzahl verkaufter Neuwagen zu erwarten.
+
+Um 2020, wenn selbstfahrende Fahrzeuge voraussichtlich
+
+Denn der Markt wird dann laut unserer Berechnungen mit
+
+im Handel erhältlich sein werden, wird die Zahl verkaufter
+
+autonomen Fahrzeugen gesättigt sein.
+
+autonomer Fahrzeuge mit einem Anteil von rund einem
+
+www.nttdata.de
+
+D I E E N T W I C K LU N G D ES AU TO N O M E N FA H R E N S
+
+I.
+
+Im vorliegenden Whitepaper möchten wir die Verbreitung
+
+Erfahrungen aus der Vergangenheit. Diese Szenarien
+
+des autonomen Fahrens anhand von drei Szenarien
+
+der Marktentwicklung erheben nicht den Anspruch einer
+
+detaillierter betrachten. Die Einteilung der vorgestellten
+
+umfassenden Marktanalyse und -prognose. Vielmehr
+
+Szenarien basiert auf einer Reihe von Annahmen und
+
+verfolgen wir damit das Ziel, die mögliche Entwicklung des
+
+Einschätzungen sowie Vorhersagen für die Zukunft und
+
+Ökosystems rund um die SDCs zu formulieren.
+
+Die drei Szenarien der Marktdurchdringung des autonomen Fahrens
+(Basierend auf eigenen Berechnungen)
+Anteil autonomer
+Fahrzeuge im Bestand
+inkl. Neuwagenverkäufe
+
+Entwicklung in
+reifen Märkten:
+
+100 %
+
+100 %
+90 %
+
+2045 – Gesetzesvorgabe:
+Neuzulassung nur noch
+für hoch- bzw. vollautomatisierte Fahrzeuge
+
+80 %
+70 %
+
+EU/USA/Kanada/
+urbanes China/APAC
+
+60 %
+
+50 %
+
+50 %
+40 %
+30 %
+20 %
+10 %
+0%
+2017
+
+2027
+
+2037
+
+2047
+
+2020
+
+2057
+
+2050
+
+2067
+
+2077
+
+2060
+
+SZENARIO 1
+
+SZENARIO 2
+
+SZENARIO 3
+
+Autonome Fahrzeuge
+erobern die Straßen
+
+Autonome
+Fahrzeuge
+gewinnen die
+Mehrheit auf
+den Straßen
+
+Ausschließlich
+autonome Fahrzeuge
+
+HINWEIS ZU UNSEREN DREI SZENARIEN
+Im Folgenden werden wir im Detail auf die drei dargestellten Szenarien des autonomen Fahrens
+eingehen und die jeweiligen Auswirkungen in unterschiedlichen Dimensionen beleuchten.
+Die Szenarien bauen inhaltlich aufeinander auf. Deshalb werden wir in den Szenarien zwei und drei
+jeweils nur die Neuerungen bzw. die Änderungen beschreiben.
+
+Wenn das Auto die Kontrolle übernimmt – ein Blick in die Zukunft des autonomen Fahrens
+
+D I E E N T W I C K LU N G D ES AU TO N O M E N FA H R E N S
+
+I.
+
+„Wir werden in 20 Jahren nur noch mit
+Sondererlaubnis selbstständig Auto fahren
+dürfen, weil wir das größte Risiko sind als
+Menschen. Es wird das autonome Fahren geben.
+Das wird sehr viel ressourcenschonender sein.“
+Angela Merkel, Bundeskanzlerin der Bundesrepublik Deutschland
+
+www.nttdata.de
+
+II.
+
+SZEN ARIO EINS (UM 2020):
+Autonome Fahrzeuge erobern die Straßen
+
+Mit der stetigen Weiterentwicklung autonomer Technologie kommen erste selbstfahrende Autos serienmäßig auf die Straßen und verändern nachhaltig Verkehr, Ökosystem und unser Leben.
+
+Hochautomatisierte Fahrzeuge in Serie.
+
+Neue Geschäftsmodelle.
+
+Szenario eins illustriert die nahe Zukunft um das Jahr
+
+Die Automobilindustrie steht vor einem grundlegenden
+
+2020, in welcher autonome Fahrzeuge zwar bereits in
+
+Wandel in der Ausrichtung ihrer Geschäftsmodelle.
+
+Serie verkauft werden, jedoch noch wenig verbreitet
+
+Autonomes Fahren wird sich zunehmend am Endkunden
+
+sind. Dabei handelt es sich um hochautomatisierte
+
+ausrichten und mit der Entstehung neuer Services
+
+Modelle (Stufe 4), bei denen das Auto selbstständig fährt,
+
+verbunden
+
+der Fahrer aber bei kritischen Situationen noch immer
+
+Ökosystem noch nicht abgebildet sind. Im Zuge der
+
+eingreifen können muss. Die Mehrzahl der Fahrzeuge ist
+
+digitalen Transformation werden neue Akteure die Bühne
+
+zu Anfang des Szenarios jedoch erst bedingt automatisiert
+
+betreten, deren Kerngeschäft bisher nicht primär in der
+
+(Stufe 3), aber am Ende des Szenarios setzen sich hoch-
+
+Automobilindustrie lag. Firmen wie Google, Uber, Tencent
+
+automatisierte Fahrzeuge weiter durch und bedingt
+
+und viele Start-ups werden ein Umdenken bei etablierten
+
+automatisierte Fahrzeuge verschwinden langsam von den
+
+Herstellern und Zulieferern weiter beschleunigen. Bereits
+
+Straßen. Vollautomatisierte Fahrzeuge (Stufe 5) sind nur
+
+heute zeichnet sich ein klarer Trend zu weitreichenden
+
+für Forschungszwecke zugelassen.
+
+Kooperationen und Partnerschaften ab.
+
+sein,
+
+welche
+
+im
+
+heutigen
+
+automobilen
+
+1. Teilen statt Besitzen
+Der private Autobesitz unterliegt seit Jahren einem
+
+Carsharing zunehmend beliebter.
+
+ständigen Wandel. Daher stellt sich auch für autonome
+
+Die Nutzer haben die Vorteile des Carsharings erkannt.
+
+Fahrzeuge die Frage, wer die potenziellen Käufer sind.
+
+Seit langem werden Geschäftsmodelle wie Carsharing
+
+Werden es Privatbesitzer, größere Flottenbetreiber oder
+
+immer interessanter, vor allem für die jüngere Generation.
+
+gar Firmenwagenflotten sein?
+
+Die Zahl der Carsharing-Nutzer in Deutschland ist von
+rund 300.000 im Jahr 2012 auf über 1,2 Millionen im Jahr
+2016 gestiegen.4
+
+Carsharing-Entwicklung in Deutschland 5
+
+Kunden
+
+Carsharing-Fahrzeuge
+
+1.400.000
+
+17.500
+
+1.200.000
+
+15.500
+Anzahl Kunden
+
+1.000.000
+
+13.500
+
+Anzahl Fahrzeuge
+
+11.500
+
+800.000
+9.500
+600.000
+
+7.500
+
+400.000
+
+5.500
+
+200.000
+
+3.500
+1.500
+
+0
+1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+
+Offensichtlich werden künftig weniger Menschen Autos
+
+Die Aussagen in Bezug auf Carsharing werden jedoch von
+
+besitzen. Es ist schwer zu sagen, was genau zu dieser
+
+beiden Determinanten beeinflusst. Autonome Fahrzeuge
+
+Entwicklung geführt hat: der allgemein veränderte
+
+sind am Anfang teurer. Deshalb könnte Carsharing
+
+Umgang mit der Mobilität oder der zunehmende Komfort
+
+besonders in den frühen Entwicklungsstadien attraktiver
+
+von autonomen Fahrzeugen, der auch das Carsharing
+
+sein. Sinkt der Preis durch das Sharing, wird das Fahren
+
+angenehmer macht.
+
+autonomer Fahrzeuge für eine breitere Kundengruppe
+erschwinglich.
+
+www.nttdata.de
+
+S Z E N A R I O E I N S ( U M 20 20 )
+
+II.
+
+2. Autonome Fahrzeuge im Personen- und Kraftverkehr
+Autonome Taxis.
+
+welche die LKW-Logistik herausfordern. Fahrer von
+
+Der Personenverkehr mit Bussen, Zügen und Taxis könnte
+
+bedingt automatisierten LKWs (Stufe 3) müssen nicht
+
+sich ebenfalls schon bald ändern. In Deutschland gibt es
+
+immer lenken. Somit stellt die Zeit-Beschränkung kein
+
+beispielsweise über 53.000 registrierte Taxis. Das bedeutet,
+
+Problem mehr da. Das könnte zu Lohneinsparung von
+
+dass es etwa genauso viele oder sogar mehr Taxifahrer und
+
+bis zu sechs Prozent führen. Jedoch wäre hier eine
+
+weitere Mitarbeiter in dieser Branche gibt. In den USA sind
+
+entsprechende
+
+rund 233.000 Menschen als Taxifahrer beschäftigt.7 Die
+
+Darüber hinaus können die LKWs in einem Konvoi fahren
+
+Gehaltskosten haben meist einen signifikanten Anteil an
+
+(„Platooning“) und dank reduziertem Luftwiderstand rund
+
+der Preiskalkulation von Taxiunternehmen. Daher wäre die
+
+fünf Prozent an Kraftstoffkosten einsparen.
+
+6
+
+gesetzliche
+
+Anpassung
+
+notwendig.
+
+Umstellung auf autonome Taxis eine logische Konsequenz
+für die Branche, um wirtschaftlicher arbeiten zu können.
+
+Die Investitionen in autonome Fahrzeuge sind jedoch
+
+Ein Pilotprojekt gibt es derzeit in Singapur. Der Stadt-
+
+noch hoch. Um das Jahr 2020 ist es noch nicht sinnvoll,
+
+Staat testet bereits autonome Taxis, die in autorisierten
+
+in autonome Fahrzeuge für den Personenverkehr oder
+
+Stadtbereichen fahren.
+
+hochautomatisierte LKWs zu investieren: Es wird noch ein
+
+8
+
+Fahrer benötigt, womit sich keine Lohnkosten einsparen
+lassen. Wir gehen daher davon aus, dass es um das Jahr
+
+Einsparungen im LKW-Verkehr.
+Fahrstunden-Beschränkungen,
+
+Fahrermangel
+
+sowie
+
+Sicherheits- und Kraftstoffkosten – das sind Aspekte,
+
+2020 nur wenige Firmen geben wird, die in Pilotprojekten
+mit autonom fahrenden Flotten arbeiten.9
+
+Wenn das Auto die Kontrolle übernimmt – ein Blick in die Zukunft des autonomen Fahrens
+
+S Z E N A R I O E I N S ( U M 20 20 )
+
+II.
+
+3. Minimale Änderungen im Fahrgastraum
+Marginale Komponentenänderung.
+
+Mehr Infotainment.
+
+Bei bedingt und hoch automatisierten Fahrzeugen
+
+Denkbar sind ebenfalls fortgeschrittene Infotainment-
+
+(Stufe 3 und Stufe 4) muss der Fahrer bei Bedarf jederzeit
+
+Systeme, welche die Möglichkeit bieten, online zu gehen,
+
+reagieren können. Deshalb wird es im Innenraum
+
+Musik zu hören oder Filme zu schauen. Radikale Design-
+
+des Fahrzeuges keine großen Veränderungen geben.
+
+Änderungen werden in diesem Szenario noch nicht
+
+Eventuell werden Komponenten wie Lenkrad und Pedale
+
+möglich sein. Daher wird der Innenraum auch für die
+
+für Beschleunigung, Bremse oder Kupplung in ihrer
+
+Original Equipment Manufacturer (OEM) und Zulieferer
+
+Größe geschrumpft und nur noch als Notfunktion mit
+
+zunächst noch keine hohe Priorität haben.
+
+minimalistischem Design angeboten.
+Mehr Austausch mit den Mitfahrern.
+Auch die Art und Weise, wie Menschen im Fahrzeug sitzen
+oder sich bewegen, wird sich nur moderat ändern. Das Innovationskonzept ID15 von Johnson Control ermöglicht
+beispielsweise die Drehung der vorderen Sitzreihe um etwa
+18 Prozent. Das macht die Interaktion mit Personen auf der
+Rückbank bequemer. Dabei ist es trotzdem noch möglich,
+wenn nötig, die Kontrolle über das Fahrzeug zu übernehmen.
+
+www.nttdata.de
+
+4. Neue Versicherungsfragen
+Versicherungsschutz weiterhin notwendig.
+
+Blackbox wie im Flugzeug.
+
+In Deutschland kommt es jährlich zu rund 2,5 Millionen
+
+Die Einführung von autonomen Fahrzeugen ist eine
+
+Autounfällen. Zwar tragen nur rund zwölf Prozent der
+
+Herausforderung
+
+betroffenen Personen einen Schaden davon, doch
+
+Versicherer: Sie müssen neue Produkte auf den Markt
+
+ein Autounfall ist oft teuer.10 Pro Unfall fallen bei den
+
+bringen und die Versicherungsfrage neu klären. Heute ist
+
+Versicherungen durchschnittliche Kosten zwischen 740
+
+der Fahrer als Unfallverursacher für mögliche Schäden
+
+Euro (Teilkasko) und 3.600 Euro (Haftpflicht) an. Weitere
+
+verantwortlich. Für Fahrzeuge der Stufe 3 und 4 hat die
+
+für
+
+die
+
+klassischen
+
+Kraftfahrzeug-
+
+Zwar lautet die
+
+Bundesregierung Anfang 2017 neue Gesetze eingeführt.
+
+Prognose, dass autonomes Fahren Unfälle reduziert.
+
+Mithilfe einer obligatorischen „Blackbox“ (Fahrtdaten-
+
+Dennoch wird es immer wieder zu Unfällen kommen,
+
+schreiber), analog zu der im Flugzeug, soll es für Behörden
+
+solange menschliche Fahrer beteiligt sind. Daher ist eine
+
+und Versicherungen möglich sein zu unterscheiden, ob
+
+Versicherung notwendig.
+
+ein Unfall durch menschliches Versagen oder durch einen
+
+Kosten entstehen für die Autobesitzer.
+
+11
+
+Systemdefekt verursacht wurde. Mit diesen Daten können
+Haftungsansprüche an den Fahrer oder den Autohersteller
+geltend gemacht werden.
+
+5. Szenario eins – das Wichtigste im Überblick
+
+SZENARIO EINS UM 2020 – Autonome Fahrzeuge erobern die Straßen
+
+Carsharing
+
+Anpassungen im Fahrgastraum
+
+■ Wird immer beliebter
+
+■ Marginale Komponentenänderung
+
+■ Anstieg Carsharing Nutzer von
+
+■ Mehr Austausch mit den Mitfahrern
+■ Mehr Infotainment
+
+2010-2016 um 450 %
+Autonome Fahrzeuge im
+
+Versicherung
+
+Personen- und Kraftverkehr
+
+■ Weniger Unfälle
+
+■ Erste Nutzung in Pilotprojekten
+
+■ Versicherungsschutz ist
+
+■ Bei LKWs ist eine Einsparung bei
+
+den Kraftstoffkosten von bis zu 5 %
+durch Fahren im Konvoi möglich
+
+weiterhin notwendig
+■ Blackbox zum Fahrtenschreiben
+
+ist erforderlich
+
+Wenn das Auto die Kontrolle übernimmt – ein Blick in die Zukunft des autonomen Fahrens
+
+S Z E N A R I O E I N S ( U M 20 20 )
+
+II.
+
+„Wer nur an die Technik denkt, hat noch
+nicht erkannt, wie das autonome Fahren
+unsere Gesellschaft verändern wird.“
+Dr. Dieter Zetsche, Vorstandsvorsitzender Daimler AG
+
+www.nttdata.de
+
+III.
+
+SZEN ARIO Z WEI (UM 2050):
+Überwiegend autonome Fahrzeuge auf den Straßen
+
+Mit der zunehmenden Zahl autonomer Fahrzeuge auf den Straßen steigt auch ihr
+Einfluss auf das Ökosystem rund um das Fahrzeug – weitreichende Veränderungen
+im Straßenverkehr, der Automobilbranche und im alltäglichen Leben sind zu erwarten.
+
+Szenario zwei illustriert die langfristige Zukunft um das Jahr 2050, in der auf den Straßen mehrheitlich autonome Fahrzeuge
+unterwegs sein werden. Die zunehmende Marktdurchdringung von vollständig autonomen Fahrzeugen der Stufe 5 markiert
+den Beginn einer neuen Ära. Hoch- und vollautomatisierte Fahrzeuge (Stufe 4 und Stufe 5) prägen das Straßenbild.
+
+1. Die Automobilbranche wandelt sich – neuer Aftersales
+Speziell für reife Automobilmärkte wie Deutschland oder die USA ist Aftersales eine tragende Säule für den Gewinn. Mit
+aktuell einem Anteil von rund 50 Prozent am Gewinn, aber nur 23 Prozent am Umsatz, ist das Aftersales-Geschäft für
+OEMs nach wie vor unverzichtbar. Wie wird sich der Aftersales verändern?
+Weniger Reparatur, mehr Wartung.
+
+Neue Aftersales-Kunden sind Unternehmen.
+
+Das autonome Fahrzeug wird das Aftersales-Geschäft
+
+Die zunehmende Nutzung von Carsharing wird sich auch
+
+deutlich verändern und ein Umdenken erfordern. Zum
+
+auf andere Weise auf den Aftersales-Bereich auswirken.
+
+einen wird es zu einem erhöhten wirtschaftlichen Druck
+
+Traditionell sind private Autobesitzer, die etwas reparieren
+
+auf die Werkstätten kommen: Durch autonomes Fahren
+
+müssen, ihr Fahrzeug tunen wollen oder zusätzliche
+
+sind weniger Unfälle zu erwarten, weshalb weniger
+
+Funktionen kaufen möchten, eine große Kundengruppe
+
+Reparaturen durchgeführt werden müssen. Zum anderen
+
+für Aftersales-Produkte und Dienstleistungen. Durch eine
+
+wird die allgemeine Auslastung der Fahrzeuge durch
+
+häufigere Nutzung von Carsharing und autonomen Taxis
+
+Carsharing und autonome Taxis steigen, so dass es
+
+gewinnen Flotten jedoch mehr und mehr an Bedeutung.
+
+kürzere Wartungsintervalle gibt. Eine weitere mögliche
+Umsatzquelle könnte die Personalisierung von Auto-
+
+Die Abnehmer von Aftersales-Dienstleistungen werden
+
+Ausstattung, Infotainment-Systemen und des Innenraums
+
+daher mehrheitlich Geschäftskunden sein, die eine große
+
+sein: Die Passagierkabine wird sich erheblich verändern,
+
+Fahrzeugflotte besitzen. Dies kann zu Rabattverträgen
+
+wenn kein Fahrer mehr nötig ist.
+
+führen, die weitaus günstigere Bedingungen als für
+Privatbesitzer bieten. Dies ist vergleichbar mit riesigen
+Handelsunternehmen wie Amazon, die umfangreiche
+Verträge mit Versandunternehmen haben und günstige
+Bulkpreise erhalten, um den kostenlosen Versand anbieten
+zu können.
+
+Wenn das Auto die Kontrolle übernimmt – ein Blick in die Zukunft des autonomen Fahrens
+
+S Z E N A R I O Z W E I ( U M 20 5 0 )
+
+III.
+
+2. Neues Verhältnis zwischen Kunden und OEM
+Mehr Kundendaten.
+
+vom OEM. Vor allem bei vollautomatisierten Fahrzeugen
+
+Beim autonomen Fahrzeug handelt es sich zunehmend
+
+vertrauen die Menschen ihr Leben dem Fahrzeug an, da
+
+um einen Computer, der große Datenmengen auf der
+
+sie keinen Einfluss mehr auf das eigentliche Fahren haben.
+
+Seite des Kunden erzeugt. Der Kunde vertraut dem OEM
+
+Deshalb gehen wir davon aus, dass Kunden ihre Fahrzeuge
+
+die Daten und deren Sicherheit an. Der OEM wiederum
+
+wahrscheinlich eher in die OEM-Werkstatt bringen und
+
+erhält durch diese Daten mehr Wissen über seinen
+
+nicht in eine unabhängige Werkstatt. Vermeintlich kennt
+
+Kunden als bisher. Die Herausforderung für den OEM –
+
+der OEM die Technologie am besten, weil er sie selbst
+
+sowie potenziell auch für die Zulieferer – besteht darin,
+
+entwickelt hat. Er kann höchstwahrscheinlich die qualitativ
+
+konkreten Nutzen aus den Daten zu ziehen, zum Beispiel
+
+hochwertigsten Dienstleistungen sowie Originalersatzteile
+
+im Sinne von „Predictive Maintenance“ oder „Cross- und
+
+zur Verfügung stellen.12
+
+Up-Selling“.
+Persönlicher Kontakt?
+Damit Käufer von autonomen Fahrzeugen ihre Daten nicht
+
+Mit dem Auto, nicht mit dem Fahrer!
+
+komplett dem OEM übergeben müssen, werden sie –
+
+Auch wenn die technologische Abhängigkeit vom
+
+analog zum Smartphone oder Tablet – zu einem gewissen
+
+OEM zunimmt, wird der persönliche Kontakt zwischen
+
+Teil eigenständig bestimmen können, welche Daten
+
+den Mitarbeitern der OEM-Werkstatt und den Kunden
+
+sie teilen und welche Services sie in Anspruch nehmen
+
+abnehmen. Der Grund dafür ist einfach: Vollautomatisierte
+
+möchten.
+
+Fahrzeuge können fehlerhafte Teile oder andere Schäden
+sowie einen Wartungsbedarf selbst registrieren und sich
+eigenständig verwalten. Die Fahrzeuge können Ersatzteile
+
+Engere Kundenbindung.
+und
+
+bestellen, einen Termin mit der Werkstatt vereinbaren und
+
+Sicherheitsupdates wird die Kundenbindung in Zukunft
+
+sogar selbst dort hinfahren. Somit ist der Kunde, außer
+
+intensivieren. Im Interesse der eigenen Sicherheit entsteht
+
+bei der Zahlungsabwicklung, nicht mehr persönlich in den
+
+für den Kunden eine gewisse Form der Abhängigkeit
+
+Vorgang involviert.
+
+Die
+
+Notwendigkeit
+
+www.nttdata.de
+
+regelmäßiger
+
+Software-
+
+3. Mechaniker werden zu IT-Spezialisten
+Autonome Fahrzeuge werden zu rollenden Computern, herkömmliche Autos gibt es nicht mehr, Lenkradhersteller haben
+keinen Markt mehr. Das heißt: OEMs und Zulieferer müssen im Hinblick auf ihre Komponenten und Produkte umdenken.
+Und nicht nur das: Auch andere Mitarbeiter als heute werden benötigt.
+Mitarbeiter mit IT-Verständnis gefragt.
+
+klassische Ingenieur mit Fachrichtung Maschinenbau
+
+Immer mehr Software und immer weniger mechanische
+
+oder Elektrotechnik benötigt. OEMs und Zulieferer
+
+Komponenten im Fahrzeug – dies führt zu tiefgreifenden
+
+werden zunehmend Mitarbeiter mit einem umfassenden
+
+Veränderungen in der automobilen Arbeitswelt: Für die
+
+Verständnis von IT, Car-IT-Architekturen und Software-
+
+Entwicklung von Fahrzeugen wird nicht mehr nur der
+
+Entwicklungsfähigkeiten suchen.
+
+4. Carsharing nimmt weiter zu
+Mehr IT als Blech.
+
+Mit autonomen Fahrzeugen der Stufe 5 wird Carsharing
+
+Mit den immer komplexer werdenden Fahrzeugen, die eher
+
+ein weiteres Stück bequemer: Man muss kein Fahrzeug
+
+ein Software- als ein Hardwareprodukt sind, verändern sich
+
+mehr finden, das zufällig in der näheren Umgebung
+
+auch die Aufgaben der Kfz-Mechaniker oder Mechatroniker.
+
+geparkt ist. Man kann einfach ein Fahrzeug rufen und sich
+
+IT-Wissen und Hardware-Kenntnisse zu allen technischen
+
+dann zu seinem gewünschten Ziel fahren lassen.
+
+Komponenten wie ADAS, Radar, Lidar, Navigation oder
+Infotainment- und Konnektivitätssystem werden von
+
+Neue Geschäftsmodelle,
+
+entscheidender Bedeutung sein. Infolgedessen ist zu
+
+Plattformen und Konzepte.
+
+erwarten, dass die Arbeit des Mechanikers in Zukunft der
+
+Auch weil autonome Fahrzeuge der Stufe 4 und Stufe 5 zu
+
+eines Technologiespezialisten gleichen wird.
+
+Beginn teuer sind, scheint Carsharing eine gute Alternative
+zu sein. Von daher dürfte Carsharing aus ökonomischen
+Gründen weiter an Bedeutung gewinnen. Es ist denkbar,
+dass im Carsharing neue Geschäftsmodelle sowie neue
+Arten von Plattformen und Konzepten entwickelt werden.
+Wenn Fahrzeuge in Zukunft keine Fahrer mehr benötigen,
+können private Auto-Besitzer ihr Fahrzeug auch auf
+Sharing-Plattformen registrieren und zur Verfügung stellen,
+solange sie es nicht selbst benötigen.
+Premium-Carsharing.
+Vorstellbar ist beispielsweise auch ein Angebot exklusiver
+Carsharing-Services für Oberklassenfahrzeuge, an dem nur
+Premium-Kunden teilnehmen können. Dieses Modell wird
+ähnlich wie bestimmte Dating-Plattformen funktionieren,
+bei denen sich nur Akademiker oder wohlhabende
+Menschen anmelden können. Die Eintrittsbarriere wird
+entsprechend über eine hohe Anmeldegebühr bzw. über
+hohe Monatsbeiträge oder Mietkosten gesteuert. Ein
+solches Geschäftsmodell könnte die Bereitschaft von
+Eigentümern teurer Fahrzeuge steigern, ihr Auto auf einer
+solchen Plattform zur Verfügung zu stellen.
+Neben diesen Geschäftsmodellen sind auch andere
+Modelle mit niedrigeren Preisen vorstellbar, bei denen mehr
+Menschen ein Carsharing-Fahrzeug gemeinsam nutzen
+und einen besseren Preis erzielen können. Diese lassen
+sich am ehesten mit Car-Pooling-Diensten vergleichen,
+die heute bereits am Markt existieren.
+
+S Z E N A R I O Z W E I ( U M 20 5 0 )
+
+III.
+
+5. Werden Versicherungen überflüssig?
+In Deutschland liegt heute der Anteil der Kfz-Versicherungen bei 13 Prozent des Gesamtmarktes. Sie bilden somit ein
+wichtiges Segment der Branche. Mit Versicherungsprämien in Höhe von jährlich rund 228 Milliarden Dollar ist auch die
+Sparte der Auto-Versicherungen in den USA sehr bedeutend. Daher liegt es im Interesse der Versicherungen, entsprechende
+Tarifmodelle für autonome Fahrzeuge zu entwickeln.
+Neue Verantwortlichkeiten.
+
+der Straße sein und somit auch in gegenseitige Unfälle
+
+Bis vollautomatisierte autonome Fahrzeuge auf die
+
+verwickelt sein. Auf Basis der Annahme hoch ausgereifter
+
+Straße kommen, müssen geeignete Verträge entwickelt
+
+autonomer Technologie zwischen den Jahren 2050 und
+
+und dafür wichtige Fragen beantwortet werden: Wenn
+
+2060 liegt die Vermutung nahe, dass die Unfallverursacher
+
+der Fahrer nicht für von Computern verursachte Unfälle
+
+im Wesentlichen die herkömmlichen Fahrzeuge – vielmehr
+
+haftbar gemacht werden kann, wer dann? Muss der
+
+deren Besitzer – sein werden. Durch den Einsatz von
+
+Fahrzeughersteller für solche Unfälle haften? Ist in Zukunft
+
+Blackboxes muss es den Behörden und Versicherungen
+
+immer noch der Fahrer Versicherungsnehmer oder wird
+
+möglich sein, ein Versagen der autonomen Technologie
+
+die Verantwortung auf die Fahrzeughersteller übertragen?
+
+nachzuweisen bzw. auszuschließen.
+
+Was passiert, wenn der Fahrer die Software für sein
+Fahrzeug zu spät aktualisiert und dadurch ein Unfall
+
+Neue Versicherungsmodelle und -beiträge.
+
+verursacht wird? Was passiert, wenn ein allgemeiner
+
+Mit zunehmenden statistischen Erfahrungswerten im
+
+Softwarefehler Unfälle oder den Ausfall einer gesamten
+
+beschriebenen Parallelbetrieb werden die Versicherungen
+
+Baureihe zur Folge hat? Eine ebenfalls wichtige Frage:
+
+entsprechende
+
+Wer haftet für Schäden, die von Hackern durch eine
+
+unter der Annahme, dass die Haftung für Schäden von
+
+Sicherheitslücke im System verursacht worden sind?
+
+vollautomatisierten Fahrzeugen weitestgehend bei den
+
+Beitragsmodelle
+
+entwickeln.
+
+Selbst
+
+OEMs liegen wird, werden diese die entsprechenden
+Wesentlich weniger Unfälle.
+
+Kosten auf den Fahrzeug-Kaufpreis bzw. die Leasing-
+
+Wir gehen in diesem Szenario davon aus, dass die
+
+raten oder die Carsharing-Gebühren umlegen bzw.
+
+Schadenslast aufgrund von Verkehrsunfällen um 50
+
+Haftungsansprüche entlang ihrer „Upstream Supply
+
+bis 70 Prozent reduziert werden kann. Herkömmliche
+
+Chain“ kaskadieren.
+
+Fahrzeuge werden zusammen mit autonomen Autos auf
+
+Wenn das Auto die Kontrolle übernimmt – ein Blick in die Zukunft des autonomen Fahrens
+
+S Z E N A R I O Z W E I ( U M 20 5 0 )
+
+III.
+
+6. Neue Formen der Gebührenerhebung und Rechnungsstellung
+Auch der Bezahlvorgang wird sich durch autonome Fahrzeuge ändern. Wenn das Fahrzeug parkt, sich selbsttätig auflädt
+oder ohne den Besitzer eine Werkstatt aufsucht, müssen Rechnungen beglichen werden, ohne dass der Karteninhaber
+vor Ort ist.
+Das Fahrzeug bezahlt selbst – Möglichkeit 1.
+
+Zahlung via Smartphone.
+
+Damit das Fahrzeug die entsprechenden Vorgänge quasi
+
+Bei beiden Optionen sollte es dem Karteninhaber möglich
+
+eigenständig durchführen kann, muss es die Karten-Daten
+
+sein, Zahlungen über Push-Dienste des Kartenservers am
+
+kennen bzw. darauf Zugriff haben. Eine Möglichkeit ist die
+
+Smartphone zu akzeptieren oder abzulehnen. Alternativ
+
+lokale Speicherung der Zahlungsinformationen direkt im
+
+kann es unterschiedlich voreingestellte Zahlungsoptionen
+
+Fahrzeug. Auf diese Art ist keine Internetverbindung nötig
+
+geben: So kann der Karteninhaber selbst konfigurieren,
+
+und es würde eine M2M-Kommunikation ausreichen. Die
+
+welche Arten von Produkten oder Dienstleistungen
+
+Maschine, welche eine Bezahlung verlangt – zum Beispiel
+
+bis zu welchem Betrag ohne Freigabe des Inhabers
+
+eine Parkhausschranke oder ein Aufladesystem –, sendet
+
+vom Fahrzeug selbstständig autorisiert durchgeführt
+
+die Zahlungsanfrage an das Fahrzeug, das Fahrzeug
+
+werden dürfen („delegated payment“). Zum Beispiel
+
+überträgt die Zahlungsinformationen und autorisiert den
+
+müssten Reparaturen über 1.000 Euro zwingend vom
+
+Betrag, und die Bezahlung wird über die Verbindung der
+
+Besitzer genehmigt werden, wohingegen benötigte
+
+Maschine mit dem Kartenserver durchgeführt.
+
+Batterieladevorgänge stets ohne Freigabe möglich sind.
+
+Das Fahrzeug bezahlt selbst – Möglichkeit 2.
+
+Die Verarbeitung von Zahlungen ohne die eigentliche Karte,
+
+Eine weitere Möglichkeit ist die Speicherung der
+
+sondern nur über die auf dem Smartphone gespeicherten
+
+Kartendaten im Connected Car Backend. Mittels dieser
+
+Zahlungsinformationen, gibt es bereits heute von Apple
+
+Option können Fahrzeugbesitzer die Zahlungen, die sie
+
+Pay oder Android Pay. Was das Smartphone kann, wird
+
+beispielsweise für eine erfolgte Fahrzeugwartung leisten
+
+das autonome Fahrzeug mit der richtigen Technologie
+
+müssen, über das Netz veranlassen, so dass nötige
+
+ebenfalls können, sofern die Zahlungsarten im autonomen
+
+Zahlungen über das Backend getätigt werden können.
+
+Ökosystem durch die daran beteiligten Unternehmen
+unterstützt werden.
+
+www.nttdata.de
+
+7. Was passiert mit Führerschein und Fahrlehrern?
+Jedes Jahr machen rund 1,15 Millionen Deutsche ihren
+
+Geht es um Fahrzeuge, in denen der Passagier nur noch
+
+Führerschein. Bei einem durchschnittlichen Preis von 1.800
+
+Mitreisender ist, erscheint die Antwort weniger eindeutig.
+
+Euro für einen Führerschein geben sie rund zwei Milliarden
+Euro jährlich dafür aus. Vor allem in Deutschland ist
+
+Werden
+
+wir
+
+noch
+
+einen
+
+Fahrzeuge mehr und mehr Wirklichkeit werden?
+
+„Ich bin überzeugt,
+dass meine Kinder
+keinen Führerschein
+mehr brauchen.“13
+
+Führerschein für autonome
+
+Johann Jungwirth, Chief Digital
+Officer Volkswagen AG
+
+Fahrlehrern
+
+In Szenario zwei, in dem gleichzeitig hoch- und voll-
+
+das nicht nur teuer, sondern auch zeitaufwendig.
+Fahrlehrer zeigen uns, wie man fährt und vermitteln
+alle wichtigen Straßenverkehrsregeln. Doch ist der
+Job eines Fahrlehrers nicht in Gefahr, wenn autonome
+
+automatisierte Fahrzeuge eingesetzt werden, stellt
+
+Fahrzeuge benötigen und
+wenn ja, wie sieht der Inhalt
+aus? Was würde mit den
+über
+
+45.000
+
+registrierten
+und
+
+den
+
+17.000 Fahrschulen allein
+in Deutschland geschehen,
+
+sich die Frage, ob wir Fahrstunden und Führerscheine für
+
+wenn deren Arbeit überflüssig wird? Politik und Gesell-
+
+das Nutzen autonomer Fahrzeuge überhaupt brauchen.
+
+schaft werden Antworten auf diese Fragen finden müssen.
+
+Für hochautomatisierte Fahrzeuge erscheint die Antwort
+klar. Solange der Fahrer für das Fahrverhalten bzw.
+
+Zu klären ist auch das Mindestalter für die Nutzung
+
+für Unfälle verantwortlich ist und jederzeit in der Lage
+
+autonomer Fahrzeuge. Was wäre, wenn ein zehnjähriger
+
+sein muss, in kritischen Situationen einzugreifen, sind
+
+Junge mit seinen Freunden Fußball spielen möchte: Er
+
+weiterhin Fahrfertigkeiten und fundierte Kenntnisse der
+
+muss im Prinzip nur das autonome Fahrzeug seiner Eltern
+
+Straßenregeln erforderlich. Somit ist ein Führerschein
+
+oder eines Carsharings kontaktieren, das ihn abholt und
+
+unverzichtbar. Allerdings ist ein Umdenken bezüglich
+
+ihn zum gewünschten Bolzplatz fährt. Selbst wenn das
+
+der Inhalte des Fahrschulunterrichts erforderlich: Die
+
+möglich wäre: Würden Eltern und die Gesellschaft wollen,
+
+Technologie wird immer komplizierter, weshalb es für
+
+dass ihre Kinder auf diese Weise allein fahren?
+
+die nachwachsenden Fahrer immer wichtiger wird, den
+Umgang mit ihr zu lernen.
+
+Diese Frage stellte das Weltwirtschaftsforum Eltern aus mehreren Ländern:14
+
+Würden Eltern ihre Kinder allein in einem vollautomatisierten Fahrzeug fahren lassen?
+
+Indien
+China
+
+10%
+
+USA
+
+Japan
+
+7%
+
+UK
+
+8%
+10%
+
+3%
+
+Ja
+
+32%
+30%
+
+23%
+19%
+
+25%
+
+21%
+
+25%
+
+10%
+
+25%
+
+29%
+
+23%
+
+16%
+
+30%
+24%
+
+20%
+
+21%
+
+3%
+
+23%
+
+19%
+
+40%
+
+28%
+
+Eher ja
+
+27%
+
+21%
+
+24%
+
+19%
+
+7%
+
+Singapur
+
+Niederlande
+
+19%
+
+8%
+
+22%
+
+19%
+
+22%
+
+Neutral
+
+7%
+14%
+
+23%
+
+25%
+
+15%
+
+11%
+
+26%
+
+20%
+
+19%
+
+12%
+
+Frankreich
+
+14%
+
+22%
+
+13%
+
+UAE
+
+23%
+
+30%
+
+16%
+
+Weltweit
+
+Deutschland
+
+31%
+
+28%
+
+40%
+
+Eher nein
+
+Nein
+
+Die Umfrage zeigt, dass die Mehrheit der Eltern ihre
+
+Vereinigten Königreich sind die Menschen skeptisch,
+
+Kinder nicht allein in autonomen Fahrzeugen fahren
+
+ihre Kinder autonome Fahrzeuge nutzen zu lassen. Doch
+
+lassen möchte. Lediglich in Indien und China ist eine
+
+angesichts der Weiterentwicklung der Technologie und
+
+Vielzahl der Menschen bereit, ihre Kinder autonome
+
+der Transportmittel ist dies ein gesellschaftliches Thema,
+
+Fahrzeuge alleine nutzen zu lassen. Besonders in den
+
+über welches intensiver nachgedacht werden sollte.
+
+westlichen Industriestaaten, den Niederlanden und dem
+
+www.nttdata.de
+
+S Z E N A R I O Z W E I ( U M 20 5 0 )
+
+III.
+
+8. Der Fahrzeuginnenraum als Wohnzimmer oder Büro
+Lenkrad, Gas, Kupplung und
+
+Flexible Displays.
+
+Bremse sind Vergangenheit.
+
+Fahrzeuge, die zunehmend als Infotainment-Plattform oder
+
+Im Szenario eins haben wir beschrieben, dass Änderungen
+
+als fahrendes Büro genutzt werden, benötigen Displays
+
+im Fahrgastinnenraum minimal sein werden: Der Fahrer
+
+unterschiedlicher Art und Größe, um den Passagieren
+
+eines hochautomatisierten Fahrzeugs muss jederzeit
+
+Inhalte anzuzeigen. Deshalb wird das Interieur eines
+
+in der Lage sein, in das Fahrverhalten einzugreifen. Das
+
+autonom fahrenden Fahrzeugs maßgeblich von flexiblen
+
+wird sich bei vollautomatisierten, fahrerlosen Fahrzeugen
+ändern: Kein Fahrer bedeutet keine Verantwortung bzw.
+keine Möglichkeit, die Kontrolle über das Fahrzeug zu
+übernehmen. Lenkrad, Gas-, Brems- oder Kupplungspedal
+werden nicht mehr vorhanden sein. Die Art und Weise, wie
+wir fahren, wird sich dramatisch ändern.
+Komplett andere Innenraumgestaltung.
+Mögliche
+
+Modifikationen
+
+im
+
+Innenraum
+
+sind
+
+etwa
+
+Änderungen in der Anordnung der Sitze, damit die
+Passagiere
+
+sich
+
+gegenübersitzen
+
+und
+
+sich
+
+somit
+
+bequemer unterhalten können. Darüber hinaus wird es
+auch möglich sein, während der Fahrt an einem Tisch
+zu arbeiten oder einfach die Vorzüge des InfotainmentSystems zu genießen – zu diesem Zeitpunkt werden
+alle Fahrzeuge mit einer ultraschnellen und hochstabilen
+Internetverbindung der zehnten bis zwölften Generation
+ausgestattet sein.
+Rollendes Büro.
+Aktuelle
+
+Kooperationen
+
+demonstrieren
+
+bereits
+
+die
+
+intensiven Anstrengungen, die vertraute Umgebung
+eines Büros ins Fahrzeug zu integrieren. So arbeiten
+beispielsweise Microsoft und Volvo daran, Skype für
+die Nutzung von Telefon- oder Online-Konferenzen im
+Fahrzeug zu etablieren, wodurch man die typischerweise
+wenig effektive Fahrzeit im Auto produktiv nutzen kann.
+
+Displays geprägt sein. Für die Werbebranche ergibt sich
+
+sharing-Flotte oder um ein autonomes Taxi handelt. Displays
+
+damit die Möglichkeit, Werbeflächen – zum Beispiel für
+
+und Infotainment sind nur ein kleiner Teil der möglichen
+
+standortabhängige Dienste – im Fahrzeug zu nutzen. Die
+
+Änderungen im Interieur von Fahrzeugen. Die Funktionen
+
+Intensität der Werbung wird dabei davon abhängig sein, ob
+
+und das Innenraumdesign autonomer Fahrzeuge lassen viel
+
+es sich um einen Privatwagen, ein Fahrzeug aus einer Car-
+
+Platz für neue Geschäftsideen und Innovationen.
+
+S Z E N A R I O Z W E I ( U M 20 5 0 )
+
+III.
+
+9. Personennahverkehr wird flexibler
+In Deutschland nutzen aktuell durchschnittlich 30 Millionen Menschen jeden Tag öffentliche Verkehrsmittel. Wenn
+vollautomatisierte Fahrzeuge auf den Markt kommen, werden einige Vorteile des öffentlichen Personenverkehrs auf
+diese Fahrzeuge übergehen. Bei der Betrachtung der Zukunft öffentlicher Verkehrsmittel muss man jedoch klar zwischen
+innerstädtischen, regionalen und Langstreckenverkehrsmitteln unterscheiden.
+
+Mehr autonome Taxis
+
+öffentlichen Nahverkehr in Innenstädten. Wenn Busse
+zum Beispiel nicht mehr nach Plan anhalten, sondern dort,
+
+Bei den in Szenario eins beschriebenen hochauto-
+
+wo gerade der aktuelle Bedarf besteht, wäre die Nutzung
+
+matisierten Fahrzeugen ist es nicht wirtschaftlich, von
+
+für den Fahrgast schneller und bequemer. Auch die
+
+herkömmlichen Taxis zu SDCs zu wechseln. Denn diese
+
+gemeinsame Nutzung von Fahrzeugen oder Minibussen
+
+benötigen nach wie vor einen Fahrer, um die Sicherheit der
+
+durch mehrere Menschen könnte ein vielversprechendes
+
+Fahrgäste zu gewährleisten.
+
+Geschäftsmodell für autonom fahrende Flotten sein.
+
+Mit autonomen Fahrzeugen der Stufe 5 wird es aus
+
+In diesem Szenario sprechen wir immer noch über
+
+wirtschaftlichen Gründen zum Aufbau autonomer Taxi-
+
+hoch- und vollautomatisierte Fahrzeuge. Deshalb sind
+
+Flotten kommen. Mit autonomen Taxis lassen sich
+
+unter anderem die folgenden Lösungsansätze für den
+
+beträchtliche Lohnkosten einsparen. Dadurch werden
+
+öffentlichen Personenverkehr denkbar:
+
+sich auch die höheren Anschaffungskosten der neuen
+Fahrzeuge schneller amortisieren. Zur Erinnerung: In den
+
+■ Erweiterung von Busflotten um autonom fahrende
+
+USA verdient ein Taxifahrer im Schnitt 23.000 Dollar jährlich.
+
+Fahrzeuge, damit auch weniger frequentierte Stadtteile
+häufiger und damit bequemer erreichbar werden
+
+Vollständig autonome Fahrzeuge der Stufe 5 werden
+
+■ Schrittweiser Übergang der öffentlichen Transportmittel
+
+auch für Uber oder Lyft interessant werden. Sie können
+
+zu autonom fahrenden Fahrzeugen, um Lohnkosten zu
+
+praktisch alleine ihren Dienst tätigen, während die Besitzer
+
+sparen
+
+arbeiten oder schlafen.
+Für große Städte scheinen diese Entwicklungen plausibel
+
+Autonomer öffentlicher Personennahverkehr
+in den Städten
+
+zu sein. Wenn man den Kurz- und Mittelstreckenverkehr
+zwischen Städten und Dörfern betrachtet, so stellt sich die
+Situation anders da.
+
+Bereits
+
+heute
+
+sind
+
+Straßenkapazitäten
+
+speziell
+vollständig
+
+in
+
+den
+
+Städten
+
+erschöpft,
+
+und
+
+die
+das,
+
+obwohl die meisten Fahrzeuge den größten Teil der Zeit auf
+
+Autonomer öffentlicher Personennahverkehr
+auf dem Land
+
+einem Parkplatz stehen. Würden alle Menschen, die heute
+den öffentlichen Personenverkehr nutzen, auf autonome
+
+Busse und Züge, die zwischen kleinen Städten und Dörfern
+
+Fahrzeuge umsteigen, wären die Straßen weitaus mehr als
+
+verkehren, werden meistens von Menschen genutzt, die
+
+heute überlastet.
+
+selbst kein Auto besitzen oder keinen Führerschein haben.
+Meistens ist es bequemer, mit dem eigenen Fahrzeug zu
+
+Vorteile autonomer Busse und Bahnen.
+
+fahren. Jedoch ist der öffentliche Personennahverkehr in
+
+Der Einsatz autonomer Technologien für Busflotten, Züge
+
+ländlichen Gegenden nach wie vor notwendig, damit auch
+
+oder U-Bahnen kann Kosten sparen. Dadurch können
+
+Menschen ohne Fahrzeug oder ohne Führerschein mobil
+
+auch weniger frequentierte Stadtteile bequem erreicht
+
+sein können.
+
+werden. Dies ermöglicht innovative Modelle für den
+
+Wenn das Auto die Kontrolle übernimmt – ein Blick in die Zukunft des autonomen Fahrens
+
+Der Bus geht nicht nur zweimal am Tag.
+Der wesentliche Nachteil dieses Transportsystems ist die
+geringe Frequenz, in der die meisten Zielorte angefahren
+werden – besonders am späten Nachmittag und in der
+Nacht. Autonomes Fahren könnte hier eine spürbare
+Verbesserung bringen, weil sich damit die Häufigkeit der
+Fahrten an die tatsächlichen Kundenbedarfe anpassen
+lässt. Zudem sinken die Lohnkosten, weil der Bedarf an
+Fahrern abnimmt.
+Carsharing für mehr Mobilität.
+Autonom fahrende Autos der Stufe 5 können somit mehr
+Mobilität aufs Land bringen. Ein wachsendes CarsharingAngebot auch in ländlichen Gegenden erweitert den
+flexiblen und bequemen Transport von Tür zu Tür.
+
+Autonomer öffentlicher Fernverkehr:
+Auf der Langstrecke konkurrieren
+autonome Busse und Züge
+In Szenario zwei gehen wir davon aus, dass es sowohl
+einen Markt für den Langstreckenverkehr auf der Schiene
+als auch auf der Straße geben wird und somit beide
+Transportarten in Koexistenz operieren werden.
+Welches Transportmittel – auf der Schiene oder der
+Straße – in Zukunft erfolgreicher sein wird, ist schwierig
+zu prognostizieren. Züge haben auch in Zeiten autonom
+fahrender Autos viele Vorteile, besonders wenn das
+Netz für Hochgeschwindigkeitsverbindungen weiter ausgebaut wird. Aufgrund der größeren Flexibilität und des
+bequemeren Transports von Tür zu Tür haben aber auch
+autonom fahrende Busse oder Carsharing-Flotten eine
+gute Chance.
+Die autonome Technologie wird mit großer Sicherheit zu
+einem Wandel in unserem öffentlichen Verkehrssystem
+führen. Gleichzeitig wird sich der Wettbewerb zwischen
+den Systemen Schiene und Straße weiter intensivieren,
+was unter dem Strich Passagieren in Form verbesserter
+Services zugutekommen wird.
+
+www.nttdata.de
+
+S Z E N A R I O Z W E I ( U M 20 5 0 )
+
+III.
+
+“I think it’s pretty big, I’m on the record as saying
+we are in the midst of seeing more change in the
+next five years than we’ve seen in the last 50 years.
+I haven’t thought about it as the most significant,
+but I would say it’s right up there when you look at
+how dramatically people will move because there
+have been a lot of evolutionary improvements.”
+Mary T. Barra, Chief Executive Officer und Chairman, General Motors Company
+
+Wenn das Auto die Kontrolle übernimmt – ein Blick in die Zukunft des autonomen Fahrens
+
+10. Wie verändern sich der Verkehr, Städte und das Leben?
+Bis 2050 werden autonome Fahrzeuge der Stufen 4 und 5 überall präsent sein. Somit werden auch der Verkehr, unsere
+Städte und unser Leben tiefgreifenden Veränderungen unterliegen.
+Nie mehr Parkplatz suchen.
+
+Mehr Sicherheit für Radfahrer und Fußgänger.
+
+Am Beispiel des vernetzten Fahrzeugs zeigt sich heute
+
+Mit steigenden Zahlen autonom fahrender Fahrzeuge
+
+schon, wie Technologie die Art und Weise verändert, in der
+
+gehen die durch menschliche Fehler verursachten
+
+wir unser Fahrzeug bewegen und nutzen. So vergeuden
+
+Unfälle zurück. Dadurch werden insbesondere Städte
+
+Fahrer heutzutage im Schnitt rund 100 Tage ihres Lebens
+
+für Fußgänger und Radfahrer sicherer. Gute Indikatoren
+
+mit der Parkplatzsuche. Die Nutzung von Parkassistent-
+
+für diese Entwicklung sind Statistiken zu Fahrzeugen
+
+Technologie unter Zuhilfenahme von sozialen Echtzeit-
+
+von Tesla in den USA. Laut einem Bericht der National
+
+Daten ist ein erster Schritt in Richtung effektiven Parkens,
+
+Highway Traffic Safety Administration (NHTSA) gingen die
+
+insbesondere in Ballungsräumen. Wenn die meisten
+
+Unfallzahlen mit Fahrzeugen von Tesla um fast 40 Prozent
+
+Fahrzeuge selbst parken, wird zudem die Nutzung von
+
+zurück, seit die selbstfahrende Technologie in ihrer ersten
+
+Parkflächen effizienter. Insbesondere vollautomatisierte
+
+Version des Autopilots installiert wurde.
+
+Fahrzeuge nutzen Parkraum außerhalb der überfüllten
+Stadtzentren: Sie können selbstständig dorthin fahren,
+
+Mehr Lebensqualität.
+
+nachdem die Passagiere ausgestiegen sind. Carsharing-
+
+Insgesamt wird die Technologie autonom fahrender
+
+Fahrzeuge werden häufiger genutzt und deshalb nicht so
+
+Fahrzeuge, speziell in Verbindung mit echter „Zero
+
+oft geparkt. Infolgedessen wird mehr Raum in Stadtzentren
+
+Emission“-Elektromobilität, die Lebensqualität deutlich
+
+frei, und es können mehr Grün- und Erholungsflächen
+
+erhöhen können. Und wer trotzdem in Zukunft gerne
+
+geschaffen werden.
+
+seinen Porsche 911 aus dem Jahr 1976 selbst fahren
+möchte, für den wird es entsprechende Angebote auf
+lokalen Rennstrecken geben.
+
+Nie mehr im Stau stehen.
+Dank
+
+umfangreicher
+
+Karten
+
+und
+
+Navigationsdaten
+
+sowie der Kommunikation zwischen Fahrzeugen auf
+der Straße können der Verkehr reibungsloser organisiert
+und Verkehrsstaus beträchtlich reduziert werden. Dazu
+arbeiten die Hersteller an der Einführung verbesserter
+satellitenbasierter Navigationssysteme.
+Nie mehr an der Ampel stehen.
+Mit
+
+zunehmender
+
+Weiterentwicklung
+
+des
+
+Internets
+
+der Dinge (IoT) können Fahrzeuge auch direkt mit
+Komponenten des Verkehrsmanagementsystems wie
+Ampeln oder Parkhaus-Schranken kommunizieren. Diese
+Car-to-X-Kommunikation erhöht die Effizienz im gesamten
+Ökosystem des autonomen Fahrzeugs.
+
+www.nttdata.de
+
+S Z E N A R I O Z W E I ( U M 20 5 0 )
+
+III.
+
+11. Szenario zwei – das Wichtigste im Überblick
+
+SZENARIO ZWEI – Mehrheitlich autonome Fahrzeuge
+
+Carsharing
+
+Neue Formen der Gebührenerhebung
+
+■ Nimmt weiter zu
+
+und Rechnungsstellung
+
+■ Neue Geschäftsmodelle,
+
+■ Das Fahrzeug bezahlt selbst
+■ Zahlung via Smartphone
+
+Plattformen und Konzepte
+
+Fahrzeuginnenraum als
+
+Wandel im Aftersales
+■ Weniger Reparatur, mehr Wartung
+
+Wohnzimmer oder Büro
+
+■ Neue Aftersales-Kunden
+
+■ Komplett andere Innenraumgestaltung
+■ Fahrzeug als rollendes Büro
+
+sind Unternehmen
+
+oder Wohnzimmer
+Neues Verhältnis zwischen
+Kunden und OEM
+
+Personennahverkehr wird flexibler
+
+■ Mehr Kundendaten für den OEM
+
+■ Mehr autonome Taxis
+
+■ Engere Kundenbindung
+
+■ Autonomer öffentlicher
+
+■ Persönlicher Kontakt mit dem
+
+Personennahverkehr in den Städten
+
+Auto, nicht mit dem Fahrer
+
+und auf dem Land schafft Flexibilität
+
+Mechaniker werden zu IT-Spezialisten
+■ Mitarbeiter mit IT-Verständnis
+
+Weitere Veränderungen für
+Verkehr, Städte und das Leben
+■ Nie mehr im Stau stehen
+
+werden gefragt
+
+■ Nie mehr Parkplatz suchen
+
+Versicherung
+
+■ Nie mehr an der Ampel stehen
+
+■ Wesentlich weniger Unfälle
+
+■ Mehr Sicherheit für Radfahrer
+
+■ Neue Verantwortlichkeiten
+
+und Fußgänger
+
+■ Neue Versicherungsmodelle und -beiträge
+
+■ Mehr Lebensqualität
+
+Wenn das Auto die Kontrolle übernimmt – ein Blick in die Zukunft des autonomen Fahrens
+
+S Z E N A R I O Z W E I ( U M 20 5 0 )
+
+III.
+
+„Wir bringen dem Auto bei,
+sich selbstständig durch den
+Straßenverkehr zu bewegen“
+Volkmar Denner, Vorsitzender der
+Geschäftsführung Robert Bosch GmbH
+
+www.nttdata.de
+
+IV.
+
+SZEN ARIO DREI (UM 20 6 0):
+Eine Welt mit ausschließlich
+vollautomatisierten Fahrzeugen
+
+Ab 2060 sind ausschließlich vollautomatisierte Fahrzeuge (der Stufe 5) auf den Straßen.
+Die Technologie, die vollständig autonome Fahrzeuge möglich macht, wurde komplett
+in Szenario zwei entwickelt. Verbesserungen und neue Komponenten werden nach
+wie vor ein Thema sein. Die selbstlernende Intelligenz („Machine Learning“) wird hoch
+entwickelt sein und auf einen breiten Erfahrungsschatz von Millionen von Fahrzeugen
+und Milliarden von gefahrenen Kilometern zurückgreifen können. Im Straßenverkehr
+mit vollautomatisierten Fahrzeugen werden weitreichende Veränderungen eintreten.
+Das Ökosystem um das Fahrzeug passt sich vollständig den neuen Bedingungen an.
+Unsere Mobilität wird nicht mehr so sein, wie sie die heutige Generation kennt.
+
+1. Carsharing als Zukunftsmodell
+Auto nutzen statt Auto kaufen.
+
+müssen die Nutzer ein Fahrzeug des Carsharing-
+
+Die Frage des Autobesitzes wird sich mit der Einführung
+
+Unternehmens noch aktiv in ihrer Nähe suchen. Vollständig
+
+der autonomen Technologie signifikant verändern –
+
+autonome Fahrzeuge können einfach zum gewünschten
+
+diese Veränderungen beginnen schon heute. Die aktuell
+
+Ort gerufen werden und holen die Nutzer dort ab –
+
+jüngere Generation und die Großstädter wenden sich
+
+Carsharing von Tür zu Tür wird möglich.
+
+immer mehr davon ab, Vermögenswerte wie ein Auto
+zu kaufen. Sie zahlen lieber für deren Nutzung („pay per
+
+Carsharing wird „as usual“.
+
+use“). Die Automobilindustrie der Vergangenheit und
+
+Dies erhöht die Effektivität der Dienstleistung, und die
+
+der Gegenwart ist nach wie vor auf Geschäftsmodelle
+
+Auslastung der Fahrzeuge kann maximiert werden. Infolge
+
+mit Eigentum fokussiert. Doch mit der geänderten
+
+des gestiegenen Komforts für den Nutzer von Carsharing
+
+Einstellung der Millennials steht dieses Modell vor großen
+
+wird sich die Kundengruppe vergrößern. Carsharing-
+
+Herausforderungen.
+
+Unternehmen werden einen größeren Bestand an
+
+15
+
+Fahrzeugen unterhalten. Wir gehen davon aus, dass das
+Auto kommt zum Kunden.
+
+Verhältnis von Fahrzeugen pro Kunde geringer wird, da
+
+Vor diesem Hintergrund zeichnet sich Carsharing als
+
+die vorhandenen Fahrzeuge besser ausgelastet werden
+
+zukunftsträchtiges
+
+es
+
+können. Dadurch kann die Dienstleistung günstiger
+
+ausschließlich autonome Fahrzeuge auf den Straßen gibt,
+
+Geschäftsmodell
+
+ab.
+
+Wenn
+
+angeboten werden, was die Attraktivität des Carsharings
+
+wird sich das Carsharing weiterentwickeln. Heutzutage
+
+weiter erhöhen wird.
+
+Wenn das Auto die Kontrolle übernimmt – ein Blick in die Zukunft des autonomen Fahrens
+
+S Z E N A R I O D R E I ( U M 20 6 0 )
+
+IV.
+
+WELCHE FAKTOREN WERDEN DIE AUSLASTUNG DER FAHRZEUGE BEEINFLUSSEN?
+
+■ Sofortige und allgegenwärtige Verfügbarkeit (Tür-zu-Tür-Service)
+■ Unterschiedliche Fahrzeugtypen für verschiedene Anwendungsfälle
+■ Einfache Abrechnungsmodelle
+■ Auto ist nicht mehr Statussymbol
+■ „Entfremdung“ von Mensch und Auto (nicht mehr Fahrer, nur noch Passagier)
+
+Sinkende Anzahl benötigter Fahrzeuge pro Kunde durch höhere Auslastung
+
+Gering
+
+Hoch
+
+Anzahl benötigter
+Carsharing-Fahrzeuge
+pro Kunde
+
+Gering
+
+Hoch
+Auslastung der Carsharing-Fahrzeuge
+
+2020
+
+2050
+
+2060
+
+SZENARIO 1
+
+SZENARIO 2
+
+SZENARIO 3
+
+Hauptsächlich normale Autos und
+autonome Fahrzeuge Stufe 3 im
+Einsatz. Hohe Anzahl an
+Carsharing-Fahrzeugen benötigt,
+da Auslastung gering.
+
+Zunehmende Anzahl
+autonomer Fahrzeuge
+Stufe 5 in der Flotte.
+Anzahl benötigter
+Fahrzeuge sinkt
+durch steigende
+Auslastung.
+
+Ausschließlich autonome Fahrzeuge der
+Stufe 5 in der Flotte. Auslastung kann
+maximiert werden.
+
+www.nttdata.de
+
+Angebot- und Nachfrage-Modell
+
+Preis
+
+Marktgleichgewicht
+
+Angebot
+
+1
+
+In Szenario 1 ist die Auslastung der CarsharingFahrzeuge niedrig, da Fahrzeuge der Stufen 2 bis 4
+über die ganze Stadt verteilt stehen müssen, um dort
+auf Kunden zu warten.
+
+2
+
+Daher ist die Auslastung und das Angebot niedrig, da
+Fahrzeuge die meiste Zeit ungenutzt auf Kunden warten.
+
+3
+
+Deshalb ist der Preis im Marktgleichgewicht
+verhältnismäßig hoch.
+
+4
+
+Die Nachfrage nach Carsharing Service zu diesem Preis
+ist daher relativ niedrig.
+
+1
+
+In Szenario 2 steigt die Auslastung der Carsharing
+Fahrzeuge, da Fahrzeuge der Stufe 5 zur Flotte
+kommen. Diese müssen nicht über die Stadt verteilt auf
+Kunden warten, sondern können selbstständig zum
+Kunden fahren, wo und wenn sie gebraucht werden.
+
+2
+
+Dadurch steigt das Angebot.
+
+3
+
+Weshalb der Preis im neuen Marktgleichgewicht sinkt.
+
+4
+
+Wodurch die Nachfrage nach Carsharing zum
+billigerem Preis steigt.
+
+1
+
+In Szenario 3 steigt die Auslastung der Fahrzeuge weiter
+an, weil lediglich Fahrzeuge der Stufe 5 der Flotte
+angehören und diese flexibel zu jeder Zeit an jedem Ort
+Kunden bedienen können.
+
+2
+
+Das Angebot an Carsharing-Leistungen steigt weiter.
+
+3
+
+Der Preis sinkt weiter aufgrund einer abermals
+gestiegenen Auslastung der Fahrzeuge.
+
+4
+
+Die Nachfrage nach Carsharing zu abermals
+gesunkenen Preisen steigt weiter.
+
+2
+
+3
+
+Nachfrage
+4
+
+Szenario 1
+
+Szenario 2
+
+Szenario 3
+
+1
+
+Auslastung der
+Carsharing-Fahrzeuge
+
+Angebot
+
+Preis
+
+Neues Angebot
+
+Neues
+Marktgleichgewicht
+
+2
+
+3
+
+Nachfrage
+4
+
+Szenario 1
+
+Szenario 2
+
+Szenario 3
+
+1
+
+Preis
+
+Auslastung der
+Carsharing-Fahrzeuge
+
+Angebot
+Neues Angebot
+Neues Angebot
+Neues
+Marktgleichgewicht
+2
+
+3
+
+Nachfrage
+
+1
+
+4
+
+Szenario 1
+
+Szenario 2
+
+Szenario 3
+1
+
+Auslastung der
+Carsharing-Fahrzeuge
+
+Wenn das Auto die Kontrolle übernimmt – ein Blick in die Zukunft des autonomen Fahrens
+
+2. Herausforderungen für Autobauer
+Stark rückläufige Neuwagenverkäufe.
+
+gehen wir von einer Nutzungsrate von mehr als 60 Prozent
+
+Während sich die zukünftige Entwicklung positiv für
+
+aus. Die daraus resultierende Steigerung der Auslastung
+
+die Carsharing-Branche darstellt und immer mehr
+
+um den Faktor 12 wird einen nachhaltigen negativen Effekt
+
+Anbieter anlockt, könnte sie sich für die Autobauer –
+
+auf den zukünftigen PKW-Absatz haben.
+
+ohne adäquate Transformation – fatal auswirken. Das
+weitestgehend auf Eigentum basierende Geschäftsmodell
+
+Keine Markenbindung mehr.
+
+der Automobilindustrie wird in Zukunft nicht mehr
+
+Darüber hinaus wird die Markenbindung beim Neuerwerb
+
+zeitgemäß sein. Experten sehen schon jetzt eine
+
+eines autonomen Fahrzeugs weniger bedeutend sein.
+
+rückläufige Wachstumsrate bei den Neuwagenverkäufen.
+
+Bei der Nutzung von autonomen Taxidiensten oder
+
+Autos werden heute nur zu fünf Prozent der Zeit genutzt
+
+Carsharings wird der Kunde keinen großen Wert mehr
+
+und stehen die restlichen 95 Prozent – was uns heute
+
+auf die Marke legen. Andere Kriterien wie Pünktlichkeit,
+
+als vollkommen normal erscheint – ungenutzt auf dem
+
+Zuverlässigkeit, Preis oder Sauberkeit werden eher im
+
+Parkplatz. In Zeiten des autonomen Fahrens der Stufe 5
+
+Vordergrund stehen.
+
+www.nttdata.de
+
+S Z E N A R I O D R E I ( U M 20 6 0 )
+
+IV.
+
+Vom Automobilhersteller
+
+ihr Carsharing-Geschäft darüber hinaus durch eigene
+
+zum Carsharing-Anbieter.
+
+autonome Flotten ausweiten. So können sie bei Kunden
+
+Die Chance für die OEMs besteht darin, selbst Carsharing
+
+ihrer firmeninternen Carsharing-Dienste Werbung für ihre
+
+anzubieten oder in die Infrastruktur von Carsharing-
+
+eigenen Fahrzeuge machen.
+
+Diensten zu investieren. So haben beispielsweise BMW
+oder Mercedes mit „DriveNow“ oder „Car2Go“ diesen
+
+Die Frage ist, ob die drohenden Umsatzverluste aufgrund
+
+Trend bereits vor einigen Jahren erkannt und begonnen,
+
+eines rückläufigen weltweiten Fahrzeugmarktes in Zeiten
+
+ihr eigenes Carsharing-Geschäftsmodell aufzubauen.
+
+des autonomen Fahrens ausreichend durch Carsharing
+
+General Motors investierte vor kurzem rund 500 Millionen
+
+oder
+
+Dollar in das Carsharing-Start-up Lyft. Viele der Premium-
+
+Konnektivität, Werbung oder erweiterte Infotainment-
+
+Anbieter sind hier schon jetzt gut aufgestellt, während die
+
+Dienste bzw. Gamification) kompensiert werden können.
+
+andere
+
+neue
+
+Geschäftsfelder
+
+(zum
+
+Beispiel
+
+Massenanbieter Nachholbedarf haben. Die OEMs können
+
+3. Das Aftersales-Geschäft der Zukunft
+Fraglich ist, welche Chancen das zukünftige Aftersales-Geschäft bietet. Folgende Faktoren werden den Markt beeinflussen:
+Wartung. Die Auslastung der Fahrzeuge
+
+■ Weniger Reparaturen. Die Anzahl der Unfälle wird
+
+wird sich zum Beispiel durch den Wechsel von
+
+sich um mehr als 90 Prozent reduzieren. Analog
+
+der Schiene auf die Straße oder der Erschließung
+
+werden sich auch die entsprechenden Umsätze aus
+
+neuer Kundengruppen wie Jugendliche, körperlich
+
+Reparaturen verhalten.
+
+■ Mehr
+
+beeinträchtigte oder ältere Menschen auf 60 Prozent
+erhöhen. Der Bedarf an Wartungen und Ersatzteilen
+wird linear steigen.
+
+■ Customizing des Innenraums. Nischenanbieter
+
+werden sich darauf spezialisieren, den FahrzeugInnenraum auf die Bedürfnisse der Privat- oder
+
+■ Weniger neue Fahrzeuge. Durch die sinkende Zahl
+
+Geschäftskunden zu „customizen“. Zum Beispiel
+
+verkaufter Fahrzeuge wird sich der Wartungsbedarf auf
+
+wird es Fahrzeuge für geschäftliche Zwecke, für
+
+deutlich weniger Fahrzeuge konzentrieren.
+
+Langstreckenreisen mit der Familie zum Skifahren
+oder für Spaßausflüge mit Freunden am Wochenende
+
+■ Höherer Verschleiß. Diese reduzierte Anzahl an
+
+Fahrzeugen wird jedoch einem erhöhten Verschleiß –
+etwa im Interieur – unterliegen. Dadurch ergibt sich ein
+zusätzliches Aftermarket-Potenzial – zum Beispiel in
+der Nachrüstung von Sitzen oder Displays.
+
+geben.
+
+BEISPIEL-SZENARIO 2060 – UMSATZVERLUST VON 1,2 BILLIONEN EURO
+■ Durchschnittliche Auslastung von PKWs 2017 = 5 Prozent
+und 2060 = 60 Prozent, was einer Steigerung um den Faktor 12 entspricht
+■ Unter der Annahme einer um 40 Prozent gesteigerten weltweiten Kilometer-Fahrleistung bis 2060
+bedeutet das, dass nur noch 11,7 Prozent der Anzahl Fahrzeuge in 2060 im Vergleich zu 2017
+(Basis: 100 Prozent) benötigt werden: 140 Prozent x (100 Prozent / 12) = 11,7 Prozent
+■ Die Top 10 Automotive OEMs haben 2016 weltweit einen Umsatz von ca. 1,4 Billionen Euro erwirtschaftet.
+■ 2060 würde der vergleichbare Markt (konservativ ohne Inflation) nur noch 163,8 Milliarden Euro
+(11,7 Prozent) betragen.
+■ Die OEMs inklusive der gesamten Zuliefererkette müssten demnach einen Umsatzverlust
+von rund 1,2 Billionen Euro kompensieren.
+
+Harter Preisvergleich – vom Fahrzeug selbst!
+
+vertrauenswürdiger erscheinen. Denn ihr technisches
+
+Autonome Fahrzeuge werden in der Lage sein, sich
+
+Wissen stammt quasi aus erster Hand. Aus dem gleichen
+
+selbst zu verwalten. Somit wird sich die Kommunikation
+
+Grund können Kunden bereit sein, etwas höhere Preise zu
+
+mit Anbietern von Fahrzeugreparaturdiensten von den
+
+bezahlen, da es schließlich um ihre eigene Sicherheit geht.
+
+Besitzern auf die Fahrzeuge verlagern. Durch Predictive
+Maintenance können Termine besser organisiert und die
+
+An diesem Punkt wird es für unabhängige Werkstätten
+
+Logistik von Ersatzteilen optimiert werden. Zudem wird
+
+wichtig sein, rasch aufzuschließen und sich profundes
+
+es neue Plattformen geben, über die sich Fahrzeuge
+
+Wissen über die Wartung und Reparatur der autonomen
+
+mit Werkstätten in Verbindung setzen und Informationen
+
+Technologie anzueignen. Ansonsten riskieren sie –
+
+erhalten können. Wenn das Fahrzeug in der Lage ist,
+
+aufgrund eines vermeintlichen Wissensrückstandes –,
+
+selbst zu analysieren, welche seiner Teile gewartet oder
+
+potenzielle Kunden zu verlieren. Da die Zuverlässigkeit
+
+gar repariert werden müssen, wird sich das Fahrzeug
+
+der Teile im eigenen Interesse der Besitzer und Nutzer
+
+über
+
+genau
+
+von autonomen Fahrzeugen liegt, kann es am Anfang
+
+von
+
+mehreren
+
+diese
+
+Plattformen
+
+Werkstätten
+
+Kostenvoranschläge
+unter
+
+verlässlicher erscheinen, Ersatzteile vom Originalhersteller
+
+diesen den besten Anbieter auf Basis vordefinierter
+
+einholen,
+
+um
+
+anstatt günstigere, nicht originale Alternativen zu erwerben.
+
+Selektionsparameter auszuwählen.
+All dies spricht dafür, dass sowohl Original-Zulieferer (OES)
+Kunden setzen verstärkt auf Wartung
+
+als auch OEMs zu Beginn vom Kundendienstgeschäft
+
+von OEM-Werkstätten.
+
+mit autonomen Fahrzeugen profitieren können. Doch
+
+Mit einem autonomen Fahrzeug der Stufe 5 legen
+
+wird auch dieser Vorteil mit der Zeit verschwinden, wenn
+
+Passagiere ihr Leben in die Hand der Technologie, weshalb
+
+das Vertrauen der Kunden in die autonome Technologie
+
+diese zu 100 Prozent vertrauenswürdig sein muss. OEM-
+
+gereift ist und analog auch das Vertrauen in unabhängige
+
+geführte Werkstätten können daher für manche Kunden
+
+Werkstätten und Alternativ-Ersatzteile wieder zunimmt.
+
+S Z E N A R I O D R E I ( U M 20 6 0 )
+
+IV.
+
+„Digitalisierung, autonomes Fahren,
+die weitere Elektrifizierung des Antriebs
+und der Trend, Dinge nicht mehr zu
+besitzen, sondern zu teilen, stehen
+zurzeit im Fokus unserer Industrie.“
+Harald Krüger, Vorstandsvorsitzender BMW AG
+
+4. Möglichkeiten der Freizeitnutzung während der Fahrt
+Fahrzeit ist „Freizeit“.
+
+Rollendes Büro.
+
+Amerikaner, ähnlich wie Deutsche, verbringen durch-
+
+Doch nicht nur der Unterhaltungsbereich kann profitieren.
+
+schnittlich täglich 46 Minuten in ihrem Fahrzeug. Nach
+
+Durch vollständig autonome Fahrzeuge wird das Auto zu
+
+unserem Szenario drei, in dem jeder entweder ein
+
+einer produktiven Büroumgebung. Mit einer ultra-schnellen
+
+autonomes Fahrzeug besitzt oder Zugang zu einem
+
+Internetverbindung, einem Tisch, großzügigen Displays
+
+solchen über Carsharing oder Taxis hat, gewinnen Pendler
+
+sowie relevanten Applikationen für Videokonferenzen,
+
+oder Reisende nahezu eine Stunde pro Tag an zusätzlicher
+
+Messaging, CRM oder Business Analytics können
+
+freier Zeit. Wie bereits erwähnt, wird sich auch das
+
+Geschäftsreisende während der Fahrt wertschöpfend
+
+Interieur der Fahrzeuge verändern und den Passagieren
+
+arbeiten.
+
+zusätzliche Möglichkeiten eröffnen, ihre neu gewonnene
+Zeit intensiv zu nutzen.
+
+Fahrgastraum von zentraler Bedeutung.
+Für private oder geschäftliche Anwendungsfälle wird
+
+Neue Chancen für Unterhaltungs-
+
+es verschiedene Fahrzeugtypen geben, welche sich
+
+und Werbebranche.
+
+besonders durch einen an die individuellen Bedürfnisse
+
+Durch diese Entwicklung kann ein lukrativer Markt für die
+
+angepassten Fahrgastraum unterscheiden werden. Unter
+
+Verbraucherelektronik sowie für die Unterhaltungs- und
+
+der Annahme, dass autonome Fahrzeuge vor allem
+
+Werbebranche entstehen: Passagiere werden regelmäßig
+
+elektrisch angetrieben sein werden, ergeben sich durch
+
+online Infotainment-Systeme und Endgeräte nutzen, zum
+
+den Platzgewinn für die Designer viel größere Gestaltungs-
+
+Beispiel für das Streaming von Filmen oder Musik. Damit
+
+möglichkeiten als heute.
+
+eröffnen sich hier neue Möglichkeiten und zahlreiche neue
+Werbeflächen für die Werbeindustrie.16
+
+Völlig neues Fahrerlebnis.
+Unser alltägliches Fahr-und Reiseverhalten wird sich durch
+
+Alternative Werbemethoden, die man sich auch in
+
+ausschließlich autonome Fahrzeuge komplett verändern.
+
+autonomen Fahrzeugen vorstellen kann, werden im
+
+Auch das Fahrerlebnis, wie wir es heute kennen, wird
+
+Düsseldorfer Nahverkehr bereits via App eingesetzt.
+
+ein anderes sein: Den Fahrertausch unterwegs, die
+
+Dabei erhalten Kunden, die sich einige Minuten lang auf
+
+Erholungspause an der Tankstelle und den Stress in
+
+dem Handy Werbespots ansehen, einen kostenlosen
+
+stundenlangen Staus wird es so nicht mehr geben. Zudem
+
+Fahrausweis und können damit im Austausch gegen
+
+können wir die Zeit im Fahrzeug für Dinge nutzen, die wir
+
+einige Minuten ihrer Zeit und Aufmerksamkeit für jede
+
+wirklich gerne machen.
+
+Fahrt 2,60 Euro sparen.
+
+S Z E N A R I O D R E I ( U M 20 6 0 )
+
+IV.
+
+5. Die Städte wandeln sich
+Heute sind Städte voller Straßen, Fahrzeuge und Verkehrsstaus. An jeder Ecke stehen Straßenschilder und Verkehrsampeln.
+Unsere Autobahnen sind voller Baustellen. Oft führen hoch frequentierte, schmale Straßen durch kleine Städte und Dörfer.
+
+Straßeninfrastruktur
+
+autonomen Fahrzeuge per Datenaustausch darüber
+informiert bzw. dirigiert. Dazu muss es eine Institution
+geben, die den Verkehr zentral regelt.
+
+Weniger Straßenschilder.
+Durch die Einführung vollständig autonomer Fahrzeuge
+wird ein Großteil der Infrastruktur, wie wir sie heute
+
+Automatische Geschwindigkeitsbegrenzung.
+
+kennen, nicht mehr gebraucht. Fahrzeuge und andere
+
+Wenn es zum Beispiel in bestimmten Regionen zu Glatteis
+
+Teile des Verkehrsmanagementsystems können dank IoT-
+
+kommt, kann das übergeordnete Verkehrsleitsystem die
+
+Technologie miteinander kommunizieren. Die Fahrzeuge
+
+Geschwindigkeitsbegrenzung bzw.
+
+werden darüber hinaus mit sehr detailliertem Kartenmaterial
+
+diese Bereiche aussenden und die autonomen Fahrzeuge
+
+ausgestattet, welches sich in Echtzeit mit einer Cloud
+
+werden sich diesen anpassen. Ein weiteres Beispiel ist
+
+bzw. mit anderen Fahrzeugen synchronisiert. Diese hoch
+
+die Geschwindigkeitsbeschränkung vor einer Schule. An
+
+aufgelösten Karten enthalten stets aktuelle Daten wie
+
+einem Schultag kann sie auf 30 Kilometer pro Stunde
+
+Geschwindigkeitsbegrenzungen,
+
+oder
+
+gesetzt werden. An einem Wochenende, an dem keine
+
+Parkraum-Informationen. Somit werden die meisten
+
+Gefahr für die Sicherheit der Schüler besteht, kann die
+
+Straßenschilder nicht mehr notwendig sein. Sie werden
+
+Geschwindigkeitsbeschränkung aufgehoben werden.
+
+Verkehrsregeln
+
+Warnhinweise für
+
+allerdings nicht vollständig aus dem Straßenbild verschwinden. Denn Fußgänger oder Radfahrer benötigen
+
+Straßenschäden automatisch
+
+auch in Zukunft physikalische Beschilderungen. Doch wird
+
+erkennen und melden.
+
+die Zahl der Schilder deutlich abnehmen.
+
+Nicht zuletzt können auch bei Infrastrukturproblemen
+beträchtliche Verbesserungen erreicht werden. Mithilfe der
+
+Verkehrsleitsystem.
+
+in Fahrzeugen gewonnenen Daten können notwendige
+
+Ebenfalls denkbar ist ein virtuelles und übergeordnetes
+
+Infrastrukturprojekte frühzeitig erkannt und gemäß dem
+
+Verkehrsleitsystem, welches Verkehrsregeln, Verkehrsflüsse
+
+Verkehrsvolumen geplant werden. Zum Beispiel kann das
+
+und Geschwindigkeitsbegrenzungen auf der Grundlage
+
+Eintauchverhalten der Radaufhängung autonomer Fahr-
+
+der aktuellen Verkehrsbedingungen optimiert und die
+
+zeuge Erkenntnisse über Schlaglöcher zur Verfügung stellen.
+
+S Z E N A R I O D R E I ( U M 20 6 0 )
+
+IV.
+
+Fahrzeuge „antizipieren“
+Gewohnheiten von Fußgängern
+
+um beispielsweise zum Supermarkt zu gehen, könnten
+diese Routendaten gesendet werden. In dem Moment,
+in dem die Person an der Stelle ankommt, wo sie die
+
+Vorausschauend fahren –
+
+Straße überqueren muss, erhalten die Fahrzeuge das
+
+im wahrsten Sinne des Wortes.
+
+entsprechende Signal, halten an und lassen die Person
+
+Es ist vorstellbar, dass Fahrzeuge die nächsten Schritte
+
+die Straße überqueren. Ohne diese Information wäre
+
+der Fußgänger oder den Pfad von Fahrradfahrern
+
+das Fahrzeug allein auf die korrekte Interpretation seiner
+
+antizipieren. Wenn autonome Fahrzeuge ausgewertete
+
+Sensordaten angewiesen.
+
+Gewohnheitsdaten dieser Verkehrsteilnehmer bekommen,
+können sie damit deren Verhalten an bestimmten Punkten
+mittels künstlicher Intelligenz vorhersagen. Eine andere
+
+Weniger Fläche für Fahrzeuge,
+mehr Lebensraum für Menschen
+
+Möglichkeit wäre auch, Routeninformationen der Smartphones von Verkehrsteilnehmern zur Prognose von
+
+Grünfläche statt Parkfläche.
+
+Verhalten zu nutzen.
+
+Fahrzeuge von Carsharing-Anbietern oder autonome Taxis
+sind nahezu rund um die Uhr im Einsatz, um Kosten zu
+
+Durch die Nutzung dieser Daten lernt das Fahrzeug zum
+
+minimieren und Ressourcen zu optimieren. Daher wird in
+
+Beispiel, dass laut Statistik an einem warmen Sommertag
+
+Ballungsräumen so gut wie kein Parkraum mehr benötigt.
+
+viele Menschen die Straße an einem bestimmten Punkt
+
+Nach Untersuchungen von Rosenzweig und Bartl in der
+
+am Ausgang des Parks überqueren, um zur Eisdiele auf
+
+Stadt Ann Arbor in Michigan (2015)17 werden dort in Zeiten
+
+der anderen Straßenseite zu gelangen. Dementsprechend
+
+autonom fahrender Fahrzeuge nur noch 25 Prozent der
+
+weiß das Fahrzeug, dass es aufmerksam sein muss und
+
+heute benötigten Parkplätze erforderlich sein. Selbst Fahr-
+
+ist darauf vorbereitet, für Fußgänger anzuhalten.
+
+zeuge in Privatbesitz können selbstständig zu Parkplätzen
+außerhalb überfüllter Stadtzentren fahren, nachdem der
+
+Routendaten für mehr Sicherheit.
+
+Besitzer an seinem Fahrziel ausgestiegen ist.
+
+Das Senden von Routendaten vom Smartphone des
+Fußgängers zu den Fahrzeugen in der näheren Umgebung
+
+Dadurch kann mehr Raum für Parks, Grünflächen
+
+stellt eine weitere Möglichkeit zur sicheren Gestaltung des
+
+und Fußgängerzonen genutzt werden, woraus sich
+
+Straßenverkehrs da. Wenn eine Person das Haus verlässt,
+
+städteplanerisch komplett neue Ansätze ergeben können.
+
+Fußgänger und Radfahrer können sich viel sicherer
+
+Stellplatz für Kraftfahrzeuge herzustellen (notwendiger
+
+in den Städten bewegen, was die Lebensqualität in
+
+Kfz-Stellplatz).“ Weniger Garagen (auch Tiefgaragen)
+
+Ballungsräumen beträchtlich steigern wird.
+
+machen das Bauen einfacher und günstiger und geben
+mehr Lebensraum – allein wenn man bedenkt, wie viele
+
+Nicht zuletzt wird Paragraph 37 der Landesbauordnung
+
+der heutigen an der Grundstücksgrenze hochgezogenen
+
+obsolet sein: „Bei der Errichtung von Gebäuden mit
+
+Garagen dann abgerissen werden können.
+
+Wohnungen ist für jede Wohnung ein geeigneter
+
+6. Positiver Einfluss auf die Umwelt
+Bei der Zukunft des autonomen Fahrens muss man auch dessen mögliche Auswirkung auf die Umwelt berücksichtigen.
+Der Transportsektor ist einer der Hauptverursacher für die Emissionen von Treibhausgasen. In den USA gehen etwa
+27 Prozent der schädlichen Emission auf das Konto dieser Branche.18
+Weniger Energieverbrauch.
+
+Das Texas Transportation Institute schätzte schon 2011,
+
+Solange Menschen die Autos fahren, werden sie ineffizient
+
+dass Staus die Amerikaner etwa sieben Milliarden Liter
+
+sein. Sie verfahren sich und müssen
+zusätzliche
+
+Kilometer
+
+zurücklegen.
+
+Kraftstoff pro Jahr kosten.
+Das Fahren in Kolonnen
+
+Echtzeit-Straßenkarten werden Fahr-
+
+„If you have a fully autonomous
+car that talks to other cars
+and traffic signals, then it can
+drive more smoothly, much
+better than a human can, and
+there will be fuel economy
+benefits coming out of that.“
+
+zeuge nicht mehr nach einem Park-
+
+Dave McCreadie, General Manager
+
+Sicherheitsabstand fahren
+
+platz suchen müssen und nicht mehr
+
+Electric Vehicle Infrastructure und Smart
+
+und einen reduzierten Cw-
+
+so viel Zeit in Staus verschwenden.
+
+Grid, Ford Motor Company19
+
+Wert erreichen können.
+
+Sie suchen nach einem Parkplatz
+oder bleiben im Stau stecken. Sie
+beschleunigen zu stark, um nur kurz
+darauf wieder abzubremsen. Autonome Fahrzeuge werden um einiges
+effizienter
+
+fahren.
+
+Mit
+
+Car-to-X-
+
+Kommunikation und hoch entwickelter
+
+(„Platooning“)
+
+bietet
+
+–
+
+insbesondere für LKWs
+– eine gute Möglichkeit
+zur
+
+Kraftstoffeinsparung.
+
+Durch kürzere Reaktionszeiten eines autonomen
+LKWs werden die Fahrzeuge
+
+mit
+
+geringerem
+
+7. Autonome Fahrzeuge übernehmen Jobs
+Wie in den vorherigen Szenarien bereits erläutert, sind
+
+Lieferung, sondern er kann mit seinen Bordsensoren
+
+die Arbeitsplätze von Lastwagen- und Taxifahrern durch
+
+auch Hindernisse auf seinem Pfad erkennen und darauf
+
+autonome Fahrzeuge zweifellos bedroht. Außerdem ist zu
+
+adäquat reagieren.21
+
+erwarten, dass Fahrer von öffentlichen Transportmitteln
+wie Bussen oder U-Bahnen durch künstliche Intelligenz
+
+Darüber hinaus könnten weitere Dienstleistungen aufgrund
+
+ersetzt werden. Als Katalysatoren für die Nutzung
+
+autonomer Fahrzeuge überflüssig werden: Man kann zum
+
+autonomer Technologie in diesen Bereichen wirken
+
+Beispiel auf einer Reise auch im Fahrzeug schlafen. Somit
+
+einerseits reduzierte Lohnkosten und andererseits eine
+
+wird sich der Bedarf für Hotelübernachtungen reduzieren.
+
+erhoffte Effizienzsteigerung.
+
+Pausen für die Besorgung von Lebensmitteln oder für
+den Besuch eines Restaurants neben der Straße könnten
+
+In welchen anderen Bereichen könnte der Einsatz dieser
+
+ebenfalls abnehmen, weil man sein Essen auch einfach am
+
+Technologie ebenfalls sinnvoll sein? Insbesondere bei
+
+Tisch des autonomen Fahrzeugs genießen kann. Wahr-
+
+Aufgaben des öffentlichen Sektors wie Müllabfuhr, Post
+
+scheinlich wird es im Fahrzeug einen Kühlschrank geben.
+
+oder Essenslieferdiensten ist es gut vorstellbar, dass
+autonome Technologien diese Aufgaben übernehmen.20
+
+Dies sind nur einige der augenfälligsten Auswirkungen
+der
+
+autonomen
+
+Technik
+
+auf
+
+Arbeitsplätze
+
+und
+
+In einem Pilotprojekt in Australien nutzt Dominos Pizza
+
+Geschäftsmodelle. Das autonome Fahren wird große
+
+den Lieferroboter DRU und macht die autonome Lieferung
+
+und umfassende Auswirkungen auf unser tägliches
+
+von Essen schon heute möglich. Der Roboter sucht
+
+Leben haben. Deshalb stehen diese Punkte hier nur
+
+sich nicht nur den besten und schnellsten Weg für die
+
+stellvertretend für viele andere.
+
+S Z E N A R I O D R E I ( U M 20 6 0 )
+
+IV.
+
+8. Szenario drei – das Wichtigste im Überblick
+
+SZENARIO DREI – Eine Welt mit ausschließlich vollautomatisierten Fahrzeugen
+
+Carsharing
+
+Möglichkeiten der Freizeitnutzung
+
+■ Gehört zum täglichen Leben
+
+während der Fahrt
+
+■ Auto wird genutzt und nicht gekauft
+
+■ Fahrzeit ist „Freizeit“ –
+
+■ Auto kommt zum Kunden
+
+Zeitgewinn von 45 min/Tag
+■ Neue Chancen für Unterhaltungs-
+
+Herausforderungen für Autobauer
+■ Rückgang der Neuwagenverkäufe um
+
+und Werbebranche
+■ Autonome Fahrzeuge übernehmen Jobs
+
+88 % durch stark gestiegene Auslastung
+■ Deutlich weniger Markenbindung
+
+Städte wandeln sich
+■ Straßeninfrastruktur mit weniger
+
+Aftersales der Zukunft
+■ 90 % weniger Unfälle und daher
+
+weniger Reparaturen
+■ Mehr Wartung und höherer Verschleiß
+
+durch 1200 % höhere Auslastung
+
+Straßenschildern und Verkehrsleitsystem
+■ Fahrzeuge „antizipieren“
+
+Gewohnheiten von Fußgängern
+■ Weniger Fläche für Fahrzeuge,
+
+mehr Lebensraum für Menschen
+
+■ Preisvergleich vom Fahrzeug selbst
+■ Customizing des Innenraums
+
+Positiver Einfluss auf die Umwelt
+■ Mehr Grünflächen
+■ 7 Mrd. Liter Kraftstoff Einsparungen
+
+durch weniger Stau
+
+S Z E N A R I O D R E I ( U M 20 6 0 )
+
+IV.
+
+„In etwa 40 Jahren wird die
+Mehrzahl der Fahrzeuge
+in Städten nicht mehr
+im Privatbesitz sein.“
+Dr. Elmar Degenhart,
+Vorsitzender des Vorstands Continental AG
+
+V.
+
+VOR AUSSE T ZUNGEN FÜR
+AUTONOME FAHR ZEUGE IM ALLTAG
+
+Auch wenn die Technologie bereits weitgehend ausgereift ist und mit Sicherheit in den
+nächsten Jahren Marktreife erreicht, sind dennoch einige weitere Voraussetzungen
+an den Erfolg autonomer Fahrzeuge gekoppelt.
+
+Zusammenspiel der Voraussetzungen für autonomes Fahren
+
+TECHNOLOGISCHE
+REIFE
+
+SICHERHEIT
+
+PREISLICHE
+WETTBEWERBSFÄHIGKEIT
+
+GESELLSCHAFTLICHE
+AKZEPTANZ
+
+RECHTLICHE
+RAHMENBEDINGUNGEN
+
+Diese Voraussetzungen sind zwar für die einzelnen
+
+Um diese Voraussetzungen gewährleisten zu können,
+
+Szenarien der Marktdurchdringung unterschiedlich wichtig
+
+ist es zudem notwendig, dass die jeweiligen Akteure
+
+und haben verschieden hohen Handlungsbedarf, jedoch
+
+aus Politik, Automobil- und Energiebranche und deren
+
+müssen über kurz oder lang alle Voraussetzungen erfüllt
+
+Verbänden, öffentlichen Institutionen und der Gesellschaft
+
+werden, um das autonome Fahren zu einem Erfolgsmodell
+
+diesbezüglich an einem Strang ziehen.
+
+zu machen.
+
+VO R AU S S E T Z U N G E N F Ü R AU TO N O M E FA H R Z E U G E I M A L LTAG
+
+V.
+
+1. Technologische Reife
+Die autonome Fahrzeug-Technologie wird in ein sehr komplexes Ökosystem eingebettet sein, in dem verschiedene
+Plattformen, Systeme oder Komponenten mit dem selbstfahrenden Fahrzeug vernetzt sein werden. Der Datenaustausch
+ist eine der wesentlichen Herausforderungen, der sich die Automobilindustrie und die Telekommunikationsbetreiber
+gegenübersehen. Auch wenn ein autonomes Fahrzeug in der Lage ist, selbstständig zu fahren, ist es auf den Empfang
+von Daten – zum Beispiel Verkehrsinformationen, aktuelle Berichte über Straßenzustände oder Sicherheitsupdates – sowie
+deren lokale Verarbeitung und Speicherung angewiesen.
+Neue Fahrzeugkomponenten erforderlich.
+
+Herausforderung: Lokale Datenverarbeitung
+
+Betrachtet man das Fahrzeug als solches, so werden
+
+und -speicherung im Fahrzeug.
+
+sich nicht nur die im Fahrzeug eingebauten Komponenten
+
+Das autonome Fahren produziert täglich Terabytes von
+
+verändern, sondern es sind neue zu integrieren:
+
+Daten. Somit sind die hocheffiziente Verarbeitung und
+Analyse – unter anderem in Echtzeit – sowie die Sicherung
+
+■ ADAS (Advanced Driver Assistance System) –
+selbstlernender, hochentwickelter Zentralrechner
+
+der Daten von hoher Bedeutung. Diese enorm großen
+Datenmengen bringen die bisherige Car-IT-Architektur
+
+■ Lidar (Light Detection and Ranging)
+
+an ihre Grenzen: Es werden zum einen echtzeitfähige
+
+■ Radar
+
+Datenbusse mit höherer Bandbreite benötigt. Zum anderen
+
+■ Ultraschall
+
+muss die Hardware der Steuergeräte und des zentralen
+
+■ Kameras
+
+ADAS-Bordrechners
+
+■ Blackbox
+
+höheren Rechenleistung ausgestattet sein. Für die Fusion
+
+ebenfalls
+
+mit
+
+einer
+
+signifikant
+
+der Sensordaten von Lidar, Radar und diversen Kameras
+Daten vor Ort.
+
+in Kombination mit „Deep Learning“-Ansätzen werden 20
+
+Viele Funktionen für das autonome Fahren müssen
+
+bis 30 Billionen Rechenoperationen pro Sekunde benötigt.
+
+lokal im Fahrzeug verfügbar sein. Denn das massive
+Datenvolumen, welches in jedem Fahrzeug generiert
+wird, kann nicht über das Mobilfunknetz übertragen und
+in einem entfernten Backend verarbeitet werden. Dazu
+
+AUSWERTUNG FAST IN ECHTZEIT
+
+zählen unter anderem:
+
+Die Leistungsfähigkeit in der Verarbeitung für
+
+■ lokales Erfassen und Fusion von Sensordaten
+■ lokale 360°-Umgebungsinterpretation
+und Labelling von Objekten
+■ lokale (Echtzeit-) Analyse der Daten
+■ kontinuierliche Weiterentwicklung der
+Fahrzeugintelligenz mit selbstlernenden Algorithmen
+■ verlässliche Steuerung des Fahrzeugs über ECUs
+(elektronische Steuereinheiten) und Aktoren
+
+detaillierte Karten ermöglicht beispielsweise die
+Technologie von NVIDIA DRIVE PX 2. Mit vielen,
+teilweise sehr teuren Sensoren lassen sich große
+Datenmengen für die Offline-Auswertung erfassen.
+Die Daten werden lokal im Fahrzeug ausgewertet
+und die Kommunikation mit der Cloud wird
+minimiert. Dadurch kann die Auswertung nahezu
+in Echtzeit erfolgen – eine enorme Verbesserung
+im Vergleich zu den bisherigen langen Laufzeiten
+von bis zu mehreren Wochen.22
+
+VO R AU S S E T Z U N G E N F Ü R AU TO N O M E FA H R Z E U G E I M A L LTAG
+
+V.
+
+Nicht alle Daten werden gebraucht.
+
+(zum Beispiel Bremsverhalten auf schneebedeckten
+
+Jedoch sind nicht alle anfallenden Streaming-Daten
+
+Straßen oder das Verhalten der Verkehrsteilnehmer an
+
+zu speichern. Vielmehr ist klar zu differenzieren, welche
+
+bestimmten Stellen der Straße wie an Schulen oder zu
+
+Daten weiterhin benötigt werden, damit das Fahrzeug sein
+
+bestimmten Tageszeiten wie kurz vor Unterrichtsbeginn)?
+
+zukünftiges Verhalten in unterschiedlichen Situationen
+optimieren kann (Machine Learning). Es ist zu klären:
+
+Software wichtiger als Hardware.
+In Zukunft werden mechanische Komponenten stark
+
+■ Kurzfristig benötigte Daten: Welche Daten werden nur
+
+an Bedeutung verlieren, während die Software das
+
+gebraucht, um mit der aktuellen Situation umzugehen,
+
+wichtigste Element im Fahrzeug sein wird. Deswegen
+
+und können danach gelöscht werden (zum Beispiel
+
+werden viele Autokomponenten künftig keinen Platz in der
+
+aktuelle Temperatur, Radiosender oder Gewicht des
+
+Stückliste haben, was für manche Zulieferer eine große
+
+Fahrzeuginnenraums)?
+
+Herausforderung darstellen wird. Autonome Fahrzeuge
+
+■ Langfristig benötigte Daten: Welche Daten sollten
+
+werden zu rollenden Computern – analog müssen
+
+gespeichert werden, weil sie zur Weiterentwicklung
+
+OEMs und Zulieferer ihre IT- und Software-Kompetenzen
+
+der künstlichen Intelligenz des Fahrzeugs beitragen
+
+signifikant ausbauen.
+
+Komponenten im Fahrzeug – Software
+
+Im Rahmen von Fleet Learning wird das Verhalten eines
+menschlichen Fahrers mit dem Verhalten des zentralen
+
+ADAS – Zentraler Bordrechner künftig
+
+Bordrechners verglichen. An welcher Stelle in einer Kurve
+
+intelligenter als ein Mensch.
+
+würde der Mensch bremsen und wann hätte das Auto
+
+Hoch entwickelte zentrale Bordrechner (ADAS) machen
+
+selbstständig gebremst? Legt man das Verhalten an der
+
+Verarbeitung, Analyse, Verwendung und Speicherung
+
+gleichen geografischen Position von einer großen Zahl an
+
+erzeugter
+
+von
+
+Fahrzeugen übereinander, so kann man den optimalen
+
+Millisekunden. Somit werden sich die heutigen ADAS
+
+Bremszeitpunkt ausloten und diese Information an alle
+
+weiterentwickeln müssen. Internationale Standards wie
+
+anderen Fahrzeuge übermitteln, die diese Stelle noch nicht
+
+ISO 26262 gewährleisten bereits bestimmte funktionelle
+
+passiert haben. Daher lernen die Bordrechner zunächst
+
+Sicherheitsstandards für elektrische und elektronische
+
+vom realen, menschlichen Verhalten und speichern dieses
+
+Systeme wie das ADAS. Sie werden in allen Phasen des
+
+Wissen für zukünftige, vergleichbare Situationen. Auf diese
+
+Lebenszyklus‘ der sicherheitsrelevanten Fahrzeugsysteme
+
+Weise werden über die Zeit die Bordrechner auf einen weit
+
+Anwendung finden.
+
+größeren Erfahrungsschatz zurückgreifen können und
+
+Daten
+
+erst
+
+möglich
+
+–
+
+innerhalb
+
+somit intelligenter sein als ein einzelner Mensch.
+Das maschinelle Lernen – unter anderem basierend
+auf tiefen neuronalen Netzwerken – spielt eine
+tragende Rolle bei der Entwicklung autonomer
+Fahrzeuge. Menschliche Fahrer lernen wichtige
+Verkehrsregeln oder den Umgang mit kritischen
+Situationen von erfahrenen Fahrlehrern und in der
+Fahrpraxis. Auch das autonome Fahrzeug muss
+
+„The whole Tesla fleet operates as a
+network. When one car learns something,
+they all learn it. That is beyond what
+other car companies are doing.“
+
+lernen. Vorprogrammierte Regeln können nicht
+
+Elon Musk, Chief Executive Officer und
+
+jedes mögliche Szenario im Verkehr vorwegnehmen.
+
+Product Architect, Tesla, Inc.
+
+Deshalb sind die selbstfahrenden Computer auf
+Rädern nicht nur mit einer Reihe von vorprogrammierten
+
+Das ADAS und speziell damit verbundene selbstlernende
+
+„Wenn-Dann-Regeln“ ausgestattet, sondern vor allem auf
+
+Algorithmen
+
+selbstlernende Algorithmen und die damit verbundenen
+
+Erfolgsfaktor sowohl für OEMs als auch Zulieferer, die
+
+Lernfähigkeiten angewiesen.
+
+sich eine zukunftsträchtige Marktposition im Bereich der
+
+(Machine
+
+Learning)
+
+sind
+
+ein
+
+zentraler
+
+autonomen Fahrzeuge sichern wollen.
+
+FLEET LEARNING – FAHRZEUGE LERNEN VONEINANDER
+Ein üblicher lernender Algorithmus, der in autonomen Fahrzeugen verwendet wird, sorgt beispielsweise dafür, die
+Lokalisierung und Unterscheidung zwischen Objekten in der Umgebung des Fahrzeugs zu verbessern. Auch
+werden sich Fahrzeuge innerhalb einer Gruppe – zum Beispiel eine Baureihe eines Herstellers – über ihre erlernten
+Verhaltensmuster austauschen und so ihre kollektive Intelligenz erhöhen (Fleet Learning).
+
+Sensorik: Lidar, Radar, Kameras, Ultraschall –
+
+Mit der Kombination der vier genannten Sensorarten
+
+besser als Sehen und Hören.
+
+(Lidar, Radar, Kameras und Ultraschall) und der Fusion
+
+Die Augen und Ohren eines menschlichen Fahrers werden
+
+der erzeugten Sensordaten wird es möglich, eine sehr
+
+im autonomen Fahrzeug durch hochausgereifte Sensorik
+
+verlässliche Erfassung des Umfeldes zu generieren und
+
+ersetzt. An erster Stelle ist dabei der Lidar zu nennen, der
+
+entsprechend das Fahrverhalten des SDCs abzuleiten. Die
+
+auf Basis eines pulsierenden Lasers ein hochaufgelöstes
+
+Verlässlichkeit wird über eine Kreuzvalidierung der jeweils
+
+3D-Abbild seiner unmittelbaren Umgebung und darin
+
+erfassten Sensordaten sichergestellt.
+
+befindlicher Objekte generieren kann. Der Lidar ist aktuell
+noch der mit Abstand teuerste Sensor eines autonomen
+
+Datenaufzeichnung: Blackbox wie im Flugzeug.
+
+Fahrzeugs und erzeugt riesige Datenmengen. Des
+
+Analog zu Flugdatenschreibern („flight data recorder“) in
+
+Weiteren werden Fernbereichs- und/oder Nahbereichs-
+
+Flugzeugen wird die Blackbox im autonomen Fahrzeug
+
+Radarsensoren
+
+alle
+
+verbaut,
+
+welche
+
+mit
+
+sehr
+
+hoher
+
+relevanten
+
+Informationen
+
+wie
+
+Geschwindigkeit,
+
+Genauigkeit den Abstand zu Objekten, ihren Winkel zum
+
+Beschleunigungskräfte, Lenkbewegungen, geografische
+
+eigenen Fahrzeug und ihre relativen Geschwindigkeiten
+
+Positionen
+
+ermitteln können.
+
+aufzeichnen, um bei Unfällen den Hergang möglichst
+
+oder
+
+Fehlerdaten
+
+von
+
+Steuergeräten
+
+lückenlos aufarbeiten zu können. Damit können Behörden
+Im Gegensatz zu Lidar und Radar können Kameras
+
+bzw. Versicherungen auf Basis einer umfangreichen
+
+Farben
+
+Oberflächentexturen
+
+Datenbasis objektiv die Schuld- und die damit verbundene
+
+– zum Beispiel Geschwindigkeitsschilder oder Fahr-
+
+Haftungsfrage klären, sprich: ob der Unfall durch
+
+bahnkennzeichnungen – erkennen und somit eine
+
+menschliches oder technisches Versagen verursacht
+
+Objekt-Klassifizierung
+
+worden ist.
+
+auch
+
+wahrnehmen
+
+Kameras
+
+sehr
+
+und
+
+so
+
+vornehmen.
+große
+
+Jedoch
+
+Datenmengen,
+
+erzeugen
+welche
+
+lokal im Fahrzeug verarbeitet und selektiv gespeichert
+werden müssen. Ultraschallsensoren finden vor allem
+im Nahbereich ihren Einsatz, zum Beispiel in Form von
+Einparkassistenten.
+
+VO R AU S S E T Z U N G E N F Ü R AU TO N O M E FA H R Z E U G E I M A L LTAG
+
+V.
+
+Mechanische Komponenten – Antrieb
+Wir erwarten auch tiefgreifende Veränderungen des
+
+Aufladen – selbstständig zur Ladestation.
+
+Antriebskonzepts: Aktuell geführte politische, techno-
+
+Die
+
+logische und umweltorientierte Diskussionen deuten
+
+Batteriespeicher befindet sich nach Jahren des Stillstands
+
+stark darauf hin, dass der Antrieb nach Erreichen der
+
+seit einiger Zeit in einer technologischen Aufwärtskurve
+
+Vollautomatisierung elektrisch sein wird. Mit den im
+
+und wird zunehmend erschwinglicher. Beispielsweise
+
+Fahrzeug installierten Elektromotoren, Zweiganggetrieben
+
+kostet eine Kilowattstunde Kapazität einer Lithium-Ionen-
+
+und Batteriemodulen ebenso wie mit künstlicher Intelligenz
+
+Batterie aktuell zwischen 200 und 250 US-Dollar. Die
+
+und neuen sensorischen Sinnesorganen, welche dann
+
+Prognose für 2030 liegt bei unter 100 US-Dollar, und in
+
+das Fahrzeug steuern, werden sich auch die technischen
+
+Kombination mit längeren Batterielebenszyklen werden
+
+Prioritäten verschieben.
+
+somit die wesentlichen Marktbarrieren verschwinden.
+
+Stark erhöhter Strombedarf –
+
+Der Aufladevorgang bietet zusätzliche Chancen für
+
+woher kommt die Energie?
+
+Anbieter. Denn: Autonome Fahrzeuge fahren selbstständig
+
+Entwicklung
+
+und
+
+Produktion
+
+der
+
+benötigten
+
+Unter der Annahme, dass zukünftig alle autonomen
+
+zur Ladestation, es wird dabei kein Fahrer anwesend sein,
+
+Fahrzeuge
+
+die
+
+um den Ladevorgang zu starten. Somit müssen effiziente
+
+Frage, aus welcher Quelle die benötigte Energie
+
+Wege zum Aufladen gefunden werden. Entweder wird
+
+stammen wird. Geht man beispielsweise von einem
+
+es eine Renaissance des E-Tankwarts geben oder
+
+Energieverbrauch des autonomen Elektrofahrzeugs von
+
+Roboter justieren das Ladekabel am SDC oder induktive
+
+circa 20 Kilowattstunden pro 100 Kilometer und einer
+
+Ladestationen werden genutzt. Um das Jahr 2050
+
+gesamten jährlichen Fahrleistung von 15.000 Kilometern
+
+oder bereits früher wird es höchstwahrscheinlich einen
+
+aus, benötigt man 3.000 Kilowattstunden Strom vom
+
+Zulassungsstopp für Verbrennungsmotoren geben; damit
+
+Energieanbieter oder von der eigenen Photovoltaik-
+
+wird ein Sterben der heutigen Tankstellen-Landschaft
+
+Anlage. Bei circa 46 Millionen zugelassenen PKWs in
+
+einhergehen. Ebenso wird die Nachfrage nach den
+
+Deutschland entspricht das einem zusätzlichen Energie-
+
+Produkten der Petrochemie-Industrie einbrechen.
+
+elektrisch
+
+sein
+
+werden,
+
+stellt
+
+sich
+
+bedarf von circa 138 Terawatt oder 46 Millionen Zweibis-Drei-Personenhaushalten. Diese zusätzliche Leistung
+wird signifikante Investitionen im Bereich der öffentlichen
+sowie der privaten Energieerzeugung erfordern und bietet
+Chancen für die jeweiligen Infrastrukturanbieter.
+
+Vernetzung des Fahrzeugs mit der Umwelt
+Navigation: Echtzeit-Karten und Satelliten.
+
+Gründe für die satellitengestützte Navigation.
+
+Hochpräzise, dynamische Echtzeit-Karten steuern das
+
+Warum benötigen autonome Fahrzeuge überhaupt eine
+
+Fahrzeug mit einer Genauigkeit im Dezimeter-Bereich und
+
+satellitengestützte Navigation? Eigentlich sollte man
+
+sind somit unverzichtbar für das autonome Fahren. Echt-
+
+annehmen, dass allein durch die eingebaute Sensorik
+
+zeit-Karten finden die bestmögliche Route und enthalten
+
+wie Lidar, Radar oder Kameras Straßen und umgebende
+
+aktuelle Daten über Verkehrsregeln, Straßenschilder,
+
+Objekte zu identifizieren sind. Das ist jedoch aus folgenden
+
+mögliche Hindernisse oder Straßenverhältnisse.
+
+Gründen nicht ausreichend:
+
+Die Bedeutung der richtigen Karten für die autonome
+
+■ Vorausschauende Fahrweise: Dank Navigationssystem
+
+Technologie ist den OEMs bewusst. So haben BMW,
+
+kann das Fahrzeug Geschwindigkeit, Brems- oder
+
+Daimler und Audi 2015 das ehemalige Nokia Unternehmen
+
+Lenkverhalten bereits einige Sekunden im Voraus planen,
+
+HERE erworben. Konkurrenten wie Google entwickeln
+
+bevor die Bord-Sensorik eine Kurve oder Kreuzungen
+
+bereits seit Jahren digitale Karten und verfeinern ständig
+
+überhaupt wahrnimmt und darauf reagieren kann. Mit
+
+deren Inhalte.
+
+Navigationssystem wird das Fahrzeug sozusagen
+zu einem ortskundigen Fahrer, der dank detaillierter
+Straßenkenntnisse sein Fahrverhalten optimal darauf
+einstellen kann – im Gegensatz zu einem Ortsfremden,
+der stark ad hoc fahren muss, was weniger effizient ist.
+
+SATELLITENSYSTEME DER ZUKUNFT
+Autonome Fahrzeuge benötigen für ein hochpräzises Fahrverhalten Genauigkeiten im DezimeterBereich. Damit scheint die Ära des ursprünglichen
+amerikanischen Satellitensystems Navstar GPS
+endgültig vorbei zu sein, das mit einer Positionstoleranz zwischen fünf und 15 Metern nicht die
+notwendige Genauigkeit in der Navigation liefern
+
+■ Kollaboratives Fahren: Mit der Kenntnis der präzisen
+Position
+im
+
+des
+
+Gegenverkehrs
+
+autonomem
+
+Fahrzeug
+
+kann
+
+das
+
+entscheiden,
+
+System
+ob
+
+sich
+
+beispielsweise ein Überholvorgang in einer Kurve oder
+hinter einer Kuppe gefahrlos durchführen lässt. Dasselbe
+gilt für das Abbiegen auf eine schlecht einsehbare
+Kreuzung: Hier ist die präzise Positionsbestimmung von
+Fahrzeugen im Nahbereich sicherheitsrelevant.
+
+kann.
+Das europäische Satellitensystem Galileo bietet
+aktuell einen Meter Genauigkeit für die Öffentlichkeit und einen Zentimeter Genauigkeit mit Verschlüsselung. Bis 2019 wird das auf Galileo
+basierende ESCAPE-Konsortium die Entwicklung
+einer innovativen Positionierungsengine fertigstellen, mit der sich die hohen Sicherheitsanforderungen des autonomen Fahrens erfüllen
+lassen. Das erste für den Automotive-Massenmarkt
+taugliche Galileo-Empfänger-Chipset mit MultiFrequenz-Fähigkeit wird eine Kernkomponente
+dieser Positionierungsengine sein.
+
+Die entsprechenden zukünftigen Technologien werden
+elementare Bestandteile eines jeden autonomen Fahrzeugs
+sein und stellen somit ein erhebliches Marktpotenzial dar.
+
+VO R AU S S E T Z U N G E N F Ü R AU TO N O M E FA H R Z E U G E I M A L LTAG
+
+V.
+
+Connected Car Backend: schneller neue Features.
+
+Offiziellen Angaben zufolge liegt die 4G-Netzabdeckung in
+
+Experten für Car-IT werden voll integrierte ADAS, Sensor-
+
+Deutschland aktuell bei mehr als 90 Prozent in Bezug auf die
+
+und ECU (Electronic Control Unit)-Systeme entwickeln
+
+Bevölkerung. Die Praxis zeigt jedoch, dass selbst entlang
+
+müssen, welche die künstliche Intelligenz für das
+
+wichtiger Autobahnabschnitte die Verbindungsqualität
+
+autonome Fahrzeug und dessen Betriebssystem abbilden.
+
+oft zu wünschen übrig lässt. Funklöcher wird man sich
+
+Das Connected Car Backend gehört in der Regel den
+
+in Zeiten des autonomen Fahrens jedoch nicht mehr
+
+OEMs und ist eine tragende Säule für funktionskritische
+
+leisten können. Die Bereitstellung von 5G in Europa wird
+
+Fahrzeug- und Infotainment-Dienstleistungen.
+
+Schätzungen zufolge ca. 300 bis 500 Milliarden Euro
+an Investitionen benötigen und um 2020 zur Verfügung
+
+Mehr Softwarespezialisten sind also dringend erforderlich.
+
+stehen.
+
+Zudem muss sich die Automobilindustrie auf deutlich
+schnellere Entwicklungs- und Produktlebenszyklen ein-
+
+Car-to-X-Kommunikation für effizienteren
+
+stellen – so wie sie in der IT üblich sind. Am Beispiel Tesla
+
+Verkehrsfluss und weniger Unfälle.
+
+lässt sich dieser Trend eindrucksvoll darstellen: Neue
+
+Durch das Internet of Things (IoT) und durch Car-to-Car-
+
+Features bzw. das Schließen von Sicherheitslücken durch
+
+Kommunikation wird der Verkehr reibungsloser fließen
+
+Patches werden mit „Over-the-Air“ Software Updates
+
+können, Unfallzahlen werden sinken. Ein effizienterer
+
+gemacht. Wenn morgens der Besitzer oder Benutzer
+
+Verkehrsfluss wird weniger CO2- und Stickoxid-Ausstoß
+
+in das SDC steigt, kommt er in den Genuss neuer
+
+produzieren bzw. in Zeiten der Elektromobilität insgesamt
+
+Funktionalitäten oder einfach eines neuen „Look and Feel“
+
+weniger Energie benötigen und somit einen wichtigen
+
+seines Fahrzeugs.
+
+Beitrag zum Umweltschutz leisten. Sinkende Unfallzahlen
+sind sowohl Chance als auch Herausforderung für die
+
+Mobilfunk: Mindestens 5G.
+
+Versicherungsunternehmen. Denn Haftungsansprüche
+
+Die öffentliche Telekommunikationsinfrastruktur wird sich
+
+werden auf ein Minimum sinken. Werden die Versicherer in
+
+auf Veränderungen einstellen müssen. Auch wenn ein
+
+Zeiten autonomen Fahrens vielleicht obsolet?
+
+autonomes Fahrzeug ohne ständige Internetverbindung
+fahren kann, wird die heutige LTE–Technologie für
+
+Außerdem werden Fahrzeuge nicht nur miteinander
+
+einen Datenaustausch im erforderlichen Umfang nicht
+
+kommunizieren, sondern auch mit ihrem gesamten
+
+ausreichen. Für die zunehmende Nutzung von Info-
+
+Ökosystem
+
+tainment- und Streaming-Diensten während des Fahrens
+
+Ladestationen. Für eine solche direkte Kommunikation
+
+sind bessere Netze mit höherer Leistungsfähigkeit
+
+mit
+
+unabdingbar.
+
+Kommunikationspunkte mit Einheiten zum Senden und
+
+dem
+
+wie
+
+Ampeln,
+
+Fahrzeug
+
+Parkhausschranken
+müssen
+
+alle
+
+oder
+
+möglichen
+
+Empfangen von Daten ausgestattet werden. Hier wird
+Eine
+
+effektive
+
+mindestens
+
+die
+
+Car-to-X-Kommunikation
+zukünftige
+
+benötigt
+
+5G-Mobilfunktechnologie,
+
+ein ganz neuer Markt entstehen, der ein beträchtliches
+Potenzial mit sich bringt.
+
+welche speziell für „Device-to-Device“, eine extrem
+stabile und massive Maschinen-Kommunikation, aus-
+
+Verkehrsinfrastruktur – Fahrzeuge
+
+gelegt sein wird. Der kommende Standard soll dabei
+
+sprechen sich untereinander ab.
+
+Datentransferraten von zehn bis 20 Gigabit pro Sekunde
+
+Physische Verkehrszeichen und Verkehrsführungselemente
+
+bei sehr geringen Latenzzeiten von weniger als einer
+
+lassen sich durch die Nutzung der autonomen Technologie
+
+Millisekunde ermöglichen – während 4G typischerweise im
+
+minimieren: Verkehrsregeln und Verkehrsinformationen
+
+Bereich von 200 Megabits pro Sekunde operiert. Dadurch
+
+werden einfach an das SDC gesendet und dynamisch
+
+werden ad hoc Datenknoten für einen Datenaustausch
+
+aktualisiert. Daher muss es eine übergeordnete Institution
+
+zwischen dem Fahrzeug, anderen Verkehrsteilnehmern
+
+geben, welche den Verkehr auf Basis einer IT-Plattform
+
+und Komponenten des Internet of Things ermöglicht.
+
+zentral regelt.
+
+IT-PLATTFORM STATT SCHILDER UND AMPELN
+Künftig wird eine IT-Plattform extrem umfangreiche Informationen über standortabhängige Verkehrsregeln
+enthalten: Zwischen welchen Geo-Koordinaten entlang welcher Straße gibt es eine Tempo-30-Zone?
+In welchen Straßenabschnitten herrscht absolutes Halteverbot? An welcher Kreuzung gibt es welche
+Vorfahrtsregeln?
+Sogar der komplette Wegfall von Ampelanlagen ist denkbar: Die Fahrzeuge koordinieren sich untereinander
+und regeln je nach Verkehrsaufkommen die Vorfahrt dynamisch im Sinne der besten Lösung für den Schwarm.
+Ähnlich kann es sich beispielsweise bei Tempolimits rund um eine Schule verhalten: Außerhalb der Schulzeiten
+an Werktagen, am Wochenende oder während Ferienzeiten könnte das Limit von 30 auf 50 Kilometer pro
+Stunde hochgesetzt werden, ohne dass dabei physische Straßenschilder benötigt werden.
+
+Die aktuell geltenden Verkehrsregeln könnten dynamisch
+
+Testfahrten.
+
+auf einen Screen oder die Scheiben des autonomen
+
+Statistisch betrachtet sind rund fünf Milliarden Kilometer an
+
+Fahrzeugs projiziert werden, damit sie den Passagieren
+
+Testfahrten zu bewältigen, damit SDCs so sicher werden
+
+bekannt sind und sie somit das Fahrverhalten des SDCs
+
+wie Fahrzeuge, die von Menschen gesteuert werden.
+
+nachvollziehen können.
+
+Angesichts dieser gewaltigen Zahl simulieren OEMs
+Testfahrten in virtuellen Umgebungen, die Realität und
+
+Werden
+
+Fahrbahn-
+
+entsprechende Anwendungsfälle (Verkehrssituationen) so
+
+begrenzungen, zum Beispiel Leitplanken, überflüssig
+
+darüber
+
+hinaus
+
+auch
+
+bauliche
+
+genau wie möglich nachbilden. Hier wird Gamification eine
+
+werden? In Zeiten einer hochentwickelten und somit
+
+nachhaltige Rolle spielen.
+
+hochverlässlichen autonomen Fahrzeugflotte ist dies
+durchaus denkbar. Durch den Wegfall dieser baulichen
+Begrenzungen wäre es auch möglich, die Nutzung der
+Straßen je nach Verkehrsaufkommen zu flexibilisieren.
+
+VO R AU S S E T Z U N G E N F Ü R AU TO N O M E FA H R Z E U G E I M A L LTAG
+
+V.
+
+2. Sicherheit
+Cyber-Sicherheit – zentral für breite Akzeptanz.
+
+Over-the-Air Software Updates –
+
+Angesichts zunehmender Cyber-Kriminalität ist Cyber-
+
+nicht nur für die Sicherheit.
+
+Sicherheit im Zusammenhang mit autonomem Fahren
+
+Jeder, der einen Computer besitzt, weiß: Software ist
+
+ein wichtiges Thema. So fürchtet zum Beispiel mehr
+
+ständigen Bedrohungen durch Viren, Trojaner oder
+
+als die Hälfte der Generation Y (die von 1980 an bis zur
+
+Malware ausgesetzt und muss daher stets auf dem
+
+Jahrtausendwende Geborenen), dass vernetzte und
+
+aktuellsten Stand gehalten werden. Autonome Fahrzeuge
+
+autonome Fahrzeuge gehackt werden können. Seit
+
+werden über diverse Schnittstellen wie 5G / M2M oder
+
+2015 ein Jeep gehackt wurde und dadurch ein Unfall
+
+Bluetooth mit der Außenwelt verbunden sein. Somit
+
+verursacht wurde, ist mehr als deutlich, wie gefährlich
+
+gibt es entsprechend viele Einfallstore für Hacker und
+
+Sicherheitslücken sein können. Für die volle Akzeptanz
+
+Schadsoftware. Ein gehacktes Fahrzeug ist nicht nur für
+
+der neuen Technik müssen der Schutz vor Hackerangriffen
+
+seine Insassen, sondern auch für seine Umgebung eine
+
+und die Vertraulichkeit von Daten garantiert sein.
+
+direkte Gefahr. Daher müssen OEMs regelmäßig bzw. ad
+hoc Software Updates wie Patches einspielen.
+
+Auch Autodiebstahl kann durch Hacking einfacher werden,
+womit erhebliche wirtschaftliche Schäden entstehen
+
+Software
+
+können. Die Umsätze von Cyber-Versicherungen werden
+
+Sicherheitslücken
+
+voraussichtlich von zwei Milliarden Dollar im Jahr 2015 auf
+
+werden
+
+7,5 Milliarden Dollar im Jahr 2020 steigen.
+
+standortabhängige Werbung oder die Aktualisierung von
+
+Updates
+dadurch
+
+werden
+
+im
+
+Fahrzeug
+
+auch
+
+neue
+
+jedoch
+
+nicht
+
+schließen.
+
+nur
+
+Vielmehr
+
+Infotainment-Dienste,
+
+Kartenmaterialien ermöglicht. Darüber hinaus werden
+Innerhalb der Automobilbranche war Tesla einer der ersten
+
+neue Erkenntnisse aus Verkehrs- und Fahrzeugdaten,
+
+OEMs, die den Einsatz der OTA (Over-the-Air)-Technologie
+
+die von zahlreichen autonomen Fahrzeugen gesammelt
+
+im Fahrzeug realisiert haben. Die klassischen OEMs
+
+wurden, allen anderen Fahrzeugen zur Verfügung gestellt –
+
+haben sich damit vor allem aus Sicherheitsgründen bisher
+
+Stichwort „Fleet Intelligence“. Dadurch wird das Fahrzeug
+
+schwergetan. Der Bedarf wurde aber inzwischen erkannt,
+
+intelligenter und sicherer.
+
+sodass an einer raschen Umsetzung gearbeitet wird.
+
+V.
+
+GRÜNDE FÜR OTA UPDATES
+Das Bereitstellen von Updates „over-the-air“ hat mindestens zwei gute Gründe:
+1. Häufigkeit der Updates. Software muss jederzeit auf dem neuesten Stand sein – mit regelmäßigen Updates,
+die sicherheitsrelevante Lücken schließen und funktionale Erweiterungen bringen. Würde das Fahrzeug für ein
+Update jedes Mal eine Werkstatt aufsuchen müssen, ließe sich Sicherheit nicht zeitnah gewährleisten.
+2. Gewohnheit. Wir sind es inzwischen aus der IT- und Unterhaltungselektronik gewohnt, Updates über Funk zu
+empfangen: Unsere Smartphones, Tablets, Computer und unsere anderen ständig mit dem Internet verbundenen
+elektronischen Geräte wie Router oder Flachbildschirme aktualisieren selbstständig ihre Firmware, Betriebssysteme, Apps oder auch komplexe Business-Applikationen. Der Anspruch bzw. die Gewohnheit der Konsumenten
+aus dem Bereich der Consumer Electronics überträgt sich nun auf die Automobilbranche.
+
+Automotive Player als Datenschützer
+und IT-Spezialisten.
+Sicherheitsexperten kritisieren, dass OEMs ständig um
+
+Der Stellenwert des Datenschutzes ist individuell. Er variiert
+
+sicheres Fahren bemüht sind, aber die Sicherheit der Daten
+
+je nach Alter, Geschlecht, Bildungsstand, geografischer
+
+nicht immer im Vordergrund steht. Die Datenmengen,
+
+Herkunft etc. Auf diese unterschiedlichen Bedürfnisse
+
+die von autonomen Fahrzeugen produziert werden, sind
+
+müssen Hersteller und Dienste-Anbieter reagieren und
+
+wertvoll und sensibel. Sie enthalten Informationen über
+
+den unterschiedlichen Nutzergruppen die Wahlfreiheit
+
+Bewegungsmuster,
+
+und
+
+über den Grad des Daten-Sharings mit Drittanbietern
+
+Vorlieben, Finanzdaten und vieles mehr. An dieser Stelle
+
+einräumen. OEMs und Anbieter können sich dafür
+
+kann es von enormem Vorteil sein, bewährte Verfahren und
+
+erprobte Verfahren aus der IT-Industrie zunutze machen.
+
+persönliche
+
+Gewohnheiten
+
+technologische Herangehensweisen aus der IT-Branche
+in die gesamte Lösungsarchitektur des autonomen Fahrzeugs zu integrieren.
+
+3. Rechtliche Rahmenbedingungen
+Aktuelle Rechtslage in Deutschland.
+
+Internationale Rechtslage.
+
+Damit autonome Fahrzeuge den Markt erobern können,
+
+In den USA ist die Rechtslage anders: Die Vereinigten
+
+muss ein politischer Diskurs über neue Gesetze,
+
+Staaten haben die Konvention nicht unterzeichnet, somit
+
+Verkehrsvorschriften, Sicherheits- und Haftungsfragen
+
+sind die Vorschriften dort nicht gültig. In Amerika legt
+
+geführt werden. Bis 2014 war es in Deutschland und 73
+
+jeder Bundesstaat seine eigenen Gesetze zur Nutzung
+
+weiteren Ländern, die 1968 das Wiener Übereinkommen
+
+autonomer Fahrzeugen fest. Seit 2012 haben erst
+
+über den Straßenverkehr unterzeichnet haben, streng
+
+wenige Bundesstaaten das autonome Fahren in ihrer
+
+verboten, selbstfahrende Fahrzeuge zu benutzen. Die
+
+Gesetzgebung berücksichtigt und das Testen und Fahren
+
+Vorgabe lautete: Der Fahrer muss ein Fahrzeug jederzeit
+
+von autonomen Fahrzeugen genehmigt.25
+
+unter Kontrolle haben. Diese Konvention wurde 2014
+angepasst: Sie gestattet nun den Einsatz autonomer
+
+Auch China hat die Wiener Konvention nicht unterzeichnet.
+
+Fahrzeuge, allerdings unter der Maßgabe, dass der Fahrer
+
+Das Land tut sich jedoch schwer mit Gesetzen, die das
+
+die Kontrolle jederzeit übernehmen kann.23
+
+Testen autonomer Fahrzeuge auf Autobahnen erlauben.
+Und das, obwohl China für seine schnellen und zahlreichen
+
+In Deutschland wurden 2017 entsprechende Gesetze auf
+
+Innovationen bekannt ist.26
+
+den Weg gebracht, welche die Änderungen der Konvention
+in Kraft treten lassen.24 Fahrzeuge der Stufen 3 und 4 sind
+
+Länderübergreifende Koordination notwendig.
+
+heute erlaubt, autonome Fahrzeuge der Stufe 5 jedoch
+
+Ein koordiniertes länderübergreifendes Vorgehen wäre
+
+nicht.
+
+jedoch erforderlich, so dass bei Grenzübertritten der
+Fahrzeuge diese wie im Ursprungsland betrieben werden
+dürfen und mit dem ausländischen Verkehr harmonieren.
+
+4. Gesellschaftliche Akzeptanz
+Akzeptanz-Kurve.
+Die beste Technik und der günstigste Preis
+nutzen nichts, wenn ein Produkt keine breite
+Akzeptanz bei den Zielkunden findet. Ein
+Teil der Bevölkerung steht dem autonomen
+Fahren heute misstrauisch und teilweise
+ängstlich gegenüber. Es ist verständlich, dass
+die Menschen Zeit brauchen, um sich daran
+zu gewöhnen, ihr Leben einer Maschine
+anzuvertrauen.
+Bei der Erfindung des Sicherheitsgurtes
+standen
+
+die
+
+Technologie
+
+Menschen
+
+auch
+
+der
+
+skeptisch
+
+„Beim selbstfahrenden Auto wird immer
+die Frage gestellt, wenn da jemand über
+die Straße läuft, wie soll das ausweichen?
+Auf der einen Seite stehen drei alte Frauen,
+auf der anderen Seite steht ein Kleinkind –
+was ist jetzt moralischer, drei alte Frauen
+zu überfahren oder ein Kleinkind?“27
+Philosoph Richard David Precht
+
+neuen
+
+gegenüber.
+
+Heute ist klar: Sicherheitsgurte retten Leben – der Gurt ist
+zur Selbstverständlichkeit geworden. Ein weiteres Beispiel
+ist der Autopilot im Flugzeug, welcher selbstständig das
+
+Flugzeug fliegt. Auch hier haben wir uns daran gewöhnt,
+dass eine Maschine das Flugzeug steuert und die
+Wahrscheinlichkeit für einen Fehler minimiert wird.
+Wie es bei technischen Entwicklungen auch schon
+früher häufig der Fall war, wird es vor allem die jüngere
+
+PROGNOSE FÜR MARKTDURCHDRINGUNG
+
+Generation sein, die am Anfang mehr Interesse zeigt und
+andere Altersgruppen von der Technologie überzeugt.
+
+Die autonome Technologie wird analog zu anderen
+
+Die Marktdurchdringung wird sich am Anfang zögerlich
+
+Innovationen eine vergleichbare Akzeptanzkurve
+
+und später – ab einem bestimmten „Inflection Point“ –
+
+durchlaufen, jedoch dürfte diese im direkten
+
+exponentiell verhalten. Die Akzeptanz ist das Ergebnis
+
+Vergleich länger ausfallen. Beim Festnetz-Telefon
+
+eines längerfristigen Lernprozesses in der Gesellschaft.
+
+hat es von der Erfindung bis zur 80-prozentigen
+
+Wenn Menschen mit der Technologie in Berührung
+
+Marktdurchdringung in den USA circa 90 Jahre
+
+kommen und deren lebensrettendes Potenzial erkennen,
+
+gedauert, bei der Elektrizität circa 70 Jahre und
+
+wird auch die Akzeptanz steigen.
+
+beim Smartphone nur noch zehn Jahre. Unser
+prognostizierter Zeitraum für eine vergleichbare
+Marktdurchdringung der autonomen Fahrzeuge
+beträgt 40 bis 50 Jahre, nicht zuletzt getrieben
+durch den großen kulturellen Wandel sowie die
+Höhe der Investitionsvolumina.
+
+VO R AU S S E T Z U N G E N F Ü R AU TO N O M E FA H R Z E U G E I M A L LTAG
+
+V.
+
+Keine Akzeptanz von Unfällen durch
+
+Ethische und moralische Aspekte.
+
+selbstfahrende Fahrzeuge.
+
+Oft wird auch das Problem der moralischen Ent-
+
+Kritisch für die Akzeptanz ist vor allem die Frage, ob wir
+
+scheidungsfindung für autonome Fahrzeuge aufgeführt.
+
+Unfälle und Schäden, die durch Computer verursacht
+
+Dazu sagt Philosoph Richard David Precht: „Das selbst-
+
+werden,
+
+fahrende Auto stellt in moralischer Hinsicht kein Problem
+
+genauso
+
+akzeptieren
+
+wie
+
+Unfälle
+
+durch
+
+menschliches Versagen.
+
+dar. Beim selbstfahrenden Auto wird immer die Frage
+gestellt, wenn da jemand über die Straße
+
+“I suspect that the public tolerance for robot
+accidents will be much lower than it is for
+human accidents, to me, that looms larger and
+is more challenging [than the technology].”28
+Chris Dixon, Silicon Valley Investor bei Andreessen Horowitz
+
+läuft, wie soll das Auto ausweichen? Auf
+der einen Seite stehen drei alte Frauen, auf
+der anderen Seite steht ein Kleinkind – was
+ist jetzt moralischer, drei alte Frauen zu
+überfahren oder ein Kleinkind? Doch diese
+Frage stellt sich nicht, aus zwei Gründen:
+Der erste Grund ist: Kein selbstfahrendes
+Auto kann das unterscheiden. Und das
+Zweite ist: Ich programmiere das Auto
+
+Wie Medien-Berichte zeigen, reagieren Menschen bei
+
+generell mit einer Standardeinstellung – grundsätzliches
+
+Unfällen durch selbstfahrende Fahrzeuge oft empört
+
+Ausweichen nach links wenn möglich, und wenn nach
+
+oder sogar ängstlich. Die gängige Reaktion: „Autopiloten
+
+links nicht möglich, dann nach rechts.“30
+
+gehören verboten“. Andererseits haben nur wenige
+Unfälle herkömmlicher Fahrzeuge technisches Versagen
+
+Eine gewisse Akzeptanz für das Versagen von Computern
+
+als Ursache. In Deutschland werden bei den jährlich
+
+oder Robotern ist notwendig. Der Anspruch von Politik,
+
+etwa 2,5 Millionen Unfällen circa 3.400 Menschen durch
+
+Industrie und Gesellschaft muss sein, dass autonome
+
+menschliches Versagen getötet. Diese Tragödien werden
+
+Fahrzeuge deutlich weniger Unfälle und Todesfälle
+
+weitestgehend von der Gesellschaft akzeptiert.
+
+verursachen.
+
+29
+
+Länderspezifische Akzeptanz.
+Laut einer Marktanalyse des World Economic Forum
+
+Die folgende Grafik zeigt die Ergebnisse der Studie für
+
+(WEF) würden weltweit fast 60 Prozent der Menschen ein
+
+die interessanten Märkte USA, Deutschland, China und
+
+vollkommen selbstständig fahrendes Fahrzeug nutzen.
+
+Indien:
+
+Würden die Menschen ein autonomes Fahrzeug fahren?31
+
+0,02
+0,03
+0,1
+0,29
+
+Indien
+
+0,56
+0,02
+0,06
+0,16
+0,43
+
+China
+
+0,32
+0,18
+0,12
+0,17
+0,25
+0,27
+
+USA
+0,21
+0,15
+
+Nein
+
+0,2
+
+Eher nein
+
+0,23
+0,21
+
+Deutschland
+
+Neutral
+
+0,12
+0,11
+
+Eher ja
+0,19
+
+Weltweit
+
+Ja
+
+0,29
+0,29
+
+Das Ergebnis zeigt insgesamt eine breite Akzeptanz des
+
+als in den asiatischen Ländern wie China und Indien.
+
+autonomen Fahrens in den untersuchten Ländern. Diese
+
+Besonders in Indien würden über 50 Prozent gerne ein
+
+ist jedoch nicht überall gleich hoch. In westlichen Ländern
+
+selbstfahrendes Fahrzeug nutzen. In Deutschland sind es
+
+wie Deutschland und USA liegt sie signifikant niedriger
+
+dagegen nur 21 Prozent.
+
+VO R AU S S E T Z U N G E N F Ü R AU TO N O M E FA H R Z E U G E I M A L LTAG
+
+V.
+
+Komplett anderer Fahrgastraum.
+
+„Liebe“ zum eigenen Fahrzeug muss abnehmen.
+
+Der Fahrzeuginnenraum wird ebenfalls einem signifikanten
+
+Ein weiteres wichtiges Thema ist die Betrachtung des
+
+Wandel unterliegen. Durch den Wegfall des „Fahrer-
+
+Fahrens als eine Frage des Lebensstils oder als Hobby.
+
+arbeitsplatzes“ entstehen gänzlich neue Gestaltungs-
+
+Damit das autonome Fahren in Zukunft eine reelle Chance
+
+möglichkeiten und damit einhergehende Geschäfts-
+
+hat, muss das Fahren aus Leidenschaft für die Menschen
+
+modelle. Der Fahrgastraum wird zukünftig je nach
+
+weniger wichtig werden.
+
+Anwendungsfall für geschäftliche oder private Aktivitäten
+ausgeprägt sein.
+
+Nach wie vor ist für viele Menschen das Fahren eines
+schnellen Autos, das Tuning oder die Pflege sehr wichtig.
+Sie finden die Vorstellung verrückt, nicht mehr selbst
+fahren zu können. Für sie bedeutet Fahren nicht nur,
+
+DER FAHRGASTRAUM DER
+
+von A nach B zu kommen. Doch es ist absehbar, dass
+
+ZUKUNFT – BEISPIELE FÜR NEUE
+
+sich die Gewohnheiten der Menschen in Bezug auf das
+
+NUTZUNGSMÖGLICHKEITEN
+
+Autofahren ändern. Für die Generationen Y und Z sind der
+
+Ein autonomes Fahrzeug, das beispielsweise viel
+für lange Strecken benutzt wird, könnte entsprechende Entertainment- sowie Schlaf- und
+Essensmöglichkeiten bieten. Ein Fahrzeug für die
+
+Besitz eines Autos und der Erwerb eines Führerscheins
+nicht mehr so wichtig wie für die Generation X. Besonders
+in den urbanen Regionen Deutschlands machen weniger
+Teenager ihren Führerschein als früher.
+
+morgendliche und abendliche Fahrt hin zum und
+
+Fahren als Hobby.
+
+zurück vom Büro würde entsprechend mit einem
+
+Das bedeutet allerdings nicht, dass das Fahren als
+
+Büroarbeitsplatz ausgestattet sein.
+
+Hobby nicht mehr möglich sein wird. Beispielsweise
+war das Reiten bis zu Beginn des 20. Jahrhunderts
+kein Hobby, denn Pferde dienten fast ausschließlich als
+wichtiges Transportmittel. Als sich dann zunehmend die
+„motorisierten Kutschen“ durchsetzten, wurde Reiten zum
+
+Vor diesem Hintergrund werden neue Anbieter entstehen –
+
+Hobby für eine relativ kleine Zahl von Pferdeliebhabern
+
+von
+
+und ist es bis heute geblieben.
+
+zielgruppenorientierten
+
+Innenraumausstattungen
+
+sowie den jeweiligen privaten und geschäftlichen Infotainment-Dienstleistungen. Die Nutzung einer Video- oder
+Telefonkonferenz inklusive Application Sharing wird dann
+zur Normalität im Fahrzeug werden.
+Displays bringen neue Marktchancen.
+In diesem Kontext werden die Marktchancen vor allem
+im Bereich der Konnektivität und der flexiblen DisplayTechnologie liegen. Der Einzug von Displays in autonome
+Fahrzeuge eröffnet auch ein enormes Potenzial für die
+Werbeindustrie. Insbesondere in Flottenfahrzeugen oder
+autonomen Taxis können diese Displays genutzt werden,
+um (standortabhängige) Werbung ins Fahrzeug zu bringen.
+Dabei gilt wie üblich: Je günstiger der Preis pro Kilometer,
+desto mehr Werbung für die Passagiere.
+
+5. Preisliche Wettbewerbsfähigkeit
+Entwicklung der Autopreise.
+
+6.000 Euro. Dieser lag in den 1980er-Jahren bei 8.420 Euro,
+
+Genauso wichtig wie die gesellschaftliche Akzeptanz ist
+
+was damals etwa die Hälfte des durchschnittlichen
+
+die Erschwinglichkeit der Technologie. Der Besitz auto-
+
+Jahreseinkommens von 16.100 Euro nach Steuern
+
+nomer Fahrzeuge oder die Nutzung von Carsharing oder
+
+ausmachte.32 In den vergangenen zehn Jahren sank der
+
+autonomer Taxis muss bezahlbar sein. Die Deutschen
+
+Durchschnittspreis in Deutschland nur einmal. Das war
+
+geben durchschnittlich 28.153 Euro (Listenpreis) für
+
+2009, als die Bundesregierung die „Abwrackprämie“
+
+ein neues Fahrzeug aus. Das entspricht fast einem
+
+einführte. Das führte dazu, dass viele Kunden ein neues
+
+durchschnittlichen Jahresgehalt. Das durchschnittliche
+
+Fahrzeug kauften, die sich sonst kaum eines hätten leisten
+
+Einkommen in Deutschland liegt bei rund 35.000 Euro
+
+können. Diese Aktion drückte den Durchschnittspreis für
+
+jährlich nach Steuern. Der Durchschnittspreis für einen
+
+kurze Zeit. Dabei ging es vor allem um kleinere Fahrzeuge.
+
+Neuwagen erhöhte sich in den letzten zehn Jahren um
+
+Entwicklung der durchschnittlichen Neuwagen-Kaufpreise in Deutschland (in Euro) 33
+Einmaleffekt aufgrund
+der Abwrackprämie
+
+28.153
+
+24.913
+
+24.853
+23.466
+
+2006
+
+26.564
+
+21.775
+
+2007
+
+2008
+
+2009
+
+Menschen sind heute bereit, mehr für Fahrzeuge zu
+bezahlen. Diese Entwicklung lässt annehmen, dass auch
+in Zukunft mehr Geld für Autos ausgegeben werden wird.
+Dies ist für die Verbreitung des autonomen Fahrzeugs
+wichtig.
+
+26.450
+
+24.794
+
+22.793
+
+2005
+
+25.893
+
+27.189
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+VO R AU S S E T Z U N G E N F Ü R AU TO N O M E FA H R Z E U G E I M A L LTAG
+
+V.
+
+Kostentreibende Faktoren.
+Die Preistreiber bei autonomen Fahrzeugen sind Sensoren
+
+mit Autopilot Hardware und Software an Bord liegt mit
+
+und das ADAS. Wie man bereits am Markt für teil-
+
+einem Preis von 35.000 Dollar in einem erschwinglichen
+
+autonomes Fahren und fortschrittliche Fahrerassistenz-
+
+Segment. Marktforscher gehen davon aus, dass das
+
+systeme beobachten kann, fallen die Preise für neue Ent-
+
+Komplettsystem für SDCs 2035 – nach dem Einsetzen
+
+wicklungen schnell. Das bedeutet, dass sie mit der Zeit für
+
+von Skaleneffekten – nur noch circa 3.000 Dollar zu-
+
+mehr Menschen erschwinglich sein werden. Hat der Lidar
+
+sätzliche Kosten verursachen wird. Auch die Preise der
+
+von Velodyne vor einigen Jahren noch circa 75.000 Dollar
+
+Entwicklungsphase, die bei rund 100.000 Dollar liegen,
+
+gekostet, so liegen die Kosten für diese Komponente
+
+müssen sinken. Sie dürfen nur leicht höher liegen als
+
+heute nur noch bei rund 500 Dollar. Ein teilautonomer
+
+bei herkömmlichen oder teilweise autonom fahrenden
+
+Honda Civic mit ADAS kostet rund 20.000 Dollar.
+
+Modellen.
+
+Auch das gerade am Markt erhältliche Tesla Model 3
+
+Skaleneffekte.
+
+Start im Premium-Segment.
+
+Eine weitere Frage ist, wie viel mehr ein autonomes
+
+Wie die meisten technologischen Innovationen in der
+
+Fahrzeug im Vergleich zu einem herkömmlichen Fahrzeug
+
+Automobilindustrie wird auch die autonome Fahr-
+
+kosten wird und darf. Der Preis für autonome Fahrzeuge
+
+zeugtechnologie zunächst im Premiumsegment eingeführt
+
+wird dann wettbewerbsfähig sein, wenn das Verhältnis von
+
+werden. Jedoch wird auch hier die Zahlungsbereitschaft
+
+Preis zu Jahreseinkommen ähnlich ist wie heute und der
+
+an Grenzen stoßen. Durch die Reife der Technologie und
+
+Betrag, den man für den Besitz oder die Nutzung eines
+
+damit verbundene Skaleneffekte wird die Ausbreitung
+
+autonomen Fahrzeugs aufbringen muss, den Menschen
+
+in das Mittelklasse- und Kleinwagen-Segment voran-
+
+wirtschaftlich sinnvoll erscheint.
+
+getrieben und somit für eine breite Kundengruppe
+finanziell tragbar. Durch den effizienten Rund-um-dieUhr-Einsatz von Fahrzeugflotten werden auch die Preise
+für Dienstleistungen wie Carsharing, Taxidienste oder
+Logistiktransporte durch Lastwagen sinken.
+
+VO R AU S S E T Z U N G E N F Ü R AU TO N O M E FA H R Z E U G E I M A L LTAG
+
+V.
+
+FA ZIT
+
+Die Veränderungen, welche das autonome Fahren mit sich bringt, sind enorm. Somit befindet sich die
+Automobilbranche derzeit in einem radikalen Umbruch. Vermutlich wird sich die Branche in den nächsten
+zehn Jahren stärker verändern als in der gesamten bisherigen Zeit seit Erfindung des Automobils. Vor allem
+getrieben durch Player aus dem Silicon Valley entwickelt sich die Technologie heute rasant schnell.
+In dieser Evolution des Automobils wird die Verbreitung des autonomen Fahrens voraussichtlich drei Szenarien
+durchlaufen und sich von bedingt zu hoch und schlussendlich zu voll automatisierten Fahrzeugen entwickeln.
+Um diese Entwicklung zu ermöglichen, müssen Politik, Gesellschaft und Industrie gleichermaßen mitwirken,
+damit die nötigen Voraussetzungen geschaffen werden.
+Neben all den Chancen birgt diese Entwicklung auch große Risiken für das klassische Geschäft der Automotive
+OEMs und Zulieferer, da der Absatzmarkt durch gestiegene Auslastungsraten der Fahrzeuge potenziell auf
+zwölf Prozent des heutigen Marktes schrumpfen könnte.
+Chancen hingegen bestehen vor allem in der Entwicklung neuer Plattformen rund um das autonome Fahrzeug,
+in den neuen Technologien wie ADAS oder der Sensorik sowie in neuartigen Innenraumkonzepten.
+
+MIT NT T DATA GESCHÄF TSMODELLE, ORGANISATION,
+PROZESSE UND IT NEU AUSRICHTEN
+NTT DATA unterstützt die etablierte Automobil- und Zulieferindustrie, mit dieser
+Entwicklung Schritt zu halten, die weltweite Marktführerschaft zu verteidigen und sich
+differenzierend zu positionieren. Dafür sind integrierte Gesamtlösungen mit einem gut
+funktionierenden Zusammenspiel von Prozessen und IT-Applikationen notwendig. Die
+nahtlose Integration der „Embedded“-Fahrzeugwelt mit dem Internet of Things und dem
+Connected Car Backend wird den entscheidenden Wettbewerbsvorteil ausmachen.
+Zudem gilt es, die Grundlagen für neue Geschäftsmodelle, zum Beispiel Carsharing, zu
+schaffen – nicht nur im Hinblick auf die IT, sondern auch auf Sicherheits- und rechtliche
+Fragen. Auch hier sind wir für die Automotive-Branche Ansprechpartner Nummer eins.
+
+Wenden Sie sich an uns!
+
+RE
+VO DUZI
+N
+E
+STO STAU RUNG
+CK S U
+VER END ND
+KE EM
+HR
+
+EFFE
+K
+NUTZ TIVERE
+UNG
+FAHR
+DER
+TZEIT
+ODER (BERUFLI
+CH
+PRIVA
+T)
+
+NG N
+RU LE
+SE EL
+ES IDU T
+RB IV ITÄ
+VE IND BIL
+O
+R
+DE M
+
+VO VER
+N ME
+UN VER IDU
+FÄ KE NG
+LL HR
+EN S-
+
+G
+RE TUN ES
+E
+T
+G S
+RI LA IER EN
+D
+E
+E B IM T
+NI LT PT HAL
+E O
+W H VER
+M
+U URC HR
+D FA
+
+HEU UMWAN
+TIG
+DLU
+IN ANER PARK NG
+FLÄ
+DERE
+FORM CHEN
+EN
+
+VO R T E I L E AU TO N O M
+E
+
+ST
+I G
+D LLS ER
+ER T IN
+A G
+(
+AU OP FAH ND ER
+SL TIM RZ SZ E
+AS IE EU EIT
+TU RT G EN
+N E E
+G
+)
+
+ES
+NOM UND
+O
+T
+AU NGSTU
+RWAR PARATU NT
+RE GEME
+A
+MAN
+
+S FA
+HRE
+N
+
+OPTIMALES
+CARSHARING
+(ZU JEDER ZEIT
+)
+AN JEDEM ORT
+
+Wenn das Auto die Kontrolle übernimmt – ein Blick in die Zukunft des autonomen Fahrens
+
+ÜBER DEN AU TOR
+
+Christian Seider
+
+Co-Autorin
+
+ist Vice President Automotive bei NTT DATA Deutschland und
+
+Christina Radis ist Consultant im Bereich Automotive bei
+
+verantwortet dort das Geschäft mit den Automobilzulieferern.
+
+NTT DATA Deutschland. Sie ist Bachelor-Absolventin des Global
+
+Er verfügt über 17 Jahre Erfahrung in der Beratungs- und
+
+Business Managements an der Universität Augsburg und hat
+
+IT-Dienstleistungsbranche und war zuvor Associate Partner
+
+sich auf international tätige Unternehmen und Besonderheiten
+
+Automotive bei IBM.
+
+des länderübergreifenden Wirtschaftens spezialisiert.
+
+Seine Schwerpunkte liegen im Bereich der Geschäftsmodell-
+
+Danksagung
+
+transformation, Process Excellence sowie der IT-System-
+
+■ Lukas Albrecht, Art Director
+
+implementierung und -betreuung für Automotive Tier 1
+
+■ Edwin Benz, Account Partner Automotive Suppliers &
+
+und OEMs. Er ist zertifizierter Berater und hat zahlreiche
+
+Manufacturing
+
+Artikel und Whitepaper über disruptive Markttrends und
+
+■ Oliver Köth, Chief Technology Officer
+
+Produktinnovationen in der Automobil- und Hightech-Industrie
+
+■ Jens Krüger, Product Lifecycle Management, Automotive
+
+verfasst.
+
+■ Odine Mansury, Leiterin Industrie Marketing Automotive &
+
+Seinen Abschluss in Wirtschaftsingenieurwesen hat er 1998
+
+■ Felix Sagemüller, Consultant Aftersales & Services
+
+in Karlsruhe erworben und „Executive Education“ am Stanford
+
+■ Maximilian Scholze, Praktikant Universität Augsburg
+
+Center for Professional Development genossen.
+
+■ Michael Unruh, VP und Leiter Connected Business Solutions
+
+Manufacturing
+
+Beruflich wie privat ist er Auto-Enthusiast und ihn treibt
+#besonders der noch nie dagewesene Wandel in der
+Automobilbranche an.
+Christian Seider steht unter christian.seider@nttdata.com
+zur Verfügung oder folgen Sie ihm auf Twitter @chrseider
+oder LinkedIn.
+
+www.nttdata.de
+
+QUELLEN
+
+Literatur
+■
+
+1
+
+http://www.computerweekly.com/news/4500269854/CES-2016-Connectivity-drives-new-business-models-for-car-industry
+
+■
+
+2
+
+http://www.mckinsey.com/industries/automotive-and-assembly/our-insights/ten-ways-autonomous-driving-could-redefine-the-
+
+■
+
+3
+
+http://www.businessinsider.com/chris-dixon-future-of-self-driving-cars-interview-2016-6?IR=T
+
+■
+
+4
+
+http://carsharing.de/alles-ueber-carsharing/carsharing-zahlen
+
+■
+
+5
+
+https://carsharing.de/sites/default/files/uploads/grafik_carsharing-entwicklung_2017_gesamt.pdf
+
+■
+
+6
+
+http://www.bzp.org/Content/INFORMATION/Zahlen_Fakten/index.php?Z_highmain=4&Z_highsub=10&Z_highsubsub=0
+
+■
+
+7
+
+http://www.bls.gov/ooh/transportation-and-material-moving/taxi-drivers-and-chauffeurs.htm
+
+■
+
+8
+
+http://www.heise.de/newsticker/meldung/Singapur-Stadtstaat-testet-autonome-Taxis-2534980.html
+
+■
+
+9
+
+Roland Berger Studie PDF bzw. http://www.dvz.de/rubriken/landverkehr/single-view/nachricht/studie-autonome-lkw-koennten-
+
+■
+
+10
+
+■
+
+11
+
+http://www.gdv.de/wp-content/uploads/2013/08/Was_Autounfaelle_kosten_GDV-2013.pdf
+
+■
+
+12
+
+http://www.mckinsey.com/industries/automotive-and-assembly/our-insights/ten-ways-autonomous-driving-could-redefine-the-
+
+■
+
+13
+
+■
+
+14
+
+http://www3.weforum.org/docs/WEF_Press%20release.pdf
+
+■
+
+15
+
+http://www.automotiveworld.com/analysis/impact-fully-autonomous-driving-new-business-models/
+
+■
+
+16
+
+https://www.mckinsey.de/files/mck_connected_car_report.pdf
+
+■
+
+17
+
+Rosenzweig, Juan und Bartl, Michael (2015): A Review and Analysis of Literature on Autonomous Driving, The Making-Of
+
+■
+
+18
+
+http://ensia.com/features/are-self-driving-vehicles-good-for-the-environment/
+
+■
+
+19
+
+http://theecoguide.org/how-green-future-self-driving-cars
+
+■
+
+20
+
+https://www.mckinsey.de/files/mck_connected_car_report.pdf
+
+■
+
+21
+
+https://www.dominos.com.au/inside-dominos/technology/dru
+
+■
+
+22
+
+http://www.nvidia.de/object/hd-mapping-system-de.html
+
+■
+
+23
+
+http://www.zeit.de/mobilitaet/2016-04/autonomes-fahren-gesetzentwurf-verkehrsrecht-alexander-dobrindt
+
+■
+
+24
+
+https://www.bundesregierung.de/Content/DE/Artikel/2017/01/2017-01-25-automatisiertes-fahren.html
+
+■
+
+25
+
+http://www.ncsl.org/research/transportation/autonomous-vehicles-legislation.aspx
+
+■
+
+26
+
+http://www.ncsl.org/research/transportation/autonomous-vehicles-legislation.aspx
+
+■
+
+27
+
+http://www.deutschlandfunk.de/die-zukunft-der-arbeit-wir-dekorieren-auf-der-titanic-die.911.de.html?dram:article_id=385022
+
+■
+
+28
+
+http://www.businessinsider.com/chris-dixon-future-of-self-driving-cars-interview-2016-6?IR=T
+
+■
+
+29
+
+https://www.destatis.de/DE/PresseService/Presse/Pressemitteilungen/2016/07/PD16_242_46241.html
+
+■
+
+30
+
+http://www.deutschlandfunk.de/die-zukunft-der-arbeit-wir-dekorieren-auf-der-titanic-die.911.de.html?dram:article_id=385022
+
+■
+
+31
+
+http://www3.weforum.org/docs/WEF_Press%20release.pdf
+
+■
+
+32
+
+https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/VerdiensteArbeitskosten/VerdiensteVerdienstunterschiede/
+
+■
+
+33
+
+automotive-world
+
+viele-probleme-loesen.html
+https://www.destatis.de/DE/ZahlenFakten/Wirtschaftsbereiche/TransportVerkehr/Verkehrsunfaelle/Tabellen/
+PolizeilichErfassteUnfaelle.html;jsessionid=5B775EC32DAA45352C9F0ECAB0B3BEAD.cae3
+
+automotive-world
+http://www.automobilwoche.de/article/20160827/AGENTURMELDUNGEN/308269938/autonomes-fahren-vw-digitalchefprophezeit-das-ende-des-fuehrerscheins
+
+Innovation (E-Journal), Seite 1-57
+
+Tabellen/Bruttomonatsverdienste.html
+CAR Center Automotive Research Universität Duisburg-Essen: http://www.focus.de/auto/ratgeber/kosten/heute-28-153-euro-imschnitt-preis-wahnsinn-so-explodierten-die-kosten-fuer-einen-neuwagen-seit-1980_id_4887167.html
+
+Wenn das Auto die Kontrolle übernimmt – ein Blick in die Zukunft des autonomen Fahrens
+
+Bilder
+■ Seite 1:
+
+Jesus Sanz/Shutterstock
+
+■ Seite 7:
+
+chombosan/Shutterstock
+
+■ Seite 8:
+
+Lukas Albrecht
+
+■ Seite 8:
+
+chombosan/Shutterstock
+
+■ Seite 8:
+
+monicaodo/Shutterstock
+
+■ Seite 9:
+
+Macrovector/Shutterstock
+
+■ Seite 9:
+
+monicaodo/Shutterstock
+
+■ Seite 9:
+
+MSSA/Shutterstock
+
+■ Seite 10:
+
+chombosan/Shutterstock
+
+■ Seite 10:
+
+Lukas Albrecht
+
+■ Seite 10:
+
+Lukas Albrecht
+
+■ Seite 11:
+
+gst /Shutterstock
+
+■ Seite 11:
+
+Lukas Albrecht
+
+■ Seite 11:
+
+Golden Sikorka/Shutterstock
+
+■ Seite 12/13: Pretty Vectors/Shutterstock, Freepick.com, flaticon.com
+■ Seite 14:
+
+Rawpixel.com/Shutterstock
+
+■ Seite 17:
+
+Mopic/Shutterstock
+
+■ Seite 18:
+
+Panchenko Vladimir/Shutterstock
+
+■ Seite 20/21: phoelixDE/Shutterstock
+■ Seite 23:
+
+Rawpixel.com/Shutterstock
+
+■ Seite 25:
+
+Africa Studio/Shutterstock
+
+■ Seite 26/27: wavebreakmedia/Shutterstock
+■ Seite 28/29: Rob Wilson/Shutterstock
+■ Seite 30:
+
+Romrodphoto/Shutterstock
+
+■ Seite 32/33: Chesky/Shutterstock
+■ Seite 35:
+
+Stephan Guarch/Shutterstock
+
+■ Seite 36:
+
+Pavel L Photo and Video/Shutterstock
+
+■ Seite 39:
+
+Karsten Neglia/Shutterstock
+
+■ Seite 43:
+
+Zapp2Photo/Shutterstock
+
+■ Seite 46:
+
+Chesky/Shutterstock
+
+■ Seite 48/49: TWStock/Shutterstock
+■ Seite 50:
+
+g-stockstudio/Shutterstock
+
+■ Seite 54/55: SFIO CRACHO/Shutterstock
+■ Seite 57:
+
+Just Super/Shutterstock
+
+■ Seite 59:
+
+chombosan/Shutterstock
+
+■ Seite 60:
+
+NTT DATA_Phillip Spehrlich
+
+■ Seite 63:
+
+YIUCHEUNG/Shutterstock
+
+■ Seite 64/65: ESB Professional/Shutterstock
+■ Seite 66:
+
+Pressmaster/Shutterstock
+
+■ Seite 68:
+
+Wassana Mathipikhai/Shutterstock
+
+■ Seite 72/73: Chesky/Shutterstock
+
+www.nttdata.de
+
+#besonders
+Über NTT DATA
+NTT DATA ist ein weltweit führendes Business- und IT-Consultingunternehmen mit über 100.000
+Mitarbeitern in 40 Ländern. In der Region EMEA sind wir mit mehr als 14.000 Mitarbeitern für unsere
+Kunden vor Ort – engagiert und mit Leidenschaft für IT. Als globaler Innovationspartner unserer
+Kunden kombinieren wir globale Reichweite und lokale Nähe – auch mit unseren Innovations­
+zentren vor Ort.
+Wir sind Partner unserer Kunden auf ihrem Weg zum digitalen Unternehmen. Zu unserem Portfolio
+zählen Business- und IT-Consulting, Systemintegration und Application Management Services.
+Unsere Technologieführerschaft ist gepaart mit einem tiefen Verständnis unserer Zielmärkte
+Automotive, Manufacturing, Banking, Insurance und Telecommunication.
+Wir helfen unseren Kunden besonders zu sein – besonders in Kundennähe, Produktqualität und
+wirtschaftlichem Ergebnis.
+www.nttdata.com/de
+
+NTT DATA Germany I Hans-Döllgast-Straße 26 I 80807 München I Telefon +49 89 9936 0 I www.nttdata.com
+
+

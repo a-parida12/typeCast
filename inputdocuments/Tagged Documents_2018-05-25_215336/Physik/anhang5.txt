@@ -1,0 +1,121 @@
+Hinweise für die Lehrerinnen und Lehrer
+
+Überblick 
+Stufe, Schulbereich: Sekundarstufe II, Physik als Grundlagenfach, Maturitätsschulen Klassen 11 - 13, Fachhochschulen
+Fachliche Vorkenntnisse: Grundlagen von Strahlenoptik, Wellenoptik und Elektromagnetismus
+Bearbeitungsdauer: Fundamentum 12 Lektionen, 2 Addita zusammen 8 bis 16 Lektionen.
+Zuerst lernen die Schülerinnen und Schüler, dass das Licht nicht bloss Wellen- sondern auch Teilcheneigenschaften zeigt und dass das Auflösungsvermögen eines Lichtmikroskop für Atome nicht ausreicht. Im 2. Kapitel erfahren sie komplementär, dass Elektronen wie andere Elementarteilchen auch Welleneigenschaften besitzen und dass das Elektronenmikroskop den Blick auf einzelne Atome erlaubt. Als Synthese des widersprüchlichen Verhaltens von Quantenobjekten wird die Unschärferelation angeboten. Sie erlaubt eine Beschreibung verschiedenartiger Phänomene, insbesondere des Tunneleffekts. Wie er im Raster-Tunnelmikroskop ausgenützt wird, rundet den erst im 20. Jahrhundert möglich gewordenen Einblick in eine fremdartige Welt ab. 
+Das Additum 1 gibt eine Anleitung für das Experiment zur Bestimmung von h mit einem Satz von Leuchtdioden. Im Additum 2 gehen die Schülerinnen und Schüler den nie verstummten Streitigkeiten um die Interpretation der Quantentheorie nach. 
+
+Das Besondere am Leitprogramm "Kann man Atome sehen?"
+Es geht darum, das konzeptionell Neuartige gegenüber der klassischen Physik deutlich zu machen. Das Quantitative ist im Fundamentum sekundär. Wir verzichten bewusst auf das Fehlvorstellungen fördernde, sogenannte "Bohr'sche Atommodell". Ebenso stellen wir die historische Entwicklung in den Hintergrund. 
+Natürlich können wir die besonderen Lernschwierigkeiten bei der Quantenphysik nicht vom Tisch wischen. Wer mehr wissen möchte, greife zu einem der folgenden Bücher:
+Fischler H. (ed.): Quantenphysik in der Schule. Kiel 1992 (Institut für Pädagogik der Naturwissenschaften). - Eine Dokumentation der deutschen Physikdidaktiker.
+Lichtfeldt M.: Schülervorstellungen in der Quantenphysik und ihre möglichen Veränderungen durch Unterricht. Essen 1992 (Westarp Wissenschaften) - Eine sorgfältige Habilitationsarbeit.
+ter Haar D.: Quantentheorie, Einführung und Originaltexte. Braunschweig 1969 (Vieweg). - Eine kommentierte Zusammenstellung von Originaltexten, insbesondere mit dem Atommodell von Bohr und dem Franck-Hertz-Versuch.
+
+Stoffliche Voraussetzungen für das Fundamentum
+Damit das Leitprogramm mit Erfolg eingesetzt werden kann, sollten bekannt sein:
+•	Kinematik und Dynamik des Massenpunkts, Energie, Impuls
+•	Frequenz, Wellenlänge (quantitativ), Amplitude, Intensität (qualitativ)
+•	Huygens'sches Prinzip, Beugung, Interferenz von Wellen
+•	Bestimmung der Wellenlänge anhand des Interferenzmusters
+•	Brechung, Brennweite von Linsen
+•	Grundbegriffe aus Elektrostatik und Elektromagnetismus
+
+Experimente im Fundamentum
+1.1: (Farb)Teilchen am Spalt
+1.2: Interferenz mit Wasserwellen
+2.1: Elektronen aus dem Atomkern
+2.2: Elektronen in der Vakuumröhre
+2.3: Elektronenbeugung an Graphit
+3.1: Tunneleffekt mit Mikrowellen
+
+
+Zum Additum 1
+Die Grösse des Planckschen Wirkungsquantums wird in diesem Leitprogramm aus Zeitgründen hingenommen. Zur Ergänzung kann diese wichtige Naturkonstante im Schülerexperiment mit einem Satz von Leuchtdioden selber bestimmt werden. Im Anschluss an eine kurze Darstellung des theoretischen Hintergrunds wird eine vollständige Anleitung geliefert. Übungsaufgaben gibt es kaum. Die Dokumentation im Laborjournal ersetzt einen Kapiteltest.
+Benötigte Unterrichtszeit: 4 Lektionen im Minimum; weitere 4 Lektionen, wenn man die Wellenlängen kontrollieren möchte.
+Voraussetzungen: Fundamentum; Sicherheit im Umgang mit elektrischen Messgeräten; Grundkenntnisse über Aufbau und Eigenschaften von Halbleitern.
+Experimente: 
+A1.1: Hauptversuch h-Bestimmung
+A1.2: (Zusätzlich) Kontrolle der Lichtwellenlängen
+A1.3: (Zusätzlich) Kontrolle der IR-Wellenlängen
+
+
+Zum Additum 2
+Sehr oft spielt die Quantentheorie im Philosophie- und Religionsunterricht oder in Diskussionen um literarische Werke eine Rolle. In der Physikausbildung wird leider zu oft verschwiegen, dass die Grundlagen der Quantenphysik noch umstritten sind. Damit werden nicht nur Gelegenheiten verpasst, mit anderen Fächern zusammenzusarbeiten und ein anderes Schülersegment anzusprechen. Dadurch wird auch ein wesentlicher Aspekt von Wissenschaft verdeckt: Sie ist immer offen für neue Ideen und für unerwartete Ergebnisse neuer Experimente.
+Im Additum 2 wird ein populärwissenschaftlicher Text mit vertiefenden Kommentaren angeboten. Mehrere Ausschnitte aus Originaltexten geben Gelegenheit, das konzeptionelle Denken von Grössen wie Einstein und Schrödinger mitzuerleben.
+Benötigte Unterrichtszeit: 4 Lektionen für den Hauptteil; weitere 4 Lektionen für die Arbeit mit den Originaltexten.
+Voraussetzungen: Fundamentum, Fähigkeit, philosophische Texte zu lesen.
+Hinweis: Für eine Studienwoche zusammen mit Philosophie, Deutsch oder Religion geeignet.
+Experimente: keine
+
+Allgemeines zum Unterrichten mit ETH-Leitprogrammen
+
+Leitprogramme sind ...
+... schriftliches Selbststudienmaterial für die einzelnen SchülerInnen,
+... eingerichtet für Zeitspannen von etwa 3 bis 12 Lektionen,
+... unterteilt in ein Fundamentum (= Grundstock für alle) und mehrere, unabhängige Addita mit unterschiedlicher Thematik und anregendem Zusatzstoff für Schnelle, Interessierte,
+... abwechslungsreich dadurch, dass Experimente, Videosequenzen, Lektüren in der Handbibliothek usw. eingebaut sind,
+... mit der Möglichkeit zu ständiger Selbstkontrolle durch Zusammenfassungen, Fragen, Übungs- und Kontrollaufgaben bestückt,
+... mit Kontrollmöglichkeiten für die Lehrkraft durch Kapiteltests, die einzeln mündlich oder in Gruppen schriftlich durchgeführt werden, versehen.
+
+Leitprogramme sind nicht ...
+... vorgesehen für Projektunterricht, wo die Ziele vorerst noch offen sind.
+... Fallstudien. Die Fragestellungen sind in den Leitprogrammen meist abgeschlossen.
+
+Absichten der ETH-Leitprogramme
+- Sie bringen Abwechslung in den Unterrichtsstil.
+- Sie reduzieren den Anteil an lehrerzentriertem Unterricht.
+- Sie fördern die Eigenverantwortung der Lernenden für ihren Lernfortschritt.
+- Sie bereiten auf die Universität vor (selbständiges Studium neben den Vorlesungen).
+- Sie realisieren das "mastery learning": erst weiterfahren, wenn die Voraussetzungen sitzen.
+- Sie liefern sorgfältige Formulierungen in kritischen Gebieten, z.B. in der Quantenphysik.
+- Sie erlauben individuelles Lerntempo und individuellen Arbeitsort.
+- Sie vermitteln den besonders Leistungsfähigen Anregungen durch den Stoff der Addita.
+
+Leitprogramme aus der Sicht von Lehrerinnen und Lehrern ...
+Eine erfreuliche Überraschung bei der Erprobung der ETH-Leitprogramme waren Berichte über neue, persönliche Kontakte: Bei den mündlich durchgeführten Kapiteltests, im Zusammenhang mit den Experimenten, nach der Lektüre in der Handbibliothek oder "einfach so". Viele Jugendliche wagten in diesen Situationen eher Fragen zu stellen. Nun hatten sie nicht mehr das Gefühl, bei ihnen falle der Groschen viel langsamer als bei allen andern der Klasse.
+
+... und aus der Sicht von Schülerinnen und Schülern:
+Vorteil von Leitprogrammen: Man muss nur soviel arbeiten, wie man will. - Nachteil von Leitprogrammen: Man sollte mehr arbeiten, als man will. (Rückmeldung eines Schülers)
+Maturandinnen und Maturanden merken also die Absicht, dass sie mit den LPR als mündig betrachtet werden. Sie entdecken offensichtlich auch eigene Schwächen.
+Generell sind die Urteile günstig: Beinahe alle wünschen sich ein bis zwei Leitprogramme pro Fach und Schuljahr. Negativ vermerkt wird vor allem die fehlende Kontaktperson für Fragen.
+
+Was macht der Lehrer, die Lehrerin, beim Arbeiten mit Leitprogrammen? 
+1) Vor dem Start
+... gibt es eine Reihe von Vorbereitungsarbeiten:
+- Vorkenntnisse abklären und nötigenfalls bereitstellen
+- Experimentiermöglichkeiten abklären und ergänzen, Versuchsanleitungen anpassen
+- Bücher für die Handbibliothek beschaffen
+- Zeitlimiten und Notengebung bestimmen
+- Arbeitsorte festlegen, allenfalls unter Mitwirkung des Rektorats (Versicherungsfrage)
+- Leitprogramme, Arbeitsanweisungen usw. für SchülerInnen vervielfältigen
+- Tests und Schlussprüfung vorbereiten, Räume und Zeitpunkte festlegen, eventuell einen Tutor 	oder eine Tutorin informieren und einarbeiten
+2) Während der Leitprogrammphase...
+... stehen Sie zwar nicht im Rampenlicht, sind aber trotzdem ausgelastet mit:
+- Tests durchführen, korrigieren und rückmelden
+- Einstellungen und Reparaturen bei Video und Experimenten
+- Fragen von einzenlen Schülerinnen und Schülern beantworten
+3) Nach Abschluss
+- Fehler und Verbesserungsmöglichkeiten im Text vermerken
+- Tabellen, Bücher, Experimente und andere Medien aufdatieren
+- Neue Kapiteltests und Klausuren vorbereiten, weil eine gewisse Diffusion unvermeidlich ist.
+	Lehrkräfte werden also nicht überflüssig...
+
+Vorschläge zur Notengebung
+Im Gegensatz zu Projekten und Fallstudien bildet die Benotung keinerlei Schwierigkeiten. Sie führen am Schluss der Unterrichtsphase, allenfalls nach einer Repetitionslektion, die gewohnte Klausur durch. 
+Das LPR kann schwache Charaktere zum Schlendrian verführen. Sie glauben, den ganzen Brocken erst für die Klausur sorgfältig lernen zu müssen. Dem kann man mit dem Verfahren entgegenwirken, auch die Kapiteltests zu bewerten. Realistisch wäre: Alle Tests zusammen zählen wie eine halbe Klausur.
+Primär sind die Addita durch ihren Inhalt attraktiv. Ein Notenbonus für all diejenigen, die ein Additum vollständig durcharbeiten, stimuliert trotzdem. Es scheint legitim zu sein, diese Zusatzleistung dadurch zu honorieren, dass die Klausurnote um eine halbe Stufe angehoben wird.
+
+Wieviel Leitprogramm-Unterricht?
+Die Fachdidaktiker schlagen keine Revolution vor. Es gibt auch Hinweise auf Ermüdungserscheinungen. Aufgrund der Rückmeldungen scheinen ein bis zwei LPR pro Schuljahr ideal. 
+Wichtig ist ein schrittweiser Einstieg. Mit längeren Lernaufgaben lernen die Schülerinnen und Schüler das sorgfältige Lesen naturwissenschaftlicher Texte und das Arbeiten nach schriftlichen Anweisungen. Mit kürzeren Leitprogrammen gewöhnen sie sich an die neue Freiheit und die damit verbundene Verantwortung bei dieser Unterrichtsform.
+Anhang 5: Hinweise	Z5.1
+
+
+
+
+
+ETH-Leitprogramm Physik	Kann man Atome sehen?
+

@@ -1,0 +1,4413 @@
+20 Jahre
+deutsche Einheit
+Wunsch oder Wirklichkeit
+
+Statistisches Bundesamt
+
+Zum Geleit
+
+20 Jahre Deutsche Einheit – das sind 20 Jahre Überwindung der unnatürlichen Teilung
+unseres Landes, 20 Jahre Annäherung, Fortschritt und Gemeinschaft, aber auch
+20 Jahre nachwirkende Unterschiede sozialer und wirtschaftlicher Natur in Ost und
+West. Das Glück über die Einheit bleibt bis heute ebenso spürbar wie manche Folgen
+der jahrzehntelangen Teilung.
+Wo stehen wir heute? Was ist noch zu tun? Die Zahlen der amtlichen Statistik eröffnen
+einen neutralen Blick auf die Arbeits- und Lebensbedingungen in den westlichen und
+östlichen Ländern. Sie sind die Stütze einer evidenzbasierten Politik, liefern aber auch
+Hintergründe für die persönliche Verortung im vereinten Deutschland.
+Die Darstellungen dieser Broschüre sind informativ und erhellend. Insbesondere gelingt es ihnen, die Wirkungszusammenhänge zwischen den verschiedensten Lebensbereichen erkennbar zu machen. Der lange Zeitraum der Betrachtung deckt Veränderungen auf, die wir im Einzelnen gar nicht gespürt haben, die im Gesamten gesehen
+aber doch deutliche Spuren hinterlassen haben.
+Wir haben in den 20 Jahren in gemeinsamer Anstrengung Vieles erreicht. Die Wiedervereinigung Deutschlands ist eine Erfolgsgeschichte. Unser Ziel bleiben gleichwertige
+Lebensbedingungen im ganzen Land. Dafür bedarf es weiterer Anstrengungen von
+Politik und Wirtschaft.
+Ich danke dem Statistischen Bundesamt für die hier zusammengetragenen Informationen und wünsche mir, dass sie eine nachhaltige Wirkung zeigen.
+
+Dr. Thomas de Maizière, MdB
+Bundesminister des Innern
+Beauftragter der Bundesregierung für die neuen Bundesländer
+
+Vorwort
+
+Liebe Leserinnen und Leser,
+
+das vereinte Deutschland ist erwachsen. Vor allem die Kinderjahre der Einheit haben für
+die neuen Länder viel Veränderung mit sich gebracht. Freiheiten, Wohlstand und neue
+Möglichkeiten stehen auf der einen Seite, wirtschaftlicher Wandel, Abwanderung und
+Arbeitslosigkeit auf der anderen. In den Jugendjahren näherten sich Ost und West zunehmend an und Unterschiede nahmen ab.
+Wo steht Deutschland heute? Wie ist die Entwicklung im früheren Bundesgebiet und den
+neuen Ländern verlaufen? Was hat zu den Veränderungen beigetragen?
+Die amtliche Statistik kann den Fortschritt der Einheit in Zahlen sichtbar machen. Sie
+wertet nicht, sondern liefert Informationen, die in politischen oder privaten Diskussionen
+als objektive Basis dienen können. Die Eindrücke, die man mit bloßem Auge sammelt,
+gewinnen mit dem informierten Blick der Statistik an Detail und Kontur.
+Ich lade Sie ein, die letzten 20 Jahre unter die Lupe zu nehmen und mit Ihrer Sicht der
+Dinge zu vergleichen.
+Ich danke allen, die zur Entstehung dieses Heftes beigetragen haben und wünsche Ihnen
+eine interessante Lektüre.
+
+Ihr
+
+Roderich Egeler
+Präsident des Statistischen Bundesamtes
+
+Vorbemerkungen
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+4
+
+In der Broschüre wurde ein einheitliches Farbschema verwendet. Dabei ist das frühere Bundesgebiet
+durchgängig in blau dargestellt, die neuen Länder durchgängig in rot.
+Die Zuordnung Berlins erfolgt in verschiedenen Varianten:
+Bezeichnung
+
+Zuordnung Berlins
+
+Früheres Bundesgebiet, Neue Länder
+
+Berlin-West zählt zum früheren Bundesgebiet,
+Berlin-Ost zählt zu den neuen Ländern
+
+einschl. Berlin
+
+Berlin wird komplett zum früheren Bundesgebiet
+bzw. zu den neuen Ländern gerechnet
+
+Früheres Bundesgebiet, Neue Länder, Berlin
+
+Berlin wird separat ausgewiesen
+
+Früheres Bundesgebiet, Neue Länder, (jeweils) ohne Berlin Werte für Berlin sind nicht nachgewiesen
+Abkürzungen:
+Einschl.
+
+einschließlich
+
+€
+
+Euro
+
+ha
+
+Hektar
+
+km²
+
+Quadratkilometer
+
+Mill.
+
+Million
+
+Mrd.
+
+Milliarde
+
+m²
+
+Quadratmeter
+
+%
+
+Prozent
+Männer
+Frauen
+
+Abweichungen in den Summen oder von 100 % ergeben sich durch Runden der Zahlen.
+Detaillierte Begriffsdefinitionen und Methodenbeschreibungen zu verwendeten Statistiken finden Sie im
+Internet unter www.destatis.de.
+Für tiefergehende Länderergebnisse steht Ihnen das Statistikportal der Statistischen Ämter des Bundes und der
+Länder unter www.statistik-portal.de zur Verfügung.
+
+Inhalt
+
+Bevölkerungsentwicklung
+
+Arbeitsmarkt
+10
+
+Erwerbstätigkeit
+
+44
+
+Bevölkerungsdichte
+
+11
+
+Erwerbslosigkeit
+
+45
+
+Ausländer und Migranten
+
+12
+
+Teilzeitarbeit
+
+46
+
+Wanderungsbewegungen
+
+13
+
+Arbeitsproduktivität
+
+47
+
+Geburtenzahlen
+
+14
+
+Verdienste in Ost und West
+
+48
+
+Lebenserwartung
+
+15
+
+Verdienste von Männern und Frauen
+
+49
+
+Demografischer Wandel
+
+16
+
+Leben
+
+Familie, Lebensformen und Kinder
+
+Verfügbares Einkommen
+
+52
+
+20
+
+Familieneinkommen
+
+53
+
+Familienformen
+
+21
+
+Elterngeldbezug von Vätern
+
+54
+
+Familiengröße
+
+22
+
+Altersrente
+
+55
+
+Kinderbetreuung
+
+23
+
+Soziale Mindestsicherung
+
+56
+
+Armutsgefährdung
+
+57
+
+Konsumausgaben
+
+58
+
+Eheschließungen
+
+Bildung
+Schülerzahlen
+
+26
+
+Bildungsabschlüsse
+
+27
+
+Berufliche Bildung
+
+28
+
+Wirtschaft
+Wirtschaft im Wandel
+
+32
+
+Verarbeitendes Gewerbe
+
+33
+
+Baugewerbe
+
+34
+
+Wohnungsbau
+
+35
+
+Landwirtschaft
+
+36
+
+Ökologischer Landbau
+
+37
+
+Tourismus
+
+38
+
+Außenhandel
+
+39
+
+Gründungen und Insolvenzen
+
+40
+
+Haushaltsausstattung
+
+59
+
+Wohnverhältnisse
+
+60
+
+Kaufwerte für Bauland
+
+61
+
+Immobilienbesitz
+
+62
+
+Wahlverhalten
+
+63
+
+Religionszugehörigkeit
+
+64
+
+5
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+Bevölkerung
+
+40 Jahre Teilung – 20 Jahre Einheit
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+6
+
+40 Jahre Teilung haben in Deutschland tiefe Spuren
+hinterlassen und dazu geführt, dass die Ausgangspositionen von Ost und West auf dem
+Weg zur Einheit sehr unterschiedlich waren:
+Das frühere Bundesgebiet hatte mit
+seiner marktorientierten Wirtschaft,
+einer freien Verfassung, klarer demokratischer Grundordnung, der Nähe
+zur westlichen Welt und vor allem
+den Wirtschaftsbeziehungen im
+westlichen Europa trotz zwischenzeitlicher Krisen eine stabile
+Grundverfassung zum Zeitpunkt
+der Wiedervereinigung erreicht.
+
+Anders in den neuen Ländern:
+Der sozialistisch regierte Teil Deutschlands im Schatten des Ostblocks,
+mit der Herrschaft einer „führenden
+Partei“, die alle Lebensbereiche
+kontrollieren wollte, und einer
+zentral gelenkten Wirtschaft,
+stand Ende der 80er Jahre vor dem
+Zusammenbruch. Die Begeisterung
+für die Freiheit und das ersehnte
+Ende der Repressionen in der DDR beherrschte die Zeit direkt nach dem Mauerfall.
+Ernüchterung trat ein, als deutlich wurde, welches wirtschaftliche Desaster
+die SED hinterlassen hatte und wie tiefgreifend die Transformation zu einer
+funktionierenden, auch international konkurrenzfähigen Marktwirtschaft sein würde.
+
+Dabei war die Lage in Deutschland im Vergleich zu den östlichen Nachbarstaaten leichter
+und schwieriger zugleich: Leichter, denn es gab einen prosperierenden und stabilen
+Landesteil, der die notwendige Solidarität üben konnte und wollte. Schwieriger, denn
+die Annäherung der Lebensbedingungen im wiedervereinten Land stand unter hohem
+Zeitdruck. Der wirtschaftliche Umbruchprozess nach dem Ende der sozialistischen
+Herrschaft musste schnell vollzogen werden – unter gleichzeitiger Abfederung seiner
+unvermeidlichen Härten durch eine effektive Sozialunion.
+Im innerdeutschen Vergleich rückten die Daten des wirtschaftlichen und sozialen Wandels in den Fokus der Aufmerksamkeit – für den Einzelnen wie für die Gesellschaft:
+Was verdient jemand in Thüringen? Was jemand in Bayern? Gehen Frauen mit Kind im
+Saarland auch so häufig arbeiten wie in Sachsen-Anhalt? Lebe ich besser oder schlechter
+als jemand in einem anderen Bundesland? Die neuen Vergleichsmaßstäbe verändern die
+Bewertung der eigenen Lebenssituation – positiv wie negativ.
+Klar ist: Für die große Mehrheit der Deutschen in Ost und West ist die Wiedervereinigung
+Grund zur Freude; nur verschwindend geringe Minderheiten wünschen sich die alten
+Verhältnisse zurück. Und die Frage, ob die innere Einigung der Deutschen gelinge, wird
+heute in den alten (68 zu 20 %) wie in den neuen Ländern (51 zu 34 %) eindeutig positiv
+und optimistisch beantwortet. Allerdings sieht eine Mehrheit die Ost-West-Unterschiede
+noch immer stärker ausgeprägt als die Gemeinsamkeiten.
+
+Quelle der Umfragedaten
+Thomas Petersen (Allensbach), Aufklärung über die eigene Vergangenheit, in: FAZ 25.11.2009
+Renate Köcher (Hrsg.), Allensbacher Jahrbuch der Demoskopie 2003 – 2009, Berlin 2009
+Forschungsgruppe Wahlen, Politbarometer-Extra 20 Jahre Mauerfall, 11/2009
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+7
+
+Bevölkerung
+
+Wir sind das Volk –
+Bevölkerungsentwicklung
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+10
+
+In Deutschland lebten Ende 2008 insgesamt rund 82 Millionen Menschen, davon 13 Millionen (15,9 %) in den neuen Ländern, 65,5 Millionen (79,9 %) im früheren Bundesgebiet und 3,4 Millionen in Berlin
+(4,1 %).
+Seit 1990 ist die Bevölkerung in den neuen Ländern deutlich zurückgegangen: Ende 2008 lebten hier 1,7 Millionen Menschen weniger
+als zur Zeit der Wende (– 11,7 %). Zurückzuführen ist dieser starke
+Rückgang vor allem auf Abwanderungen in den Westen oder das
+Ausland, aber auch auf gesunkene Geburtenzahlen. Die höchsten
+Verluste mussten Sachsen-Anhalt und Mecklenburg-Vorpommern
+hinnehmen.
+In den alten Bundesländern (ohne Berlin) nahm die Bevölkerung
+im gleichen Zeitraum um vier Millionen zu (+ 6,5 %). Den höchsten absoluten Zuwachs wies Bayern auf: Seit 1990 haben sich
+hier mehr als eine Million Menschen neu angesiedelt.
+Bevölkerungsentwicklung
+jeweils am 31. Dezember des jeweiligen Jahres
+1990
+in 1 000
+
+2008
+in 1 000
+
+Differenz
+in %
+
+9 822
+
+10 750
+
++ 9,4
+
+11 449
+
+12 520
+
++ 9,4
+
+Schleswig-Holstein
+
+2 626
+
+2 834
+
++ 7,9
+
+Niedersachsen
+
+7 387
+
+7 947
+
++ 7,6
+
+Hamburg
+
+1 652
+
+1 772
+
++ 7,2
+
+Rheinland-Pfalz
+
+3 764
+
+4 028
+
++ 7,0
+
+Hessen
+
+5 763
+
+6 065
+
++ 5,2
+
+17 350
+
+17 933
+
++ 3,4
+
+Berlin
+
+3 434
+
+3 432
+
+– 0,1
+
+Brandenburg
+
+2 578
+
+2 522
+
+– 2,2
+
+682
+
+662
+
+– 2,9
+
+Saarland
+
+1 073
+
+1 030
+
+– 4,0
+
+Sachsen
+
+4 764
+
+4 193
+
+– 12,0
+
+Thüringen
+
+2 611
+
+2 268
+
+– 13,2
+
+Mecklenburg-Vorpommern
+
+1 924
+
+1 664
+
+– 13,5
+
+Sachsen-Anhalt
+
+2 874
+
+2 382
+
+– 17,1
+
+Deutschland
+
+79753
+
+82002
+
++ 2,8
+
+Früheres Bundesgebiet
+(ohne Berlin-West)
+
+61 568
+
+65 541
+
++ 6,5
+
+Neue Länder
+(ohne Berlin-Ost)
+
+14 752
+
+13 029
+
+– 11,7
+
+Baden-Württemberg
+Bayern
+
+Nordrhein-Westfalen
+
+Bremen
+
+In der Grafik ist die Bevölkerungsentwicklung von 1990
+bis 2008 dargestellt.
+Die Größe der Zeichen steht
+für die Höhe ihres Betrages,
+das Zeichen selbst für Zu- (+)
+bzw. Abnahme (–) der
+Bevölkerungszahl im
+jeweiligen Bundesland.
+
+Hohe Berge und abgelegene Täler –
+Bevölkerungsdichte
+Bevölkerungsdichte 2008
+
+In Deutschland lebten Ende 2008 durchschnittlich 230 Einwohner auf einem Quadratkilometer. Seit 1991 ist die Bevölkerungsdichte damit bundesweit leicht gestiegen (+ 2,2 %).
+
+Während seit 1991 die Bevölkerungsdichte im früheren Bundesgebiet fast überall leicht gestiegen ist, zeigte sich ein deutlicher
+Rückgang für die neuen Länder: in Sachsen-Anhalt – 16 %,
+in Thüringen und Sachsen – 11 % und in MecklenburgVorpommern – 10,0 %.
+Bevölkerungsdichte
+
+MecklenburgVorpommern
+
+Bremen
+
+11
+
+Hamburg
+
+Berlin
+
+Niedersachsen
+Sachsen-Anhalt
+
+Brandenburg
+
+Nordrhein-Westfalen
+
+Hessen
+
+Thüringen
+
+Sachsen
+
+Rheinland-Pfalz
+Bayern
+Saarland
+
+Einwohner je km² am 31. Dezember
+1991
+
+2008
+
+Differenz in %
+
+Berlin
+
+3 876
+
+3 849
+
+Hamburg
+
+2 209
+
+2 347
+
++ 6,2
+
+Bremen
+
+1 691
+
+1 637
+
+– 3,2
+
+Nordrhein-Westfalen
+
+514
+
+526
+
++ 2,3
+
+Saarland
+
+419
+
+401
+
+– 4,3
+
+Baden-Württemberg
+
+280
+
+301
+
++ 7,5
+
+Hessen
+
+276
+
+287
+
++ 4,0
+
+Sachsen
+
+255
+
+228
+
+– 10,6
+
+Rheinland-Pfalz
+
+193
+
+203
+
++ 5,2
+
+Schleswig-Holstein
+
+168
+
+179
+
++ 6,5
+
+Bayern
+
+164
+
+177
+
++ 7,9
+
+Niedersachsen
+
+158
+
+167
+
++ 5,7
+
+Thüringen
+
+158
+
+140
+
+– 11,4
+
+Sachsen-Anhalt
+
+– 15,9
+
+Baden-Württemberg
+
+– 0,7
+
+138
+
+116
+
+Brandenburg
+
+88
+
+86
+
+– 2,3
+
+Mecklenburg-Vorpommern
+
+80
+
+72
+
+– 10,0
+
+Deutschland
+
+225
+
+230
+
++ 2,2
+
+Früheres Bundesgebiet
+(ohne Berlin-West)
+
+251
+
+264
+
++ 5,2
+
+Neue Länder
+(ohne Berlin-Ost)
+
+135
+
+121
+
+– 10,4
+
+In der Grafik ist die Bevölkerungsdichte der Bundes­
+länder dargestellt.
+Je größer der Punkt, umso
+mehr Menschen leben auf
+einem Quadratkilometer.
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+Beim Ost-West-Vergleich zeigen sich jedoch deutliche Unterschiede: Die neuen Bundesländer wiesen 2008 mit durchschnittlich 121 Einwohnern pro Quadratkilometer eine wesentlich
+geringere Bevölkerungsdichte auf als die alten Bundesländer
+mit 264 Einwohnern pro Quadratkilometer. Berlin ist mit 3 849
+Einwohnern je Quadratkilometer bei der Bevölkerungsdichte
+Spitzenreiter der Bundesländer.
+
+Schleswig-Holstein
+
+Bunte Republik Deutschland –
+Ausländer und Migranten
+Bevölkerung mit Migrationshintergrund und ausländische Bevölkerung
+am 31. Dezember 2009
+Berlin
+
+Früheres Bundesgebiet
+
+Neue Länder
+
+Ausländische
+Bevölkerung
+
+14,0 %
+
+9,8 %
+
+2,4 %
+
+Bevölkerung mit
+Migrationshintergrund
+insgesamt
+
+25,0 %
+
+22,3 %
+
+4,8 %
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+12
+
+In Deutschland leben Bürger aus fast allen Ländern der Welt. Mit einem Anteil von
+8,8 % an der Bevölkerung war Ende 2009 mehr als jeder elfte Mensch in Deutschland ausländischer Nationalität. Insgesamt hatten 16 Millionen Menschen einen
+Migrations­hintergrund.
+Das frühere Bundesgebiet ist immer noch deutlich „internationaler“ als die neuen
+Länder: So lebten Ende 2009 rund 6,4 Millionen Ausländerinnen und Ausländer im
+Westen, was einem Ausländeranteil von 9,8 % entsprach. Der Anteil war damit etwa
+viermal so hoch wie in den neuen Ländern (2,4 %).
+Den höchsten Ausländeranteil der Bundesländer wies Berlin auf: 14 % der Berliner
+– rund 480 000 – hatten einen ausländischen Pass. In der Bundeshauptstadt lebten
+damit sogar mehr Ausländer als in den neuen Ländern insgesamt (309 000).
+
+Zu den Menschen mit Migrationshintergrund zählen
+alle nach 1949 auf das heutige Gebiet der Bundesrepublik zugewanderten Ausländer und Deutschen, sowie
+alle in Deutschland Geborenen mit mindestens einem zugezogenen oder
+als Ausländer in Deutschland geborenen Elternteil.
+
+Mehr als nur ab und zu –
+Wanderungsbewegungen
+Wanderungsbewegungen 1991 bis 2008
+ohne Angaben für Berlin
+
+Seit 1991 sind rund 1,1 Millionen Personen mehr aus
+dem Osten in den Westen (jeweils ohne Berlin) gezogen
+als umgekehrt. Der Wanderungssaldo – das heißt die Differenz zwischen Zu- und Fortzügen – war dabei in jedem
+Jahr negativ für den Osten und positiv für den Westen.
+Den Weg ins Ausland suchten tendenziell mehr Menschen aus
+Berlin und dem früheren Bundesgebiet. Von den 175 000 Deutschen,
+die 2008 die Bundesrepublik in Richtung Ausland verlassen haben,
+waren rund 17 000 aus dem Osten, 147 000 aus dem Westen und
+10 000 aus Berlin.
+Auch die internationale Zuwanderung hatte ihren Schwerpunkt im Westen:
+Während 2008 rund 590 000 Personen aus dem Ausland in das frühere Bundesgebiet (ohne Berlin) zugezogen sind, registrierten die neuen Bundesländer insgesamt
+lediglich so viele Zuzüge wie Berlin (46 000).
+
+13
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+2,7 Millionen
+
+1,6 Millionen
+
+Eins, zwei oder keins –
+Geburtenzahlen
+Geburtenzahlen
+Index (1990=100), ohne Angaben für Berlin
+
+14
+
+100
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+Früheres Bundesgebiet
+
+78
+
+62
+Neue Länder
+50
+1990
+
+1994
+
+2000
+
+Der anhaltende Rückgang der Geburtenzahlen betrifft den Osten wie den Westen Deutschlands, wenn auch mit unterschiedlicher Intensität. Während im früheren Bundesgebiet
+(ohne Berlin-West) die Geburtenzahlen von 1990 bis 2008 um rund 22 % absanken, fiel der
+Rückgang in den neuen Ländern (ohne Berlin-Ost) im direkten Vergleich der Jahre wesentlich stärker aus (– 38 %).
+Die Entwicklung der Geburtenzahlen in Ostdeutschland wurde geprägt durch tief greifende
+Veränderungen zur Wendezeit, die alle Lebensbereiche erfassten und mit einer starken
+Verunsicherung der Bevölkerung einhergingen. Innerhalb von zwei Jahren halbierte sich
+die Zahl der Geburten, bis 1994 sank sie auf 44 % des Wertes von 1990. In den Folgejahren
+stieg die Zahl der Geburten zwar wieder an, einen großen Anteil hieran hatten jedoch die
+zuvor aufgeschobenen Kinderwünsche der Familien im Osten.
+Der Fortzug zahlreicher jüngerer Menschen – vor allem junger Frauen – von Ost nach West
+verstärkte zusätzlich den Rückgang der Geburtenzahlen in den neuen Ländern.
+
+2008
+
+Mehr Zeit zum Leben –
+Lebenserwartung
+Lebenserwartung bei Geburt in Jahren
+Früheres Bundesgebiet 82,5
+Neue Länder 82,2
+
+15
+
+79,5
+Früheres Bundesgebiet 77,4
+
+Neue Länder 76,1
+73,1
+
+Die Lebenserwartung ist in den
+69,9
+neuen Ländern seit der Deutschen Einheit erheblich gestie1991/93
+Ab 1999/2001
+jeweils ohne Berlin
+gen. Aufgrund der verbesserten
+Lebens- und Arbeitsbedingungen
+fand eine rasche Anpassung der Lebenserwartung an den Wert des früheren Bundes­
+gebiets statt. Im Durchschnitt werden neugeborene Jungen in Deutschland 77,2 Jahre alt,
+neugeborene Mädchen 82,4 Jahre.
+1991/93 trennten die Jungen in Ost und West noch drei Jahre und drei Monate – bei den
+Mädchen waren es etwa zwei Jahre und vier Monate. Bis 1998/2000 näherten sich die
+Werte für Ost und West relativ schnell an, in den letzten Jahren setzte sich diese Tendenz
+langsam aber stetig fort.
+Bis 2006/08 hat sich die Differenz in der Lebenserwartung von Ost und West für Jungen
+auf rund ein Jahr und vier Monate verringert, für Mädchen lediglich auf rund drei Monate.
+
+2006/08
+
+Die Lebenserwartung Neugeborener wird anhand der
+sogenannten Sterbetafeln bestimmt. Die Perioden­sterbe­
+tafel ist ein demografisches
+Modell, das aufgrund der
+derzeitigen Sterblichkeit von
+Personen angibt, wieviele
+Lebensjahre ein neugeborenes Kind erreichen würde.
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+77,2
+
+Altersheimat Deutschland –
+Demografischer Wandel
+Durchschnittsalter der Bevölkerung
+am 31.12.2008 in Jahren
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+16
+
+Deutschlands Bevölkerungsstruktur wird sich verändern.
+In 50 Jahren werden weniger und immer ältere Menschen
+als heute in Deutschland leben. Bereits jetzt liegt der
+Altersdurchschnitt bei 43,2 Jahren und damit deutlich
+über dem Durchschnitt in der Europäischen Union.
+Schon 2030 werden die ab 65-Jährigen etwa 29 % der
+Bevölkerung Deutschlands stellen – 2008 waren es
+noch 20 %. Im Jahr 2060 wird dann jeder Dritte mindestens 65 Jahre alt sein und es werden doppelt so viele
+70-Jährige leben, wie Kinder geboren werden.
+
+unter 40
+40 – 41
+42 – 43
+44 – 45
+46 und mehr
+
+Besonders starke Auswirkungen wird der demografische Wandel
+im Osten haben. Die Einwohner der neuen Länder (ohne Berlin)
+waren 2008 durchschnittlich 45,4 Jahre alt. Durch die Abwanderung von zumeist jungen Leuten und die steigende Lebenserwartung wird hier das Durchschnittsalter künftig weiter steigen.
+Mit 42,8 Jahren waren die Einwohner des früheren Bundesgebiets (ohne Berlin) 2008
+im Durchschnitt um 2,6 Jahre jünger als die Menschen im Osten. Zwar wird die Bevölkerung in den alten Flächenländern ebenfalls altern und schrumpfen, jedoch deutlich
+langsamer als in den neuen Ländern.
+Lediglich die Stadtstaaten werden auch in absehbarer Zukunft eine relativ junge und
+gleichbleibend hohe Bevölkerung haben.
+
+Die aktuelle Bevölkerungsvorausberechnung zeigt, wie sich
+die Bevölkerung bis zum Jahr
+2060 verändern wird. Je nach
+Annahmen hinsichtlich
+Zuwanderung, Geburten- und
+Sterbezahlen ergeben sich
+verschiedene Varianten der
+zukünftigen Bevölkerung.
+Innerhalb der nächsten
+50 Jahre wird es zu einem
+Rückgang der Bevölkerungszahl um 15 bis 21 % kommen,
+wenn sich aktuelle demografische Trends fortsetzen.
+
+Familie,
+Lebensformen
+und Kinder
+
+Der Hafen und die hohe See –
+Eheschließungen
+Eheschließungen
+Angaben jeweils ohne Berlin
+Früheres Bundesgebiet
+
+20
+
+Neue Länder
+391 030
+305 350
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+59 940
+2008
+
+1991
+
+Die persönlichen Lebensformen vervielfälti–22 %
+gen sich: Neben Single-Dasein und Patchworkfamilie, Lebensgemeinschaft und eingetragener Partnerschaft steht die Ehe immer noch
+hoch im Kurs.
+Auch wenn die Gesamtzahl der Eheschließungen in Deutschland in den letzten Jahren
+gesunken ist: In den neuen Ländern hat das Ja-Wort an Häufigkeit gewonnen.
+Im früheren Bundesgebiet (ohne Berlin) nahm die Zahl der Eheschließungen von 1991 bis
+2008 um gut ein Fünftel ab (– 22 %). Ganz anders in den neuen Ländern (ohne Berlin): Im
+gleichen Zeitraum stieg die Zahl der Eheschließungen um 14 800 an, was einem Zuwachs
+von rund + 33 % entspricht. Berlin weist eine ganz eigene Entwicklung auf: Hier gab es
+2008 mit 11 800 weniger als halb so viele Trauungen wie noch 1991 (– 54 %).
+
+45 130
+
+2008
+
+1991
+
++33 %
+
+Leben mit Kindern –
+Familienformen
+Familienformen 2009
+Angaben für Familien mit minderjährigen Kindern in %
+
+21
+
+Früheres Bundesgebiet
+
+6
+
+19
+Lebensgemeinschaften
+
+Im Vergleich zu 1996 leben immer weniger Menschen mit Kindern zusammen. Vor allem
+in den neuen Ländern war ein drastischer Rückgang zu beobachten: Die Zahl der Familien
+sank hier seit 1996 um gut ein Drittel (– 37 %). Im früheren Bundesgebiet fiel der Rückgang mit einem Minus von rund 6 % weit weniger stark aus.
+Die unterschiedlichen Trends der Familienformen in Ost- und Westdeutschland sind vor
+allem auf ein ungleiches Geburtenverhalten zurückzuführen. Daneben können binnendeutsche Wanderungsbewegungen ebenso wie Zuwanderungen nach Deutschland bzw.
+Abwanderungen ins Ausland eine Rolle spielen.
+
+17
+
+27
+Alleinerziehende
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+Die meisten Kinder in Ost und West wachsen
+in Familien mit verheirateten Eltern auf. Im
+76
+Westen war die Ehe 2009 bei 76 % der FamiNeue Länder einschl. Berlin
+lien die Basis des Zusammenlebens; im Osten
+waren nur 54 % der Eltern verheiratet. Entspre54
+chend größer war hier der Anteil alternativer
+Lebensformen. Der Anteil der LebensgemeinEhepaare
+schaften mit minderjährigen Kindern war in
+den neuen Ländern mit 19 % mehr als drei Mal so hoch wie im früheren Bundesgebiet
+(6 %). Auch die Familienform der Alleinerziehenden war in den neuen Ländern deutlich
+weiter verbreitet als im früheren Bundesgebiet.
+
+Ein Kind im Osten –
+Familiengröße
+
+Kinder in Familien 2009
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+22
+
+Familien in Deutschland werden immer kleiner. Zwar
+war 2009 der Anteil von Ein-Kind-Familien im früheren
+Bundesgebiet mit 39 % genauso hoch wie 1996, in
+den neuen Ländern und Berlin erhöhte sich der Anteil
+jedoch kräftig von 45 auf 52 %.
+
+39 %
+44 %
+17 %
+Früheres Bundesgebiet
+
+In ostdeutschen Familien leben tendenziell weniger Kinder als in Familien im früheren
+Bundesgebiet: 2009 betreuten im Osten 37 % der Familien mit minderjährigen Kindern
+genau zwei Kinder. Drei und mehr Kinder lebten nur in 11 % der Familien.
+Ein anderes Bild zeigt sich bei den westdeutschen Familien: Hier hatten die meisten
+Familien (44 %) zwei Kinder und immerhin noch 17 % betreuten drei oder mehr
+Sprösslinge.
+
+52 %
+37 %
+11 %
+Neue Länder einschl. Berlin
+
+Die Höhe der einzelnen Figuren bzw. Figurengruppen
+verdeutlicht den Anteil der
+Familien, die 2009 mit der
+entsprechenden Anzahl von
+Kindern in einem gemeinsamen Haushalt lebten.
+
+Gut aufgepasst –
+Kinderbetreuung
+
+Wenn es darum geht, Arbeit und Familie unter einen Hut
+zu bringen, sind Angebote zur Kinderbetreuung von großer Bedeutung. In Deutschland wurde 2009 etwa jedes
+fünfte Kind (20 %) unter drei Jahren tagsüber in einer
+Kindertages­einrichtung oder durch eine Tagesmutter
+bzw. einen Tagesvater betreut.
+
+15
+
+Zwischen Ost und West zeigen sich jedoch erhebliche Unterschiede: Während Anfang 2009 in den neuen Ländern und Berlin die
+Betreuungsquote für Kinder unter drei Jahren im Durchschnitt 45 % betrug, zeigte sich
+für das frühere Bundesgebiet ein Wert von nur
+Betreuungsquote von unter 3-Jährigen
+rund 15 %. Die mit Abstand höchsten Betreuin Kindertageseinrichtungen und in öffentlich
+geförderter Kindertagespflege am 3. März 2009
+ungsquoten gab es mit 55 % in Sachsen-Anhalt,
+die niedrigsten in Niedersachsen und NordrheinBetreuungsquote
+Westfalen mit jeweils 12 %.
+in %
+Sachsen-Anhalt
+
+55,1
+
+Mecklenburg-Vorpommern
+
+49,6
+
+Brandenburg
+
+48,3
+
+Thüringen
+
+42,8
+
+Berlin
+
+41,6
+
+Sachsen
+
+40,1
+
+Hamburg
+
+25,7
+
+Rheinland-Pfalz
+
+17,6
+
+Hessen
+
+16,3
+
+Baden-Württemberg
+
+15,9
+
+Bayern
+
+15,7
+
+Saarland
+
+15,2
+
+Schleswig-Holstein
+
+14,5
+
+Bremen
+
+13,8
+
+Niedersachsen
+
+12,0
+
+Nordrhein-Westfalen
+
+11,6
+
+Deutschland
+
+20,4
+
+Früheres Bundesgebiet
+
+14,6
+
+Neue Länder einschl. Berlin
+
+44,9
+
+Lediglich zwei ostdeutsche Kreise – der
+Erzgebirgskreis und der Landkreis Eichsfeld
+(jeweils 32 %) – wiesen eine geringere Betreuungsquote bei den unter 3-Jährigen auf als der
+Kreis mit der höchsten Quote im Westen (Stadt
+Heidelberg: 36 %).
+
+Die Abbildung verdeutlicht
+die Betreuungsquoten für
+Kinder im Alter von unter
+drei Jahren, die am 3. März
+2009 in Kindertageseinrichtungen und öffentlich geförderter Tagespflege betreut
+wurden. Die Größe der Figuren entspricht dem Verhältnis der Betreuungsquoten.
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+45
+
+23
+
+Bildung
+
+Zurück in die Zukunft –
+Schülerzahlen
+
+26
+Schülerzahlen
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+Schülerinnen und Schüler an allgemeinbildenden Schulen, Index (1992=100)
+Früheres Bundesgebiet
+110
+100
+1992
+
+1994
+
+1997
+
+2000
+Der Geburtenrückgang in den letzten
+20 Jahren hat gravierende Folgen für das
+Bildungssystem. In den neuen Ländern hat sich die Zahl
+der Schülerinnen und Schüler gegen­über dem Schuljahr 1992/93 fast
+halbiert (– 45,9 %).
+
+Neue Länder einschl. Berlin
+2003
+
+Im früheren Bundesgebiet gab es 2009 zwar noch rund 10 % mehr Schülerinnen und
+Schüler als 1992, seit 2003 deutet sich aber auch hier eine Abwärtsbewegung an.
+An den Schülerzahlen zeigt sich beispielhaft, wie der demografische Wandel die Gesellschaft nachhaltig verändern wird.
+
+54
+2009
+
+Höher, schlauer, weiter –
+Bildungsabschlüsse
+Bildungsstand der Bevölkerung mit allgemeinem Schulabschluss
+2008
+
+2008
+
+1991
+
+1991
+
+27
+Früheres Bundesgebiet
+
+Neue Länder
+
+Hauptschule
+
+Genauer betrachtet, zeigen sich deutliche Unterschiede zwischen dem Bildungsstand
+in Ost und West. Im früheren Bundesgebiet verfügen die meisten Personen über einen
+Volks- oder Hauptschulabschluss. Ihr Anteil ist in den letzten 20 Jahren gesunken, lag
+aber 2008 noch immer bei rund 42 %. In den neuen Ländern und Ost-Berlin machen
+mittlere Schulabschlüsse den größten Anteil aus: Mit 46,7 % hatte 2008 fast jeder
+Zweite eine zehnjährige Schulausbildung durchlaufen.
+
+Realschule
+Fach-/
+Hochschulreife
+Noch in
+Ausbildung
+
+Vor allem das Bildungsniveau von Frauen ist gestiegen: Von 1991 bis 2008 haben sich
+die Anteile von Frauen mit (Fach-)Abitur in beiden Landesteilen mehr als verdoppelt.
+Deutliche Zuwächse zeigten sich hier auch für die Männer: + 76 % gegenüber 1991.
+
+Allgemeinbildende Schulabschlüsse
+der Bevölkerung ab 15 Jahren
+Früheres Bundesgebiet
+Hauptschule
+
+Neue Länder
+
+Realschule
+
+Fach-/
+Hochschulreife
+
+Hauptschule
+
+Realschule
+
+Fach-/
+Hochschulreife
+
+1991
+
+in %
+
+52,0
+
+18,7
+
+13,9
+
+36,0
+
+43,5
+
+2008
+
+in %
+
+42,1
+
+23,5
+
+25,0
+
+26,6
+
+46,7
+
+21,8
+
+– 9,9
+
++ 4,9
+
++ 11,2
+
+– 9,4
+
++ 3,2
+
++ 10,0
+
+Differenz in %-Punkten
+
+11,8
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+In den letzten 20 Jahren stieg der
+Bildungsstand in Ost und West deutlich
+an. Zwar haben nach wie vor die meisten
+Menschen in Deutschland Volks- oder
+Hauptschulabschlüsse, mittlere und hohe
+Bildungsabschlüsse sind jedoch auf dem
+Vormarsch.
+
+Eine Lehre fürs Leben –
+Berufliche Bildung
+Bildungsstand der Bevölkerung mit beruflichem Bildungsabschluss
+2008
+
+2008
+
+1991
+
+1991
+
+Früheres Bundesgebiet
+
+Neue Länder
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+28
+
+Die Lehr- oder Anlernausbildung ist
+für die meisten Menschen in Ost und
+West der Weg, sich auf das Berufsleben vorzubereiten. Mehr als die Hälfte
+(50,8 %) der Bevölkerung ab 15 Jahren
+konnte 2008 eine abgeschlossene Lehre
+vorweisen. In den neuen Ländern liegt der
+Anteil nach wie vor über dem Niveau des früheren Bundesgebiets. Der Vorsprung
+ging jedoch seit der Wiedervereinigung von rund 8 auf etwa 6 % leicht zurück.
+
+Lehre oder
+Anlernausbildung
+Fachhochschulabschluss
+
+Einheit herrscht hinsichtlich der Anteile von (Fach-)Hochschulabsolventen: Die
+Unterschiede, die zum Zeitpunkt der Wiedervereinigung bestanden, sind in den
+vergangenen Jahren nahezu verschwunden. Rund 5 % der Bevölkerung hatten 2008
+einen Fachhochschulabschluss; einen Hochschulabschluss oder den Doktortitel in
+Ost wie West etwa 8 %.
+
+Hochschulabschluss
+einschl. Promotion
+Noch in
+Ausbildung
+
+Berufliche Schulabschlüsse
+der Bevölkerung ab 15 Jahren
+Früheres Bundesgebiet
+Lehre oder
+Anlernausbildung
+
+Neue Länder
+
+Fachhochschul­
+abschluss
+
+Hochschul­
+abschluss
+einschl.
+Promotion
+
+Lehre oder
+Anlernausbildung
+
+Fachhochschul­
+abschluss
+
+Hochschul­
+abschluss
+einschl.
+Promotion
+
+1991
+
+in %
+
+45,8
+
+2,7
+
+4,7
+
+53,5
+
+1,5
+
+2008
+
+in %
+
+49,7
+
+4,9
+
+8,1
+
+55,5
+
+5,0
+
+6,6
+7,8
+
+Differenz
+
+in %-Punkten
+
++ 3,9
+
++ 2,2
+
++ 3,4
+
++ 2,0
+
++ 3,5
+
++ 1,2
+
+Wirtschaft
+
+Wirtschaft im Wandel –
+Dienstleister im Plus
+Wertschöpfung im Dienstleistungsbereich
+Neue Länder
+einschl. Berlin
+
+Früheres
+Bundesgebiet
+1 313 Mrd. €
+
+32
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+248 Mrd. €
+
+Die nach der Wiedervereinigung zu beobachtenden
+wirtschaftsstrukturellen Unterschiede zwischen Ost
+und West gleichen sich mehr und mehr an. In beiden
+Regionen ist der Dienstleistungsbereich der mit Abstand größte Wirtschaftszweig. In Deutschland hatte
+der Dienstleistungsbereich 2009 einen Anteil von
+mehr als 72 % an der gesamten Wirtschaftsleistung.
+
+2009
+72,2 %
+
+74,5 %
+
+760 Mrd. €
+
+Besonders stark zulegen konnte dabei der Bereich
+„Finanzierung, Vermietung und Unternehmensdienstleister“: Im früheren Bundesgebiet erzielte dieses
+Dienstleistungssegment 2009 allein rund 32 % der
+Wirtschaftsleistung, in den neuen Ländern einschließlich Berlin gut 28 %.
+
+103 Mrd. €
+1991
+66,1 %
+61,5 %
+
+Bruttowertschöpfung nach Wirtschaftsbereichen
+Früheres Bundesgebiet
+
+Neue Länder einschl. Berlin
+
+1991
+
+1991
+
+in Mrd. €
+
+2009
+in %
+
+in Mrd. €
+
+in %
+
+2009
+
+in Mrd. €
+
+in %
+
+in Mrd. €
+
+in %
+
+Land- und Forstwirtschaft,
+Fischerei
+
+15,8
+
+1,3
+
+14,4
+
+0,8
+
+3,4
+
+2,2
+
+3,6
+
+1,1
+
+Produzierendes Gewerbe
+
+460,5
+
+37,2
+
+490,9
+
+27,0
+
+49,5
+
+31,8
+
+81,1
+
+24,4
+
+392,8
+
+31,8
+
+411,7
+
+22,6
+
+33,7
+
+21,6
+
+62,1
+
+18,7
+
+358,7
+
+29,0
+
+368,0
+
+20,2
+
+24,7
+
+15,9
+
+50,3
+
+15,1
+
+67,7
+
+5,5
+
+79,2
+
+4,4
+
+15,8
+
+10,2
+
+19,0
+
+5,7
+
+Dienstleistungsbereiche
+
+760,5
+
+61,5
+
+1 312,6
+
+72,2
+
+103,0
+
+66,1
+
+248,1
+
+74,5
+
+Handel, Gastgewerbe
+und Verkehr
+
+221,5
+
+17,9
+
+323,6
+
+17,8
+
+27,9
+
+17,9
+
+54,6
+
+16,4
+
+Finanzierung, Vermietung und
+Unternehmensdienstleister
+
+297,6
+
+24,1
+
+572,9
+
+31,5
+
+26,9
+
+17,3
+
+93,6
+
+28,1
+
+Öffentliche und private
+Dienstleister
+
+241,4
+
+19,5
+
+416,1
+
+22,9
+
+48,2
+
+30,9
+
+99,9
+
+30,0
+
+Produzierendes Gewerbe
+ohne Baugewerbe
+Verarbeitendes Gewerbe
+Baugewerbe
+
+Bruttowertschöpfung insgesamt
+
+1 236,8
+
+100
+
+1 817,9
+
+100
+
+Ergebnisse des Arbeitskreises „Volkswirtschaftliche Gesamtrechnungen der Länder“.
+
+155,9
+
+100
+
+332,8
+
+100
+
+Der Strukturwandel der Wirtschaft lässt sich an der Entwicklung der Bruttowertschöpfung (BWS) ablesen.
+Sie umfasst grundsätzlich alle für Geld hergestellten Waren und erbrachten
+Dienstleistungen. Dadurch
+beschreibt sie den Beitrag
+der einzelnen Wirtschaftsbereiche zur gesamten Wirtschaftsleistung einer Region.
+
+Dramatischer Einbruch –
+Verarbeitendes Gewerbe
+Im Verarbeitenden Gewerbe tätige Personen
+Index (1991=100)
+100
+
+33
+Früheres Bundesgebiet
+
+80
+
+Neue Länder
+46
+40
+1991
+
+1997
+
+Ab 2005
+Neue Länder einschl. Berlin
+
+Das Verarbeitende Gewerbe war der wichtigste Wirtschaftszweig der DDR. Die Umgestaltung der Märkte und der Wegfall staatlicher Großbetriebe im Zuge der Einheit führten im
+Osten zu einem dramatischen Abbau an Arbeitsplätzen in diesem Bereich. So sank die
+Zahl der tätigen Personen von 1991 bis 1997 um mehr als eine Million (– 66 %). Erst in
+der zweiten Hälfte der 1990er-Jahre gelang die Trendwende. Seitdem weist das Verarbeitende Gewerbe in den neuen Ländern eine positive Entwicklung auf und nähert sich
+langsam den Trends im Westen an.
+Die Entwicklung der Beschäftigtenzahlen im früheren Bundesgebiet wurde durch die
+Einheit bei weitem nicht so stark beeinflusst. Vielmehr setzte sich der langfristige Trend
+eines kontinuierlichen Stellenabbaus im Verarbeitenden Gewerbe fort.
+Der Rückgang der Beschäftigtenzahlen von 2008 zu 2009 ist ein Ergebnis der weltweiten
+Finanz- und Wirtschaftskrise. Die Konjunktur im Verarbeitenden Gewerbe ist aufgrund
+der Exportorientierung stark durch Entwicklungen auf internationalen Märkten geprägt.
+Die durchschnittliche Größe der Betriebe in den neuen Ländern lag 2009 mit 86 tätigen
+Personen deutlich unter dem Wert von 1991 (245 tätige Personen) und auch deutlich unter dem Wert der alten Länder, wo 2009 je Betrieb 138 tätige Personen gezählt wurden.
+
+2009
+
+Alle Angaben in Text und
+Grafik beziehen sich auf
+Betriebe im Verarbeitenden Gewerbe mit mindestens 20 tätigen Personen.
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+68
+
+Neubau, Anbau, Umbau Ost –
+Baugewerbe
+Umsatz im Bauhauptgewerbe
+Index (1991=100)
+242
+
+200
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+34
+
+Neue Länder einschl. Berlin
+118
+100
+92
+Früheres Bundesgebiet
+1991
+
+1995
+
+Baugewerblicher Umsatz
+im Bauhauptgewerbe
+nach Sitz der Betriebe, in Mrd. €
+Früheres
+Bundesgebiet
+
+Neue Länder
+einschl. Berlin
+
+1991
+
+69,6
+
+15,5
+
+1992
+
+78,4
+
+22,4
+
+1993
+
+76,5
+
+27,5
+
+1994
+
+80,9
+
+35,6
+
+1995
+
+79,3
+
+37,5
+
+1996
+
+74,1
+
+37,1
+
+1997
+
+72,9
+
+34,6
+
+1998
+
+71,9
+
+30,8
+
+1999
+
+73,9
+
+29,9
+
+2000
+
+72,3
+
+26,4
+
+2001
+
+68,4
+
+23,0
+
+2002
+
+65,1
+
+20,9
+
+2003
+
+62,6
+
+20,5
+
+2004
+
+59,9
+
+19,0
+
+2005
+
+57,0
+
+17,3
+
+2006
+
+62,6
+
+18,6
+
+2007
+
+62,4
+
+18,3
+
+2008
+
+66,9
+
+18,7
+
+2009
+
+63,9
+
+18,3
+
+2005
+
+Die Anstrengungen des „Aufbaus Ost“ lassen sich unmittelbar an den Umsätzen der Baubranche ablesen.
+Die Betriebe des Bauhauptgewerbes konnten ihre
+Umsätze von 1991 bis 1995 auf rund 117 Milliarden
+Euro steigern und damit innerhalb von nur vier Jahren
+einen Zuwachs von rund 37 % verbuchen. Vor allem im
+Osten gab es einen gewaltigen Bauschub: Hier hatten
+sich die Umsätze weit mehr als verdoppelt (+ 142 %).
+Nach dem Boomjahr 1995 gingen die Umsätze der
+Branche jedoch stetig zurück und lagen in den letzten
+Jahren in den neuen Ländern und Berlin etwa 20 %
+über dem Niveau von 1991, im führeren Bundesgebiet
+mit Schwankungen etwa 10 % darunter.
+
+2009
+
+Die Grafik zeigt die bau­
+gewerblichen Umsätze der
+Betriebe des Bauhaupt­
+gewerbes in Ost und West.
+Zum Bauhauptgewerbe
+gehören vor allem der Hochund Tiefbau, aber auch die
+Dachdecker, Zimmerer,
+Gerüst­bauer und weitere
+Baubereiche.
+
+Neue Wände seit der Wende –
+Wohnungsbau
+Eine Million
+Fünfundsechzigtausend
+Einhundert
+
+Fünf Millionen
+Einundneunzigtausend
+Achthundert
+
+35
+
+neue Wohnungen
+im früheren Bundesgebiet
+
+Anzahl der Wohnungen in
+neu fertiggestellten Wohngebäuden
+Früheres
+Bundesgebiet
+
+Neue Länder
+einschl. Berlin
+
+1991 *
+
+265 400
+
+14 900
+
+1992 *
+
+316 100
+
+14 300
+
+1993
+
+368 300
+
+25 800
+
+1994
+
+437 900
+
+63 800
+
+1995
+
+427 500
+
+97 100
+
+1996
+
+353 900
+
+131 400
+
+1997
+
+337 900
+
+163 200
+
+1998
+
+321 500
+
+110 700
+
+1999
+
+321 100
+
+85 400
+
+2000
+
+296 800
+
+71 800
+
+2001
+
+235 500
+
+50 400
+
+2002
+
+211 700
+
+42 000
+
+2003
+
+199 700
+
+36 400
+
+2004
+
+212 100
+
+35 700
+
+2005
+
+183 100
+
+30 700
+
+2006
+
+191 600
+
+29 100
+
+2007
+
+162 400
+
+23 000
+
+2008
+
+131 400
+
+20 800
+
+2009
+
+117 800
+
+18 700
+
+5 091 800
+
+1 065 100
+
+Insgesamt
+
+* Keine Angaben für Berlin-Ost.
+
+Von 1991 bis 2009 wurden in Deutschland insgesamt mehr als sechs Millionen neue Wohnungen
+fertiggestellt – gut ein Fünftel davon in den neuen
+Ländern und Berlin. Das entspricht, gemessen
+an der derzeitigen Bevölkerung, 65 Neubauwohnungen je 1 000 Einwohner im Osten und sogar 78
+im Westen.
+Den Höchststand erreichte der Wohnungsbau im
+Osten 1997: In diesem Jahr wurden elfmal so viele
+Wohnungen übergeben wie 1991. In der Folge
+zeigte sich allerdings auch hier ein Rückgang in
+der Zahl der neu gebauten Wohnungen analog zum
+Trend im früheren Bundesgebiet.
+
+Die Abbildung verdeutlicht die
+Zahl der Wohnungen in neu
+fertiggestellten Wohngebäuden im Zeitraum 1991 und
+2008: Je größer die Schrift,
+umso größer die Zahl.
+Die Zahl fertiggestellter
+Wohnungen beleuchtet nur
+einen Teil des „Aufbaus
+Ost“. Parallel zum Neubau
+von Wohnraum fanden in
+großem Umfang Modernisierungsmaßnahmen bestehender Gebäude statt,
+die zur Aufwertung des
+Wohnraums beitrugen.
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+neue Wohnungen
+in den neuen Ländern und Berlin
+
+Boden ist geduldig –
+Landwirtschaft
+Struktur landwirtschaftlicher Betriebe
+Zahl der Betriebe in 1 000
+
+Landwirtschaftlich genutzte Fläche
+je Betrieb in ha
+
+1991
+
+2007
+
+1991
+
+2007
+
+20
+
+33
+
+36
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+Früheres
+Bundesgebiet
+344
+
+Zwischen Ost und West zeigen
+599
+sich deutliche Unterschiede in
+der Landwirtschaft, vor allem
+was die Größe der bestellten
+Neue Länder
+19
+Fläche pro Betrieb anbetrifft:
+30
+Auf einen Betrieb im Osten
+185
+284
+entfielen 2007 im Durchschnitt
+185 Hektar Nutzfläche. Im
+Westen waren es lediglich 33 Hektar. In der DDR wurde die Landwirtschaft staatlich
+Die Grafik stellt die Strukturen
+gesteuert und in Großbetrieben wie landwirtschaftlichen Produktionsgenossenschaften
+in der Landwirtschaft in Ost
+oder volkseigenen Gütern betrieben.
+und West im Zeitvergleich dar.
+Seit 1991 zeigen sich Annäherungstendenzen zwischen Ost und West: Die Zahl der
+Betriebe in den neuen Ländern hat sich um rund 62 % erhöht, die genutzte Fläche je
+Betrieb deutlich verringert (– 34 %). Gleichzeitig nahm die Zahl der Betriebe im
+früheren Bundesgebiet ab (– 42 %), was hier zu einem Zuwachs der Nutzfläche pro
+Betrieb führte (+ 69 %).
+Die größten Betriebe finden sich in Mecklenburg-Vorpommern und Sachsen-Anhalt:
+Mit rund 250 Hektar Fläche war der Durchschnitt je Betrieb in Mecklenburg-Vorpommern
+2007 etwa zehnmal so hoch wie in Baden Württemberg.
+Ein weiterer Unterschied zwischen Ost und West zeigt sich darin, was auf den Feldern
+und Wiesen steht: Während der Ackerbau in den neuen Ländern vorherrscht, konzentriert
+sich die Viehhaltung vor allem auf die alten Länder. 2009 wurden dort 82 % der Rinder,
+85 % der Schweine und 72 % der Schafe gehalten.
+
+Je größer ein Quadrat, desto
+höher die Anzahl der Betriebe
+bzw. die landwirtschaftlich
+genutzte Fläche je Betrieb.
+
+Das is(s)t Bio-Land –
+Ökologischer Landbau
+Mecklenburg-Vorpommern
+Brandenburg
+
+Der ökologische Landbau ist besonders auf den Schutz von
+Natur und Umwelt ausgelegt. 2007 gab es in Deutschland
+14 500 ökologisch wirtschaftende Betriebe, was einem Anteil
+von 3,9 % an allen landwirtschaflichen Betrieben entspricht.
+Gegenüber 1999 hat sich dieser Anteil mehr als verdoppelt.
+Die Nachfrage nach ökologisch erzeugten Nahrungsmitteln
+aus der Region macht es für immer mehr Bauern interessant,
+ökologisch zu wirtschaften.
+
+Sachsen-Anhalt
+Baden-Württemberg
+Thüringen
+Bayern
+Sachsen
+Stadtstaaten
+Nordrhein-Westfalen
+Niedersachsen
+Schleswig-Holstein
+Rheinland-Pfalz
+
+Spitzenreiter in Sachen ökologischer Landbau ist mit Abstand Mecklenburg-Vorpommern: Mehr als ein Achtel (12,8 %) der landwirtschaftlichen Betriebe arbeiten hier nach
+ökologischen Standards. Auf den Plätzen zwei und drei folgen Brandenburg (9,1 %) und
+Hessen (6,3 %).
+Ökologisch wirtschaftende Betriebe 2007
+Landwirtschaftliche Ökologisch wirtschaftende
+Betriebe
+Betriebe
+insgesamt
+
+insgesamt
+
+in %
+
+Mecklenburg-Vorpommern
+
+5 400
+
+690
+
+12,8
+
+Brandenburg
+
+6 700
+
+610
+
+9,1
+
+22 400
+
+1 420
+
+6,3
+
+Saarland
+
+1 700
+
+100
+
+5,9
+
+Sachsen-Anhalt
+
+4 800
+
+270
+
+5,5
+
+57 000
+
+2 900
+
+5,1
+
+4 800
+
+200
+
+4,1
+
+121 700
+
+4 570
+
+3,8
+
+8 300
+
+300
+
+3,6
+
+Nordrhein-Westfalen
+
+47 500
+
+1 260
+
+2,6
+
+Niedersachsen
+
+49 900
+
+1 150
+
+2,3
+
+Schleswig-Holstein
+
+17 500
+
+400
+
+2,3
+
+Rheinland-Pfalz
+
+25 500
+
+580
+
+2,3
+
+Stadtstaaten
+
+1 300
+
+40
+
+3,0
+
+Deutschland
+
+374 500
+
+14 470
+
+3,9
+
+Hessen
+
+Baden-Württemberg
+Thüringen
+Bayern
+Sachsen
+
+Die Abbildung verdeutlicht
+den Stellenwert des ökologischen Landbaus 2007.
+Je größer das Wort, umso
+höher der Anteil ökologisch
+wirtschaftender Betriebe
+an allen landwirt­schaft­
+lichen Betrieben des jeweiligen Bundeslandes.
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+37
+
+Hessen
+Saarland
+
+Ferien an der See –
+Tourismus
+Menschen zieht es in ihrem Urlaub in Regionen, die landschaftliche Besonderheiten aufweisen, über reiche Kulturschätze verfügen oder einfach „angesagt“
+sind. Geschäftsreisende suchen dagegen in erster Linie die Wirtschaftszentren auf, um Kongresse zu besuchen oder um Kundenkontakte zu pflegen.
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+38
+
+Für die Westdeutschen war bis vor 20 Jahren der Osten Deutschlands kaum
+zugänglich. Nach dem Fall der Mauer setzte rasch eine intensive Reisetätigkeit ein. Der Osten der Republik wurde in den folgenden Jahren vor
+allem für Urlauber aus dem eigenen Land immer beliebter. Die Zunahme der Übernachtungszahlen seit dem Jahr 1992 – dem ersten Jahr
+der bundesweit einheitlichen Beherbergungsstatistik – zeigt dies
+eindrucksvoll: So weisen alle östlichen Bundesländer in den letzten
+20 Jahren deutliche Zuwächse bei den Übernachtungszahlen auf.
+Mecklenburg-Vorpommern mit seiner Ostseeküste und Seenlandschaft, die ideale Bedingungen für Freizeittouristen bieten, sticht hier
+mit einem Plus von über 200 % hervor. Die Hälfte der westlichen Bundesländer musste im gleichen Zeitraum Rückgänge bei den Übernachtungen
+hinnehmen. Allerdings ist dabei zu bedenken, dass die Steigerungen in den
+östlichen Bundesländern von einem Niveau ausgingen, das im Vergleich zum
+Westen Deutschlands sehr viel niedriger war.
+Gästeübernachtungen 2009
+Übernachtungen
+
+Mecklenburg-Vorpommern
+Schleswig-Holstein
+Bayern
+Berlin
+Rheinland-Pfalz
+Niedersachsen
+Hamburg
+Hessen
+Thüringen
+Brandenburg
+Baden-Württemberg
+Sachsen
+Sachsen-Anhalt
+Bremen
+Nordrhein-Westfalen
+Saarland
+Insgesamt
+
+in 1 000
+je Einwohner
+28 400
+17,1
+24 300
+8,6
+75 200
+6,0
+18 900
+5,5
+20 100
+5,0
+37 600
+4,7
+8 200
+4,6
+26 900
+4,4
+9 400
+4,2
+10 300
+4,1
+42 400
+16 300
+6 700
+1 600
+40 200
+2 100
+368 700
+
+Bezogen auf die Einwohnerzahl am 31. Dezember 2008.
+
+3,9
+3,9
+2,8
+2,5
+2,2
+2,1
+4,5
+
+Veränderung
+gegenüber
+1992 in %
++ 202
+–5
+–8
++ 140
+–1
++3
++ 99
+–7
++ 65
++ 121
+–2
++ 125
++ 107
++ 53
++8
++7
++ 16
+
+Die Grafik verdeutlicht die
+Anzahl der Gästeübernachtungen im Verhältnis zur
+Einwohnerzahl des jeweiligen Bundeslandes 2009.
+Gezählt werden dabei alle
+Übernachtungen in Hotels,
+Jugendherbergen, auf Campingplätzen und in ähnlichen Einrichtungen.
+
+Made in Germany –
+Außenhandel
+
+Auch 20 Jahre nach der Wiedervereinigung zeigen sich
+noch deutliche Ost-West-Unterschiede. Die Pro-KopfAusfuhren nach Bundesländern zeigen das Gefälle
+zwischen den beiden Landesteilen: Sie lagen in den
+neuen Ländern deutlich unter dem Bundesdurchschnitt. Die Ausfuhren der ostdeutschen Bundesländer
+sind zwar seit 1991 wesentlich stärker gewachsen als die des
+Westens (+ 306 % gegenüber + 111 %), ihr Anteil am Gesamtwert liegt heute jedoch nur bei 8 % (1991: knapp 5 %).
+Pro-Kopf-Ausfuhr von Waren 2009
+Wert der Waren
+in €
+Hamburg
+
+17 568
+
+Bremen
+
+16 311
+
+Baden-Württemberg
+
+11 628
+
+Saarland
+
+10 910
+
+Bayern
+
+9 915
+
+Rheinland-Pfalz
+
+8 693
+
+Deutschland Insgesamt
+
+8 012
+
+Nordrhein-Westfalen
+
+7 748
+
+Niedersachsen
+
+7 165
+
+Hessen
+
+7 109
+
+Schleswig-Holstein
+
+5 286
+
+Sachsen
+
+4 684
+
+Sachsen-Anhalt
+
+4 352
+
+Brandenburg
+
+4 251
+
+Thüringen
+
+3 985
+
+Mecklenburg-Vorpommern
+
+3 068
+
+Berlin
+
+3 052
+
+Signifikante Unterschiede gibt es auch in der
+Waren­struktur der Exporte: In den neuen Ländern
+ist der Anteil von Gütern der Ernährungswirtschaft höher als in den alten Bundesländern, der
+Anteil gewerblicher Produkte dagegen niedriger,
+wenngleich die Unterschiede gegenüber 1991
+abgenommen haben.
+
+Die Grafik verdeutlicht den
+Wert von exportierten Waren
+bezogen auf die Einwohnerzahl des jeweiligen Bundeslandes 2009. Je größer der
+Pfeil, desto höher der Wert
+der exportierten Waren.
+Hamburg und Bremen samt
+Bremerhaven sind wichtige
+Zwischenstationen im internationalen Seeverkehr. Daher führen sie die Rangliste
+mit deutlichem Abstand an.
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+39
+
+Die deutsche Wirtschaft ist in hohem Maße vom Export abhängig. Er ist traditionell Motor der Konjunktur und eine wichtige
+Stütze der Beschäftigung. Im Jahr 2009 wurden trotz weltweiter
+Wirtschaftskrise Waren im Wert von 800 Milliarden Euro
+ausgeführt. Ein Jahr zuvor hatte der Ausfuhrwert sogar fast
+eine Billion Euro erreicht. Allerdings ist die Herkunft der
+Ausfuhrgüter regional höchst unterschiedlich verteilt.
+
+Licht und Schatten –
+Gründungen und Insolvenzen
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+40
+Wirtschaftliche Trends verhelfen manchen Ideen zu großem Erfolg,
+andere können sich nicht am Markt behaupten. So wurden bei den
+Gewerbeämtern 2009 knapp 670 000 Neugründungen von Unternehmen und Nebenerwerbsbetrieben in Deutschland angezeigt, während
+rund 33 000 Insolvenz anmeldeten. Die meiste Bewegung zeigte sich
+in Nordrhein-Westfalen und Bayern: Hier gab es sowohl die meisten
+Neugründungen wie auch Insolvenzen.
+
+Neugründung
+Neugründung
+
+Früheres
+Bundesgebiet
+
+Neue Länder
+einschl. Berlin
+
+Gemessen an der Zahl bestehender Unternehmen zeigten sich im Osten
+mehr Firmenpleiten als im Westen: Auf 10 000 umsatzsteuerpflichtige
+Unternehmen kamen 2009 in den neuen Ländern und Berlin 111 Insolvenzen, im früheren Bundesgebiet lediglich 101. Die Insolvenzhäufigkeit war in Nordrhein-Westfalen und Sachsen Anhalt am höchsten.
+
+Insolvenz
+
+Gründungen und Insolvenzen von Unternehmen 2009
+
+Insolvenz
+
+Neugründungen Insolvenzen
+Anzahl
+
+Anzahl
+
+je 10 000
+bestehende
+Unternehmen
+
+Nordrhein-Westfalen
+
+143 900
+
+10 900
+
+163
+
+Bayern
+
+116 200
+
+3 940
+
+69
+
+Baden-Württemberg
+
+80 600
+
+2 850
+
+65
+
+Hessen
+
+60 600
+
+1 950
+
+78
+
+Niedersachsen
+
+56 700
+
+2 620
+
+97
+
+Berlin
+
+36 900
+
+1 500
+
+113
+
+Rheinland-Pfalz
+
+33 200
+
+1 380
+
+88
+
+Sachsen
+
+28 900
+
+1 940
+
+131
+
+Schleswig-Holstein
+
+24 800
+
+1 200
+
+111
+
+Hamburg
+
+18 700
+
+840
+
+95
+
+Brandenburg
+
+17 100
+
+750
+
+85
+
+Thüringen
+
+13 800
+
+630
+
+81
+
+Sachsen-Anhalt
+
+12 700
+
+1 010
+
+147
+
+Mecklenburg-Vorpommern
+
+10 200
+
+490
+
+89
+
+7 300
+
+440
+
+122
+
+Saarland
+
+5 500
+
+250
+
+111
+
+Deutschland
+
+667 100
+
+32 690
+
+103
+
+Früheres Bundesgebiet
+
+547 500
+
+26 380
+
+101
+
+Neue Länder einschl. Berlin
+
+119 600
+
+6 310
+
+111
+
+Bremen
+
+Die Abbildung verdeutlicht die Zahl der Neugründungen und Insolvenzen
+von Unternehmen 2009.
+Je größer das Symbol, umso
+größer der absolute Wert der
+Insolvenzen und Neugründungen. Nur die Vergleiche zwischen Ost und West
+sind maßstabsgetreu.
+
+Arbeitsmarkt
+
+Arbeit ist das halbe Leben –
+Erwerbstätigkeit
+Erwerbstätigenzahlen
+Millionen
+35
+30
+Früheres Bundesgebiet
+
+44
+
+25
+20
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+15
+Neue Länder einschl. Berlin
+
+10
+5
+
+1991
+
+1995
+
+2000
+
+Die Hälfte der Einwohner Deutschlands ist erwerbstätig. Im Jahr 2009 gab es 40,2 Millionen Erwerbstätige, das sind rund 1,5 Millionen mehr arbeitende Menschen als 1991.
+Dieser Zuwachs geschah jedoch nicht gleichförmig. Vielmehr zeigen sich gegenläufige
+Entwicklungen in Ost und West: Im früheren Bundesgebiet stagnierte die Zahl der
+Erwerbstätigen im Verlauf der 1990er-Jahre, stieg dann aber ab 2004 deutlich an. Im
+Vergleich zu 1991 nahm die Erwerbstätigenzahl hier um 8,2 % zu.
+Die Erwerbstätigenzahl in den neuen Ländern und Berlin ging hingegen von 1991 bis
+2004 stark zurück, bevor sie sich etwas erholte. 2009 lag sie aber immer noch um 13 %
+niedriger als 1991.
+
+Entwicklung der Erwerbstätigenzahlen
+
+2005
+
+2009
+
+0
+
+Die vorgestellten Gesamtzahlen sind Ergebnisse der
+Erwerbstätigenrechung im
+Rahmen der Volkswirtschaftlichen Gesamtrechnungen.
+Diese liefert die genauesten verfügbaren Resultate auf Bundesebene.
+Der Vergleich der Entwicklungen entstammt dem
+Mikrozensus, der die geeignete Quelle für Strukturaussagen unterhalb der
+Gesamtebene darstellt.
+
+Früheres Bundesgebiet
+
+Index (1991=100)
+
+108
+
+100
+1991
+Neue Länder einschl. Berlin
+87
+1993
+
+1995
+2000
+
+2009
+2004
+
+Ein gesamtdeutsches Problem –
+Erwerbslosigkeit
+Erwerbslosenquoten
+Früheres
+Bundesgebiet 6,4
+
+Deutschland
+7,7
+
+Neue Länder
+einschl. Berlin 12,6
+13,9
+
+Mecklenburg-Vorpommern
+Berlin
+
+13,7
+
+Sachsen-Anhalt
+
+13,6
+12,5
+
+Sachsen
+
+11,3
+
+Brandenburg
+
+10,7
+
+Thüringen
+9,0
+
+Bremen
+
+8,4
+
+Saarland
+
+7,8
+
+Nordrhein-Westfalen
+
+Viele Menschen in Ost und West sind von dem
+Problem betroffen, keine Arbeit zu finden. Den
+Höchststand erreichte die Zahl der Erwerbslosen im Jahr 2004, als insgesamt 4,9 Millionen
+Menschen keine Arbeit hatten. Im ersten Jahr
+nach der Wiedervereinigung waren 2,6 Millionen Personen in Deutschland erwerbslos,
+2009 waren es immer noch 3,2 Millionen.
+
+45
+
+Schleswig-Holstein
+
+7,3
+
+Hamburg
+
+7,2
+6,8
+
+Niedersachsen
+
+6,4
+
+Hessen
+
+6,0
+
+Rheinland-Pfalz
+Baden-Württemberg
+
+5,1
+
+Bayern
+
+5,1
+
+Die neue politische und wirtschaftliche Situation nach der Einheit brachte viel Bewegung in den gesamtdeutschen Arbeitsmarkt und sorgte für einen generellen Anstieg der
+Erwerbslosigkeit. Besonders stark zeigten sich die Folgen der Wende in den neuen Ländern: Der Anteil erwerbsloser Personen lag im Osten seit der Vereinigung immer erheblich über dem im Westen. Als Anteil an allen Erwerbspersonen betrug die Erwerbslosenquote 2009 im früheren Bundesgebiet 6,4 %, in den neuen Ländern und Berlin 12,6 %.
+Der Bundesdurchschnitt lag bei 7,7 %.
+Mit 13,9 % war die Erwerbslosenquote 2009 in Mecklenburg-Vorpommern am höchsten,
+gefolgt von Berlin und den anderen vier ostdeutschen Ländern, die allesamt zweistellige Quoten aufwiesen. Letzteres ist in keinem der westdeutschen Länder der Fall. Am
+niedrigsten waren die Erwerbslosenquoten in den beiden süddeutschen Flächenländern
+Bayern und Baden-Württemberg mit je 5,1 %.
+
+2009
+1991
+
+Als erwerbslos zählen alle
+Personen, die nicht erwerbs­
+tätig sind, aktiv nach einer
+Erwerbstätigkeit suchen
+und bei Erfolg der Suche
+eine Tätigkeit kurzfristig
+aufnehmen könnten.
+Durch ihre Unabhängigkeit
+von Änderungen des Sozialrechts ist die Erwerbslosenzahl für zeitliche Vergleiche
+besser geeignet als die Zahl
+der registrierten Arbeitslosen.
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+1991 und 2009 in %
+
+Nur ein Teil vom Kuchen –
+Teilzeitarbeit
+Teilzeitquoten 2009
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+46
+
+Früheres
+Bundesgebiet
+
+Neue Länder
+einschl. Berlin
+
+8,8
+
+11,3
+
+48,6
+
+34,5
+
+Es erscheint paradox: Die Zahl der Erwerbstätigen steigt, gleichzeitig
+steigt aber auch die Zahl der Erwerbslosen. Die Antwort liegt darin, dass
+die Bevölkerung seit 1991 um rund zwei Millionen Menschen zugenommen
+hat, mehr Menschen arbeiten wollen und die Arbeit anders verteilt ist.
+In ganz Deutschland gibt es immer mehr Teilzeitbeschäftigte. Dadurch
+sind heute mehr Personen erwerbstätig, wenn auch in geringerem Umfang.
+Im Vergleich zu 1991 hat sich der Anteil der Teilzeiterwerbstätigen nahezu
+verdoppelt (+ 92 %).
+Arbeit in Teilzeit ist besonders bei Frauen weit verbreitet. Rund 46 % der erwerbstätigen
+Frauen in Deutschland gaben 2009 an, Teilzeit zu arbeiten. Gründe hierfür sind die
+Notwendigkeit, Familie und Beruf miteinander zu vereinbaren, die traditionelle Rollenverteilung zwischen Männern und Frauen, aber auch der Mangel an geeigneten Vollzeitstellen. Dieser Mangel dürfte auch für viele Männer im Osten Grund dafür sein, eine
+Beschäftigung mit geringerem Arbeitsumfang auszuüben. Seit 1991 hat sich der Anteil
+von Teilzeiterwerbstätigen in den neuen Ländern nahezu verzehnfacht.
+Teilzeitquoten der Erwerbstätigen in %
+Männer
+
+Frauen
+
+Insgesamt
+
+1991 2009 1991 2009 1991 2009
+Früheres Bundesgebiet
+
+2,3
+
+8,8
+
+34,3
+
+48,6
+
+15,4
+
+27,5
+
+Neue Länder
+(2009 einschl. Berlin)
+
+1,2
+
+11,3
+
+17,5
+
+34,5
+
+8,9
+
+22,6
+
+Deutschland
+
+2,1
+
+9,2
+
+30,2
+
+45,8
+
+14,0
+
+26,5
+
+Die Frage nach Voll- oder
+Teil­zeitbeschäftigung ist
+eine Selbsteinschätzung
+der Befragten und nicht
+nach einer bestimmten
+Stunden­zahl abgegrenzt.
+
+Aufholjagd am Arbeitsplatz –
+Arbeitsproduktivität
+Arbeitsproduktivität
+Bruttoinlandsprodukt je Erwerbstätigen in €
+
+Die Arbeitsproduktivität im Osten lag zur Zeit der Einheit deutlich unter
+dem Niveau des Westens. Ausgehend von weniger als der Hälfte der
+„Westproduktivität“ erlebte der Osten bis 1994 einen Produktivitätsschub
+und erreichte 71 % des Westniveaus. In den Folgejahren verringerte sich
+der Abstand der neuen Länder und Berlin weiter und lag 2009 nur noch
+ein Fünftel unter der Arbeitsproduktivität des früheren Bundesgebiets.
+
+45 235 61 947
+
+20 150 50 208
+
+1991
+
+1991
+
+2009
+
+Früheres Bundesgebiet
+
+Die gesamtwirtschaftliche Arbeitsproduktivität wird gemessen am Verhältnis des
+Bruttoinlandsprodukts einer Region zur Zahl der Erwerbstätigen. Insgesamt erbrachten
+die Erwerbstätigen in den neuen Ländern und Berlin 2009 eine Wirtschaftsleistung von
+durchschnittlich 50 200 Euro pro Kopf, im früheren Bundesgebiet von rund 62 000 Euro.
+
+2009
+
+Neue Länder einschl. Berlin
+
+Die Grafik unten zeigt die
+Entwicklung der Arbeitsproduktivität in den Bundesländern. Der Abstand zwischen
+dem früheren Bundesgebiet und den neuen Ländern
+verringert sich deutlich.
+
+Arbeitsproduktivität
+Bruttoinlandsprodukt je Erwerbstätigen in €
+
+Hamburg
+Früheres Bundesgebiet
+
+80 000
+70 000
+
+Hamburg
+
+60 000
+50 000
+Sachsen
+
+40 000
+30 000
+
+Neue Länder einschl. Berlin
+
+20 000
+10 000
+
+Thüringen
+1991
+Ergebnisse des Arbeitskreises „Volkswirtschaftliche Gesamtrechnungen der Länder“.
+
+0
+2000
+
+2009
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+47
+
+Aufholen ohne einzuholen –
+Verdienste in Ost und West
+Verdienstniveau in den neuen Ländern im Vergleich zum früheren Bundesgebiet
+bezogen auf den Bruttomonatsverdienst von vollzeitbeschäftigten Arbeitnehmerinnen
+und Arbeitnehmern, früheres Bundesgebiet einschl. Berlin
+2009
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+48
+
+1991
+76,5 %
+
+46,5 %
+
+„Der Osten holt auf.“ Dies traf in den ersten Jahren
+nach der Wiedervereinigung auf das Verdienstniveau
+in den neuen Ländern im Vergleich zum früheren Bundes­
+gebiet einschließlich Berlin zu. Während Ostdeutsche 1991
+nur 46,5 % des Westniveaus verdienten, betrug das Verdienst­
+niveau fünf Jahre später immerhin schon 73,2 %.
+Dieser Angleichungsprozess kam jedoch in den Folgejahren so gut wie zum
+Erliegen. 2009 lag das Verdienstniveau des Ostens bei 76,5 % des Westens –
+und das, obwohl heute kaum noch Tarifverträge eine unterschiedliche Bezahlung
+zwischen den Regionen vorsehen.
+
+Einfach nicht das Gleiche –
+Verdienste von Männern und Frauen
+Bruttostundenverdienste 2009
+
+20,12 €
+
+15,16 €
+
+Früheres Bundesgebiet
+einschl. Berlin
+
+49
+
+–30,3 %
+
+–12,9 %
+–7,5 %
+
+–34,3 %
+
+14,02 €
+Neue Länder
+
+Der Verdienstabstand zwischen Frauen und Männern ist im Osten deutlich geringer als
+im Westen. Während im Jahr 2009 Frauen im früheren Bundesgebiet einschl. Berlin pro
+Stunde 24,7 % weniger als westdeutsche Männer verdienten, lag der sogenannte Gender
+Pay Gap in den neuen Ländern bei lediglich 5,7 %.
+Ein Grund für den geringeren Verdienstabstand im Osten liegt darin, dass Männer deutlich weniger als im Westen verdienen. So lag der Bruttostundenverdienst ostdeutscher
+Männer 2009 rund 6 Euro (– 30,3 %) unter dem der westdeutschen männlichen Arbeitnehmer. Bei den Frauen machte dieser Unterschied nur etwa 2 Euro aus (– 12,9 %).
+
+13,21 €
+–5,7 %
+
+In der Grafik sind die Bruttostundenverdienste von Männern und Frauen in Ost und
+West abgetragen. Die Größe der einzelnen Diagramme verdeutlich die Höhe
+der Verdienste, die eingefärbten Kreissegmente den
+Anteil an den Verdiensten
+westdeutscher Männer.
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+–24,7 %
+
+Leben
+
+Ungleich höher –
+Verfügbares Einkommen
+Verfügbares Einkommen
+der privaten Haushalte
+1991
+
+2008
+
+€
+25 000
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+52
+Das verfügbare Einkommen der privaten Haushalte in Deutschland erreichte 2008
+insgesamt rund 1 558 Milliarden Euro. Je Einwohner entsprach dies durchschnittlich
+rund 19 000 Euro. Allerdings bestehen deutliche regionale Unterschiede: So verfügte
+Hamburgs Bevölkerung 2008 mit durchschnittlich 23 455 Euro über ein gut 8 500 Euro
+höheres Pro-Kopf-Einkommen als Mecklenburg-Vorpommern. Verglichen mit 1991 hat
+sich die Einkommenslage in den neuen Ländern insgesamt zwar deutlich verbessert,
+merkliche Unterschiede bestehen aber nach wie vor.
+Ein deutliches Plus für den Osten stellen die öffentlichen Transferleistungen dar: Mit den
+Einkommen aus Erwerbstätigkeit und Vermögen erreichen die Einwohner der neuen Länder und Berlin lediglich rund 68 % des westdeutschen Primäreinkommens. Nach Steuern
+und Sozialtransfers wie Renten, Kindergeld und Ähnlichem nähert sich das verfügbare
+Einkommen auf über 78 % an.
+
+20 000
+
+15 000
+
+Verfügbares Einkommen
+der privaten Haushalte in €
+1991
+
+2008
+
+Hamburg
+
+16 482
+
+23 455
+
+Bremen
+
+16 071
+
+21 068
+
+Baden-Württemberg
+
+14 409
+
+20 748
+
+Bayern
+
+13 733
+
+20 339
+
+Nordrhein-Westfalen
+
+14 040
+
+19 837
+
+Hessen
+
+13 592
+
+19 824
+
+Saarland
+
+11 430
+
+19 022
+
+Rheinland-Pfalz
+
+12 756
+
+18 509
+
+Schleswig-Holstein
+
+13 319
+
+18 446
+
+Niedersachsen
+
+12 759
+
+18 206
+
+7 568
+
+15 913
+
+Brandenburg
+Berlin
+
+12 456
+
+15 736
+
+Sachsen
+
+7 231
+
+15 708
+
+Thüringen
+
+7 160
+
+15 297
+
+Sachsen-Anhalt
+
+6 914
+
+15 192
+
+Mecklenburg-Vorpommern
+
+6 688
+
+14 944
+
+Deutschland
+
+12 509
+
+18 974
+
+Früheres Bundesgebiet
+
+13 779
+
+19 838
+
+8 156
+
+15 536
+
+Neue Länder
+einschl. Berlin
+
+Ergebnisse des Arbeitskreises „Volkswirtschaftliche
+Gesamtrechnungen der Länder“.
+
+10 000
+
+Das verfügbare Einkommen
+entspricht dem Geld, das den
+Haushalten für Konsum- und
+Sparzwecke zur Verfügung
+steht. Vom Einkommen aus Erwerbstätigkeit und Vermögen
+(Primäreinkommen) werden
+Sozialbeiträge, Steuern usw.
+abgezogen. Staatliche Unter­
+stützungsleistungen, wie
+z. B. Sozialleistungen (Rente,
+Arbeitslosenhilfe, Kindergeld...), werden hinzugefügt.
+
+5 000
+
+0
+
+Jeden Euro zweimal umdrehen –
+Familieneinkommen
+Monatliches Nettoeinkommen von Familien mit minderjährigen Kindern 2009
+%
+35
+
+35
+
+45
+
+11
+
+20
+
+Früheres
+Bundesgebiet
+
+Neue Länder
+einschl. Berlin
+
+In den neuen Ländern und Berlin musste 2009
+jede fünfte Familie (20 %) mit minderjährigen
+Kindern mit einem monatlichen Familiennettoeinkommen von weniger als 1 300 Euro zurechtkommen.
+Im früheren Bundesgebiet hatten nur halb so viele Familien
+(11 %) ein derart niedriges Einkommen.
+Ein Einkommen von 2 600 Euro und mehr konnte die Hälfte der Familien in den alten
+Ländern (51 %) verbuchen, in den neuen Ländern und Berlin traf dies nur auf gut ein
+Drittel (35 %) der Familien zu.
+
+2 600 € und mehr
+
+1 300 bis 2 599 €
+
+53
+
+unter 1 300 €
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+Die Gründung einer Familie hat erhebliche
+Auswirkungen auf die wirtschaftliche Situation der Eltern. Westdeutsche Familien sind
+auch 20 Jahre nach der Wiedervereinigung
+finan­ziell häufig besser gestellt als Familien
+im Osten.
+
+51
+
+Komm, spiel mit mir –
+Elterngeldbezug von Vätern
+27 %
+24 %
+
+20 %
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+54
+
+Seit 2007 gibt es das Elterngeld, das junge Eltern im ersten
+Lebensjahr ihres Kindes finanziell unterstützt. Auch junge Väter
+sollen motiviert werden, sich eine „Babyzeit“ zu nehmen.
+Elterngeldbezug von Vätern
+Anteile von im Jahr 2008 geborenen Kindern,
+deren Vater Elterngeld bezogen hat
+Anteile
+in %
+Bayern
+
+27,0
+
+Berlin
+
+26,9
+
+Sachsen
+
+26,7
+
+Brandenburg
+
+25,2
+
+Thüringen
+
+24,9
+
+Hamburg
+
+22,3
+
+Baden-Württemberg
+
+20,2
+
+Mecklenburg-Vorpommern
+
+20,2
+
+Hessen
+
+20,1
+
+Niedersachsen
+
+18,5
+
+Schleswig-Holstein
+
+18,2
+
+Bremen
+
+17,6
+
+Sachsen-Anhalt
+
+17,2
+
+Rheinland-Pfalz
+
+16,9
+
+Nordrhein-Westfalen
+
+16,4
+
+Saarland
+
+12,0
+
+Deutschland
+
+20,8
+
+Früheres Bundesgebiet ohne Berlin
+
+19,9
+
+Neue Länder ohne Berlin
+
+23,6
+
+Früheres Bundesgebiet
+
+Regional zeigen sich dabei große Unterschiede:
+Für im Jahr 2008 geborene Kinder bezogen in
+den neuen Ländern 24 % der Väter Elterngeld, im
+früheren Bundesgebiet 20 %. Die höchsten Väteranteile gibt es in Bayern, Berlin und Sachsen
+mit jeweils rund 27 %; den geringsten zeigte das
+Saarland mit 12 %.
+Viel Zeit nehmen sich jedoch nur die wenigsten
+Väter: Im bundesweiten Durchschnitt griffen
+72 % nur für maximal zwei Monate auf die Unterstützung zurück. Das Elterngeld wird für bis zu
+14 Monate gewährt. Mütter nehmen Elterngeld in
+Ost und West zu 96 % in Anspruch. Sie beziehen
+die Leistung zumeist für zwölf Monate.
+
+Berlin
+
+Neue Länder
+
+Die Abbildung verdeutlicht
+den Anteil von Männern,
+die für im Jahr 2008 geborene Kinder Elterngeld bezogen haben. Je höher der Ball,
+desto höher der Anteil.
+
+Nach getaner Arbeit –
+Altersrente
+Höhe der Altersrenten
+Durchschnittlicher monatlicher Rentenzahlbetrag am 31. Dezember 2009
+
+Früheres
+Bundesgebiet
+
+Neue
+Länder
+
+Nach einem Leben voller Arbeit lockt der Ruhestand und
+bringt mehr Zeit für sich, die Familie und alle anderen
+Wünsche, die neben der Arbeit vielleicht zu kurz gekommen sind. Mit durchschnittlich rund 63 Jahren traten Männer
+und Frauen in Deutschland 2009 ihre Altersrente an.
+
+Früheres
+Bundesgebiet
+
+1 069 €
+990 €
+702 €
+487 €
+
+Daten der Deutschen Rentenversicherung.
+
+Die ostdeutschen Rentnerinnen und Rentner gelten gemeinhin als „Gewinner der Wende“.
+Und in der Tat sind die durchschnittlichen Auszahlbeträge für staatliche Altersrenten im
+Osten höher als im Westen: Ende 2009 lag der Durchschnitt für Männer in den neuen
+Ländern etwa 8 % über dem Betrag im früheren Bundesgebiet, bei Frauen waren es sogar
+rund 44 %.
+Die Höhe der Altersrenten allein gibt jedoch noch keine vollständige Auskunft über den
+Lebensstandard älterer Menschen. Zuverdienste, Erträge aus privaten Rentenversicherungen sowie Vermögen oder Immobilienbesitz haben ebenfalls Einfluss auf die finan­
+zielle Situation von Rentnern.
+
+55
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+Neue
+Länder
+
+Netz am unteren Ende –
+Soziale Mindestsicherung
+„Hartz IV“-Empfängerinnen und Empfänger
+im Dezember 2008
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+56
+Den Personen, die ihren Lebensunterhalt nicht aus eigenen
+Mitteln bestreiten können, zahlt der Staat finanzielle Hilfen.
+Die Ursachen der Bedürftigkeit sind vielfältig: Arbeitslosigkeit, Niedrigeinkommen, geringe Renten oder dauer­hafte
+gesundheitliche Beeinträchtigungen. „Hartz IV“ oder die
+Leistungen der Sozialhilfe sollen diesen Menschen helfen,
+ihren Lebensunterhalt zu sichern und angemessen am
+gesellschaftlichen Leben teilzuhaben.
+Der Anteil der Personen, die Hartz IV-Leistungen erhalten,
+ist in den neuen Ländern und Berlin rund doppelt so hoch
+wie im früheren Bundesgebiet. 2008 war im Osten etwa
+jede bzw. jeder Sechste im Alter unter 65 Jahren betroffen
+(17,2 %), im Westen nur jede/-r Zwölfte (8,4 %).
+Früheres Bundesgebiet
+8,4 %
+
+Neue Länder einschl. Berlin
+17,2 %
+
+Mehr als 86 % der Personen,
+die soziale Mindestsicherung erhalten, beziehen
+Hartz IV-Leistungen (Arbeitslosengeld II und Sozialgeld).
+Die übrigen Empfängerinnen und Empfänger erhalten
+Sozialhilfe, Asylbewerberleistungen oder Leistungen
+der Kriegsopferfürsorge.
+
+Finanzielle Schieflage –
+Armutsgefährdung
+Armutsgefährdungsquote 2007
+Anteile von Personen mit weniger als 60 % des deutschen Medianeinkommens nach Sozialtransfers
+
+12 %
+
+14 %
+
+15 %
+
+ue
+
+Unter 18-Jährige
+
+18- bis 64-Jährige
+
+Ab 65-Jährige
+
+Deutschland
+
+Deutschland gehört zu den wichtigsten Wirtschaftsnationen der Welt, aber der Wohlstand
+ist nicht gleich verteilt. Insgesamt waren 2007 in Deutschland 15 % der Bevölkerung
+armutsgefährdet. Geringe Qualifikation, Arbeitslosigkeit oder schlecht bezahlte Arbeit
+können Gründe hierfür sein. Alleinerziehende und ihre Kinder waren dabei besonders
+häufig von Armut bedroht: Hier waren es 36 %.
+
+Als armutsgefährdet gilt,
+wer selbst nach staatlichen
+Transferleistungen weniger
+als 60 % des deutschen
+Medianeinkommens zur
+Verfügung hat.
+
+In den neuen Ländern und Berlin lagen die Quoten für einzelne Personengruppen zumeist
+deutlich über denen im früheren Bundesgebiet. Nur bei der Gruppe der 65-Jährigen und
+Älteren gab es keine nennenswerten Unterschiede zwischen Ost (14 %) und West (15 %).
+
+Medianeinkommen bedeutet:
+Wenn man alle Einkommen in
+aufsteigender Reihenfolge
+ordnet, teilt der Median die
+Verteilung genau in der Mitte.
+Die Hälfte aller Einkommen
+liegt darüber, die andere
+Hälfte darunter.
+
+Im Bundesländervergleich weist Mecklenburg-Vorpommern die höchste Armutsgefährdungsquote auf. Unter den Ländern mit den höchsten Quoten findet sich außer Bremen
+kein weiteres westdeutsches Bundesland.
+
+2007 galt eine alleinlebende
+Person mit einem Jahreseinkommen von unter 10 953 €
+als armutsgefährdet. Für
+einen Haushalt mit zwei
+Erwachsenen und zwei
+Kindern unter 14 Jahren
+betrug der Wert 23 001 €.
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+15 %
+12 %
+
+Ne
+
+Frü
+
+57
+
+25 %
+
+he
+
+res
+Bu
+nd
+Lä
+es
+nd
+ge
+er
+bie
+ein
+t1
+sc
+3%
+hl.
+Be
+rlin
+23
+%
+
+27 %
+
+Was mir was wert ist –
+Konsumausgaben
+Konsumausgaben
+der privaten Haushalte 2008
+Anteile in %
+
+58
+
+2 333 €
+
+1 857 €
+
+Früheres
+Bundesgebiet
+Neue Länder
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+52
+
+51
+
+Grundbedürfnisse
+(Wohnen, Nahrungsmittel, Bekleidung)
+
+Früheres Bundesgebiet
+
+Die Konsumausgaben der privaten Haushalte im Osten
+lagen 2008 bei rund 80 % des Westniveaus. So gaben
+Privathaushalte in den neuen Ländern durchschnittlich
+1 857 Euro im Monat aus, im früheren Bundesgebiet
+2 333 Euro.
+
+15
+
+15
+
+Verkehr
+
+11
+
+12
+
+Freizeit, Unterhaltung
+und Kultur
+
+5
+
+5
+
+5
+
+5
+
+Innenausstattung,
+Haushaltsgeräte
+und -gegenstände
+
+13
+
+12
+
+Sonstiges
+
+Beherbergungsund Gaststättendienstleistungen
+
+Trotz unterschiedlichem Niveau sind die Konsummuster
+in Ost und West nahezu identisch. Für die Grundbedürfnisse Wohnung, Nahrung und Bekleidung verwendeten
+die privaten Haushalte 2008 durchschnittlich etwas mehr
+als die Hälfte ihrer gesamten Konsumausgaben. Mobilität
+schlug in beiden Teilen Deutschlands mit durchschnittlich
+15 % zu Buche, gefolgt von den Ausgaben für Freizeit,
+Unterhaltung und Kultur. Für Restaurants und Hotelübernachtungen belasteten die Privathaushalte ihre Budgets
+mit 5 % genauso hoch wie mit ihren Ausgaben für die
+Wohnungseinrichtung. Diese Konsummuster haben sich
+seit 1993 nicht wesentlich verändert.
+
+Neue Länder
+
+Einheitlich eingerichtet –
+Haushaltsausstattung
+Haushaltsausstattung 2008
+Ausstattungsgrad privater Haushalte
+mit ausgewählten Gebrauchsgütern
+Früheres Neue
+Bundesgebiet Länder
+Mobiltelefon
+
+59
+
+Geschirrspülmaschine
+
+Die Ausstattung mit Gebrauchsgütern spiegelt einen Teil der Lebenssituation der
+privaten Haushalte wider. Hier ist die Einheit weitgehend vollzogen: Für fast alle
+höherwertigeren Gebrauchsgegenstände zeigen sich ähnliche Ausstattungsquoten.
+Bereits seit 1993 sind nahezu alle Haushalte in den neuen Ländern wie im früheren
+Bundesgebiet (jeweils rund 95 %) mit Fernsehgeräten ausgestattet. Auch die modernen Flachbildgeräte finden sich gleichermaßen in etwa jedem sechsten Haushalt
+in Ost und West. Telefonisch erreichbar – sei es über Handy oder Festnetz – ist
+mittlerweile jeder Haushalt. 1993 zeigten sich hier noch deutliche Unterschiede:
+Damals stand in Ostdeutschland nur in jedem zweiten Haushalt ein Telefon. 1993
+hatten auch nur die wenigsten Haushalte in den neuen Ländern eine Geschirrspülmaschine (3 %), bis 2008 stieg der Anteil auf 55 % und näherte sich
+damit dem Anteil im früheren Bundesgebiet (64 %) stark an. Für MP3Player und Digitalkameras sind die Ausstattungsquoten ebenfalls
+im Westen leicht höher als im Osten. Bei der Ausstattung mit
+Wäsche­trocknern hingegen ist es im letzten Jahrzehnt zu keiner
+weiteren Annäherung zwischen Ost und West gekommen.
+
+64 % 55 %
+
+Fotoapparat digital
+60 % 53 %
+
+Wäschetrockner
+
+42 % 22 %
+
+MP3-Player
+
+39 % 32 %
+
+Flachbildfernseher
+
+16 % 15 %
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+86 % 86 %
+
+Raum zum Leben –
+Wohnverhältnisse
+Wohnfläche je Person in m²
+50
+Früheres Bundesgebiet
+
+40
+
+60
+
+30
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+Neue Länder einschl. Berlin
+
+20
+
+Tür zu, Schlüssel weg, Schuhe aus, zu Hause
+ist’s am schönsten. Und das Schönste ist, genügend Platz für alle Bedürfnisse des privaten
+Lebens zu haben.
+
+10
+
+1993
+
+1998
+
+Im bundesdeutschen Durchschnitt hatten die Menschen 2006 rund 43 Quadratmeter
+Wohnfläche zur Verfügung. Handelt es sich um eine eigene Wohnung oder ein eigenes
+Haus, so ist die Wohnfläche pro Person meist noch deutlich größer.
+Wohnfläche je Person in m²
+1993
+
+2006
+
+in m²
+
+Zuwachs
+in %
+
+Saarland
+
+41,8
+
+48,9
+
+17,0
+
+Niedersachsen
+
+39,1
+
+47,2
+
+20,7
+
+Rheinland-Pfalz
+
+39,9
+
+47,2
+
+18,3
+
+Hessen
+
+39,1
+
+44,8
+
+14,6
+
+Bayern
+
+38,5
+
+44,3
+
+15,1
+
+Schleswig-Holstein
+
+37,8
+
+44,1
+
+16,7
+
+Baden-Württemberg
+
+37,7
+
+43,0
+
+14,1
+
+Nordrhein-Westfalen
+
+36,2
+
+42,3
+
+16,9
+
+Bremen
+
+37,5
+
+41,7
+
+11,2
+
+Berlin
+
+34,3
+
+39,9
+
+16,3
+
+Brandenburg
+
+29,6
+
+39,6
+
+33,8
+
+Hamburg
+
+35,2
+
+39,0
+
+10,8
+
+Thüringen
+
+30,4
+
+39,0
+
+28,3
+
+Sachsen-Anhalt
+
+30,3
+
+38,9
+
+28,4
+
+Mecklenburg-Vorpommern
+
+27,3
+
+37,8
+
+38,5
+
+Sachsen
+
+29,4
+
+36,8
+
+25,2
+
+Angaben beziehen sich nicht auf Wohnungen in Wohnheimen,
+Ferien-/Freizeitwohnungen und privatrechtlich gemietete
+Wohnungen von Angehörigen ausländischer Streitkräfte u. Ä.
+
+In den neuen Ländern und Berlin wohnte
+eine Person 2006 auf durchschnittlich
+38,6 Quadrat­metern. Im früheren Bundesgebiet waren es sogar 44 Quadratmeter. In
+den letzten 20 Jahren hat die Wohnfläche
+je Person in Deutschland kontinuierlich
+zugenommen. Besonders stark fiel der Zuwachs im Osten aus: Im Vergleich zu 1993
+stehen den Bewohnern durchschnittlich
+neun Quadratmeter mehr zur Verfügung.
+Im Westen nahm die Fläche im Schnitt
+immerhin noch um sechs Quadratmeter zu.
+
+2002
+
+2006
+
+0
+
+In der Grafik sind neben den
+Mittelwerten der Wohnfläche je Person in Ost und West
+auch die Werte der einzelnen Bundesländer abgetragen, um die regionalen Unterschiede deutlich zu machen.
+Insgesamt zeigt sich eine
+Zunahme des Wohnraums
+je Person sowie eine Annäherung von Ost und West.
+
+Ein guter Grund –
+Kaufwerte für Bauland
+
+Hamburg
+Bayern
+Das eigene Haus mit Garten ist eine Wunschvorstellung von Vielen in Ost und
+West. Grundvoraussetzung für einen Neubau ist das geeignete Bauland, das
+je nach Lage ganz verschiedene Investitionen erforderlich macht.
+Der durchschnittliche Preis für ein Baugrundstück lag im Jahr 1992 in beiden
+Landesteilen bei rund 62 000 Euro. Die Grundstücke in den neuen Ländern
+waren dabei wesentlich größer als im früheren Bundesgebiet. Ein Quadrat­
+meter baureifes Land kostete 13,90 Euro im Osten, im Westen durchschnittlich 64,71 Euro.
+Kaufwerte für Bauland 2008
+Durchschnittlicher Kaufwert
+je m² baureifes Land in €
+Hamburg
+
+588
+
+Berlin
+
+274
+
+Bayern
+
+228
+
+Baden-Württemberg
+
+171
+
+Bremen
+
+159
+
+Nordrhein-Westfalen
+
+134
+
+Hessen
+
+128
+
+Deutschland
+
+127
+
+Schleswig-Holstein
+
+111
+
+Rheinland-Pfalz
+
+107
+
+Saarland
+
+77
+
+Niedersachsen
+
+73
+
+Sachsen
+
+53
+
+Brandenburg
+
+51
+
+Mecklenburg-Vorpommern
+
+49
+
+Thüringen
+
+31
+
+Sachsen-Anhalt
+
+30
+
+Verkäufe ab 100 m² Fläche.
+Baureif: Alle Erschließungsarbeiten
+ausgeführt, das Grundstück kann sofort
+bebaut werden.
+
+Baden-Württemberg
+Bremen
+Nordrhein-Westfalen
+Hessen
+Schleswig-Holstein
+Rheinland-Pfalz
+Saarland
+Niedersachsen
+
+Sachsen
+Bis zum Jahr 2008 verringerte sich dieser
+Brandenburg
+Abstand, sodass die Quadratmeterpreise im
+Mecklenburg-Vorpommern
+Thüringen
+Osten 38 % des Westniveaus erreichten. DenSachsen-Anhalt
+noch: Mit 135 000 Euro kostete ein Baugrundstück im früheren Bundesgebiet rund doppelt
+Die Abbildung verdeutlicht
+so viel, wie in den neuen Ländern (69 000 Euro).
+das Niveau der Bodenpreise
+Spitzenreiter für Grundstückspreise ist Hamburg:
+2008 im jeweiligen BundesEin Quadratmeter baureifes Land kostete hier im
+land. Je größer das Wort,
+Jahres­durchschnitt 2008 fast 590 Euro. Schlussum so höher der Kaufwert
+licht ist Sachsen-Anhalt, wo ein Quadratmeter
+je Quadratmeter Land.
+bereits für rund 30 Euro zu haben war.
+
+61
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+Berlin
+
+Die eigenen vier Wände –
+Immobilienbesitz
+Immobilienbesitz der privaten Haushalte 2008
+Anteil von Haushalten mit Haus-/Grundbesitz
+Früheres Bundesgebiet
+
+Neue Länder
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+62
+
+50 %
+Ob als Lebenstraum oder Geldanlage: Die eigene Immobilie bietet Platz für ein unge­störtes Leben und ist eine gute Altersvorsorge. Die Hälfte (50 %) aller privaten
+Haushalte im früheren Bundesgebiet verfügte 2008 über Haus- oder Grundbesitz,
+in den neuen Ländern waren es 39 %. Während der Anteil von Immobilienbesitzern
+im Westen seit Beginn der 1990er-Jahre nahezu gleichgeblieben ist, hat sich ihr
+Anteil im Osten stetig erhöht.
+Die meisten Haushalte mit Immobilienbesitz haben Einfamilienhäuser. An zweiter
+Stelle stehen im Westen Eigentumswohnungen, im Osten Ferienhäuser oder das
+Häuschen im Kleingarten – die sogenannte Laube.
+Die Anschaffung einer Immobilie ist zumeist mit einem Kredit verbunden: So hatte
+2008 jeder vierte Haushalt im Westen eine Hypothekenrestschuld zu begleichen.
+Im Osten traf dies zu Beginn der 1990er-Jahre auf jeden zehnten Haushalt zu,
+2008 bereits auf jeden fünften.
+
+39 %
+
+Die Sonntagsfrage –
+Wahlverhalten
+1990
+Früheres Bundesgebiet
+
+2009
+
+Neue Länder
+
+Früheres Bundesgebiet
+
+Neue Länder
+
+Neben der gemeinsamen Währung war die Wahl eines gesamtdeutschen Parlaments ein
+großer Schritt für die Einheit Deutschlands. Bereits sechs Mal haben die Bürgerinnen
+und Bürger seit 1990 in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl
+den Bundestag gewählt.
+Mit der Einheit hat sich die deutsche Parteienlandschaft verändert: Zu den etablierten
+Parteien kam die PDS – heute DIE LINKE – hinzu und hat das politische Spektrum erweitert. DIE LINKE ist längst keine „Ost-Partei“ mehr, weist im Osten dennoch weit höhere
+Stimmanteile auf als im früheren Bundesgebiet. Auch BÜNDNIS 90/DIE GRÜNEN, die das
+Jahr der Einheit bis heute in ihrem Namen tragen, gewannen Raum im politischen Feld.
+Nicht nur in der Parteienstruktur, auch in der Wahlbeteiligung zeigen sich Differenzen:
+Trotz einiger Schwankungen liegt die Wahlbeteiligung in den neuen Ländern im Durchschnitt sechs Prozentpunkte niedriger als im früheren Bundesgebiet.
+
+Ergebnisse der Bundestagswahlen
+Anteile der Zweitstimmen in %
+1990
+
+2009
+
+Früheres
+Neue Länder
+Bundesgebiet
+
+Früheres
+Neue Länder
+Bundesgebiet
+
+CDU/CSU
+
+44,3
+
+41,8
+
+34,6
+
+29,8
+
+SPD
+
+35,7
+
+24,3
+
+24,1
+
+17,9
+
+FDP
+
+10,6
+
+12,9
+
+15,4
+
+10,6
+
+DIE LINKE (PDS)
+
+0,3
+
+11,1
+
+8,3
+
+28,5
+
+GRÜNE
+
+4,8
+
+6,2
+
+11,5
+
+6,8
+
+Sonstige
+
+4,3
+
+3,7
+
+5,9
+
+6,3
+
+Die Abbildung verdeutlicht die
+Anteile der Zweitstimmen, die
+bei den Bundestagswahlen
+1990 und 2009 auf die entsprechenden Parteien entfielen. Je größer das Wort, desto höher das Wahlergebnis.
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+63
+
+Die Gretchenfrage –
+Religionszugehörigkeit
+Religionszugehörigkeit zu christlichen Kirchen
+Anteile von Personen mit jeweiliger Religionszugehörigkeit in %
+1991
+
+2008
+
+64
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+Neue Länder
+einschl. Berlin
+Früheres
+Bundesgebiet
+
+Fast 50 Millionen Menschen in Deutschland waren 2008 Angehörige der evangelischen
+oder katholischen Kirchen – das sind rund 60 % der Bevölkerung.
+Die Zugehörigkeit zu einer Religionsgemeinschaft war in der DDR weniger verbreitet als
+im Westen: So bekannten sich 1991 lediglich 34 % der Menschen in den neuen Ländern
+und Berlin zur Kirche, im früheren Bundesgebiet waren es über 80 %.
+Seit der Wiedervereinigung sind die Mitgliederzahlen der christlichen Kirchen infolge
+von vermehrten Austritten, Sterbefällen und weniger Taufen stetig gesunken – im Osten
+dabei stärker als im Westen. In den neuen Ländern gingen die Mitgliederzahlen der
+katholischen Kirche um rund 25 % zurück, die der evangelischen Kirche sogar um rund
+38 %. Der relative Verlust von Mitgliedern im früheren Bundesgebiet traf ebenfalls die
+evangelische Kirche (– 12 %) stärker als die katholische (– 10 %).
+Mitgliederzahlen der christlichen Kirchen
+1991 in Mill.
+
+2008 in Mill.
+
+Differenz 1991 – 2008 in %
+
+Früheres
+Neue Länder Früheres
+Neue Länder Früheres
+Neue Länder
+Bundesgebiet einschl. Berlin Bundesgebiet einschl. Berlin Bundesgebiet einschl. Berlin
+Evangelisch
+
+24,2
+
+5,0
+
+21,4
+
+3,2
+
+– 11,6
+
+– 37,5
+
+Katholisch
+
+27,1
+
+1,1
+
+24,4
+
+0,8
+
+– 10,1
+
+– 25,3
+
+Die Katholiken sind nach Bistümern, die Protestanten nach Gliedkirchen in Ost und West unterteilt.
+Für beide Kirchengemeinschaften stimmen die Grenzen nicht exakt mit den Landesgrenzen überein.
+Das Bistum Schwerin ist ab Oktober 1994 in das Erzbistum Hamburg integriert und wird daher ab 1995
+im früheren Bundesgebiet ausgewiesen.
+
+34
+
+24
+
+82
+
+70
+
+Die Abbildung verdeutlicht die
+Anteile von Personen mit
+evangelischer oder katholischer Religion in den neuen
+Ländern einschl. Berlin und
+im früheren Bundesgebiet.
+Die grauen Quadrate stehen
+für die jeweilige Gesamtbe­
+völkerung, die Farbflächen
+für den Anteil der Personen,
+die den christlichen Kirchen
+angehören.
+
+Impressum
+
+66
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit 2010
+
+Herausgeber: Statistisches Bundesamt, Wiesbaden
+Internet: www.destatis.de
+Konzeption, Redaktion und Gestaltung: Andreas Bliemeister
+Ihr Kontakt zu uns:
+www.destatis.de/kontakt
+Weitere Informationen zur Broschüre
+Tel.: +49 (0) 611 / 75 45 53
+Statistischer Informationsservice
+Tel.: +49 (0) 611 / 75 24 05
+Fax: +49 (0) 611 / 75 33 30
+Erschienen im September 2010
+Bestellnummer: 0000125-10900-1
+Download [PDF]
+Artikelnummer: 0000125-10900-4
+Bildrechte:
+Umschlag: © iStockphoto.com/omergenc
+©
+
+Statistisches Bundesamt, Wiesbaden 2010
+Vervielfältigung und Verbreitung, auch auszugsweise, mit Quellenangabe gestattet.
+
+Statistisches Bundesamt, 20 Jahre Deutsche Einheit, 2010
+Artikelnummer: 0000125-10900-4
+
+

@@ -1,0 +1,308 @@
+
+                               Physik der Erde
+                                   SS 2005
+
+                              Wilfried Schranz
+
+
+
+
+                                    [pic]
+
+
+
+
+Inhaltsverzeichnis
+
+
+   1. Einführung über den Aufbau der Erde
+   2. Physikalische Eigenschaften des Erdinneren
+    . Erdmodelle
+    . Dichte- und Druckverteilung in der Erde
+   3. Thermische Modelle
+   4. Erdmagnetfeld
+   5. Wichtige Phasenübergänge im Erdinneren unter extremen Bedingungen von
+      Druck und Temperatur
+
+
+                                 UNSERE ERDE
+
+Aus der Sicht, die wir von der Erde haben, erscheint die Erde als groß und
+robust, mit einem endlosen Ozean aus Atemluft. Aus dem Weltraum betrachtet
+bekommen Astronauten aber den Eindruck, daß die Erde klein ist und nur eine
+dünne, zerbrechliche Schicht aus Atmosphäre besitzt. Und für einen
+Reisenden durch den Weltraum sind die deutlichsten Merkmale die blauen
+Gewässer, braune und grüne Landmassen und die weißen Wolken vor einem
+schwarzen Hintergrund.
+Viele träumen davon, durch den Weltraum zu reisen und die Wunder des
+Weltalls zu bestaunen. Tatsächlich sind wir alle Weltraumreisende. Unser
+Raumschiff ist die Erde, die sich mit einer Geschwindigkeit von 108.000
+Kilometer in jeder Stunde durch den Raum bewegt.
+Die Erde ist der dritte Planet, mit einem Abstand zur Sonne von ungefähr
+150 Millionen Kilometern. Die Erde benötigt 365,256 Tage für eine Reise um
+die Sonne und 23,9345 Stunden, um sich vollständig um sich selbst zu
+drehen. Sie hat einen Durchmesser von 12.756 Kilometern, nur ein paar
+hundert Kilometer mehr als die Venus. Unsere Atmosphäre besteht zu 78
+Prozent aus Stickstoff, zu 21 Prozent aus Sauerstoff und zu einem Prozent
+aus anderen Bestandteilen.
+Die Erde ist der einzige Planet im Sonnensystem, der Leben beherbergt[1].
+Die schnelle Erddrehung und der flüssige Kern aus Nickel und Eisen bewirken
+ein umfassendes Magnetfeld, das, zusammen mit der Atmosphäre, uns vor all
+den gefährlichen Strahlen schützt, die von der Sonne oder anderen Sternen
+stammen. Die Erdatmosphäre schützt uns außerdem vor Meteoren, von denen die
+meisten verbrennen, bevor sie die auf Oberfläche treffen können.
+Aus den Reisen in den Weltraum haben wir viel über unseren Heimatplaneten
+gelernt. Der erste amerikanische Satellit, Explorer 1, entdeckte eine Zone
+starker Strahlungen, die wir heute als Van-Allen-Gürtel bezeichnen. Diese
+Schicht besteht aus sich schnell bewegenden geladenen Teilchen, die vom
+Erdmagnetfeld in einer ringförmigen Region um den Äquator gefangen gehalten
+werden. Andere Erkenntnisse aus den Beobachtungen der Satelliten zeigen,
+daß das Magnetfeld unseres Planeten vom Sonnenwind tropfenförmig verformt
+wird. Wir wissen heute auch, daß die dünne obere Atmosphäre, die man einst
+für still und ereignislos hielt, vor Aktivitäten wimmelt -- tagsüber
+anschwellend und nachts stark abnehmend. Abhängig von Veränderungen der
+Sonnenaktivität wirkt die obere Atmosphäre bei der Entstehung von Wetter
+und Klima auf der Erde mit.
+Neben den Effekten auf das irdische Wetter bewirkt die Sonnenaktivität auch
+ein dramatisches sichtbares Phänomen in unserer Atmosphäre. Sobald geladene
+Teilchen des Sonnenwindes vom Erdmagnetfeld gefangen werden, kollidieren
+sie über den magnetischen Polen unseres Planeten mit Luftmolekülen. Diese
+Luftmoleküle beginnen zu leuchten und bilden die Auroren oder Nord- und
+Südlichter.
+
+
+
+
+
+
+
+
+
+
+|                                                        |
+|Erde Statistik                                          |
+|                                            |           |
+| Masse (kg)                                 |5,976ˇ10+24|
+|                                            |           |
+| Masse (Erde = 1)                           |1,0000ˇ1000|
+|                                            |           |
+| Äquatorialer Radius (km)                   |6.378,14   |
+| Äquatorialer Radius (Erde = 1)             |1,0000ˇ1000|
+|                                            |           |
+| Durchschnittliche Dichte (g/cm3)           |5,515      |
+|                                            |           |
+| Durchschnittlicher Abstand zur Sonne (km)  |149.600.000|
+|                                            |           |
+| Durchschnittlicher Abstand zur Sonne (Erde |1,0000     |
+|= 1)                                        |           |
+| Rotationsdauer (Tage)                      |0,99727    |
+| Rotationsdauer (Stunden)                   |23,9345    |
+| Umlaufdauer (Tage)                         |365,256    |
+| Durchschnittliche Umlaufgeschwindigkeit    |29,79      |
+|(km/s)                                      |           |
+|                                            |           |
+| Orbitale Exzentrizität                     |0,0167     |
+| Neigung der Achse (Grad)                   |23,45      |
+| Orbitale Neigung (Grad)                    |0,000      |
+|                                            |           |
+| Äquatoriale Fluchtgeschwindigkeit (km/s)   |11,18      |
+| Äquatoriale Oberflächengravitation (m/s2)  |9,78       |
+|                                            |           |
+| Sichtbare geometrische Albedo              |0,37       |
+| Durchschnittliche Oberflächentemperatur    |15° C      |
+| Atmosphärischer Druck (Bar)                |1,013      |
+| Atmosphärische Zusammensetzung             |           |
+|Stickstoff                                  |77%        |
+|Sauerstoff                                  |21%        |
+|Sonstige                                    |2%         |
+
+
+
+                               Aufbau der Erde
+
+
+
+
+                                    [pic]
+
+
+                                    [pic]
+
+
+
+
+
+                                    [pic]
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          Zusammensetzung der Erde
+Seismische Übergänge helfen bei der Einteilung der Erde in einen Inneren
+Kern, einen Äußeren Kern, einer D"-Schicht, Unterer Mantel, einer
+Übergangszone, dem Oberen Mantel und der Kruste (sowohl ozeanische wie auch
+kontinentale). Laterale Übergänge können ebenfalls unterschieden und in
+einer seismischen Topographie dargestellt werden, sollen aber hier nicht
+weiter besprochen werden.
+    . Innerer Kern: 1,7% der Erdmasse; Tiefe von 5.150-6.370 Kilometer
+      Der Innere Kern ist fest und nicht mit dem Mantel verbunden, weil
+      beide vom geschmolzenen Äußeren Kern getrennt werden. Man glaubt, er
+      habe sich als Resultat des Druckgefrierens verfestigt, wie es bei
+      Flüssigkeiten auftritt, sobald die Temperatur fällt oder der Druck
+      steigt.
+    . Äußerer Kern: 30,8% der Erdmasse; Tiefe von 2.890-5.150 Kilometer
+      Der äußerer Kern besteht aus einer heißen, elektrisch leitenden
+      Flüssigkeit, in der konvektive Bewegungen auftreten. Diese leitende
+      Schicht zusammen mit der Erdrotation bewirkt einen Dynamoeffekt, der
+      ein System elektrischer Ströme auslöst, die man als Erdmagnetfeld
+      kennt. Sie ist auch für die feinen Schwankungen in der Geschwindigkeit
+      der Erdrotation verantwortlich. Diese Schicht ist nicht so dicht wie
+      reines geschmolzenes Eisen, was die Gegenwart leichterer Elemente
+      anzeigt. Wissenschaftler vermuten, daß diese Schicht zu 10% aus
+      Schwefel bzw. Sauerstoff besteht, weil diese Elemente reichlich im
+      Kosmos vorhanden sind und sich leicht in gescholzenem Eisen lösen.
+    . D"-Schicht: 3% der Erdmasse; Tiefe von 2.700-2.890 Kilometer
+      Diese Schicht ist 200 bis 300 Kilometer stark und stellt etwa 4% der
+      Mantel-Kruste-Masse dar. Obwohl sie oft zum Unteren Mantel gezählt
+      wird, weisen seismische Übergänge darauf hin, daß sie sich chemisch
+      vom darüber liegenden Unteren Mantel unterscheidet. Wissenschaftler
+      vermuten, daß das Material entweder aus dem Kern ausflockte oder durch
+      den Mantel absank, wegen seiner Dichte aber nicht in den Kern
+      eindringen konnte [2]
+    . Unterer Mantel: 49,2% der Erdmasse; Tiefe von 650-2.890 Kilometer
+      Der Untere Mantel umfaßt 72,9% der Mantel-Kruste-Masse und setzt sich
+      wahrscheinlich hauptsächlich aus Silizium, Magnesium und Sauerstoff
+      zusammen. Wahrscheinlich enthält er auch etwas Eisen, Kalzium und
+      Aluminium. Wissenschaftler leiten dies von der Annahme ab, daß sich
+      die Erde aus ähnlichen Elementen nach Art und Umfang zusammensetzt wie
+      die Sonne und primitive Meteoriten.
+    . Übergangszone: 7,5% der Erdmasse; Tiefe von 400-650 Kilometer
+      Die Übergangszone oder Mesosphäre (für Mittlerer Mantel), manchmal
+      auch fruchtbare Schicht genannt, umfaßt 11,1% der Mantel-Kruste-Masse
+      und ist Ursprung basaltischer Magma. Sie enthält auch Kalzium,
+      Aluminium und Granat, das ein komplexes aluminiumhaltiges
+      silikathaltiges Mineral ist. Diese Schicht ist wegen des Granats
+      dicht, sobald sie erkaltet. Sie ist sehr lebhaft, wenn sie sich
+      erhitzt, weil die Mineralien leicht schmelzen und Basalt bilden, der
+      dann als Magma durch die darüber liegenden Schichten aufsteigen kann.
+    . Oberer Mantel: 10,3% der Erdmasse; Tiefe von 10-400 Kilometer
+      Der Obere Mantel umfaßt 15,3% der Mantel-Kruste-Masse. Bruchstücke
+      treten an erodierten Bergketten und bei vulkanischen Ausbrüchen zu
+      Tage, um von uns studiert werden zu können. Olivin (Mg,Fe)2SiO4 und
+      Pyroxin (Mg,Fe)SiO3 sind die wesentlichen Mineralien, die auf diese
+      Weise gefunden wurden. Diese und andere Mineralien sind bei hohen
+      Temperaturen hitzebeständig und kristallin; deshalb lagert sich das
+      meiste davon ab und bildet entweder neues Krustenmaterial oder verläßt
+      niemals den Mantel. Ein Teil des Oberen Mantel mit Namen Asthenosphäre
+      könnte teilweise geschmolzen sein.
+    . Ozeanische Kruste: 0,099% der Erdmasse; Tiefe von 0-10 Kilometer
+      Die ozeanische Kruste umfaßt 0,147% der Mantel-Kruste-Masse. Der
+      Großteil der Erdkruste entstand aus vulkanischer Aktivität. Das
+      ozeanische Gratsystem, ein 40.000-Kilometer-Netzwerk, generiert neue
+      ozeanische Kruste mit etwa 17 km3 pro Jahr und überzieht dabei den
+      Meeresboden mit Basalt. Hawaii und Island sind zwei Beispiele für
+      Ansammlungen basaltischer Massen.
+    . Kontinentale Kruste: 0,374% der Erdmasse; Tiefe von 0-50 Kilometer.
+      Die Kontinentale Kruste umfaßt 0,554% der Mantel-Kruste-Masse. Sie ist
+      der äußere Teil der Erde und setzt sich im wesentlichen aus
+      kristallinem Gestein zusammen. Es handelt sich dabei um leichte
+      Mineralien niedriger Dichte, die von Quartz (SiO2) und Feldspaten
+      (metallarme Silikate) dominiert werden. Die Kruste (sowohl die
+      ozeanische wie die kontinentale) bilden die Oberfläche der Erde; als
+      solche sind sie die kühlsten Teile unseres Planeten. Weil sich kühler
+      Felsen sehr langsam verformt, bezeichnen wir diese feste äußere Hülle
+      auch als Lithosphäre (die felsige oder starke Schicht).
+
+
+                       Herkunft des irdischen Wassers
+
+Die Herkunft des irdischen Wassers und damit der Ozeane ist bisher noch
+umstritten. Diskutiert werden drei Möglichkeiten, welche zum Wassergehalt
+der Erde beigetragen haben könnten:
+    . Ausgasen aus dem Inneren der Erde (vulkanisch)
+    . Einschlag eines oder mehrerer Kometen oder Transneptunische Objekte
+    . Einschlag eines oder mehrerer wasserreicher Asteroiden (Protoplaneten)
+      aus den äußeren Bereichen des Asteroidengürtels
+Bereits in den Planetesimalen, welche die Erde bildeten, war vermutlich
+etwas Wasser vorhanden. Dieses Wasser und andere leicht flüchtige Stoffe
+wie Kohlenstoffdioxid (CO2), Methan (CH4) und Stickstoff (N2) gasten aus
+der grösstenteils aus flüssigem Magma bestehenden Ur-Erde aus und bildeten
+eine frühe wasserdampfreiche Ur-Atmosphäre. Diese Ur-Atmosphäre wurde nach
+heutigen Modellvortellungen durch einen Sonnenwind, der zur Zeit der
+Erdentstehung sehr viel heftiger war als heute, mitgerissen und entwich
+somit von der Erde. Durch Vulkanismus kam es später zur Bildung einer neuen
+Atmosphäre, die auch aus dem Erdinnern ausgegasten Wasserdampf enthalten
+haben dürfte. Mit der Bildung einer festen Kruste und der weiteren
+Abkühlung kam es demnach zur Kondensation von Wasserdampf und zur Bildung
+von ersten Ozeanen.
+Die große Menge an Wasser, die auf der Erde im Vergleich zu anderen
+erdähnlichen Planeten vorhanden ist, lässt sich nur schwer allein durch
+Ausgasen aus dem Erdinneren zu erklären. Die Planetesimale aus denen die
+Erde sich bildete, entstanden in einem Bereich des früheren Sonnensystems,
+in dem relativ wenig Wasser vorhanden war. Je kleiner der Abstand zur Sonne
+war, desto höher die Temperaturen und desto weniger Wasser war vorhanden.
+Erst außerhalb der solaren "Schneegrenze", welche etwa inmitten des
+heutigen Asteroidengürtels lag, war Wasser in größerer Menge vorhanden. So
+zeigen kohlige Chondrite, von denen angenommen wird, dass sie in den
+äußeren Bereichen des Asteroidengürtels entstanden sind, einen Wassergehalt
+von manchmal mehr als 10 % ihres Gewichts, während gewöhnliche Chondrite
+oder gar Enstatit-Chondrite vom inneren Rand des Asteroidengürtels weniger
+als 0,1 % ihres Gewichts an Wasser enthalten. Die Planetesimale, aus denen
+sich die erdähnlichen Planeten bildeten, sollten dementsprechend noch
+weniger Wasser enthalten haben. Zudem wird angenommen, dass bei der
+Akkretion der Planetesimale zu den Planeten und dem Verlust der Ur-
+Atmosphäre nochmals grosse Mengen des ursprüngliche vorhandenen Wassers
+verloren ging. Deswegen wird heute vielfach angenommen, dass der
+überwiegende Teil des heutigen irdischen Wassers aus den äußeren Bereichen
+des Sonnensystems stammt.
+Ein rein kometarer Ursprung des Wassers ist nach Messung des
+Isotopenverhälnis von Wasserstoff in den drei Kometen Halley, Hyakutake und
+Hale-Bopp durch Forscher wie David Jewitt unwahrscheinlich, da demnach das
+Verhältnis von Deuterium zu Protium (D/H-Verhältnis) von Kometen etwa
+doppelt so hoch ist wie in ozeanischem Wasser. Nicht klar ist dabei
+allerdings, ob diese Kometen repräsentaiv für Kometen aus dem Kuipergürtel
+sind. Nach A. Morbidelli et al. (Meteoritics & Planetary Science 35 (2000),
+1309-1329) kommt der größte Teil des heutigen Wassers von einigen im
+äußeren Asteroidengürtel geformten Protoplaneten, die auf die Erde
+stürzten, wofür das D/H-Verhältnis von kohligen Chondriten spricht.
+Wassereinschlüsse in kohligen Chondriten zeigen ein ähnliches D/H-
+Verhältnis wie ozeanisches Wasser.
+Noch einiges Wissenswertes über Wasser auf der Erde:
+
+2.8 % Süßwasser
+97.2 % Salzwasser
+
+Vor kurzem wurde von Japanischen Wissenschaftern entdeckt, dass im unteren
+Erdmantel ca. 5 mal soviel Wasser, wie auf der Erdoberfläche vorhanden ist
+(Science 295. 2002). Es wurde festgestellt, dass MgSiO3 Kristalle etwa 0.2
+Gewichtsprozent Wasser und CaSiO3 etwa 0.4 Gew.% Wasser beinhalten.
+
+
+
+
+
+
+
+
+
+
+
+                           -----------------------
+[1] stimmt vielleicht so nicht mehr: auf dem Mars wurde Wasser und Methan
+entdeckt! Es gibt nur wenige Gründe für Entstehung von Methan: Kometen,
+Vulkanismus oder Leben.
+[2] Nach neuesten Untersuchungen besteht die D" Schicht aus demselben
+Material wie der Untere Mantel, d.h. hs. aus MgSiO3 und in dieser Schicht
+soll es einen strukturellen Phasenübergang geben, der für die seismischen
+Anomalien in der D" Schicht verantwortlich ist (siehe Nature 430, 445
+(2004)).
+

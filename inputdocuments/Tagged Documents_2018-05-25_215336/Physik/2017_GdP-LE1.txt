@@ -1,0 +1,4804 @@
+Grundlagen der Physik – Lerneinheit 1
+
+Grundlagen der Physik – Lerneinheit 1
+
+Der Mensch durchstößt die Himmelskugel
+Holzschnitt aus dem 1888 erschienenen Buch "Die Atmosphäre" von Camille Flammarion
+
+Dieter Bangert
+September 2017
+
+3
+
+Inhaltsverzeichnis Lerneinheit 1 – Grundlagen der Physik -
+
+Inhaltsverzeichnis Lerneinheit 1 – Grundlagen der Physik 1
+
+Physik und Umwelt – Ziele und Aufgaben ....................................................................... 8
+
+1.1
+
+Zahlen, physikalische Größen und ihre Einheiten ......................................................... 12
+
+1.2
+
+Längenmessung.3..........................3.3.333......33..3..333............33.3..19
+
+1.3
+
+Zeitmessung3................................................................................................................ 22
+
+1.4
+
+Massenbestimmung ....................................................................................................... 28
+
+2
+
+Das Internationale Einheitensystem (SI)#...........####.##....##..###......33
+
+2.1
+
+Basisgrößen.................................................................................................................... 34
+
+2.2
+2.2.1
+2.2.2
+2.2.3
+2.2.4
+
+Abgeleitete physikalische Größen .................................................................................. 38
+Fläche und Volumen....................................................................................................... 40
+Frequenz......................................................................................................................... 42
+Winkel ............................................................................................................................. 43
+Dichte .............................................................................................................................. 45
+
+2.2.5
+
+Teilchendichte............... ................................................................................................46
+
+2.2.6
+
+Molare Masse............................................................................................................... 47
+
+2.2.7
+
+Kraft...............................................................................................................................47
+
+2.2.8
+
+Arbeit und Energie.........................................................................................................47
+
+2.2.9
+
+Leistung.........................................................................................................................48
+
+2.3
+
+Intensive und extensive Größen.................................................................................. ...49
+
+2.4
+
+Einheiten außerhalb des SI mit beschränktem Anwendungsbereich ............................ 50
+
+3
+
+Umrechnung von Einheiten .................................................................................... 53
+
+4
+
+Skalare und Vektoren .............................................................................................. 56
+
+4.1
+
+Skalare Größen .............................................................................................................. 56
+
+4.2
+
+Vektorielle Größen.......................................................................................................... 56
+
+4.3
+
+Komponentendarstellung von Vektoren ......................................................................... 57
+
+4.4
+
+Gleichheit von Vektoren ................................................................................................. 60
+
+4.5
+4.5.1
+4.5.2
+4.5.3
+
+Rechnen mit Vektoren .................................................................................................... 60
+Addition und Subtraktion zweier Vektoren ..................................................................... 61
+Multiplikation eines Vektors mit einem Skalar ................................................................ 62
+Multiplikation zweier Vektoren ........................................................................................ 63
+
+4.6
+
+Polare und axiale Vektoren ............................................................................................ 68
+
+4
+
+Inhaltsverzeichnis Lerneinheit 1 – Grundlagen der Physik -
+
+5
+
+Wiederholungstest .................................................................................................. 75
+
+5.1
+
+Testfragen ...................................................................................................................... 75
+
+5.2
+
+Lösungen der Testfragen............................................................................................... 78
+
+6
+
+Zusammenfassung .................................................................................................. 79
+
+7
+
+Übungen ................................................................................................................... 80
+
+7.1
+
+Übungsaufgaben............................................................................................................ 80
+
+7.2
+
+Lösungen der Übungsaufgaben .................................................................................... 82
+
+Anhang
+A1
+
+Griechisches Alphabet ................................................................................................... 90
+
+A2
+
+Formelzeichen ............................................................................................................... 91
+
+A3
+
+Literaturauswahl............................................................................................................. 92
+
+5
+
+Vorwort
+
+Vorwort
+
+Das Fundament von Naturwissenschaft und Technik bildet die Physik. Die vorliegenden Lerneinheiten liefern einen einführenden
+Grundkurs in die für das klassische Ingenieurwesen wesentlichen
+Teilgebiete der Physik. Statt einer Aufzählung der verwirrenden
+Vielfalt der Anwendungsmöglichkeiten physikalischer Erkenntnisse
+steht hier eine Einführung in die Denk- und Arbeitsweise der Physik
+und eine Formulierung der grundlegenden physikalischen Konzepte
+im Vordergrund. Es wird daher auch auf eine großmaßstäbliche
+Überblicksdarstellung der Physik als Ganzes verzichtet. Entsprechend den Anforderungen der Ingenieurspraxis soll der Hauptgegenstand dieser Abhandlung in der analytischen Darstellung einfacher
+mechanischer und thermodynamischer Vorgänge liegen. Denn Mechanik, Strömungslehre und Thermodynamik bilden die ingenieurwissenschaftliche Basis vieler technischer Disziplinen.
+Der physikalische Erkenntnisfortschritt wurde historisch gesehen
+stets von einem zunehmenden Grad an Mathematisierung begleitet.
+Die symbolische Sprache der Physik ist daher überwiegend mathematisch. Die Mathematik stellt die Grundlage der exakten Naturwissenschaften dar, die sich durch Berechenbarkeit und Vorhersagekraft
+ihrer Theorien auszeichnen. Es soll daher in dieser Abhandlung Wert
+auf exakte Darstellung gelegt werden, denn exaktes Denken ist für
+alle Ingenieure wichtig.
+Da das Lesen eines Textes nicht identisch mit dem Verstehen des
+Stoffes ist, kommt den Beispielen und Übungsaufgaben eine besondere Bedeutung zu. Das Lösen physikalischer Aufgaben erfordert,
+wie die Untersuchungen TIMSS und PISA eindrucksvoll gezeigt
+haben, eine besondere aber erlernbare Lösungskompetenz, die nur
+durch selbständiges Üben gewonnen werden kann. Die eigenständige Bearbeitung von physikalischen Übungsaufgaben bietet Gelegenheit zur Wiederholung des Stoffes und zur Überprüfung des Wissens
+und dient daher der Selbstkontrolle des Gelernten. Vorausgesetzt
+werden dabei die sichere Beherrschung der Elementarmathematik
+sowie anwendbare Kenntnisse der für die Hochschulreife bzw. Fachhochschulreife üblichen Grundlagen der Differential- und Integralrechnung. Die der Stoffvertiefung dienenden Übungen bieten
+schließlich auch die Möglichkeit zur gemeinsamen Diskussion und
+Lösung offener Probleme. Der Studienerfolg setzt jedoch eine gründliche Durcharbeitung der jeweiligen Lerneinheiten und eine häusliche Nacharbeit des Vorlesungsinhalts sowie eine selbstständige Bearbeitung der Übungsaufgaben zwingend voraus.
+Da sich diese Abhandlung auf eine Einführung in die physikalischen
+Grundlagen beschränkt, kann in ihr nicht alles behandelt werden,
+was für eine branchenübergreifende Ingenieurpraxis von Bedeutung
+sein könnte. Der abschließende Hinweis auf eine kleine Auswahl von
+
+6
+
+Vorwort
+
+Fachliteratur soll daher als Anregung zum Weiterlesen, zum Vertiefen und zum Nachschlagen verstanden werden.
+Verbesserungsvorschläge, Fehlermeldungen und sonstige Kommentare oder Hinweise sind erwünscht. Bitte richten Sie diese an folgende E-Mail-Adresse:
+bangert.dieter@fh-swf.de
+Marburg, September 2017
+
+Dieter Bangert
+
+7
+
+1 Grundlagen der Physik – Ziele und Aufgaben
+
+1
+
+Grundlagen der Physik – Ziele und Aufgaben
+
+"Dass ich erkenne, was die Welt im Innersten zusammenhält"
+(Johann Wolfgang v. Goethe; Faust I)
+In dieser Einführung geht es um qualitative und quantitative Aspekte
+der Natur. Die Physik als empirische und exakte Naturwissenschaft
+beruht auf Begriffsbildungen, die durch Messungen zugänglich sind.
+Die vielfältige Komplexität der Wirklichkeit wird dazu analytisch
+seziert und auf objektiv und reproduzierbar messbare Eigenschaften
+des Beobachtbaren in Form der physikalischen Größen reduziert.
+Ohne naturwissenschaftliche Erkenntnisse wäre eine Versorgung der
+Menschheit mit derzeit über sieben Milliarden Erdbewohnern mit
+Nahrung, Energie und Gütern aller Art nicht möglich. Und nach neuesten UN-Prognosen soll die Erdbevölkerung bis zum Ende des 21.
+Jahrhunderts auf 13 Milliarden anwachsen. Industrielle Produktion,
+globales Wirtschaften und der Lebensstandard der modernen Gesellschaften sind ohne Natur- und Technikwissenschaften undenkbar.
+Angesichts der Begrenzungen, die der Nutzung der natürlichen Ressourcen gesetzt sind und in Anbetracht der Tatsache, dass der weltweite Energiebedarf beständig zunimmt und dass für viele freigesetzte Schadstoffe die Grenze des langfristig Zuträglichen bereits erreicht
+zu sein scheint, gilt es, das Menetekel einer drohenden ökologischen
+Krise zu erkennen und durch vorsorgliches Handeln unsere Zukunftsfähigkeit zu sichern. Eine nachhaltige und umweltverträgliche
+Nutzung unserer natürlichen Lebensgrundlagen setzt wiederum ein
+vertieftes naturwissenschaftliches Verständnis der komplexen Zusammenhänge zwischen Umwelt und Ressourcen voraus. Dabei
+kommt der Physik neben Chemie und Biologie als Basiswissenschaft
+eine besondere Bedeutung zu. Einen Beitrag zu diesem Naturverständnis soll dieses Vorlesungsmanuskript liefern. Dazu sollen
+exemplarisch neben einer Einführung in die konkrete Begriffswelt
+der Physik auch einige Wechselbeziehungen zu technischen Anwendungen und zur vielschichtigen Umweltproblematik aufgezeigt werden.
+Der Mensch lebt seit jeher in einer Welt voller Gefahren, in der er
+nach Sicherheit sucht. Die Erfahrung lehrt: Die Bewältigung einer
+riskanten Welt ist nur durch eine fortgesetzte intelligente Anstrengung möglich. Dieses problemlösende Verhalten führte zum Erwerb
+von technisch verwertbarem Wissen und bildet die Grundlage der
+Naturwissenschaften.
+Die Physik als erkenntnisorientierte Grundlagenwissenschaft versteht
+sich als die Lehre von den Dingen und Vorgängen der Wirklichkeit,
+die aufgrund weniger Prinzipien gedanklich rekonstruiert werden
+können. Sie steht damit der Mathematik, als Lehre von den möglichen Denkstrukturen, nahe. Anders als die Mathematik ist die Physik
+
+8
+
+1.1 Zahlen, physikalische Größen und ihre Einheiten
+
+jedoch eine Erfahrungswissenschaft, die sich aus der Philosophie
+(philosophia naturalis) heraus entwickelt hat. Wesentlich für die
+Physik ist der Übergang vom qualitativen zum quantitativen Denken,
+der schließlich zur Mathematisierung und damit zur exakten Beschreibung der Naturphänomene führt. Die Mathematik stellt daher
+die Lingua franca der Naturwissenschaften dar. Die einheitliche und
+widerspruchsfreie Beschreibung einer großen Fülle von Erfahrungstatsachen ist das Wesensmerkmal einer physikalischen Theorie
+(gr. theoria: Anschauung der Wahrheit). Allerdings ist jedoch jede
+Erfahrung auf einer Metaebene durch bereits schon vorhandene Vorstellungen und Begriffe geprägt. Eine physikalische Theorie muss
+der Überprüfung durch das Experiment standhalten, d. h. sie kann
+nur dann Gültigkeit beanspruchen, wenn sie experimentell im Rahmen der unvermeidbaren Messunsicherheiten mehr oder weniger
+bestätigt wird. Eine Theorie stellt ein modellhaftes Bild bestimmter
+Aspekte, der mit physikalischen Methoden zugänglichen Teile, der
+Natur dar. Sie darf nicht mit der Realität, die sie beschreiben und
+erklären soll, verwechselt werden. Genauso, wie eine Landkarte
+nicht mit der Landschaft identisch ist, die sie grafisch darstellen soll,
+liefert eine physikalische Theorie in der Regel nur ein vereinfachendes Bild der Natur, deren vollständige Komplexität durch modellmäßige Beschränkungen ausgeblendet wird.
+Wie jede Wissenschaft stellt die Physik die Bemühung dar, wahres
+Wissen von der Welt in Form zutreffender Beschreibungen zu finden. Dazu dient die empirische Datengewinnung auf der Grundlage
+von Messungen. Die Messungen basieren dabei auf der Anwendung
+von Messgeräten. Durch die auf Messgeräte gestützte Beobachtungskunst, d.h. durch Einführung des Experimentes durch Galileo Galilei
+(1564 – 1642) ist die Physik (gr. physis: Natur) theorie- und empiriefähig geworden. Im Gegensatz zur Natur als dem vom Menschen
+nicht Gemachten stellt auch die Naturwissenschaft wie die Sprache
+eine menschliche Kulturleistung dar, die sich unter historischen
+Randbedingungen vollzogen hat. Durch den planvollen Einsatz physikalischer Erkenntnisse in der Technik (gr. téchne: Kunst) erhält die
+Physik auch eine anwendungsorientierte Bedeutung. Das naturwissenschaftliche Kausalwissen stellt somit immer auch ein technisches
+Interventionswissen dar. Trotz allem Innovationsstreben sind unserer
+Phantasie aber immer empirische Realisierungsgrenzen gesetzt.
+Das physikalisch Unmögliche ist technisch nicht machbar.
+Im Spannungsfeld zwischen universalem Überblickswissen und
+hochgradig spezialisiertem Expertentum ist eine thematische Beschränkung erforderlich. Die dazu notwendige Auswahl wird durch
+die Frage erleichtert: Welchen Nutzen bietet die Physik dem Ingenieurwesen? Der Ingenieur gilt als der Genius der Technik. Die Technik stellt jedoch keine Errungenschaft der Neuzeit dar. Von jeher
+wurden künstliche Werkzeuge, Geräte und Maschinen unter Ausnut-
+
+9
+
+1 Grundlagen der Physik – Ziele und Aufgaben
+
+zung natürlicher Kräfte für menschliche Zwecke verwendet. Die
+Technik ist daher ein Kulturprodukt, deren Anfänge bis in die
+Frühphase der menschlichen Zivilisation zurück reichen. Bis ins
+Mittelalter war die zweckdienliche Konstruktion von Geräten jedoch
+eine ausschließliche Aufgabe des Handwerks. Erst mit dem Aufkommen der exakten Naturwissenschaften in der Renaissance wurde
+die Basis für eine theoretische Durchdringung der Technik geschaffen. Wissenschaft und Technik bildeten nunmehr eine unauflösliche
+Einheit, die für die weitere technische Entwicklung charakteristische
+Bedeutung erlangte. Während sich im Altertum die Wissenschaft
+überwiegend mit philosophischen Seinsfragen beschäftigte, um sich
+im Mittelalter hauptsächlich mit der Theologie auseinander zusetzen,
+begann mit der Aufklärung eine Rationalisierung der Welt. Die Methode der wissenschaftlichen Analyse wurde zu einem Instrument der
+technischen Rationalität. 1546 berechnete der venezianische Mathematiker Niccolo Tartaglia (1500 – 1557), der bereits 1535 die Lösungsmethode für kubische Gleichungen entdeckt hatte, zum ersten
+Mal, unter welchem Winkel ein Kanonenrohr ausgerichtet werden
+muss, um eine gewünschte Schussweite einzustellen und begründete
+damit die Ballistik. Die Wissenschaftsgeschichte zeigt: Seit ihren
+Anfängen kollaboriert die Wissenschaft auch mit Krieg und Zerstörung. Schon Archimedes (287 - 212 v. Chr.), der bedeutendste griechische Mathematiker und Naturforscher, setzte sein Wissen zur
+militärischen Verteidigung der griechischen Stadt Syrakus auf Sizilien gegen die Römer ein. Am Manhattan Projekt, dass zum Bau der
+amerikanischen Atombombe während des Zweiten Weltkrieges führte, waren zeitweise über 100000 Techniker, Wissenschaftler und
+Ingenieure, darunter viele der bedeutendsten Naturwissenschaftler
+dieses Jahrhunderts, beschäftigt. In der Folgezeit der Aufklärung
+verstärkten sich Naturwissenschaft und Technik gegenseitig. An der
+Spitze der großen technischen Errungenschaften des 18. Jahrhunderts
+stand die 1768 von James Watt (1736 – 1819) weiterentwickelte und
+verbesserte Dampfmaschine, durch die die erste industrielle Revolution eingeleitet wurde. Die Dampfmaschine konfrontierte auch die
+Naturwissenschaft mit neuen Aufgaben. Erst 1824 stellte Sadi Carnot (1796 – 1832) eine thermodynamische Theorie der bereits erfolgreich arbeitenden Dampfmaschine vor. Für die Neuzeit ist das enge
+Zusammenwirken von exakter Naturwissenschaft und Technik in
+Form der Ingenieurwissenschaften von besonderer Bedeutung. Die
+moderne Technik wird durch Exaktheit bestimmt. Exaktheit stellt
+auch ein Wesensmerkmal industrieller Prozesse dar und ist damit
+eine Voraussetzung der Massenproduktion. Massenproduktion und
+Massenkonsum sind für die Befreiung der Menschen von materieller
+Not wesentlich. Die moderne Technik kann somit als eine wichtige
+Basis für den Wohlstand der Industriegesellschaften angesehen werden. Wissenschaft und Technik beschleunigen scheinbar unaufhaltsam die Prozesse der Naturbeherrschung und der industriellen Entwicklung. Aus anwendungsbezogener Sicht liefert insbesondere die
+Physik die wissenschaftliche Grundlage der Ingenieurskunst und
+
+10
+
+1.1 Zahlen, physikalische Größen und ihre Einheiten
+
+bildet das theoretische Fundament der technischen Fachrichtungen
+wie beispielsweise Elektrotechnik, Maschinenbau und Verfahrenstechnik.
+Die Einsicht, dass der Einsatz von Technik auch zur Naturzerstörung
+und zu einer Gefährdung des natürlichen Gleichgewichts mit unübersehbaren Folgen führen kann, rückt immer mehr in den Vordergrund.
+Durch die Sensibilisierung des öffentlichen Bewusstseins für Umweltprobleme und Energiefragen wurde einem wichtigen Teilgebiet
+der Physik, der Thermodynamik als Wissenschaft der Energieumwandlung eine grundlegende über den Bereich der Technik hinausragende Bedeutung zugewiesen. Von dieser Ausgangssituation ausgehend soll im Rahmen dieser Einführung auch das Thema Energie,
+Energieumwandlung und Energienutzung unter Berücksichtigung
+von ökologischen Aspekten untersucht werden. Der Einsatz von
+Energie stellt die wichtigste Voraussetzung allen Wirtschaftens dar.
+Zum einen stellt der Energieeinsatz für die Industrie einen Kostenfaktor dar, der zum anderen durch Schadstoffausstoß zu einer Belastung von Luft, Wasser und Boden führt. Diese Umweltbelastung
+führt zu Umweltschäden, die nur teilweise monetär bewertet werden
+können. Als zurzeit intensiv und teilweise auch kontrovers diskutiertes Beispiel sei in diesem Zusammenhang der Klimawandel und die
+globale Erwärmung der Erdatmosphäre als vermutete Folge der Freisetzung von klimaschädlichen Gasen genannt. Mit dem Energieeinsatz sind daher sowohl physikalisch-technische Fragen als auch ökonomische und ökologische Problemstellungen verbunden.
+Ökonomie und Ökologie haben denselben griechischen Sprachursprung, nämlich nomos (Gesetz) bzw. logos (Lehre) vom oikos
+(Haushalten). Verantwortungsvolle Energienutzung hat die Zielvorgabe, durch Steigerung der Energieeffizienz, rationelle Energieanwendung und umweltschonende Energieumwandlung den Primärenergieeinsatz und die Schadstoffbelastung zu minimieren. Eine
+wichtige Voraussetzung zur Bewältigung dieser Aufgabe ist die
+grundlegende Kenntnis über Fakten und Zusammenhänge in der
+Mechanik und der Thermodynamik. Dabei ist insbesondere die Mechanik als ältestes Teilgebiet der exakten Naturwissenschaften mit
+ihren grundlegenden Begriffsbildungen von elementarer Bedeutung
+für das Verständnis der Physik. Dieses Verständnis zu fördern und
+die Einsicht in physikalische Zusammenhänge zu erleichtern ist die
+wichtigste Aufgabe dieser Vorlesung. Die nächsten Abschnitte dieses
+Kapitels dienen der Einführung in die Physik als quantitative Erfahrungswissenschaft. Dazu werden zunächst die physikalischen Größen
+und ihre Einheiten im Rahmen des Internationalen Einheitensystems
+vorgestellt. Wesentlich ist dabei die grundlegende Unterscheidung
+zwischen skalaren und vektoriellen Größen.
+
+11
+
+1 Grundlagen der Physik – Ziele und Aufgaben
+
+1.1
+
+Zahlen, physikalische Größen und ihre Einheiten
+
+Raum und Zeit bilden die beiden wesentlichsten Anschauungsformen
+unserer Erfahrung. Wahrnehmbar wird der Raum nur durch die Anwesenheit von Materie, d. h. durch materielle Objekte, welche im
+physikalischen Kontext kurz als Körper bezeichnet werden und die
+aufgrund ihrer Ausdehnung einen Teil des Raumes einnehmen. Zwischen den Körpern ist der Raum leer. Der durch Wegnahme der Körper entstehende leere Raum bildet nach der Vorstellung der klassischen Physik die Bühne, auf der sich im Laufe der Zeit die physikalischen Vorgänge abspielen können. Bewegt sich ein Körper im
+Raum, so nimmt er nacheinander verschiedene Positionen oder Lagen im Raum ein. Die genaue Festlegung der Lage eines Körpers im
+Raum und die Verfolgung von Bewegungsabläufen setzt die Messbarkeit von Raum und Zeit voraus und erfordert damit die Einführung von Maßstäben und Uhren. Die Raumausmessung geschieht
+dabei mit Hilfe der Geometrie, die von ihrem griechischen Sprachursprung her (gr. ge : Erde) die Bedeutung von "Erdmessung" besitzt.
+Der uns umgebende Raum ist dreidimensional (lat. dimensio: Ausmessung). Er dehnt sich in drei voneinander unabhängigen Raumrichtungen aus. Jeder Ort (Punkt) dieses Raumes kann mit Hilfe von
+drei senkrecht zueinander stehenden Achsen, durch Angabe dreier
+Zahlen, den Koordinaten genannten Achsenabschnitten des Punktes,
+eindeutig festgelegt werden. Dieser Sachverhalt wird im Rahmen der
+Vektorrechnung durch Einführung des Ortsvektors näher beschrieben. Die im Universum vorliegende Geometrie ist nicht von vornherein vorgegeben. Dabei stellen sich folgende Fragen: Ist in der Natur
+die euklidische Geometrie als logische Konstruktion des alexandrinischen Mathematikers Euklid ( ≈ 340 - ≈ 270) realisiert? Oder: Stellt
+die euklidische Geometrie eine zutreffende Beschreibung der physikalischen Realität dar? Aus mathematischer Sicht gibt es nämlich
+verschiedene Geometrien, die jeweils ein logisches und widerspruchsfreies axiomatisches System bilden.
+Die im Universum vorliegende Geometrie ist nicht von vornherein
+vorgegeben. Dabei stellen sich folgende Fragen: Ist in der Natur die
+euklidische Geometrie als logische Konstruktion des alexandrinischen Mathematikers Euklid ( ≈ 340 bis ≈ 270) realisiert? Oder:
+Stellt die euklidische Geometrie eine zutreffende Beschreibung der
+physikalischen Realität dar? Aus mathematischer Sicht gibt es nämlich verschiedene Geometrien, die jeweils ein logisches und widerspruchsfreies axiomatisches System bilden. Im ersten Band von Euklids "Elementen", die eines der größten Werke der griechischen Wissenschaft darstellen, sind die Axiome und Postulate formuliert, die
+ohne eines Beweises zu bedürfen die Grundlagen der euklidischen
+Geometrie bilden. Zweitausend Jahre wurde die euklidische Struktur
+des Erfahrungsraumes wie ein Dogma akzeptiert. Nur das fünfte
+Axiom, das sogenannte Parallelenpostulat blieb umstritten und die
+Mathematiker versuchten es jahrhundertelang vergeblich zu beweisen. Erst im 19. Jahrhundert wurden Fortschritte erzielt.
+
+12
+
+1.1 Zahlen, physikalische Größen und ihre Einheiten
+
+Carl Friedrich Gauß (1777 - 1855) hatte 1827 die innere Geometrie
+krummer Flächen untersucht. Darunter versteht man die Eigenschaften gekrümmter Flächen, die allein durch Messungen, die in den
+Flächen selbst ausgeführt werden können, festgelegt sind. Die wichtigste Eigenschaft dieser zweidimensionalen Flächen ist ihre Krümmung im dreidimensionalen Raum. Darauf aufbauend konnten in der
+Folgezeit zwei nichteuklidische Geometrien konstruiert werden, die
+ohne das Parallelenpostulat auskommen. Es handelt sich dabei um
+die von Bernhard Riemann (1826-1866), einem Schüler von Gauß,
+entwickelte elliptische Geometrie und die von Janos Bolyai (1802 1860) und Nikolai Lobatschewskij (1792 - 1856) unabhängig voneinander entwickelte hyperbolische Geometrie. In der folgenden Abbildung 1 sind drei zweidimensionale Räume dieser verschiedenen
+Geometrien dargestellt.
+
+Abb. 1: Euklidische und nichteuklidische Geometrien
+
+Welche Geometrie ist wahr? Die Frage, welche Geometrie im Universum letztlich vorliegt, lässt sich nur anhand von Messungen entscheiden. Die Ergebnisse aller auf der Erde und im erdnahen Weltraum durchgeführten Messungen können widerspruchslos im Rahmen der euklidischen Geometrie erklärt werden. Gemäß dieser experimentellen Erfahrung ist die Annahme berechtigt, dass der physikalische Raum "euklidisch" ist. Die euklidische Geometrie liefert somit
+eine solide Basis für die Technikwissenschaften. Eine Entscheidung
+über die vorliegende geometrische Struktur des Raumes im kosmischen Maßstab bleibt dagegen zukünftigen astrophysikalischen Beobachtungen vorbehalten.
+Im Folgenden wird daher der euklidische Raum als Bühne des physikalischen Geschehens zugrunde gelegt. Er ist ein metrischer Raum,
+d. h. ein Raum, in dem man messen kann. Zur Entfernungsmessung
+zweier Punkte existiert eine Abstandsformel, welche die Metrik d des
+Raumes definiert. Der metrische Raum kann als eine Menge R definiert werden, auf der jedem Paar von Elementen oder Punktes
+x , y ∈ R eine nicht negative reelle Zahl d(x, y) zugeordnet werden
+kann, so dass für beliebige x, y, z ∈R folgende Eigenschaften erfüllt
+sind, die als die Axiome (A1, A2 und A3) des metrischen Raumes
+bezeichnet werden:
+
+13
+
+1 Grundlagen der Physik – Ziele und Aufgaben
+
+A1: d( x , y) ≥ 0 und d( x , y) = 0 genau dann, wenn x = y.
+Diese Nichtnegativität genannte Eigenschaft besagt, dass der Abstand d(x, x) eines Punktes x von sich selbst gleich Null ist.
+A2: d(x, y) = d(y, x)
+Diese Symmetrie genannte Eigenschaft des metrischen Raumes fordert, dass der Abstand des Punktes x von y dem Abstand des Punktes
+y von x entspricht.
+A3: d(x, y) ≤ d(x, z) + d(z, y)
+Im metrischen Raum existiert eine Dreiecksungleichung. Die kürzeste Entfernung zwischen x und y ist der Abstand d(x, y), jeder andere
+Weg ist länger.
+Die Frage nach der Metrik d eines Raumes gilt als beantwortet, wenn
+die zugehörige Abstandsformel d(x, y) bekannt ist. Der einfachste
+metrische Raum stellt die euklidische Gerade dar. Auf dieser Geraden wird zunächst ein Anfangspunkt 0, der Nullpunkt festgelegt.
+Positive Zahlen sollen rechtsseitig und negative Zahlen linksseitig
+von diesem Nullpunkt abgetragen werden. Dazu muss zunächst mittels eines Maßstabes eine Längeneinheit definiert werden, wodurch
+eine Skala festgelegt wird. Jede reelle Zahl a wird dann geometrisch
+genau durch einen Punkt auf der Zahlengeraden dargestellt, deren
+Betrag dem Abstand vom Nullpunkt entspricht. Für den Abstand
+zweier verschiedener Punkte x 1 und x 2 auf der Geraden g gilt dann:
+d(x 1 , x 2 ) = x 1 − x 2 .
+Für die Differenz zwischen den Betragsstrichen gilt: x 1 − x 2 < 0 , für
+x 2 > x 1 . Da der Abstand d stets eine positive Größe ist wird folgende Rechenvorschrift gewählt:
+d ( x1, x 2 ) = + ( x1 − x 2 )2 .
+Auch der dreidimensionale euklidische Raum, den man sich durch
+drei senkrecht aufeinander stehende Zahlengeraden, den kartesischen
+Koordinatenachsen, aufgespannt denken kann ist metrisch. Für den
+Abstand d zweier Punkte P1 ( x 1 , y 1 , z 1 ) und P2 ( x 2 , y 2, z 2 ) erhält
+man mit Hilfe des pythagoreischen Satzes über rechtwinklige Dreiecke:
+d (P1 , P2 ) = + ( x 1 − x 2 ) 2 + ( y 1 − y 2 ) 2 + (z 1 − z 2 ) 2 .
+Die Zahlenwerte physikalischer Größen werden durch reelle Zahlen
+repräsentiert, die folgende Eigenschaften besitzen: Die Menge der
+
+14
+
+1.1 Zahlen, physikalische Größen und ihre Einheiten
+
+reellen Zahlen ist unendlich und sie ist überall dicht, d. h. zwischen
+zwei beliebigen reellen Punkten gibt es unendlich viele weitere reelle
+Punkte. Des Weiteren ist die Menge der reellen Zahlen geordnet. Für
+jedes Paar von reellen Zahlen a und b gilt genau eine der Ordnungsrelationen:
+a < b (a kleiner als b)
+oder
+a = b (a gleich b)
+oder
+a > b (a größer als b)
+Zur Darstellung der reellen Zahlen wird das Dezimalsystem verwendet. Das Dezimalsystem (lat. decem: zehn) basiert auf zehn Zahlensymbolen und der Basis B = 10. Die zehn Zahlsymbole sind die arabischen Ziffern 0,1,2,3,...,9. Diese dezimalen Zahlsymbole werden
+im Folgenden durch das Symbol d gekennzeichnet. In diesem uns
+aus dem Alltag geläufigen Zahlensystem werden jeweils 10 Einheiten zu einer größeren Einheit zusammengefasst:
+10 Einer (E)
+=
+1 Zehner (Z)
+10 Zehner (Z)
+=
+1 Hunderter (H)
+10 Hunderter (H)
+=
+1 Tausender (T)
+.
+.
+Diese größeren Einheiten werden nicht durch neue Zahlensymbole
+gekennzeichnet, sondern durch ihre Stellung innerhalb des Zahlzeichens. Daher ist das Dezimalsystem ein Stellenwertsystem, welches
+auch als dekadisches Stellenwertsystem (grch. deka: zehn) bezeichnet wird. Jeder Ziffer wird innerhalb eines Zahlzeichens eine Zehnerpotenz als Stellenwert zugeordnet. Die Stellung eines dezimalen
+Zahlsymbols d i innerhalb eines Zahlzeichens wird durch den tiefgestellten Index i charakterisiert. Er charakterisiert die Position des
+Zahlsymbols innerhalb des Zahlzeichens und stimmt mit dem Exponenten der zugehörigen Zehnerpotenz überein.
+Beispiel:
+
+Die Dezimalzahl mit der Stellenwertschreibweise 95607 besitzt
+die folgende Potenzschreibweise:
+95607 = 9 ⋅10 4 + 5 ⋅103 + 6 ⋅10 2 + 0 ⋅101 + 7 ⋅100
+Wird die Stellenzahl von rechts nach links mit 0,1,2,3,.. nummeriert, wobei die Nummerierung mit 0 beginnt, so gibt der Exponent der 10er Potenz die Stelle der Ziffer an, die vor dieser Potenz steht. Die dezimalen Zahlsymbole d i innerhalb der Dezimalzahl z10 = 95607 haben folgende Bedeutung:
+d0 = 7
+d1 = 0
+
+15
+
+1 Grundlagen der Physik – Ziele und Aufgaben
+
+d2 = 6
+d3 = 5
+d4 = 9
+Eine beliebige, ganze Dezimalzahl z10 mit einer Stellenzahl n + 1
+besitzt daher die Stellenwertschreibweise:
+z10 = d n d n −1 d n − 2 ... d 2 d1 d 0
+In Potenzschreibweise erhält man für die gleiche Dezimalzahl z10 :
+z10 = d n ⋅ 10n + d n −1 ⋅ 10n −1 + ... + d 2 ⋅ 102 + d1 ⋅ 101 + d 0 ⋅ 100
+In Kurzform gilt für eine beliebige, natürliche Dezimalzahl z10 :
+n
+
+z10 = ∑ = di *10i
+i =0
+
+Die Zahlzeichen di können dabei jeweils eine der zehn Ziffern 0, 1,
+2, 3, ..., 9 bedeuten. Die abkürzende Schreibweise der Potenzrechnung zur Basis B = 10 hat dabei folgende Bedeutung:
+
+10 n = 10
+⋅4
+10 ⋅ ...
+⋅ 10
+142
+43
+4
+n − mal
+
+1
+
+10 − n =
+
+10 n
+
+10 n ⋅ 10 m = 10 n + m
+10 0 = 1
+Beispiele:
+
+10000 = 10 4
+0,001 =
+
+1
+10
+
+3
+
+= 10 −3
+
+100 ⋅ 0,01 = 10 2 ⋅ 10 −2 = 10 2+( −2) = 10 0 = 1
+Sollen nicht nur ganze Zahlen, sondern auch Brüche dargestellt werden so startet der Laufindex i bei einer negativen Zahl –m. Für beliebige Dezimalzahlen z10 gilt dann:
+n
+
+z10 = ∑ d i * 10i
+i=−m
+
+16
+
+1.1 Zahlen, physikalische Größen und ihre Einheiten
+
+Beispiele:
+
+Die Dezimalzahl z 10 = 0,987 hat die Zehnerpotenzdarstellung
+0,987 = 0 ⋅ 10 0 + 9 ⋅ 10 −1 + 8 ⋅ 10 −2 + 7 ⋅ 10 −3
+
+Die Dezimalzahl z10 = 3,25 hat die Potenzschreibweise:
+z10 = 3 ⋅ 10 0 + 2 ⋅ 10 −1 + 5 ⋅ 10 −2
+Die Zehnerpotenzdarstellung, die auch als Exponentialdarstellung
+der Dezimalzahlen bezeichnet wird, erweist sich gerade beim Umgang mit sehr großen und sehr kleinen Zahlen als besonders vorteilhaft. Jede reelle Zahl z lässt sich als ein Produkt aus einem reellen
+Koeffizienten k und einer Zehnerpotenz 10E darstellen.
+z = k ⋅10 E
+Für Zahlen z < 1 ist ein negativer Exponent (E < 0) zu wählen. Der
+Koeffizient k ist dann eine Dezimalzahl mit der Eigenschaft
+1 ≤ k < 10
+Diese wissenschaftliche Notation wird auch als StandardExponentialform bezeichnet. Sie erweist sich gerade beim Umgang
+mit sehr großen und sehr kleinen Zahlen als besonders vorteilhaft. So
+hat das leichteste in der Natur vorkommende Atom, das Wasserstoffatom, den kleinsten Atomradius, nämlich rH = 0,000000000053 m .
+In wissenschaftlicher Schreibweise, welche die StandardExponentialform benutzt, schreibt man für den Wasserstoffatomradius rH = 5,3 ⋅10 −11 m . Es handelt sich hierbei um den so genannten
+Bohrschen Radius. Experimentelle Untersuchungen ergeben je nach
+Messmethode hiervon abweichende Zahlenwerte, die jedoch alle von
+der gleichen Größenordnung ( 10 −11 m ) sind. Die mittlere Entfernung Erde-Sonne rE − S = 149597000000 m wird als Astronomische
+Einheit (AE) bezeichnet. In Zehnerpotenzschreibweise erhält man
+für die Astronomische Einheit:
+1 AE = rE − S = 1,49597 ⋅1011 m .
+Das Licht legt im Laufe eines Jahres eine Strecke rLj von
+rLj = 9460500000000000 m zurück. Diese Entfernung wird in der
+Astronomie ein Lichtjahr (Lj) genannt. In Standard-Exponentialform
+gilt: rLj = 9,4605 ⋅1015 m . Einen noch größeren Zahlenwert liefert die
+Untersuchung der Anzahl an Luftmolekülen, die sich an der Erdoberfläche in einem Kubikzentimeter Luft befinden:
+N = 26800000000000000000 pro cm 3 oder N = 2,68 ⋅1019 cm −3 .
+
+17
+
+1 Grundlagen der Physik – Ziele und Aufgaben
+
+Diese Größe wird in der Literatur als Loschmidt-Konstante bezeichnet.
+
+Mathematische Randbemerkung:
+Die Ziffernfolge einer Zahl wird Mantisse m s genannt. So haben
+beispielsweise die Dezimalzahlen 123,4 und 1,234 die gleiche Mantisse, nämlich die Ziffernfolge 1234. Die Mantisse besteht im Allgemeinen aus mehreren Ziffern, zum Beispiel aus den s Ziffern
+n1n 2 n 3 ...n s und es gilt:
+m s = n1n 2 n 3 ...n s
+Die bei wissenschaftlicher Schreibweise verwendete Normalform
+einer Dezimalzahl in Potenzschreibweise lautet:
+z10 = ms ⋅ 10E
+m s ist die s-stellige Mantisse und die ganze Zahl E stellt den Exponenten dar. Bei reellen Zahlen trennt ein Unterteilungszeichen
+(Komma) die Ziffernfolge der Mantisse in Stellen vor und nach dem
+Teilungszeichen. Durch das Komma wird der Stellenwert der einzelnen Ziffern festgelegt.
+Beispiel:
+
+Die Dezimalzahl z 10 = 87654,321 weist insgesamt 8 Stellen
+auf, 5 Vorkomma- und 3 Nachkommastellen. Die Normalform
+dieser Zahl in Potenzdarstellung oder in StandardExponentialform lautet z10 = 8,7654321 ⋅10 4 .
+In Normalformdarstellung wird für die Mantisse m s folgende Kon-
+
+vention getroffen:
+ms = n1 , n 2n 3...n s
+Die Mantisse besteht aus einer einstelligen Vorkommazahl n1 mit
+1 ≤ n1 ≤ 9 und einer (s - 1)-stelligen Nachkommazahl. Der Exponent E bestimmt die Größenordnung der darzustellenden Zahl. Durch
+die Anzahl der Stellen der Mantisse m s wird die Genauigkeit der
+
+Dezimalzahl festgelegt. Abweichend hiervon gilt in der Informatik
+für die Mantisse m s einer normalisierten Gleitpunktzahl m s < 1 , d.h.
+n1 = 0 .
+
+18
+
+1.2 Längenmessung
+
+1.2
+
+Längenmessung
+
+Jede Messung ist ein Vergleich der zu messenden Größe mit einem
+willkürlich festgelegten Normal, dass als Einheits-Maßstab fungiert.
+Dabei dienten von je her Abmessungen des menschlichen Körpers
+als Referenz:
+4 Fingerbreiten = 1 Handbreite
+3 Handbreiten = 1 Spanne
+2 Spannen = 1 Elle
+
+Abb.2: Vermessen von Weizenfeldern mittels Messschnur;
+ägyptische Malerei (1400 v. Chr.)
+
+Die älteste Längeneinheit stellte jedoch der Fuß dar. Sie wurde im
+Altertum von den Ägyptern, Griechen und Römern verwendet. Als
+Vielfache wurden benutzt:
+2 Ellen = 1 Arm = 3 Fuß
+2 Arme = 1 Klafter.
+In standardisierter Weise sind diese Längenmaße heute noch im angelsächsischen Sprachraum im Gebrauch. Dabei sind
+1 ft (Fuß) = 12 in (Zoll) und 3 ft = 1 yd (Yard).
+
+Ein Yard (Schritt) stellt dabei eine standardisierte Schrittlänge dar.
+Noch vor 200 Jahren hatte jedes kleine Fürstentum sein eigenes Längenmaß. Die verschiedenen Fußmaße und „Ellen“ schwankten erheblich, je nach den Gliedmaßen des herrschenden Oberhaupts. Die
+von den Abmessungen des menschlichen Körpers abgeleiteten Längenmaße stellen jedoch nur subjektive Längennormale dar, die nicht
+universell sind. Ein universelles Längennormal muss dagegen eindeutig definiert und überall reproduzierbar sein. Die Standardisierung führte zur Festlegung des Meters (gr. metron: Maß) als einheitliches Längenmaß, das ursprünglich als ein Vierzigmillionstel des
+Erdumfangs definiert wurde. 1875 wurde zur Harmonisierung der
+Maße in Paris die „Meterkonvention“ unterzeichnet, der heute über
+fünfzig Staaten angehören. In Deutschland wurde das metrische System bereits am 1. Januar 1872 eingeführt. Später zeigte sich, dass der
+Erdumfang etwa 40009100 m beträgt und wegen der geometrischen
+Form der Erde nicht präziser definiert werden kann. Daher wurde
+
+19
+
+1 Grundlagen der Physik – Ziele und Aufgaben
+
+1889 der Meter durch eine Maßverkörperung in Form des Internationalen Meterprototyps neu definiert. Die Basiseinheit 1 Meter (1 m)
+wurde dabei nicht als Endmaß über den Abstand zwischen links- und
+rechtsseitiger Stabkante festgelegt, sondern durch den bei 0°C vorliegenden Abstand zwischen den Mitten zweier Marken (Einkerbungen) eines aus einer Platin-Iridium-Legierung bestehenden 102 cm
+langen Stabes festgelegt. Das Querschnittsprofil des Meterprototyps
+wurde dabei so gewählt, um Messfehler infolge von Verbiegungen
+des Stabes weitestgehend auszuschließen.
+
+Abb. 3: Maßverkörperung der Längeneinheit durch das Ur-Meter
+
+Die Länge 1m wird als Basiseinheit eines dezimalmetrischen Längensystems wird wie folgt unterteilt:
+1 m = 10 dm
+1 dm = 10 cm
+1 cm = 10 mm
+Auch in den USA wurde durch Beschluss des Kongress vom
+28.7.1866 das metrische System für Maß und Gewicht zur einzigen,
+gesetzlichen Grundlage für alle verwendeten Maßeinheiten gemacht.
+In der Praxis konnte die Umstellung jedoch bis heute nicht vollzogen
+werden. So scheiterte im September 1999 eine Mission der Raumfahrtbehörde NASA, bei welcher der Satellit Mars-Climate-Orbiter
+statt eine stabile Mars-Umlaufbahn einzunehmen, in der Marsatmosphäre verglühte. Unglücksursache: Die beiden Kontrollzentren in
+Denver und Pasadena hatten mit unterschiedlichen Maßeinheiten
+gerechnet, das eine Team in Metern und Kilogramm, das andere in
+Foot und Pound.
+
+20
+
+1.2 Längenmessung
+
+Für die Umrechnung ins metrische System gelten folgende Beziehungen:
+1 in (inch (‘‘)) = 2,540 cm
+1 mil = 1‘‘‘ = 10 −3 in
+1 ft (foot (‘)) = 0,3048 m
+1 yd = 3 ft (feet) = 0,9144 m
+1 mile = 1609 m
+
+Länge in m Entfernung/Ausdehnung
+10
+
+26
+
+10
+
+22
+
+10
+
+21
+
+10
+
+16
+
+10
+
+11
+
+10
+
+9
+
+10
+
+7
+
+10
+10
+10
+10
+10
+
+−4
+−6
+−10
+−14
+−15
+
+Grenze des sichtbaren Universums
+Abstand zur nächsten Galaxie (Andromedanebel)
+Durchmesser der Milchstraße
+Abstand zum nächsten Fixstern (Alpha-Centauri)
+Abstand Erde - Sonne
+Radius der Sonne
+Radius der Erde
+Dicke eines Papierblattes
+Wellenlänge des sichtbaren Lichts
+Durchmesser eines Atoms
+Durchmesser eines schweren Atomkerns
+Durchmesser des Protons
+
+Tabelle 1: Größenordnungen typischer Längen in m
+
+Um eine zeitliche Veränderbarkeit des Längennormales zu vermeiden und beliebige Reproduzierbarkeit sicherzustellen, versuchte man
+in der Zwischenzeit die Meterdefinition an universelle Naturkonstanten anzuschließen. Durch Fortschritte in der Messtechnik ist es inzwischen mit Hilfe von Lasern möglich, die Lichtgeschwindigkeit c
+(lat. celeritas: Schnelligkeit) im Vakuum mit einer Genauigkeit
+< ± 1 m/s und einem Wert von c = 299792458 m / s zu bestimmen. c
+stellt dabei eine fundamentale Naturkonstante dar, deren Größe überall identisch ist. Seit 1983 wird daher das Meter über die Strecke
+definiert, die das Licht im Vakuum innerhalb einer festgelegten Zeitspanne zurücklegt. Dadurch wurde ein universelles, präzise reproduzierbares Längennormal geschaffen und die Unabhängigkeit von
+einem körperlichen Prototyp (Maßverkörperung) ermöglicht.
+Der Messprozess besteht dann in einem Vergleich der zu messenden
+Länge mit dem Längennormal. Das Messergebnis kann symbolisch
+in der Form
+
+21
+
+1 Grundlagen der Physik – Ziele und Aufgaben
+
+l = {l} * [l]
+ausgedrückt werden. In Worten: Die Länge (Symbol l) des gemessenen Objektes ist gleich dem Produkt aus dem Zahlenwert { l }und
+der Einheit [ l ] der Messung. Der als Ergebnis des Messprozesses
+erhaltene Zahlenwert wird auch als Maßzahl bezeichnet. Die Länge
+genannte Eigenschaft eines materiellen Objektes ist damit zu einer
+physikalischen Größe mit quantitativem Charakter geworden. Der
+Bereich der bekannten Längenausdehnungen erstreckt sich über
+41 Zehnerpotenzen. In Tabelle 1 sind die Größenordnungen einiger
+Längen in m angegeben.
+
+1.3
+
+Zeitmessung
+
+Unsere Zeitvorstellung ist eng mit der Erfahrung der Vergänglichkeit
+verbunden. Aufgrund unserer natürlichen Wahrnehmung erscheint
+die Zeit als unumkehrbarer Fluss, der aus der Vergangenheit kommend über die Gegenwart, als das ständige Jetzt, Jetzt,... in die Zukunft weist. Unsere Erfahrung lehrt uns, dass die Zeit immer nur in
+einer Richtung fließt. Diese Irreversibilität des Zeitflusses vermittelt
+uns eine Vorstellung der Vergänglichkeit. Es stellen sich die Fragen:
+Wie schnell fließt die Zeit? In wie viel Sekunden legt sie eine Sekunde
+zurück? Diese Fragen sind physikalisch unsinnig. Es ist nämlich
+keine Hyperzeit bekannt, mit deren Hilfe sich die Geschwindigkeit
+des Zeitflusses messen ließe. Von dem deutschen Philosophen Ernst
+Bloch (1885 – 1977) stammt die Sentenz: Die Zeit ist eine Uhr ohne
+Ziffern. Weder der Physik noch der Philosophie ist es bis heute gelungen, das Wesen der Zeit zu ergründen. Der scheinbar einfache
+Begriff der Zeit erweist sich somit als äußerst komplex.
+Regelmäßige Erscheinungen wie die Gezeiten, die Folge von Tag
+und Nacht und der sich regelmäßig wiederholende Bewegungsablauf
+der Sternbilder am nächtlichen Himmel sowie der immer wiederkehrende Gang der Jahreszeiten scheinen dagegen eine zirkuläre Natur
+der Zeit nahe zulegen. Diese zirkuläre Zeitauffassung war typisch für
+viele Hochkulturen, die in der Zeit eine Verkörperung des Mythos
+der ewigen Wiederkehr sahen. Das zirkuläre Wesen der Zeit kommt
+auch heute noch in der Zeitmesstechnik zum Ausdruck, die auf der
+Messung von stetig wiederkehrenden Vorgängen wie beispielsweise
+periodischen Schwingungen beruht.
+Nach dem österreichischen Physiker und Philosophen Ernst Mach
+(1838 - 1916) dürfen Naturgesetze nur solche Begriffe enthalten, die
+durch direkte Beobachtung der Natur oder durch eine von den Beobachtungen ausgehende Folge logischer Schlüsse definiert werden
+können. Dieser Ansatz führt zur so genannten operationalen Definition der physikalischen Begriffe. Eine physikalische Größe wie beispielsweise die Zeit wird demnach durch Angabe einer Messvorschrift definiert. Die Messvorschrift gibt dabei an, wie die physikali-
+
+22
+
+1.3 Zeitmessung
+
+sche Größe zu messen ist. Zur Zeitmessung benutzt man Instrumente, die auf periodisch wiederkehrenden physikalischen Vorgängen
+beruhen und mit deren Hilfe ein Zeitnormal als Maßeinheit festgelegt
+werden kann. Diese Instrumente heißen Uhren. Zeit ist demnach das,
+was man mit Uhren messen kann. Dabei ist die Zeitspanne zwischen
+zwei Ereignissen gleich der Anzahl der durch periodisch wiederkehrende Vorgänge definierten Zeiteinheiten.
+Der periodische Wechsel zwischen Tag und Nacht dient als älteste
+Zeiteinheit. Infolge der Drehung der Erde um sich selbst erleben wir
+ein ständiges Auf und Ab der Sonne. Die Tageslänge (Sonnentag)
+wird definiert als die Zeitspanne zwischen zwei Sonnenhöchstständen (sog. Kulminationen). Sie stellt ein astrophysikalisches Zeitnormal dar und wird als „wahre Sonnenzeit“ bezeichnet. Die Sonne gilt
+von jeher als unbestechlicher Zeitmesser, was historisch beispielsweise auch durch die älteste kultische Sonnenuhr "Stonehenge" im
+südenglischen Salisbury zum Ausdruck kommt. Seit alters her wird
+der Tag (d) als Zeitnormal unterteilt in Stunden (h), Minuten (min)
+und Sekunden (s).
+1 Tag (lat. dies) = 1 d = 24 h = 86400 s
+1 Stunde (lat. hora) = 1 h = 60 min
+1 Minute = 1 min = 60 s
+Diese Unterteilung beruht auf der sexagesimalen Zeitskala und damit
+auf der Basiszahl 60 des babylonischen Systems. Die Sekunde (lat.
+secundus: der zweite) bildet die Zeiteinheit im SI-System. Ihr Name
+erklärt sich als zweite Unterteilung der Stunde nach der ersten Unterteilung in Minuten (lat. minutus: klein, winzig).
+Die Erde beschreibt in einem Jahr eine Umlaufbahn um die Sonne,
+deren Bahnebene um 23°27’ gegen die Äquatorialebene der Erde
+geneigt ist. Durch die Äquatorialebene der Erde wird der sog. Himmelsäquator definiert. Die jährliche scheinbare Sonnenbahn wird
+Ekliptik (gr. eklipsis: Verfinsterung) genannt. Die Ekliptik schneidet
+den Himmelsäquator an zwei Stellen, dem Frühlingspunkt und dem
+Herbstpunkt. Für die Nordhalbkugel der Erde erscheint dort die Sonne bei Frühlingsanfang am 21. März und bei Herbstanfang am 23.
+September. Unter einem tropischen Jahr (1 a) (lat. annus: Jahr) versteht man die Zeitspanne zwischen zwei scheinbaren Durchgängen
+der Sonne durch den Frühlingspunkt.
+1 a = 365,24219879 d
+Die Zeitdauer (Symbol t) eines Vorganges stellt eine messbare Eigenschaft dar und repräsentiert eine physikalische Größe.
+t={t}*[t]
+
+23
+
+1 Grundlagen der Physik – Ziele und Aufgaben
+
+Als Zeiteinheit [t] wurde im SI-System die Sekunde gewählt.
+[t]=1s
+Die Zeitdauermaße mit den Einheitenzeichen min, h und d stellen SIfremde Einheiten dar, die allgemein anwendbar sind und zu den gesetzlichen Einheiten gehören. Die durch den Stand der Sonne bestimmte Sonnenzeit besitzt jedoch nur lokale Bedeutung. Für die
+praktische Durchführung von Raum- und Zeitmessungen auf der
+Erde ist ein geographischer Anfang erforderlich. Auf der Internationalen Meridiankonferenz von Washington wurde im Jahr 1884 als
+Ursprung und Beginn der Stundenzeit auf der Erde ein Längengrad
+als Null-Meridian geographisch einheitlich festgelegt, der durch das
+Observatorium des britischen Ortes Greenwich verläuft. Durch Vereinbarung wurde daher eine Universalzeit (UT) oder Weltzeit (WZ)
+definiert, die dem Sonnenstand in Greenwich entspricht. Im Nullmeridian beginnt der 24-Stundentag der Weltzeit um Mitternacht. Vom
+Nullmeridian ausgehend werden die Zeitzonen abgeleitet. Alle
+15 o = 360 o / 24 weiter östlich wird die Uhr jeweils um 1 h vor und
+alle 15 o weiter westlich jeweils um 1 h zurückgestellt. Dadurch erhält man auf der Erde 24 verschiedene Zeitzonen, die wegen der
+Globalisierung der Märkte heute Einfluss auf das internationale
+Wirtschaftsgeschehen haben. In Deutschland wurde bereits am
+1.4.1893 die Mitteleuropäische Zeit (MEZ) gesetzlich eingeführt.
+Aufgrund der östlichen Lage ist Mitteleuropa der Weltzeit um eine
+Stunde voraus (MEZ = WZ + 1h).
+Aufgrund von geophysikalischen, meteorologischen und astronomischen Einflüssen ist jedoch der Sonnentag nicht immer gleich lang.
+Er unterliegt nämlich regelmäßigen Schwankungen, bei denen Abweichungen von der mittleren Tagesdauer von bis zu 30 s auftreten.
+Der Nachteil der „wahren Sonnenzeit“ ist ihre Ungleichmäßigkeit.
+Aufgrund der elliptischen Umlaufbahn ändert sich die Entfernung
+der Erde von der Sonne und damit ihre Bahngeschwindigkeit während eines Jahres. Würde die Erde gleichmäßig um ihre Achse rotieren und sich mit konstanter Bahngeschwindigkeit auf einer Kreisbahn um die Sonne bewegen, wäre die Zeitspanne, nach der ein beliebiger Stern wieder an derselben Stelle am Himmel beobachtet
+werden kann, immer gleich lang. Aus der Umdrehung der Erde gegenüber den Fixsternen kann die im Vergleich zur Sonnenzeit
+gleichmäßigere Sternzeit abgeleitet werden. Der so definierte Sterntag ist etwa 4 Minuten kürzer als der Sonnentag. Diese Abweichung
+addiert sich im Laufe eines Jahres genau zu einem Tag. Denn durch
+die jährliche Sonnenumkreisung der Erde entsteht eine zusätzliche
+Umdrehung der Erde um ihre Achse.
+Um die Schwankungen der „wahren Sonnenzeit“ auszugleichen,
+wurde die mittlere Sonnenzeit eingeführt. Durch Bildung des Mittelwertes der Sonnentage über ein Jahr erhält man den mittleren Son-
+
+24
+
+1.3 Zeitmessung
+
+nentag. Die Differenz zwischen der „wahren Sonnenzeit“ und der
+mittleren Sonnenzeit wird als Zeitgleichung bezeichnet. Im Jahreslauf kommt es dabei zu Abweichungen von etwa ± 15 min . Die größten Abweichungen der mittleren Zeit von der „wahren Zeit“ treten
+am 11. Februar mit + 14 min 14 s und am 3. November mit
+− 16 min 19 s auf.
+Die Sekunde ist als Zeitnormal als der 86400ste Teil des mittleren
+Sonnentages definiert. Nachdem in der Mitte des 17. Jahrhunderts
+Christiaan Huygens (1629 - 1695) die erste von einem Pendel regulierte Uhr als periodisches Zeitnormal realisierte, nahmen die Anforderungen an die Ganggenauigkeit von Uhren ständig zu. Insbesondere in der Schiffsnavigation waren zur genauen Kursbestimmung präzise Zeitmessinstrumente erforderlich. Eine weitere Steigerung der
+Ganggenauigkeit von Uhren wurde durch die aufkommende Radiound Fernsehtechnik notwendig. Eine hohe Empfangsqualität ist nur
+dann erreichbar, wenn die Sender die ihnen zugewiesenen Sendefrequenzen genau einhalten. Die Zeitmessung erfolgt daher heute nicht
+mehr durch den Takt von mechanischen Pendeln, sondern durch die
+von Umwelteinflüssen unabhängige Frequenz einer elektromagnetischen Strahlung, die bestimmte Atome (z. B. Cäsium-133) aussenden, wenn sie von einem Zustand höherer Energie auf den einer niedrigeren zurückfallen. Mit Hilfe solcher Atomuhren als Zeitnormale
+konnten Unregelmäßigkeiten der Erdrotation experimentell nachgewiesen werden. Die Erde dreht sich nicht gleichmäßig um ihre Achse. So geht beispielsweise durch die Gezeitenreibung der Weltmeere
+Rotationsenergie der Erde verloren, was zu einer kontinuierlichen
+Verlangsamung der Erdrotation führt. Zur Zeit beträgt die Verlangsamung der Erdrotation etwa 2 ms pro Jahrhundert. Die Tageslänge
+nimmt dadurch täglich um etwa 50 Nanosekunden zu.
+
+Abb. 4: Caesium-Atomuhr „CS2“ der PTB in Braunschweig
+
+Atomuhren sind Maser (Microwave Amplification by Stimulated
+Emission of Radiation), d. h. sie stellen Mikrowellen-Oszillatoren
+
+25
+
+1 Grundlagen der Physik – Ziele und Aufgaben
+
+dar, deren Frequenz durch definierte Zustandsänderungen der Elektronen einzelner Atome bestimmt ist. Seit 1967 wird die Caesium133-Atomuhr als internationales Zeitnormal zur Definition der Sekunde eingesetzt. Die Sekunde wird dabei als ein Vielfaches der
+Schwingungsdauer T(Cs-133) der Maser-Oszillation dargestellt.
+Diese Schwingungsdauer ist für alle Cs-133-Atomuhren gleich. In
+Deutschland ist gemäß Gesetz das Zeitlabor der PhysikalischTechnischen-Bundesanstalt (PTB) in Braunschweig für die amtliche
+Zeitbestimmung zuständig. Sie setzt dazu zwei Caesium-Atomuhren
+CS1 und CS2 ein, welche die Zeit messen, indem sie die Schwingungen einer bestimmten Mikrowellenstrahlung zählen, die von Cs133-Atomen abgegeben wird. Sie weisen eine maximale Gangabweichung von 10 −9 s/Tag auf. Gemäß dieser Messgenauigkeit würden
+die Caesium-Atomuhren in 10 6 Jahren weniger als eine Sekunde
+ungenau gehen. Mit optischer Strahlung im sichtbaren Spektralbereich kann, aufgrund der höheren Frequenz durch die Verwendung
+von Femtosekundenlaser, eine noch größere Genauigkeit erzielt werden. Von den Atomuhren ausgehend werden durch Sendeimpulse
+mittels Funksteuerung die offiziellen Uhren in Deutschland kontrolliert. Diese Sendeimpulse werden von Mainflingen bei Frankfurt mit
+77,5 kHz über den Langwellensender DCF77 ausgestrahlt. Die Abweichung der so gesteuerten Uhren von der gesetzlichen Zeit ist
+kleiner als eine Millisekunde. Für die Einheitenüberwachung ist in
+den USA das National Institute of Standards and Technology (NIST)
+zuständig. Internationale Standards und die gegenseitige Anerkennung von Kalibrierscheinen stellen die Voraussetzung für den Abbau
+technischer Handelsschranken dar.
+Das Konzept der linear in eine Richtung fließenden Zeit ist ein Erbe
+der auf jüdisch-christlichen Traditionen beruhenden abendländischen
+Kultur. Auf dieser Vorstellung basiert auch die neuzeitliche Idee des
+Fortschritts. Dieser Zeitbegriff bildet zugleich die Grundlage der
+klassischen Mechanik. Isaac Newton (1643 - 1727) erklärte in seinem 1687 erschienen Hauptwerk Philosophiae Naturalis Principia
+Mathematica: "Die absolute, wahre und mathematische Zeit verfließt
+an sich und vermöge ihrer Natur gleichförmig und ohne Beziehung
+auf irgendeinen äußeren Gegenstand." Diese Aussage ist jedoch nur
+für die klassische, d. h. nichtrelativistische Mechanik richtig, die eine
+korrekte Beschreibung der mechanischen Phänomene des Alltags
+erlaubt. In der klassischen Mechanik, in der nur Geschwindigkeiten
+betrachtet werden, die klein gegenüber der Lichtgeschwindigkeit
+sind, ist die Zeit absolut, d. h. der Zeitablauf ist dort unabhängig vom
+Bewegungszustand des physikalischen Systems. Seit der Formulierung der Speziellen Relativitätstheorie durch Albert Einstein (1879 1955) im Jahre 1905 hat die Zeit jedoch ihre absolute Stellung verloren. Diese Theorie findet Anwendung bei der Beschreibung von physikalischen Systemen, die sich mit extrem großer Geschwindigkeit
+bewegen. Die Vakuum-Lichtgeschwindigkeit c stellt dabei eine nicht
+überschreitbare obere Grenzgeschwindigkeit dar. Es zeigte sich ferner, dass der Zeitablauf vom Bewegungszustand abhängig ist und
+
+26
+
+1.3 Zeitmessung
+
+dass es unmöglich ist mit einer endlichen Kraft eine endliche Masse
+auf Lichtgeschwindigkeit zu beschleunigen. So konnte beispielsweise auch experimentell bestätigt werden, dass in Übereinstimmung
+mit den Vorhersagen der Speziellen Relativitätstheorie schnell bewegte Uhren langsamer laufen als ruhende. Die in den Technikwissenschaften ausschließlich verwendete klassische Mechanik ist jedoch in der relativistischen Mechanik enthalten. Sie ergibt sich aus
+dieser im Grenzfall kleiner Geschwindigkeiten v << c. Die in der
+technischen Praxis bewährte klassische Mechanik stellt somit eine
+Näherung der relativistischen Mechanik dar. Abweichungen zwischen beiden treten nur bei extrem großen Geschwindigkeiten auf.
+∆ t/s
+10
+
+17
+
+10
+
+13
+
+10
+
+9
+
+10
+
+7
+
+10
+
+5
+
+10
+
+0
+
+10
+10
+10
+10
+10
+
+−3
+−4
+−9
+−15
+−23
+
+Ereignis
+
+Alter der Sonne
+Zeit seit Auftreten der ersten Menschen
+Lebensdauer eines Menschen
+Dauer eines Jahres
+Dauer eines Tages
+1 Sekunde
+Dauer eines Flügelschlages einer Mücke
+Schwingungsdauer eines Tones an der Hörgrenze
+Laufzeit, in der Licht 30 cm zurücklegt
+Umlaufzeit eines Elektrons im Atom
+Lebensdauer der instabilsten Elementarteilchen
+
+Tabelle 2: Größenordnungen typischer Zeitdauern ∆t in s
+
+Zusammenfassend gilt: Die physikalische Größe Zeit tritt sowohl als
+Zeitpunkt bei der Uhrzeitangabe als auch als Zeitdauer (Zeitspanne)
+in Erscheinung. Die Zeitdauer stellt dabei das durch zwei Zeitpunkte
+definierte Zeitintervall dar. Die mathematische Beschreibung dieses
+Zeitintervalls ∆t = t E − t A erfolgt durch eine Differenzbildung zwischen Endzeitpunkt t E und Anfangszeitpunkt t A . Gemäß DIN 5008
+werden bei Uhrzeitangaben Stunden, Minuten und Sekunden durch
+Doppelpunkte voneinander getrennt. Die Zeitangabe 09:12:25 Uhr
+beschreibt beispielsweise den Zeitpunkt 12 Minuten und 25 Sekunden nach 9 Uhr.
+
+Beispiel:
+Der ICE 652 fährt in Hagen Hbf. zum Zeitpunkt t A = 12:34 Uhr ab
+und erreicht gemäß Fahrplan Köln Hbf. zum Zeitpunkt t E = 13:09
+Uhr. Die Zeitdauer der Zugreise beträgt ∆t = t E − t A = 45 min.
+
+27
+
+1 Grundlagen der Physik – Ziele und Aufgaben
+
+Zum Abschluss dieses Unterabschnitts gibt Tabelle 2 die Größenordnung der Zeitspannen ∆t verschiedener Ereignisse in Sekunden
+an.
+
+1.4
+
+Massenbestimmung
+
+Allen materiellen Objekten kann eine Masse als quantitativer Mengenbegriff zugeordnet werden. Die Masse wird in der Mechanik als
+Maß für die Trägheit der Materie eingeführt und spielt bei der Beschreibung der Eigenschaften von Kräften eine wesentliche Rolle.
+Die Masse kann als eine makroskopische Mengengröße aufgefasst
+werden, die als Maß für die Substanzmenge interpretiert werden
+kann. Die Masse (Symbol m) eines Objektes stellt daher ebenfalls
+eine Eigenschaft der Materie dar und repräsentiert eine physikalische
+Größe.
+m = {m} * [m]
+Die Wahl der Masseneinheit [m] ist willkürlich. Die noch heute gültige Verkörperung der Definition der Masseneinheit, der Internationale Kilogrammprototyp, wurde 1889 festgelegt. Ein Kilogramm ist
+dabei diejenige Masse, die durch einen Kilogramm-Prototyp definiert
+ist, der im Bureau international des poids et mesures (BIPM) in Sèvres bei Paris aufbewahrt wird. Neben dem Ur-Kilogramm befindet
+sich dort auch der Ur-Meter-Prototyp. Die Maßverkörperung des
+Massenormales besteht aus einem zylindrischen Körper (Durchmesser = Höhe = 39 mm) aus einer Platin (90%) - Iridium (10%) - Legierung, von dem die Physikalisch - Technische - Bundesanstalt (PTB)
+in Braunschweig als nationales Metrologie-Institut eine Kopie als
+Massenormal besitzt.
+Die Messung von Massen ist wesentlich ungenauer als die Zeitmessung, da sie noch immer auf einem direkten Vergleich mit verkörperten Massennormalen beruht. Die Massen der 42 Kopien vom UrKilogramm, die 1889 vom BIPM in Sèvres angefertigt wurden,
+stimmen inzwischen nicht mehr überein. Viele Kopien des Urkilogramms sind in der Zwischenzeit offensichtlich „schwerer“ geworden (um bis zu 60 Mikrogramm). Im Umkehrschluss scheint daher
+das Urkilogramm „leichter“ geworden zu sein. Zurzeit existieren
+unterschiedliche Vorschläge für einen neuen, örtlich reproduzierbaren und präziseren Massestandard, die alle auf fundamentalen Naturkonstanten (Planck-Konstante h, Avogadro-Konstante N A , Boltzmann-Konstante k, Lichtgeschwindigkeit c und Gravitationskonstante G) beruhen, und deren Werte sich nach heutigem Wissensstand für
+alle Zeiten und im gesamten Universum nicht verändern. Die Generalkonferenz für Maß und Gewicht (CGPM) beabsichtigt 2018 alle
+SI-Basiseinheiten mithilfe dieser fundamentalen Naturkonstanten
+neu zu definieren, um damit ein System von Einheiten zu schaffen,
+welches unabhängig von künstlich festgelegten Maßverkörperungen
+
+28
+
+1.4 Massenbestimmung
+
+ist. An der PTB will man dazu im sogenannten AvogadroExperiment – benannt nach dem italienischen Physiker Amedeo
+Avogadro (1776 – 1856) - das Ur-Kilogramm durch eine nahezu
+perfekte Kugel aus einem weitgehend fehlerlosen SiliziumEinkristall ersetzen, deren genau definierter Durchmesser von etwa
+10 cm weniger als 10 −8 mm von der Kugelform abweicht. Durch
+exakte Vermessung dieser monokristallinen Si-28-Kugel, das dort
+verwendete Siliziumisotop wurde durch Isotopentrennung in
+Zentrifugen ”gereinigt” (Isotopen-Reinheit 99,998%), kann mithilfe
+der Avogadro-Konstanten die genaue Anzahl der Si-Atome mit einer
+relativen Ungenauigkeit von derzeit 2 ⋅ 10−8 gezählt werden, die dem
+Massenormal 1 kg entsprechen. In einem vom US-amerikanischen
+National Institute of Standards and Technology (NIST) entwickelten
+Experiment soll die Masseeinheit Kilogramm über eine sogenannte
+Wattwaage auf die Planck-Konstante zurückgeführt werden.
+Das Messen der Masse eines beliebigen Körpers erfolgt mit Hilfe
+einer Waage durch Vergleich seiner Masse mit dem Massenormal.
+Die Begriffe Masse und Gewicht sind synonym. Ein Liter ( 10 −3 m 3 )
+Wasser besitzt etwa eine Masse von 1 kg. Ein direkter Massenvergleich ergab, dass der Kilogramm-Prototyp um 2,8 ⋅ 10 −5 kg schwerer ist als 1 l Wasser in seinem Dichtemaximum bei 3,98 o C unter
+Normaldruck von 1013,25 hPa.
+
+Abb. 5: Maßverkörperung der Masseneinheit durch das
+Ur-Kilogramm
+
+Die Masse 1 kg stellt die Basiseinheit eines dezimalmetrischen Massesystems dar. Für die Masse von 1 kg sind folgende Vielfache bzw.
+Dezimale gebräuchlich:
+1000 kg = 1 t (Tonne)
+1 kg = 1000 g
+1 g = 1000 mg
+1 mg = 1000 µg
+
+29
+
+1 Grundlagen der Physik – Ziele und Aufgaben
+
+Abweichend vom dezimalmetrischen System, kurz auch als metrisches System bezeichnet, werden in den USA folgende Masseeinheiten verwendet:
+1 grain (gr) = 0,0648 g
+1 ounce (oz) = 28,349 g
+1 pound (lb) = 16 ounces = 7000 grains = 453,59 g
+1 ton = 2000 pounds = 907 kg
+
+Abb. 6: Messen heißt vergleichen: Wägung mit einer Balkenwaage
+
+In der Mechanik wird häufig das Modell des Massenpunktes benutzt. Darunter versteht man einen idealisierten Körper ohne räumliche Ausdehnung, dessen gesamte Masse man sich in einem Punkt
+vereinigt denkt. So können beispielsweise bei der Bewegung eines
+Satelliten um die Erde in erster Näherung beide Körper als Massenpunkte mit ihren entsprechenden Massen aufgefasst werden. Im
+Rahmen dieser Punktmechanik wird daher von der Größe und Gestalt der betrachteten Körper abstrahiert. Die Körper werden als Massenpunkte betrachtet, denen ihre jeweilige Masse zugeordnet wird.
+Dies gilt für die Beschreibung der Planentenbewegung im Sonnensystem in gleicher Weise wie für die Bewegung von Elektronen um
+punktförmig angenommene Atomkerne. Die Punktmechanik findet
+somit auch in den Atommodellen Anwendung. Ein weiteres Anwendungsgebiet der Punktmechanik ist die kinetische Gastheorie, deren
+einfachster Modellstoff das ideale Gas darstellt. Die Konstituenten
+des idealen Gases, nämlich die Atome oder Moleküle werden dabei
+ebenfalls als punktförmige Teilchen betrachtet, die sich in ungeordneter Bewegung befinden.
+In Tabelle 3 sind die Größenordnungen einiger typischer Massen in
+kg angegeben. Die Massen werden entweder durch direkte Wägung
+(Massenbereich 10 4 kg bis 10 −10 kg) oder mit Hilfe indirekter
+Methoden für sehr große Massen (m > 10 4 kg ) bzw. sehr kleine
+Massen ( m < 10 −10 kg ) ermittelt.
+Die Grund- oder Basisgröße Masse besitzt additiven Charakter.
+Werden zwei Einzelmassen m1 und m 2 zu einer Gesamtmasse m
+
+30
+
+1.4 Massenbestimmung
+
+vereint, so ergibt sich die resultierende Masse m als Summe der Einzelmassen.
+m = m1 + m 2
+
+Masse in kg
+
+10
+
+30
+
+10 24
+10
+
+3
+
+10
+
+2
+
+10
+
+0
+
+10
+10
+10
+10
+10
+10
+
+−5
+−11
+−18
+−24
+−27
+−30
+
+Objekt
+
+Sonne
+Erde
+Pkw
+Mensch
+1 l Wasser
+Briefmarke
+Bakterie
+Virus
+Makromolekül
+H-Atom
+Elektron
+
+Tabelle 3: Größenordnungen typischer Massen in kg
+
+Die Gesamtmasse als Summe aller Teilmassen eines physikalischen
+Systems ist in der klassischen Physik eine Erhaltungsgröße. Dieser
+Erfahrungssatz wird auch als das Prinzip der Massenerhaltung
+bezeichnet. Antoine Laurent de Lavoisier (1743 - 1794), der Begründer der modernen Chemie, hatte als erster aufgrund von Wägungen bei chemischen Reaktionen, die Erhaltung dieser Quantität der
+Materie erkannt. Das Prinzip der Massenerhaltung besagt, dass bei
+einer chemischen Reaktion die Summe der Massen der Ausgangsstoffe gleich der Summe der Massen der Endprodukte ist. Oder mit
+den Worten Lavoisiers: "Nichts vergeht, nichts entsteht." Massen
+besitzen also die Eigenschaft der Additivität. Diese scheinbar selbstverständliche Eigenschaft besitzen nicht alle physikalische Größen,
+wie folgendes Beispiel zeigt:
+Beispiel:
+
+Die Volumina V1 = 0,5 L Wacholder-Branntwein (100%-iger
+Äthylalkohol) mit der Masse m1 = 0,394 kg und V2 = 0,5 L
+Wasser mit der Masse m 2 = 0,500 kg werden zusammen in ein
+leeres Gefäß geschüttet und ergeben 50%-igen Gin mit dem Volumen V. Die experimentelle Durchführung liefert ein überraschendes Ergebnis:
+
+31
+
+1 Grundlagen der Physik – Ziele und Aufgaben
+
+V < V1 + V2 = 1L
+Obwohl die Volumina des geometrischen Raumes additiv sind, gilt dies nicht notwendigerweise für die Volumina realer physikalischer Körper. Für die Gesamtmasse m der Alkoholmischung gilt jedoch
+m = m1 + m 2 = 0,894 kg .
+Im Gegensatz zum Volumen ist in der klassischen Physik die Masse
+eine additive Größe. In der modernen Physik ist auch diese Aussage
+nicht haltbar. So kann in der Kernphysik gezeigt werden, dass die
+Masse eines Atomkerns kleiner ist als die Summe der Massen seiner
+elementaren Bausteine, nämlich den Protonen und Neutronen. Abschließend lässt sich über physikalische Größen folgendes zusammenfassend sagen:
+Jede physikalische Größe G lässt sich darstellen in der Form
+G = { G } * [ G ].
+Physikalische Größe G = Zahlenwert {G} mal Einheit [G]
+
+Der Zahlenwert {G} wird dabei oft auch als Maßzahl der physikalischen Größe G bezeichnet. Eine Messgröße wird somit durch Angabe eines Zahlenwertes und einer Einheit eindeutig beschrieben. Dabei gilt: Je größer die Einheit, desto kleiner der Zahlenwert einer
+physikalischen Größe und umgekehrt.
+Physikalische Größen kennzeichnen messbare Eigenschaften von
+Raum, Zeit und Materie.
+
+Sie stellen sinnvolle Begriffsbildungen dar, die eine eindeutige quantitative Beschreibung der messbaren Eigenschaften der Natur ermöglichen.
+
+32
+
+1.4 Massenbestimmung
+
+2
+
+Das Internationale Einheitensystem (SI)
+
+Das Aufkommen und die zunehmende Verbreitung des Handels
+machte schon frühzeitig die Einführung von standardisierten Maßen
+notwendig. 1795 wurde in Frankreich ein einheitliches Maßsystem
+eingeführt, dass auf den Einheiten Meter, Kilogramm und Sekunde
+basierende dezimalmetrische System. Dieses metrische System wurde
+1872 in Deutschland eingeführt und 1875 infolge der MeterKonvention auch in anderen Staaten übernommen. 1960 wurde durch
+Beschluss der Generalkonferenz der Meterkonvention das Internationale Einheitensystem (Système International d´Unités) festgelegt.
+Die Einführung dieses Systems bedeutete eine vollständige Neuordnung und Vereinheitlichung der Einheiten im Messwesen. Es handelt
+sich dabei um eine auf sieben Basiseinheiten erweiterte Version des
+metrischen Systems. Durch das Gesetz über Einheiten im Messwesen
+und die Zeitbestimmung (Einheiten- und Zeitgesetz - EinhZeitG,
+BGBl. I S. 409) in der Neufassung vom 22. Februar 1985 in Verbindung mit der Einheitenverordnung (EinhV) vom 13.12.1985 (BGBl.
+I S. 2272) gelten die sog. SI-Einheiten, die auch von der Internationalen Normierungsorganisation ISO (International Organization for
+Standardization) übernommen wurden, in Deutschland als gesetzliche Einheiten. Im amtlichen und geschäftlichen Verkehr dürfen seither für physikalische Größen nur noch die gesetzlichen Einheiten
+benutzt werden. Zu diesen gehören neben den SI-Einheiten auch
+einige SI-fremde Einheiten, die allgemein anwendbar sind sowie SIfremde Einheiten mit eingeschränktem Anwendungsbereich. Die
+physikalischen Größen werden in Basisgrößen (Basiseinheiten) und
+von den Basisgrößen abgeleitete Größen (abgeleitete Einheiten)
+unterteilt. Die abgeleiteten Größen setzen sich dabei aus Basisgrößen
+zusammen. Das SI-System hat 7 Basisgrößen, die in Tabelle 4 aufgeführt sind.
+
+Basisgröße
+
+Symbol
+
+Länge
+
+l
+
+Masse
+
+Basiseinheit
+
+Einheitenzeichen
+
+Meter
+
+m
+
+m
+
+Kilogramm
+
+kg
+
+Zeit
+
+t
+
+Sekunde
+
+s
+
+elektrische
+Stromstärke
+
+I
+
+Ampere
+
+A
+
+Temperatur
+
+T
+
+Kelvin
+
+K
+
+Stoffmenge
+
+n
+
+Mol
+
+mol
+
+Lichtstärke
+
+Iv
+
+Candela
+
+cd
+
+Tabelle 4: Basisgrößen des Internationalen Einheitensystems (SI)
+
+33
+
+2 Das Internationale Einheitensystem (SI)
+
+Die Festlegung der Anzahl der Basisgrößen ist dabei eine Frage der
+Zweckmäßigkeit, wobei eine einfache messtechnische Zugänglichkeit der Basisgrößen sowie eine Konstanz der zugehörigen Basiseinheiten wesentlich ist. Alle anderen physikalischen Größen als die
+sieben Basisgrößen des Internationalen Einheitensystems sind abgeleitete Größen und ihre Einheiten sind von den Basiseinheiten abgeleitete Einheiten. Basis- und abgeleitete Einheiten stellen als Maßeinheiten international vereinbarte Vergleichsgrößen dar.
+
+2.1
+
+Basisgrößen
+
+Die gesamte Mechanik ist auf den drei Basisgrößen Länge, Masse
+und Zeit aufgebaut, deren Basiseinheiten Meter, Kilogramm und
+Sekunde Vergleichsstandards darstellen. Einen Überblick über den
+Aufbau der Mechanik liefert Abbildung 7.
+
+Mechanik
+
+Festkörper
+
+Flüssigkeiten
+
+Gase
+
+Mechanik des
+Massenpunktes
+
+Hydromechanik
+
+Aeromechanik
+
+Mechanik des
+starren Körpers
+
+Elastomechanik
+
+Abb. 7: Übersichtdarstellung des Aufbaus der Mechanik
+
+Nachstehend sollen einige der SI -Basiseinheiten definiert werden.
+
+Das Meter ( m ):
+Durch die ISO-Festlegung der Vakuum-Lichtgeschwindigkeit vom
+20.10.1983 auf c = l 0 / t 0 = 299792458 m / s ist das Meter von der
+Sekunde metrologisch abhängig geworden. Das Meter wird somit
+heute nicht mehr durch den internationalen Ur-Meter - Prototyp festgelegt.
+
+34
+
+2.1 Basisgrößen
+
+1 Meter ist die Länge der Strecke l 0 , die Licht im Vakuum
+während der Zeitdauer t 0 von 1/ 299792458 s durchläuft.
+
+Das Meter wurde damit auf eine Naturkonstante, nämlich die Vakuum-Lichtgeschwindigkeit c zurückgeführt, deren Wert zugleich
+durch die Meterdefinition festgelegt ist.
+
+Die Sekunde ( s ):
+1 Sekunde ist das 9192631770 fache der Periodendauer
+der elektromagnetischen Strahlung eines bestimmten
+Übergangs zwischen Energieniveaus von Cs 133Atomen.
+
+Das Kilogramm ( kg ):
+1 Kilogramm ist die Masse des internationalen Kilogrammprototyps.
+
+Im internationalen Einheitensystem ist das Kilogramm die einzig
+verbliebene Einheit, die durch eine Maßverkörperung in Form des
+Primärnormales Ur-Kilogramm definiert wird. Da die Masse des UrKilogramms jedoch zeitlich nicht konstant zu sein scheint, werden
+zurzeit verschiedene Experimente mit dem Ziel einer Neudefinition
+der Masseneinheit auf der Grundlage von Atom- oder Naturkonstanten durchgeführt. Dabei soll die Masseneinheit auf eine unveränderliche Größe zurückgeführt und beispielsweise als ein Vielfaches der
+Masse eines Atoms oder eines Elementarteilchens dargestellt werden.
+
+Das Kelvin ( K ):
+Die SI - Einheit der Temperatur ist nach Sir William Thomson (1828
+- 1907), der den Adeltitel Lord Kelvin verliehen bekam, benannt. Die
+Kelvin-Skala ist eine absolute Temperaturskala und besitzt die tiefste Temperatur T0 als Nullpunkt. Es gilt
+T0 = 0 K (Kelvin).
+Da es unabhängig von der Stoffart einen absoluten Nullpunkt der
+Temperatur gibt, benötigt man zur Definition der Temperatureinheit
+nur einen Fixpunkt. Durch internationale Übereinkunft wurde dafür
+1967 die Temperatur TT des Tripelpunktes von reinem Wasser festgelegt, bei dem alle drei Phasen des Wassers, nämlich gasförmig
+(Wasserdampf), flüssig (Wasser) und fest (Eis) bei einem Druck von
+609 Pa gleichzeitig existieren können. Am Tripelpunkt befinden sich
+alle drei Phasen des Wassers im thermodynamischen Gleichgewicht.
+Aus historischen Gründen wurde diese Temperatur auf genau
+273,16 K festgelegt.
+
+35
+
+2 Das Internationale Einheitensystem (SI)
+
+TT = 273,16 K
+Mit dieser Festlegung folgt für die Definition der Temperatureinheit:
+1 Kelvin ist der 273,16te Teil der thermodynamischen
+Temperatur des Tripelpunktes von reinem Wasser.
+
+Die Celsius-Temperatur ist eine abgeleitete SI-Größe mit eigenem
+Namen (Celsius-Temperatur) und mit der abgeleiteten SI-Einheit
+Grad Celsius (Einheitenzeichen: °C). Sie stellt eine Art Sonderbenennung für die Temperatureinheit Kelvin bei der Angabe von Celsius-Temperaturen dar. Der Zahlenwert der Kelvin-Temperatur
+ergibt sich aus dem Zahlenwert der Celsius-Temperatur durch Addition des konstanten Wertes von 273,15.
+
+Das Mol ( mol ):
+Das Mol als Einheit der Stoffmenge ist ein Mengenbegriff, der auf
+der Teilchenanzahl N beruht. Die Teilchenanzahl ist eine reine Zahl,
+sie hat die Einheit [N] = 1 und ist somit dimensionslos. Im submikroskopischen Bereich der Atome und Moleküle sind die Teilchenanzahlen sehr groß und können nicht durch Abzählen ermittelt werden.
+Die Stoffmenge (Symbol n) mit der SI-Einheit [n] = 1 mol stellt daher eine der Teilchenanzahl proportionale, jedoch durch direkte Wägung messbare Basisgröße dar. Die Basiseinheit der Stoffmenge wird
+dabei durch die Anzahl der Teilchen in einem Normkörper definiert.
+1 Mol ist die Stoffmenge, die ebenso viel Teilchen enthält, wie Atome in 0,012 kg (12 g) des reinen Kohlenstoffisotops 12 C enthalten sind.
+
+Die in einem Mol enthaltene Teilchenanzahl N A wird molare Teilchenanzahl genannt. Sie ist eine universelle Konstante und heißt
+Avogadro-Konstante.
+
+N A = 6,022140 ⋅ 1023 mol−1
+1 mol eines Stoffes enthält stets N A = 6,022140 ⋅ 10 23 Teilchen.
+
+Das Mol als Einheit der Stoffmenge stellt die wichtigste Einheit der
+analytischen Chemie dar. Wird eine physikalische Größe auf die
+Stoffmenge von einem Mol bezogen, so erhält man eine molare
+Größe. Molare Größen sind somit abgeleitete physikalische Größen.
+1 mol eines chemischen Elements enthält N A Atome und entspricht einer Masse, die durch die relative Atommasse A r gemessen in Gramm (g) gegeben ist.
+
+36
+
+2.1 Basisgrößen
+
+Ein Mol einer chemischen Verbindung enthält N A Moleküle und
+entspricht einer Masse, die durch die relative Molekülmasse M r
+gemessen in Gramm (g) gegeben ist. Die Stoffmenge n = 1 mol 12 C
+entspricht genau der Masse m = 12 g des reinen Kohlenstoffisotops
+C . 1 kmol = 10 3 mol
+von 12 kg verkörpert.
+12
+
+12
+
+C wird demnach durch die
+
+12
+
+C -Masse
+
+Extrem kleine oder große dezimale Zahlenwerte werden bei wissenschaftlichen Angaben standardmäßig in Zehnerpotenzschreibweise
+dargestellt.
+Beispiele:
+
+a) Für die Länge l = 0,000002 m schreibt man daher
+l = 2 ⋅ 10 −6 m oder auch l = 2µm .
+b) Für die von einem Großkraftwerk abgegebene elektrische
+Leitung von P = 1200000000 W schreibt man
+P = 1,2 ⋅ 10 9 W oder auch P = 1,2 GW.
+Bestimmte dezimale Vielfache oder Bruchteile einer Einheit werden
+durch besondere Präfixe als Einheitenvorsätze abgekürzt. Sie sind in
+Tabelle 5 zusammenfassend aufgeführt.
+
+37
+
+2 Das Internationale Einheitensystem (SI)
+
+Vorsatz
+
+Vorsatzzeichen
+
+Faktor
+
+Yotta
+
+Y
+
+1024
+
+Zetta
+
+Z
+
+1021
+
+Exa
+
+E
+
+1018
+
+Peta
+
+P
+
+1015
+
+Tera
+
+T
+
+1012
+
+Giga
+
+G
+
+109
+
+Mega
+
+M
+
+106
+
+Kilo
+
+k
+
+103
+
+Hekto
+
+h
+
+102
+
+Deka
+
+da
+
+101
+
+Dezi
+
+d
+
+10 –1
+
+Zenti
+
+c
+
+10-2
+
+Milli
+
+m
+
+10-3
+
+Mikro
+
+µ
+
+10-6
+
+Nano
+
+n
+
+10-9
+
+Piko
+
+p
+
+10-12
+
+Femto
+
+f
+
+10-15
+
+Atto
+
+a
+
+10-18
+
+Zepto
+
+z
+
+10-21
+
+Yocto
+
+y
+
+10-24
+
+Tabelle 5: SI-Präfixe
+
+2.2
+
+Abgeleitete physikalische Größen
+
+Physikalische Größen werden durch Angabe einer Messvorschrift
+definiert. Die Messvorschrift gibt dabei an, wie die physikalische
+Größe zu messen ist. Mit Hilfe der Basisgrößen können durch physikalische Gleichungen abgeleitete Größen definiert werden. Eine physikalische Gleichung stellt dabei eine mathematische Aussage über
+die Beziehung zwischen physikalischen Größen dar.
+Es ist zweckmäßig, physikalische Zusammenhänge zwischen verschiedenen Größen G i durch mathematische Beziehungen zwischen
+diesen Größen G i zu formulieren. Eine solche Darstellung wird als
+Größengleichung bezeichnet. Eine Größengleichung hat den Vorteil,
+dass ihre Gültigkeit unabhängig von den gewählten Einheiten [ G i ]
+
+38
+
+2.2 Abgeleitete physikalische Größen
+
+der physikalischen Größen G i ist. Wird dagegen eine physikalische
+Gesetzmäßigkeit zwischen verschiedenen Größen G i durch Beziehungen zwischen ihren zugehörigen Maßzahlen oder Zahlenwerten
+{ G i } angegeben, so erhält man eine Zahlenwertgleichung. Im Gegensatz zur Größengleichung gilt die Zahlenwertgleichung jedoch
+nur für die bei ihrer Formulierung gewählte Einheit [ G i ] der verwendeten physikalischen Größe G i .
+Beispiel:
+
+Der Bewegungszustand eines Körpers wird durch die Geschwindigkeit (Symbol v) mit Hilfe folgender Definitionsgleichung charakterisiert:
+Geschwindigkeit =
+
+v=
+
+s 2 - s1
+t 2 - t1
+
+=
+
+Wegstrecke
+Zeitspanne
+
+∆s
+∆t
+
+Die zurückgelegte Wegstrecke stellt dabei eine Länge dar. Sie
+wird durch das Symbol s (lat. spatium: Wegstrecke, Entfernung)
+bezeichnet. Für die Einheit [s] der Wegstrecke s gilt
+[s] = [l] = m.
+Jede solche Definitionsgleichung einer neuen physikalischen Größe
+enthält sowohl eine Messvorschrift (hier: man messe den im Zeitintervall ∆t = t 2 − t 1 zurückgelegten Weg ∆s = s 2 − s1 ) als auch die
+Festlegung einer Einheit.
+v=
+
+∆s {∆s} ⋅ [∆s]
+∆t {∆t} ⋅ [∆t ]
+
+Für die physikalische Größe Geschwindigkeit gilt:
+v = {v} * [v]
+Dabei gilt
+{v} =
+
+{∆s}
+{∆t}
+
+und
+[ v] =
+
+[∆s] m
+= .
+[∆t ] s
+
+39
+
+2 Das Internationale Einheitensystem (SI)
+
+Die Einheit der Geschwindigkeit [v] = m/s ergibt sich als Quotient
+aus den Einheiten von Länge und Zeit.
+
+2.2.1
+
+Fläche und Volumen
+
+Ein ebenes Rechteck mit den Seitenlängen l1 = a und l 2 = b besitzt
+einen Flächeninhalt A, der wie folgt definiert ist:
+A = l1 ⋅ l 2 = a ⋅ b
+Aus dieser Definition folgt, dass die Flächeneinheit [A] aus der Längeneinheit [l], die eine Basiseinheit darstellt, ableitbar ist. Die Fläche
+stellt somit eine abgeleitete Größe dar, für deren SI-Einheit gilt
+[ A ] = [l1 ] ⋅ [l 2 ] = 1m ⋅ 1m = 1m 2 .
+
+Die Fläche 1 m 2 wird wie folgt unterteilt:
+1 m 2 = 100 dm 2
+1 dm 2 = 100 cm 2
+1 cm 2 = 100 mm 2 .
+In der Landvermessung werden gelegentlich größere Flächenmaße
+verwendet:
+1 Ar = 1 a = 10 m ⋅ 10 m = 100 m 2
+1 ha = 100 a = 100 m ⋅ 100 m = 10 4 m 2
+1 km 2 = 1000 m ⋅ 1000 m = 10 6 m 2
+
+Das Ar und das Hektar sind jedoch SI-fremde Flächeneinheiten. In
+den USA werden abweichend vom metrischen System noch folgende
+Flächeneinheiten verwendet:
+1 square mile = 2,590 km 2
+1 acre = 4047 m 2
+1 sq. yd. (square yard) = 9 sq. ft. (square feet)
+1 sq. ft. = 144 sq. in. (square inches)
+1 sq. in. = 6,451 cm 2
+Die Planimetrie liefert eine Vielzahl von Formeln zur Berechnung
+einfacher Flächeninhalte. Für den Flächeninhalt eines Kreises vom
+Radius r erhält man
+A = πr 2 .
+Für den Flächeninhalt einer Ellipse mit den Halbachsen a und b gilt
+
+40
+
+2.2 Abgeleitete physikalische Größen
+
+A = πab .
+Auch dreidimensionale Körper haben eine Oberfläche, deren Flächeninhalt sich als Produkt zweier Längen berechnen lässt. Für die
+Oberfläche eines Würfels mit der Kantenlänge a erhält man
+A = 6a 2 .
+Die Oberfläche einer Kugel mit dem Radius r ergibt sich zu
+A = 4πr 2 .
+Auch beim Rauminhalt wurde das älteste überlieferte Volumenmaß
+von Abmessungen des menschlichen Körpers abgeleitet. So entsprach das ägyptische Volumenmaß Ro genau einem Mundvoll. Zur
+standardisierten und reproduzierbaren Ermittlung des Volumens von
+dreidimensionalen Körpern liefert die Stereometrie für eine Vielzahl
+geometrischer Körper analytische Berechnungsformeln. Für das Volumen eines Quaders mit den Kantenlängen l1 = a , l 2 = b und
+l 3 = c erhält man
+V = l1 ⋅ l 2 ⋅ l 3 = a ⋅ b ⋅ c .
+Auch das Volumen ist somit eine abgeleitete Größe, für deren Einheit gilt
+[ V ] = [l1 ] ⋅ [l 2 ] ⋅ [l 3 ] = 1m ⋅ 1m ⋅ 1m = 1m 3 .
+
+Die SI-Einheit des Volumens ist [V] = 1 m 3 . Es entspricht dem Volumen eines Würfels mit der Kantenlänge 1 m. Für kleinere Volumina werden Unterteilungen des Kubikmeters ( m 3 ) benutzt:
+1 m 3 = 1000 dm 3 = 1000 l (Liter)
+1 dm 3 = 1 l = 1000 cm 3 = 1000 m l
+1 cm 3 = 1 m l = 1000 mm 3
+oder
+1 Liter = 1 l = 1 dm 3 = 10 −3 m 3
+1 m l = 10 −3 l = 1 cm 3 = 10 −6 m 3 .
+Als Volumenmaß für Flüssigkeiten wird in den USA folgende Einheit benutzt:
+1 gallon (gal) = 4 quarts (qt) = 231 in 3 = 3,785 l
+
+41
+
+2 Das Internationale Einheitensystem (SI)
+
+In der Erdölindustrie wird die US-amerikanische Volumeneinheit
+Barrel (engl.: Fass) verwendet:
+1 barrel (bl) = 42 gal = 9702 in 3 = 158,987 l
+Für das Volumen eines Kreiszylinders mit dem Radius r und der
+Höhe h erhält man beispielsweise
+V = πr 2 h .
+Das Volumen einer Kugel vom Radius r ergibt sich schließlich zu
+V=
+
+4π 3
+r .
+3
+
+Typisch für alle dreidimensionalen Volumina ist, dass bei ihrer Berechnung, abgesehen von einem Geometriefaktor, stets das Produkt
+dreier Längen auftritt.
+
+2.2.2
+
+Frequenz
+
+Eine wichtige Größe, die besonders für die Beschreibung periodischer Vorgänge wie Drehbewegungen und Schwingungen von Bedeutung ist, stellt die Frequenz dar, die aus der Basisgröße Zeit abgeleitet werden kann.
+Vorgänge, bei denen sich in völlig gleicher Weise Zustände wiederholen, heißen periodisch. Die Zeitdauer
+zwischen zwei aufeinander folgenden gleichen Zuständen wird als Periodendauer T des Vorgangs bezeichnet. Der Kehrwert von T heißt Frequenz f.
+
+f=
+
+1
+T
+
+und
+
+[f ] =
+
+1 1
+= = Hz (Hertz).
+[T ] s
+
+Die Frequenz gibt an, wie oft sich der periodische Vorgang pro Sekunde wiederholt.
+Bei Drehbewegungen um eine feststehende Rotationsachse wird in
+den Ingenieurwissenschaften die Anzahl i der Umdrehungen je Zeiteinheit t angegeben. Wird als Zeiteinheit die Sekunde gewählt, so
+erhält man die Umdrehungsfrequenz n (Umdrehungen pro Sekunde) zu:
+n=
+
+i
+t
+
+und
+
+[n ] =
+
+[ i ] 1 −1
+= =s .
+[t] s
+
+Wird als größere Zeiteinheit die Minute gewählt, so erhält man die
+Drehzahl n zu:
+
+42
+
+2.2 Abgeleitete physikalische Größen
+
+n=
+
+i
+t
+
+[n ] =
+
+und
+
+[i]
+1
+=
+= min −1 .
+[ t ] min
+
+Die Drehzahl ist eine in den Ingenieurwissenschaften geläufige Größe, welche die Anzahl der Umdrehungen pro Minute angibt.
+
+2.2.3
+
+Winkel
+
+2.2.3.1
+
+Ebener Winkel
+
+Der ebene Winkel ist ein Maß für die Richtungsabweichung zwischen zwei sich schneidenden Geraden.
+
+Ein ebener Winkel wird von zwei sich schneidenden Geraden, den
+Schenkeln, an ihrem Schnittpunkt (Scheitel) gebildet (Abb. 2) und
+kann auf zwei verschiedene Weisen angegeben werden: Im Gradmaß und im Bogenmaß. 1 Grad (1°) als der 360te Teil des zum
+Vollkreis gehörenden "vollen" Winkels ist die Einheit des Gradmaßes. 1° wird dabei unterteilt in Winkel- oder Bogenminuten ( ' ) und
+Winkel- oder Bogensekunden ( '' ) und es gilt:
+1° = 60' = 3600''
+Bogenminute und Bogensekunde stellen hexagesimale Unterteilungen eines Winkelgrades im Gradmaß dar. Neben dem Gradmaß wird
+das Bogenmaß zur Winkelmessung verwendet. Schneidet der Winkel
+ϕ aus einem Kreis mit dem Radius r den Bogen mit der Länge s aus,
+dann gilt für den Winkel im Bogenmaß die Definition:
+ϕ=
+
+s
+r.
+
+Für die SI-Einheit des ebenen Winkels im Bogenmaß folgt
+[ϕ] =
+
+[s]
+= 1rad (Radiant ) .
+[r ]
+
+s
+
+r
+
+ϕ
+r
+
+Abb. 8: Ebener Winkel ϕ im Bogenmaß
+
+43
+
+2 Das Internationale Einheitensystem (SI)
+
+1 Radiant ist die Winkeleinheit im Bogenmaß. 1 Radiant (1 rad) ist
+der ebene Winkel, der von zwei Radien eines Kreise eingeschlossen
+wird, die aus dem Kreisumfang einen Bogen von der Länge des Radius (s = r) ausschneiden.
+
+Beispiel:
+1 rad ist der Winkel, der aus einem Kreis mit dem Radius r = 1 m die
+Bogenlänge s = 1 m ausschneidet.
+Da ein Kreis den Umfang U = 2πr hat, entspricht ein Vollkreis im
+Bogenmaß dem Winkel 2π rad . Für die Umrechnung vom Bogenmaß ins Gradmaß und umgekehrt gilt:
+2π rad = 360 °
+1 rad =
+
+360 o
+= 57,29578 °
+2π
+
+360 o = 360 ⋅ 1o
+
+1° =
+
+2π rad
+= 0,017453 rad .
+360
+
+Grad und Radiant sind ergänzende SI-Einheiten mit denen Winkelmaße bezeichnet werden. Sie sind dimensionslos, d.h. sie haben die
+Einheit Eins.
+Beispiel:
+
+In der Luft- und Seefahrt ist als Längeneinheit die internationale Seemeile (sm) in Gebrauch. Sie entspricht auf der Erdoberfläche der Länge des Kreisbogens mit dem vom Erdmittelpunkt im
+Gradmaß gemessenen Öffnungswinkel von 1 Winkel- oder Bogenminute (1’). Dies entspricht 1/60 des Meridiangrades. Bei einem Erdumfang von 40000 km erhält man: 1 sm = 1,852 km.
+Denn es gilt:
+360° ≡ 40000 km
+1’ ≡ 1,852 km.
+Die in der Seefahrt übliche Geschwindigkeitsangabe in
+Knoten (kn) basiert auf der Seemeile. Es gilt:
+1 kn = 1 sm/h = 1,852 km/h = 0,5144 m/s
+
+Auch in der Luftfahrt gibt es die Geschwindigkeitsangabe Knoten
+(kt). Sie basiert auf der Längeneinheit NM (international nautical air
+mile).
+
+44
+
+2.2 Abgeleitete physikalische Größen
+
+1 NM = 1852 m
+1 kt = 1 NM/h =1,852 km/h = 0,5144 m/s
+
+2.2.3.2
+
+Raumwinkel
+
+Schneidet ein Kegel, dessen Spitze S in den Mittelpunkt einer Kugel
+vom Radius r gelegt wurde die Fläche A auf der Kugeloberfläche
+aus, dann umfasst der Kreiskegel den Raumwinkel Ω . Der Raumwinkel ist definiert durch
+Ω=
+
+A
+
+.
+r2
+Diese Definition ist in Abbildung 9 veranschaulicht.
+A
+
+Ω
+
+r
+
+S
+
+Abb. 9: Räumlicher Winkel Ω
+
+Für die SI - Einheit des Raumwinkels gilt
+[ Ω] =
+
+[ A]
+[r 2 ]
+
+=
+
+1m 2
+1m 2
+
+= 1 sr (Steradiant ) .
+
+Da die Kugeloberfläche A = 4πr 2 ist, beträgt der "volle" Raumwinkel
+Ω voll =
+
+2.2.4
+
+4πr 2
+
+= 4π sr .
+
+r2
+
+Dichte
+
+Bei homogen Körpern ist deren Masse m proportional
+zu ihrem Volumen V:
+
+m =ρ⋅V
+
+45
+
+2 Das Internationale Einheitensystem (SI)
+
+Der Proportionalitätsfaktor ρ heißt Dichte des Stoffes. Die Dichte ρ
+charakterisiert einen Stoff unabhängig von der Größe des untersuchten Körpers.
+ρ=
+
+m
+V
+
+Die Einheit der Dichte ergibt sich zu
+[ρ] =
+
+[m] kg
+=
+.
+[V] m 3
+
+Da das Volumen eines Körpers stark temperaturabhängig sein kann,
+wird sich auch die Dichte ρ mit der Temperatur ändern. Im Allgemeinen nimmt das Volumen der Körper mit wachsender Temperatur
+zu. Da die Masse eines Körpers unabhängig von der Temperatur
+konstant ist, nimmt die Dichte der Körper mit zunehmender Temperatur ab.
+Wichtigste Ausnahme ist Wasser bei Temperaturen unterhalb von
+etwa 4 °C. Wasser besitzt nämlich bei 3,98 °C ein Dichtemaximum.
+Zwischen 3,98 °C und 0 °C nimmt die Wasserdichte ab. Diese Eigenschaft wird als Anomalie des Wassers bezeichnet. Beim Erstarren erfolgt eine sprunghafte Abnahme der Dichte. Wasser hat bei
+ϑ 0 = 0 °C eine Dichte von ρ 0, W = 999,8 kg / m 3 während die Dichte
+von Eis bei ϑ 0 = 0 °C nur ρ 0,E = 917 kg / m 3 beträgt. Eis schwimmt
+daher auf dem Wasser.
+
+2.2.5
+
+Teilchendichte
+
+Die Teilchendichte ν , die auch als Anzahldichte bezeichnet wird, ist
+definiert als die Anzahl der Teilchen pro Volumeneinheit. Befindet
+sich im Volumen V eine Anzahl von N Teilchen, so folgt für die
+Teilchendichte
+ν=
+
+N
+.
+V
+
+Für die Einheit der Teilchendichte ν folgt
+[ν ] =
+
+46
+
+[ N]
+1
+= 3 = m −3 .
+[V] m
+
+2.2 Abgeleitete physikalische Größen
+
+2.2.6
+
+Molare Masse
+
+Molare Größen sind stoffmengenbezogene Größen. Ein Körper mit
+der Masse m und der Stoffmenge n besitzt die molare Masse M:
+m
+M=
+n
+
+[M] = [m] = kg / mol
+[n]
+Die molare Masse eines Stoffes ist diejenige Masse, die von der
+Stoffmenge n = 1 mol eingenommen wird. Als Einheit der molaren
+Masse sind auch die Angaben g/mol oder kg/kmol geläufig.
+Beispiel:
+
+Von den Elementen Helium und Aluminium sowie von den chemischen Verbindungen Sauerstoff und Kohlendioxid soll jeweils die
+molare Masse M angeben werden.
+
+A r (He) = 4,0
+A r ( Al) = 27,0
+Mr (O 2 ) = 32,0
+Mr (CO2 ) = 44,0
+
+2.2.7
+
+M = 4 g/mol = 0,004 kg/mol
+M = 27 g/mol = 0,027 kg/mol
+M = 32 g/mol = 0,032 kg/mol
+M = 44 g/mol = 0,044 kg/mol
+
+Kraft
+
+Wirkt auf einen frei beweglichen Körper
+r mit der Masse m (unter
+Ausschluss von Reibung) eine Kraft F , so erfährt dieser Körper eine
+r
+Beschleunigung a , die parallel zur einwirkenden Kraft gerichtet ist.
+Die Kraft ist gleich dem Produkt aus der Masse des Körpers und
+seiner Beschleunigung:
+r
+r
+F = ma
+
+In skalarer Schreibweise gilt: F = ma
+Die Kraft F, die einem Körper mit der Masse m = 1 kg die konstante
+Beschleunigung a = 1
+[F] = [m][a] = 1kg ⋅ 1
+
+2.2.8
+
+m
+s
+
+2
+
+m
+s2
+
+erteilt, wird F = 1 N (Newton) genannt.
+
+= 1kg
+
+m
+s2
+
+= 1N
+
+Arbeit und Energie
+
+Der in Abschnitt 2.2.7 genannte Körper bewegt sich unter der Einwirkung der Kraft F . Er verändert dadurch im Laufe der Zeit seine
+
+47
+
+2 Das Internationale Einheitensystem (SI)
+
+Lage im Raum. Wenn er sich unter dem Einfluss der konstanten
+r
+Kraft F um eine Wegstrecke ∆s verschiebt, dann sagt man: Die
+Kraft hat während der durch sie verursachten Verschiebung des
+Körpers die Arbeit ∆W (sie kann auch nur mit W bezeichnet werden) verrichtet:
+r r
+∆W = F ⋅ ∆s
+
+Die Arbeit ∆W ist eine skalare physikalische Größe. Sie ergibt sich
+rechentechnisch aus dem Inneren Produkt oder Skalarprodukt der
+r
+beiden Vektoren F und ∆s . Erfolgt die Verschiebung parallel zur
+Kraft, dann gilt: ∆W = F ⋅ ∆s
+Für die SI-Einheit der Arbeit W folgt:
+[ W ] = [F] ⋅ [s] = 1N ⋅ 1m = 1Nm = 1J (Joule)
+
+In diesem Beispiel wird der ursprünglich ruhende Körper infolge der
+Krafteinwirkung längs der Wegstrecke der Länge ∆ s beschleunigt
+und erreicht eine Endgeschwindigkeit v. Die am Körper verrichtete
+Arbeit W ist somit eine Beschleunigungsarbeit. Diese Geschwindigkeit behält der sich reibungsfrei bewegende Körper auch nach Beendigung der Krafteinwirkung bei. Man sagt: Die Beschleunigungsarbeit wird von dem bewegten Körper als kinetische Energie E kin gespeichert. Die mechanische Bewegungsenergie besitzt Arbeitsfähigkeit und stellt somit eine Speichermöglichkeit der verrichteten Arbeit
+dar. Energie kann somit als die Fähigkeit angesehen werden, Arbeit
+zu verrichten. Oder in Kurzform: Arbeit und Energie sind äquivalent.
+Wegen ∆W = E kin folgt für die SI-Einheit der Energie E:
+[E] = [E kin ] = 1 J
+
+Arbeit und Energie haben dieselbe physikalische Einheit, nämlich
+das Joule (J).
+
+2.2.9
+
+Leistung
+
+Die Krafteinwirkung auf den Körper aus Abschnitt 2.2.8 erfolgt über
+eine begrenzte Zeitspanne ∆t , während der sie am Körper die Beschleunigungsarbeit ∆W verrichtet. Auf den Körper wird eine mechanische Leistung P ausgeübt, die wie folgt definiert wird:
+P=
+
+∆W
+∆t
+
+Die Leistung P ist somit umso größer, je kürzer das Zeitintervall ∆t
+ist, in dem die Arbeit ∆W verrichtet wird. Für die SI-Einheit der
+Leistung P folgt:
+
+48
+
+2.3 Intensive und extensive Größen
+
+[P] =
+
+[ ∆W ] 1 J
+J
+=
+= 1 = 1 W (Watt)
+[ ∆t ]
+1s
+s
+
+Die von den Basisgrößen Länge, Masse und Zeit abgeleiteten physikalischen Größen Geschwindigkeit, Beschleunigung, Kraft, Druck,
+Arbeit und Leistung sind mit ihren Einheiten in Tabelle 6 zusammenfassend aufgeführt. Ihre Definition wird in der Lerneinheit LE3 im
+Rahmen einer Einführung in die Mechanik näher erläutert.
+
+Physikalische
+Größe
+
+Symbol
+
+Geschwindigkeit
+
+v
+
+Beschleunigung
+
+a
+
+Kraft
+
+F
+
+DefinitionsGleichung
+
+∆s
+∆t
+∆v
+a=
+∆t
+v=
+
+F=ma
+
+Einheit
+m/s
+m / s2
+N (Newton)
+1 kg m/s² = 1 N
+
+Druck
+
+p
+
+Arbeit
+
+W
+
+p=
+
+F
+A
+
+W =F s
+
+Pa (Pascal)
+1 N/m² = 1 Pa
+J (Joule)
+1 N⋅m = 1 J
+
+Leistung
+
+P
+
+P=
+
+∆W
+∆t
+
+W (Watt)
+1 J/s = 1 W
+
+Tabelle 6: Einige abgeleitete Größen der Mechanik
+
+2.3
+
+Intensive und extensive Größen
+
+Sowohl in der Thermodynamik als auch in der Chemie unterscheidet
+man zwischen intensiven und extensiven physikalischen Größen.
+Extensive Größen hängen von der Substanzmenge ab und sind somit
+massen-abhängig. Bei der Teilung eines homogenen physikalischen
+Systems in zwei Teilsysteme ändern extensive Größen ihren Wert
+proportional zur Masse. Extensive Größen sind beispielsweise die
+Masse m, das Volumen V, die Stoffmenge n und die in einem System enthaltene Energie, die so genannte innere Energie U. Zu den
+extensiven Größen gehören auch die thermodynamischen Zustandsgrößen Enthalpie H und Entropie S. Die Erfahrung zeigt, dass
+extensive Größen eines Systems sich additiv aus den entsprechenden
+Größen der Teilsysteme zusammensetzen.
+Es gilt
+m = m1 + m 2
+
+49
+
+2 Das Internationale Einheitensystem (SI)
+
+V = V1 + V2
+n = n1 + n 2
+U = U1 + U 2
+Trennwand
+
+p, T
+m, V, n, U, H, S
+
+p, T
+m 1 , V1 , n 1 ,
+
+p, T
+m2 , V2 , n 2 ,
+
+U 1 , H 1, S 1
+
+U 2, H 2 , S 2
+
+Abb. 10: Intensive und extensive Zustandsgrößen
+
+Intensive Größen sind dagegen massen-unabhängig. Sie behalten bei
+einer Teilung des Systems unabhängig von der Masse ihren ursprünglichen Wert bei. Die thermodynamischen Zustandsgrößen
+Druck p und Temperatur T sind ebenso wie die Dichte ρ intensive
+Größen. Wird beispielsweise ein großer Goldbarren in zwei Teile
+getrennt, so behalten beide Teile ihre Temperatur und ihre Dichte
+bei. Intensive Größen erlauben somit die Charakterisierung eines
+Systems oder einer Substanz unabhängig von der Systemgröße bzw.
+der Substanzmenge.
+
+2.4
+
+Einheiten außerhalb des SI mit beschränktem
+Anwendungsbereich
+
+In der betrieblichen Praxis werden traditionell auch Einheiten außerhalb des Internationalen Einheitensystems verwendet. Die folgenden
+Ausführungen sollen vollständigkeitshalber einige häufig vorkommenden Fälle erläutern.
+
+50
+
+2.4 Einheiten außerhalb des SI mit beschränktem Anwendungsbereich
+
+Die Masse von Edelsteinen wird durch das metrische Karat angegeben. Es gibt dafür jedoch kein international genormtes Einheitenzeichen. Als Einheitenzeichen wird beispielsweise Kt oder ct verwendet.
+1 Kt = 1 ct = 0,2 g
+Die längenbezogene Masse von textilen Fasern oder Garnen wird mit
+der Einheit Tex mit dem Einheitenzeichen tex bezeichnet. Es gilt:
+1 tex = 1 g/km
+In der Medizin wird der Blutdruck in der Einheit MillimeterQuecksilbersäule mit dem Einheitenzeichen mmHg gemessen. Es
+gilt:
+1 mmHg = 133,322 Pa
+Der Feingehalt von Edelmetall-Legierungen gibt den Edelmetallanteil an. Der Feingehalt ist der Massenanteil, der in Tausendstelteilen
+(Promille) angegeben wird, wobei nur der Zähler des Bruches erscheint.
+Beispiel:
+
+Gold-750 oder Gold-585 enthält 750 bzw. 585 Massenteile Gold
+auf 1000 Massenteile Edelmetall-Legierung. Der Goldgehalt der
+Legierungen entspricht somit 750/1000 bzw. 585/1000. Gelegentlich wird der Feingehalt des Goldes noch in Karat angegeben. 1 ct entspricht dabei einem Gold-Masseanteil von 1/24 der
+Edelmetall-Legierung. 18-karätiges Gold entspricht somit Gold750; 24-karätiges Gold ist rein.
+Schmuck, Besteck und Kunstgegenstände werden oft aus Silber mit
+dem Feingehalt 800 gefertigt, das somit 800/1000 = 80% Silber enthält, der Rest ist meist Kupfer. Im angelsächsischen Kulturbereich
+wird häufig das so genannte Sterlings-Silber verwendet, das einen
+Silbergehalt von 925% aufweist. Der Feingehalt des Silbers wurde
+früher in Lot angegeben. In den folgenden Tabellen sind die bis zum
+Ende des 19. Jahrhunderts gültigen Feingehaltsangaben den heutigen
+Promilleangaben gegenübergestellt.
+
+51
+
+2 Das Internationale Einheitensystem (SI)
+
+Karat
+
+Tausendstelteile
+
+24
+
+1000
+
+18
+
+750
+
+14
+
+583
+
+8
+
+333
+
+Tabelle 7: Feingehaltsangaben für Gegenstände aus Gold
+
+Lot
+
+Tausendstelteile
+
+16
+
+1000
+
+14
+
+875
+
+12
+
+750
+
+10
+
+625
+
+1
+
+62,5
+
+Tabelle 8: Feingehaltsangaben für Gegenstände aus Silber
+In dieser historischen Einheit besitzt 12-lötiges Silber besitzt einen
+Feingehalt an Silber von 750 Promille. Unter Versilbern versteht
+man das galvanische Aufbringen einer Silberschicht auf Metalle in
+Elektrolyten. Hierzu wird im Allgemeinen das Silbersalz Natriumdicyanoargentat (Na[Ag(CN)2]) verwendet. Bei einer Silberauflage
+
+90 wird auf eine genormte Oberfläche von A = 24 dm 2 90 g Silber
+aufgebracht. Dies entspricht bei einer Dichte ρ Ag = 10500 kg / m 3 einer mittleren Silberschichtdicke von 35,7 µm . Werden 100 g Silber
+aufgebracht, erhält man die Silberauflage 100, die einer Schichtdicke
+von 39,7 µm entspricht.
+
+52
+
+2.4 Einheiten außerhalb des SI mit beschränktem Anwendungsbereich
+
+3
+
+Umrechnung von Einheiten
+
+Jede Messung ist ein Größenvergleich mit festen, aber willkürlich
+gewählten Einheiten, die international vereinbarte Vergleichsgrößen
+darstellen. Wegen der Vielzahl von verschiedenen Einheiten für ein
+und dieselbe physikalische Größe G ist häufig eine Umrechnung von
+einer Einheit [ G 1 ] in eine andere Einheit [ G 2 ], erforderlich. Jede
+physikalische Größe G mit
+G = {G} * [G]
+ist im Gegensatz zu ihrem Zahlenwert { G } von der gewählten Einheit [ G ] unabhängig. Wird eine andere Einheit [G] zur Messung
+der physikalischen Größe G gewählt, so ändert sich auch der Zahlenwert {G}des Messergebnisses. Wird eine physikalische Größe G
+in der Einheit [ G 1 ] gemessen, so gilt:
+G = {G 1} * [G 1 ]
+Wird dieselbe physikalische Größe G in einer anderen Einheit [ G 2 ]
+gemessen, so folgt:
+G = {G 2 } * [G 2 ]
+Da die physikalische Größe als quantitative Eigenschaft eines gegebenen Objektes oder eines physikalischen Systems selbst unabhängig
+von der vom Beobachter willkürlich getroffenen Wahl einer Einheit
+ist, die ihrer Messung zugrunde gelegt wurde, folgt aus der Identität
+G = G:
+{G 1} * [G 1 ] = {G 2 } * [G 2 ]
+Besteht zwischen den Einheiten [G 1 ] und [G 2 ] eine proportionale
+Beziehung
+[ G 2 ] = k*[ G 1 ],
+wobei der Proportionalitätsfaktor k einen Umrechnungsfaktor darstellt, so gilt:
+G = {G 1} * [G 1 ] = {G 1 } *
+
+[G 2 ]
+k
+
+= {G 2 } * [G 2 ]
+
+Damit erhält man den zur Einheit [G 2 ] der physikalischen Größe G
+gehörenden Zahlenwert {G 2 } :
+
+53
+
+3 Umrechnung von Einheiten
+
+{G 2 } =
+
+{G 1}
+k
+
+Dabei gilt:
+
+Eine physikalische Größe G ändert sich nicht, wenn
+sie auf eine andere Einheit [G] umgerechnet wird..
+G ist im Gegensatz zu ihrem Zahlenwert {G} invariant gegenüber einem Wechsel der Einheit.
+Je größer die gewählte Einheit [G], desto kleiner der Zahlenwert {G}
+der Messung und umgekehrt: Desto kleiner die Einheit, umso größer
+der Zahlenwert.
+Beispiele:
+
+a) Ein in den Vereinigten Staaten gefertigter Zirkonium-Stab besitzt die Länge l = 2,500 Yard. Für die in den USA übliche Längenangabe l = { l1 } * [ l1 ] in britischen Längeneinheiten
+[ l1 ] = 1 yd = 3 ft = 3*12 in = 36 in
+gilt:
+l = 2,500 yd = 7,500 ft = 90,00 in
+Wird die Länge l = {l 2 } * [l 2 ] desselben Stabes in der
+metrischen Einheit [l 2 ] = m angegeben, so lautet die Längenangabe l = 2,286 m.
+Es ist nämlich:
+
+[ l 2 ] = k * [ l1 ]
+
+Definitionsgemäß ist: [l1 ] = 1 yd = 0,9144 m
+Damit folgt für den Umrechnungsfaktor k:
+k=
+
+[l 2 ]
+[l1 ]
+
+{l 2 } =
+
+=
+
+{l1 }
+k
+
+1 m
+0,9144 m
+
+=
+
+= 1,0936
+
+2,500
+= 2,286
+1,0936
+
+l = {l 2 } * [l 2 ] = 2,286 m
+
+b) Die Geschwindigkeit v = 100 km/h soll von der Einheit
+
+54
+
+2.4 Einheiten außerhalb des SI mit beschränktem Anwendungsbereich
+
+[G 1 ] = km/h auf die Einheit [G 2 ] = m/s umgerechnet werden.
+Es ist:
+v = {G 1} * [G 1 ] = {G 2 } * [G 2 ]
+[ G 2 ] = k * [G 1 ]
+1km
+m 1000
+km
+1 =
+= 3,6
+1h
+s
+h
+3600
+k = 3,6
+{G 2 } =
+{G 2 } =
+
+{G 1}
+k
+100
+= 27,8 .
+3,6
+
+Mit v = {G 2 } * [G 2 ] ergibt sich :
+v = 27,8
+
+m
+s
+
+Daher gilt: 1 km/h = 0,278 m/s.
+
+55
+
+4 Skalare und Vektoren
+
+4
+
+Skalare und Vektoren
+
+Die Mathematik ist die Sprache der Natur- und Ingenieurwissenschaften. Ein gewisses Repertoire an mathematischen Kenntnissen
+und Fähigkeiten muss daher rechtzeitig zur Verfügung stehen. Dieser Abschnitt soll daher eine an den Bedürfnissen der Physik orientierte Einführung in die Vektorrechnung liefern.
+
+4.1
+
+Skalare Größen
+
+Physikalische Größen, die durch Zahlenwert und Einheit eindeutig festgelegt sind, nennt man Skalare oder
+skalare Größen.
+Skalare sind somit Größen, die nicht richtungsabhängig sind und die
+keine räumliche Orientierung besitzen.
+Beispiele:
+
+Zeit t, Masse m, Temperatur T, Volumen V, Dichte ρ , Energie
+E, Druck p
+Der Zahlenwert des Skalars stellt dabei eine von der gewählten Einheit der physikalischen Größe abhängige Maßzahl dar. So ist beispielsweise die physikalische Größe Zeit t ein Skalar, denn sie hängt
+nicht von irgendeiner Raumrichtung ab, wie es für vektorielle Größen typisch ist.
+
+4.2
+
+Vektorielle Größen
+
+Physikalische Größen, die durch Zahlenwert, Einheit
+und Richtung eindeutig charakterisiert sind, nennt man
+Vektoren oder vektorielle Größen.
+
+Beispiele:
+r
+r
+r
+r
+Weg s , Geschwindigkeit v , Beschleunigung a , Kraft F
+
+Vektoren werden durch ein Pfeilsymbol gekennzeichnet.
+Den Zahlenwert eines Vektors mit der dazugehörigen Einheit nennen
+r
+r
+wir den Betrag des Vektors, geschrieben durch | s | oder | v |. Der
+Betrag eines Vektors ist ein Skalar. Ebenso sind alle reellen Zahlen
+Skalare. In diesem Sinne besitzen die reellen Zahlen die Einheit Eins.
+Sie sind somit dimensionslos. Die x-Koordinate oder x-Komponente
+eines festen Punktes ist dagegen kein Skalar. Ihr Zahlenwert hängt
+nämlich von der Richtung ab, in der die x-Achse des Koordinatensystems im Raum gewählt wurde.
+
+56
+
+4.3 Komponentendarstellung von Vektoren
+
+Beispiele:
+
+r
+r
+s = |s |, v = |v|
+Vektoren sind somit Größen, die einen Betrag und eine Richtung
+haben. Graphisch werden Vektoren, wie in Abbildung 11 gezeigt,
+durch Pfeile repräsentiert, deren Länge den Betrag (Quantität) und
+deren Lage samt Pfeilspitze die Richtung des jeweiligen Vektors
+angeben. Man sagt auch, dass die Pfeilspitze den Richtungssinn eines
+Vektors kennzeichnet.
+
+Abb. 11: Vektoren, repräsentiert durch Pfeile im Raum
+
+4.3
+
+Komponentendarstellung von Vektoren
+
+Zahlenmäßig werden Vektoren im dreidimensionalen Raum durch
+Zahlentripel ( x 1 , x 2 , x 3 ) oder (x, y, z) beschrieben, welche die drei
+
+Komponenten eines Vektors darstellen und die von der Wahl des
+Bezugssystems abhängen. Die drei Komponenten werden dabei
+durch Kommata voneinander getrennt und das so entstandene Zahlentripel wird durch runde Klammern zu einem Vektor genannten
+mathematischen Gebilde zusammengefasst. Bei waagrechter Anordnung der drei Komponenten bildet das Zahlentripel einen Zeilenvektor
+r
+a = (x1 , x 2 , x 3 ) .
+Werden dagegen die Komponenten untereinander (senkrecht) angeordnet, so erhält man einen Spaltenvektor
+
+x 
+r  1
+a = x2  .
+ 
+ x3 
+Beide Schreibweisen sind mathematisch äquivalent. Im Folgenden
+wird hier ausschließlich die Vektordarstellung in Form von Zeilenvektoren verwendet. Der Vektor selbst ist im Gegensatz zu seinen
+Komponenten eine durch Betrag und Richtung charakterisierte Größe, die unabhängig von der Wahl des Bezugssystems ist. Das heißt:
+Durch eine Verschiebung und/oder eine andere Orientierung der
+
+57
+
+4 Skalare und Vektoren
+
+Koordinatenachsen infolge einer Drehung des Koordinatensystems
+ändert ein gegebener Vektor weder seinen Betrag (seine Länge) noch
+seine Richtung. Natürlich hängt die Skalierung der Koordinatenachsen von der gewählten Einheit ab, in der die physikalische Größe
+angegeben werden soll. Die Wahl der Einheit legt die Skalierung der
+Koordinatenachsen fest und bestimmt dadurch den Zahlenwert, d. h.
+den Betrag der vektoriellen Größe. Die physikalische Größe selbst
+bleibt allerdings dadurch unverändert; sie interessiert sich nicht für
+die vom Experimentator willkürlich gewählte Darstellungsform.
+Das Wesen eines Vektors kann mit Hilfe einer Verschiebung veranschaulicht werden. Eine Verschiebung ist durch zwei Punkte im
+Raum, P1 und P2 , und durch einen Pfeil von P1 nach P2 gekennzeichnet. In Abbildung 12 ist eine solche Verschiebung im Zweidimensionalen gezeigt.
+
+Abb. 12: Vektordarstellung durch Punktverschiebung
+Als Bezugssystem für die mathematische Beschreibung von Vektoren wird das kartesische Koordinatensystem gewählt, das aus drei
+zueinander senkrecht stehenden Achsen besteht, die als x-, y- und zAchse bezeichnet werden. Man kann sich das dreidimensionale kartesische Koordinatensystem
+r orthogonale Einheitsvektor rdurch drei
+r r
+ren
+oder
+Basisvektoren
+,
+und
+k
+aufgespannt
+denken.
+i
+j
+i , j und
+r
+k sind die Einheitsvektoren (Vektoren mit der Länge oder dem Betrag 1) in Richtung der positiven Koordinatenachsen.
+ri = (1,0,0)
+rj = (0,1,0)
+k = (0,0,1)
+
+Die Einheitsvektoren haben jeweils den Betrag Eins.
+
+r
+r
+r
+| i | = | j | = |k | = 1
+58
+
+4.3 Komponentendarstellung von Vektoren
+
+r
+Eine Kraft F wird in einem solchen Koordinatensystem durch einen
+Kraftpfeil oder Kraftvektor dargestellt, dessen Länge die Größe der
+Kraft und dessen Richtung, die aus der Lage im Koordinatensystem
+hervorgeht, die Wirkungsrichtung der Kraft angibt. Da Kräfte immer
+an definierten Punkten angreifen, nämlich dem Angriffspunkt der
+Kraft, stellen sie ortsgebundene Vektoren da, die einer festen Stelle
+r
+im Raum zugeordnet sind. Sei F ein Kraftvektor, dessen Anfangspunkt gemäß Abbildung 7 im Ursprung des Koordinatensystems
+r
+liegt. Mit Hilfe der Projektionen x F , y F und z F des Vektors F
+
+auf die drei Koordinatenachsen kann sowohl die Richtung als auch
+r
+der Betrag der Kraft angeben werden. Der Vektor der Kraft F ergibt
+sich als:
+
+r
+r
+r
+r
+F = x F i + yF j + zFk
+x F , y F und z F sind die Maßzahlen der Projektionsstrecken in
+Richtung der positiven Koordinatenachsen. Sie stellen die Koordinar
+ten des Vektors F dar.
+
+Abb. 13: Komponentenzerlegung eines Kraftvektors
+r
+Für die Komponenten des Vektors F gilt dann:
+x F = Fx
+
+y F = Fy
+z F = Fz
+
+r
+Der Betrag des Vektors F , also seine Länge F, ergibt sich als die
+Länge einer Raumdiagonale in einem Quader mit den Kantenlängen
+x F , y F und z F . Unter Anwendung des Satzes von Pythagoras
+
+erhält man:
+r
+F= F =
+
+x F2 + y F2 + z F2
+
+59
+
+4 Skalare und Vektoren
+
+4.4
+
+Gleichheit von Vektoren
+
+r
+r
+Zwei Vektoren a und b heißenr gleich, wenn sie in Betrag und Richr
+tung übereinstimmen. Aus a = b folgt dann:
+(a x , a y , a z ) = ( b x , b y , b z )
+Oder in Komponentenschreibweise:
+a x = bx
+
+ay = by
+az = bz
+
+Zwei Vektoren sind somit gleich, wenn ihre Komponenten paarweise
+übereinstimmen. Im Vergleichrzur Komponentenschreibweise err
+laubt das Vektorkonzept (a = b) eine kompaktere Kurzschreibweise.
+In der Abbildung 14 sind
+r für den zweidimensionalen Fall zwei gleir
+che Vektoren a und b dargestellt, die durch Parallelverschiebung
+auseinander hervorgehen.
+
+Alle Punktverschiebungen sind unabhängig von ihrem
+Ausgangspunkt äquivalent und bezeichnen denselben
+Vektor, wenn sie parallel in die gleiche Richtung verlaufen und den gleichen Betrag besitzen.
+
+r
+r
+Abb. 14: Darstellung gleicher Vektoren a und b
+
+4.5
+
+Rechnen mit Vektoren
+
+Im Rahmen der Vektoralgebra sind folgende mathematische Operationen zwischen zwei Vektoren definiert:
+–
+
+60
+
+Addition
+
+4.5 Rechnen mit Vektoren
+
+–
+
+Subtraktion
+
+–
+
+Multiplikation mit einem Skalar
+
+–
+
+Skalarprodukt
+
+–
+
+Vektorprodukt
+
+4.5.1
+
+Addition und Subtraktion zweier Vektoren
+
+r
+r
+Die Addition zweier Vektoren a und b führt man aus, indem man
+ihre Komponenten paarweise addiert. Die Summe von
+r
+r
+a = (a x , a y , a z ) und b = ( b x , b y , b z ) ergibt sich zu:
+r r
+a + b = (a x + b x , a y + b y , a z + b z )
+r
+r
+r
+r r
+a + b = (a x + b x ) i + ( a y + b y ) j + (a z + b z ) k
+
+Das Ergebnis der Vektoraddition ist in Abbildung 15 für den zweidimensionalen Fall gezeigt.
+
+Abb.15: Vektoraddition
+Geometrisch ergibt sich die Vektoraddition aus der Tatsache,
+dass
+r
+r
+zwei hintereinander ausgeführte Verschiebungen a und b addiert
+r
+und durch eine Verschiebung c ersetzt werden können. Die hierauf
+beruhende Konstruktion der Summe zweier Vektoren ist als Parallelogrammgesetz der
+r Vektoraddition bekannt. Dabei wird rder
+Anfangspunkt von b durch Verschiebung an
+die Spitze von a ger r
+r
+setzt. Die Summe der beiden Vektoren a + b ergibt den Vektor c ,
+
+61
+
+4 Skalare und Vektoren
+r
+r
+der am Anfangspunkt von a beginnt und an der Spitze von b endet.
+Eine Veranschaulichung dieses Sachverhalts gibt Abbildung 16.
+
+Die Vektoraddition ist kommutativ:
+r r r r
+a+b = b+a
+a
+
+a+b
+
+b
+
+b
+
+b+a
+
+a
+
+Abb. 16: Parallelogrammgesetz der Vektoraddition
+Die Vektoraddition erfüllt auch das assoziative Gesetz:
+
+r r r
+r r r
+a + ( b + c ) = ( a + b) + c
+In Worten: Die Summe einer endlichen Anzahl von Vektoren ist
+unabhängig von der Reihenfolge, in der sie addiert werden.
+
+4.5.2
+
+Multiplikation eines Vektors mit einem Skalar
+
+r
+Wird ein Vektor a = (a x , a y , a z ) mit einem Skalar λ ∈ R multiplir
+ziert, so erhält man einen neuen Vektor b = ( b x , b y , b z ) und es gilt:
+
+r
+r
+b = λ a = ( λ a x , λa y , λ a z )
+r
+r
+Der Vektor b besitzt den Betrag b =| λ | a . Der Vektor b ist parallel
+r
+r
+zu a , wenn λ > 0 und antiparallel zu a , wenn λ < 0 ist. Für die
+Multiplikation mit einem Skalar λ gilt schließlich auch das distributive Gesetz:
+r
+r r
+r
+λ (a + b ) = λ a + λ b
+
+r
+r r r
+Aus a − b = a + (−1 ⋅ b) folgt für die Differenz zweier Vektoren:
+r r
+a − b = (a x − b x , a y − b y , a z − b z )
+Beispiele:
+
+Es seien:
+
+62
+
+4.5 Rechnen mit Vektoren
+r
+r
+a = (2,1,3), b = (1,−2,−1) und λ = 5 .
+Dann ist:
+r r
+a + b = ( 2,1,3) + (1,−2,−1) = (3,−1,2)
+r r
+a − b = ( 2,1,3) − (1,−2,−1) = (1,3,4)
+r
+λ a = 5( 2,1,3) = (10,5,15) .
+
+Ein Vektor vom Ursprung 0 eines Koordinatensystems zu dem Ort
+r
+eines Punktes P wird Ortsvektor r genannt. Mit Hilfe von Ortsvektoren kann jede beliebige Stelle des Raumes eindeutig charakterisiert
+werden. Ortsvektoren sind gebundene Vektoren mit festgelegtem
+r
+Anfangs- und Endpunkt. Für den Ortsvektor r gilt:
+
+r r
+r
+r
+r = x i + yj + zk = ( x, y, z)
+Dieser Sachverhalt ist in Abbildung 11 veranschaulicht. Der Vektor
+r
+r
+− r besitzt den gleichen Betrag r =| r |= x 2 + y 2 + z 2 wie der
+r
+r
+Ortsvektor r , aber die entgegengesetzte Richtung. Der Vektor − r
+r
+ist antiparallel zu r . Sein Anfangspunkt liegt dann in P und sein
+Endpunkt liegt im Ursprung 0 des Koordinatensystems
+z
+
+r
+z k
+
+y
+
+x i
+
+x
+
+y j
+
+Abb. 17: Ortsvektordarstellung
+
+4.5.3
+
+Multiplikation zweier Vektoren
+
+Neben der Addition und Subtraktion von Vektoren ist im Rahmen
+der Vektoralgebra auch die Vektormultiplikation erklärt. Man unterscheidet zwei Arten von Produkten zweier Vektoren
+
+63
+
+4 Skalare und Vektoren
+r
+r
+a = (a x , a y , a z ) und b = ( b x , b y , b z ) , das Skalarprodukt und das
+
+Vektorprodukt:
+–
+
+Skalare Multiplikation zweier Vektoren
+
+v r
+a⋅b = λ
+–
+
+Vektorielle Multiplikation zweier Vektoren
+
+r r r
+a×b=c
+r
+r
+Das Skalarprodukt oder innere Produkt zweier Vektoren a und b
+ist definiert als:
+r r r r
+a ⋅ b =| a | ⋅ | b | cos α = ab cos α
+Das Skalarprodukt wird gelegentlich auch als Punktprodukt
+r ber
+zeichnet. Dabei ist α der von den beiden Vektoren a und b eingeschlossene Winkel. Eine Skizze dieses Sachverhalts zeigt Abbildung
+18. Das Skalarprodukt ist kein Vektor sondern eine skalare Größe.
+Wegen des Auftretens des Terms cos α in der Definition des Skalarprodukts gilt:
+
+r
+r
+r
+r r
+r
+Sind a und b parallel, dann ist α =r 0 und a ⋅ b = ab . Sindr a und b
+r
+r
+a und b senkrecht
+antiparallel, dann ist α = π und a ⋅ b = −ab . Sind
+r r
+zueinander gerichtet, dann ist α = π / 2 und a ⋅ b = 0 .
+rr r
+Für das Skalarprodukt der orthogonalen Einheitsvektoren i , j, k gilt
+gemäß obiger Definition:
+r r r r
+ri ⋅ rj = rj ⋅ ir = 0
+rj ⋅ kr = kr ⋅ rj = 0
+ri ⋅ kr = rk ⋅ri = r0 r
+i ⋅ i = j⋅ j = k ⋅k =1
+Damit lässt sich das Skalarprodukt zweier Vektoren auch aus ihren
+Komponenten berechnen:
+
+r
+r
+r
+r
+r
+r
+r r
+a ⋅ b = (a x i + a y j + a z k ) ⋅ ( b x i + b y j + b z k ) = a x b x + a y b y + a z b z
+Das Skalarprodukt wird geometrisch dadurch
+gebildet, indem ein
+r
+r
+Vektor, z. B. a auf den anderen, z. B. b projiziert wird und dann
+die
+r Länge dieser Projektion a ⋅ cos α mit dem Betrag b des Vektors
+b multipliziert wird. Bei der Bezeichnung der Komponenten eines
+r
+beliebigen Vektors a werden anstelle der Indizes x, y und z auch die
+Zahlen 1, 2 und 3 zur Kennzeichnung der einzelnen Komponenten
+verwendet. Es ist dann:
+(a x , a y , a z ) = ( a 1 , a 2 , a 3 )
+
+64
+
+4.5 Rechnen mit Vektoren
+
+Oder in Komponentenschreibweise:
+a x = a 1 , a y = a 2 und a z = a 3 .
+
+y
+
+a
+b
+
+α
+
+a cos α
+
+0
+
+x
+
+Abb. 18: Skalarprodukt zweier Vektoren
+Beispiel:
+
+r
+r
+Es seien: a = (2,1,3), b = (1,−2,−1)
+r r
+Dann ist das Skalarprodukt oder Innere Produkt a ⋅ b :
+r r
+a ⋅ b = (2,1,3) ⋅ (1,−2,−1) = 2 ⋅1 + 1 ⋅ (−2) + 3 ⋅ (−1) = 2 − 2 − 3 = −3 .
+r
+r
+Der Betrag a = a eines beliebigen Vektors a ergibt sich aus der
+Beziehung
+
+r r
+a = a 2x + a 2y + a 2z = a ⋅ a .
+Für das obige Beispiel erhält man damit die Beträge:
+r
+a = a = + 14
+
+r
+b= b =+ 6.
+Da der Betrag eines Vektors seine Länge repräsentiert, ist er stets
+positiv.
+
+r r r
+Das Vektorprodukt
+oder
+äußere
+Produkt
+c
+= a × b zweier Vektoren
+r
+r
+r
+a und b ist definiert als ein Vektor vom Betrag c =| c |= ab sinrα ,
+r
+dessen Richtung senkrecht auf der durch die Vektoren a und b aufgespannten Ebene steht. Das Vektorprodukt wird gelegentlich auch
+als Kreuzprodukt bezeichnet.
+
+65
+
+4 Skalare und Vektoren
+
+c = ab sin α
+c
+
+b
+
+a
+
+Abb. 19: Betrag des Vektorproduktes als Parallelogrammfläche
+
+r
+Zur Richtungsfestlegung des Produktvektors c dient die so genannte
+Rechte-Hand-Regel:
+Streckt man die rechte Hand in Richtung des ersten
+r
+Faktors ar und biegt die Finger in Richtung des zweiten
+Daumen in
+Faktors b , dann weist der abgespreizte
+r r r
+Richtung des Produktvektors c = a × b .
+
+Diese Richtungsregel kann entsprechend Abbildung 20 auch mit
+Hilfe des Ganges einer Rechtsschraube veranschaulicht werden:
+r
+r
+Dreht man den Vektor a um den Winkel α zum Vektor b im Sinne
+einer Rechtsschraube,
+so bewegt sich die Schraube in Richtung des
+r r r
+Vektors c = a × b .
+
+c
+
+a
+
+b
+
+Abb. 20: Definition des Vektorproduktes
+
+Aus der Definition ergeben sich folgende Gesetze für das Vektorprodukt:
+
+r r r r r
+a×a = b×b =0
+r r
+r r
+a × b = −b × a
+r
+r
+Für den Nullvektor 0 gilt: 0 = (0,0,0)
+
+66
+
+4.5 Rechnen mit Vektoren
+
+r
+r
+Zwei vom Nullvektor verschiedene Vektoren a und b sind genau
+dann parallel
+oder antiparallel,
+r wenn das Vektorprodukt verschwinr r r
+r
+det ( a × b = 0 ). Sind a und b parallel,
+r so ist α = 0 und sin α = 0 .
+r
+Für antiparallele Vektoren a und b ist α = π und ebenfalls
+sin α = 0 .
+r r
+Für die
+r Einheitsvektoren im kartesischen Koordinatensystem i , j
+und k ergeben sich folgende Vektorprodukte:
+r r
+r r r
+ir × rj = − rj × ir = kr
+rj × kr = −kr × rj = ri
+kr × ri = r− i ×
+rk=
+r jr r
+i × i = j× j = k×k =0
+Mit diesen Beziehungen lässt sich das Vektorprodukt in der Komponentendarstellung berechnen:
+
+r
+r
+r
+r r
+a × b = (a y b z − a z b y ) i + (a z b x − a x b z ) j + (a x b y − a y b x ) k
+Durch Einführung
+einer Hilfsdeterminante kann das vektorielle Pror r
+dukt a × b in abkürzender Form geschrieben werden:
+r
+i
+
+r r
+a × b = ax
+bx
+
+r
+j
+
+r
+k
+
+ay
+by
+
+az
+bz
+
+Zur Berechnung des Vektorproduktes ist die Hilfsdeterminante nach
+den üblichen Regeln der Determinantenrechnung zu entwickeln. Die
+Entwicklung der Hilfsdeterminante beispielsweise nach der ersten
+Zeile liefert:
+
+r r ray
+a×b= i
+by
+
+az
+
+ra
+−j x
+bz
+bx
+
+az r ax
++k
+bx
+bz
+
+ay
+
+by
+
+.
+
+Nach Entwicklung der Determinanten folgt schließlich:
+r
+r
+r r r
+a × b = i ( a y b z − a z b y ) − j (a x b z − a z b x ) + k (a x b y − a y b x )
+Beispiel:
+
+r
+r
+Es seien: a = (2,1,3), b = (1,−2,−1)
+r r
+Dann ist das Vektorprodukt oder Äußere Produkt a × b :
+r r
+a × b = (2, 1, 3) × (1, − 2, − 1) = (5, 5, − 5) .
+
+67
+
+4 Skalare und Vektoren
+
+4.6
+
+Polare und axiale Vektoren
+
+In der Physik kommen zwei verschiedene Arten von Vektoren zur
+Anwendung, die polaren und die axialen Vektoren. Sie unterscheiden sich mathematisch durch ihr unterschiedliches Verhalten bei
+Raumspiegelung am Ursprung des Koordinatensystems. Diese
+Raumspiegelung wird Inversion oder Paritätsoperation genannt und
+r
+mit dem Symbol P bezeichnet. Bei polaren Vektoren p bewirkt die
+Inversion/Paritätsoperation P die Umkehr des Vorzeichens:
+r
+r
+P p = −p
+Durch diese Gleichung soll in Kurzschreibweise folgender Sachverr
+halt ausgedrückt werden: Wird ein polarer Vektor p einer Raumspiegelung unterworfen, so erhält man nach Durchführung der
+Raumspiegelung den mit negativen Vorzeichen versehenen Vektor
+r
+−p.
+Der Ausführung der Raumspiegelung entspricht mathematisch die
+r
+Anwendung der Paritätsoperation P auf den gegebenen Vektor p .
+Als Ergebnis dieser mathematischen Operation erhält man den mit
+entgegengesetztem Vorzeichen versehenen Ausgangsvektor. Eine
+Raumspiegelung eines Koordinatensystems transformiert die Koordinatenachsen x in –x, y in –y und z in –z. Das Ergebnis der Raumspiegelung kann aus dem ungespiegelten System nicht durch Drehungen gewonnen werden. Mit anderen Worten: Ein rechtshändiges
+Koordinatensystem kann nicht durch Drehung in ein linkshändiges
+Koordinatensystem überführt werden.
+Beispiel:
+
+r
+Ortsvektor r :
+r
+r
+P r = −r
+Nun stellt sich die Frage, was hat diese offensichtlich mathematische
+Eigenschaft mit Physik zu tun? Das Universum wird von nur 4 fundamentalen Kräften, die auch als Wechselwirkungen bezeichnet werden, beherrscht: Starke Kraft, elektromagnetische Kraft, schwache
+Kraft und Gravitationskraft. Die schwache Wechselwirkung ist die
+einzige dieser vier Fundamentalkräfte, die zwischen links und rechts
+unterscheidet und dadurch in physikalischer Sprechweise die Paritätssymmetrie verletzt. Das heißt, Teilchen und ihre Spiegelbilder
+verhalten sich physikalisch unterschiedlich. Die drei Elementarteilchen, Elektron, Proton und Neutron, aus denen alle Materie aufgebaut ist, besitzen einen halbzahligen Eigendrehimpuls, der als Spin
+bezeichnet wird. Sie werden Fermionen genannt. Solche Teilchen
+können links- oder rechtshändig sein, d. h. sie verhalten sich entweder wie eine Rechts- oder wie eine Linksschraube (Abb. 21).
+
+68
+
+4.6 Polare und axiale Vektoren
+
+Abb. 21: Eigendrehimpuls (Spin) und Händigkeit (Chiralität)
+links: rechtshändiges Teilchen; rechts: linkshändiges Teilchen
+
+Zeigt der Daumen der rechten/linken Hand in Bewegungsrichtung
+des Teilchens, so weisen die geschlossenen Finger der jeweiligen
+Hand in eine Drehrichtung, die dem Uhrzeiger/Gegenuhrzeigersinn
+entspricht. Der Drehsinn erlaubt zwei Möglichkeiten: Fermionen
+können einen Spin in eine dieser beiden Richtungen aufweisen. Sie
+besitzen eine Händigkeit (Chiralität, gr. cheir: Hand) und sind damit
+entweder rechts- oder linkshändig. Hochenergieexperimente in der
+Elementarteilchenphysik zeigen nun, dass nur linkshändige Teilchen
+die schwache Wechselwirkung spüren. Die schwache Wechselwirkung wirkt nicht auf rechtshändige Teilchen und verletzt dadurch die
+Paritätssymmetrie genannte Spiegelsymmetrie. Ein physikalisches
+Experiment, welches die Spiegelsymmetrie verletzt führt zu Ergebnissen, die eine Unterscheidung ermöglichen, ob das Experiment in
+einem Spiegel betrachtet wird oder nicht. Das spiegelbildliche Experiment zeigt Ergebnisse, die tatsächlich nicht beobachtet werden.
+Chirale Objekte sind nicht rotationssymmetrisch und besitzen die
+Eigenschaft, das ihr Spiegelbild nicht durch Drehung mit dem Originalobjekt zur Deckung gebracht werden kann. Diese Eigenschaft der
+rechten und linken Hand führte zur Begriffsbildung „Händigkeit“.
+Neben Elementarteilchen können auch Moleküle chiral sein. In Abb.
+22 ist dies am Beispiel eines organischen Moleküls gezeigt.
+
+Abb. 22: Händigkeit am Beispiel eines Aminosäuremoleküls
+(Bildquelle: wikipedia.org/wiki/Chiralität_(Chemie)
+
+69
+
+4 Skalare und Vektoren
+
+Zurück zur Unterscheidung von polaren und axialen Vektoren: Weir
+tere Beispiele für polare Vektorenrsind: Geschwindigkeit v , Ber
+r
+schleunigung a , Impuls p , Kraft F
+r r
+r
+Für die orthonormalen Basisvektoren i , j und k gilt:
+r
+r r
+P i = −i = i ′
+r
+r r
+P j = − j = j′
+r
+r r
+P k = −k = k ′
+Durch Inversion (Raumspiegelung
+r r r am Nullpunkt des Koordinatensystems) der Basisvektoren i , j, k geht das rechtshändige x-, y -, zKoordinatensystem in ein linkshändiges x'-, y'-, z'-Koordinatensystem über (Abb. 23).
+
+z
+x'
+k
+i'
+j
+
+j'
+
+y
+
+y'
+i
+
+x
+
+k'
+
+z'
+
+Abb. 23: Rechtshändiges und linkshändiges kartesisches Koordinatensystem
+
+r
+r
+Der polare Vektor r geht bei Raumspiegelung in - r über. Für seine
+Komponenten gelten somit folgende Transformationsformeln:
+x → −x
+y → −y
+z → −z
+Polare Vektoren sind Vektoren, die sich bei Raumdrehungen wie Verschiebungsvektoren transformieren und
+bei einer Raumspiegelung des Koordinatensystems ihr
+Vorzeichen ändern.
+
+70
+
+4.6 Polare und axiale Vektoren
+
+Axiale Vektoren sind freie Vektoren, d.h. sie sind parallel zu sich
+selbst verschiebbar und daher an keine Wirkungslinie gebunden.
+Richtung und Drehsinn axialer Vektoren sind miteinander verknüpft.
+Der axiale Vektor schreitet bei Drehung wie eine rechtsgängige
+Schraube fort. Blickt man in Richtung des axialen Vektors, so erfolgt
+r
+die Drehung im Uhrzeigersinn. Ein axialer Vektor a ist daher ein
+mathematisches Objekt, das neben räumlicher Lage und Länge noch
+die Angabe eines Drehsinns erfordert und der unter Raumspiegelung
+(Inversion P) sein Vorzeichen beibehält. Denn bei einer Koordinatentransformation ( x → − x , y → − y , z → −z ) bleibt der Drehsinn
+erhalten. So bleibt beispielsweise eine Rechtsschraube auch nach
+Raumspiegelung eine Rechtsschraube.
+r r
+Pa = a
+Axiale Vektoren sind Vektoren, die sich bei Raumdrehungen wie Verschiebungsvektoren transformieren, bei
+einer Raumspiegelung des Koordinatensystems ihr
+Vorzeichen aber nicht ändern.
+
+Es gelten daher folgende Beziehungen:
+r
+r
+r
+(P i ) 2 = (P j) 2 = (P k ) 2 = 1
+r
+r
+r
+r
+r
+r
+(P i ) ⋅ (P j) = (P j ) ⋅ (P k ) = (P k ) ⋅ (P i ) = 0
+r
+r
+r
+(P i ) × (P j) = -P k
+r
+r
+r
+(P j) × (P k ) = -P i
+r
+r
+r
+(P k ) × (P i ) = -P j
+Beispiele:
+
+r
+r r
+r r r r
+(P i ) 2 = P i ⋅ P i = − i ⋅ − i = i ⋅ i = 1
+r
+r
+r r r r
+(P j ) ⋅ ( P k ) = − j ⋅ − k = j ⋅ k = 0
+r
+r
+r
+r r r r
+r
+(P k ) × (P i ) = − k × − i = k × i = j = -P j
+r
+Für das Vektorprodukt aus zwei beliebigen polaren Vektoren p i und
+r
+axialen Vektoren a i gilt:
+
+r r
+r
+pi × p j = a k
+r
+r r
+ak × al = am
+
+71
+
+4 Skalare und Vektoren
+r r
+r
+ai × p j = pk
+r
+r r
+pk × a l = pm
+Durch die verschiedenen Indizes soll der Tatsache Rechnung getragen werden, dass es sich um beliebige voneinander verschiedene
+Vektoren handelt. Das Vektorprodukt aus einem polaren und einem
+axialen Vektor ist ein polarer Vektor, da der Produktvektor nach
+Raumspiegelung sein Vorzeichen ändert.
+Beispiel:
+
+r r r
+v = ω× r
+Für identische polare bzw. axiale Vektoren gilt:
+
+r
+r r
+pi × pi = 0
+und
+
+r
+r
+r
+ak × ak = 0 .
+Beispiel:
+
+r
+Der Drehimpuls L eines Massenpunktes ist definiert als das
+r
+Vektorprodukt aus den beiden polaren Vektoren
+Ortsvektor r
+r
+r
+und Impulsvektor p . Der Produktvektor L des Drehimpulses ist
+ein axialer Vektor und es gilt:
+r r
+PL = L
+Der Beweis dieser Beziehung ergibt sich aus der Definition des
+Drehimpulses:
+
+r r r r
+r
+L = r × p = r × mv
+s
+r
+Das Vektorprodukt zweier polarer
+Vektoren r und p liefert eir
+nen axialen Vektor, nämlich L . Weil beide polare Vektoren ihr
+Vorzeichen bei einer Raumspiegelung ändert, bleibt das Vorzeichen des Produktes unverändert.
+
+r
+r
+r
+P L = P( r × mv )
+r
+r
+r
+r
+r r
+r r
+P L = (P r ) × (P mv) = (− r ) × (− mv) = r × mv = L
+r
+Weitere axiale Vektoren sind: Winkelgeschwindigkeit ω , Winkelber
+r
+schleunigung α , Drehmoment M .
+
+72
+
+4.6 Polare und axiale Vektoren
+
+Das Skalarprodukt zweier polarer Vektoren liefert einen
+r Skalar, wie
+das Beispiel der Arbeit W zeigt, die durch eine Kraft F verrichtet
+r
+wird, die an einen Körper angreift und diesen dabei um den Weg s
+verschiebt.
+Beispiel:
+
+r r
+W = F⋅ s
+Skalare verändern bei Raumspiegelung ihr Vorzeichen nicht.
+
+r r
+r r
+r
+r r r
+P W = P (F ⋅ s ) = P F ⋅ P s = (− F) ⋅ (− s ) = F ⋅ s = W
+Allgemein gilt für jeden Skalar λ :
+
+Pλ = λ
+Das Skalarprodukt zweier axialer Vektoren liefert ebenfalls einen
+Skalar, wie
+r das Beispiel der Leistung P zeigt, die durch ein Drehmoment M verursacht wird, welches an einer rotierenden Welle
+r
+angreift, die mit der Winkelgeschwindigkeit ω rotiert.
+Beispiel:
+
+r r
+P = M⋅ω
+r r
+r
+r r r
+P P = P (M ⋅ ω) = P M ⋅ P ω = M ⋅ ω = P
+Abschließend soll das Skalarprodukt eines polaren mit einem axialen Vektor betrachtet werden. Als Ergebnis erhält man eine skalare
+mathematische Größe, die bei Raumspiegelung ihr Vorzeichen
+wechselt.
+Man bezeichnet sie als Pseudoskalar.
+Ein solcher Pseudoskalar ist die Helizität H, nämlich das Skalarpror
+dukt aus dem polaren Impulsvektor p und dem axialen Spinvektor
+r
+L S , der eine Art inneren Drehimpuls (Eigendrehimpuls z. B. von
+Elementarteilchen um eine körperfeste Achse) darstellt. Die Helizität
+wird auf den Betrag Eins normiert und es gilt:
+r
+p ⋅ LS
+H= r r
+p LS
+Beispiel:
+
+Neutrinos sind elektrisch ungeladene Elementarteilchen, und zwar
+Fermionen, die zur Gruppe der so genannten Leptonen (gr. leptos:
+leicht) gehören, und die sich von ihren Antiteilchen, den so genann-
+
+73
+
+4 Skalare und Vektoren
+
+ten Antineutrinos durch ihre Helizität unterscheiden. Neutrinos haben stets die Helizität H = -1 und Antineutrinos immer H = +1. Neutrinosr existieren damit nur in Zuständen, in denen ihr axialer Spinvekr
+tor L S und ihr polarer Impulsvektor p in entgegengesetzte Richtungen weisen, also antiparallel sind. Antineutrinos existieren
+dagegen
+r
+ausschließlich in Zuständen, in denen ihr Spinvektor LS und ihr
+r
+Impulsvektor p dieselbe Richtung haben, also parallel orientiert
+sind.
+An dieser Stelle sei eine Warnung vor der oft gerühmten Anschaulichkeit erlaubt. Formalmathematische Strukturen unterliegen nur der
+Logik und sind nicht anschauungsgebunden. Vergeblich bemühte
+Anschauung stellt dann eher ein Verständnishindernis dar. Aber auch
+die physikalischen Eigenschaften der Elementarteilchen entziehen
+sich weitgehend der bildhaften Vorstellbarkeit. Alle Messungen deuten darauf hin, dass es sich bei ihnen nicht um miniaturhafte Kügelchen mit definiertem Radius handelt. Nach heutigem Erkenntnisstand
+(2016) müssen vielmehr die Elementarteilchen Elektron und Neutrino als punktförmig aufgefasst werden. Elektronen besitzen zusätzlich
+eine Ruhemasse. Sie haben somit keine messbare Ausdehnung und
+auch keine begrenzende Oberfläche. Sie besitzen aber einen Spin, in
+Form eines Eigendrehimpulses um eine körpereigene Achse. Dabei
+dreht sich quasi ein Nichts mit messbaren physikalischen Eigenschaften und mit zwei Drehmöglichkeiten (linksrum oder rechtsrum)
+um sich selbst.
+Auch Photonen, die masselosen Lichtquanten, haben die Helizität
+H = ±1 . Wie bei den Neutrinos ist auch hier die Helizität gleich der
+Chiralität oder Händigkeit. Es gibt genau zwei Händigkeiten, die
+analog einer Rechts- und Linksschraube durch Raumspiegelung ineinander übergehen. Jeder Spiegel vertauscht rechtshändig und linkshändig. Photonen sind dabei entweder rechts- oder linkshändig. Bei
+Lichtemission werden immer gleich viele Photonen mit H = +1 und
+H = -1 ausgesandt.
+
+74
+
+5.1 Testfragen
+
+5
+
+Wiederholungstest
+
+Die nachfolgend aufgeführten Testfragen haben eine oder mehrere
+richtige Lösungen. Von den vorgegebenen Antwortalternativen sind
+jeweils die Buchstaben der richtigen Lösungen anzugeben.
+
+5.1
+
+Testfragen
+
+Aufgabe 1
+
+Welche physikalische Größe ist ein Vektor?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Arbeit
+Temperatur
+Druck
+Kraft
+Zeit
+
+Aufgabe 2
+
+Welche physikalische Größe ist kein Skalar?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Masse
+Länge
+Dichte
+Beschleunigung
+Stoffmenge
+
+Aufgabe 3
+
+a) Welche Größen sind Skalare?
+(A)
+(B)
+(C)
+(D)
+(E)
+(F)
+
+Kraft
+Geschwindigkeit
+Beschleunigung
+Dichte
+Stoffmenge
+Teilchenzahl
+
+Welche physikalischen Größen sind Vektoren?
+(A)
+(B)
+(C)
+(D)
+(E)
+(F)
+
+Masse
+Gewichtskraft
+Beschleunigung
+Temperatur
+Zeit
+Weg
+
+75
+
+5 Wiederholungstest
+
+Aufgabe 4
+
+Welche der folgenden Größen ist keine Basisgröße im SI-System?
+(A)
+(B)
+(C)
+(D)
+
+Masse
+Länge
+Elektrische Stromstärke
+Dichte
+
+Aufgabe 5
+
+Welche Aussage trifft nicht zu?
+Im internationalen Einheitensystem (SI) ist als Basisgröße eingeführt
+(A)
+(B)
+(C)
+(D)
+(E)
+
+Masse
+elektrische Ladung
+Stoffmenge
+Zeit
+Temperatur
+
+Aufgabe 6
+
+Welche Masse ist gleich 1 µg ?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+10 − 3 kg
+10 − 6 kg
+10 − 8 kg
+10 − 9 kg
+10 −12 kg
+
+Aufgabe 7
+
+Die Dichte eines Stoffes
+
+76
+
+(1)
+(2)
+(3)
+(4)
+
+ist eine Basisgröße
+ist definiert als Produkt aus Masse und Volumen
+hängt von der Temperatur des Stoffes ab
+hat die Einheit kg / m 3
+
+(A)
+(B)
+(C)
+(D)
+(E)
+
+nur 1 und 2 sind richtig
+nur 1 und 3 sind richtig
+nur 3 und 4 sind richtig
+nur 1, 2 und 4 sind richtig
+keine der Aussagen trifft zu
+
+5.1 Testfragen
+
+Aufgabe 8
+
+Welche der folgenden Beziehungen trifft nicht zu?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+1 nm = 10 − 9 m
+1 GW = 10 9 W
+1 kg = 10 3 g
+1 mA = 10 3 A
+1ps = 10 −12 s
+
+Aufgabe 9
+
+r
+Gegeben seien die beiden Kräfte F1 = (2 N, 0, 0) und
+r
+F2 = (0, 12 N, 0) , die an einem Massenpunkt angreifen. Wie groß
+r r r
+ist die Resultierende F = F1 + F2 ?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+r
+F= 2N
+F
+r = 12 N
+F
+r = (2 + 12 ) N
+F = (2 N, 12 N, 0)
+r
+F = (2 N + 12 N, 0, 0)
+
+Aufgabe 10
+
+r
+Gegeben seien die beiden Kräfte F1 = (2 N, 0, 0) und
+r
+F2 = (0, 12 N, 0) , die an einem Massenpunkt angreifen. Berechnen
+r r r
+r
+Sie den Betrag F = F der Resultierenden F = F1 + F2
+(A)
+(B)
+(C)
+(D)
+(E)
+
+F=2N
+F = 12 N
+F = (2 + 12 ) N
+F=4N
+F = 12 N
+
+Aufgabe 11
+
+r
+Gegeben seien die beiden Kräfte F1 = (2 N, 0, 0) und
+r
+F2 = (0, 12 N, 0) , die an einem Massenpunkt angreifen. Welchen
+r
+r
+Winkel α bildet F1 mit der Resultierenden F ?
+(A)
+(B)
+(C)
+(D)
+(E)
+
+α
+α
+α
+α
+α
+
+= 15°
+= 30°
+= 45°
+= 60°
+= 75°
+
+77
+
+5 Wiederholungstest
+
+Aufgabe 12
+
+Wie lauten die nachfolgend aufgeführten Winkel im Gradmaß bzw.
+im Bogenmaß?
+2
+π rad
+3
+1
+π rad
+b)
+4
+c) 105°
+a)
+
+d) 30°
+
+5.2
+
+Lösungen der Testfragen
+
+Aufgabe 1
+Aufgabe 2
+Aufgabe 3
+Aufgabe 4
+Aufgabe 5
+Aufgabe 6
+Aufgabe 7
+Aufgabe 8
+Aufgabe 9
+Aufgabe 10
+Aufgabe 11
+Aufgabe 12
+
+78
+
+D
+D
+a) D, E, F b) B, C, F
+D
+B
+D
+C
+D
+D
+D
+D
+a) 120° b) 45° c) 1,8326 rad d) 0,5236 rad
+
+5.2 Lösungen der Testfragen
+
+6
+
+Zusammenfassung
+
+Physikalische Größen beschreiben Eigenschaften und Beschaffenheit
+von realen Objekten und Vorgängen. Jede physikalische Größe G ist
+durch ein Messverfahren bestimmt und wird durch das Produkt aus
+Zahlenwert {G} von G und Einheit [G] von G definiert.
+G = {G} ⋅ [G ]
+Alle Einheiten von physikalischen Größen können auf sieben Basisgrößen zurückgeführt werden. Diese Basisgrößen bilden das international festgelegte SI-System. Die drei Basisgrößen der Mechanik
+sind Länge l, Masse m und Zeit t. Ihre Basiseinheiten sind das Meter
+(m), das Kilogramm (kg) und die Sekunde (s). Alle anderen physikalischen Größen der Mechanik leiten sich von diesen drei Basisgrößen
+als abgeleitete oder zusammengesetzte Größen ab. In der Thermodynamik kommt eine weitere Basisgröße hinzu, die absolute Temperatur T mit der Einheit Kelvin (K). Hinsichtlich ihrer mathematischen
+Struktur unterteilt man die physikalischen Größen in skalare und
+vektorielle Größen. Skalare physikalische Größen sind durch Zahlenwert (Maßzahl) und Einheit eindeutig festgelegt. Ihnen kann keine
+Richtung zugeordnet werden. Wichtige Beispiele für skalare Größen
+sind: Masse, Länge, Zeit, Temperatur, Stoffmenge, Arbeit, Dichte,
+Druck, Energie, Leistung. Physikalische Größen, denen nicht nur
+Zahlenwert und Einheit, sondern auch eine Richtung im Raum zugeordnet werden kann, heißen vektorielle Größen. Vektoren sind gerichtete Größen, für deren vollständige Angabe drei Zahlenwerte, die
+sog. Komponenten erforderlich sind. Beim Rechnen mit Vektoren
+muss deren Richtung berücksichtigt werden. Die entsprechenden
+Rechenregeln liefert die Vektoralgebra. Beispiele für vektorielle
+Größen sind: Weg, Geschwindigkeit, Beschleunigung, Impuls, Kraft,
+Drehmoment.
+
+79
+
+7 Übungen
+
+7
+
+7.1
+
+Übungen
+
+Übungsaufgaben
+
+Aufgabe 1 (E)
+
+Große Entfernungen können durch Dreiecksvermessung (Triangulation) bestimmt werden. Soll beispielsweise eine unbekannte Entfernung eines Punktes C von einem Punkt A bestimmt werden, so wird
+zunächst eine Basisstrecke c = AB ausgemessen. Von deren Endpunkten A bzw. B werden dann die Winkel α bzw. β gemessen,
+welche die Visierlinien mit dem Punkt C bilden. Skizzieren Sie das
+Dreieck ABC und berechnen Sie die Entfernung b = AC. Gegeben
+sind:
+c = AB = 5000 m, α = 60 o , β = 45 o
+Aufgabe 2 (M)
+
+Den ersten Hinweis auf die Kugelgestalt der Erde lieferte Aristoteles
+(384 - 322), dem aufgefallen war, dass der Schatten der Erde bei
+Mondfinsternissen stets kreisförmig ist. Die erste auf einer Messung
+basierende Berechnung des Erdumfangs lieferte Erastosthenes von
+Kyrene (276 - 195), ein vielseitiger Gelehrter, der zugleich Direktor
+der Bibliothek von Alexandria war.
+In Assuan steht die Sonne mittags am 21. Juni genau im Zenit und
+spiegelt sich in einen tiefen lotrechten Brunnen. Zur selben Zeit wirft
+800 km nördlich von Assuan in Alexandria ein 8 Fuß langer senkrecht stehender Stab einen 1 Fuß langen Schatten. Da die Sonne sehr
+weit entfernt ist, können die Sonnenstrahlen für beide Orte als parallel angenommen werden. Bestimmen Sie daraus, wie Erastosthenes,
+den Erdradius und den Erdumfang!
+Aufgabe 3 (E)
+
+Führen Sie folgende Umrechnungen von Maßeinheiten durch:
+a)
+
+Das Volumen V = 1 cm 3 ist in der Einheit [V2 ] = m 3
+darzustellen.
+
+b) Die Dichte von Eisen ρ = 7,86 g / cm 3 ist in der Einheit
+[ρ 2 ] = kg / m 3 anzugeben.
+c)
+
+80
+
+Die Energie E = 1 kWh ist in der Einheit [E 2 ] = J anzugeben.
+
+7.1 Übungsaufgaben
+
+Aufgabe 4 (E)
+
+Geben Sie von den folgenden physikalischen Größen die SIEinheiten an: Temperatur T, Kraft F, Druck p, Dichte ρ , Stoffmenge
+n und Volumen V.
+Aufgabe 5 (E)
+
+Geben Sie die Masse m = 0,5 µg in Kilogramm und die Länge
+l = 800 nm in Metern an.
+Aufgabe 6 (E)
+
+Geben Sie an welche der folgenden physikalischen Größen skalar
+bzw. vektoriell sind: Zeit, Temperatur, Kraft, Druck, Geschwindigkeit, Stoffmenge, Volumen
+Aufgabe 7 (E)
+
+Ein Molekül legt im Zeitintervall ∆t = 6 ms eine Wegstrecke
+∆s = 30 µm zurück. Wie groß ist seine Geschwindigkeit in m/s ?
+Aufgabe 8 (M)
+
+Die Ortsvektoren der Punkte A und B relativ zum Ursprung O eines
+kartesischen Koordinatensystems seien:
+r r
+r
+r r
+r
+r
+r
+rA = i − j + 2k bzw. rB = 5 i + j + 6k
+Berechnen Sie den Abstand AB zwischen den Punkten A und B!
+Aufgabe 9 (E)
+
+r
+r
+Gegeben seien die Vektoren a = (3,7,2)r und b = (1,3 ,1)
+r r
+r
+Zeigen Sie: Das Vektorprodukt c = a × b liefert
+einen Vektor c , der
+r
+r
+auf den beiden Ausgangsvektoren a und b senkrecht steht.
+Aufgabe 10 (S)
+
+Es stellt sich die Frage, ob in Umkehrung des Vektorproduktes auch
+durch Vektoren dividiert
+werden kann. Dazu soll die Lösbarkeit
+der
+r
+r r r
+r
+Gleichung a × x = b mit gegebenen Vektoren a und b untersucht
+werden.
+
+81
+
+7 Übungen
+
+7.2
+
+Lösungen der Übungsaufgaben
+
+Lösung der Aufgabe 1
+
+Die Berechnung der gesuchten Entfernung b = AC kann mit Hilfe
+des Sinussatzes erfolgen.
+
+Eine Formulierung des Sinussatzes lautet:
+Das Verhältnis einer Seitenlänge zum Sinus des gegenüberliegenden
+Winkels ist innerhalb eines Dreiecks konstant.
+
+In mathematischer Kurzschreibweise:
+a
+b
+c
+=
+=
+sinα sinβ sinγ
+Für das vorliegende Dreieck gilt:
+b
+c
+=
+sinβ sinγ
+b=c
+
+sin β
+sin γ
+
+α + β + γ = 180°
+Mit den gegebenen Größen c = 5000 m, α = 60° und β = 45° ergibt
+sich:
+γ = 75° und b = 3660 m.
+Lösung der Aufgabe 2
+
+Da die Sonne sehr weit von der Erde entfernt ist (etwa 1,5 ⋅ 1011 m )
+können die Sonnenstrahlen, welche die Erdoberfläche erreichen, als
+parallel zueinander angenommen werden.
+
+82
+
+7.2 Lösungen der Übungsaufgaben
+
+Sonnenstrahlung
+
+ϕ
+
+Assuan
+
+Alexandria
+
+ϕ
+
+Während die Sonne in Assuan im Zenit steht, wirft zur selben Zeit
+im 800 km nördlich von Assuan gelegenen Alexandria ein H = 8 Fuß
+langer senkrechter Stab einen S = 1 Fuß langen Schatten. Assuan und
+Alexandria liegen dabei etwa auf dem gleichen Längengrad.
+
+ϕ
+H = 8 Fuß
+S = 1 Fuß
+
+H
+
+S
+
+Im obigen rechtwinkligem Dreieck ist:
+tanϕ =
+
+S 1
+=
+H 8
+
+ϕ = arctan
+
+S
+1
+= arctan = 7,125°
+H
+8
+
+Durch den Winkel von etwa ϕ = 7° wird die Bogenlänge L, nämlich
+die bekannte Entfernung von Assuan nach Alexandria (8oo km) eingeschlossen.
+Für einen Kreis mit dem Umfang U gilt:
+ϕ : L = 360° : U
+U=
+
+360°
+L = 40421 km
+ϕ
+
+Da U = 2πR E ist, folgt für den Erdradius R E = 6433 km.
+
+83
+
+7 Übungen
+
+Lösung der Aufgabe 3
+
+a) Das Volumen V = 1 cm 3 soll von der Einheit E 1 = cm 3 auf die
+Einheit E 2 = m 3 umgerechnet werden. Es ist:
+V = Z1 E 1 = Z 2 E 2
+E 2 = k * E1
+1 m 3 = 10 6 cm 3
+k = 10 6
+Z2 =
+Z2 =
+
+Z1
+k
+1
+10
+
+6
+
+= 10 − 6
+
+Es gilt:
+1 cm 3 = 10 − 6 m 3
+b) Die Dichte von Eisen ρ = 7,86 g / cm 3 soll von der Einheit
+E 1 = g / cm 3 auf die Einheit E 2 = kg / m 3 umgerechnet werden.
+Es ist:
+ρ = Z1 E1 = Z 2 E 2
+E 2 = k * E1
+1 kg
+1m
+
+3
+
+=
+
+10 3 g
+6
+
+10 cm
+
+3
+
+= 10 − 3
+
+g
+cm 3
+
+k = 10 − 3
+Z2 =
+Z2 =
+
+Z1
+k
+7,86
+10 − 3
+
+= 7860 und
+
+ρ = 7860 kg / m 3
+
+84
+
+ρ = Z2E 2
+
+7.2 Lösungen der Übungsaufgaben
+
+Es gilt:
+1 g / cm 3 = 1000 kg / m 3
+c) Die Energie E = 1 kWh soll von der Einheit E 1 = kWh auf die
+Einheit E 2 = J umgerechnet werden.
+Es ist: E = Z1 E 1 = Z 2 E 2
+E 2 = k * E1
+1 J = 1 Ws =
+
+k=
+
+1 kW 1 h
+1
+⋅
+=
+1000 3600 3,6 ⋅ 10 6
+
+1
+3,6 ⋅ 10 6
+
+Z2 =
+
+Z2 =
+
+Z1
+k
+
+1
+1
+
+= 3,6 ⋅ 10 6
+
+3,6 ⋅ 10 6
+mit E = Z 2 E 2 ergibt sich:
+E = 3,6 ⋅ 10 6 J
+Es gilt: 1 kWh = 3,6 ⋅ 10 6 J = 3,6 MJ
+
+Lösung der Aufgabe 4
+
+[T] = K, [F] = N, [p] = N / m 2 = Pa,
+[ ρ ] = kg / m 3 , [n] = mol, [V] = m 3
+
+Lösung der Aufgabe 5
+
+m = 0,5 µg = 0,5 ⋅ 10 −6 g = 5 ⋅ 10 −7 g = 5 ⋅ 10 −10 kg
+l = 800 nm = 800 ⋅ 10 − 9 m = 8 ⋅ 10 − 7 m = 0,8 µm
+
+85
+
+7 Übungen
+
+Lösung der Aufgabe 6
+
+Für die genannten Größen gilt: Skalare physikalische Größen sind:
+Zeit, Temperatur, Druck, Stoffmenge und Volumen.
+
+Vektorielle physikalische Größen sind: Kraft und Geschwindigkeit.
+Lösung der Aufgabe 7
+
+Ein Molekül legt im Zeitintervall ∆t = 6 ms eine Wegstrecke
+∆s = 30 µm zurück. Für die Molekülgeschwindigkeit v in m/s folgt:
+v=
+
+∆s 30 µm 30 ⋅ 10 − 6 m
+m
+=
+=
+= 5 ⋅ 10 − 3
+−
+3
+∆t
+6 ms
+s
+6 ⋅ 10 s
+
+Lösung der Aufgabe 8
+
+Die Ortsvektoren der Punkte A und B relativ zum Ursprung O eines
+kartesischen Koordinatensystems seien:
+
+r r
+r
+r r
+r
+r
+r
+rA = i − j + 2k bzw. rB = 5 i + j + 6k
+Für den Abstand AB zwischen den Punkten A und B folgt: Der Vekr
+r
+r
+r
+tor rA − rB weist von der Spitze von rB zur Spitze von rA . Er verr
+r
+bindet somit die beiden Punkte A und B. Sein Betrag  rA − rB 
+entspricht somit dem gesuchten Abstand AB.
+
+r
+r
+rA − rB = (1,−1,2) − (5,1,6) = (1 − 5,−1 − 1,2 − 6) = (−4,−2,−4)
+r
+r
+AB =  rA − rB = (−4) 2 + (−2) 2 + (−4) 2 = 36 = 6
+
+Lösung der Aufgabe 9
+
+r r r
+Für das Vektorprodukt c = a × b gilt definitionsgemäß:
+r r r
+c = a × b = (a y b z − a z b y , a z b x − a x b z , a x b y − a y b x )
+r
+r
+c = a × b = (7 ⋅ 1 − 2 ⋅ 3, 2 ⋅ 1 − 3 ⋅ 1, 3 ⋅ 3 − 7 ⋅ 1) = (1,−1,2)
+r
+Der Produktvektor c steht auf den beiden Ausgangsvektoren senkrecht, wenn für die Skalarprodukte gilt:
+r r
+r r
+a ⋅ c = ab cos α = 0 und b ⋅ c = bc cos β = 0
+
+86
+
+7.2 Lösungen der Übungsaufgaben
+
+α stellt den Winkel dar, der von den beiden Vektoren eingeschlossen wird. Stehen die beiden Vektoren senkrecht aufeinander, so ist
+α = 90 o und cos 90 o = 0 . Senkrecht aufeinander stehende Vektoren
+werden auch als orthogonale Vektoren bezeichnet. Definitionsgemäß gilt für das Skalarprodukt:
+
+r r
+a ⋅ c = a x c x + a y c y + a z c z = 3 ⋅ 1 + 7 ⋅ −1 + 2 ⋅ 2 = 0
+r r
+Damit gilt: a ⊥ c
+r r
+Analog folgt: b ⋅ c = 1 ⋅ 1 + 3 ⋅ −1 + 1 ⋅ 2 = 0
+r r
+Damit gilt: b ⊥ c
+Lösung der Aufgabe 10
+
+In Umkehrung des Vektorproduktes kann nicht
+durch Vektoren dir r r
+vidiert werden, d.h. die Gleichung a × x = b ist nicht eindeutig lösbar.
+
+r
+r
+Ausgehend von einem Vektor a kann jeder Vektor x in einen Anr
+teil parallel (║) bzw. senkrecht (┴) zu dem Vektor a zerlegt werden:
+r r
+r
+x = xC + x⊥ .
+
+r r
+In das Vektorprodukt a × x geht dabei nur die senkrechte Kompor
+r
+nente x ⊥ des Vektors x ein.
+r r r r
+a×x = a×x⊥
+Es gilt nämlich:
+
+r r
+a × x ⊥ = a x ⊥ sin90° = a x ⊥
+Wegen x ⊥ = x sinα gilt betragsmäßig:
+
+r r r r
+a × x = a × x⊥
+
+87
+
+7 Übungen
+r
+r
+r
+Da x ⊥ in der gleichen Ebene wie x liegt, erzeugt x ⊥ dieselbe
+r r
+r
+Richtung im Vektorprodukt a × x wie der Vektor x selbst.
+r r r r
+Es gilt daher: a × x = a × x ⊥
+r r r
+b
+Aus a × x = b folgt damit b = a x ⊥ oder x ⊥ = .
+a
+r
+Die Richtung des Vektors x ⊥ lässt sich wie folgt angeben: Da die
+r
+r r
+r r r
+Vektoren a , x ⊥ , b im Vektorprodukt a × x ⊥ = b ein Rechtssystem
+bilden, gilt dies auch für die durch zyklische Vertauschung entster r r
+hende Anordnung der Vektoren b , a , x ⊥ .
+Dabei werden die Anordnungen dreier Vektoren der Form 1, 2, 3 und
+2, 3, 1 sowie 3, 1, 2 zueinander zyklische Vertauschungen genannt.
+Die erlaubten zyklischen Anordnungen ergeben sich aus der folgenden Skizze.
+
+Alle durch zyklische Vertauschung entstandenen Vektorprodukte
+bilden jeweils ein Rechtssystem.
+
+r r
+r
+Der Vektor x ⊥ zeigt somit in Richtung von (b × a) . Der Einheitsr r
+r r
+r
+b×a
+vektor von x ⊥ in Richtung von (b × a) ist r r . Mit Hilfe seines
+b×a
+Betrages x ⊥ =
+
+b
+a
+
+r
+lässt sich der Vektor x ⊥ wie folgt darstellen:
+
+r r
+r
+b b×a
+x⊥ = r r
+a b×a
+r r
+r
+r r r
+r
+Wegen a × x = b ist b senkrecht zu a und es gilt: b × a = ba . Damit
+r
+erhält man schließlich für den Vektor x ⊥ die Darstellung:
+r r
+r
+(b × a)
+x⊥ =
+.
+a2
+
+88
+
+7.2 Lösungen der Übungsaufgaben
+r
+Der Vektor x C bleibt jedoch beliebig wählbar, so dass es unendlich
+r r r
+r r
+r
+viele Lösungen x = x C + x ⊥ der Gleichung a × x = b gibt.
+
+In Umkehrung des Vektorproduktes kann daher nicht
+durch Vektoren dividiert werden.
+
+89
+
+Anhang
+
+Anhang
+A1
+
+90
+
+Griechisches Alphabet
+
+A
+
+α
+
+Alpha
+
+N
+
+ν
+
+Ny
+
+B
+
+β
+
+Beta
+
+Ξ
+
+ξ
+
+Xi
+
+Γ
+
+γ
+
+Gamma
+
+O
+
+ο
+
+Omikron
+
+∆
+
+δ
+
+Delta
+
+Π
+
+π
+
+Pi
+
+E
+
+ε
+
+Epsilon
+
+Ρ
+
+ρ
+
+Rho
+
+Z
+
+ζ
+
+Zeta
+
+Σ
+
+σ
+
+Sigma
+
+H
+
+η
+
+Eta
+
+Τ
+
+τ
+
+Tau
+
+Θ
+
+ϑ
+
+Theta
+
+Υ
+
+υ
+
+Ypsilon
+
+Ι
+
+ι
+
+Jota
+
+Φ
+
+ϕ
+
+Phi
+
+K
+
+κ
+
+Kappa
+
+Χ
+
+χ
+
+Chi
+
+Λ
+
+λ
+
+Lambda
+
+Ψ
+
+ψ Psi
+
+M
+
+µ
+
+My
+
+Ω
+
+ω Omega
+
+Anhang
+
+A2
+
+Formelzeichen
+
+Symbol
+
+Benennung
+
+Einheit
+
+α
+
+Winkel
+
+rad; Grad
+
+β
+
+Winkel
+
+rad; Grad
+
+γ
+
+Winkel
+
+rad; Grad
+
+∆t
+
+Zeitdauer
+
+s
+
+ρ
+
+Dichte
+
+kg/m3
+
+ϕ
+
+Winkel
+
+rad; Grad
+
+Ω
+
+Raumwinkel
+
+sr
+
+A
+
+Fläche
+
+m2
+
+A
+
+Beschleunigung
+
+m/s2
+
+C
+
+Lichtgeschwindigkeit
+
+m/s2
+
+F
+
+Kraft
+
+N
+
+F
+
+Frequenz
+
+Hz
+
+L
+
+Länge
+
+m
+
+M
+
+Masse
+
+kg
+
+ν
+
+Teilchendichte
+
+m-3
+
+N
+
+natürliche Zahl
+
+1
+
+N
+
+Stoffmenge
+
+mol
+
+N
+
+Drehzahl
+
+1/min
+
+P
+
+Druck
+
+Pa
+
+P
+
+Leistung
+
+W
+
+R
+
+Radius
+
+m
+
+S
+
+Weg
+
+m
+
+T
+
+Zeit
+
+s
+
+T
+
+Periodendauer
+
+s
+
+T
+
+Temperatur
+
+K
+
+U
+
+innere Energie
+
+J
+
+V
+
+Geschwindigkeit
+
+m/s
+
+V
+
+Volumen
+
+m3
+
+W
+
+Arbeit
+
+J
+
+91
+
+Anhang
+
+A3
+
+Literaturauswahl
+
+Und dann erweitern Bücher den Gesichtskreis.
+Wenn man sie nämlich liest.
+A. Polgar
+
+Kuchling, H.:
+
+Taschenbuch der Physik
+Fachbuchverlag Leipzig
+
+Lindner, H.:
+
+Physik für Ingenieure,
+Vieweg, Braunschweig
+
+Sexl, R. et al.:
+
+Das mechanische Universum, Bd 1,
+Moritz Diesterweg, Frankfurt a. M.
+
+Tipler, P.:
+
+Physik,
+Spektrum Akademischer Verlag,
+Heidelberg
+
+Bartsch, H.-J.:
+
+Taschenbuch mathematischer
+Formeln,
+Fachbuchverlag Leipzig
+
+Reinhardt, F.:
+
+dtv-Atlas Schulmathematik,
+Deutscher Taschenbuchverlag,
+München
+
+Roth, S. u. Stahl, A.:
+
+Mechanik und Wärmelehre,
+Springer Spektrum,
+Berlin Heidelberg
+
+Physikalische Fachliteratur gehört in den „Werkzeugkasten“ eines
+jeden Ingenieurs. Und da es ohne Mathematik nicht geht, kann auch
+eine „brauchbare“ mathematische Formelsammlung von großem
+Nutzen sein. Die genannten Werke von Helmut Lindner sowie von
+
+92
+
+Anhang
+
+Roman Sexl stellen elementare Einführungskurse in die Physik dar
+und wenden sich an Anfänger mit geringen Vorkenntnissen. Das
+Hochschul-Lehrbuch von Paul Tipler liefert eine umfassende Einführung in die Experimentalphysik. Aufgrund fortlaufender Aktualisierung seitens der Verlage, wurde auf die Nennung der jeweils gültigen
+Auflage sowie auf das Erscheinungsjahr verzichtet. Dabei gilt: Physik kann vorrangig aus technischer, mathematischer, naturphilosophischer, aber auch aus historischer oder soziologischer Perspektive
+dargestellt werden. Dieser unterschiedliche Zugang zur inhaltlich
+gleichen Physik, die je nach Autor unterschiedliche Art der Darstellung und thematische Gewichtung sowie der gewählte Abstraktionsgrad sollten mit dem erwarteten Anspruchsniveau des Lesers eine
+brauchbare Schnittmenge liefern. Jede Literaturauswahl ist subjektiv,
+daher ist ein Besuch einer Bibliothek immer hilfreich, um sich nach
+Leseproben für die persönlich geeignete Fachliteratur entscheiden zu
+können.
+
+93
+
+

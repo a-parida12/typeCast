@@ -1,0 +1,558 @@
+
+Schulbücher, Themen- und Arbeitshefte für den Physikunterricht (Sekundarstufe II) 
+(ohne Reihenfolge)
+
+
+
+	Schulbuch	Themen	
+	Impulse Physik 2 
+Klasse 11 
+Verlag: Klett 2002
+ISBN: 3-12-772510-8### Drawn Shape (ignored-not implemented yet)
+
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2381 by 3307, depth 1
+pict001.wmf
+
+	
+"        
+Kinematik
+"        
+Dynamik
+"        
+Gravitation
+"        
+Elektrisches Feld
+"        
+Schwingungen
+"        
+Wellen
+"        
+Wellenmodell des Lichtes	
+	Impulse Physik 2 
+Klasse 12-13
+Verlag: Klett 
+ISBN: 3-12-772540-X
+		
+Inhalt liegt nicht vor.	
+	Impulse Physik 2 
+Gesamtband
+Verlag: Klett 1997
+ISBN: 3-12-772500-0
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2381 by 3281, depth 1
+pict002.png	"        
+Kinematik
+"        
+Dynamik
+"        
+Gravitation
+"        
+Elektrisches Feld
+"        
+Magnetisches Feld
+"        
+Induktion
+"        
+Schwingungen
+"        
+Wellen
+"        
+Wellenmodell des Lichts
+"        
+Mikroobjekte
+"        
+Atomphysik	"      
+Struktur der Materie
+"        
+Elektronische Systeme
+"        
+Radioaktivität
+"        
+Kernphysik
+"        
+Thermodynamik
+"        
+Nichtlineare Physik
+"        
+Relativitätstheorie
+
+
+	
+	Kuhn Physik 2 
+
+Verlag: Westermann 2000
+ISBN: 3-14-152141-7
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2910 by 3995, depth 1
+pict003.png	"        
+Elemente der Mechanik
+"        
+Mechanische Schwingungen und Wellen
+"        
+Elemente der Thermodynamik
+"        
+Elektrizitätslehre
+"        
+Elektromagnetische Schwingungen und Wellen
+"        
+Relativität
+"        
+Quanten und Atome
+"        
+Kernphysik		
+	Physik Sek II 
+Gesamtband
+ 
+Verlag: Volk und Wissen 1995
+ISBN: 3-06-021172-8
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2997 by 4098, depth 1
+pict004.jpg	"        
+Mechanik
+"        
+Elektrizitätslehre
+"        
+Thermodynamik
+"        
+Optik
+"        
+Kernphysik
+"        
+Spezielle Relativitätstheorie		
+	Metzler Physik  
+
+Verlag: Schroedel 1998
+ISBN: 3-507-10700-7
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2997 by 4149, depth 1
+pict005.jpg	"        
+Mechanik
+"        
+Gravitation
+"        
+Mechanische Schwingungen und Wellen
+"        
+Wärmelehre
+"        
+Ladung und elektrisches Feld
+"        
+Bewegte Ladungsträger und magnetisches Feld
+"        
+Elektromagnetische Schwingungen und Wellen	"      
+Chaotische Vorgänge
+"        
+Relativitätstheorie
+"        
+Einführung in die Quantenphysik
+"        
+Atomphysik
+"        
+Elektronik und Festörperphysik
+"        
+Kernphysik
+"        
+Teilchenphysik
+"        
+Astrophysik
+"        
+Physik und Wissenschaftstheorie	
+	Dorn-Bader
+Physik 11 Ausgabe A
+Gymnasium SekII
+Verlag: Schroedel 1998
+ISBN: 3-507-10720-1### Drawn Shape (ignored-not implemented yet)
+
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4763 by 6668, depth 1
+pict006.wmf
+	
+"        
+Geradlinige Bewegungen und Kräfte
+"        
+Fall- und Wurfbewegungen
+"        
+Erhaltungssätze
+"        
+Kreisbewegungen
+"        
+Gravitation und Planetenbewegung
+"        
+Mechanische Schwingungen
+"        
+Wärmelehre		
+	Dorn-Bader
+Physik 11 Ausgabe B
+Gymnasium SekII
+Verlag: Schroedel 1998
+ISBN: 3-507-10721-X### Drawn Shape (ignored-not implemented yet)
+
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4763 by 6703, depth 1
+pict007.wmf
+	"        
+Geradlinige Bewegungen und Kräfte
+"        
+Fall- und Wurfbewegungen
+"        
+Erhaltungssätze
+"        
+Kreisbewegungen
+"        
+Gravitation und Planetenbewegung
+"        
+Das elektrische Feld		
+	Dorn-Bader
+Physik 11 Ausgabe C
+Gymnasium SekII
+Verlag: Schroedel 2000
+ISBN: 3-507-10723-6### Drawn Shape (ignored-not implemented yet)
+
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3572 by 5027, depth 1
+pict008.wmf
+	
+"        
+Geradlinige Bewegungen und Kräfte
+"        
+Fall- und Wurfbewegungen
+"        
+Erhaltungssätze
+"        
+Kreisbewegungen
+"        
+Gravitation und Planetenbewegung
+"        
+Mechanische Schwingungen
+"        
+Wärmelehre
+"        
+Das elektrische Feld		
+	Dorn-Bader
+Physik 12/13
+Gymnasium SekII
+Verlag: Schroedel 2000
+ISBN: 3-507-10722-8### Drawn Shape (ignored-not implemented yet)
+
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3895 by 5316, depth 1
+pict009.wmf
+	"        
+Das elektrische Feld
+"        
+Das Magnetfeld und Teilchen in Feldern
+"        
+Induktion und Wechselstrom
+"        
+Schwingungen
+"        
+Wellen
+"        
+Interferenzphänomene
+"        
+Physik des 20. Jahrhunderts
+"        
+Kerne und Teilchen		
+	Dorn-Bader
+Physik Gesamtband
+Gymnasium SekII
+Verlag: Schroedel 2000
+ISBN: 3-507-10724-4### Drawn Shape (ignored-not implemented yet)
+
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4046 by 5554, depth 1
+pict010.wmf
+	"        
+Geradlinige Bewegungen und Kräfte
+"        
+Fall- und Wurfbewegungen
+"        
+Erhaltungssätze
+"        
+Kreisbewegungen
+"        
+Gravitation und Planetenbewegung
+"        
+Wärmelehre
+"        
+Das elektrische Feld	"    
+Das Magnetfeld und Teilchen in Feldern
+"        
+Induktion und Wechselstrom
+"        
+Schwingungen
+"        
+Wellen
+"        
+Interferenzphänomene
+"        
+Physik des 20. Jahrhunderts
+"        
+Kerne und Teilchen	
+	Dorn-Bader
+Physik Arbeitsheft
+Interferenzphänomene
+Gymnasium SekII
+Verlag: Schroedel 2004
+ISBN: 3-507-10742-2	### Drawn Shape (ignored-not implemented yet)
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3572 by 5027, depth 1
+pict011.wmf
+CD-ROM:
+3-507-10738-4	CD-ROM mit Simulationsprogrammen nötig!
+Arbeitsblätter:
+"        
+Schall, Erdbeben, elektromagnetische Welle
+"        
+Huygens-Prinzip
+"        
+Reflexion von Wellen mit Zeigern dargestellt
+"        
+Brechung und Linsenabbildung mit Zeigern
+"        
+Beugung am Einzel- und Doppelspalt und am optischen Gitter	"      
+Schattenbildung und Spaltbeugung
+"        
+Cornu-Spirale und Fermat-Prinzip an beliebiger Kurve
+"        
+Michelson-Interferometer
+"        
+Kohärenz bei Interferenzexperimenten
+"        
+Bragg-Reflexion mit Zeigeraddition
+"        
+Holografie	
+	Dorn-Bader
+Physik Arbeitsheft
+Schwingungen u. Wellen
+Gymnasium SekII
+Verlag: Schroedel 2004
+ISBN: 3-507-10741-4	### Drawn Shape (ignored-not implemented yet)
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3572 by 5027, depth 1
+pict012.wmf
+CD-ROM:
+3-507-10738-4	CD-ROM mit Simulationsprogrammen nötig!
+Arbeitsblätter:
+"        
+Schwingungen mit rotierenden Zeigern dargestellt
+"        
+Zeiger bei fortschreitenden und stehenden Wellen 
+"        
+Frequenzmessung mit Resonanz
+"        
+Die Wellenmaschine als Experimentiergerät
+"        
+Fourieranalyse und synthese	Chaos:
+"        
+Was ist deterministisches Chaos & ?
+"        
+Nummerische und grafische Iteration
+"        
+Auf dem Weg zum Chaos  die Parabel
+"        
+Bifurkationen und Feigenbaum
+"        
+Physikalische Experimente und Computersimulationen	
+	Dorn-Bader
+Physik Arbeitsheft 
+Spez. Relativitätstheor.
+Gymnasium SekII
+Verlag: Schroedel 2002
+ISBN: 3-507-10739-2	### Drawn Shape (ignored-not implemented yet)
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3572 by 5027, depth 1
+pict013.wmf
+CD-ROM:
+3-507-10737-6	CD-ROM mit Simulationsprogrammen nötig!
+Arbeitsblätter:
+"        
+Hängt die Laufzeit von Radiosignalen von der Laufrichtung ab?
+"        
+Läuft für jeden die Zeit gleich ab?
+Wie lange braucht Licht?
+"        
+Werden schnelle Autos tatsächlich kürzer?	" 
+Was bedeutet gleichzeitig? &
+"        
+Radiosignale und Michelson-Versuch, relativistisch
+"        
+Lorentz-Transformation
+"        
+Du bist kürzer als ich.  Nein, du.
+"        
+Deine Uhr tickt langsamer.  Nein &
+"        
+Paradoxie zur Längenkontraktion; Aberration des Fixsternlichts
+& und noch 6 weitere Arbeitsblätter.	
+	Dorn-Bader
+Physik Arbeitsheft
+Quantenphysik
+Gymnasium SekII
+Verlag: Schroedel 2002
+ISBN: 3-507-10740-6	### Drawn Shape (ignored-not implemented yet)
+
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3572 by 5027, depth 1
+pict014.wmf
+CD-ROM: 3-507-10737-6	CD-ROM mit Simulationsprogrammen nötig!
+Arbeitsblätter:
+"        
+Klassische Teilchen und Quanten an Spalten
+"        
+Die skurrilen Eigenschaften der Quanten
+"        
+Knallertest und Welcher-Weg-Problem
+"        
+Wellen in der Quantenphysik	"     
+DeBroglie-Wellen, Wellenpakete, Unbestimmtheitsrelation
+"        
+Stehende Psi-Wellen &
+"        
+Schrödingergleichung am linearen Potentialtopf
+"        
+Wie löst man die S.-Gleichung f. d. linearen P.-Topf mithilfe einer Tabellenkalkulation
+"        
+Wasserstoff-Atom und S.-Gleichung
+& und noch 6 weitere Arbeitsblätter	
+	Physik 11      
+
+Mechanik Fundamentum
+
+Verlag: Oldenbourg
+1997 
+ISBN: 3-486-87565-5### Drawn Shape (ignored-not implemented yet)
+
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4498 by 5821, depth 1
+pict015.wmf
+	"        
+Einfache lineare Bewegungen
+"        
+Gesetze von Newton und ihre Anwendungen
+"        
+Erhaltungssätze
+"        
+Einfache krummlinige Bewegungen
+"        
+Gravitation
+"        
+Schwingungen und Wellen		
+	Physik 12 
+Elektrische und magnetische Felder &
+
+Verlag: Oldenbourg
+1997 
+ISBN: 3-486-87566-3### Drawn Shape (ignored-not implemented yet)
+
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4524 by 5821, depth 1
+pict016.wmf
+	"        
+Wiederholung Elektrizitätslehre
+"        
+Statische elektrische Felder
+"        
+Statische magnetische Felder
+"        
+Zeitlich veränderliche elektrische und magnetische Felder
+"        
+Elektromagnetische Schwingungen
+"        
+Elektromagnetische Wellen
+"        
+Lichtquanten		
+	Physik 13
+Mechanik Fundamentum
+
+Verlag: Oldenbourg
+1997 
+ISBN: 3-486-87565-5### Drawn Shape (ignored-not implemented yet)
+
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4551 by 5821, depth 1
+pict017.wmf
+	
+Inhalt liegt nicht vor.		
+	Physik Oberstufe 
+Ausgabe A Band1
+Verlag: Cornelsen
+1997
+ISBN: 
+3-464-03438-0	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3082 by 3844, depth 1
+pict018.jpg
+	"        
+Mechanik 
+"        
+Schwingungen und Wellen
+"        
+Thermodynamik		
+	Physik Oberstufe 
+Band 2 Grundkurse
+Verlag: Cornelsen
+1998
+ISBN: 
+3-464-03439-9	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2910 by 3916, depth 1
+pict019.png	"   
+Schwingungen und Wellen
+"        
+Optik
+"        
+Elektrizitätslehre
+"        
+Quanten, Atome, Kerne
+"        
+Relativitätstheorie, Kosmologie, Thermodynamik		
+	Physik Oberstufe 
+Gesamtband
+Verlag: Cornelsen
+1999
+ISBN: 
+3-464-03440-2
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2910 by 3916, depth 1
+pict020.png	"        
+Mechanik
+"        
+Thermodynamik
+"        
+Schwingungen und Wellen
+"        
+Optik
+"        
+Elektrizitätslehre
+"        
+Quanten, Atome, Kerne
+"        
+Relativitätstheorie, Kosmologie, Thermodynamik		
+	Kursthemen Physik  
+Spez. Relativitätstheorie, Atomphysik
+
+Verlag: Diesterweg 1995
+ISBN: 3-425-05054-0	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2997 by 4352, depth 1
+pict021.jpg	"     
+Spezielle Relativitätstheorie
+"        
+Quantenphysik 
+"        
+Kernphysik		
+	Kursthemen Physik  
+Schwingungen und Wellen, Optik
+
+Verlag: Diesterweg 1996
+ISBN: 3-425-05053-2	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2997 by 4336, depth 1
+pict022.jpg	"     
+Schwingungen und Wellen 
+"        
+Optik		
+	Kursthemen Physik  
+Mechanik, Thermodynamik
+
+Verlag: Diesterweg 1995
+ISBN: 3-425-05051-6	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2997 by 4318, depth 1
+pict023.jpg	"     
+Mechanik
+"        
+Thermodynamik		
+	Sek II
+Alle Themen
+
+Verlag: Duden / Paetec
+ISBN: 	Neu, noch nicht bewertet	"  
+		
+
+
+
+Anregungen und Wünsche an: detlef.kaack@li-hamburg.de 
+
+Link zur Lernbuchempfehlungsliste für Hamburger Gymnasien (PDF-Download): 
+
+www.schul-physik.de/Downloads.html 
+
+
+C. Krietemeyer April 2004 / D. Kaack April 2005

@@ -1,0 +1,472 @@
+Grundlagen der Physik fĂźr Realschulen in Bayern
+
+Grundlagen	 Â Physik	 Â fĂźr	 Â 8	 Â II/III	 Â 
+	 Â 
+Mechanik	 Â 
+LĂ¤nge	 Â đľ	 Â 
+(engl.	 Â length)	 Â 
+GrundgrĂśĂe	 Â 
+
+âđ = 1 Â m
+	 Â 
+
+Zeit	 Â t	 Â 
+(engl.	 Â time)	 Â 
+GrundgrĂśĂe	 Â 
+
+[t] = 1 Â s	 Â 
+	 Â 
+
+Masse	 Â m	 Â 
+(engl.	 Â mass)	 Â 
+GrundgrĂśĂe	 Â 
+
+[m] = 1 Â kg	 Â 
+
+Kraft	 Â đ Â 	 Â 
+(engl.	 Â force)	 Â 
+GrundgrĂśĂe	 Â 
+
+KrĂ¤fte	 Â kann	 Â man	 Â nur	 Â an	 Â ihren	 Â Wirkungen	 Â erkennen:	 Â 
+
+Vektorcharakter	 Â der	 Â 
+Kraft:	 Â 
+
+Angriffspunkt Â A Â 
+Betrag
+ Â  Â  Â Kraftpfeil Â F Â 
+Richtung
+
+Gleichgewicht	 Â 	 Â 
+von	 Â KrĂ¤ften	 Â 
+
+Zwei	 Â KrĂ¤fte,	 Â die	 Â an	 Â einem	 Â KĂśrper	 Â angreifen,	 Â sind	 Â im	 Â Gleichgewicht,	 Â wenn:	 Â 
+
+	 Â 
+
+â˘
+â˘
+
+MaĂ	 Â fĂźr	 Â die	 Â TrĂ¤gheit	 Â und	 Â Schwere	 Â eines	 Â KĂśrpers	 Â 
+ortsunabhĂ¤ngig	 Â 
+
+	 Â 
+
+Verformung	 Â eines	 Â KĂśrpers:	 Â 
+o
+dauerhaft	 Â (plastisch)	 Â 
+o
+vorĂźbergehend	 Â (elastisch)	 Â 
+â˘ Ănderung	 Â des	 Â Bewegungszustands	 Â eines	 Â KĂśrpers:	 Â 
+Der	 Â KĂśrper	 Â kann	 Â schneller	 Â oder	 Â langsamer	 Â werden	 Â und/oder	 Â seine	 Â 
+Bewegungsrichtung	 Â Ă¤ndern.	 Â 
+	 Â 
+F = 1 Â N	 Â (Newton)	 Â 
+â˘
+
+	 Â 
+
+â˘
+â˘
+â˘
+
+ihre	 Â Angriffspunkte	 Â auf	 Â derselben	 Â Wirkungslinie	 Â liegen,	 Â 
+sie	 Â dieselben	 Â BetrĂ¤ge	 Â und	 Â 
+entgegengesetzte	 Â Richtungen	 Â haben.	 Â 
+
+Gravitation	 Â 
+
+Alle	 Â KĂśrper	 Â ziehen	 Â sich	 Â gegenseitig	 Â an.	 Â 
+
+Gewichtskraft	 Â đđ 	 Â 
+
+Die	 Â Gewichtskraft	 Â F! 	 Â auf	 Â einen	 Â KĂśrper	 Â entsteht	 Â durch	 Â die	 Â gegenseitige	 Â An-Â­â
+ziehung	 Â (Gravitation)	 Â von	 Â Erde	 Â und	 Â KĂśrper,	 Â die	 Â mit	 Â wachsender	 Â Entfernung	 Â 
+von	 Â der	 Â Erde	 Â abnimmt.	 Â Die	 Â Gewichtskraft	 Â ist	 Â ortsabhĂ¤ngig.	 Â 
+Auf	 Â der	 Â Erde	 Â gilt:	 Â Auf	 Â eine	 Â 100	 Â g	 Â Tafel	 Â Schokolade	 Â wirkt	 Â eine	 Â Gewichtskraft	 Â 
+von	 Â ungefĂ¤hr	 Â einem	 Â Newton.	 Â 
+
+ÂŠ 2011 â Staatsinstitut fĂźr SchulqualitĂ¤t und Bildungsforschung â Abteilung Realschule
+
+[6]
+
+Grundlagen der Physik fĂźr Realschulen in Bayern
+
+Bau	 Â der	 Â KĂśrper	 Â 
+
+Es	 Â gibt	 Â feste,	 Â flĂźssige	 Â und	 Â gasfĂśrmige	 Â KĂśrper.	 Â Die	 Â KĂśrper	 Â bestehen	 Â aus	 Â sehr	 Â 
+kleinen	 Â Teilchen.	 Â Zwischen	 Â den	 Â Teilchen	 Â wirken	 Â (abstoĂende	 Â und	 Â anziehen-Â­â
+de)	 Â KohĂ¤sionskrĂ¤fte,	 Â deren	 Â Reichweiten	 Â gering	 Â sind.	 Â 
+fester	 Â Stoff	 Â 
+
+flĂźssiger	 Â Stoff	 Â 
+
+gasfĂśrmiger	 Â Stoff	 Â 
+
+	 Â 
+
+Form	 Â 
+
+unverĂ¤nderlich	 Â 
+
+passt	 Â sich	 Â der	 Â GefĂ¤Ă-Â­â nimmt	 Â den	 Â ganzen	 Â zur	 Â 
+form	 Â an	 Â 	 Â 
+VerfĂźgung	 Â stehenden	 Â 
+Raum	 Â ein	 Â 
+
+Volumen	 Â (bei	 Â konstanter	 Â 
+Temperatur)	 Â 
+
+unverĂ¤nderlich	 Â 
+
+UnverĂ¤nderlich	 Â 
+
+verĂ¤nderlich	 Â 
+
+makroskopisch	 Â 
+
+	 Â 
+
+Teilchenmodell	 Â 
+klein	 Â 
+
+klein,	 Â aber	 Â etwas	 Â 
+grĂśĂer	 Â als	 Â bei	 Â Fest-Â­â
+kĂśrpern	 Â 
+
+sehr	 Â groĂ	 Â 
+
+KohĂ¤sionskrĂ¤fte	 Â 
+
+sehr	 Â stark	 Â 
+
+weniger	 Â stark	 Â 
+
+fast	 Â keine	 Â 
+
+Anordnung	 Â der	 Â Teilchen	 Â 
+
+regelmĂ¤Ăig	 Â 
+(im	 Â Gitter)	 Â 
+
+gegeneinander	 Â ver-Â­â
+schiebbar	 Â 
+
+frei	 Â und	 Â unregelmĂ¤-Â­â
+Ăig	 Â 
+
+Art	 Â der	 Â Teilchenbewe-Â­â
+gung	 Â 
+
+Schwingen	 Â um	 Â feste	 Â  Schwingen	 Â um	 Â 
+Gleichgewichtslagen	 Â  wechselnde	 Â Gleich-Â­â
+gewichtslagen	 Â 
+
+	 Â 
+	 Â 
+
+mikroskopisch	 Â 
+
+Abstand	 Â zwischen	 Â den	 Â 
+Teilchen	 Â 	 Â 
+(im	 Â Vergleich	 Â zur	 Â Teil-Â­â
+chengrĂśĂe)	 Â 
+
+unregelmĂ¤Ăig	 Â 
+
+	 Â 
+
+ÂŠ 2011 â Staatsinstitut fĂźr SchulqualitĂ¤t und Bildungsforschung â Abteilung Realschule
+
+[7]
+
+Grundlagen der Physik fĂźr Realschulen in Bayern
+
+Mechanik	 Â 
+Volumenmessung	 Â 
+	 Â 
+	 Â 
+	 Â 
+Volumenberechnung	 Â 
+	 Â 
+Umrechnung	 Â 
+
+â˘
+â˘
+	 Â 
+
+FlĂźssigkeiten:	 Â mit	 Â kalibriertem	 Â Messzylinder	 Â 	 Â 
+unregelmĂ¤Ăig	 Â  geformte	 Â  feste	 Â  KĂśrper:	 Â  z.	 Â  B.	 Â  mit	 Â  ĂberlaufgefĂ¤Ă	 Â  und	 Â  einem	 Â 
+kalibrierten	 Â Messzylinder	 Â 
+
+z.	 Â B.	 Â Quader:	 Â V Â  =  Â a â b â c	 Â 
+	 Â 
+Die	 Â  Umrechnungszahl	 Â  zwischen	 Â  benachbarten	 Â  Volumeneinheiten	 Â  ist	 Â 
+1000 Â  10! :	 Â 
+	 Â 
+
+1 Â mÂł Â  = 1 â 10!  Â dmÂł
+1 Â dmÂł = 1 â 10!  Â cmÂł 	 Â 
+1 Â cmÂł = 1 â 10!  Â mm!
+FĂźr	 Â FlĂźssigkeiten	 Â und	 Â Gase:	 Â 
+1 Â âđ
+= 1 Â dm! 	 Â 
+1 Â mâđ = 1 Â cm!
+	 Â 
+
+Dichte	 Â Ď 	 Â 
+abgeleitete	 Â GrĂśĂe	 Â 
+
+Die	 Â Masse	 Â m	 Â eines	 Â homogenen	 Â Stoffes	 Â ist	 Â zu	 Â seinem	 Â Volumen	 Â V	 Â direkt	 Â propor-Â­â
+tional.	 Â 
+Die	 Â Dichte	 Â Ď	 Â eines	 Â Stoffes	 Â ist	 Â der	 Â Quotient	 Â aus	 Â der	 Â Masse	 Â und	 Â dem	 Â zugehĂśri-Â­â
+gen	 Â Volumen	 Â eines	 Â homogenen	 Â KĂśrpers:	 Â 	 Â 
+	 Â 
+
+!
+
+!"
+
+!
+
+d!Âł
+
+Ď = 	 Â 	 Â 	 Â mit	 Â 	 Â 	 Â  Ď = 1 Â 
+
+	 Â 
+
+	 Â 
+!"
+So	 Â  bedeutet	 Â  z.	 Â  B.	 Â  der	 Â  Wert	 Â  Ď!"#$% = 7,8 ! 	 Â  ,	 Â  dass	 Â  ein	 Â  EisenkĂśrper	 Â  mit	 Â  dem	 Â 
+!!
+Volumen	 Â von	 Â 1,0 Â dm! 	 Â eine	 Â Masse	 Â von	 Â 7,8 Â kg	 Â besitzt.	 Â 
+	 Â 
+!"
+Merke:	 Â 	 Â 	 Â Ď!"##$% = 1,0 Â  ! 	 Â 
+!!
+	 Â 
+!"
+!
+!"
+!
+GebrĂ¤uchlich	 Â sind	 Â die	 Â Einheiten:	 Â  Ď = 1
+= 1 ! = 1 Â 
+= 1 	 Â 
+!!Âł
+
+Reibungskraft	 Â F! 	 Â 
+	 Â 
+
+!!
+
+!"Âł
+
+!Âł
+
+Bei	 Â einem	 Â FestkĂśrper	 Â treten	 Â nur	 Â dann	 Â ReibungskrĂ¤fte	 Â auf,	 Â wenn	 Â 	 Â 
+	 Â 
+
+â˘
+â˘
+
+der	 Â  KĂśrper	 Â  durch	 Â  eine	 Â  Normalkraft	 Â  (Anpresskraft)	 Â  F! 	 Â  auf	 Â  eine	 Â  Unterlage	 Â 
+gepresst	 Â wird	 Â und	 Â 	 Â 
+gleichzeitig	 Â eine	 Â Kraft	 Â parallel	 Â zur	 Â gemeinsamen	 Â BerĂźhrflĂ¤che	 Â (von	 Â KĂśrper	 Â 
+und	 Â Unterlage)	 Â wirkt.	 Â 
+
+	 Â 
+Sie	 Â ist	 Â abhĂ¤ngig	 Â 	 Â 
+	 Â 
+
+â˘
+â˘
+
+vom	 Â Betrag	 Â der	 Â Normalkraft	 Â 
+sowie	 Â  von	 Â  der	 Â  Stoffart	 Â  und	 Â  OberflĂ¤chenbeschaffenheit	 Â  der	 Â  beteiligten	 Â 
+KĂśrper.	 Â 
+	 Â 
+F! = ÂľÎź â F! 	 Â 	 Â 	 Â wobei	 Â Âľ	 Â die	 Â Reibungszahl	 Â ist	 Â 
+
+ÂŠ 2011 â Staatsinstitut fĂźr SchulqualitĂ¤t und Bildungsforschung â Abteilung Realschule
+
+[8]
+
+Grundlagen der Physik fĂźr Realschulen in Bayern
+
+Arbeit	 Â W	 Â als	 Â 	 Â 
+ĂbertragungsgrĂśĂe	 Â 
+(engl.	 Â work)	 Â 	 Â 
+abgeleitete	 Â GrĂśĂe	 Â 	 Â 
+	 Â 
+
+An	 Â  einem	 Â  KĂśrper	 Â  wird	 Â  Arbeit	 Â  verrichtet,	 Â  wenn	 Â  eine	 Â  Kraft	 Â  F Â lĂ¤ngs	 Â  eines	 Â  Wegs	 Â  s Â 	 Â 
+wirkt.	 Â FĂźr	 Â  Â F Â  Â || Â  Â s Â 	 Â gilt:	 Â 
+	 Â 
+
+	 Â 
+Arten	 Â der	 Â Arbeit:	 Â 
+
+W = F â s	 Â 	 Â 	 Â mit	 Â 	 Â 	 Â [W] = 1 Â Nm = 1 Â J Â (Joule)	 Â 
+
+	 Â 
+
+â˘ Hubarbeit:	 Â W = F! â h	 Â 	 Â 	 Â und	 Â somit	 Â 	 Â 	 Â W = m â g â h	 Â 
+â˘ Beschleunigungsarbeit	 Â 	 Â 
+â˘ Verformungsarbeit	 Â 
+â˘ Reibungsarbeit:	 Â W! = F! â s Â 	 Â 	 Â 	 Â und	 Â somit	 Â 	 Â 	 Â W! = ÂľÎź â F! â s	 Â 
+	 Â 
+Die	 Â  Arbeit	 Â  1	 Â  Joule	 Â  wird	 Â  verrichtet,	 Â  wenn	 Â  man	 Â  z.	 Â  B.	 Â  einen	 Â  KĂśrper	 Â  mit	 Â  der	 Â  Ge-Â­â
+wichtskraft	 Â  1	 Â  Newton	 Â  (z.	 Â B.	 Â  100	 Â  g	 Â  Tafel	 Â  Schokolade	 Â  auf	 Â  der	 Â  Erde)	 Â  um	 Â  einen	 Â 
+Meter	 Â hochhebt.	 Â 
+	 Â 
+1 Â kJ = 1 â 10Âł  Â J	 Â 	 Â 	 Â 1 Â MJ = 1 â 10! Â   Â J	 Â 	 Â 	 Â 1 Â GJ = 1 â 10!  Â J	 Â 
+Energie	 Â E	 Â als	 Â 	 Â 
+SpeichergrĂśĂe	 Â 
+(engl.	 Â energy)	 Â 
+abgeleitete	 Â GrĂśĂe	 Â 
+
+Energie	 Â bezeichnet	 Â die	 Â ArbeitsfĂ¤higkeit	 Â eines	 Â KĂśrpers.	 Â 
+	 Â 
+E = 1 Â J	 Â 
+	 Â 
+Arten	 Â der	 Â Energie:	 Â 
+	 Â 
+
+â˘
+â˘
+â˘
+â˘
+
+Lageenergie	 Â (potenzielle	 Â Energie)	 Â 	 Â 
+Bewegungsenergie	 Â (kinetische	 Â Energie)	 Â 	 Â 
+Spannenergie	 Â 
+innere	 Â Energie	 Â eines	 Â KĂśrpers	 Â 
+
+Energieerhaltungssatz	 Â  Die	 Â Gesamtenergie	 Â bleibt	 Â bei	 Â jedem	 Â physikalischen	 Â Vorgang	 Â konstant.	 Â 
+Energie	 Â kann	 Â weder	 Â erzeugt	 Â noch	 Â vernichtet	 Â werden,	 Â es	 Â wird	 Â eine	 Â Energieform	 Â 
+in	 Â eine	 Â andere	 Â umgewandelt.	 Â 
+Leistung	 Â P	 Â 	 Â 
+(engl.	 Â power)	 Â 	 Â 
+abgeleitete	 Â GrĂśĂe	 Â 
+	 Â 
+
+Die	 Â  Leistung	 Â  P	 Â  ist	 Â  der	 Â  Quotient	 Â  aus	 Â  der	 Â  verrichteten	 Â  Arbeit	 Â  W	 Â  und	 Â  der	 Â  dafĂźr	 Â 
+benĂśtigten	 Â Zeit	 Â t.	 Â Sie	 Â wird	 Â auch	 Â als	 Â Energiestrom	 Â bezeichnet.	 Â 
+	 Â 
+!
+!
+!"
+P = 	 Â 	 Â 	 Â mit	 Â 	 Â 	 Â  P = 1 Â  = 1 Â 
+= 1 Â W Â (Watt)	 Â 
+!
+!
+!
+	 Â 
+Die	 Â Leistung	 Â 1	 Â Watt	 Â liegt	 Â vor,	 Â wenn	 Â man	 Â z.	 Â B.	 Â einen	 Â KĂśrper	 Â mit	 Â der	 Â Gewichts-Â­â
+kraft	 Â 1	 Â Newton	 Â (z.	 Â B.	 Â eine	 Â 100	 Â g	 Â Tafel	 Â Schokolade	 Â auf	 Â der	 Â Erde)	 Â in	 Â einer	 Â Sekun-Â­â
+de	 Â um	 Â einen	 Â Meter	 Â hochhebt.	 Â 
+
+Wirkungsgrad	 Â đ	 Â 
+	 Â 
+
+Er	 Â  ist	 Â  ein	 Â  GĂźtekriterium	 Â  bei	 Â  Energieumwandlungen	 Â  und	 Â  gibt	 Â  den	 Â  Quotienten	 Â 
+aus	 Â der	 Â Nutzarbeit	 Â und	 Â der	 Â zugefĂźhrten	 Â Arbeit	 Â an:	 Â 
+	 Â 
+
+Îˇ=
+
+!!"#$
+!!"
+
+	 Â 	 Â 	 Â und	 Â somit	 Â gilt	 Â auch:	 Â 	 Â 	 Â Îˇ =
+
+ÂŠ 2011 â Staatsinstitut fĂźr SchulqualitĂ¤t und Bildungsforschung â Abteilung Realschule
+
+!!"#$
+!!"
+
+	 Â 
+
+[9]
+
+Grundlagen der Physik fĂźr Realschulen in Bayern
+
+Druck	 Â p	 Â 
+(engl.	 Â pressure)	 Â 
+
+In	 Â FlĂźssigkeiten	 Â und	 Â Gasen	 Â herrscht	 Â stets	 Â ein	 Â Druck.	 Â 
+Der	 Â  Druck	 Â  p	 Â  in	 Â  FlĂźssigkeiten	 Â  und	 Â  Gasen	 Â  ist	 Â  der	 Â  Quotient	 Â  aus	 Â  dem	 Â  Betrag	 Â  der	 Â 
+Kraft	 Â F Â ,	 Â die	 Â auf	 Â die	 Â FlĂ¤che	 Â A	 Â senkrecht	 Â wirkt:	 Â 
+	 Â 
+
+!
+
+!
+
+p = 	 Â 	 Â 	 Â mit	 Â 	 Â 	 Â  p = 1 Â  ! = 1 Â Pa Â  Pascal 	 Â 
+!
+!
+	 Â 
+a) Der	 Â Normaldruck	 Â auf	 Â MeereshĂśhe	 Â betrĂ¤gt	 Â 1013 Â hPa Â  Hektopascal 	 Â 
+	 Â 
+b) Schweredruck	 Â in	 Â Wasser:	 Â 	 Â 
+	 Â 
+
+c)
+
+p Â ~ Â h	 Â 	 Â 	 Â 	 Â 
+	 Â 
+Auftriebskraft	 Â in	 Â Wasser:	 Â 	 Â 
+
+a
+
+Archimedisches	 Â Prinzip	 Â 
+Der	 Â  Betrag	 Â  der	 Â  Auftriebskraft	 Â  entspricht	 Â  dem	 Â  der	 Â  Gewichtskraft	 Â  des	 Â 
+verdrĂ¤ngten	 Â Wassers.	 Â 
+	 Â 
+Optik	 Â 
+Sender	 Â 
+
+â˘ selbst	 Â leuchtender	 Â KĂśrper	 Â (z.	 Â B.	 Â Sonne)	 Â 
+â˘ nicht	 Â selbst	 Â leuchtender	 Â KĂśrper	 Â (z.	 Â B.	 Â Mond)	 Â 
+
+Ausbreitung	 Â 
+
+geradlinig	 Â 
+â˘ ohne	 Â Medium	 Â (im	 Â Vakuum)	 Â 	 Â 
+â˘ in	 Â einem	 Â durchsichtigen	 Â Medium	 Â (z.	 Â B	 Â Luft)	 Â 
+	 Â 
+In	 Â Luft	 Â breitet	 Â sich	 Â Licht	 Â mit	 Â einer	 Â Geschwindigkeit	 Â von	 Â 	 Â ca.	 Â 
+	 Â 
+
+300000 Â 
+
+!"
+!
+
+	 Â aus.	 Â 
+
+Modell	 Â 
+
+Der	 Â Lichtstrahl	 Â ist	 Â eine	 Â Modellvorstellung	 Â fĂźr	 Â ein	 Â schmales	 Â LichtbĂźndel.	 Â 
+
+Konvexlinsen	 Â 
+(Sammellinsen)	 Â 
+
+sammeln	 Â LichtbĂźndel	 Â 
+
+	 Â 
+Konkavlinsen	 Â 
+
+zerstreuen	 Â LichtbĂźndel	 Â 
+
+	 Â 
+EmpfĂ¤nger	 Â 
+
+z.	 Â B.	 Â Netzhaut	 Â des	 Â Auges,	 Â Film	 Â oder	 Â Aufnahmechip	 Â eines	 Â Fotoapparats	 Â 
+
+ÂŠ 2011 â Staatsinstitut fĂźr SchulqualitĂ¤t und Bildungsforschung â Abteilung Realschule
+
+[10]
+
+

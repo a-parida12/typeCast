@@ -1,0 +1,202 @@
+
+	Freie Schwingungen	
+	Lineare Schwingung:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2893 by 529, depth 1
+pict001.wmf	
+	Lineare Schwingung
+Rόckstellkraft:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1552 by 635, depth 1
+pict002.wmf	
+		### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1588 by 635, depth 1
+pict003.wmf	
+	Lineare Schwingung
+Periodendauer:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1834 by 1235, depth 1
+pict004.wmf ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1446 by 1235, depth 1
+pict005.wmf	
+	Drehschwingung:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1623 by 1270, depth 1
+pict006.wmf	
+	Drehschwingung Periodendauer:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1976 by 1235, depth 1
+pict007.wmf ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1552 by 1270, depth 1
+pict008.wmf	
+	Richtmoment:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1482 by 635, depth 1
+pict009.wmf	
+	Mathematisches Pendel:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1762 by 1305, depth 1
+pict010.wmf	
+	Physisches Pendel:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2893 by 1341, depth 1
+pict011.wmf	
+	Satz von Steiner:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3351 by 706, depth 1
+pict012.wmf	
+	Typische Trδgheitsmomente:	
+	Kφrper (r = Kφrperradius)	Trδgheitsmoment J0	
+	Massepunkt, Hohlzylinder:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1658 by 670, depth 1
+pict013.wmf ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 988 by 1127, depth 1
+pict014.wmf	
+	Vollzylinder:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1976 by 1094, depth 1
+pict015.wmf	
+	Kugel:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1976 by 1094, depth 1
+pict016.wmf	
+	Stab der Lδnge l:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2046 by 1094, depth 1
+pict017.wmf	
+		
+	Gedδmpfte Schwingung	
+	Gedδmpfte Schwingung:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3281 by 670, depth 1
+pict018.wmf	
+	Abklingfunktion:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1693 by 635, depth 1
+pict019.wmf	
+	Abklingkonstante:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1235 by 1094, depth 1
+pict020.wmf	
+		### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1482 by 635, depth 1
+pict021.wmf	
+	Kreisfrequenz Dδmpfung:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2328 by 811, depth 1
+pict022.wmf	
+	Aperiodischer Fall:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1058 by 635, depth 1
+pict023.wmf	
+	Konstanter Faktor, um den sich zwei aufeinander folgende Amplituden bei gedδmpften Schwingungen unterscheiden:
+ (Bei Halbschwingungen### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 635 by 706, depth 1
+pict024.wmf)	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1870 by 635, depth 1
+pict025.wmf ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1270 by 635, depth 1
+pict026.wmf 	
+	Erzwungene Schwingungen	
+	Anregende Kraft:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2963 by 635, depth 1
+pict027.wmf	
+	Kraftamplitude:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1693 by 635, depth 1
+pict028.wmf	
+	Schwingungsamplitude im eingeschwungenen Zustand:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4833 by 1976, depth 1
+pict029.wmf	
+	Resonanz:
+Praxis ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1376 by 635, depth 1
+pict030.wmf	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2469 by 811, depth 1
+pict031.wmf	
+		
+	Wellenausbreitung	
+	Geschwindigkeit:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1446 by 529, depth 1
+pict032.wmf	
+	Schallgeschwindigkeit in Luft:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2681 by 1235, depth 1
+pict033.wmf	
+	Ausbreitungsgeschwindigkeit Transversalwelle:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3246 by 1305, depth 1
+pict034.wmf	
+	Lδnge des tonerzeugenden Kφrpers:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1023 by 1094, depth 1
+pict035.wmf	
+	Zugfestigkeit Draht:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1376 by 1094, depth 1
+pict036.wmf	
+	Geschwindigkeit Longitudinalwelle:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1482 by 1235, depth 1
+pict037.wmf	
+	Energiedichte:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2046 by 1094, depth 1
+pict038.wmf	
+		
+	Interferenz	
+	Gangunterschied:
+(n = Ordnung)	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2611 by 1094, depth 1
+pict039.wmf	
+	Gangunterschied beim Doppelspalt:
+(g = Gitterkonstante)	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2117 by 529, depth 1
+pict040.wmf	
+	Beugungsformel:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1976 by 1164, depth 1
+pict041.wmf	
+	Breite der Maxima:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2893 by 1164, depth 1
+pict042.wmf	
+	Gitterbreite:
+(N = Anzahl der Spalte)	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1482 by 529, depth 1
+pict043.wmf	
+	Anzahl der Spalte die ein Gitter haben muss, um noch zwei um ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 706 by 492, depth 1
+pict044.wmf voneinander entfernte Linien in erster Ordnung aufzulφsen:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1305 by 1094, depth 1
+pict045.wmf	
+	Erstes Beugungsminimum beim Spalt: 	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1515 by 1094, depth 1
+pict046.wmf	
+	Erstes Beugungsminimum bei einer kreisfφrmigen Blende:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2187 by 1094, depth 1
+pict047.wmf	
+	Brechungsgesetz	
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 8103 by 5144, depth 1
+pict048.jpg	
+	Brechzahl: 
+	Typische Werte:
+Luft 1
+Glas 1,53
+Wasser 1,33	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1058 by 1094, depth 1
+pict049.wmf	
+	Brechungsgesetz:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1762 by 1199, depth 1
+pict050.wmf	
+	Linsen und Abbildungsgleichungen	
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 16281 by 8001, depth 1
+pict051.jpg	
+	Objektentfernung a
+Objektgrφίe y
+Objektbrennweite ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 388 by 670, depth 1
+pict052.wmf	Bildabstand a
+Bildgrφίe y
+Bildbrennweite f	
+	Abbildungsmaίstab:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1270 by 1164, depth 1
+pict053.wmf	
+	Abbildungsgleichungen:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1905 by 1164, depth 1
+pict054.wmf ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1270 by 1164, depth 1
+pict055.wmf	
+	Brennweite und Hauptebenenlage von Linsen berechnen:	
+	Hilfsnenner:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 4163 by 635, depth 1
+pict056.wmf	
+	Brennweite:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2469 by 1199, depth 1
+pict057.wmf	
+	Hauptebenenabstand:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1799 by 1094, depth 1
+pict058.wmf ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1976 by 1094, depth 1
+pict059.wmf	
+	Brennweite Plankonvex- u. kavlinsen (s = Abstand der zur Brennweite gehφrenden Hauptebene):	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1905 by 1199, depth 1
+pict060.wmf ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 953 by 1094, depth 1
+pict061.wmf	
+	Dioptrie:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1235 by 1164, depth 1
+pict062.wmf	
+	Brennweite zweier Linsen:
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 9335 by 5969, depth 1
+pict063.jpg	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2469 by 1199, depth 1
+pict064.wmf	
+### Drawn Shape (ignored-not implemented yet)
+
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 40271 by 22682, depth 1
+pict065.wmf
+Hauptebenenlage:### Drawn Shape (ignored-not implemented yet)
+
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 37705 by 34583, depth 1
+pict066.wmf
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1729 by 1199, depth 1
+pict067.wmf ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2046 by 1199, depth 1
+pict068.wmf	
+	Optische Instrumente	
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 12192 by 3683, depth 1
+pict069.jpg	
+	Sehwinkel:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 988 by 1094, depth 1
+pict070.wmf	
+	Sehwinkel (Objekt, welches i. d. Brennebene einer Lupe ist):	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1552 by 1235, depth 1
+pict071.wmf	
+	Vergrφίerung:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1799 by 1199, depth 1
+pict072.wmf	
+	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 12129 by 4128, depth 1
+pict073.jpg	
+	Normvergrφίerung Fernrohr:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1588 by 1199, depth 1
+pict074.wmf	
+	Normvergrφίerung Mikroskop:
+(as = 0,25 m; t = optische Tubuslδnge)	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2046 by 1199, depth 1
+pict075.wmf ### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2011 by 635, depth 1
+pict076.wmf	
+	Auflφsungsvermφgen einer Sammellinse:
+(D = Durchmesser)	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1058 by 1094, depth 1
+pict077.wmf	
+	Auflφsungsvermφgen menschliches Auge beim aufmerksamen Sehen:
+(Beim angestrengten Sehen die Hδlfte)	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2397 by 670, depth 1
+pict078.wmf	
+	Auflφsungsvermφgen Mikroskop:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2150 by 1199, depth 1
+pict079.wmf	
+	Numerische Apertur:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2469 by 635, depth 1
+pict080.wmf	
+			
+	Stehende Wellen	
+	Abstand zweier Knoten und Lδnge eines Bauches:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 1023 by 1094, depth 1
+pict081.wmf	
+	Knoten und Bδuche, wenn die reflektierende Welle eine kleinere Amplitude als die einlaufende Welle hat:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 2469 by 1341, depth 1
+pict082.wmf	
+			
+	Sonstiges	
+	Sinussatz:	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3210 by 1164, depth 1
+pict083.wmf	
+	Kosinussatz:
+### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 6934 by 4750, depth 1
+pict084.jpg	### picture data found, WMF type is MM_ANISOTROPIC, picture dimensions are 3775 by 2011, depth 1
+pict085.wmf	
+
+
+

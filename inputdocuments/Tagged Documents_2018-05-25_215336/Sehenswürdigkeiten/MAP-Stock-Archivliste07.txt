@@ -1,0 +1,856 @@
+
+
+GEO 1:   Afrika
+
+
+. Ägypten
+ .  Kairo (Architektur, Leute, Straßenszenen)
+     .  Ägyptisches Museum
+     .  Gizeh
+     .  Kamele
+     .  Pyramiden
+ .  Sinai
+     .  Christo's Blue Stone Valley
+     .  Katharinenkloster
+     .  Oasen
+     .  Sharm-El-Sheik
+.  Marokko
+ .  Casablanca (Architektur, Leute, Straßenszenen)
+ .  Marrakesch (Architektur, Leute, Straßenszenen)
+ .  Rabat
+     .  Königs Palast
+ .  Tanger (Architektur, Leute, Straßenszenen)
+.  Südafrika
+ .  Hermanus
+ .  Hout Bay
+ .  Kapstadt (Architektur, Leute, Stadtszenerie)
+     .  Bloubergstrand
+     .  Camps Bay
+     .  Chapman's Peak Drive
+     .  Constantia
+     .  Hafen
+     .  Häuser
+     .  Hotels, Jugendherbergen
+     .  Kap der guten Hoffnung
+      .  Sonnenuntergang von See aus
+     .  Nachtaufnahmen
+     .  Nightlife, Bars, Clubs, DJ's
+     .  Paarl
+     .  Stellenbosch
+     .  Tafelberg
+     .  Waterfront
+ .  Kwa-Zulu-Natal
+     .  Durban
+      .  Straßenpromenade (Rikschafahrer)
+      .  Hotels
+     .  Mossel Bay
+     .  Shakaland (Zulu-Tänze)
+.  Tunesien
+ .  Sidi-Bou-Said (Architektur, Leute, Stadtszenerie)
+
+
+Geo 2:   Antarktis, Arktis, Polargebiete
+
+
+.  Antarktische Halbinsel
+ .  Deception Island
+ .  Elephant Island (Zügel-Pinguin-Kolonie)
+ .  Half Moon Island
+ .  King George Island
+ .  Lemaire-Kanal
+    .  Neumeier Straße
+    .  Paradies Bucht
+ .  Petermann Island
+ .  Whaler's Bay
+.  Eisberge
+.  Falkland Inseln
+ .  Carcass
+ .  Port Stanley
+.  Grönland
+ .  Disco-Bucht
+ .  Illulissat
+ .  Inuit-Kultur
+ .  Jakobshavn
+ .  Marble Island
+ .  Umanaq
+ .  Walrosse
+.  Internationale Forschungsstationen
+ .  Arktowsky (Polen)
+ .  Almirante Brown (Argentinien), Paradies Bucht)
+ .  King Seyong (Korea), King George Island
+ .  Rothera (British Antarctic Survey)
+.  Ross-Schelfeiskante
+.  Spitzbergen
+ .  Ny Alesund (Deutsche Koldewey-   Forschungsstation)
+ .  Möllershaven
+ .  Tempelfjord
+    .  Tiere: Seeschwalben, Bartrobben (Erignatus barbatus)
+.  Tiere
+ .  Robben
+    .  Krabbenfresser-Robben (Lobodon carcinophagus)
+    .  Leopardenrobben (Hydrurga leptonyx)
+    .  Pelzrobben (Arctocephalus gazella)
+    .  See-Elefanten (Mirounga leonina)
+ .  Vögel
+    .  Adeliepinguine (Pygoscelis adeliae)
+    .  Albatrosse (Diomeda epomophora)
+    .  Blauaugenscharbe (Pharlacrocopax atriceps)
+    .  Braune Skuas (Catharacta lonnbergi)
+    .  Eselspinguine (Pygoscelis papua)
+    .  Felsenpinguine (Eudyptes crestatus)
+    .  Königspinguine (Aptenodytes patagonica)
+    .  Magellanpinguine (Spheniscus magellanicus)
+    .  Riesensturmvögel (Macronectes giganteus)
+    .  Weißgesicht-Seidenschnabel (Chionis alba)
+    .  Zügelpinguine (Pygoscelis antarctica)
+ .  Wale
+    .  Buckelwale (Megaptera novaeangliae)
+    .  Orcas (Orcinus orca)
+.  Victorialand
+
+
+
+GEO 3:   Asien
+
+
+.  Indischer Ozean
+ .  Madagaskar
+     .  Baobab Baum
+     .  Berenty National Park
+     .  Hochland
+     .  Indische Grabmale
+     .  Lemuren
+     .  Sisal-Anbau
+ .  Malediven
+     .  Male
+     .  Kuredu
+ .  Mauritius
+     .  Ile de Cerf
+      .  Pt. Louis Hindu Tempel
+     .  Rčunion, St. Denis
+      .  Kirchen
+      .  Luftaufnahmen
+      .  Wasserfall
+ .  Seychellen
+     .  Courieuse (Riesenschildkröten)
+     .  Courieuse Strand
+     .  Coco de mer
+     .  La Digue Strand
+     .  Mahč
+      .  Uhrenturm
+.  Indonesien
+ .  Bali (Architektur, Leute, Stadtszenerie)
+    .  Benoa
+    .  Krakatau (aktiver Vulkan)
+    .  Tänzer (Mengwi Tempel)
+    .  Tempel
+    .  Ubud
+ .  Flores
+    .  Larantuka
+ .  Java
+    .  Jakarta (Architektur, Leute, Stadtszenerie)
+   .  Alter Frachtsegler-Hafen "Sunda"
+   .  Hauptstadt Jakarta
+   .  Nachtclub "M"
+   .  "Planet Hollywood"
+   .  Stadt bei Nacht
+    .  Semerang
+   .  Borobodur Tempel
+ .  Komodo
+    .  Warane (Komodo-Drachen)
+ .  Ujung Kulon Nationalpark
+ .  Madura
+    .  Ambunten (Stier-Rennen)
+ .  Papua-Neu-Guinea
+    .  Irian Jaya, Die Asmat in Agats
+ .  Pulau Bira
+.  Israel
+ .  Jaffa (Architektur, Leute, Stadtszenerie)
+ .  Jerusalem (Architektur, Leute, Stadtszenerie)
+.  Jemen
+ .  Aden (Architektur, Leute, Stadtszenerie)
+ .  Mukalla (Architektur, Leute, Stadtszenerie)
+    .  Folklore-Tänzer
+.  Libanon
+ . Beirut (Architektur, Leute, Stadtszenerie)
+.  Malaysia
+ .  Fischerdorf bei Penang
+ .  Kek Lok Si-Tempel, Penang
+ .  Pfahlhäuser
+ .  Westküste
+.  Oman
+ .  Muscat
+    .  Al-Bustan-Palace Hotel
+.  Pakistan
+ .  Karachi (Architektur, Leute, Stadtszenerie)
+    .  Bunte Trucks
+    .  Grabmäler
+.  Singapur (Architektur, Leute, Stadtszenerie)
+.  Sri Lanka
+ .  Batik-Kunst
+ .  Elefanten
+ .  Kandy
+    .  Zahn-Tempel
+ .  Schmetterlingsfarm
+.  Südpazifik
+ .  Neu Kaledonien
+    .  Noumea
+.  Thailand
+ .  Phuket (Architektur, Leute, Stadtszenerie)
+    .  Strände
+    .  Tempel
+.  Tonga (Architektur, Leute, Stadtszenerie)
+ .  Nuku 'Alofa
+ .  Dateline Hotel
+.  Türkei
+ .  Antalya
+    .  Ausgrabungsstätte Perge
+ .  Bodrum
+    .  Hafen, Holzyachten
+ .  Ephesos, Ausgrabungsstätte
+ .  Fethiye
+ .  Istanbul (Architektur, Leute, Stadtszenerie)
+    .  Basar
+    .  Blaue Moschee
+    .  Bosporus
+    .  Europa-Brücke
+    .  Hafen
+    .  Teppichfabrik
+    .  Topkapi-Palast
+    . Marmaris
+
+
+ GEO 4.1:   Australien
+
+
+.  Aboriginees
+.  Cooktown
+ .  Sümpfe
+.  Hamilton Island
+.  Sydney (Architektur, Leute. Stadtszenerie)
+ .  Docks
+ .  Opernhaus
+
+
+GEO 4.2:   NEUSEELAND
+
+
+.  Auckland (Architektur, Leute, Stadtszenerie)
+ .  Hafen
+ .  Yachten
+.  Christchurch (Architektur, Leute, Stadtszenerie)
+ .  Innenstadt
+ .  Maori-Kunst
+ .  Nationalmuseum
+.  Roturanga
+.  Paihia, Bay of Islands
+.  Tauranga
+ .  Heiße Quellen
+ .  Strand
+
+
+
+
+
+
+GEO 5:   EUROPA
+
+
+.  Bundesrepublik Deutschland
+ .  Bremerhaven (Architektur, Leute, Stadtszenerie)
+    .  DSM, Deutsches Schifffahrtsmuseum
+    .  Fischereihafen
+    .  Häfen und Industrie
+    .  Luftaufnahmen
+    .  Sail 1986
+    .  Sail 2000 (Segelschiffe, Menschenmassen)
+    .  Schiffe
+    .  Wattenmeer
+    .  Werften
+ .  Nordfriesische Inseln
+    .  Amrum
+   .  Häuser in Nebel
+   .  Leuchtturm
+   .  St. Clemens Kirche
+   .  Wattenmeer und Strand
+   .  Windmühle
+    .  Passau
+ .  Dänemark
+    .  ChristiansŘ (Erbseninsel)
+    .  Kopenhagen (Architektur, Leute, Stadtszenerie)
+   .  Kleine Meerjungfrau
+   .  Nyhavn
+ .  Estland
+    .  Tallin (Architektur, Leute, Stadtszenerie)
+ .  Finnland
+    .  Helsinki (Architektur, Leute, Stadtszenerie)
+   .  Hafen und Fähren
+   .  Sehenswürdigkeiten
+ .  Frankreich
+    .  Bordeaux (Architektur, Leute, Stadtszenerie)
+    .  Brest (Architektur, Leute, Stadtszenerie)
+    .  Monaco Architektur, Leute, Stadtszenerie)
+   .  Monte Carlo
+    .  Nantes (Architektur, Leute, Stadtszenerie)
+    .  Schlösser
+    .  Sčte
+.  Griechenland
+ .  Athen (Architektur, Leute, Stadtszenerie)
+    .  Akropolis
+    .  Hafen und Schiffe
+    .  Bibliothek
+ .  Katakolon
+    .  Fischer bei der Arbeit
+    .  Fischerboote
+ .  Kreta
+ .  Lindos
+ .  Mykonos (Restaurants, Bars, Nachtaufnahmen)
+ .  Nauplia (Architektur, Leute, Stadtszenerie)
+ .  Rhodos (Architektur, Leute, Stadtszenerie)
+ .  Santorin (Architektur, Leute, Stadtszenerie)
+ .  Skiathos  (Architektur, Leute, Stadtszenerie)
+.  Großbritannien
+ .  Falmouth
+ .  Guernsey (Architektur, Leute, Stadtszenerie)
+ .  Jersey
+ .  Plymouth (Architektur, Leute, Stadtszenerie)
+ .  Schottland
+    .  Blarney Castle
+    .  Campeltown
+    .  Edinburgh (Architektur, Leute, Stadtszenerie)
+    .  Highland Cattle
+    .  Loch Ness
+   .  Urquart Castle
+    .  Orkney Inseln
+   .  Isle of Shapinsay, Balfour Castle
+    .  Shetland Inseln
+   .  Fair Isle
+   .  Jarlshof
+   .  Mainland
+               .  Lerwick
+   .  Ölförderindustrie (Ölplattformen)
+   .  Papageientaucher
+ .  Southampton
+.  Irland
+ .  Cobh (Architektur, Leute, Stadtszenerie)
+ .  Dublin (Architektur, Leute, Stadtszenerie)
+ .  Glenngarriff (Architektur, Leute, Stadtszenerie)
+.  Island
+ .  Akureyri (Architektur, Leute, Stadtszenerie)
+ .  Geysire
+ .  Reykjavik (Architektur, Leute, Stadtszenerie)
+.  Italien
+ .  Bari
+ .  Neapel (Architektur, Leute, Stadtszenerie)
+ .  Sizilien
+ .  Toskana
+    .  Florenz (Architektur, Leute, Stadtszenerie)
+    .  Pisa
+   .  Schiefer Turm
+ .  Venedig (Architektur, Leute, Stadtszenerie)
+.  Kroatien
+ .  Dubrovnik (Architektur, Leute, Stadtszenerie)
+.  Lettland
+ .  Riga (Architektur, Leute, Stadtszenerie)
+.  Litauen
+ .  Klaipeda (Architektur, Leute, Stadtszenerie)
+.  Norwegen
+ .  Bergen (Architektur, Leute, Stadtszenerie)
+    .  Altstadt Bryggen
+    .  Fischmarkt
+ .  Fjorde
+ .  Geiranger Fjord
+ .  Hammerfest
+    .  Eisbären-Club
+ .  Laerdal
+    .  Borgund Stabkirche
+ .  Molde
+ .  Nordkap
+    .  Mitternachtssonne
+ .  Oslo
+    .  Akerbrygge
+    .  Fischmarkt
+ .  Trollfjord
+ .  Trollstiegen
+.  Österreich
+ .  Donau
+ .  Melk
+    .  Benedikterkloster
+ .  Wien (Architektur, Leute, Stadtszenerie)
+    .  "Hundertwasserhaus"
+    .  Karlskirche
+    .  Nachtleben, Kneipen
+    .  Prater
+    .  Schloss Schönbrunn
+    .  Stephansdom
+.  Polen
+ .  Gdynia (Architektur, Leute, Stadtszenerie)
+ .  Danzig
+    .  Innenstadt, Architekturdetails
+.  Portugal
+ .  Cabo de San Roca
+ .  Lissabon (Architektur, Leute, Stadtszenerie)
+    .  Alfama Altstadt
+    .  Docas
+    .  EXPO'99-Gelände und Bauten
+    .  Nightlife, Diskotheken
+ .  Madeira
+ .  Porto (Architektur, Leute, Stadtszenerie)
+    .  Portweinproduktion
+.  Russland
+ .  Jalta (Architektur, Leute, Stadtszenerie)
+ .  Odessa (Architektur, Leute, Stadtszenerie)
+    .  Marinedenkmal
+    .  Opernhaus
+ .  St. Petersburg (Architektur, Leute, Stadtszenerie)
+    .  Eremitage
+    .  Petrodworez (Peterhof)
+    .  Puschkin
+    .  Bernsteinzimmer
+.  Schweden
+ .  Gotland
+    .  Insel Visby (Pipi Langstrumpf Park)
+ .  Schären
+ .  Stockholm (Architektur, Leute, Stadtszenerie)
+    .  Königlicher Palast
+    .  Schloss Drottningholm
+.  Spanien
+ .  Alicante (Architektur, Leute, Stadtszenerie)
+ . Balearische Inseln
+    .  Ibiza (Architektur, Leute, Stadtszenerie)
+    .  Mallorca (Architektur, Leute, Stadtszenerie)
+    .  Menorca (Architektur, Leute, Stadtszenerie)
+ .  Barcelona (Architektur, Leute, Stadtszenerie)
+ .  Cadiz (Architektur, Leute, Stadtszenerie)
+ .  Calpč (Architektur, Leute, Stadtszenerie)
+ .  Costa Blanca/ Altea
+ .  Granada
+    .  Alhambra
+ .  Kanarische Inseln
+    .  La Gomera
+    .  La Palma
+    .  Lanzarote
+    .  Teneriffa
+ .  La Coruna (Architektur, Leute, Stadtszenerie)
+ .  Madrid (Architektur, Leute, Stadtszenerie)
+ .  Sevilla (Architektur, Leute, Stadtszenerie)
+    .  Expo- Gebäude
+    .  Kathedrale
+ .  Vigo (Architektur, Leute, Stadtszenerie)
+.  Tschechien
+ .  Bratislava (Architektur, Leute, Stadtszenerie)
+    .  Opernhaus
+.  Ungarn
+ .  Budapest (Architektur, Leute, Stadtszenerie)
+    .  Fischerbastei
+    .  Parlament
+
+
+GEO 6:   KARIBIK
+
+
+.  Amerikanische Jungferninseln
+ .  St. Thomas
+    .  Charlotte Amalie
+    .  Kreuzfahrtschiffe
+.  Antigua
+ .  English Harbour
+ .  St. John's
+ .  Trunk Bay
+.  Bahamas
+ .  Nassau, Kreuzfahrtschiffe
+.  Barbados
+.  Britische Jungferninseln
+ .  Jost van Dyke
+ .  Nevis
+ .  St. Croix
+ .  St. Kitts
+    .  Brimstone Hill
+ .  Virgin Gorda
+.  Dominica
+.  Domikanische Republik
+ .  Hotels
+ .  Puerto Plata
+ .  Santo Domingo (Architektur, Leute, Stadtszenerie)
+    . Columbus-Museum
+    .  Kathedrale
+ .  Strände
+.  Gouadeloupe
+.  Grand Cayman
+.  Grenada
+ .  Muskatnuss-Produktion
+ .  St. George's
+.  Jamaika
+ .  Blue Lagoon
+ .  Floßfahrten für Touristen
+ .  Montego Bay
+ .  Ocho Rios
+    .  Touristen am Wasserfall
+ .  Port Antonio
+.   Martinique
+.   Niederländische Antillen
+ .  Aruba
+ .  Bonaire
+    .  Kralendijk
+ .  Curacao
+.  Puerto Rico
+ .  San Jaun (Architektur, Leute, Stadtszenerie)
+    .  Alte Stadtfestung
+.  St. Lucia
+ .  Castries
+ .  Luftaufnahmen
+ .  Pitons
+.  St.Maarten (St. Martin)
+.  Tobago
+.  Tortola
+.  Trinidad
+ .  Karneval
+
+
+GEO 7:   MITTEL- UND  SÜDAMERIKA
+
+
+.  Argentinien
+ .  Buenos Aires (Architektur, Leute, Stadtszenerie)
+    .  Flohmarkt San Telmo
+    .  La Boca
+    .  Tango auf der Straße
+ .  Feuerland (Tierra del Fuego)
+    .  Ushuaia ( südlichste Stadt der Welt)
+ .  Halbinsel Valdez
+.  Brasilien
+ .  Amazonas
+    .  Alter do Chao
+    .  Breves-Kanäle
+    .  Caboclos
+    .  Indianer
+    .  Pfahlbauten am Fluss
+ .  Belčm (Architektur, Leute, Stadtszenerie)
+    .  Markthalle "Ver'o peso"
+ .  Fernando da Noronha
+    .  Delphine
+ .  Fortaleza
+    .  Theatro Josč de Alencar
+ .  Manaus (Architektur, Leute, Stadtszenerie)
+    .  Encontro dos Aguas (Rio Negro/Amazonas Zusammenfluss)
+    .  Opernhaus
+ .  Orinoco (Landschaften, Menschen)
+    .  Curiapo
+ .  Recife
+    .  Olinda
+ .  Rio de Janeiro
+    .  Copacabana
+    .  Karneval
+    .  Zuckerhut
+ .  Salvador de Bahia (Architektur, Leute, Stadtszenerie)
+    .  Pelourinho
+.  Chile
+ .  Kap Hoorn
+ .  Patagonien
+ .  Puerto Montt
+ .  Punto Arenas
+ .  Valparaiso
+.  Costa Rica
+ .  Isla Tortuga
+ .  San Jose (Architektur, Leute, Stadtszenerie)
+.  Ecuador
+ .  Guayaquil
+.  Französisch Guanaya
+ .  Teufelsinsel (Film-Location "Papillon", Gefängnisanlage)
+.  Kolumbien
+ .  Cartagena
+.  Mexiko
+ .  Acapulco
+ .  Cabo san Lucas
+ .  Cancun
+ .  Chichen Itza
+ .  Isla da Guadalupe (Naturreservate, Seelöwen)
+ .  Mazatlan
+ .  Tulum
+.  Panama
+ .  Golfo de San Miguel (Choco Indianer)
+ .  Isla Coiba
+ .  Isla Contadora (Las Perlas Archipel)
+ .  Isla Pacheca
+.  Peru
+ .  Cusco (Architektur, Leute, Stadtszenerie)
+ .  Lima
+ .  Macchu Picchu
+.  Uruguay
+ .  Montevideo (Architektur, Leute, Stadtszenerie)
+    .  Oldtimer
+ .  Punta de'l Este
+.  Venezuela
+ .  Caracas (Architektur, Leute, Stadtszenerie)
+    .  Favelas
+ .  Islas los Roques
+ .  La Guaira
+
+
+GEO 8 :   USA, KANADA
+
+
+
+.  British Columbia
+ .  Vancouver (Architektur, Leute, Stadtszenerie)
+ .  Victoria
+    .  Butchart Gardens
+.  Florida
+ .  Cape Canaveral
+ .  Charleston
+ .  Daytona Beach
+ .  Everglades
+ .  Key West
+    .  Sloppy Joe's Bar (Hemingway)
+    .  Nachtaufnahmen
+ .  Miami (Architektur, Leute, Stadtszenerie)
+    .  Art Deco District
+    .  Model-Szene
+    .  Ocean Drive (Strandleben, Autos, Sport)
+ .  Orlando
+    .  Disney World
+ .  Sarrasota
+    .  Golf von Mexiko
+ .  St. Augustine
+ .  Tampa
+    . Illinois
+ . Chicago (Sears Tower u.a.)
+.  Kalifornien
+ .  San Diego (Architektur, Leute, Stadtszenerie)
+ .  San Francisco (Architektur, Leute, Stadtszenerie)
+.  Louisiana
+ .  New Orleans (Architektur, Leute, Stadtszenerie)
+.  Maine
+ .  Bar Harbour
+.  Manitoba
+ .  Churchill
+.  Massachussetts
+ .  Boston
+    .  U.S.S. Constitution, Boston Tea Party
+. Michigan
+ .  Detroit (Ford Museum)
+ .  Ludington (Dünen, Leuchtturm)
+ .  Mackinac Island
+. Minnesota
+  . Duluth
+    . Ontario
+ . Little Current (Indianer-Kultur)
+ . Midland
+ . Ottawa (National Museum)
+ . Parry Sound
+ . Thunder Bay
+ . Tobermory
+.  Rhode Island
+ .  Newport (Architektur, Leute, Straßenszenen)
+.  New York (Architektur, Leute,     Stadtszenerie)
+ .  World Trade Center
+ .  Ground Zero
+ .  Times Square
+.  Neuschottland (Nova Scotia)
+ .  Lunenburg
+.  Pennsylvania
+ .  Philadelphia (Architektur, Leute, Stadtszenerie)
+.  Quebec (Architektur, Leute, Stadtszenerie)
+ .  Gaspe
+ .  Hotel und Wahrzeichen Chateau Frontenac
+ .  Indian Summer
+ .  Montreal
+ .  Prince Edward Island
+ .  St. Lorenz Strom
+.  Washington D.C.
+ .  Alexandria
+.  Washington
+ .  Friday Harbour, San Juan Islands
+ .  Neah Bay
+    .  Olympic Nationalpark
+ .  Seattle
+
+
+
+
+
+
+
+
+
+
+9: Prominente, Schauspieler, Musiker
+
+.  Alle live: A Certain Ratio, Alessandro Safina, Bill Ramsey, Bobby
+ Womack, Bryan Adams, Chaka Khan, Chrissie Hynde, Coolio, Dagmar Berghoff,
+ Die Prinzen, Franz-Josef Degenhardt, Georg Schramm, Gil Scott-Heron,
+ Giovanni di Lorenzo, Götz Alsmann, Hannes Wader, Hans-Friedrich Genscher,
+ Heidi Kabel, Henning Venske, Howard Jones, Ina Deter, Isabell Varell, James
+ Last, Jermaine Stewart, Jürgen Marcus, Klaus Lage, Klaus-Maria Brandauer,
+ Kristina Bach, L.A.P.D., Laibach, Leningrad Cowboys, Leo Kottke, Lionel
+ Hampton, Manhattan Transfer, Marcel Reich-Ranicki, Martin Buchholz, Milena
+ Preradovich, Morrissey, Nena, Oli P., P.M. Sampson, Pat Metheny, Paul Anka,
+ Roberto Blanco, Rolf Zacher, Ralf Zacherl, Rudolf Mooshammer, Scorpions,
+ Shinehead, Splash, Stefan Jürgens, Sydney Youngblood, The Commodores, The
+ Jeremy Days, The Tubes, Thomas Gottschalk, Trio, UB40, Ursula Caberta
+ (Scientology Hamburg), Wilhelm Wieben,...
+
+10:   Scenics, Hintergründe, Wetter
+
+.  Botanik, Blüten, Eisberge, Industrie, Landschaften, Mauern, Muscheln,
+ Regenbogen, Sand, Sonnenuntergänge, Steine, Strände, Strukturen, Symbole,
+ Tiere, Wasser, Wolken,...
+
+
+11:   Special: Kreuzfahrtschiffe
+
+.  Clubschiff AidaCara, MS Albatros, MS Arkona, MS Astor, MS Berlin, MS
+ Bremen, MS C. Colimbus, MS Calypso, MS Club Med 1, MS Costa Allegra, MS
+ Crown Dynasty, MS Delphin, MS Deutschland, MS Elation, MS Europa alt, MS
+ Europa neu, MS Fedor Dostojewski, MS Flamenco, MS Hanseatic, MS Marco Polo,
+ MS Mozart, MS Nordic Empress, MS Norway, MS Polarstern, MS Queen Elizabeth
+ 2, MS Saga Rose, MS Sagafjord, MS Sea Goddess, MS Seabourn Pride, MS
+ Seabourn Spirit, MS Vistafjord, MS Vistamar, MS World Discoverer, MS World
+ Explorer, SS Lilli Marleen, SS United States, SS Wind Spirit, SS Windward,
+ TS Maxim Gorki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12:   Special: Auto-Nummernschilder weltweit
+
+.  Australien
+ .  Hamilton Beach
+.  Bahamas
+.  Curacao
+.  Disney World
+.  Dominikanische Republik
+.  Falkland-Inseln
+.  Jemen
+.  Libanon
+.  Marokko
+.  Südamerika
+ .  Argentinien
+ .  Bolivien
+ .  Chile
+ .  Ecuador
+ .  Kolumbien
+    .  Cartagena
+ .  Brasilien
+    .  Santarem
+    .  Fortaleza
+    .  Rio de Janeiro
+.  Syrien
+.  USA, Kanada
+ .  Alberta
+ .  British Columbia
+ .  Georgia
+ .  Maine
+ .  Massachusetts
+ .  Neufundland
+ .  New Hampshire
+ .  New York
+ .  Nova Scotia
+ .  Ontario
+ .  Pennsylvania
+ .  Prince Edward Island
+ .  Rhode Island
+.  Virgin Islands
+
+         Stand: 01/2006   weitere Informationen unter: www.mapcam.de

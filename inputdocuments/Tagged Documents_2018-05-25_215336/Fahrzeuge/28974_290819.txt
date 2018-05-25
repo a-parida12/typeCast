@@ -1,0 +1,1173 @@
+ADAC Fahrzeugtechnik
+20.01.1010 - IN 28974 – STAND 03-2017
+
+Tipps zum Motorrad-Gebrauchtkauf
+
+Tipps zum Motorrad-Gebrauchtkauf.................................................................................................... 1
+1. Vorteile des Motorradgebrauchtkaufes ............................................................................................ 2
+2. Tipps für wenig erfahrene Anfänger und Wiedereinsteiger ............................................................. 3
+3. Wo ein gebrauchtes Motorrad suchen? ........................................................................................... 3
+4. Wo ein gebrauchtes Motorrad kaufen? Beim Händler oder von privat? ......................................... 3
+5. Preise, Preisfindung, Preislisten ...................................................................................................... 4
+6. Fragen an den Verkäufer ................................................................................................................. 5
+7. Die Besichtigung des Motorrades .................................................................................................... 8
+7.1. Äußere Erscheinung/erster Eindruck ............................................................................................... 8
+Umbauten, umfangreiche Veränderungen ....................................................................................... 8
+Beschädigungen, Rostbefall............................................................................................................. 9
+Sonstige allgemeine Prüfungen ....................................................................................................... 9
+7.2. Detailprüfungen im Stand .............................................................................................................. 10
+Schlösser, Instrumente, Armaturen, Schalter, Beleuchtung .......................................................... 10
+Lenker, Lenkkopflager, Lenkeranschlag ........................................................................................ 10
+Telegabel, Federbein ..................................................................................................................... 11
+Räder, Reifen, Bremsen ................................................................................................................. 12
+Auspuffanlage................................................................................................................................. 14
+Motorgehäuse, Tank, Kraftstoffanlage ........................................................................................... 15
+Ketten- u. Kettenradverschleiß, Kardan ......................................................................................... 16
+Rahmen, Schwinge, Schwingenlager............................................................................................. 16
+Batterie und Elektrik ....................................................................................................................... 17
+Bordwerkzeug, Fahrerhandbuch, Kundendienstheft ...................................................................... 17
+8. Probefahrt ...................................................................................................................................... 18
+8.1. Grundsätzliches zur Probefahrt ..................................................................................................... 18
+8.2. Anlassen des Motors, Anfahren ..................................................................................................... 19
+8.3. Motor, Kupplung, Getriebe ............................................................................................................. 19
+8.4. Ketten-, Kardanantrieb ................................................................................................................... 20
+8.5. Fahrwerk, Bremsen ........................................................................................................................ 21
+8.6. Motor nach der Fahrt ..................................................................................................................... 22
+8.7. Sonstige Funktionen ...................................................................................................................... 22
+9. Kaufvertrag..................................................................................................................................... 23
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 1
+
+1.
+
+Vorteile des Motorradgebrauchtkaufes
+
+Das Jahr 2016 war ein gutes Motorradjahr, zumindest was die Neuzulassungen angeht. Laut KBA
+wurden mit über 180 000 erstmalig zugelassenen Krafträdern fast 15% mehr motorisierte Zweiräder in den Verkehr gebracht als 2015. Im gleichen Zeitraum wurden fast eine halbe Millionen Besitzumschreibungen vorgenommen. Dies entspricht den Zahlen des Vorjahres. Trotz der vielen
+Neuzulassungen ist der Gebrauchthandel somit um den Faktor 2,7 lebhafter als der Verkauf von
+Neufahrzeugen.
+Trotz des Risikos, das der Käufer eines gebrauchten Motorrades zweifelsfrei eingeht, hat der Erwerb einer Maschine aus zweiter oder dritter Hand für viele Motorradfahrer einen besonderen
+Reiz:
+
+• Der Wertverlust eines neuen Motorrades in den ersten zwei Jahren liegt meist zwischen 30 und
+40 %. Eine so hohe Abwertung über einen solchen Zeitraum erfährt das Motorrad bei vorgesehener Benutzung im späteren Leben nicht mehr.
+• Viele gebrauchte Motorräder sind nur wenige Jahre alt und haben auch deswegen geringe
+Laufleistungen. Außerdem sind sie vielfach in einem guten Pflegezustand. Vereinzelt gibt es
+auch „Notverkäufe“, bei denen der Käufer echte Schnäppchen machen kann.
+• Mit dem Wechsel von der Euro 3- auf die Euro 4-Zulassungsvorschrift ist derzeit ein großes Angebot an tageszugelassenen Neumaschinen am Markt verfügbar. Viele Motorradfahrer, die hier
+zuschlagen, bieten dann ihre alten Maschinen an. Dadurch ist besonders in diesem Jahr ein
+großes Angebot an Gebrauchten zu erwarten.
+• Wer sind die wichtigsten Wartungsarbeiten entsprechend der Beschreibung im Fahrerhandbuch
+zutraut, kann nach Ende der Garantie und der Gewährleistungsfrist selbst Hand anlegen und
+Geld sparen. Bis zu einem Alter von 5 bis 8 Jahren sollte die Maschine trotzdem gelegentlich in
+eine Werkstatt, um mögliche Service- oder sogar Rückrufaktionen nicht zu versäumen.
+• Je nach Umfang des Etats, der für das Hobby Motorradfahren zur Verfügung steht, kann auf
+dem Gebrauchtmarkt fast immer ein "passendes" Motorrad gefunden werden. Der Motorrad(gebraucht)markt war noch nie so vielfältig wie derzeit. Wenn dann vom Budget etwas übrig bleibt,
+ist vielleicht noch eine gute Fahrersicherheitsausstattung drin.
+• Viele Fahranfänger/innen und Wiedereinsteiger/innen wollen lediglich ausprobieren, ob ihnen
+das Motorradfahren überhaupt oder ein bestimmter Motorradtyp liegt. Diese Versuche sollten
+natürlich nicht zum wirtschaftlichen Ruin führen. Besonders hier bietet sich der Gebrauchtkauf
+an.
+• Für Profis, die ihre Maschine „customizen“, also den individuellen Bedürfnissen und Vorleiben
+anpassen wollen, kommen oft nur Maschinen mit Vergangenheit in Frage. Diese Szene ist derzeit sehr aktiv. Auch hier können günstig erworbene Maschinen ein zweites, aufregendes Leben
+bekommen.
+Die Zuverlässigkeit, Standfestigkeit und zu erwartende Lebensdauer von modernen Motorrädern
+stellen heute kein Problem mehr dar. Auch die erreichbaren Laufleistungen der meisten Großserienmaschinen sind je nach Motorbauart, Fahrweise und Pflege kein Grund, vom Gebrauchtkauf Abstand zu nehmen. 100 000 Kilometer und mehr sind für viele Maschinen durchaus realistisch, zumal sie vielfach auf Langstrecken ihre Kilometer gesammelt haben und somit nicht dem schädlichen Kurzstreckenverkehr ausgesetzt sind.
+Bei einem Gebrauchtkauf eher wahrscheinlich ist, dass die ins Auge gefasste Maschine leichte Beschädigungen aufweist oder umgebaut wurde. Deswegen sollte ein eingehender technischer
+Check der angebotenen Maschine deren individuellen Erhaltungszustand offenlegen. Dazu werden
+hier wichtige, praxisbezogene Tipps für die Vorgehensweise beim Gebrauchtkauf von Motorrädern
+gegeben werden. Die einzelnen Prüfpunkte werden in gesonderten Checklisten nochmals aufgeführt.
+Bitte beachten: Die hier gegeben Tipps können nicht die Entscheidung für einzelne Marken oder
+Modelle herbeiführen. Wer noch nicht weiß, welcher Motorradtyp oder welche Maschine überhaupt
+in Frage kommt, sollte sich unter adac.de/motorrad oder in Motorradfachzeitschriften kundig machen. Einige Redaktionen veröffentlichen auch spezielle Sonderhefte zum Gebrauchtkauf von Motorrädern.
+
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 2
+
+2.
+
+Tipps für wenig erfahrene Anfänger und Wiedereinsteiger
+
+Einfache Massenmodelle bzw. Bestseller sind häufig günstiger zu bekommen und Anfängern
+eher zu empfehlen als ausgefallenere Modelle, da Stärken und Schwächen der häufig verkauften Modelle in der Motorradszene und im Bekanntenkreis bekannt sind. Außerdem können u.
+U. zur Vorauswahl im Bekanntenkreis Probefahrten mit den gewünschten Motorradmodellen
+organisiert werden. Natürlich ist auch das Angebot dieser Modelle umfangreicher und vielfältiger.
+Darüber hinaus ist die Ersatzteil- und Zubehörversorgung für die beliebteren Modelle flächendeckender und umfangreicher als für andere weniger verkaufte Typen, was sich in einem wirtschaftlicheren Unterhalt bemerkbar macht.
+Aktuell zählen zu den gängigen Modelle z.B.: BMW R 1200 GS, Yamaha MT-07, Kawasaki ER-6n,
+Kawasaki Z 800, KTM 390 Duke, Honda CRF 1000 L Africa Twin, BMW F 700/800 GS, Honda NC
+750 Serie.
+
+3.
+
+Wo ein gebrauchtes Motorrad suchen?
+
+Wenn feststeht, welcher Motorradtyp oder sogar welches Modell in die engere Wahl kommt, kann
+die Angebotssuche beginnen.
+Internet-Plattformen
+Für die gezielte Suche nach der passenden Maschine bieten sich in erste Linie Internet-Verkaufsplattformen an. Zu den bekanntesten zählen „mobile.de“ und „motoscout24“. Durch geschickte
+Festlegung der Auswahlkriterien ist eine Gruppe der in Frage kommenden Angebote schnell eingegrenzt.
+Aktuelles Angebotsprofil (Stand: Februar/März 2017)
+Aktuell bietet „mobile.de“ mit über 80000 Angeboten die größte Auswahl an motorisierten Zweirädern. Ca. 60% der Motorradangebote (über 125 cm3) stammen von Händlern, knapp 40% von Privatpersonen. Anfang 2017 betreffen fast 20% aller Angebote Neufahrzeuge von Händlern. Jeweils
+ca. die Hälfte der echten Gebrauchtangebote fallen auf Händler und Privatverkäufer. Diese Aufteilung ist auch auf die Besonderheit des Jahreswechsels 2016/2017 zurückzuführen. Seit Anfang
+des Jahres dürfen nur noch Fahrzeuge erstmalig zugelassen werden, die die neuen Typgenehmigungsvorschriften erfüllen (Euro 4). Damit waren viele Händler Ende 2016 gezwungen, Euro 3-Modelle vor dem Jahreswechsel zumindest für einen Tag zuzulassen. Diese Modelle werden jetzt im
+Frühjahr 2017 als Neufahrzeuge in den Markt gedrückt, was auch einen Anstieg der Gebrauchtangebote erwarten lässt.
+Klassische Angebote
+Nach wie vor werden gebrauchte Motorräder auch in Kleinanzeigen von Motorradzeitschriften oder
+Anzeigenblättern angeboten. Die meisten dieser Offerten finden sich allerdings auch auf den Online-Verkaufsplattformen. Neben der einfacheren Suche bieten die Webplattformen im Vergleich zu
+klassischen Kleinanzeigen in Printmedien den entscheidenden Vorteil, mittels aussagekräftiger Bilder und Texte das Fahrzeug detailliert darzustellen. Der Umfang und die Qualität dieser Präsentationen geben dem Kaufinteressierten auch einen Hinweis auf die Professionalität des Verkäufers.
+
+4.
+
+Wo ein gebrauchtes Motorrad kaufen? Beim Händler oder von
+privat?
+
+Kauf beim Händler
+Wem das technische Verständnis und das sichere Gefühl für einen privaten Gebrauchtkauf oder
+ein vertrauenswürdiger, fachkundiger Bekannter fehlt, ist sicher mit der Suche bei einem Motorradhändler besser beraten. Der Händler unterliegt ebenso wie jeder andere gewerbliche Verkäufer der
+gesetzlich auf ein Jahr befristeten Sachmängelhaftung. Eine mögliche zusätzliche Gebrauchtfahrzeuggarantie ersetzt diese Sachmängelhaftung des gewerblichen Verkäufers grundsätzlich nicht.
+Tritt an der als gebraucht gekauften Maschine innerhalb des ersten halben Jahres ein relevanter
+Mangel (kein Verschleißteile) auf, wird allgemein davon ausgegangen, dass dieser Mangel bereits
+bei Fahrzeugübergabe vorhanden war. Später muss der Käufer nachweisen, dass der Mangel bei
+Übergaben bereits bestand. Wird ein Mangel festgestellt und dem Händler angezeigt, muss ihm
+die Möglichkeit zur Nachbesserung gewährt werden.
+Die meisten Händler checken deswegen die gebrauchten Maschinen vor dem Verkauf eingehend
+durch und bieten somit mehr Sicherheit beim Kauf. Die gesetzlichen Auflagen führen allerdings
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 3
+
+auch dazu, dass nur wenige Händler ältere und damit günstigere Motorräder an Privatpersonen
+verkaufen.
+Klären Sie grundsätzlich, ob der Händler ein eigenes Motorrad im Rahmen seines Gewerbes oder
+ein fremdes Fahrzeug im Auftrag eines privaten Eigentümers verkauft.
+Privater Gebrauchtkauf
+Wer über das nötige technische Know-How für die realistische Beurteilung des technischen Zustands und des Wertes eines Motorrades verfügt und gerne auch über Preis und sonstige Konditionen verhandelt, wird den Kauf von Privat bevorzugen. Besonders für diese Einkaufsart sind die
+hier aufgeführten Tipps und Checklisten gedacht.
+
+5.
+
+Preise, Preisfindung, Preislisten
+
+Beim Studium der vielfältigen Motorradgebrauchtangebote fallen immer wieder besonders niedrige
+oder auch hohe Preise auf. Die Frage, welcher Preis für welche Maschine angemessen ist, kann
+nur nach eingehender Prüfung vor Ort und einer Probefahrt erfolgen. Für eine erste Orientierung
+im Rahmen der Internet- oder Kleinanzeigenrecherche sind professionelle Preisnotierungen verfügbar.
+Über Gebrauchtpreise informieren die
+•
+schwackeLISTE Zweirad von eurotaxSCHWACKE oder (http://www.schwacke.de/SP/MOTORRAEDER.html&&)
+•
+DAT Marktspiegel der DAT Deutsche Automobil Treuhand. (https://www.dat.de/gebrauchtfahrzeugwerte.html#/start)
+Bitte beachten: Die Online-Preis- bzw. Wertermittlung ist überwiegend kostenpflichtig.
+Diese Gebrauchtpreislisten erscheinen vierteljährlich (schwackeLISTE) bzw. monatlich (DAT
+Marktspiegel) und enthalten jeweils eine Einkaufs- und eine Verkaufsnotierung. An der niedrigeren Einkaufsnotierung orientieren sich die Gebrauchthändler bei der Inzahlungnahme von Motorrädern, an der höheren Verkaufsnotierung orientieren sich die verkaufenden Händler und die meisten privaten Verkäufer.
+Auszüge der Liste der Basis-Gebrauchtpreise werden regelmäßig in verschiedenen Motorrad-Zeitschriften veröffentlicht. Üblicherweise nicht enthalten ist hier die mögliche Preiskorrektur, die erforderlich wird, wenn die tatsächliche Laufleistung des gebrauchten Motorrades von
+der in der Liste angenommenen Kilometerleistung abweicht.
+Für ADAC Mitglieder werden kostenlose Gebrauchtpreiskalkulationen für Motorräder (Händler-Verkaufsnotierungen) auch unter adac.de direkt und online angeboten.
+(https://www.adac.de/infotestrat/fahrzeugkauf-und-verkauf/gebrauchtfahrzeuge/default.aspx)
+Hierbei werden die laufleistungsbedingten PreiskorrektuFahrzeugwertermittlung unter adac.de
+ren eingeschlossen, so dass meist praxisnahe Wertbestimmungen möglich sind.
+Trotzdem bitte beachten: Die Gebrauchtpreiskalkulationen sind nicht verbindlich, sondern stellen
+nur eine Orientierungshilfe dar. Sie sind Mittelwerte, die aus den regional unterschiedlichen Preisen errechnet wurden. Es bestehen bisweilen große Preisunterschiede zwischen Ballungszentren und ländlichen Regionen.
+Die Preise beziehen sich grundsätzlich auf unfallfreie, betriebs- und verkehrssichere Serienmotorräder mit einem durchschnittlichen, der angegebenen Gesamtfahrleistung und dem Alter entsprechenden Erhaltungszustand. Die nächste Hauptuntersuchung der Motorräder steht frühestens in einem Jahr an. Die Bereifung ist höchstens zu fünfzig Prozent abgenutzt.
+Diesen hohen Anspruch wird wohl kein gebrauchtes Motorrad erfüllen, zumal bereits ein umgestürztes Zweirad im strengsten juristischen Sinne nicht mehr als unfallfrei gilt, wenn dabei ein
+Schaden entstanden ist.
+
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 4
+
+Angebotene Motorräder mit vielen Umrüstungen:
+Wird Ihnen ein Motorrad angeboten, das nicht mehr dem Serienzustand entspricht, sondern mit
+vielen Zubehör- und fremden Ersatzteilen ausgerüstet ist, oder als Oldtimer gelten kann, wird eine
+realistische Preisfindung häufig sehr schwierig. Zur Prüfung, ob dem Angebot irgendein Phantasiepreis oder eine vernünftige Kalkulation zu Grunde liegt, sollte der Verkäufer Rechnungen für Zusatzteile oder sogar ein möglichst junges Gutachten vorlegen können. Preise für Einzelzubehör
+lassen sich auch Zubehörkatalogen entnehmen. Grundsätzlich fließt Zubehör je nach Alter und
+Funktion mit höchstens 50 bis 60 % des Neupreises in den Gebrauchtpreis des ganzen Motorrades ein.
+Als Käufer sollten Sie auf jeden Fall prüfen, ob Ihnen die nachgerüsteten Zubehörteile oder die
+Umbauten überhaupt sinnvoll erscheinen. Würden Sie ähnliche Bauteile (z.B. größerer Tank, stärkeres Federbein, wirksamere Bremse, Hauptständer, ....) an Ihrem Motorrad nachrüsten?
+Haben Sie an den Umrüstungen kein wirkliches Interesse, sollten Sie dem Verkäufer deutlich machen, dass Sie nicht bereits sind, hierfür einen besonders hohen Preis zu zahlen. U.U. verliert der
+Verkäufer dann Interesse an weiteren Verkaufsverhandlungen.
+Neben der professionellen Wertermittlung, die sich auf umfangreiches statistisches Datenmaterial
+stützt, kann zumindest bei gängigen Modellen auch ein intensives Studium der Online-Angebote
+ein Gefühl für die üblichen Handelspreise vermitteln.
+
+6.
+
+Fragen an den Verkäufer
+
+Besonders bei der Recherche im Internet wird der Käufer auf interessante Angebote aus weit entfernten Regionen oder gar aus dem Ausland stoßen. Um unnötige Ausflüge zu letztendlich ernüchternde Besichtigungen zu vermeiden, können klare Fragen und deren ehrliche Beantwortung früh
+die Entscheidungsfindung erleichtern. Folgende Fragen sollte der Verkäufer bereits bei der ersten
+Kontaktaufnahme per Telefon oder Mail beantworten, damit der Kaufinteressierte schnell weiß,
+ob die angebotene Maschine für ihn in Frage kommt. Siehe hierzu auch Checkliste „Fragen an den
+Verkäufer“. Viele Informationen zu dem Fahrzeug können aus der Anzeige in die Checkliste übernommen werden. Der Kaufinteressierte sollte sich ausdrücklich bestätigen lassen, dass diese Informationen korrekt sind. Widersprüchliche Aussagen unbedingt ansprechen und Unklarheiten beseitigen. Die Angaben zu der Maschine in den Online-Anzeigen inklusive aller Bilder abspeichern.
+Sie dienen als Grundlage für die Produktbeschreibung im Kaufvertrag.
+Fragen am Telefon:
+• Ist der Verkäufer der Eigentümer oder lediglich der Besitzer?
+Sie sollten sich die Informationen vorrangig vom Eigentümer holen und mit diesem verhandeln.
+Der Eigentümer kann meist verbindlichere Aussagen zu den verschiedenen Fragen machen als
+ein Verkaufsbevollmächtigter. Auch die Preisverhandlungen gestalten sich mit dem Eigentümer
+unkomplizierter. Lassen Sie sich ggf. eine schriftliche Verkaufsvollmacht von dem Verkäufer
+vorlegen, wenn dieser nicht der Eigentümer ist.
+• Wie lautet die genaue Modellbezeichnung? Welches Baujahr? Welche Leistungsvariante?
+Gelegentlich werden in Anzeigen irrtümlich falsche Modellbezeichnungen oder Leistungen
+angegeben.
+• Stammt das Motorrad ursprünglich von einem offiziellen Importeur, einem Re- oder
+Parallelimporteur?
+Im letzten Fall gilt es, besondere Hinweise zu einer möglicherweise noch wirksamen Garantie
+(Werks- oder Werkstattgarantie) und zur Ersatzteilversorgung zu beachten. Die Herkunft des
+Fahrzeugs lässt sich meist anhand der Eintragungen im Fahrzeugbrief bestimmen (dort auf der
+letzten Seite).
+• Wann wurde das Motorrad erstmalig zugelassen?
+Von dem Erstzulassungsdatum hängt ab, ob die Gewährleistungs- bzw. Garantiefrist bereits abgelaufen ist. Außerdem wurden in den letzten Jahren die Zulassungsvorschriften geändert.
+Wichtig: Euro 3-Motorräder können 2017 nur im Ausnahmefall erstmals zugelassen werden.
+Dies ist bedeutsam bei gebrauchten Maschinen, die z.B. bislang nicht für den öffentlichen Straßenverkehr zugelassen wurden.
+• Wie hoch ist die tatsächliche Kilometerleistung? Stimmt sie mit dem Tachostand überein?
+Wenn hier keine Übereinstimmung besteht, muss geklärt werden, warum. Auskünfte wie „Laut
+Tacho“ sollten misstrauisch stimmen.
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 5
+
+• Wurden die regelmäßig fälligen Inspektionen von einer Fachwerkstatt durchgeführt?
+Das Scheck- bzw. Kundendienstheft gibt hier unter anderem Aufschluss darüber, wer die regelmäßige Wartung vorgenommen hat. Prüfen Sie die Aussagen des Verkäufers bei der Besichtigung.
+Wenn eine Fachwerkstatt die regelmäßige Wartung durchgeführt hat: In welcher (Vertrags-)
+Werkstatt? Gibt es Aussagen zu deren Arbeitsqualität?
+Wenn keine Fachwerkstatt die regelmäßige Wartung durchgeführt hat: Von wem wurden die
+Wartungsarbeiten durchgeführt? Qualifikation des Mechanikers?
+• Wieviel Vorbesitzer hatte das Motorrad bereits?
+Die neuen Zulassungsbescheinigungen (Teil II, Fahrzeugbrief) haben nur Platz für einen Vorbesitzer. Es wird lediglich die Zahl der Vorbesitzer in der Zeile B unter der Kennzeichenangabe
+genannt. Bei Erstbesitzer steht an dieser Stelle eine „0“. Viele Vorbesitzer sind ein Hinweis dafür, dass die Vorgänger mit dem Motorrad nicht zufrieden waren. Wenn dieses vermutet wird:
+Warum?
+• Ist das Motorrad unfallfrei?
+Auch wenn sich die Richtigkeit der Aussage der Verkäufers am Telefon nicht prüfen lässt, kann
+dies bei der Besichtigung nachgeholt werden. Widersprüchliche Aussagen sollten misstrauisch
+machen. Wenn das Motorrad nicht als „unfallfrei“ angeboten wird, klären Sie, welche Bauteile
+beschädigt, repariert oder ersetzt wurden. Schäden, die nicht oder nur provisorisch repariert
+wurden, sollten mittels Bilder dokumentiert werden. Sind Unterlagen (Rechnungen) zur Reparatur noch vorhanden?
+• Welche Ausstattung hat das Motorrad ab Werk?
+Meist wird hierüber bereits in der Anzeige informiert.
+• Wurden Komponenten des Motorrades überholt oder ersetzt?
+Wenn Teile des Motorrades wie z.B. der Motor, der Rahmen, der Tank, die Elektrik usw. überholt oder ersetzt wurden: Sind die Rechnungen für diese Arbeiten noch vorhanden?
+• Sind alle Bauteile original oder wurden Fremdteile bzw. Fremdzubehör montiert? Wurde die
+Maschine grundlegend umgebaut?
+Wenn fremde Teile montiert wurden, die die Betriebserlaubnis betreffen: Sind die Zubehöroder Anbauteile in den Fahrzeugbrief eingetragen bzw. liegt für alle Zubehör- oder Anbauteile eine ABE oder eine Unbedenklichkeitserklärung des Herstellers vor? Besonders betrifft dies: Motor, Einspritz- und Auspuffanlage, Beleuchtung, Räder u. Reifen, Federelemente
+und weitere Komponenten.
+Bei mehreren Änderungen an verschiedenen Komponenten, die technisch zusammen wirken,
+kann eine Einzelbetriebserlaubnis (§ 21 StVZO) erforderlich sein oder werden.
+Die Klärung dieser Fragen hat besondere Bedeutung für Änderungen, die die Abgasqualität und
+das Geräuschverhalten betreffen. Vor einem Kauf müssen alle Zulassungsvoraussetzungen
+lückenlos und zweifelfrei geklärt und entsprechend dokumentiert werden. Ist dies nicht
+möglich, sollte der Kauf gut überlegt werden.
+Sind die Fremdteile Markenprodukte? Sie die Originalteile noch vorhanden?
+• Wann wurde das Motorrad das letzte Mal gefahren? Hat das Motorrad längere Zeit gestanden?
+Manche meist ältere Motorräder fristen ein wenig bewegtes Leben in einem Keller, einer Garage oder sogar im Freien und sollen jetzt „endlich“ verkauft werden. Besonders auffällig wird
+dies, wenn das Alter der Maschine und die angegebene Laufleistung nicht zueinander passen.
+In diesen Fällen muss mit Standschäden gerechnet werden. Davon betroffen sind vorrangig
+alle Gummi- (vor allem Reifen) und Kunststoffteile, besonders wenn das Fahrzeug längere Zeit
+im Freien ohne Schutzplane abgestellt wurde, die Bremsen, die Batterie, Tank und Vergaser
+sowie bewegte Teile des Fahrwerks und des Endantriebs. Der Besitzer sollte zur Erweckung
+aus dem „Dornröschen-Schlaf“ die wichtigsten Teile überprüft, gepflegt oder ersetzt haben. Bei
+der Besichtigung besonders die genannten Teile prüfen oder vom Kauf absehen.
+• Ist das Motorrad zugelassen, oder ist ein Kurzzeitkennzeichen für die Probefahrt verfügbar?
+Bei Saisonkennzeichen: Wann ist die „aktive“ Zeit?
+Wenn das Motorrad abgemeldet (außer Betrieb gesetzt) ist: Wie lange ist das Fahrzeug bereits
+abgemeldet?
+Ein Fahrzeug, das außer Betrieb gesetzt wurde, kann in einem Zeitraum von sieben Jahren wieder angemeldet werde. Dabei ist darauf zu achten, dass bei der Wiederinbetriebnahme ein gültiger HU-Prüfbericht vorliegen muss.
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 6
+
+• Ist eine Probefahrt möglich?
+Auch wenn es selbstverständlich erscheint, dass der interessierte Käufer zu einem Besichtigungstermin auch eine Probefahrt machen kann, sollten etwaige Hinderungsgründe beachtet
+werden. Nicht jeder Edelbike-Eigentümer will sein schönstes Stück einem Fremden anvertrauen. Fragen Sie deswegen besser nach, ob Sie selbst mit dem Motorrad fahren dürfen und
+ob der Verkäufer an die Überlassung des Motorrades Bedingungen knüpft (z.B. Hinterlegung
+eines Pfandes oder des Kaufpreises in bar).Siehe auch Punkt Probefahrt.
+• Werden sonstige Zubehörteile mit angeboten? In welchem Zustand sind sie?
+Beispiele: Tankrucksack für Enduros mit domförmigen Tank, Koffer für vorhandenen Kofferträger, andere Sitzbank, Kleidung, Montageständer. Häufig kann der Verkäufer dieses spezifische
+Zubehör nicht weiter verwenden. Er hat dann vielfach ein Interesse, auch dieses Zubehör zu
+verkaufen.
+Wenn die Beantwortung dieser Fragen beim Käufer einen vertrauenswürdigen Eindruck vom Verkäufer hinterlässt und die Fahrzeugeigenschaften den Wünschen entsprechen, sollte ein Termin
+für Besichtigung und Probefahrt vereinbart werden. Ist ein direkter Abschluss des Handels geplant
+sein, sollten auch Fragen der Bezahlung und der Fahrzeugummeldung besprochen werden. Bei
+längeren Anfahrten sollte verbindlich vereinbart werden, dass sich Käufer und Verkäufer sofort informieren, wenn der geplante Besichtigungstermin nicht eingehalten werden kann bzw. das Fahrzeug bereits anderweitig veräußert wurde.
+
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 7
+
+7.
+
+Die Besichtigung des Motorrades
+
+Sobald Sie sich auf den Weg machen, um das ausgesuchte Motorrad unter die Lupe zu nehmen, sollten Sie Folgendes nicht vergessen:
+• einen fachkundigen, vertrauenswürdigen Bekannten, wenn Sie selbst nicht über ausreichende
+technische Kenntnisse verfügen. Außerdem gilt: Vier Augen sehen mehr als zwei.
+• Ausweis und Führerschein
+• vollständige Motorradbekleidung
+• einfaches Werkzeug wie Schraubendreher, Zange usw.
+• ein Voltmeter
+• eine Taschenlampe
+• einen kleinen Spiegel
+• einen weißen Lappen
+• ggf. ein Kurzzeitkennzeichen oder ein rotes Nummernschild mit dazugehörigem Fahrzeugschein und Verwendungsnachweis.
+• schönes Wetter
+• genügend Zeit und natürlich
+• Bargeld für eine Anzahlung oder für den vollständigen Abschluss des Geschäftes.
+Die Besichtigung der Maschine gliedert sich in zwei
+Abschnitte:
+• die Detailprüfung im Stand und
+• die Probefahrt.
+
+Zu Beginn der Prüfung sollten Sie die
+Fahrgestellnummer am Motorradrahmen
+mit der im Fahrzeugbrief vergleichen.
+
+Fahrgestellnummer: Gehören Maschine und Papiere zusammen.
+
+7.1. Äußere Erscheinung/erster Eindruck
+Zum Verkauf anstehende Motorräder sind meist auf Hochglanz poliert. Der Käufer sollte sich bei
+aller Schönheit hiervon nicht blenden lassen. Auf der anderen Seite werden auch immer wieder
+„Standuhren“ offeriert, bei denen besondere Prüfungen einzelner Komponenten sinnvoll werden.
+Wenn der erste Eindruck wenig überzeugt, kann auf die Detailprüfung meist verzichtet werden.
+
+Umbauten, umfangreiche Veränderungen
+Der Kauf eines umfangreich umgebauten Motorrades muss gut überlegt sein. Mit dem Verkäufer
+ist zu klären, welche Komponenten und Bauteile verändert und umgebaut wurden, weshalb diese
+Umbauten vorgenommen wurden und wie die Umbauten eingetragen und zugelassen wurden. Hierfür sind
+die Fahrzeugpapiere (Zulassungsbescheinigung Teil I
+und Teil II) sowie alle Gutachten, Prüfberichte und Allgemeine Betriebserlaubnisse heranzuziehen. Sollten
+Zweifel an der Zulassungsfähigkeit des Gesamtfahrzeuges bestehen, sollten alle Informationslücken vor dem
+Kauf eindeutig geschlossen oder vom Kauf abgesehen
+werden.
+Besondere Vorsicht ist geboten, wenn Teile des
+Rahmens und/oder der Schwinge nachträglich bearAuch ein Original kann schön sein. Nicht jeder Umbeitet wurden. Vereinzelt werden Flächen und
+bau gefällt.
+Schweißnähte des Rahmens abgeschliffen und/oder
+poliert. Diese Veränderungen lassen vielfach die Betriebserlaubnis erlöschen und können
+deswegen spätestens bei der nächsten Hauptuntersuchung Probleme bereiten. Also, besser Finger weg!
+
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 8
+
+Beschädigungen, Rostbefall
+Zu Beginn der Besichtigung sollte der Gesamtzustand der Maschine betrachte werden. Ergeben
+sich bei dieser Prüfung bereits gravierende Mängel oder Beschädigungen, dürfte das weitere Kaufinteresse schnell versiegen. Kleine Schäden oder leichte Mängel sollten in der Checkliste notiert
+und später für die Preisverhandlungen genutzt werden. Wichtig dabei ist, dass zwischen normalen
+Gebrauchsschäden, die zu dem Alter der Maschine passen, und weniger angemessene Schäden
+durch viele Änderungs- und Schrauberarbeiten oder grobe Behandlung unterschieden wird. Bei
+älteren Fahrzeuge, die wenig gepflegt wurden und überwiegend Wind und Wetter ausgesetzt waren, sind Kunststoff- und Gummiteile verfärbt oder versprödet. Je nach Alter und Verarbeitungsqualität sind verschiedene Bauteile auch von Korrosion befallen. Einen Katalog der Prüfpunkte enthält die Checkliste „Fahrzeugbesichtigung“.
+Undichtigkeiten an Motor, Kühlsystem, Kraftstoffanlage und Getriebe sind vor allem für die Umwelt schädlich und sollten möglichst schnell beseitigt werden. Gleichzeitig zeugen sie von einer
+gewissen Nachlässigkeit des Besitzers. Deswegen sollte wegen Undichtigkeiten über den Preis
+verhandelt werden.
+Schleifspuren oder Bruchstellen…
+•
+
+an Fußrasten und am Endschalldämpfer:
+Beschädigungen an diesen Stellen deuten auf eine dynamisch-schräge Fahrweise mit häufigem Aufsetzen der entsprechenden Teile oder leichte Unfälle hin.
+
+•
+
+an den Lenkerenden, den Schwingungsdämpfern und den Armaturen.
+Sie geben Hinweise auf Stürze. Wenn Schleifspuren an den Lenkerenden und den Armaturen
+sichtbar sind, prüfen Sie den Lenkeranschlag rechts und links. Eine Reparatur dieser Schäden
+(Lenkanschlag) ist oftmals nur durch den Austausch des Rahmens möglich, da am Rahmen
+nicht geschweißt werden darf. Aus diesem Grund ist bei einem verformten oder abgerissenen
+Lenkeranschlag vom Kauf abzuraten.
+
+•
+
+am Rahmen; hier vor allem an den Unterzügen.
+Grobe Schleifspuren am Rahmen weisen auf Off-Road-Einsatz oder Unfälle hin. Wenn das
+Motorrad kein Geländemotorrad ist und trotzdem diese Spuren aufweist, ist von einem Kauf
+dringend abzuraten.
+
+Die Wertminderung durch Schleifspuren und Bruchteile ist schwer zu beurteilen. Erscheint äußerlich der Rahmen unversehrt, muss die Probefahrt entscheiden, ob das Interesse an dem Motorrad
+bestehen bleibt. In diesem Fall sollten Sie, bevor sie sich zum Kauf und für einen bestimmten Preis
+entscheiden, Informationen über Ersatzteilkosten einholen.
+
+Sonstige allgemeine Prüfungen
+Je nach Alter des Motorrades sind Gebrauchsspuren unvermeidbar. Allerdings zeugen schlecht
+durchgeführte Lackierungen des Motors, des Rahmens und der Auspuffanlage sowie vermurkste Schraubenköpfe und Muttern von wenig Liebe zu dem Fahrzeug und geringen handwerklichen Fähigkeiten. Auch ein zerrissener Sitzbankbezug und schlechte, nachträgliche
+Elektroinstallationen geben hierüber Auskunft.
+In jedem Fall sollten Sie die Sitzbank abnehmen, um auch hier den Pflegezustand zu prüfen.
+Je nach Ergebnis der ersten optischen Prüfung, kann eine weitergehende Detailprüfung der
+verschiedenen Komponenten Mängel sicher aufdecken. Ein unschönes Äußeres, das nicht direkt
+auf weitere Schäden hinweist, sollte als Argument bei der Preisverhandlung genutzt werden.
+Über Kosten für die Beseitigung von optischen Mängeln (Lackierungen usw.) machen Sie sich
+u.U. vor Vertragsabschluss bei entsprechenden Fachbetrieben kundig.
+Bei längere Zeit nicht bewegten Maschinen, die zudem für die Einlagerung bzw. Standzeit nicht
+präpariert wurden, folgende Komponenten prüfen:
+•
+•
+•
+•
+•
+
+Kunststoff- und Gummiteile
+lackierte oder durchgefärbte Verkleidungsteile,
+die elektrische Anlage inkl. Batterie,
+die Bremsanlage, besonders Bremszangen u. -kolben
+Kraftstofftank und Kraftstoffleitungen,
+
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 9
+
+7.2.
+
+Detailprüfungen im Stand
+
+Schlösser, Instrumente, Armaturen, Schalter, Beleuchtung
+•
+
+•
+
+•
+
+Lenker- und Zündschloss
+Sind alle Schlüssel vorhanden? Wurden Schlüssel nachgemacht? Wenn ja, warum? Unbedingt alle Schlüssel bei Vertragsabschluss übergeben.
+Passen die Schlüssel an allen Schlössern: Sitzbank, Helmschloss, Tankdeckel, Staufächer?
+Lässt sich das Lenkerschloss sicher und ohne zu haken schließen? Funktioniert das Zündschloss sicher und ohne zu klemmen? Ist das Zündschloss äußerlich unbeschädigt?
+Instrumente
+Sind die Instrumente unversehrt und vollständig? Wenn LC-Display vorhanden: Ist es ohne
+Pixelfehler? Funktionieren die Beleuchtungen der Anzeigen? Kann der Tageskilometerzähler
+zurückgestellt werden? (Ggf. diese Prüfung nach der Probefahrt vornehmen.)
+Wenn Zweifel an der Richtigkeit der Gesamtkilometeranzeige auf dem Tacho besteht, unbedingt nachfragen, wie viele Kilometer tatsächlich im Ganzen mit dem Motorrad gefahren wurden. Diese Aussage in den Kaufvertrag eintragen. Tachomanipulationen, im Besonderen Verstellen des Gesamtkilometerstandes, sind bei Motorrädern weniger häufig als bei Pkw. Trotzdem ist es nicht unmöglich. Bei älteren Motorrädern mit mechanischen Zählwerken sind dann
+meist Spuren erkennbar.
+Funktionieren alle Kontrollleuchten (soweit vorhanden): Öldruck o. Ölstand, Leerlauf, Lichthupe u. Fernlicht, Blinker, Seitenständer, Batterieladung, ABS, Kraftstoffreserve usw.?
+Bei modernen Motorrädern werden direkt nach dem
+Einschalten der Zündung fast alle Anzeigen und
+Kontrollleuchten kurz angesteuert, um eine korrekte
+Arbeitsweise checken zu können. Je nach Funktion
+verlöschen die Kontrollleuchten wieder oder sie
+leuchten bis zum Start des Motors bzw. bis zur Abfahrt (z.B. ABS). Während normaler Fahrt leuchten
+allenfalls die Kontrollleuchte für Abblendlicht (wenn
+vorhanden) oder bei abgeschalteten Funktionen wie
+ABS und Traktionskontrolle die entsprechenden
+Warnleuchten. Zu Details bitte in der Bedienungsanleitung nachlesen. Wichtig ist, dass z.B. die
+Warnlampen für Motorstörungen aus geht.
+Nur selten haben moderne Displays Fehler, der ErFunktionieren nachgerüstete Zusatzinstrumente
+satz kann teuer werden.
+(Ölthermometer, Batteriespannungsanzeige, Zeituhr)? Sind für diese Instrumente Montage- und Benutzungshinweise vorhanden?
+Armaturen, Schalter, Beleuchtung
+Lassen sich Kupplung und Gas leicht bedienen? Sind die Bowdenzüge leichtgängig? Der Gasgriff muss aus jeder Position selbstständig in die Leerlaufstellung zurückdrehen.
+Sind die Handhebel in ihrer Lagerung locker? Wenn ja: Wie verschlissen sind die Lagerbohrungen o. –bolzen? Ist ein Ersatz notwendig?
+Schalter: Funktionieren alle übrigen Bedienungselemente bzw. Fahrzeugbeleuchtungen:
+Stand-, Abblend-, und Fernlicht, Lichthupe, Rücklicht, Blinker inklusive Rückstellung, ggf.
+Warnblickanlage, Bremslicht (Hand- und Fußbremshebel), Hupe, Kill- bzw. Notausschalter,
+Kupplungs- und Seitenständerzündschalter, ggf. heizbare Griff?
+
+Lenker, Lenkkopflager, Lenkeranschlag
+•
+
+Lenkerenden beschädigt? Lenker verbogen?
+Beschädigte Lenkerenden oder sogar verbogene Lenker deuten darauf hin, dass das Motorrad zumindest umgefallen ist, möglicherweise einen Unfall hatte. Deswegen:
+
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 10
+
+•
+
+•
+
+•
+
+Lenkeranschlag rechts oder links verformt?
+Gibt es Anzeichen eines verformten Lenkeranschlages, so ist der Verdacht auf einen Unfall berechtigt.
+Also, Vorsicht! Es dürfen auch keine nachträglichen
+Reparaturarbeiten am Lenkanschlag vorgenommen
+worden sein (z.B. Schweißarbeiten).
+Lenker und Lenkerhalterung original?
+Wenn der Lenker oder die Lenkerhalterung (Lenkererhöhung) umgerüstet wurde, muss mindestens
+eine ABE für diese Bauteile vorliegen.
+Lenkkopflager ohne Spiel und Rastpunkte?
+Heben Sie die Motorradfront an, um das Vorderrad
+zu entlasten (ein Helfer belastet das Heck des Motorrades, das auf dem Mittelständer steht), und umfassen Sie die frei drehbare Telegabel am unteren
+Ende. Drücken Sie die Gabel nach vorne und hinDer Lenkanschlag darf nicht gebrochen oder verten, und schlagen Sie sie von Anschlag zu Anform sein.
+schlag ein. Drehen Sie sie außerdem langsam und
+feinfühlig um die Geradeausstellung etwas hin und
+her. Dabei darf kein Haken, kein Spiel oder ungleichmäßiger Lauf spürbar sein. Die Lenkung
+muss auch bei kleinsten Bewegungen immer leicht
+und ohne jeden Widerstand beweglichen sein. Der
+Kabelbaum sollte dabei nicht eng anliegen oder reiben. Ist das Lenkkopflager auch nur geringfügig
+schwergängig, befragen Sie den Verkäufer, ob das
+Lager in letzter Zeit gewechselt oder neu eingestellt
+wurde. Ein ausgeschlagenes Lenkkopflager lässt
+sich vorübergehend so fest einstellen, dass der Defekt nur schlecht oder gar nicht spürbar wird. Notieren Sie die Aussagen des Verkäufers deswegen im
+Kaufvertrag.
+Um die Reifenreibung am Vorderrad zu reduzieren,
+Eine Folie unter dem Vorderrad reduziert die Lenkkräfte. Defekte am Lenkkopflager lassen sich so
+kann das Vorderrad auch auf eine leicht benetzte
+leichter „erfühlen“.
+Plastikfolie gestellt werden. Damit lassen sich die
+Unregelmäßigkeiten am Lenkkopflager leichter „erfühlen“.
+Eine weitere Methode zur Prüfung des Lenkkopflagers und der Telegabel: Drücken Sie das
+Vorderrad gegen eine Wand, und lassen Sie die Telegabel stark ein- und ausfedern. Knackende Geräusche im Lenkkopf oder in der Gabel weisen auf Spiel und Verschleiß hin. (s.a.
+Probefahrt, Fahrwerk)
+
+Telegabel, Federbein
+Telegabel
+• Sind die Standrohre ohne Kratzer oder Rostspuren?
+Die Oberflächen der Standrohre sollten hell glänzen
+(spiegeln) und dürfen keine Kratzspuren aufweisen.
+Wischen Sie mit einem weißen Lappen über die
+Standrohre. So lässt sich auch ein dünner Ölfilm,
+der durch leichte Undichtigkeit der Simmerringe
+entsteht, deutlich machen. Ggf. Wiederholung nach
+der Probefahrt.
+• Telegabel verdreht oder verschränkt?
+Peilen Sie seitlich über die Vorderkonturen der
+Standrohre (nur bei Standardtelegabeln ohne Faltenbälge möglich). Die vorderen Konturlinien der
+beiden Gabelholme müssen absolut parallel zueinander liegen. Ganz sicher gehen Sie, wenn Sie
+eine absolut ebene Platte (Stahl oder Glas) von
+vorne auf beide Standrohre auflegen. Kippelt die
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Ein Ölfilm auf dem Gleitrohr deutet auf defekte Simmerringe hin.
+
+Seite 11
+
+•
+
+•
+
+Platte oder liegt sie auf den ganzen Berührlinien auf? Wenn die Platte nicht sicher aufliegt,
+sind die Gabelholme u.U. zueinander verwunden oder vielleicht sogar verbogen. Im Zweifelsfall beachten Sie besonders den Geradeauslauf und etwaiges Lenkerflattern während der Probefahrt.
+Federn die Gabelholme leichtgängig ein?
+Ist das Dämpfungsverhalten angemessen? Hierzu die Telegabel mehrfach möglichst tief einund ausfedern lassen. Wenn vorhanden: Sind die Schrauben für die Feder-Dämpfer-Einstellung beweglich?
+Sind Gabelholme und Gabelbrücken original montiert?
+In Einzelfällen werden die Gabelholme in den Gabelbrücken verschoben, meist um die Fahrzeugfront abzusenken und damit die Sitzhöhe zu reduzieren. Diese Einstellung sollte wieder
+auf die originale Position korrigiert werden.
+
+Federbein
+• Hinterer Stoßdämpfer in Ordnung?
+Drücken Sie das frei stehende Motorradheck nieder, wenn das Motorrad von einem Helfer am
+Lenker gehalten wird, und lassen Sie es hochschnellen. Dabei darf es nicht weit überschwingen und muss nach etwa einer halben Schwingung zur Ruhe kommen. Es dürfen keine gurgelnden Geräusche im Stoßdämpfer hörbar werden. Kontrollieren Sie an der Dämpferstange,
+ob Öl aus dem Stoßdämpfer austritt.
+• Ist das Federbein Original- oder Nachrüstteil?
+Zubehör- oder Nachrüstfederbeine müssen über eine modellspezifische ABE oder ein Gutachten verfügen.
+
+Räder, Reifen, Bremsen
+Räder
+• Lassen sich die Räder in beide Richtungen frei drehen?
+Gehen Sie gegebenenfalls der Ursache von Schleif- und Knackgeräuschen nach.
+Am Vorderrad: Meistens schleifen die Bremsbeläge mehr oder minder stark an den Bremsscheiben. Betätigen Sie die Bremse und drehen Sie wiederholt. Der Kraftaufwand, um das
+Vorderrad auf Schwung zu bringen, darf nicht sehr groß sein (siehe auch Punkt Bremsen).
+Am Hinterrad: Der Antrieb wird neben den Bremsen ein freies Drehen des Hinterrades erschweren. Trotzdem müssen sich kettengetriebene Hinterräder leicht bewegen lassen. Kardangetriebene Hinterräder laufen meist schwerer (kaltes Öl im Winkeltrieb), müssen sich allerdings gleichmäßig drehen lassen und dürfen nicht haken oder ungleichmäßige, mahlende Geräusche von sich geben.
+• Prüfen Sie die Felgen auf etwaigen Höhen- oder Seitenschlag.
+Halten Sie hierfür einen Schraubendreher so an beide Gabel- oder Schwingenholme, dass
+seine Spitze die Felge bzw. das Felgenhorn gerade berühren. Bei Drehung des Rades sollte
+der Abstand zwischen der Schraubenzieherspitze und der Felge auf dem gesamten Felgenumfang gleich bleiben. Viele Hersteller lassen für den maximalen Höhen- oder Seitenschlag
+Werte von 1,5 bis 2 mm zu. In der Praxis sind diese Ungleichmäßigkeiten deutlich und unangenehm spürbar. Deswegen sollte in solchen Fällen
+über den Kaufpreis diskutiert werden oder vom
+Kauf Abstand genommen werden. Ggf. weitere Prüfungen (Unwuchterscheinungen o. Gleichlaufschwankungen) während der Probefahrt vornehmen.
+Prüfen Sie besonders die Felgenhörner auf Risse,
+Verformungen und Lackschäden. Gussräder sollten
+an Nabe und Speichen keine Riss oder Verformungen aufweisen. Bei Lackschäden genau hinsehen:
+Gibt es dahinter weitere Schäden (z.B. Korrosion)?
+• Gleichmäßige Spannung der Drahtspeichen
+Prüfen Sie die gleichmäßige Spannung der Drahtspeichen, indem Sie mit dem Schraubendrehergriff
+nacheinander an die Drahtspeichen schlagen. Die
+angeschlagenen Speichen müssen einen hohen,
+Drahtspeichen genau prüfen. Mit lockeren, fehklaren, etwa gleichen Klang haben und dürfen nicht
+lende o. gebrochene Speichen sollte nicht gefahren
+werden.
+scheppern. Schätzen Sie auch ab, ob sich lockere
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 12
+
+Speichen nachspannen lassen und ob sie vollständig sind. Festgerostete Speichen lassen
+sich häufig nicht mehr nachspannen, d.h. diese Speichen müssen ersetzt werden, wenn ihre
+Spannung nachgelassen hat. Werfen Sie außerdem einen Blick auf die Radnabe: Sie muss
+gerade im Rad stehen und besonders im Bereich der Speichenköpfe ohne Risse sein. Die gekröpften Speichenköpfe dürfen sich nicht in das Nabenmaterial eingearbeitet haben. Gleiches
+gilt für die Felgenlöcher, in denen die Speichenköpfe sitzen.
+Bitte auch Beachten: Einige Hersteller schreiben regelmäßige Prüfungen der Drahtspeichen
+vor. Wurden diese Prüfungen tatsächlich regelmäßig durchgeführt?
+• Prüfen der Radlager
+Umgreifen Sie beide Räder oben und unten bzw. vorne und hinten mit den Händen und versuchen Sie, sie zu kippen (nicht drehen). Ist ein Spiel spürbar, müssen möglicherweise die Radlager ausgewechselt werden. Defekte an Radlagern werden auch spürbar durch ungleichmäßigen Lauf des drehenden Rades. In der Praxis ist dies meist nur an ausgebauten Rädern
+ausreichend deutlich spürbar.
+• Vorder- und Hinterrad in einer Flucht?
+Bringen Sie das Vorderrad möglichst genau in Geradeausstellung, und peilen Sie nahe dem
+Boden von vorne an den Flanken des Vorder- und Hinterreifens vorbei nach hinten. Wenn die
+Räder nicht fluchten: Während Probefahrt ganz besonders auf den Geradeauslauf achten!
+Das Hinterrad kann schräg eingebaut oder die Schwinge verbogen sein. Beachten Sie aber,
+dass einige Motorradmodelle einen konstruktiv vorgesehenen Räderversatz haben, wie z.B.
+einige BMW Modelle.
+Reifen
+• Sind die richtigen Reifen montiert?
+Die korrekten Reifendimensionen finden Sie in
+der Zulassungsbescheinigung Teil 1 (Fahrzeugschein) in den Zeilen 15.1. und 15.2 oder
+im CoC (EU Übereinstimmungsbescheinigung)
+unter dem Punkt 32. Ein Hinweis auf eine Reifenfabrikatsbindung wird im Feld 22 der Fahrzeugpapiere eingetragen. Die werksseitigen
+Reifenfreigaben stehen meist auch in der Bedienungsanleitung. Wenn eine Reifenbindung
+vorgesehen ist und nicht die werksseitig freigeJe mehr, umso besser. Bei den Preisverhandlungen ein
+gebenen Reifenmodelle montiert sind, sollte
+Thema: Profiltiefen
+der Verkäufer eine Unbedenklichkeitsbescheinigung für die montierten Reifenpaarungen vorlegen können.
+In den alten Fahrzeugpapieren stehen die Angaben zur Reifendimension unter den Ziffern 2023 bzw. 33 „Bemerkungen“. Die Angaben in den Papieren müssen mit den Beschriftungen der
+Reifen übereinstimmen. Gibt es hier Abweichungen, muss eine Unbedenklichkeitsbescheinigung des Fahrzeugherstellers für die Reifenpaarung vorliegen. Weitere Informationen zu Motorradreifen und Reifenbindungen finden Sie unter adac.de/motorrad.
+• Stimmen die Drehrichtungen der Reifen?
+• Wieviel Profil haben die Reifen?
+Bremsen
+• Ist die Bremsanlage vollständig dicht?
+Als Austrittsstellen für Bremsflüssigkeiten kommen
+die Bremsflüssigkeitsbehälter (Deckel) sowie die
+Anschlüsse der Bremsleitungen an Geberzylinder
+und Bremszange in Frage. Seltener entstehen Leckagestellen an den Bremsleitung selbst. Prüfen
+Sie auch Bremsleitungen auf Altersrisse (Versprödung).
+• Bremsscheibe
+Überprüfen Sie die Bremsscheibenoberfläche auf
+Riefen. Fahren Sie dazu mit senkrecht aufgesetztem Fingernagel von innen nach außen. Bei tiefen
+Riefen oder eingelaufenen Bremsscheiben (deutlich
+sicht- und spürbare Absätze an den inneren und
+Die Nagelprobe an den Bremsscheiben.
+äußeren Scheibenrändern) müssen diese unter
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 13
+
+Umständen ausgewechselt werden. Bremsscheiben sind vor allem bei japanischen Herstellern
+häufig sehr teuer. Also Preis neu verhandeln!
+Hat die Bremsscheibe einen seitlichen Schlag (vor allem am Vorderrad)? Prüfen können Sie
+dies durch gleichmäßiges Drehen des Vorderrades. Rhythmische Schleifgeräusche sollten
+Misstrauen erwecken (siehe auch Punkt Räder und Reifen). Bremsscheiben mit seitlichem
+Schlag müssen aus Sicherheitsgründen ersetzt werden.
+• Bremsbeläge/ Bremsbeläge mit ABE?
+Bestimmen Sie die Bremsbelagstärken? Meistens ist dies durch einen Blick von hinten oder
+unten in die Bremszange möglich. Anderenfalls mit
+einem Spiegel von der Bremseninnenseite in die
+Bremszange blicken. Eine Bremsbelagstärke von 3
+mm sollte noch sichtbar sein. Sind die Bremsbeläge
+auf beiden Scheibenseiten gleichmäßig abgenutzt?
+Wenn nicht, prüfen Sie die Freigängigkeit des
+Bremssattels durch seitliches Verschieben
+(Schwimmsattelbremse). Auch ein langer Bremshebelweg ist häufig ein Indiz für die geringe Bremsbelagstärke.
+An Trommelbremsen gibt ein Verschleißanzeiger
+3 mm Stärke sollten die Bremsbeläge noch aufweiAuskunft über die Belagstärke.
+sen.
+Befragen Sie den Verkäufer, ob die Bremsbeläge
+freigegebene Originalteile des Herstellers oder günstigere Ersatzteile aus dem Zubehör sind.
+Aussagen des Verkäufers im Zweifelsfall im Kaufvertrag notieren.
+• Wirksamkeit der Bremse
+Lässt sich der Handbremshebel leicht bis in die
+Nähe des Gasgriffs oder ganz an ihn heran ziehen,
+ist das Bremssystem schlecht entlüftet, undicht, mit
+zu weichen Bauteilen zusammengestellt oder frisch
+befüllt. Ggf. die Einstellung des Bremshebels verändern und die Prüfung wiederholen. Fragen Sie den
+Besitzer danach.
+Sollten die Bremsen einen schlechten Eindruck machen, sehen Sie von einer Probefahrt und dem Kauf ab.
+Wurden Teile der Bremse (z.B. Stahlflex-BremsleitunDer Bremsgriff darf sich nicht voll durchziehen lasgen) um- oder nachgerüstet, überprüfen Sie die Eintrasen.
+gungen im Brief bzw. die KBA- oder ABE-Nummer.
+
+Auspuffanlage
+•
+
+Ist die Originalauspuffanlage oder ein Zubehörauspuff montiert?
+Austauschauspuffanlagen und Zubehörendschalldämpfer zählen zu den beliebtesten Umrüstkomponenten an Motorrädern. Allerdings ist trotz der Beteuerungen der Verkäufer nicht alles,
+was an Gebrauchtmaschinen montiert angeboten wird, selbstverständlicherweise zulassungsfähig.
+Deswegen unbedingt darauf achten, dass die Auspuffanlage den gesetzlichen Bestimmungen
+entspricht. Tut sie dies nicht, kann es bei der nächsten Hauptuntersuchung oder bei Verkehrskontrollen zu Beanstandungen
+kommen.
+Ist an einem Motorrad, das nach
+dem 1. April 1994 erstmalig zugelassen wurde, eine Auspuffanlage
+aus dem Zubehör nachgerüstet, so
+muss diese ein E-Kennzeichen für
+eine EG-Betriebserlaubnis aufweisen (kleines eingeprägtes E mit
+Prüfnummer) und ein dazugehöriger Prüfbericht und/oder eine ABEKarte vorliegen. Aus den UnterlaAuch originale Auspuffanlagen können gefallen. Es muss nicht immer Zugen muss hervorgehen, dass die
+behör sein.
+Auspuffanlage an dem Motorradtyp
+
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 14
+
+•
+
+•
+
+betrieben werden darf.
+Für die Geräuschgrenzwerte von Maschinen mit Einzelzulassung gelten teilweise abweichende Regelungen.
+Sollte ein Nachweis über die Rechtmäßigkeit der Auspuffumbauten nicht vorliegen oder der
+Motor bei Inbetriebnahme sehr laut erscheinen, empfiehlt es sich, von dem Kauf abzusehen.
+Wenn die originale Auspuffanlage verfügbar ist, kommt natürlich eine Zurückrüstung in Frage.
+In diesem Punkt sollte der Verkäufer dem Käufer wegen des zusätzlichen Reparaturaufwandes entgegenkommen.
+Rost an der Auspuffanlage?
+Besonders ältere und günstige Modelle verfügen serienmäßig vielfach über korrosionsempfindliche Auspuffanlagen. Werden beim Klopfen auf das entsprechende Bauteil Klappergeräusche laut, sind die Auspuffinnenbleche mit hoher Wahrscheinlichkeit durchgerostet und lose.
+Dies macht sich bei laufendem Motor meist auch als lauteres Auspuffgeräusch bemerkbar.
+Die Auspuffanlagen moderner Motorräder werden überwiegend aus rostbeständigen Metalllegierungen gefertigt. An diesen Auspuffanlagen ist Rost eher selten. Lediglich an den Vorschalldämpfern einzelner moderner Maschinen können Korrosionspuren sichtbar sein. Deswegen auch unter die Maschine in den Bereich des Vorschalldämpfers blicken. Die meist braungrauen Verfärbungen an den Oberflächen können mit Spezialreinigern wirksam entfernt werden. Auch eingebrannte Kunststoffreste auf den Krümmeroberflächen lassen sich mit geeigneten Methoden entfernen.
+Auspuffanlage vollständig dicht?
+Die wenigsten Auspuffanlagen sind aus einem Stück gefertigt. An den Flanschen, die die
+Rohre der Einzelteile verbinden, können Undichtigkeiten entstanden sein, die meist an
+schwarzen Rußspuren in diesen Bereichen erkennbar sind.
+
+Motorgehäuse, Tank, Kraftstoffanlage
+•
+
+•
+
+•
+
+•
+•
+
+Sind das Motorgehäuse und ggf. das Kühlsystem dicht?
+Bei schwarzer Motorlackierung wischen Sie mit einem weißen Lappen über die fraglichen Stellen und wiederholen dies nach der Probefahrt. Wenn der Motor wassergekühlt ist, überprüfen
+Sie, ob Öl oder Wasser austritt (Konsistenz der Flüssigkeit). Die professionelle Beseitigung
+von Ölundichtigkeiten kann teuer werden.
+Ist der Tank ohne Rost?
+Rost kann sich an und in Stahltanks besonders älterer Motorräder im Bereich des Einfüllstutzens sowie
+auf der Unterseite bilden. Falls möglich sollten Sie mit
+einer Taschenlampe in den Tank leuchten. Wenn
+Roststellen vorhanden sind: Sind sie korrekt behandelt bzw. geschützt? Die Partikel von unbehandelten
+Roststellen im Tank können die Kraftstoffversorgung
+stören.
+Ist der Tank original?
+Rost am und im Tank ist nur bei alten Maschinen
+Besonders für Enduros werden als Zubehör großvoluzu erwarten, wenn sie überwiegend unter freien
+mige Kunststofftanks angeboten. Hierfür ist eine pasHimmel stand.
+sende ABE erforderlich.
+Ist der Tank dicht?
+Ist die Kraftstoffanlage dicht?
+Bei Vergaser-Maschinen: Überprüfen Sie, ob das Schwimmerventil abdichtet. Öffnen Sie dazu
+den Benzinhahn bei stehendem Motor (ggf. den Benzinhahn in die PRI-Stellung bringen).
+Wenn die Schwimmerventile nicht ausreichend abdichten oder der Schwimmer falsch eingestellt ist, tritt nach wenigen Minuten Benzin aus der Schwimmerkammer (Überlaufschläuche
+enden meist unter der Maschine). Bei Einspritzanlagen sollte die Zündung eingeschaltet werden. Die Benzinpumpe baut üblicherweise sofort und hörbar den erforderlichen Druck auf, um
+danach wieder auszugehen. An den Druckleitungen sollte kein Benzin austreten. Mängel an
+Benzinleitungen können mittels Sichtprüfung ermittelt werden.
+
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 15
+
+Ketten- u. Kettenradverschleiß, Kardan
+•
+
+Sind Antriebskette und Kettenräder in Ordnung?
+Wenn sich die Kette hinten deutlich vom Kettenrad
+abheben lässt, sind Kette und Kettenräder wahrscheinlich verschlissen. Ein verschlissenes Kettenrad erkennt man an den spitzen, zum Teil wie Haifischflossen geformten Zähnen (Sägezahnformen).
+Der Hinweis „Kette neu“ reicht nicht. Nur der Ersatz
+von Kette und Kettenrädern macht Sinn.
+Außerdem sollten Sie den Durchhang der Kette an
+Kettendurchhang immer an verschiedenen Kettendem unteren Kettenabschnitt prüfen. Vor allem die
+abschnitte prüfen.
+Gleichmäßigkeit der Kettenspannung ist wichtig.
+Drehen Sie dazu das Hinterrad in Schritten von einer halben Umdrehung weiter und prüfen
+Sie erneut den Kettendurchhang. Sollten zwischen zwei aufeinanderfolgenden Prüfpunkten
+stark unterschiedliche Kettenspannungen spürbar sein, kann sowohl die Kette auf ihrer gesamten Länge unterschiedlich gelängt sein und/oder die Zentrierung des Kettenrades unzureichend sein. Die Unterschiede bei der vertikalen Beweglichkeit des unteren Kettenabschnittes sollten bei Straßenmaschinen 20 bis 30 mm nicht übersteigen. Bei verschissenem Kettentrieb ist eine Preisreduzierung angemessen.
+• Wie weit ist der Kettenspanner ausgenutzt?
+Je weiter die Hinterradachse nach hinten gezogen ist, umso mehr ist die Kette verschlissen
+(Markierungen beachten!)
+• Originalübersetzung?
+Hat der Kettensatz die originale Übersetzung, oder ist eine geänderte Endübersetzung in den
+Fahrzeugpapieren eingetragen? Wenn eine vom Original abweichende Übersetzung nicht eingetragen wurde, ist die allgemeine Betriebserlaubnis des Fahrzeuges erloschen. Aussagen
+des Verkäufers zu diesem Thema, die Sie nicht nachprüfen können, sollten ggf. in den Kaufvertrag aufgenommen werden.
+Kardanantrieb
+• Gleichmäßiger Rundlauf
+Hinterrad in beide Richtungen drehen. Es dürfen keine mahlenden Geräusche hörbar werden.
+Die Drehung muss gleichmäßig und ohne zu haken möglich sein.
+• Öldichtigkeit
+Die meisten Kardanantriebe laufen trocken d.h., dass sich kein Öl im Gehäuse der Kardanwelle befindet. Nur die Winkeltriebe laufen in Öl. Ist trotzdem Ölnebel an dem Kardangehäuse
+sichtbar, ist Vorsicht geboten. An Simmerringen und Gummimanschetten darf kein Ölnebel
+sichtbar sein.
+
+Rahmen, Schwinge, Schwingenlager
+•
+
+•
+
+Ist er Rahmen unversehrt?
+Soweit der Rahmen frei zugänglich und gut sichtbar ist können die Schweißnähte z.B. im Bereich von Lenkkopf, Federbeinaufnahme, Schwingenlagerung und Heckträgerbefestigung geprüft werden.
+Außerdem sollten Korrosionsspuren in Bereichen gesucht werden, an denen möglicherweise
+Batteriesäure oder scheuernde Kabelbäume die Oberflächen beschädigt oder den Lack abgetragen haben.
+Rahmenoberflächen oder auch Schweißnähte die nachträglich bearbeitet (z.B. poliert)
+wurden, sollten Anlass sein, von dem Objekt Abstand zu nehmen. Es ist nicht auszuschließen, dass das Motorrad nicht mehr zulassungsfähig ist. Dies bedeutet nicht selten wirtschaftlicher Totalschaden.
+
+Schwinge und Schwingenlager
+• Schwinge verzogen?
+In extremen Fällen ist eine Zweiarm-Schwinge verschränkt, die Holme der Schwinge also nicht
+exakt parallel. Dies kommt nur unter hoher Gewalteinwirkung zustande, weswegen ein Unfall
+anzunehmen ist. Steht das Rad schräg, und/oder decken sich die Oberkanten der Holme beim
+„Darüberpeilen“ nicht exakt, weitere Untersuchungen vornehmen oder vom Kauf Abstand nehmen.
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 16
+
+•
+
+Schwingenlagerspiel
+Greifen Sie beide Holmenden der frei hängenden Schwinge und drücken Sie sie nach der
+Seite sowie nach oben und unten. Ggf. müssen Sie auch von der Seite einen Schwingenholm
+umgreifen, um ein Spiel spürbar zu machen. Bei deutlichem Spiel müssen die Schwingenlager
+nachgestellt oder ersetzt werden. Außerdem wird das Spiel in und an den Lagern der Federbeinhebel deutlich.
+Spiel in den Lagern der Schwingen- und Federbeinanlenkung können auch ermittelt werden,
+indem das Hinterrad beidseitig von oben umgriffen wird. Beim gefühlvollen Anheben des Hinterrades wird ein leichtes Spiel spürbar. Dieses Spiel sollte Bewegungen mit nur wenigen Millimetern zulassen.
+
+Batterie und Elektrik
+•
+
+•
+
+•
+
+•
+
+•
+•
+
+Nehmen Sie die Sitzbank oder Seitenverkleidung ab und prüfen Sie den Zustand der Batterie (Füllstand bei nicht wartungsfreien Batterien) und der Batteriepole. Diese sowie die Befestigungsschrauben der Anschlüsse sollten keine porige Oberfläche haben, sauber und korrosionsfrei sein.
+Messen Sie die Batteriespannung bei
+aus- und eingeschalteter Zündung und
+schalten Sie weitere Verbraucher und
+das Licht an und aus (ggf. Fernlicht). Die
+Spannung sollte dabei nicht unter ca. 11
+Volt fallen. Führen Sie diese Prüfung
+auch durch, während der Motor gestartet
+wird.
+Bei laufendem Motor sollte die Batteriespannung auf mindestens 13 bis 14 V
+ansteigen.
+Prüfen Sie auch die Stecker und Kabel unter der Sitzbank und wenn mögErst unter Last zeigt die Batterie die inneren Werte
+lich unter dem Tank. Sie sollten sauber
+und vollständig isoliert sein.
+Ist der Bereich unter der Sitzbank/im Bereich der Batterie ohne Rost?
+Rost unter der Sitzbank entsteht vielfach bei Maschinen die im Freien stehen durch Feuchtigkeit, die nicht ablaufen oder verdunsten kann. Auch der Bereich der Batterie ist gefährdet
+durch Säureleckagen oder -dämpfen.
+Sind die Sicherungen vollständig bzw. nicht überbrückt?
+Sind nachträgliche Installationen fachmännisch durchgeführt?
+
+Bordwerkzeug, Fahrerhandbuch, Kundendienstheft
+•
+•
+
+Ist das Bordwerkzeug vollständig? Sind Spezialschlüssel für Zündkerzen, Federbein und
+ggf. zum Kettenspannen vorhanden?
+Sind das Fahrerhandbuch und das Kundendienstheft verfügbar?
+
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 17
+
+8.
+
+Probefahrt
+
+Führen Sie eine Probefahrt nur dann durch, wenn die Maschine betriebssicher erscheint und nach
+wie vor echtes Kaufinteresse besteht! Machen Sie sich vorsichtig vertraut mit der „fremden“ Maschine.
+
+8.1.
+•
+•
+
+•
+
+Grundsätzliches zur Probefahrt
+Niemals ein Motorrad ohne eigene, eingehende Probefahrt kaufen! Bei schlechtem Wetter
+ggf. einen neuen Termin vereinbaren.
+Die Probefahrt sollte auch dazu dienen, abschließend die eigene „Kompatibilität“ zu dem Motorradtyp zu ermitteln: Passt das Motorrad überhaupt zu mir? Fühle ich mich auf der Maschine wohl und sicher? Entscheiden muss natürlich die Person, die damit später überwiegend fahren will.
+Die „ADAC-Vereinbarung über die Probefahrt mit einem gebrauchten Kraftfahrzeug“ gemeinsam (Verkäufer und Probefahrer) ausfüllen. Ein Formular dieser Vereinbarung kann unter
+adac.de als PDF-Dokument heruntergeladen werden.
+Legen Sie dem Verkäufer Ihren gültigen Führerschein vor und vereinbaren Sie die voraussichtliche Dauer der Probefahrt. Sie sollten mindestens 30 Minuten Zeit für die Probefahrt
+haben.
+In den meisten Fällen gibt sich der Verkäufer mit der Hinterlegung des Personalausweises
+zufrieden. Stellen Sie sich als Käufer trotzdem darauf ein, dass der Verkäufer Ihnen nur das
+Motorrad überlässt, wenn Sie für die Dauer der Probefahrt ein dem Wert des Motorrades
+entsprechendes Pfand hinterlegen. Dies ist nicht als besonderes Misstrauen Ihnen gegenüber zu werten, sondern eine Folge von Berichten, wonach Kaufinteressenten Probefahrzeuge
+unterschlagen haben. Im Zweifelsfall müssten Sie Ihm gegen Quittung den vereinbarten Kaufpreis als Bargeld überlassen.
+
+Rechtslage während der Probefahrt!
+Nach der überwiegenden Rechtsprechung haftet der Kaufinteressent für Schäden, die während
+der Probefahrt entstehen, nur dann, wenn er diese Schäden mindestens grob fahrlässig herbeigeführt hat. Bei Probefahrten mit Pkw und Motorrädern findet danach ein Haftungsausschluss für
+Schäden statt, die durch leichte Fahrlässigkeit entstanden sind. Für den Verkäufer bedeutet dies,
+dass es empfehlenswert ist, eine schriftliche Vereinbarung dergestalt zu treffen, dass Schäden
+an dem Motorrad, die während der Probefahrt entstehen, vom Kaufinteressenten getragen werden, sofern dieser die Schäden zumindest leicht fahrlässig herbeigeführt hat. Stellen Sie sich als
+kaufinteressierter Probefahrer auf ein entsprechendes Ansinnen des Verkäufers ein.
+Eine Probefahrt muss nicht der Versicherung gemeldet werden.
+Bei einem tatsächlich entstandenen Schaden kann der Halter (Versicherungsnehmer, Verkäufer)
+vom Kaufinteressenten, der den Schaden verursacht hat, folgende Schadenspositionen verlangen: Bei Haftpflichtschäden den Rückstufungsschaden, bei Kaskoschäden gleichfalls einen etwaigen Rückstufungsschaden plus die Selbstbeteiligung. Ggf. kann auch ein Nutzungsausfall für die
+Reparaturdauer beansprucht werden.
+•
+•
+
+Lassen Sie sich den Kfz-Schein für die
+Dauer der Probefahrt aushändigen.
+Wenn Sie unterwegs sind: Gönnen
+Sie sich und dem Motorrad eine
+kurze Pause.
+Es hat sich bewährt, während der Probefahrt eine kurze Pause einzulegen,
+um mit der „neuen“, gebrauchten Maschine ungestört alleine zu sein. Dabei
+können nochmals einzelne, wichtige
+Details begutachtet werden. Sie können
+die Beobachtungen während der Fahrt
+jetzt in die Checkliste eintragen.
+
+Vor der Fahrt Reifendruck prüfen!
+
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Je abwechslungsreicher die Probefahrt umso leichter wird die Kaufentscheidung.
+
+Seite 18
+
+8.2.
+
+Anlassen des Motors, Anfahren
+
+•
+
+Ölstand kontrollieren!
+Beachten Sie für die Ölstandskontrolle die Hinweise in der Bedienungsanleitung. Liegt der Ölstand am unteren Limit, sollte das nachdenklich stimmen: Entweder ist es nicht Sache des Besitzers, die notwendigsten Pflege- und Wartungsarbeiten durchzuführen, oder der Motor hat
+einen sehr hohen Ölverbrauch. Gesunde Motorradmotoren haben keinen oder nur minimalen
+Ölverbrauch. Außerdem können Sie an der Ölfarbe abschätzen, wie lange der letzte Ölwechsel zurückliegt. Je heller und transparenter das Öl erscheint, umso jünger ist es im Allgemeinen.
+• Ist der Motor warm oder noch kalt?
+Ein warmer Motor springt im Allgemeinen wesentlich besser an als ein kalter. Deswegen sollte
+ein warmer Motor etwas misstrauisch stimmen, da Sie die Kaltstarteigenschaften natürlich so
+nicht prüfen können.
+• Springt der Motor schnell und zuverlässig an?
+Wird der Anlasser nicht länger als zwei bis drei Sekunden betrieben? Der Motor sollte innerhalb dieser Zeit anspringen und sauber im (erhöhten) Standgas laufen. Geben Sie beim Anlassen kein Gas, v.a. wenn der Choke zur Hilfe genommen wird.
+• Während des Anlasserbetriebs: Achten Sie auf die Anlassergeräusche und die Kontrollleuchten.
+Harte mechanische Geräusche sind ungewöhnlich und nur bei wenigen großen 1-Zylindermotoren „normal“. Auch sehr laute Pfeif- und Wimmergeräusche sind ungewöhnlich. Prüfen Sie
+diesen Punkt nochmals später, wenn der Motor warm ist.
+Eine Anlasserdrehzahl, die während des Anlassvorganges abfällt, weist auf eine wenig belastbare, schwächer werdende Batterie oder Übergangswiderstände im Anlasserstromkreis hin.
+Auch Kontrollleuchten, die während des Anlassvorganges dunkler werden, deuten auf Batterieschwäche hin. Beachten Sie, dass bei einigen Maschinen während der Betätigung des Anlassers das Licht und die Kontrollleuchten ganz abgeschaltet werden.
+• Verlischt die Öldruck- und ggf. Batteriekontrollleuchte beim Anlassen sofort?
+Erlischt die Öldruckleuchte nicht sofort, Motor gleich wieder abstellen. Der Verdacht liegt nahe,
+dass kein ausreichender Öldruck aufgebaut wird (u.U. Ölpumpendefekt).
+Eine vorhandene Batterieladekontrollleuchte (nur bei alten BMW-Modellen) sollte im Standgas
+vollständig verlöschen. Glimmt diese Leuchte weiter, ist u.U. die Batterie oder die Lichtmaschine (Erregerwicklung) in einem schlechten Zustand bzw. defekt.
+• Wie hoch liegt die Standgasdrehzahl des kalten und des warmen Motors?
+Nur 1-Zylindermotoren haben im allgemeinen Standgasdrehzahlen über 1200 U/min. Warme
+Motoren mit mehreren Zylindern laufen im Stand unter 1200 U/min, meist mit ca. 1000 U/min.
+Ggf. Standgasdrehzahl absenken und auf harte mechanische Geräusche oder Rasselgeräusche achten, die auf eine abgenutzte Steuerkette oder einen defekten Kettenspanner hindeutet. Sprechen Sie den Verkäufer auf Ihre akustischen Beobachtungen an.
+• Durch Ziehen des Kupplungshebels können Sie einen klappernden Kupplungskorb zum
+Schweigen bringen. Leisere Geräusche werden dann deutlicher.
+Die rein mechanischen Geräusche des laufenden Motors sind so vielfältig, dass hier keine detaillierten Hinweise auf bestimmte Mängel des Motors gegeben werden können. Es bedarf vieler Erfahrung mit dem jeweiligen Motor, um Geräuschdiagnosen zu stellen.
+Grundsätzlich gilt aber, dass harte metallische Geräusche Misstrauen verdienen. Wer Zweifel
+an der einwandfreien Funktion des Triebwerkes bekommt, nimmt lieber Abstand vom Kauf.
+Anfahren
+• Geht beim Anfahren die ABS-Kontrollleuchte sofort aus?
+
+8.3.
+•
+
+•
+
+Motor, Kupplung, Getriebe
+Lässt sich die Kupplung leicht betätigen und gut dosieren?
+Ist das Kupplungsspiel korrekt? Der Kupplungshebel sollte rund fünf Millimeter Spiel haben.
+Im Stand bei laufendem Motor lässt sich bei voll gezogenem Kupplungshebel prüfen, ob die
+Kupplung sauber trennt. Das Motorrad darf dabei nicht „schieben“.
+Rutscht die Kupplung durch? Dies lässt sich am besten durch Beschleunigen im hohen Gang
+ermitteln. Die Drehzahl sollte immer proportional zu der Geschwindigkeit steigen.
+Lassen sich die Gänge leicht einlegen und wechseln?
+Bei einigen v.a. älteren Motorradmodellen lässt sich der 1. Gang nur mit Nachdruck und entsprechendem Geräusch einlegen. Dies ist konstruktiv so bedingt, meist nicht vermeidbar und
+
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 19
+
+•
+
+•
+
+•
+
+•
+
+•
+
+8.4.
+•
+
+•
+
+gelegentlich temperaturabhängig. Auch die Suche nach dem Leerlauf kann bei manchen Modellen mühsam sein. Erleichterung bringt meist ein geringfügiges Schließen der Kupplung.
+Spielen Sie ggf. mit der Kupplung.
+Bei moderneren und jüngeren Motorrädern sollten die Gänge ohne diese unangenehmen Erscheinungen einrasten. Anderenfalls besteht der Verdacht auf verschlissene oder verbogene
+Schaltgabeln (Reparatur meist aufwendig!).
+Getriebegeräusche
+Wie beim Motor lassen sich die Getriebegeräusche nicht immer eindeutig einem möglichen
+Mangel zuordnen. Tritt hohes, deutliches Singen oder Surren nur in bestimmten Gangstufen –
+meist im höchsten Gang – auf, sind die zugehörigen Zahnradpaare möglicherweise abgenutzt.
+(Reparatur meist aufwendig).
+Dreht der Motor auch in hohen Gängen gleichmäßig ohne Ruckeln und ohne Vibrationen aus niedrigen Drehzahlen hoch?
+Ab welcher Drehzahl ist der Motor in welchem Gang satt belastbar? Ruckelt der Motor in Zusammenarbeit mit der Kette (v.a. bei 1-Zylindern)?
+Läuft der Motor in allen Drehzahlbereichen mit erträglichen Vibrationen?
+Ist dies nicht der Fall, sind zum Beispiel die Ausgleichswelle, die Antriebskette, der Vergaser
+und/oder die Zündung nicht korrekt eingestellt.
+Die Ursachen für unzureichende Laufruhe und schlechte Leistungsentfaltung sind vielfältig
+und meist schwer zu ergründen. Auch hat natürlich jede Maschine ihren eigenen Charakter.
+Sollten Sie trotzdem ein ungutes Gefühl haben, sehen Sie von einem Kauf ab. (s.a. Punkt Abschätzung der Motorleistung).
+Rauch- oder Dampfaustritt am Auspuff?
+Kontrollieren Sie Rauchaustritt am Auspuff u. U. mit fremder Hilfe. Blauer Rauch unter Last,
+wie etwa beim Beschleunigen, weist auf verschlissene Kolbenringe hin. Blauer Rauch im
+Schiebebetrieb oder bei Standgasdrehzahlen weist auf undichte Ventilschaftdichtungen hin. In
+beiden Fällen sollten sie entweder den Kaufpreis nach unten handeln oder ganz vom Kauf Abstand nehmen. Die Reparaturkosten sind im Allgemeinen hoch.
+Nach dem Start eines kalten Motors kann weißer Wasserdampf am Auspuff austreten. Dies
+gilt besonders für lange Auspuffanlagen (Underseat-Auspuffanlagen). Dieser Dampf sollte
+nach kurzer Fahrtstecke bei heißem Motor und Auspuff verschwinden.
+Auffällige Auspuffgeräusche?
+Bei übermäßigen Auspuffgeräuschen, sollten Sie die Dichtheit des Auspuffs überprüfen oder
+den Besitzer nach einer Veränderung oder Umrüstung des Auspuffs fragen. Siehe auch Punkt
+Detailprüfungen im Stand, Auspuff, Zubehör und ABE. Bei sehr lauten Auspuffanlagen fehlen
+möglicherweise Teile des Endschalldämpfers.
+Abschätzung der Motorleistung (nur mit warmen Motor).
+Auf der Probefahrt sollte möglichst auch ein Straßenabschnitt ohne Tempolimit befahren werden, um ein Gefühl für die Motorleistung im gehobenen Lastbereich zu bekommen. Dabei natürlich alle Sicherheitsvorkehrungen beachten. Sinnvoller als ein Versuch, die Höchstgeschwindigkeit zu erreichen, ist es, den Durchzug in höheren Gängen z.B. bei der Beschleunigung von 100 auf 140 km/h zu testen.
+Sollten Sie Zweifel bezüglich der Performance der Maschine haben, können Sie die Leistung
+in einem ADAC-Prüfzentrum messen lassen. Die Ursachen für Leistungsmängel sind sehr
+vielfältig und auch von der Laufleistung des Motorrades abhängig.
+
+Ketten-, Kardanantrieb
+Kettentrieb
+Beachten Sie beim Fahren mit verschiedenen konstanten Geschwindigkeiten auf ebener
+Straße die Kettenschwingungen und –geräusche. Sie sind Hinweise auf falsche Kettenspannung und Kettenverschleiß. Quietsch- und Rasselgeräusche weisen auf fehlende oder falsche
+Kettenpflege oder fortgeschrittenen Verschleiß hin. Lassen Sie die Maschine mit gezogener
+Kupplung rollen. Auch dabei kann der Gleichlauf der Kette geprüft werden. Nehmen Sie bei
+Zweifeln weitere Prüfungen im Stand vor.
+Lastwechselreaktionen bei Kardanantrieb
+Beachten Sie die Antriebsgeräusche und die Fahrzeugbewegung beim Lastwechsel. Bei harten mechanischen Geräuschen am Kardanantrieb (falls vorhanden) sollten Sie vom Kauf Abstand nehmen. Beachten Sie zudem die Geräusche aus dem Kardanantrieb.
+
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 20
+
+8.5.
+
+Fahrwerk, Bremsen
+
+•
+
+Lenkkopflager in Ordnung?
+Langsamfahrt: Fahren Sie bei korrektem Reifenluftdruck mit Schrittgeschwindigkeit – so langsam wie möglich – geradeaus und in kleinen Bögen. Lenken Sie gegebenenfalls auch im
+Stand. Hakt die Lenkung bei leichten Ausgleichslenkbewegungen oder ist sie schwergängig,
+so ist das Lenkkopflager möglicherweise eingelaufen bzw. eingeschlagen oder zu fest angezogen. Sprechen Sie den Verkäufer auf Ihre Beobachtungen an, und verhandeln Sie den Preis
+neu, oder sehen Sie vom Kauf ab, da der Austausch von Lenkkopflagern aufwendig und teuer
+sein kann (s.a. Prüfung im Stand/ Lenkkopflager).
+• Geradeauslauf prüfen
+Wenn die Verkehrssituation es zulässt, dann lassen Sie bei einer Geschwindigkeit zwischen
+50 und 80 km/h die Lenkerenden locker (zugriffsbereit bleiben), und lassen Sie die Maschine
+im Leerlauf oder hohen Gang rollen. Sitzen Sie dabei mittig und möglichst gerade auf dem
+Motorrad. Zieht die Maschine bei mehreren Versuchen immer wieder in eine Richtung? Wenn
+ja, auch Prüfpunkt „Langsamfahrt“ beachten. Bei starker Ausprägung dieser Erscheinung besteht der Verdacht, dass die Räder nicht fluchten, der Rahmen verbogen oder die Telegabel
+verspannt bzw. verbogen ist. BEI UNKLARHEITEN: NICHT KAUFEN!
+Bei dieser Geradeauslaufprüfung können Sie auch prüfen, ob Lenker im rechten Winkel zu
+Fahrtrichtung steht.
+• Lenkerflattern?
+Bei dem Rollenlassen des Motorrades können Sie auch prüfen, ob Lenkerflattern zwischen 90
+und 60 km/h auftritt. Dazu die Lenkerenden ganz locker lassen. Vorsicht! Halten Sie immer
+beide Hände zugriffsbereit. Eine Hand reicht nicht, um einen stark flatternden Lenker zu beruhigen.
+Besprechen Sie mit dem Verkäufer Ihre Beobachtungen, verhandeln Sie den Preis neu, oder
+sehen Sie vom Kauf ab. Als mögliche Ursachen kommen viele Mängel in Frage (nicht korrekter Reifendruck, Reifen, Telegabel,…). Deswegen kann die Beseitigung dieses Übels sehr aufwendig und teuer werden.
+• Hochgeschwindigkeitspendeln?
+Fahren Sie wenn möglich und erlaubt mit Geschwindigkeiten um 130 km/h: Achten Sie auf
+Hochgeschwindigkeitspendeln. Vorsicht! Sollte Hochgeschwindigkeitspendeln auftreten
+(im Bereich zwischen ca. 110 und 140 km/h) nicht blitzartig Gas schließen, sondern bei
+gleichbleibender Gasstellung Hinterradbremse betätigen.
+MOTORRÄDER, DIE BEI HOHEN GESCHWINDIGKEITEN PENDELN, NICHT KAUFEN!
+• Feder-Dämpfer-Verhalten
+Beobachten Sie die Reaktionen des Fahrwerks auf unebener Straße. Prüfen Sie besonders
+das Ansprechverhalten der Federelemente. Besonders die Telegabel muss auch bei geringen
+Unebenheiten je nach Beladung (Tankbefüllung) sensibel reagieren.
+Bremsen
+• Wirksamkeit der Bremse.
+Bremsen Sie zu Beginn der Probefahrt bei langsamer Fahrt mit beiden Bremsen vorerst vorsichtig, um ein Gefühl für ihren Charakter zu bekommen. Laufen die Bremsen frei, und quietschen sie nicht? Verändert sich die Bremscharakteristik bei mehreren Bremsungen? Einen guten Reibwert der Bremsbeläge erkennen Sie an einem spontanen Ansprechen der Bremse mit
+guter Verzögerung bei bereits relativ niedriger Handkraft.
+Erst nach Gewöhnung an die „neue“ Bremse sollten Sie bei entsprechender Verkehrslage
+(ggf. auf freien abgelegenen Platz) Bremsungen aus höheren Geschwindigkeiten (bis 80 km/h)
+vornehmen und gleiche Prüfungen wie bei langsamer Fahrt durchführen.
+• Vibriert die Gabel oder Lenker bei starker Bremsung
+Ungleichmäßigkeiten an der Bremsscheibe (Verformungen, unterschiedliche Reibwerte) machen sich durch Vibrationen an Gabel und Lenker bemerkbar. Meistens müssen die Bremsscheiben dann ersetzt werden.
+• Ist ein deutlicher Druckpunkt zu spüren?
+Einige ältere Bremssysteme fühlen sich konstruktionsbedingt relativ schwammig an. Besonders für ältere Enduros trifft dies zu. Hier kann die Erneuerung der Bremsschläuche oder deren Umrüstung auf Stahlflexleitungen Besserung bringen.
+Moderne Anlagen hingegen haben meist einen präzisen Druckpunkt. Wenn bei diesen Systemen kein deutlicher Druckpunkt spürbar wird, ist das Bremssystem nicht optimal entlüftet, undicht oder sehr frisch befüllt worden (innerhalb der letzten 100 km). Befragen Sie hierzu den
+Besitzer.
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 21
+
+•
+
+Funktioniert das ABS?
+Nur wenn die Bremsen mit ABS ausgerüstet sind und die Verkehrslage es zulässt, übersteuern Sie bei Geradeausfahrt die Hinterradbremse bei Geschwindigkeit um ca. 40 km/h bis das
+ABS anspricht.
+
+8.6.
+Motor nach der Fahrt
+• Undichtigkeit nach der Probefahrt?
+Untersuchen Sie nach der Probefahrt den Motor erneut auf Flüssigkeitsverluste an Zylinderfuß, -kopf, Ventil- und Seitendeckel, Ölablassschrauben und Ölfilterdeckel sowie Kühlsystem
+und Kraftstoffanlage.
+
+8.7. Sonstige Funktionen
+• Funktionieren die Kupplungs- und Seitenständerzündschalter?
+Die meisten Motorräder haben eine Zündunterbrechung an Seitenständer und/oder Kupplungshebel. Wird der Seitenständer bei eingelegtem Gang ausgeklappt, wird die Zündung unterbrochen, der Motor stirbt ab. Der Motor lässt sich nicht starten, wenn der Seitenständer
+ausgeklappt und ein Gang eingelegt ist.
+Vielfach lässt sich bei eingeklappten Seitenständer und eingelegtem Gang der Motor nur mit
+gezogener Kupplung starten.
+Nehmen Sie die Prüfungen entsprechend vorsichtig vor, damit das Motorrad nicht abrupt anfährt und außer Kontrolle gerät.
+•
+
+Funktionieren die Instrumente. Zeigen sie ruhig an?
+Bei älteren Motorrädern mit klassischer Tachowelle: Wenn die Anzeigen vibrieren, sind häufig
+die flexiblen Antriebswellen eingeklemmt, mit zu kleinen Radien verlegt oder schlecht geschmiert. Gelegentlich ist auch die Dämpfung der Anzeigeinstrumente defekt.
+
+•
+
+Kleiner Elektrik-Test.
+Mängel am Ladesystem der Batterie lassen sich für gewisse Zeit vertuschen, indem die Batterie optimal geladen wird. Lassen Sie deswegen die Zündung und alle Verbraucher (Fernlicht,
+Bremslicht, Blinker,……) eine gewisse Zeit lang eingeschaltet. Starten Sie ggf. mehrmals den
+Motor im möglichst kalten Zustand, um die Batterie zu belasten. Prüfen Sie nach der Probefahrt nochmals die Helligkeit des Lichtes und der Kontrollleuchten während eines Startvorganges. Messen Sie die Batteriespannung wie bei der Standprüfung erläutert.
+
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 22
+
+9. Kaufvertrag
+Wenn Sie als Käufer nach der aussagekräftigen Probefahrt und vielleicht längeren Preisverhandlungen eine Kaufentscheidung für das in Frage kommende
+Motorrad getroffen haben, gilt es den
+Kaufvertrag auszufüllen.
+Unter adac.de können Sie einen
+„ADAC Kaufvertrag für den privaten
+Verkauf eines Gebrauchten Motorrades“
+als ausfüllbares PDF-Dokument herunterladen.
+(https://www.adac.de/_mmm/pdf/Kaufvertrag_Motorrad_11.2016_V1_33249.pdf)
+
+Nach der Kaufentscheidung sollte in Ruhe der „Papierkram“ erledigt werden.
+
+Dieses Formular enthält zusätzliche Hinweise für Käufer und Verkäufer, die Sie zur Vermeidung
+von Missverständnissen und Ärger beachten sollten.
+Für das Ausfüllen des Kaufvertrages gilt:
+• Füllen Sie das Vertragsformular gemeinsam mit dem Verkäufer vollständig (insbesondere Adressen der Vertragsparteien und eventuell der Bevollmächtigten, Ausweis- o. Pass-Nr., Fahrzeug-Ident-Nr., Fahrzeugbrief-Nr., Kaufpreis) und in Ruhe aus. Achten Sie darauf, dass noch
+keine Angaben vorab eingetragen wurden oder prüfen Sie diese Angaben genau.
+• Überprüfen Sie die Eintragungen aus den Fahrzeugpapieren, insbesondere aus dem Fahrzeugbrief.
+• Lassen sie sich eine schriftliche Verkaufsvollmacht und die Ausweispapiere des Bevollmächtigten zeigen, wenn nicht der Fahrzeugeigentümer selbst mit Ihnen verhandelt.
+• Achten Sie darauf, dass die ebenfalls verkaufte Zusatzausstattung und das Zubehör im Vertrag
+vollständig aufgeführt und genau beschrieben werden.
+• Achten Sie auf die Eintragungen zu möglichen Unfallschäden: Entsprechen Sie den Notizen,
+die Sie während der Motorradbesichtigung in der Checkliste eingetragen haben.
+• Achten Sie auf die erklärte Gesamtfahrleistung und die Zahl der Vorbesitzer.
+• Sind Ihre übrigen wichtigen Notizen aus der Checkliste im Kaufvertrag?
+• Unterschreiben Sie erst, wenn vom Verkäufer alle Eintragungen vorgenommen wurden. Werden
+Eintragungen auf einen späteren Zeitpunkt verschoben, weil die nötigen Informationen nicht zur
+Verfügung stehen, sollten Sie auch erst später unterschreiben.
+Zusammen mit dem Kaufvertrag erhalten Sie als Käufer vom Verkäufer:
+• Das Motorrad
+• 2 bzw. 3 Originalschlüssel (bei Schlüsselkopien nach dem Verbleib der Originale fragen).
+• Zulassungsbescheinigung Teil II (Fahrzeugbrief) mit der Stilllegebescheinigung auf der entwerteten Zulassungsbescheinigung Teil I (Fahrzeugschein) bei abgemeldetem Motorrad.
+• Zulassungsbescheinigungen Teil I und II (Fahrzeugbrief und Fahrzeugschein) bei einem angemeldetes Motorrad
+• EU-Übereinstimmungsbescheinigung (EU-CoC)
+• Bericht der letzten Hauptuntersuchung
+• Mustergutachten, Unbedenklichkeitserklärung oder ABE von Zubehör- oder Anbauteilen
+• Serviceheft und Fahrerhandbuch
+• ggf. Werkstatthandbuch oder Reparaturanleitung
+• ggf. Zubehör und/oder Bekleidung.
+Als Käufer übergeben Sie den vereinbarten Geldbetrag! Melden Sie die Maschine umgehend auf
+den neuen Halter an.
+Gute Fahrt mit Ihrer neuen gebrauchten Maschine!
+
+ADAC-Tipps: Motorrad-Gebrauchtkauf
+
+Seite 23
+
+

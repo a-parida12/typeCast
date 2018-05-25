@@ -1,0 +1,1026 @@
+Wissenschaftliche Dienste
+
+Sachstand
+
+Einzelfragen zur Regulierung und zur Nutzung von Kryptowährungen
+
+© 2018 Deutscher Bundestag
+
+WD 4 - 3000 - 021/18
+
+Wissenschaftliche Dienste
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Seite 2
+
+Einzelfragen zur Regulierung und zur Nutzung von Kryptowährungen
+Aktenzeichen:
+Abschluss der Arbeit:
+Fachbereich:
+
+WD 4 - 3000 - 021/18
+2. Februar 2018
+WD 4: Haushalt und Finanzen
+
+Die Wissenschaftlichen Dienste des Deutschen Bundestages unterstützen die Mitglieder des Deutschen Bundestages
+bei ihrer mandatsbezogenen Tätigkeit. Ihre Arbeiten geben nicht die Auffassung des Deutschen Bundestages, eines seiner Organe oder der Bundestagsverwaltung wieder. Vielmehr liegen sie in der fachlichen Verantwortung der Verfasserinnen und Verfasser sowie der Fachbereichsleitung. Arbeiten der Wissenschaftlichen Dienste geben nur den zum Zeitpunkt der Erstellung des Textes aktuellen Stand wieder und stellen eine individuelle Auftragsarbeit für einen Abgeordneten des Bundestages dar. Die Arbeiten können der Geheimschutzordnung des Bundestages unterliegende, geschützte oder andere nicht zur Veröffentlichung geeignete Informationen enthalten. Eine beabsichtigte Weitergabe oder
+Veröffentlichung ist vorab dem jeweiligen Fachbereich anzuzeigen und nur mit Angabe der Quelle zulässig. Der Fachbereich berät über die dabei zu berücksichtigenden Fragen.
+
+Wissenschaftliche Dienste
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Seite 3
+
+Inhaltsverzeichnis
+1.
+
+Wieviele Deutsche nutzen derzeit eine Kryptowährung
+bzw. haben in diese investiert?
+
+4
+
+2.
+
+Wie verteilen sich diese Investitionen auf die
+unterschiedlichen Kryptowährungen?
+
+5
+
+Wie groß ist der Anteil der Händler in Deutschland, die
+Kryptowährungen als Zahlungsmittel akzeptieren?
+
+5
+
+4.
+
+Welche rechtlichen Möglichkeiten gibt es, um
+Kryptowährungen zu regulieren?
+
+6
+
+5.
+
+Welche Arten der Regulierung gibt es, um bspw. die
+Risiken von starken Kursschwankungen abzumildern
+(Deutschland, EU, weltweit)?
+Regulierung in den USA
+Regulierung in anderen Staaten außer der USA
+
+6
+7
+8
+
+3.
+
+5.1.
+5.2.
+
+Wissenschaftliche Dienste
+
+1.
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Seite 4
+
+Wieviele Deutsche nutzen derzeit eine Kryptowährung bzw. haben in diese investiert?
+
+Eine entsprechende Email-Anfrage sandte der Fachbereich an die Bitcoin Deutschland AG. In ihrer Antwort wies die Bitcoin Deutschland AG zunächst darauf hin, dass keine präzisen Zahlen
+und Fakten vorlägen, sondern dass es sich bei der Beantwortung der Fragen „vornehmlich“ um
+eine „persönliche Einschätzung“ des Antwortenden handelt.
+Kennzeichnend für Kryptowährungen seien, so die Bitcoin Deutschland AG, das Fehlen einer
+zentralen Instanz: es existiere keine zentrale Stelle, welche das System kontrolliere indem etwa
+Teilnehmer zum System zugelassen oder vom System ausgeschlossen würden. Insofern existiere
+auch keine zentrale Stelle, der alle Daten über die Nutzung einer bestimmten Kryptowährung
+durch die verschiedenen Teilnehmer vorlägen.
+Grundsätzlich müssten für eine genauere Antwort auf die Frage die Daten aller existierenden
+Handelsplattformen zusammengeführt werden. Darüber hinaus könnten Kryptowährungen auch
+direkt unter Verbrauchern ohne Involvierung einer Handelsplattform transferiert und/oder gehandelt werden.
+Aufgrund der ihr vorliegenden Daten schätzt die Bitcoin Deutschland AG, dass etwa 500.000 bis
+1.000.000 deutsche Staatsbürger Kryptowährungen als Investment, Zahlungsmittel oder für andere Zwecke nutzen.1
+Auch nach Aussage des Blockchain-Center der Frankfurt School of Finance & Management bestünden zu diesem Zeitpunkt zwar keine statistischen Erhebungen zur deutschen Nutzeranzahl.
+Jedoch könne diese anhand der Mitglieder einschlägiger Tauschbörsen und dem anteiligen Traffic-Aufkommen konservativ auf etwa 400.000 geschätzt werden. Der deutsche Anteil am Traffic
+derartiger Tauschbörsen variiere stark. Den größten Anteil habe Deutschland mit 75 Prozent am
+Traffic der Handelsplattform bitcoin.de. Die Nutzeranzahl könne vereinzelt aus den Geschäftsberichten der Börsenbetreiber entnommen werden.2
+Der Verband Bitkom (Bundesverband Informationswirtschaft, Telekommunikation und neue Medien) hat im Rahmen seiner Consumer-Finance-Studien der letzten Jahre jeweils eine Frage zu
+Kryptowährungen gestellt. Für die Antwortoption "Ich habe bereits selbst Bitcoins erworben oder
+sie zur Zahlung genutzt" lag der Anteil der Befragten 2016 bei 2,1 Prozent, für die Studie 2018
+liegt der Wert bei 3,9 Prozent.3
+
+1
+
+Antwort von Bitcoin Deutschland AG auf eine Emailfrage des Fachbereichs vom 24. Januar 2018.
+
+2
+
+Sandner, Philipp; Himmer, Klaus: Bitcoin: 726 Millionen Euro zusätzliche Steuereinnahmen für das Steuerjahr
+2017 durch Kryptowährungen, unter: https://www.frankfurt-school.de/home/newsroom/news/2018/Januar/bitcoin-besteuerung.html, abgerufen am 29. Januar 2018.
+
+3
+
+Antwort von Bitkom auf eine Emailfrage des Fachbereichs vom 24. Januar 2018.
+
+Wissenschaftliche Dienste
+
+2.
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Seite 5
+
+Wie verteilen sich diese Investitionen auf die unterschiedlichen Kryptowährungen?
+
+Nach einer groben Schätzung der Bitcoin Deutschland AG hat ein großer Teil der deutschen Nutzer von Kryptowährungen in den Bitcoin investiert. Kryptowährungen mit einer geringeren
+Marktkapitalisierung seien aufgrund ihrer durch einen kleineren Markt bedingt hohen Volatilität
+und eines (vermeintlich) bisher nicht ausgeschöpften Potenzials jedoch für zunehmend mehr Anleger attraktiv. Die Bitcoin Deutschland AG schätzt, dass 50 Prozent der Investitionssummen
+deutscher Nutzer in die Kryptowährung Bitcoin geflossen sind, wobei sich die übrigen Investitionen auf eine Vielzahl von über 1.000 verschiedene Kryptowährungen aufteilten.4
+
+3.
+
+Wie groß ist der Anteil der Händler in Deutschland, die Kryptowährungen als Zahlungsmittel akzeptieren?
+
+Die der Bitcoin Deutschland AG zu den Kryptowährungen "Bitcoin" und "Bitcoin Cash" vorliegenden Transaktionsdaten der auf Bitcoin.de registrierten Nutzer deuteten darauf hin, dass lediglich ein Anteil von Nutzern von ca. 25 Prozent diese Kryptowährungen zum Teil als Zahlungsmittel nutzt.5
+Eine gemeinsame Studie der Privatbank Berenberg und dem Hamburgisches WeltWirtschaftsInstitut HWWI vom Mai 2017 kommt zu dem Ergebnis, dass die Digitalwährung als Zahlungsmittel
+in Deutschland derzeit praktisch ungeeignet sei. Bitcoin würden vom Handel kaum akzeptiert.
+Berlin gelte in Deutschland zwar als Bitcoin-Hochburg, doch gerade einmal 44 Berliner Geschäfte
+oder Online-Anbieter akzeptierten die Digitalwährung als Zahlungsmittel (Stand: 24. April 2017);
+Hamburg komme auf 13, München auf zehn und Köln auf sieben Geschäfte bzw. Online-Händler.
+Erschwerend komme hinzu, dass es sich dabei oft um Anbieter von Nischenprodukten handele.
+Mit Bitcoin lasse sich der tägliche Lebenswandel nicht einmal ansatzweise bestreiten. So könne
+man in Hamburg seinen Nahrungsmittelbedarf lediglich durch Bestellungen bei einem Pizzaservice decken – andere Restaurants und der Lebensmitteleinzelhandel akzeptierten Bitcoin bisher
+nicht.6
+Bei Angabe der Anzahl der Akzeptanzstellen für Kryptowährung in Deutschland zitiert die gemeinsame Studie von Berenberg und dem HWWI die Internetseite Bitcoin-Einfach.de. Ein Abruf
+am 30. Januar 2018 ergab keine Veränderung der Anzahl der Akzeptanzstellen in den oben genannten Städten.
+
+4
+
+Antwort von Bitcoin Deutschland AG auf eine Emailfrage des Fachbereichs vom 24. Januar 2018.
+
+5
+
+Antwort von Bitcoin Deutschland AG auf eine Emailfrage des Fachbereichs vom 24. Januar 2018.
+
+6
+
+Hungerland, Fabian u. a. (Berenberg); Hüning, Hendrik u. a. (Hamburgisches WeltWirtschaftsInstitut HWWI):
+„Berenberg - HWWI: Strategie 2030 – Die Zukunft des Geldes – das Geld der Zukunft“, Stand Mai 2017,
+Seite 20, unter: https://www.berenberg.de/files/Berenberg/Publikationen/Studie_Strategie_2030/BerenbergHWWI%20Studie_Die%20Zukunft%20des%20Geldes%20-%20Das%20Geld%20der%20Zukunft.pdf, abgerufen am 29. Januar 2018.
+
+Wissenschaftliche Dienste
+
+4.
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Seite 6
+
+Welche rechtlichen Möglichkeiten gibt es, um Kryptowährungen zu regulieren?
+
+Derzeit wird am Blockchain-Center der Frankfurt School of Finance & Management eine Studie
+erstellt, in der die Regulierungen von Kryptowährungen im Hinblick auf verschiedene Zwecke
+(Geldwäscheprävention, Verbraucherschutz etc.) untersucht wird. Die Studie soll Mitte Februar
+2018 fertiggestellt sein.
+
+5.
+
+Welche Arten der Regulierung gibt es, um bspw. die Risiken von starken Kursschwankungen abzumildern (Deutschland, EU, weltweit)?
+
+Einen Überblick, wie verschiedene Staaten der Welt derzeit Kryptowährungen regulieren und
+welche Regulierungsbestrebungen es gibt, bieten die nachstehenden Tabellen in den Kapiteln 5.1
+und 5.2.
+Die Regulierung reicht von Verboten für Kryptowährungen (beispielsweise in den lateinamerikanischen Staaten Bolivien, Kolumbien und Ecuador) über Zulassungsverfahren und die Anwendung von Geldwäscheregeln (Identifizierung von Kunden und Meldung von verdächtigen Sachverhalten) für Tauschplattformen bis hin zu Verbraucherwarnungen von Aufsichtsbehörden und
+Zentralbanken vor Vermögensverlusten bei Investitionen in Kryptowährungen. Diese Warnungen
+sind weltweit gesehen das am häufigsten angewendete Instrument.
+Spezielle Regelungen zur Begrenzung der Kursschwankungen von Kryptowährungen werden bisher nicht angewendet. Es gibt jedoch Überlegungen, mit Hilfe von Steuern, die Spekulationen
+und damit die starken Kursschwankungen zu begrenzen. Entsprechende Überlegungen gibt es
+zum Beispiel in Südkorea. Dort werde derzeit ein Gesetzentwurf vorbereitet, der unter anderem
+die Besteuerung der aus Spekulationen entstandenen Kapitalerträge vorschlägt.7 In Deutschland
+hat der Bundestagsabgeordnete von BÜNDNIS 90/DIE GRÜNEN, Dr. Danyal Bayaz, zu Spekulationen mit Kryptowährungen die Meinung geäußert: „Wenn Bitcoins rein spekulativ gehandelt
+würden, könnte eventuell über die Abgeltungsteuer geredet werden.“ Außerdem „sei allenfalls
+eine Finanztransaktionssteuer eine Option, die allerdings auf europäischer Ebene (noch) nicht
+existiert.“8
+Kritisch wird im Zusammenhang mit den starken Kursschwankungen von Kryptowährungen die
+Zulassung von Terminkontrakten auf diese Währungen angesehen. Mitte Dezember 2017 hatte
+
+7
+
+heise online: Chinas und Südkoreas Vorgehen gegen Bitcoin lässt Kurse stürzen, 16. Januar 2018, unter:
+https://www.heise.de/newsticker/meldung/Chinas-und-Suedkoreas-Vorgehen-gegen-Bitcoin-laesst-Kurse-stuerzen-3942298.html, abgerufen am 01. Februar 2018.
+
+8
+
+Eckert, Daniel: Zwei Ängste belasten die deutsche Bitcoin-Liebe, 12. Januar 2018, unter: https://www.welt.de/finanzen/article172388516/Bitcoin-Deutsche-Angst-vor-Besteuerung-und-unklaren-Vorgaben.html, abgerufen am
+01. Februar 2018.
+
+Wissenschaftliche Dienste
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Seite 7
+
+die Chicagoer Börse CBOE als erste Handelsplattform auf der Welt den Handel mit Terminkontrakten auf die Digitalwährung Bitcoin aufgenommen. Starke Nachfrage und eine hohe Volatilität
+führten nach den Börsenregeln dazu, dass nach einem zehnprozentigen Kursanstieg der Handel
+am selben Tag für zwei Minuten ausgesetzt wurde.9 Vor diesem Hintergrund wird vor einer weiteren Zulassung von Terminkontrakten gewarnt: Die Einführung von Futures auf den Bitcoin
+dürfte die Spekulation weiter anheizen.10
+5.1. Regulierung in den USA
+Die Tabelle wurde in MarketWatch veröffentlicht.11
+Aufsicht
+Securities and
+Exchange Commission -
+
+Aktuelle Zusammenfassung
+Die SEC hat keine börsengehandelten
+Produkte (wie ETFs) für die Notierung oder den Handel genehmigt, die
+Kryptowährungen oder andere Vermögenswerte im Zusammenhang mit
+Kryptowährungen enthalten. Die SEC
+hat keine Initial Coin Offerings (ICOs)
+registriert.
+
+Commodity Futures Trading
+Commission
+
+Die CFTC hat Bitcoin als Rohstoff
+eingestuft und angekündigt, dass Betrug und Manipulation mit Bitcoin,
+der im zwischenstaatlichen Handel
+gehandelt wird, und die Regulierung
+von Warenterminkontrakten, die direkt an Bitcoin gebunden sind, unter
+seiner Autorität liegen.
+
+Wichtige Entwicklungen
+Am 25. Juli 2017 veröffentlichte die
+SEC ein Investorenbulletin über
+ICOs, in der sie sagte, dass sie "faire
+und rechtmäßige Investitionsmöglichkeiten" sein können, aber auch
+unangemessen verwendet werden
+können. Die SEC hat drei Durchsetzungsmaßnahmen gegen ICO-Sponsoren erlassen - einen Stopp und die
+Offenlegung von zwei mutmaßlichen
+Betrugsfällen. Der Vorsitzende der
+SEC, Clayton, äußerte sich ebenfalls
+besorgt über Marktteilnehmer, die in
+den USA Kredite an Kunden vergeben.
+Die CFTC erlaubte den Chicagoer
+Börsen CME und CBOE, Bitcoin-Futures zu starten. Die CFTC hat außerdem eine Plattform für den Handel
+und das Clearing von virtuellen Währungsderivaten für LedgerX, LLC,
+eine Swap-Ausführungseinrichtung
+und eine Clearing-Organisation für
+Derivate, genehmigt.
+
+9
+
+O. V.: Ein neues Zeitalter für Digitalwährungen, in: Frankfurter Allgemeine Zeitung vom 12. Dezember 2017,
+Seite 15.
+
+10
+
+Ettel, Anja; Zschäpitz, Holger: Bedroht der Bitcoin das System?, in: Welt am Sonntag vom 10. Dezember 2017,
+Seite 34.
+
+11
+
+McKenna, Francine: Here’s how the U.S. and the world regulate bitcoin and other cryptocurrencies, 28. Dezember 2017, unter: https://www.marketwatch.com/story/heres-how-the-us-and-the-world-are-regulating-bitcoinand-cryptocurrency-2017-12-18, abgerufen am 01. Februar 2018. Eigene Übersetzung.
+
+Wissenschaftliche Dienste
+
+Aufsicht
+Internal Revenue
+Service
+
+States
+
+Department of
+Treasury
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Aktuelle Zusammenfassung
+Die IRS hat verfügt, das Bitcoin für
+Steuerzwecke wie Eigentum behandelt werden muss. Das bedeutet, dass
+ein Kapitalgewinn oder -verlust erfasst werden sollte, als ob es sich um
+einen Austausch von Immobilien
+handeln würde. Es sollte wie ein Inventar behandelt werden, wenn es
+zum Weiterverkauf gehalten wird
+und daher ein gewöhnlicher Gewinn
+oder Verlust erfasst wird. Wenn es als
+Zahlung verwendet wird, sollte es
+wie eine Währung behandelt werden,
+muss aber konvertiert werden, und
+sein fairer Marktwert wird an einer
+Börse überprüft.
+Mehrere US-Bundesstaaten planen,
+die Akzeptanz oder Förderung der
+Verwendung von Bitcoin und Blockchain-Technologie zu genehmigen,
+während einige sie bereits nach Verlautbarung des Bitcoin-Magazins verabschiedet haben, darunter Arizona
+(Anerkennung intelligenter Verträge),
+Vermont (Blockchain als Beweis) und
+Delaware ( ausstehende Initiative zur
+Autorisierung der Registrierung von
+Aktien von Delaware - Unternehmen
+in Blockchain - Form).
+Im November erklärte der Generalinspekteur des US-Finanzministeriums,
+er beabsichtige, die Kryptowährungspraktiken von FinCEN im Hinblick
+auf Geldwäsche und Terrorismusfinanzierungsrisiken zu überprüfen.
+FinCENs Guidance FIN-2013-G001
+erklärte, dass "virtuelle Währung in
+keiner Jurisdiktion den Status eines
+gesetzlichen Zahlungsmittels hat".
+
+Seite 8
+
+Wichtige Entwicklungen
+
+Die Nationale Konferenz der Kommissare für einheitliche Staatsgesetze
+hat im Juli der Verabschiedung eines
+Mustergesetzes zugestimmt, das die
+Regulierung der Geschäfte mit digitalen Währungen auf staatlicher Ebene
+vorsieht.
+
+Finanzminister Steven Mnuchin
+sagte im November, er habe Arbeitsgruppen im Finanzministerium eingerichtet, die Bitcoin betrachteten
+und dass sie diese "sehr vorsichtig"
+beobachten würden.
+
+5.2. Regulierung in anderen Staaten außer der USA
+Die nachfolgende Tabelle ist ebenfalls bei MarketWatch abrufbar, wurde aber von der Anwaltskanzlei Perkins Coie zusammengestellt. (Eigene Übersetzng).
+
+Wissenschaftliche Dienste
+
+Staat
+Abu Dhabi
+
+Argentina
+
+Austria
+Australia
+
+Bangladesh
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Aktuelle Zusammenfassung
+Emittenten und Intermediäre virtueller Währungen und "Security" -Token
+können je nach Art des Produkts und
+der Dienstleistung einer Regulierung
+unterliegen.
+
+Seite 9
+
+Wichtige Entwicklungen
+Am 9. Oktober 2017 gab die Regulierungsbehörde für Finanzdienstleistungen (Financial Services Regulatory Authority - FSRA) von Abu
+Dhabi eine Anleitung zur Regulierung von anfänglichen Coin / TokenAngeboten (ICO) und digitaler Währung als ergänzende Richtlinie zu den
+bestehenden Finanzdienstleistungsund Marktregeln 2015 heraus.
+Virtuelle Währungen sind kein geAm 2. November 2017, erwog der
+setzliches Zahlungsmittel gemäß der Mercado de Termino de Rosario
+nationalen Verfassung des Landes,
+(Rofex) Dienstleistungen für Anleger
+die die Zentralbank als einzige Bein digitalen Währungen anzubieten,
+hörde bezeichnet, die ein gesetzliches und plant eine Bekanntmachung bis
+Zahlungsmittel ausgeben kann.
+Ende 2017.
+Österreich reguliert Finanzdienstleistungen mit virtuellen Währungen.
+Der digitale Devisenhandel wird
+Am 7. Dezember 2017 verabschiedete
+Mitte 2018 registriert und reguliert,
+das australische Parlament Änderunsobald Änderungen des Gesetzes zur gen zum Geldwäsche- und TerrorisBekämpfung der Geldwäsche und der musfinanzierungsgesetz von 2006.
+Terrorismusfinanzierung von 2006 in Am 8. Dezember 2017 aktualisierte
+Kraft treten. Digitale Währungstrans- das australische Steuerbüro seine
+aktionen unterliegen nicht mehr den Leitlinien zu GST und digitaler WähGüter- und Dienstleistungssteuern
+rung, um Token und ICOs zu adres(GST), unterliegen aber weiterhin
+sieren. Am 18. Oktober 2017 verabEinkommens- und Kapitalertragssteu- schiedete Australien das am 14. Sepern.
+tember eingebrachte Gesetz zur Beseitigung der Doppelbesteuerung digitaler Währung. Am 8. August 2017 gaben australische Senatoren der zwei
+großen politischen Parteien bekannt,
+dass die Reserve Bank of Australia
+(RBA) Bitcoin und andere digitale
+Währungen als offizielle Währungsformen anerkennen sollte. Am
+20. März 2017 veröffentlichte die
+australische Aufsichtsbehörde für
+Wertpapiere und Investments, ASIC,
+Richtlinien zur Verwendung von verteilter Ledger-Technologie (einschließlich Blockchain) in Finanzdienstleistungen und Finanzmärkten.
+Die Bangladesh Bank warnte davor,
+Transaktionen mit Kryptowährung
+durchzuführen, und erklärte, dass
+
+Wissenschaftliche Dienste
+
+Staat
+Belgium
+
+Bermuda
+
+Bolivia
+Brazil
+
+Bulgaria
+
+Canada
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Aktuelle Zusammenfassung
+diese Verwendung mit bis zu 12 Jahren Gefängnis bestraft werden kann.
+Die Belgische Nationalbank hat die
+Anleger und die Öffentlichkeit vor
+den Gefahren virtueller Währungen
+gewarnt und erklärt, dass sie kein gesetzliches Zahlungsmittel seien, und
+der Justizminister hat seine Absicht
+angekündigt, strenge Bestimmungen
+für Aktivitäten in Bezug auf virtuelle
+Währungen einzuführen.
+Die Regierung beabsichtigt, 2018 mit
+der Regulierung virtueller Währungen und ICOs zu beginnen.
+
+Virtuelle Währung wurde explizit gesperrt.
+Die brasilianische Zentralbank hat
+noch keine virtuellen Währungen reguliert, hat aber die Standardwarnungen für ihre Verwendung herausgegeben.
+Einkommen aus dem Verkauf oder
+Tausch von Bitcoin ist steuerpflichtig
+und wird als Einkommen aus dem
+Verkauf von finanziellen Vermögenswerten behandelt.
+Die kanadischen Gesetzgeber scheinen bei der Regulierung virtueller
+Währungen einen leichteren Ansatz
+zu verfolgen, mit einer Politik der
+"Regulierung und Umarmung", die
+sich in erster Linie auf die Bekämpfung von Geldwäsche konzentriert.
+
+Seite 10
+
+Wichtige Entwicklungen
+Am 16. Juni 2017 veröffentlichte die
+Belgische Nationalbank einen Bericht
+über die Bedrohung der Geldpolitik
+durch digitale Währungen - mit der
+Schlussfolgerung, dass "jegliche Gefährdung der Währungsstabilität
+durch digitale Währungen, die von
+privaten Akteuren ausgegeben werden, derzeit eher begrenzt ist".
+Die Regierung Bermudas kündigte an,
+dass sie Anfang 2018 damit beginnen
+wird, virtuelle Geldbörsen, Münzen
+und verbriefte Wertmarken zu regulieren. Die neue Verordnung würde
+die Aktivitäten von Firmen umfassen,
+die in oder von Bermuda aus operieren, die Distributed Ledger Technologies (DLT) verwenden um Werte zu
+speichern oder zu übertragen.
+
+Im November 2017 veröffentlichte
+die Bank of Canada ein Diskussionspapier, in dem es darum ging, ob eine
+Zentralbank eine digitale Währung
+(CBDC) ausgeben sollte, die von der
+Allgemeinheit genutzt werden
+könnte. Am 2. November 2017 gewährte die Ontario Securities Commission der in Toronto ansässigen
+Funder, Inc. regulatorische Entlastung, um Ontarios erste regulierte
+ICO / ITO zuzulassen. Am 25. Mai
+2017 gab die Bank of Canada an, dass
+ihr Experiment mit Blockchain- oder
+
+Wissenschaftliche Dienste
+
+Staat
+
+China
+
+Colombia
+
+Croatia
+Cyprus
+Czech Republic
+
+Denmark
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Aktuelle Zusammenfassung
+
+Seite 11
+
+Wichtige Entwicklungen
+Distributed-Ledger-Technologie gezeigt habe, dass sie derzeit nicht mit
+dem Betrieb der zentralisierten Interbank-Zahlungssysteme des Landes
+kompatibel ist.
+Finanzinstitute und Drittanbieter von Am 4. September 2017 untersagte
+Zahlungsdiensten dürfen keine virtu- China allen Unternehmen und Einellen Währungen akzeptieren, verzelpersonen, Gelder durch ICO-Aktiwenden oder verkaufen. Obwohl die vitäten zu sammeln, und wiederNutzung virtueller Währungen weiholte, dass ICOs als illegale Aktivitäterhin legal ist, hat sich die Zentralten im Land betrachtet werden.
+bank von China verpflichtet, Börsen
+bei den zuständigen Aufsichtsbehörden registrieren zu lassen und hat
+vorgeschlagen, die Märkte genau zu
+beobachten. Die Zentralbank von
+China hat angeblich Banken davor gewarnt, mit virtuellen währungsbezogenen Geschäften zu arbeiten.
+Kolumbiens Finanzaufsichtsbehörde
+(SFC) hat Banken verboten, mit virtueller Währung zu arbeiten. Die SFC
+und die Zentralbank haben auch angegeben, dass Bitcoin keine Währung
+ist.
+Informelle Aussagen der Kroatischen
+Nationalbank sind in Bezug auf die
+Legalität von Bitcoin positiv.
+Virtuelle Währungen sind in Zypern
+nicht illegal, aber die Zentralbank hat
+vor ihrer Verwendung gewarnt.
+Das tschechische Finanzministerium
+hat angegeben, dass Transaktionen in
+virtuellen Währungen den Gesetzen
+zur Bekämpfung der Geldwäsche und
+den Meldepflichten unterliegen.
+Die Finanzaufsichtsbehörde warnte
+ähnlich wie andere europäische Länder vor Risiken virtueller Währungen
+und schlug vor, dass die Vorschriften
+über virtuelle Währungen geändert
+werden könnten. Gegenwärtig scheint
+es nicht so, dass virtuelle Währungen
+reguliert werden, zumindest im Rahmen von Finanzinstitut- oder Geldwäsche-Vorschriften.
+
+Wissenschaftliche Dienste
+
+Staat
+Ecuador
+
+Estonia
+
+European Union
+
+Finland
+
+France
+
+Germany
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Aktuelle Zusammenfassung
+Ecuador hat die Ausgabe, Werbung oder den Umlauf virtueller Währungen
+verboten und plant die Ausgabe einer
+eigenen digitalen Währung zur Verwendung als gesetzliches Zahlungsmittel.
+Informelle Vorsichtsmaßnahmen bezüglich der Verwendung von Bitcoin
+als Antwort auf E-Mail-Anfragen; Bitcoin-Einkommen wird als Kapitalgewinne behandelt.
+Die Europäische Bankenaufsichtsbehörde warnte die Öffentlichkeit vor
+den mit virtuellen Währungen verbundenen Risiken und gab kürzlich
+bekannt, dass sie die Regeln für die
+Bekämpfung von Geldwäsche und
+Terrorismusfinanzierung auf virtuelle
+Währungen anwenden wird.
+
+Seite 12
+
+Wichtige Entwicklungen
+
+Am 23. August 2017 schlug Estland
+die Einführung einer eigenen, staatlich verwalteten Kryptowährung,
+"estcoin", vor, die mit einem ICO gestartet werden sollte.
+Am 7. September 2017 lehnte der
+Präsident der Europäischen Zentralbank, Draghi, Estlands Pläne zur Einführung einer eigenen staatlichen digitalen Währung, "estcoin", ab und
+wies darauf hin, dass die EZB Estland
+oder einem anderen EU-Mitgliedstaat
+die Einführung einer eigenen Währung verwehren würde
+Basierend auf informellen Interviews Am 22. November 2017 gab die finnigibt es den Hinweis, dass virtuelle
+sche Finanzaufsichtsbehörde (FinanWährungen in Finnland als Waren
+cial Supervisory Authority, FSA) eine
+behandelt werden.
+Warnung heraus, dass es sich bei originalen Coin / Token-Angeboten
+(ICOs / ITOs) und Kryptowährungen
+um riskante und hochspekulative Investitionen handelt.
+Die Bank von Frankreich hat ähnliche Warnungen wie andere europäische Länder herausgegeben. Es gab
+informelle Hinweise darauf, dass
+Frankreich bereit gewesen wäre, Unternehmen mit virtueller Währung zu
+erlauben, als Zahlungsdienstleister
+nach französischem Recht zu agieren,
+und Frankreich hat nun angekündigt,
+dass es Regeln zur Überprüfung der
+Kundenidentität für virtuelle Währungsplattformen einführen wird.
+Virtuelle Währungen sind Finanzin- Am 15. November 2017 gab die Bunstrumente nach deutschem Recht und desanstalt für Finanzdienstleistungssind eine Form von "privatem Geld", aufsicht (BaFin) eine Stellungnahme
+das als Kapital besteuert werden
+heraus, in der die Verbraucher auf
+kann. Bestimmte Verwendungszwedie Risiken von Coin-Offerings (ICOs)
+cke können auch eine Lizenz oder
+hingewiesen wurden.
+Genehmigung erfordern.
+
+Wissenschaftliche Dienste
+
+Staat
+Hong Kong
+
+Iceland
+
+India
+
+Indonesia
+
+Iran
+
+Ireland
+
+Isle of Man
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Aktuelle Zusammenfassung
+Informelle Leitlinien deuten darauf
+hin, dass die Aufsichtsbehörden virtuelle Währungen überwachen, insbesondere im Hinblick auf Geldwäsche. Es wird erwogen, virtuelle
+Währung als virtuelles Wirtschaftsgut
+und nicht als gesetzliches Zahlungsmittel zu behandeln.
+Reguliert virtuelle Währungen als
+elektronische Währung durch das isländische Börsengesetz, das Unternehmen den Austausch virtueller
+Währungen verbietet.
+Die indische Regierung regelt (noch)
+keine Kryptowährungsbörsen. Die Reserve Bank of India hat die Öffentlichkeit vor den Risiken virtueller
+Währungen gewarnt und vorgeschlagen, virtuelle Währungen im Rahmen
+des bestehenden indischen Rechtsrahmens zu prüfen.
+
+Seite 13
+
+Wichtige Entwicklungen
+
+Am 16. November 2017 gab der
+Oberste Gerichtshof Indiens eine Mitteilung an die Zentralbank und mehrere andere Agenturen heraus, in der
+sie aufgefordert wurden, auf eine Petition zu reagieren, die an das Gericht
+gerichtet wurde, um Bitcoin zu regulieren. In der Petition wurde der Gerichtshof aufgefordert, Kryptowährungen gegenüber der Staatskasse rechenschaftspflichtig zu machen, wobei Besorgnis über die Unübertragbarkeit digitaler Währungstransaktionen
+geäußert wurde.
+
+Virtuelle Währungen sind kein gesetzliches Zahlungsmittel und die
+Verwendung virtueller Währungen
+verstößt gegen die Informations- und
+elektronischen Transaktionsgesetze
+und Währungsgesetze des Landes.
+Der Iran beabsichtigt, strenge VorAm 2. Dezember 2017 kündigte der
+schriften für digitale Währungen ein- Hohe Rat des Cyberspace in Iran
+zuführen.
+(HCC) gegen internationale Sanktionen an, dass er die Verwendung von
+Bitcoin akzeptieren werde, aber die
+digitale Währung wird einer strengen
+Regulierung unterliegen.
+Die irische Zentralbank reguliert Bitcoin nicht. Irlands Revenue Commissioners überwachen Bitcoin auf steuerliche Entwicklungen.
+Die Regierung plant die Einrichtung Im Jahr 2016 haben die Kommission
+einer wirtschaftlichen Infrastruktur
+für Glücksspielaufsicht (Gambling
+Supervision Commission, GSC) und
+
+Wissenschaftliche Dienste
+
+Staat
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Aktuelle Zusammenfassung
+zur Förderung virtueller Devisengeschäfte, die den Anforderungen der
+Geldwäschebekämpfung unterliegen.
+
+Israel
+
+Die israelische Zentralbank und das
+Finanzministerium warnen die Öffentlichkeit vor Risiken im Zusammenhang mit virtuellen Währungen.
+
+Italy
+
+Ein Gesetz, das die Identifizierung
+von Parteien in Bitcoin-Transaktionen vorschreibt, wurde im italienischen Parlament vorgeschlagen, aber
+noch nicht verabschiedet. Virtuelle
+Währung ist kein gesetzliches Zahlungsmittel.
+Japan hat am 25. Mai 2016 ein Gesetz
+zur Regulierung virtueller Währungen verabschiedet, das am 3. Juni
+2016 verkündet wurde. Das Gesetz
+wurde am 1. April 2017 in Kraft gesetzt und trat in Kraft.
+
+Japan
+
+Jordan
+
+Virtuelle Währungen sind in Jordanien kein gesetzliches Zahlungsmittel
+und die Zentralbank warnt vor deren
+
+Seite 14
+
+Wichtige Entwicklungen
+das Finanzministerium eine Verordnung gebilligt, nach der digitale Währungen einschließlich Bitcoin als Bargeld akzeptiert werden können.
+Medienberichten vom 27. Dezember
+zufolge soll die Regulierungsbehörde
+für den israelischen Markt Regulierungen vorschlagen, um Unternehmen, die auf Bitcoin und anderen digitalen Währungen basieren, den
+Handel an der Tel Aviv Stock
+Exchange zu verbieten. Im Januar
+2017 gab die israelische Regierung
+bekannt, dass sie für Bitcoin-Verkäufe eine Kapitalertragssteuer einführen werde, die digitale Währungen als eine Art von Immobilien kategorisiert.
+
+Am 30. September 2017 hat die Financial Services Agency (FSA) von
+Japan ihre ersten Lizenzen für den digitalen Währungsumtausch an elf Unternehmen erteilt. Am 1. April 2017
+hat die japanische Finanzdienstleistungsbehörde ein neues Gesetz erlassen, das die Verwendung der digitalen Währung als Zahlungsmittel erlaubt und damit im Wesentlichen
+den gleichen rechtlichen Status wie
+jede andere Währung gewährt. Das
+Gesetz folgt auf monatelange Debatten, die den Bitcoin-Tausch schließlich zu Geldwäschebekämpfungs- /
+Know-your-customer-Regeln führten,
+und führte zur Kategorisierung von
+Bitcoin als eine Art Prepaid-Zahlungsinstrument.
+
+Wissenschaftliche Dienste
+
+Staat
+
+Lebanon
+
+Luxembourg
+
+Malaysia
+
+Malta
+
+Mexico
+
+Morocco
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Aktuelle Zusammenfassung
+Verwendung. Banken, Devisenbörsen, Finanzunternehmen und Zahlungsdienstleister, die in Jordanien
+tätig sind, dürfen keine virtuellen
+Währungen handeln.
+Die Bank of Lebanon warnte die Öffentlichkeit vor den Risiken virtueller
+Währungen und sagte, dass Finanzinstitutionen und Börsen per Dekret
+nicht in virtuellen Währungen wie
+"E-Geld" handeln dürften.
+Die Ausgabe virtueller Währungen ist
+nicht aus Finanzmarktsicht geregelt.
+Finanzdienstleister, zu denen auch
+Geschäfte mit virtueller Währung gehören könnten, müssen eine Genehmigung des Finanzministers erhalten.
+Virtuelle Währungen waren bisher in
+Malaysia kein gesetzliches Zahlungsmittel, aber die Regierung wird bald
+eine neue Kryptowährungsregulierung durchsetzen.
+
+Seite 15
+
+Wichtige Entwicklungen
+
+Am 6. November 2017 sagte der Vorsitzende der Securities Commission
+Malaysia (SC) auf einer Finanzkonferenz, dass der SC an Regulierungen
+und Richtlinien für den Einsatz von
+digitalen Vermögenswerten und
+Kryptowährung arbeite.
+Die maltesische Regierung entwickelt Am 23. Oktober 2017 hat die Malta
+Berichten zufolge eine breit angelegte Financial Services Authority (MFSA)
+nationale Strategie, nach der die Re- einen Verordnungsentwurf für Orgagierung Bitcoin und Blockchain-Inno- nismen für gemeinsame Anlagen vervationen zur Förderung und Einfüh- öffentlicht, die in virtuelle Währunrung der Technologie anerkennen
+gen investieren. Die Verordnung ist
+wird.
+beschränkt auf professionelle Anlegerfonds (Professional Investor Funds
+- PIFs), die in virtuelle Währungen
+investieren.
+Virtuelle Währungen sind keine gesetzlichen Zahlungsmittel, und die
+Bank of Mexico warnt vor Risiken
+beim Einsatz virtueller Währungen.
+Die Verwendung von Kryptowährun- Am 21. November 2017 hat die magen ist in Marokko verboten.
+rokkanische Devisenbehörde, das
+Office des Changes, in einer Pressemitteilung erklärt, dass der Handel
+mit Kryptowährungen innerhalb Marokkos gegen bestehende Vorschriften
+verstößt.
+
+Wissenschaftliche Dienste
+
+Staat
+Netherlands
+
+New Zealand
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Aktuelle Zusammenfassung
+Die Niederlande regulieren Bitcoin
+nicht nach ihrem Gesetz zur Finanzaufsicht, aber ihre Nationalbank hat
+Verbraucherwarnungen bezüglich der
+Verwendung von virtueller Währung
+herausgegeben.
+Informelle Warnungen über die mit
+virtuellen Währungen verbundenen
+Risiken; Vorschlag der Handelskommission, dass virtuelle Währung reguliert werden kann.
+
+Norway
+
+Es gibt Anzeichen, dass virtuelle
+Währungen nicht "Geld" oder "Währung" sind, sondern Vermögenswerte,
+die Kapitalgewinnsteuern unterliegen.
+
+Philippines
+
+Die Börsen werden nicht von der philippinischen Zentralbank oder anderen Aufsichtsbehörden des Landes reguliert.
+
+Poland
+
+Virtuelle Währungen sind nicht illegal, aber auch kein gesetzliches Zahlungsmittel. Sie unterliegen der Kapitalertragsteuer und der Mehrwertsteuer.
+
+Seite 16
+
+Wichtige Entwicklungen
+
+Am 25. Oktober 2017 veröffentlichte
+die neuseeländische Financial Markets Authority (FMA) Kommentare
+zu Initial Coin Offerings (ICOs) und
+Kryptowährungsservices, um ihre
+Online-Ressourcen für Investoren zu
+ergänzen. Die FMA wies darauf hin,
+dass die spezifischen Merkmale und
+der wirtschaftliche Gehalt eines ICO
+bestimmen, ob die angebotenen Münzen / Token ein Finanzprodukt sind
+und wie (oder ob) es reguliert werden
+sollte.
+Am 9. Februar 2017 überprüfte die
+Direktion des norwegischen Finanzministeriums nach einem kürzlich ergangenen Urteil des Europäischen
+Gerichtshofs ihren Standpunkt zur
+Anwendbarkeit von Mehrwertsteuerbefreiungen auf Bitcoin und kam
+kürzlich zu dem Schluss, dass
+Dienstleistungen im Zusammenhang
+mit dem Austausch von Bitcoin von
+der Mehrwertsteuerbefreiung für Finanzdienstleistungen abgedeckt sind.
+Die philippinische Regierung hat sich
+auf die Legalisierung und Regulierung digitaler Währungen hinbewegt,
+die als Wertpapiere gelten und unter
+die Aufsicht der philippinischen
+Wertpapier- und Börsenaufsichtsbehörde gestellt werden.
+Am 22. Februar 2017 forderte Polens
+Finanz-Ombudsmann das Finanzministerium des Landes auf, die lokale
+Kryptowährungsindustrie zu regulieren, da der Markt für Kryptowährungen in Polen einem raschen Wachstum unterliegt und Vorschriften zum
+Schutz der Kunden von Kryptowährungsbörsen unterliegen sollten.
+
+Wissenschaftliche Dienste
+
+Staat
+Portugal
+
+Russia
+
+Serbia
+
+Singapore
+
+South Africa
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Aktuelle Zusammenfassung
+Warnungen der Bank von Portugal
+über die Risiken virtueller Währung,
+wobei klargestellt wird, dass die
+Bank Bitcoin nicht reguliert.
+Digitale Währungen wurden früher
+als Geldsurrogate nach Bundesrecht
+verboten, 2017 hat sich jedoch die
+Regulierung der Kryptowährung
+Russlands abgeschwächt. Pläne zur
+Regulierung der Kryptowährung haben Fortschritte gemacht, und Verfahren für den Kauf von Kryptowährungen sollen bis Ende 2017 bekannt
+gegeben werden.
+
+Warnung der Nationalbank von Serbien, dass Bitcoin kein gesetzliches
+Zahlungsmittel ist und nicht zum
+Verkauf und Kauf durch Banken und
+zugelassene Börsenhändler bestimmt
+ist. Warnung, dass ein fehlender
+rechtlicher Schutz von Bitcoin ein Risiko darstellt und zu finanziellen
+Verlusten führen kann.
+Virtuelle Währungen sind nicht
+"Geld" oder "Währung". Jedoch können Geschäfte mit virtuellen Währungen Bestimmungen zur Bekämpfung
+der Geldwäsche unterliegen. Informelle Berichte deuten darauf hin,
+dass Verkäufe virtueller Währungen
+als Einkommen versteuert werden,
+Investitionen als Kapitalgewinne besteuert werden und möglicherweise
+der Mehrwertsteuer unterliegen.
+
+Die South African Reserve Bank hat
+davor gewarnt, dass virtuelle Währungen keinen rechtlichen Status haben und einem Mangel an Sicherheit
+unterliegen, möglicherweise an Wert
+verlieren und möglicherweise nicht
+
+Seite 17
+
+Wichtige Entwicklungen
+
+Das russische Finanzministerium hat
+einen Gesetzentwurf vorbereitet, der
+am 28. Dezember vorgelegt werden
+soll. Der stellvertretende Finanzminister Alexej Moisejew sagte, dass der
+Gesetzesentwurf, wie Tass am Mittwoch mitteilte, eine Grenze von 1
+Milliarde Rubel [~ USD $ 17.3 Mio.]
+enthält, die durch ein ICO aufgebracht werden kann und eine Obergrenze von 50.000 Rubel [~ 864
+USD], die jeder nicht professionelle
+Anleger investieren kann.
+
+Am 21. November 2017 veröffentlichte die Monetary Authority of Singapore (MAS) ein Konsultationspapier, in dem Rechtsvorschriften für
+Zahlungsdienste vorgeschlagen wurden. Die vorgeschlagene Gesetzesvorlage würde den Anwendungsbereich
+der Regulierung auf den Kauf und
+Verkauf virtueller Währungen und
+anderer Innovationen ausweiten, die
+bei inländischen Geldtransfers und
+Händlertransaktionen über Point-ofSale- oder Online-Zahlungsgateways
+verwendet werden.
+
+Wissenschaftliche Dienste
+
+Staat
+South Korea
+
+Spain
+
+Sweden
+
+Switzerland
+
+Taiwan
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Aktuelle Zusammenfassung
+in ein gesetzliches Zahlungsmittel
+umgewandelt werden können.
+Virtuelle Währungen sind keine gesetzliche Währung, sind volatil und
+riskant und haben keinen inneren
+Wert.
+
+Virtuelle Währungen werden angeblich als elektronisches Zahlungssystem im Glücksspielrecht besteuert,
+aber ihre Behandlung in anderen
+Rechtsbereichen ist unklar.
+Eine informelle Aussage eines Steuerbeamten legt nahe, dass virtuelle
+Währungen keine Währungen in
+Schweden sind, sondern als Vermögenswerte behandelt werden.
+Die Schweizer Finanzaufsichtsbehörde hat Lizenzierungsanforderungen für Bitcoin-Kioskbetreiber definiert und erklärt, dass virtuelle Währungsplattformen dem Geldwäschegesetz unterliegen. Eine andere Regulierung ist jedoch unwahrscheinlich, da
+virtuelle Währungen als marginales
+Phänomen wahrgenommen werden.
+
+Die Zentralbank und die Finanzaufsichtskommission warnten, dass virtuelle Währungen keine Währungen,
+sondern Rohstoffe sind und keinen
+
+Seite 18
+
+Wichtige Entwicklungen
+Die südkoreanische Regierung sagte
+am 27. Dezember, sie werde zusätzliche Maßnahmen zur Regulierung der
+Spekulation im Kryptowährungshandel innerhalb des Landes einführen.
+Am 6. Dezember 2017 hat die koreanische Finanzdienstekommission ein
+Verbot für den Handel mit BitcoinFutures erlassen, was mehrere Wertpapierfirmen dazu veranlasste, im
+Dezember geplante Seminare für Bitcoin-Futures-Investoren abzubrechen.
+
+Das Schweizer Skigebiet St. Moritz
+gab bekannt, dass es mit der Annahme von Bitcoin-Zahlungen für
+Skipässe beginnen wird, wahrscheinlich aufgrund des Zustroms von
+Cryptowährungsinvestoren, die das
+Resort im Januar für die Crypto Finance Conference besuchen werden.
+Am 29. September 2017 hat die Eidgenössische Finanzmarktaufsicht
+(FINMA) eine Leitlinie zur Erhöhung
+der anfänglichen Münzangebote
+(ICO) im Inland herausgegeben. Zusätzlich prüft die FINMA mehrere
+ICOs, um festzustellen, ob die Emittenten dieser ICOs gegen geltende
+Vorschriften verstoßen.
+
+Wissenschaftliche Dienste
+
+Staat
+
+Thailand
+
+Turkey
+
+United Kingdom
+
+Venezuela
+
+***
+
+Sachstand
+WD 4 - 3000 - 021/18
+
+Aktuelle Zusammenfassung
+rechtlichen Schutz bieten. Beide planen, virtuelle Währungen zu regulieren.
+Das thailändische Recht reguliert
+wahrscheinlich keine virtuellen Währungen, aber das bedeutet nicht, dass
+der Austausch in Thailand frei ist.
+Das kürzlich in der Türkei erlassene
+Gesetz über Zahlungsdienste und
+elektronisches Geld gilt nicht für Bitcoins.
+Berichten zufolge müssen sich Börsen nicht im Rahmen von Geldwäschevorschriften registrieren lassen.
+Virtuelle Währungen werden unter
+den Waren- und Dienstleistungssteuern besteuert, die auf den Gewinnen
+aus einem Verkauf basieren. Das Vereinigte Königreich plant strengere
+Vorschriften für Bitcoin.
+
+Seite 19
+
+Wichtige Entwicklungen
+
+Am 14. November 2017 veröffentlichte die Financial Conduct Authority in Großbritannien eine Warnung
+an die Verbraucher über die Risiken
+einer Anlage in Kryptowährungscontracts-for-differences. Am 27. Oktober 2017 diskutierte das britische
+Parlament über Änderungen der aktuellen Anti-Geldwäsche-Richtlinie der
+Europäischen Union, die Kryptowährung einschließen würde. Mit den
+vorgeschlagenen Änderungen würden digitale Wechselstuben und Depotbanken in den Anwendungsbereich der geltenden Rechtsvorschriften fallen.
+Am 3. Dezember 2017 startete Venezuela seine eigene digitale Währung,
+die "Petro", die von Öl-, Gas-, Goldund Diamantenreserven unterstützt
+wird. Präsident Nicolas Maduro kündigte den Start an, der, wie er sagte,
+Venezuela helfen würde, seine Souveränität voranzutreiben und die Lasten der globalen Wirtschaftssanktionen zu überwinden.
+
+

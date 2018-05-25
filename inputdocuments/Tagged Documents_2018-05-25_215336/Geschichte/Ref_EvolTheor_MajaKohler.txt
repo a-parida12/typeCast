@@ -1,0 +1,183 @@
+
+
+Referat am 24.05.2007, gehalten von Maja Kohler, maja.kohler@gmx.de
+
+
+
+
+
+Einblicke in die Geschichte von Evolutionstheorie, Genetik und
+Molekularbiologie
+
+
+"Wie vor allem sich jenes Gefьhl eines Labyrinths ohne Ausgang
+vergegenwдrtigen, jene unablдssige Suche nach einer Lцsung, ohne darauf
+Bezug zu nehmen, was sich inzwischen lдngst als die Lцsung erwiesen hat -
+ohne sich von ihrer Evidenz blenden zu lassen? Von diesem unruhigen,
+bewegten Leben bleibt oft nur eine kьmmerliche, nьchterne Geschichte ьbrig,
+eine Reihe sorgfдltig geordneter Resultate, die logisch erscheinen lassen,
+was damals keineswegs logisch war." (Jacob 1988)
+
+
+Evolutionstheorie
+
+
+Als die Herkunft der Arten noch hauptsдchlich durch den biblischen
+Schцpfungsbericht erklдrt wurde, verцffentlichte Lamarck 1809 als erster
+eine Evolutionstheorie, die der Konstanz der Arten widersprach und die
+Evolution in einen Kontext zur Umwelt setzte. Er ging davon aus, dass alle
+Lebewesen in unterschiedlichen Lebensrдumen beheimatet sind, woraus sich
+unterschiedliche Lebensbedingungen und Bedьrfnisse ergeben. Das fьhrt zu
+verschiedenen Gewohnheiten, die sich in stдrkerem oder minderem Gebrauch
+bestimmter Organe niederschlagen. Einige Kцrperteile werden deshalb stдrker
+ausgebildet, einige verkьmmern. Solche erworbenen Eigenschaften werden an
+die Nachkommen weitergegeben, wodurch sich eine Art schlieяlich in vielen
+kleinen Schritten verдndert (z.B. Muskel, Kдnguru)
+Wдhrend Lamarcks Theorie noch wenig Anhдnger fand, vertraten Darwins 1859
+verцffentlichte Evolutiontheorie deutlich mehr Wissenschaftler. Er stellte
+fest, dass alle Individuen einer Art verschieden sind. Es kommt zur
+№bervermehrung, die aufgrund der Begrenztheit von Lebensraum und Nahrung
+zur Konkurrenz der Individuen fьhrt. Der Tauglichste (d.h. der am besten an
+die Umweltbedingungen Angepasste) kann sich im Kampf ums Dasein behaupten
+und die "besseren" Merkmale an die Nachkommen weitergeben (z.B. Mammut).
+Es gab lange Verfechter beider Theorien. Der Beweis erfolgte erst 1943
+(siehe unten).
+
+
+Aus was besteht die Erbsubstanz?
+
+
+Nachdem man allgemein davon ausging, dass Evolution und Vererbung einer
+Erbsubstanz bedurften, kam es zu der Diskussion, ob Proteine oder DNA zur
+Codierung der Erbinformation dienen. Fьr Proteine sprach, dass sie
+wesentlich komplexer aufgebaut sind (aus 20 verschiedenen Aminosдuren) und
+auяerdem in alle Stoffwechselfunktionen integriert sind. Fьr die erst neu
+entdeckte DNA hatte man bis dahin noch keine Funktion gefunden, zudem
+besteht sie aus vier unterschiedlichen Basen, sodass die
+Kombinationsmцglichkeiten wesentlich geringer sind. Schlieяlich untersuchte
+Avery 1943 die chemische Natur der Erbsubstanz mit Hilfe von Pneumokokken
+(Bakterien).
+
+      S-Stamm                          R-Stamm
+(glatte Oberflдche, mit Schleimkapsel)       (raue Oberflдche, ohne
+Schleimkapsel)
+      v          v                       |        |
+Proteine isoliert             DNA isoliert -----------|----->|
+      +-------------------->v          v
+                                       R-Stamm          R-Stamm wird
+                                      unverдndert         zu S-Stamm
+Er isolierte DNA bzw. Proteine aus dem S-Stamm und gab sie zu einer Kultur
+des R-Stamms. Wдhrend bei zufьgen der Proteine keine Verдnderung auftrat,
+bildeten Pneumokokken des R-Stamms bei Zugabe von S-Stamm-DNA die
+Schleimkapsel als Merkmal des S-Stamms aus. Folglich musste die DNA die
+Erbinformation darьber enthalten und weitergegeben haben.
+
+
+Wie funktionieren Gene?
+
+
+Wie kommt es nun vom Gen (bestimmter Abschnitt auf der DNA, der fьr ein
+bestimmtes Merkmal codiert) zum ausgeprдgten Merkmal? Darauf fanden Beadle
+und Tatum 1941 eine Antwort, als sie mit Schimmelpilzen experimentierten.
+Nachdem sie diese mit Rцntgenstrahlung bestrahlt hatten, benцtigten die
+gebildeten Kulturen je verschiedene Vitamine zum Wachstum, obwohl sie
+vorher diese selbst synthetisieren konnten. Beadle und Tatum schlossen aus
+dieser Beobachtung, dass ein Enzym fьr den jeweiligen Stoffwechselweg
+ausgefallen war und stellten die "ein-Gen-ein-Enzym-Hypothese" auf. Demnach
+codiert jedes Gen fьr ein bestimmtes Enzym, welches wiederum fьr eine
+bestimmte Reaktion eines Stoffwechselwegs verantwortlich war. Im
+Zusammenwirken der Enzyme entstehen letztendlich unsere Merkmale.  Gen 1
+                 Gen 2
+                    v                     v
+                 Enzym 1               Enzym 2
+                    v                     v
+      Ausgangsstoff ---------------> Zwischenprodukt ----------------->
+Vitamin X
+
+Die Rцntgenstrahlung hatte zur Verдnderung (Mutation) eines Gens (z.B. Gen
+2) gefьhrt, sodass das entsprechende Produkt (z.B. Vitamin X) und auch
+Merkmal (Wachstum ohne Zugabe von Vitamin X) nicht gebildet werden konnte.
+Bei diesem Versuch wurde erstmals auch nachgewiesen, dass die Erbsubstanz
+physikalischer Natur ist und nicht ein unfassbarer Faktor (analog der Seele
+o.д.).
+
+
+Beweis der Evolutionstheorie nach Darwin
+
+
+Bis 1943, als Luria und Delbrьck den Fluktuationstest durchfьhrten, konnte
+bewiesen werden, welche der beiden Evolutiontheorien richtig ist. Bis dahin
+gab es, trotz allgemeiner Befьrwortung von Darwins Theorie der Selektion,
+immer wieder Verfechter von Lamarcks Theorie. Bei diesem Experiment ging
+man von einer Bakterienkultur aus, die man auf zwei Gefдяe verteilte. Gefдя
+1 wurde sofort auf 50 Reagenzglдser aufgeteilt und diese gemeinsam mit
+Gefдя 2 fьr 24 Stunden im Brutschrank wachsen gelassen. Anschlieяend wurde
+der Inhalt von Gefдя 2 auf 50 Reagenzglдser aufgeteilt. Die zwei mal 50
+Proben wurden jede auf eine Petrischale (also 100) mit einem Bakterien
+abtцtendem Antibiotikum gegeben. Aus jedem ьberlebendem Bakterium, konnte
+sich nun eine Kolonie entwickeln. Zum №berleben musste aber vorher eine
+Mutation eingetreten sein, die eine Antibiotikaresistenz verursachte. Beim
+Auszдhlen der Kolonien schwankte die Anzahl bei den Ansдtzen von Gefдя 1
+erheblich, wдhrend bei den Kulturen, die von Gefдя 2 abstammten, die Anzahl
+gebildeter Kolonien etwa gleich war. Insgesamt war die Anzahl gebildeter
+Kolonien abstammend von Gefдя 1 und 2 gleich.
+Nach Lamarck hдtten alle Bakterien absterben mьssen, da sie ja zuvor keinen
+Anlass hatten, sich auf ein Antibiotikum als Lebensraum einzustellen. Sie
+hдtten sich an die Bedingungen im Brutschrank anpassen mьssen, eine
+Antibiotikaresistenz war bei diesen Bedingungen nicht von Vorteil. Darwin
+dagegen sagt, dass es von vornherein eine Vielfalt gibt (also Resistenz und
+keine Resistenz) und das die Umwelt bestimmt, welches Merkmal von Vorteil
+ist und ьberlebt.
+
+Aus heutiger Sicht lдsst sich Evolution abschlieяend so auf einfache Weise
+erklдren: Ein Gen fьr ein bestimmtes Merkmal (z.B. Fellfarbe) unterscheidet
+sich von Tier zu Tier. Durch Mutation kann es dazu kommen, dass das Gen
+verдndert wird und so ein neues Enzym entsteht oder das Enzym nicht mehr
+funktioniert. So kommt es statt braunem zu gelbem (anderes Enzym fьhrt zu
+anderem Pigment) oder weiяem (Enzym funktioniert nicht und bildet gar kein
+Pigment) Fell. In Savanne oder Wьste ist das Tier mit gelbem Fell
+bevorzugt, es kann sich bevorzugt vermehren, da es weniger durch
+Fressfeinde bedroht ist (oder von Beutetieren spдter gesehen wird) und gibt
+sein Gen fьr gelbes Fell bevorzugt weiter. ƒhnlich ergeht es dem Tier mit
+weiяem Fell im verschneiten Gebirge oder Polarkreis.
+
+
+Intelligent Design als Wissenschaft?
+
+
+Intelligent Design ist eine Bewegung, die sich in den 80iger Jahren in den
+USA entwickelte und von ihren Gegnern als aufgewдrmter Kreationismus
+wahrgenommen wird. Ihre Befьrworter sprechen sich gegen eine Evolution
+allein basierend auf Selektion durch die Umwelt aus, da diese allein die
+Vielfalt und Komplexitдt der Organismen nicht erklдren kann. Sie wollen
+wissenschaftlich die Evolutionstheorie widerlegen und sprechen sich fьr
+einen Schцpfer/Baumeister/Designer aus, nach dessen Plan die Lebewesen
+entstanden.
+
+Argumente dafьr:
+    - nichtreduzierbare Komplexitдt ( jedes Enzym eines Stoffwechselwegen
+      bzw. jeder Bauteil einer Struktur (Auge, Bakteriengeiяel) ist wichtig
+      fьr die Funktion und kann nicht einfach entfernt werden ( eine
+      Entwicklung der einzelnen Bestandteile wдre nicht zweckmдяig, da sie
+      allein funktionslos wдren
+    - spezifizierte Komplexitдt ( Wahrscheinlichkeit, dass bestimmte
+      Struktur entwickelt wurde ist extrem gering, noch geringer ist
+      Wahrscheinlichkeit, dass diese Struktur mehrmals entwickelt wurde
+      (Auge, Bakteriengieяel)
+Argumente dagegen:
+    - Theorie ist nicht falsifizierbar, da man einen eventuellen
+      Schцpfer/Designer nicht wiederlegen kann, er sich allen
+      Nachweismethoden entzieht
+    - Intelligent Design verweist nur auf vorhandene Lьcken der
+      Evolutionstheorie, also alles was noch nicht komplett durch fossile
+      Funde etc. nachgewiesen werden kann, sie entwickelt aus Sicht des
+      anerkannten Wissenschaftsbegriffs keine neuen Erklдrungsmodelle, ein
+      Anspruch an jede Theorie
+    - sie hat keinen positiv rьckkoppelten Effekt auf die Wissenschaft und
+      bringt keine neuen, fruchtbaren Ergebnisse hervor
+
+Wдhrend die sonstige Wissenschaft Intelligent Design als
+nichtwissenschaftlich abtut, wirft die Bewegung der Wissenschaft vor, auf
+Methoden versteift zu sein, mit denen ein Designer nicht belegbar ist bzw.
+den modernen Wissenschaftsbegriff neu formulieren und weniger
+naturalistisch gestalten zu mьssen.

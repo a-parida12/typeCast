@@ -1,0 +1,78 @@
+
+
+
+Die Fahrgestellnummer an VAG-Fahrzeugen (VW, Audi, Skoda usw.) kann man
+leicht entschlüsseln. Zu finden ist diese Nummer im Farzeugschein unter
+Punkt 4 (Fahrzeug-Ident.-Nr.)
+Codierung für Hersteller und Fahrzeugtyp
+
+WAU ZZZ 44Z LN 017037
+
+1V1 = VW Amerika Pickup
+1VW = Volkswagen of America / PKW-Typen - VW de Mexico / Golf/Jetta (USA
+A3)
+3VW = VW de Mexico / Golf, New Beetle (1C) (für USA)
+93U = Audi Brasilien/Südamerika
+9BW = FOX USA/Kanada, L 80 bis Mj '96 Produktion Brasilien
+AAA = Audi South Africa
+LAC = CCM Taiwan/Taipeh
+TRU = Audi Hungaria (TT/TTS)
+WAC = Audi 80 (RS2)
+WAU = Audi PKW
+WUA = Quattro GmbH (Audi)
+WV1 = VW AG Transporter (Kastenwagen,Pritsche für USA/Kanada), Caddy ab Mj
+'96, LT neu (Typ 2D) ab Mj '96
+WV2 = VW AG Transporter (Typ 2, Typ 70 und LT),Taro (ex Hannover, ex
+Japan), Caddy ab Mj '96
+WV3 = VW AG Fahrgestell mit Fahrerhaus Transporter, L 80 ab Mj '97
+WVG = VW AG Touareg, Touran
+WVW = VW AG PKW-Typen, Caddy
+YBW = Brüssel-Fertigung für Brasilien
+WAU ZZZ 44Z LN 017037:
+ZZZ ist ein Füllzeichen ohne besondere Bedeutung
+
+
+
+
+
+
+WAU ZZZ 44Z LN 017037:
+Diese drei Zahlen- und Buchstabenkombinationen identifizieren das
+Fahrzeugmodell.
+Die ersten beiden Ziffern/Zahlen (z.b. 44) sind Schlüssel für das
+Fahrzeugmodell
+Z ist wieder nur ein Füllzeichen.
+19 = Golf II
+1J = Golf IV
+1K = Golf V
+31 = Passat 35i
+4A = Audi 100/A6(-1997)
+4B = Audi A6(ab1997)
+4C = Audi V8
+4D Audi A8/S8
+43 = Audi 100/200(-1982)
+44 = Audi 100/200/V8 (1982-1991)
+81,82,98,8A,8C = Audi 80/90
+8D = Audi A4/S4
+85,88 = Audi Coupé
+8D = Audi A4 B5
+8G = Audi Cabrio
+8L = Audi A3
+usw...
+
+WAU ZZZ 44Z LN 017037:
+L Ist das Modelljahr, in dem das Fahrzeug produziert wurde. Dieses kann von
+dem im Fahrzeugschein abgegebenen "Tag der ersten Zulassung" erheblich
+abweichen, z.B. wenn das Fahrzeug 90 produziert wurde und auf Halde oder
+als Vorführwagen später erstmals zugelassen wurde. Der in der
+Fahrgestellnummer angegebene Buchstabe/die Zahl sind maßgeblich, nicht der
+Tag der ersten Zulassung!
+Die Modelljahre sind folgendermaßen gegliedert:
+|A = 1980         |B = 1981         |C = 1982         |D = 1983         |
+|L = Leipzig      |N = Neckarsulm   |N = Mlada        |P = Mosel        |
+|                 |                 |Boleslav (Skoda) |                 |
+|P = Anchieta     |S = Salzgitter   |T = Kvasiny      |W = Wolfsburg    |
+|X = Poznan       |Z = Zuffenhausen |8 = Dresden      |G = Graz         |
+
+WAU ZZZ 44Z LN 017037:
+Laufende Seriennummer des Modelljahres

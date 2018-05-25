@@ -1,0 +1,962 @@
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Hat unser Auto noch Zukunft?
+7 Dinge über das Auto
+Der Autoverkehr soll sich bis 2050 verdreifachen. Schon heute fahren über 44
+Millionen Pkw auf deutschen Straßen. Das bedeutet: Mehr Feinstaub, mehr Lärm
+und mehr Stau. Doch ein Leben ohne Auto ist für viele Menschen kaum
+vorstellbar. Elektro-Autos böten sich als Alternative an. Quarks erklärt, warum sie
+aber kaum jemand haben will. Wenn es nach einigen Wissenschaftlern geht, spielt
+das eigene Auto zukünftig nur noch eine Nebenrolle: Sie entwerfen lebenswerte
+Städte, die grüner, sauberer und leiser sind als heute. Außerdem zeigen wir, wie
+weit die Forschung zu selbstfahrenden Autos wirklich ist.
+
+Verkehr von morgen in der Stadt von morgen
+Redaktion:
+
+Wenn Autos ohne Fahrer fahren
+
+Tanja Winkler
+
+Verschläft Deutschland die Zukunft des Autos?
+Autoren:
+Axel Bach,
+
+Die Rechentricks beim CO2
+
+Dirk Gilson,
+Ulf Kneiding,
+
+Beziehungsarbeit zwischen Mensch und Auto
+
+Theresa Moebus
+
+Armutsfalle Auto?
+Assistenz:
+Angelika Kindler
+
+Eine Stadt fährt Rad
+
+Seite 1
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Verkehr von morgen in der Stadt von morgen
+Eine Zukunftsvision für Städte
+Experten sind sich einig: Wir müssen dringend über das Auto nachdenken. Sonst
+sieht es in den Städten bald ganz düster aus. Im Jahr 2050 werden rund dreiviertel
+der Weltbevölkerung in der Stadt wohnen. Der Verkehr soll sich bis dahin weltweit
+verdreifachen. Das würde mehr Lärm, mehr Stau und mehr Abgase bedeuten.
+Eine Horrorvision!
+Zukunftsmodel "Morgenstadt"
+Mobilitätsforscherin Jennifer Dungs entwirft daher ein Zukunftsmodell einer
+besseren Auto-Welt: die "Morgenstadt". In ihrer Vision gibt es viel weniger Autos;
+vor allem in der Stadt. Die Stadt soll wieder mehr Platz für Menschen bieten. Und
+die wenigen Autos sind alle elektrisch. Zugegeben – es ist bislang nur eine Vision;
+das weiß auch Jennifer Dungs: "Es klingt so toll: Wir fahren alle elektrisch! Aber
+wie kriegen wir die Menschen dazu, das auch zu tun? Aus Erfahrung kann ich
+sagen, dass du niemanden zwingen kannst, seine Art der Fortbewegung zu
+ändern. Du musst Elektromobilität attraktiver machen, als es heute ist", ist die
+Wissenschaftlerin vom Stuttgarter Fraunhofer Institut für Arbeitswirtschaft und
+Organisation überzeugt.
+Das Smartphone als Mobilitätszentrale
+Autos, wie wir sie heute kennen, spielen dann keine Rolle mehr: Es soll nur noch
+wenige selbstfahrende E-Autos geben, die per Car-Sharing genutzt werden.
+Autos, Leihfahrräder und Öffentlicher Nahverkehr sollen so aufeinander
+Seite 2
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+abgestimmt sein, dass man sich schneller, günstiger und umweltfreundlicher als
+heute bewegen kann. Natürlich mit dem Smartphone als Schaltzentrale. Und
+damit ist die Vision noch nicht zu Ende: Selbst zur Rush-Hour gibt es kaum noch
+Staus und Unfälle, weil die Autos selbst fahren. Die Städte sollen für die
+Menschen endlich wieder lebenswert werden.
+Filmautor: Ulf Kneiding
+
+Linktipps:
+Morgenstadt – Stadt der Zukunft
+http://www.morgenstadt.de
+Die Bundesregierung hat die Hightech-Strategie 2020 entwickelt und in dem
+Rahmen das Zukunftsprojekt "Die CO2-neutrale, energieeffiziente und
+klimaangepasste Stadt" formuliert. Die Forscher des Fraunhofer-Instituts zur
+"Morgenstadt" wollen einen Teil zu den Bemühungen beitragen, die Städte der
+Zukunft als zentrale Räume unserer Gesellschaft zukunftsfähig zu machen.
+Nationale Plattform Zukunftsstadt
+http://www.nationale-plattform-zukunftsstadt.de
+Die Bundesregierung stellt sich Fragen zur Zukunft unserer Städte und unserer
+Gesellschaft und sucht nach Antworten angesichts gesellschaftlicher
+Herausforderungen wie Energiewende, Klimaanpassung und
+Ressourcenschonung. Dabei sollen Städte und Kommunen einbezogen werden.
+Die Themenfelder und die Vernetzung werden auf der Seite der Nationalen
+Plattform Zukunftsstadt beschrieben.
+
+Seite 3
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Wenn Autos ohne Fahrer fahren
+Was können selbstfahrende Autos heute?
+In Firmen-Videos fährt es bereits ohne Fahrer unter Kaliforniens strahlender
+Sonne: das Forschungsfahrzeug F 015. Die Fahrt ist umweltfreundlich und
+rücksichtsvoll – der Fahrer wird zum Beifahrer: Er könnte lesen oder ein
+Nickerchen halten. Das Auto der Zukunft spricht mit uns, folgt auf Knopfdruck –
+und vor allen Dingen: Es fährt autonom. Auf kurvigen Landstraßen genauso wie in
+der Stadt. Es erkennt den Gegenverkehr und auch Fußgänger. Zumindest soll es
+all das eines Tages tun.
+Schöne Filme – nüchterne Forschungsrealität
+Doch der F 015 ist ein Prototyp, den es nicht zu kaufen gibt – und ganz fertig ist er
+wohl auch noch nicht. Die Wirklichkeit an den Forschungseinrichtungen ist
+nüchterner. Professor Klaus Dietmayer ist Ingenieur an der Universität Ulm. Er und
+sein Team arbeiten seit vielen Jahren daran, Autos mehr Selbstständigkeit
+beizubringen – mehr als sie heute schon können: "Was im nächsten Jahr kommen
+wird, sind automatische Einparksysteme und auch automatisiertes Fahren auf der
+Autobahn, in einem begrenzten Geschwindigkeitsbereich. Was wir aber wollen, ist,
+automatisiertes Fahren in der Stadt und auf Landstraßen komplett zu realisieren."
+Wenn die Sonne tief steht, kann es problematisch werden
+Doch dafür müssen die selbstfahrenden Autos mit einer bis auf zwei Zentimeter
+genauen Karte und Wegstrecke programmiert werden. Dann können sie zwar die
+gewünschte Strecke fahren, an Zebrastreifen anhalten, Ampeln erkennen und
+Seite 4
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+korrekt durch Kurven fahren. Aber mit einigen alltäglichen Verkehrssituationen
+kommen die Autos noch nicht zurecht: am Straßenrand stehende Fußgänger, die
+Handzeichen geben, auf der Fahrbahn parkende Autos und die tiefstehende
+Sonne. Selbstfahrende Autos können heute also noch nicht selbst fahren. Unsere
+Autos bleiben erstmal auf uns Menschen angewiesen...
+Filmautor: Dirk Gilson
+
+Lesetipp:
+Autonomes Fahren: Technische, rechtliche und gesellschaftliche Aspekte
+Autor:
+
+Markus Maurer u.a.
+
+Verlagsangaben:
+
+Springer Vieweg; Auflage: 2015
+
+ISBN-10:
+
+3662458535
+
+Sonstiges:
+
+732 Seiten, 53,49 Euro
+
+Die vermutlich umfangreichste und kompletteste Aufarbeitung des Themas,
+geschrieben für interessierte Laien. Wer sich intensiver mit der technischen,
+rechtlichen und gesellschaftlichen Situation rund ums selbstfahrende Auto
+beschäftigen möchte, sollte in dieses Buch schauen.
+
+Seite 5
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Verschläft Deutschland die Zukunft des Autos?
+Die grüne Elektromobilität lässt auf sich warten
+Der erste Dämpfer für die deutsche Automobilindustrie liegt bereits viele Jahre
+zurück: 1997 produzierte der japanische Automobilhersteller Toyota das weltweit
+erste Hybrid-Auto in Serie: den Prius – ausgestattet mit Verbrennungsmotor und
+Elektromotor. Der Prius war der erste ernstzunehmende Schritt hin zu alternativen
+Autoantrieben.
+Während deutsche Hersteller nur ihre Verbrennungsmotoren optimierten, statt mit
+Elektroautos voranzugehen, kam im Jahr 2006 der Tesla Roadster auf den Markt:
+ein rein elektrischer Sportwagen. Der brachte dem Elektroantrieb neue
+Aufmerksamkeit; nicht zuletzt, weil ihn auch einige Prominente fuhren.
+Der Tesla Roadster zeigte, was
+ein modernes Elektroauto
+leisten kann.
+
+Deutsche Autoindustrie hinkte hinterher
+Die japanischen Unternehmen Mitsubishi und Nissan produzieren bereits seit 2009
+I
+
+die
+m ersten Kleinwagen in Großserie, die ausschließlich elektrisch angetrieben
+werden. In Deutschland wurde zu dieser Zeit immer noch geforscht und das
+D
+Thema
+Elektromobilität erschien erstmals auf der Agenda der Bundesregierung.
+e Ziel: eine Million Elektrofahrzeuge auf Deutschlands Straßen im Jahre 2020.
+Das
+u
+Kaufanreize
+durch die Politik waren zu dieser Zeit kein Thema: Da es von
+t
+deutschen
+Herstellern noch keine Elektroautos gab, hätte man damit nur die
+s
+ausländische
+Auto-Industrie gefördert... Doch ganz ohne Förderung ist das Ziel
+c
+nicht
+zu erreichen, und so wurden damals 500 Millionen Euro in Wissenschaft und
+h
+l
+a
+n
+
+Seite 6
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Industrie gepumpt. Bis heute liegt die Unterstützung des Bundes zur Entwicklung
+von Elektro-Autos bei 1,5 Milliarden Euro.
+1 Million Elektroautos bis 2020?
+Endlich investierte auch die Industrie in Forschung und Entwicklung von ElektroAutos: In den vergangenen Jahren waren es nach deren Angaben 17 Milliarden
+Euro. 2012 brachten Daimler, BMW und VW die ersten rein elektrischen Modelle
+heraus. Bis Ende 2015 sollen es immerhin 30 Modelle deutscher Hersteller
+werden. Doch die Autofahrer spielen nicht mit. Die Fahrzeuge sind meist ein Drittel
+Der E-Smart war Ende 2012
+das erste deutsche Elektroauto,
+das in Serie angeboten wurde.
+
+teurer als die gleichen Modelle mit Verbrennungsmotor. Zudem ist die Reichweite
+zu gering. Mit einer Stromladung kommen heutige Modelle meist nicht weiter als
+I
+
+100
+m bis 150 Kilometer. Und es gibt nur 2.400 Ladestationen im ganzen Land. Zum
+Vergleich: Es gibt rund 14.500 Tankstellen. Damit liegt Deutschland im
+D
+europäischen
+Vergleich weit hinten. Die Folge: In Deutschland waren bis Mitte
+e
+2015
+insgesamt noch nicht einmal 40.000 Elektroautos zugelassen worden. Der
+u
+gesamte
+Pkw-Bestand in Deutschland liegt bei 44 Millionen Fahrzeugen. Das Ziel
+Bei der Anzahl der Ladesäulen
+liegt Deutschland im
+europäischen Vergleich im
+Mittelfeld.
+
+t Bundesregierung, bis 2020 eine Million Elektrofahrzeuge auf die Straßen zu
+der
+s
+bringen,
+erscheint völlig unrealistisch.
+c
+I
+
+h
+Elektroautos
+sind noch nicht umweltfreundlich
+m
+lDoch die Autoindustrie ist unter Zugzwang: Eine EU-Verordnung gibt vor, dass bis
+a
+D Jahr 2020 der Kohlenstoffdioxid-Ausstoß der Flotte eines Herstellers im
+zum
+ehnitt bei maximal 95 Gramm pro Kilometer liegen darf; 2015 sind es noch 130
+Sn
+c
+d
+u
+Gramm.
+Um das zu schaffen, brauchen die Auto-Hersteller Elektrofahrzeuge, denn
+t zählen in der Flottenbilanz mit null Gramm Kohlenstoffdioxid pro Kilometer –
+sie
+si
+und
+das sogar mehrfach. Doch in Wirklichkeit ist die Umweltbilanz von
+sc
+Elektroautos
+nicht besonders. Zwar stößt ein Elektroauto beim Fahren keine
+t
+h
+Schadstoffe
+aus. Da jedoch der deutsche Strom noch zu über 70 Prozent aus
+
+Bei Strom aus der eigenen
+Solaranlage würde ein
+Elektroauto in seinem
+Lebenszyklus nur ein Viertel der
+Schadstoffe eines modernen
+Diesels ausstoßen.
+
+l
+fossilen
+Brennstoffen und Atomenergie gewonnen wird, belastet ein Elektroauto
+d Umwelt genauso wie ein modernes Dieselfahrzeug. Wirklich umweltfreundlich
+a
+die
+e
+n
+wird
+E-Mobilität erst, wenn die Autos ihren Strom zu 100 Prozent aus nachhaltigen
+r
+d
+Stromquellen
+erhalten. In Deutschland wird das noch lange dauern: Selbst im Jahr
+2030 soll der Anteil der erneuerbaren Energien erst bei 60 Prozent liegen. Wer
+Ig
+i
+aber
+eine hauseigene Photovoltaikanlage sein eigen nennt, kann auch heute
+m
+
+rs
+schon
+mit gutem Gewissen e-mobil sein.
+tö
+D
+ß
+Mehr
+Förderung nötig
+e
+t2014
+d
+verabschiedete die Bundesregierung ein Elektromobilitätsgesetz, nach dem
+u
+e
+e
+Kommunen
+E-Autos bevorzugen dürfen; zum Beispiel bei der Nutzung von
+t
+r
+s
+M
+c
+ig
+h
+
+Seite 7
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Parkplätzen und Busspuren. Einige große Kommunen haben jedoch signalisiert,
+dass sie ihre Busspuren nicht freigeben werden. Die Autoindustrie fürchtet derweil
+um Arbeitsplätze und um ihre Investitionen und fordert noch mehr Unterstützung.
+Und so sollen 2015 weitere Hilfen beschlossen werden, wie etwa
+In der deutschen Autoindustrie
+arbeiten zur Zeit 775.000
+Menschen. Verpasst die
+Industrie den Anschluss in der
+Antriebstechnik, könnten viele
+Arbeitsplätze bedroht sein.
+
+Sonderabschreibungen für Firmenwagen. Diskutiert wird außerdem ein Zuschuss
+für private E-Auto-Käufer in Höhe von 5.000 Euro. Wenn die Bundesregierung ihre
+selbstgesteckten Ziele erreichen möchte, wird sie wohl um weitere Förderungen
+der Elektromobilität nicht herumkommen. Über den Weg dahin wird noch viel
+diskutiert.
+I
+m
+
+Ulf Kneiding
+D
+e
+u
+Linktipps:
+t
+s
+Nationale Plattform Elektromobilität
+c
+http://nationale-plattform-elektromobilitaet.de
+h
+Hier informiert die Bundesregierung über Ziele und Hintergründe zur Förderung
+l
+und Entwicklung der Elektromobilität in Deutschland.
+a
+n
+Elektromobilität: Das Auto neu denken
+d
+http://www.bmbf.de/de/14706.php
+Auf der Seite des Bundesministeriums für Bildung und Forschung finden Sie
+i
+Informationen zu den Zielen der Bundesregierung und den Maßnahmen, die
+s
+ergriffen werden, um die Elektromobilität weiter voranzutreiben. Themen sind
+t
+Reichweite, Kosten, Sicherheit und Käuferakzeptanz sowie die Vernetzung
+unterschiedlicher Branchen, die zur Verwirklichung der neuen Technik und der
+d
+nötigen Infrastruktur nötig sind.
+e
+r
+Informations- und Kommunikationstechnik für Elektromobilität
+http://www.ikt-em.de
+g
+Die Seite des Bundesministeriums für Wirtschaft und Energie informiert über
+r
+Fördermaßnahmen des Bundes für die Elektromobilität im Bereich Informationsö
+und Kommunikationstechnologie. In diesem Rahmen werden 18 ausgewählte
+ß
+Forschungs- und Entwicklungsaktivitäten vorgestellt, in denen mehr als 100
+t
+Unternehmen und Forschungseinrichtungen an den Grundlagen für ein effektives
+e
+Zusammenspiel von Fahrzeugtechnik, Energie- und Infrastrukturen arbeiten.
+M
+i
+l
+c
+
+Seite 8
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Die Rechentricks beim CO2
+Wie die Autohersteller Abgase "sparen"
+Die Autohersteller haben es nicht leicht: Da steigt die Nachfrage nach den
+monströsen SUVs und bringt gutes Geld für altbewährte Technik – aber das grüne
+Gewissen schüttelt mit dem Kopf: Ein SUV schluckt nicht nur viel Sprit, sondern
+raucht auch jeden Kilometer leicht 140 Gramm Kohlenstoffdioxid (CO2) durch den
+Auspuff. Ab 2020 dürfen Neuwagen laut EU-Verordnung aber nur noch
+durchschnittlich 95 Gramm CO2 pro Kilometer ausstoßen. Das gilt jedoch nicht für
+jedes einzelne Auto. Es gilt nicht mal für alle Autos eines Herstellers – seiner
+sogenannten Flotte. Dieser Wert gilt für alle Flotten in der EU zusammen!
+Geld oder Umwelt – wie sollen sich die Autohersteller da nur entscheiden? Ganz
+einfach: Sie nehmen irgendetwas dazwischen. Denn es ist nicht schwer, die Autos
+auf dem Papier sauberer zu machen als sie auf der Straße sind. Hier die drei
+vielversprechendsten Tricks, die Abgaswerte für 2020 schönzurechnen.
+
+Trick 1: Das Ziel aufweichen
+Kurz gesagt: Je dicker ein Auto, desto mehr Abgase sind erlaubt. Wiegt ein Auto
+mehr als im EU-Durchschnitt, darf es auch mehr CO2 ausstoßen. Das 95-GrammZiel ist also kein Fixpunkt, sondern ein dynamischer Wert, der von der Masse der
+Autos abhängig ist. Dieser Bonus wird immerhin ab 2020 reduziert: von 4,57
+Gramm CO2 pro Kilometer und 100 Kilogramm Mehrgewicht auf 3,33 Gramm.
+
+Seite 9
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Trick 2: Mit besonders sparsamen Autos rechnen, die man gar nicht verkauft
+hat
+Die sogenannten "Supercredits" machen es möglich. Dafür braucht man
+spritsparende Autos, die unter 50 Gramm CO2 pro Kilometer ausstoßen. Das sind
+vor allem Hybrid- und Elektroautos. Letztere werden sogar mit null Emissionen
+gerechnet – egal, wie viel CO2 im Kraftwerk entsteht, das den Strom für die
+Batterien erzeugt. Das Besondere: Die emissionsarmen Autos dürfen sogar
+mehrfach gerechnet werden. Heute zählen sie mit dem Faktor 1,5.
+Da die Gesamtemissionen mittels Supercredits durch mehr Autos geteilt werden
+als eigentlich da sind, verringert das den Verbrauch der Flotte – allerdings nur auf
+dem Papier.
+Ein Beispiel: Eine Flotte von zehn Autos, darunter acht SUVs mit einem Ausstoß
+von 140 Gramm CO2 pro Kilometer und zwei "emissionsfreie" Elektroautos, die
+man mit "Null" rechnet. Ergibt insgesamt 1120 Gramm CO2 pro Kilometer. Im
+Durchschnitt stößt jedes Auto also 1120 Gramm : 10 Autos = 112 Gramm CO2 pro
+Kilometer aus.
+Aber durch die Supercredits zählen die beiden Elektroautos wie drei. Ergibt 1120
+Gramm : 11 Autos = 102 Gramm CO2 pro Kilometer. Dabei hat sich am
+Gesamtausstoß nichts geändert. Immerhin: Von 2016 bis 2019 gibt es keinen
+Supercredit. Ab 2020 gibt es zwar wieder einen, aber er wird gedeckelt. Ein
+Hersteller kann also die Emission seiner Flotte dann nicht beliebig kleinrechnen.
+Trick 3: Die Messung umrechnen
+Das derzeitige Verfahren, mit dem der CO2-Ausstoß gemessen wird, lässt den
+Herstellern einige Freiheiten: Angenehme Außentemperaturen, moderate
+Geschwindigkeiten und optimaler Reifendruck halten den Verbrauch niedriger als
+er auf der Straße ist. Aus Hersteller-Sicht ist das erfolgreich: Zehn bis 15 Prozent
+Abweichung zwischen realem und gemessenem CO2-Ausstoß attestierte der
+Verkehrsclub Deutschland dieser Methode.
+2017 soll das anders werden: Ein weltweit einheitliches Verfahren will einige
+Schlupflöcher stopfen und die Messwerte näher an die Realität holen. Ob das
+klappt, kommt ganz auf die Umsetzung an: Weil die neuen Messwerte
+wahrscheinlich von den alten Werten abweichen, wird auch die Zielmarke von 95
+Gramm CO2 pro Kilometer an die neue Messmethode durch Umrechnung
+angepasst. Und so kämpfen die Autohersteller darum, dass die Umrechnung für
+Seite 10
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+sie möglichst günstig ausfällt. Die Schlupflöcher der alten Messmethode sollen
+möglichst in die Umrechnung einfließen. Und vielleicht ergibt sich noch ein CO2Bonus für die kreative Schönrechnung der Autohersteller.
+Theresa Moebus
+
+Zusatzinfos (Fachausdrücke, Erklärungen):
+SUV
+Die Abkürzung steht für "Sport Utility Vehicle" und bedeutet etwa "Sport- und
+Nutzfahrzeug"
+Die Flottengleichung zum Nachrechnen
+Mathematisch berechnet sich der höchstzulässige Flottenverbrauch zurzeit nach
+folgender Formel:
+130 + a * (M - M0)
+Die 130 Gramm CO2/km sind das EU-Ziel bis 2020.
+"a" ist ein Faktor, der bestimmt, um wie viel die Emissionen bei höherem Gewicht
+steigen dürfen. Er ist aktuell mit 0,0457 Gramm CO2/km*kg angesetzt.
+M ist die durchschnittliche Masse der Flotte des jeweiligen Herstellers.
+M0 ist die Durchschnittsmasse der gesamten Neuwagen in der EU. Der Wert wird
+alle drei Jahre neu bestimmt. Für 2012 bis 2015 liegt er bei 1372 Kilogramm.
+Von 2020 an werden ein paar Werte verschärft. Die Formel lautet dann:
+95 + a * (M - M0).
+Das 95-Gramm Ziel ist damit festgeschrieben und der Steigerungsfaktor wird
+etwas niedriger angesetzt: mit 0,033 g CO2/km*kg.
+
+Linktipps:
+Wie sauber sind Europas Autos?
+http://www.transportenvironment.org/sites/te/files/2015_TE_cars_CO2_report_FIN
+AL.pdf
+So sehen die CO2-Bilanzen der Flotten der verschiedenen Autohersteller zurzeit
+aus. (englisch, PDF, 10 Seiten, 3 MB)
+
+Seite 11
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Sind die CO2-Grenzwerte für Pkw ab 2020 in Gefahr?
+https://www.vcd.org/fileadmin/user_upload/Redaktion/Publikationsdatenbank/Aut
+o_Umwelt/Hintergrundpapier_CO2-Vorgaben_fuer_Pkw_in_Gefahr_2015.pdf
+Mehrere Umweltverbände und der Verkehrsclub Deutschland haben Bedenken bei
+der Umstellung des Testzyklus zur Ermittlung der CO2-Emissionen. (PDF, 4 Seiten,
+132 kB)
+
+Das Umweltziel der EU für 2020
+http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex:32014R0333
+In der EU-Verordnung Nr. 333/2014 ist festgelegt, wie das Ziel zur Verringerung
+der CO2-Emissionen neuer Pkw erreicht werden soll.
+
+Seite 12
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Beziehungsarbeit zwischen Mensch und Auto
+Wenn's gut läuft, hält die Batterie länger
+Sie sind schnittig, sparsam und flink – die Elektroautos von heute. Doch sie haben
+noch immer einen großen Nachteil: Eine Batterieladung reicht meist nur für bis zu
+150 Kilometer. Neue, leichtere Batterien könnten helfen, die Reichweite zu
+verbessern. Am Karlsruher Institut für Technologie sucht man zusätzlich nach
+anderen Lösungen: Die Forscher dort testen, wie man aktuelle Elektroautos weiter
+verbessern kann.
+Beziehung zwischen Mensch und Auto
+Dabei geht es auch um die Beziehung zwischen Mensch und Auto. Ingenieur
+Sascha Ott: "Man könnte lapidar sagen, der Fehler sitzt oft hinter dem Lenkrad.
+Das heißt, wenn der Fahrer an seiner Fahrstrategie etwas verändern würde, dann
+hätte man automatisch auch bessere Reichweiten." Um überhaupt
+herauszubekommen, welche Fehler ein Mensch beim Fahren macht, hilft eine der
+modernsten Testanlagen Europas. Mit ihr können Kurven, Steigungen und
+Unebenheiten wie auf einer Straße simuliert werden. Es zeigt sich, nicht nur der
+Verkehr beeinflusst den Fahrer in seinem Verhalten, sondern auch Geräusche. Die
+spannende Erkenntnis der Forscher: Verändern sich die Geräusche im Auto, kann
+auch die Batterie länger halten.
+Filmautor: Ulf Kneiding
+
+Seite 13
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Linktipp:
+Testanlage im Karlsruher Institut für Technologie
+http://www.ipek.kit.edu/2529.php
+Das Karlsruher Institut für Technologie stellt seine moderne Testanlage vor und
+erklärt Sinn und Nutzen für Industrie und Endverbraucher.
+
+Seite 14
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Armutsfalle Auto?
+Wer kein eigenes Auto hat, kann sehr viel Geld sparen
+Wer ein eigenes Auto besitzt, weiß: Autos kosten Geld. Aber wie viel kommt da
+über ein Autofahrerleben zusammen? Anschaffung, Benzin, Versicherungen,
+Reparaturen, Knöllchen, Parkgebühren und, und, und. Fast noch wichtiger die
+Frage: Wie viel Geld kann man sparen, wenn man zwar auf ein eigenes Auto
+verzichtet – nicht jedoch auf Mobilität. Wir waren selbst überrascht, welche
+unglaubliche Summe am Ende rauskommt.
+Paul und Konrad sind unsere Muster-Fahrer aus Köln
+Wir wollten eine echte Musterrechnung aufmachen und haben dafür zwei
+Musterfahrer in die Welt gesetzt: Paul und Konrad. Beide kommen 1950 in Köln
+auf die Welt und machen 1968 – mit 18 Jahren – ihren Führerschein. Doch
+während Konrad sich nie ein eigenes Auto zulegen wird, fährt Paul voll aufs Auto
+ab. Paul und Konrad lernen Ende der 1960er-Jahre Bürokaufmann und verdienen
+Mit 18 haben Paul und Konrad
+ihren Führerschein bestanden.
+Doch Konrad wird sich nie ein
+eigenes Auto kaufen.
+
+danach immer durchschnittlich. Sie sind also weder besonders reich, noch
+besonders arm – guter Durchschnitt halt...
+I
+m Jahre unterwegs
+47
+
+Paul kauft sich etwa alle fünf Jahre einen Neuwagen. Er fährt damit täglich zur
+D
+Arbeit, zum Einkaufen, ins Kino, ins Schwimmbad; eigentlich überall hin. Und er
+e
+macht damit regelmäßig Ausflüge und fährt zweimal im Jahr in den Urlaub. Konrad
+u
+hingegen nutzt den Kölner Nahverkehr. Auch er fährt zweimal im Jahr in den
+t
+Urlaub – mit der Bahn oder dem Mietwagen, leistet sich gerne mal ein Taxi und
+s
+c
+h
+
+Seite 15
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+macht seit den 1990er-Jahren Carsharing. Wir lassen also sowohl Autobesitzer
+Paul als auch Ohne-eigenes-Auto-Fahrer Konrad richtig viel durch die Gegend
+fahren. Und zwar 47 Jahre lang: Von 18 – als sie den Führerschein gemacht haben
+– bis 65, als beide wohlverdient in den Ruhestand gehen.
+Auch ohne eigenes Auto ist
+Konrad sehr mobil: Er fährt mit
+der Straßenbahn, dem Taxi,
+macht Carsharing und nutzt für
+den Urlaub die Bahn oder den
+Mietwagen.
+
+Was kostet ein Auto wirklich?
+Wer wissen will, wie viel heute ein eigenes Auto kostet, kann das leicht im Internet
+abfragen (siehe Linktipp unten). Aber wie teuer war beispielsweise 1968 ein VWKäfer
+1300 mit 40 PS? Der ADAC erstellt bereits seit dem Jahr 1955 Übersichten
+I
+m
+über
+die echten Kosten, die ein Neuwagen verursacht. Dabei gelten natürlich
+
+standardisierte Rahmenbedingungen, damit die Daten vergleichbar sind. So
+D
+werden beispielsweise vier oder fünf Jahre Haltedauer sowie in der Regel 15.000
+e
+Kilometer Jahresleistung angenommen und der Wiederverkaufswert am Ende
+u
+gutgeschrieben.
+t
+s
+Wir haben Paul in jungen Jahren zwei VW-Käfer kaufen lassen – und ab dann
+c
+immer einen Golf. Dabei haben wir angenommen, dass jedes neue Auto etwas
+h
+besser ausgestattet ist als der Vorgänger. Zum Rentenbeginn kauft er sich sein
+l
+zwölftes Auto. Rechnet man nur die jeweiligen Neupreise zusammen, hat er für
+a
+alle Autos 145.653 Euro ausgegeben. Seine Gesamtkosten lagen – trotz
+n
+Autokäufer Paul hat in seinem
+Leben 186.948 Euro für das Auto Wiederverkauf – höher: bei insgesamt 186.948 Euro.
+d
+ausgegeben.
+I
+
+Monat
+für Monat 638,91 Euro für ein Auto?
+m
+i
+Paul leistet sich zur Rente einen fünftürigen VW Golf 2.0 TDI BMT Highline mit 150
+s
+D (110 kW). Anschaffungskosten mit klassenüblichen Extras: 31.520,00 Euro.
+PS
+t
+e
+Wenn
+man für dieses Auto die tatsächlichen Kosten hochrechnet, kommt man
+u
+nach
+Angaben des ADAC auf sage und schreibe 638,91 Euro pro Monat! Bei einer
+d
+t
+Haltedauer
+von fünf Jahren und einer jährlichen Fahrleistung von 15.000 Kilometer
+e
+s
+macht alleine der Wertverlust schon 326,81 Euro pro Monat aus. Hinzu kommen
+r
+c
+Überführungskosten
+– umgerechnet auf den Monat schlagen sie mit 6,67 Euro zu
+h
+Buche;
+Zulassung und Kennzeichen kosten 1,67 Euro monatlich.
+g
+l
+r
+a
+Nächster
+Punkt sind die Fixkosten mit insgesamt 161,38 Euro pro Monat:
+ö
+n
+Haftpflicht,
+Typklasse 15: 34,77 Euro
+ß
+d
+Vollkasko,
+Typklasse 21: 52,27 Euro
+t
+Kfz-Steuer (Schadstoff-Klasse Euro 6): 17,67 Euro
+e
+i
+Garage
+und Sonstiges (Parkgebühren, Knöllchen, etc.): 56,67 Euro
+s
+M
+t
+i
+l
+d
+c
+e
+
+Seite 16
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Schließlich kommen noch Werkstatt- und Reifenkosten in Höhe von 58,09 pro
+Monat hinzu. Bei einem Neuwagen ist das natürlich vergleichsweise wenig:
+Reifenkosten mit Montage: 23,82 Euro
+Reparaturkosten, Material: 15,01 Euro
+Bei seinem aktuellen Auto
+summieren sich die monatlichen
+Kosten auf knapp 640 Euro.
+
+Reparaturkosten, Arbeit: 5,59 Euro
+Inspektionskosten, Material: 5,67 Euro
+Inspektionskosten, Arbeit: 8,00 Euro
+I
+
+m
+
+Konrad: viel unterwegs ohne eigenes Auto
+D viel DM kostet eine Monatskarte für Köln im Jahr 1968, wie viel eine TaxiWie
+e
+Fahrt
+über vier Kilometer? Was musst man zu der Zeit für ein Zug-Ticket von Köln
+u
+nach
+St. Peter Ording (Nordsee), Scharbeutz (Ostsee), Hirsau (Schwarzwald) oder
+
+Paul hat in seinem Leben
+60.843,70 Euro für seine
+Mobilität ausgegeben; inklusive
+der Urlaubsreisen mit Bahn und
+Mietwagen.
+
+t
+Garmisch-Patenkirchen
+(Alpen) ausgeben? Und wie teuer ist Carsharing, wenn
+s
+man
+monatlich einen Ausflug macht (zehn Stunden, 80 km) und wöchentlich eine
+c
+Fahrt
+für Besorgungen (zwei Stunden, sechs Kilometer) rechnet? Wir haben alle
+h
+diese
+Kosten für jedes Jahr recherchiert und zusammengetragen und den
+lI
+Lebensumständen
+von Konrad angepasst. Zum Beispiel haben wir ihn in jungen
+a
+m
+Jahren
+nur einmal im Monat Taxi fahren lassen. Ab dem Alter von 58 jedoch
+n
+einmal
+wöchentlich. Und das ist über die 47 Jahre dabei zusammengekommen:
+D
+d
+Monatskarte:
+21.945,59 Euro
+e
+Taxi: 10.015,79 Euro
+u
+i
+Bahn/Mietwagen:
+12.027,67 Euro
+ts
+Carsharing (seit 1992): 16.854,65 Euro
+st
+Macht
+summa summarum: 60.843,70 Euro.
+c
+h
+d
+Sparen
+mal anders: 437.666,52 Euro in 47 Jahren
+le
+In all den Jahren konnte Konrad im Vergleich zu Paul also 126.104,31 Euro
+a
+r
+sparen.
+Dieses Geld brachte er jeweils am Jahresende zur Bank und legte es gut
+n
+an: in Bundeswertpapieren. Mit Zins und Zinseszins hat sich in der langen Zeit
+d
+g
+einiges
+angesammelt – nämlich bis 2015 sage und schreibe 437.666,52 Euro.
+
+Im Vergleich zu Paul konnte
+Konrad in 47 Jahren 126.104,31
+Euro sparen.
+
+r schönes Sümmchen. Und alles nur, weil Konrad sich vor 47 Jahren kein Auto
+Ein
+iö
+kaufen
+wollte…
+sß
+It
+t
+Axel
+Bach
+m
+e
+d
+D
+e
+M
+e
+ri
+u
+
+lt
+g
+c
+s
+rh
+c
+ö
+e
+h
+
+Seite 17
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Linktipp:
+Was kostet mein Auto wirklich?
+https://www.adac.de/infotestrat/autodatenbank/autokosten/default.aspx
+Der ADAC berechnet schon seit Jahrzehnten die echten Kosten, die ein Auto
+verursacht. In der Datenbank sind über 8000 Neuwagenmodellen aufgelistet.
+Während diese Version kostenfrei nutzbar ist, gibt es noch eine kostenpflichtige
+Profi-Version, in der sich viele Vorgaben individuell einstellen lassen.
+
+Seite 18
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Eine Stadt fährt Rad
+Wie Kopenhagen zur fahrradfreundlichen Stadt wurde
+Donnerstagmorgen, 8 Uhr: Es ist Rush-Hour in Kopenhagen – Fahrrad-Rush-Hour.
+Die ganze Stadt scheint mit dem Fahrrad unterwegs zu sein: Zwei Drittel der
+Kopenhagener fahren mit dem Rad zur Schule, Uni oder Arbeitsstelle. Überall gibt
+es breite oder sehr breite Fahrradwege und die Fahrradmassen bewegen sich
+In Kopenhagen ermöglichen
+breite Radwege schnelles
+Fahren für viele Radfahrer; auf
+der linken Seite zum Vergleich
+ein Radweg aus Köln.
+
+erstaunlich schnell und flüssig.
+Grüne Welle für Radfahrer und schräge Abfalleimer
+I
+Der
+für Umwelt zuständige Bürgermeister Morten Kabell erzählt, wie es dazu kam:
+m
+
+"In den 1960er- und 1970er-Jahren war Kopenhagen eine Auto-Stadt mit vielen
+breiten Straßen. Dann hatten die Kopenhagener die Nase voll davon. 150.000
+D
+haben auf dem Rathausplatz protestiert. Sie wollten ihre Stadt zurück! Sie wollten,
+e
+dass ihre Kinder mit dem Fahrrad zur Schule können, sie wollten Plätze für
+u
+Menschen statt Park-Plätze für Autos. Und die Politik reagierte. Das war der Start
+t
+für den Umbau. Es fing ganz langsam an. Aber in den vergangenen zehn Jahren
+s
+haben wir unglaublich viel erreicht." Und das zeigt sich auch an Kleinigkeiten:
+c
+Radfahrer
+werden gezählt. An manchen Stellen stehen direkt am Radweg schräge
+Jeder Fahrer wird gezählt. Unser h
+Quarks-Reporter Adrian Pflug
+Abfalleimer. Und an einigen Straßen gibt es zeitweise eine grüne Welle für
+war an diesem Tag Nummer
+l
+4261.
+Radfahrer.
+a
+I
+m
+n
+Viele Autofahrer sind aufs Fahrrad umgestiegen, denn in Kopenhagen heißt
+d
+Fahrradfahren
+vor allem eines: schnell vorwärts kommen. Das hat auch zur Folge,
+D
+
+dass
+wieder mehr Raum für Menschen entstanden ist. Wo früher Parkplätze
+e
+i
+u
+Seite 19
+s
+t
+t
+s
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+waren, kann man heute gemütlich draußen vor einem Café sitzen. Kopenhagen
+gehört wohl nicht zu Unrecht seit Jahren zur Top 10 der Städte mit der höchsten
+Lebensqualität. Da können sich viele andere Städte gerne ein Beispiel nehmen.
+Axel Bach
+
+Linktipps:
+Die Kopenhagener Fahrrad-Schlange
+http://www.cycling-embassy.dk/2014/09/26/die-fahrradschlange/
+Bericht über den Erfolg, den die Fahrradbrücke in Kopenhagen hat, die wir auch
+im Film vorgestellt haben.
+Dänische Fahrradkultur
+http://denmark.dk/de/green-living-de/danische-fahrradkultur/
+Eine Übersichtsseite mit mehreren Beiträgen zur „Dänischen Fahrradkultur“.
+Die Fahrrad-App für Kopenhagen
+https://www.ibikecph.dk/en
+Wer in Kopenhagen mit dem Fahrrad unterwegs ist, kann mit dieser App den
+schnellsten Weg finden (Android, iOS, sowie webbasiert).
+Kopenhagen mit dem Fahrrad
+http://www.visitdenmark.de/de/kopenhagen/aktivitaten/kopenhagen-mit-demfahrrad
+Tipps für Fahrrad-Touristen in Kopenhagen.
+
+Seite 20
+
+Quarks & Caspers | Hat unser Auto noch Zukunft? | 08.09.2015
+http://www.quarks.de
+
+Impressum:
+
+Herausgeber:
+Westdeutscher Rundfunk Köln
+Verantwortlich:
+Quarks & Co
+Lisa Weitemeier
+
+Redaktion:
+Tanja Winkler
+Gestaltung:
+Designbureau Kremer & Mahler, Köln
+Bildrechte:
+Alle: © WDR; außer S. 9 – Keystone Schweiz/laif; S. 19 m. – WDR/Poneß, Bach
+© WDR 2015
+Seite 21
+
+

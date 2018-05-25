@@ -1,0 +1,864 @@
+
+Platzhalter Seite 1
+
+Platzhalter Akkreditierungsurkunde
+
+Leistungsangebot im άberblick
+
+
+
+Materialprόfungen
+
+
+|Kunststoffe, Faserverbundwerkstoffe, Folien                             |        |
+| Materialkennwerte                                                      |Seite   |
+|                                                                        |4       |
+| Mechanische Eigenschaften                                              |Seite   |
+|                                                                        |5       |
+| Wδrme-/ Kδlte-/ Brennverhalten, Klimalagerungen, Belichtungsprόfungen  |Seite   |
+|                                                                        |6       |
+| Emissionen / Schadstoffuntersuchungen                                  |Seite   |
+|                                                                        |7       |
+| Elektrische Eigenschaften                                              |Seite   |
+|                                                                        |8       |
+| Bestδndigkeiten                                                        |Seite   |
+|                                                                        |8       |
+|                                                                        |        |
+|                                                                        |        |
+|Textile Flδchengebilde                                                  |        |
+|Geometrische und Konstruktionsmerkmale                                  |Seite   |
+|                                                                        |9       |
+|Beanspruchungskennwerte mechanisch                                      |Seite   |
+|                                                                        |10      |
+|Beanspruchungskennwerte Temperatur/Brand                                |Seite   |
+|                                                                        |11      |
+|Beanspruchungskennwerte Licht/Klima                                     |Seite   |
+|                                                                        |11      |
+|Beanspruchungskennwerte Substanzen                                      |Seite   |
+|                                                                        |11      |
+|Emission/ Schadstoffanalyse                                             |Seite   |
+|                                                                        |12      |
+|Farbuntersuchungen                                                      |Seite   |
+|                                                                        |12      |
+|                                                                        |        |
+|Luftsackmaterial (Airbag)                                               |Seite   |
+|                                                                        |12      |
+|                                                                        |Seite   |
+|Schaumstoffe                                                            |13      |
+|                                                                        |        |
+|Leder/ Kunstleder                                                       |Seite   |
+|                                                                        |13      |
+|                                                                        |        |
+|Herstellung von Probekφrpern                                            |Seite   |
+|                                                                        |14      |
+|                                                                        |        |
+|Forschungsschwerpunkte  Abt. Kunststoff-Forschung TITK e.V.             |Seite   |
+|                                                                        |14      |
+|Forschung zu antimikrobiell ausgerόsteten Kunststoffen                  |Seite   |
+|                                                                        |15      |
+|Ansprechpartner                                                         |Seite   |
+|                                                                        |16      |
+Kunststoffe, Faserverbundwerkstoffe, Folien
+
+
+Materialkennwerte
+
+
+|Prόfung                |Prόfnorm        |Prόfnorm         |Bemerkungen               |
+|                       |DIN / ISO / ASTM|Autoindustrie    |                          |
+|                       |                |Beispiele        |                          |
+|Dichte                 |ISO 1183 - 1    |DBL 5403, DBL    |Auftriebsverfahren        |
+|                       |ISO 1183 - 3    |5404             |oder Gaspyknometer        |
+|                       |DIN 53 479 Verf.|VW 44045, TL 527 |                          |
+|                       |A (alt)         |                 |                          |
+|                       |DIN 55 990      |Ford WSK-M4D673-A|                          |
+|                       |                |                 |                          |
+|                       |                |Opel-QK-Normen   |                          |
+|Rohdichte              |ISO 845         |GME 60 352       |                          |
+|                       |DIN 53 479      |                 |                          |
+|Dicke Folien           |                |GME 60 303 A1    |                          |
+|Flδchengewicht Folie   |                |GME 60 301       |                          |
+|Wassergehalt / Feuchte |DIN 53 475      |DBL 5403; DBL    |                          |
+|72h Trocknung bei 105°C|                |5404;            |                          |
+|                       |                |DBL 5555         |Genauigkeit entspr. DIN EN|
+|mit Aquatrac           |                |TL 534 ; VW 40125|ISO 960                   |
+|mit IR-Waage           |                |                 |                          |
+|(Schnellverfahren)     |                |                 |                          |
+|mit Trockenschrank     |                |                 |                          |
+|Glόhrόckstand          |DIN EN 60       |DBL 5403, DBL    |Bis 950°C bzw.  nach      |
+|                       |DIN EN ISO 1172 |5404 ,  VW 44045 |Vorgabe                   |
+|                       |DIN EN ISO      |u.a.             |                          |
+|                       |3451-1          |Ford WSK-M4D673-A|                          |
+|                       |                |u.a.             |                          |
+|                       |                |GME 60 333       |                          |
+|                       |                |Opel-QK-Normen   |                          |
+|Schmelzpunkt (DSC)     |DIN EN ISO      |Ford WSK-M4D673-A|                          |
+|                       |11357-1         |u.a.             |                          |
+|                       |DIN EN ISO 3146 |VW 44045         |                          |
+|                       |(alt)           |                 |                          |
+|Schmelz-,              |DIN EN ISO      |Normen           |entsprechend Kundenvorgabe|
+|Kristallisations-,     |11357-1         |verschiedener    |                          |
+|Reaktionsenthalpie bzw.|ASTM D 3417-83  |Hersteller       |                          |
+|Schmelz-,              |ASTM D 3418-82  |                 |                          |
+|Kristallisations- oder |ASTM E 794-81   |                 |                          |
+|Glasόbergangstemperatur|ASTM E 793-81   |                 |                          |
+|OIT-Messungen etc.     |ASTM D 3895-80  |Normen           |                          |
+|mittels Differential   |DIN EN ISO 728  |verschiedener    |                          |
+|Scanning Calorimetry   |                |Hersteller       |                          |
+|(DSC)                  |                |                 |                          |
+|Kδlterichtwert (DSC)   |DIN EN ISO      |DBL 5555         |fόr Elastomere bis max.   |
+|                       |11357-1         |                 |-70°C                     |
+|IR-Spektroskopie       |                |Ford WSS-M99P32-A|entsprechend Kundenvorgabe|
+|Schmelzvolumenrate     |ISO 1133        |TL 533 u.a.      |Prόfbedingungen           |
+|(MVI / MFI)            |                |Opel-QK-Normen   |entsprechend Kundenvorgabe|
+|Viskositδtszahl        |DIN EN ISO 307  |TL 524 40; VW    |                          |
+|Polyamide              |                |50125            |Abbaumessungen            |
+|in Schwefelsδure       |                |Bosch-Normen     |                          |
+|Viskositδtszahl PET /  |DIN ISO 1628 T5 |Bosch-Normen     |Abbaumessungen            |
+|PBT                    |DIN 53728 T 3   |                 |                          |
+|in Phenol/             |(alt)           |                 |                          |
+|Dichlorbenzol 1:1      |                |                 |                          |
+|in m-Kresol            |                |                 |                          |
+|Lφsungsviskositδt/     |DIN EN ISO 1628 |TL 524 40        |                          |
+|Viskositδtszahl        |T 4             |Bosch-Normen     |                          |
+|Polycarbonat           |DIN 53726 (alt) |                 |                          |
+|Kugeldruckhδrte        |ISO 2039 T1     |DBL 5405; DBL    |                          |
+|                       |DIN 53 456 (alt)|5410             |                          |
+|                       |                |TL 527, VW 44045 |                          |
+|                       |                |u.a.             |                          |
+|Shore Hδrte            |DIN EN ISO 868  |DBL 5405; DBL    |                          |
+|A oder D               |DIN 53 505 (alt)|5410             |                          |
+|                       |                |TL 527           |                          |
+|Lδngenausdehnungskoeffi|DIN 53 752      |Ford WSK- M4     |                          |
+|zient                  |ASTM D 696      |D673- A u.a.     |                          |
+|lδngs / quer           |                |                 |                          |
+|Schwindung und         |DIN EN ISO 294-4|Ford WSK- M4     |ISO 2577 gilt fόr         |
+|Nachschwimdung         |                |D673- A          |Formpressstoffe, nicht fόr|
+|lδngs / quer           |                |                 |Spritzguss                |
+|                       |                |                 |                          |
+|Ansprechpartnerin:     |Frau Ute Schwarz|Tel.: 03672/379  |E-Mail: schwarz@titk.de   |
+|                       |                |420              |                          |
+                                 Kunststoffe, Faserverbundwerkstoffe, Folien
+
+
+                                                   Mechanische Eigenschaften
+
+
+|Prόfung                   |Prόfnorm      |Prόfnorm      |Bemerkungen                |
+|                          |DIN / ISO /   |Autoindustrie |                           |
+|                          |ASTM          |              |                           |
+|Biegeeigenschaften        |DIN EN ISO 178|Normen        |bei vorgegebener           |
+|- Biegeversuch an         |              |verschiedener |Durchbiegung ohne Bruch    |
+|Kunststoffen              |DIN 53 452    |Hersteller    |oder mit Bruch             |
+|Biegespannung             |(alt)         |              |                           |
+|Zugeigenschaften          |              |Normen        |                           |
+|- Allgemeine Grundsδtze   |DIN EN ISO    |verschiedener |Temperaturbereich von      |
+|- Prόfung von Form- und   |527-1         |Hersteller    |-30°C bis + 150°C          |
+|Extrusionsmassen          |DIN EN ISO    |              |                           |
+|- Prόfbed. Folien und     |527-2         |              |                           |
+|Tafeln                    |DIN 53 455    |              |                           |
+|- Schlagzugversuch an     |(alt)         |              |                           |
+|Kunststoffen              |              |              |                           |
+|- Zugscherversuch         |              |              |                           |
+|                          |DIN EN ISO    |GME 60 325 F  |                           |
+|                          |527-3         |              |                           |
+|                          |DIN 53 448    |              |                           |
+|                          |DIN EN 1465   |              |                           |
+|Berstfestigkeit           |              |GME 60 348    |                           |
+|Schlagbiegeverhalten      |              |              |                           |
+|- Charpy-Schlagzδhigkeit  |DIN EN ISO 179|Normen        |Temperaturbereich von      |
+|- Izod-Schlagzδhigkeit    |              |verschiedener |-40°C bis + 23°C           |
+|- Dynstat- Schlagzδhigkeit|DIN EN ISO 180|Hersteller    |                           |
+|                          |              |              |                           |
+|- VW-Vorgaben             |DIN 53 435    |              |                           |
+|                          |DIN 53 453    |              |                           |
+|                          |(alt)         |              |                           |
+|Kerbschlagbiegeverhalten  |              |              |                           |
+|- Charpy-Schlagzδhigkeit  |DIN EN ISO 179|Normen        |Temperaturbereich von      |
+|- Izod-Schlagzδhigkeit    |              |verschiedener |-40°C bis + 23°C           |
+|- Dynstat- Schlagzδhigkeit|DIN EN ISO 180|Hersteller    |                           |
+|                          |              |              |                           |
+|- VW-Vorgaben             |DIN 53 435    |              |                           |
+|                          |DIN 53 453    |              |                           |
+|                          |(alt)         |              |                           |
+|Mehrachsiges Stoίverhalten|              |              |                           |
+|                          |DIN EN ISO    |              |Temperaturbereich: -40 bis |
+|von festen Kunststoffen   |6603-2        |              |+ 27°C                     |
+|- Instrumentierter        |              |              |                           |
+|Durchstoίversuch          |              |              |                           |
+|Mechanisch-dynamische     |              |              |Prόfbedingungen nach       |
+|Prόfungen                 |              |              |Vorgabe                    |
+|- Zug-, Druck- und        |              |              |Auftraggeber               |
+|Biegebeanspruchung        |              |              |                           |
+|bei unterschiedlicher     |              |              |                           |
+|Temperatur, Zeit, Frequenz|              |              |                           |
+|und Vorspannung           |              |              |                           |
+|Mechanisch-dynamische     |              |              |Prόfbedingungen nach       |
+|Prόfungen                 |              |              |Vorgabe                    |
+|- Torsionsbeanspruchungen |              |              |Auftraggeber               |
+|                          |              |              |                           |
+|bei unterschiedlicher     |              |              |                           |
+|Temperatur, Zeit,         |              |              |                           |
+|Belastung                 |              |              |                           |
+|Trennverhalten            |              |              |                           |
+|- Trennversuch der        |DIN 53 357    |              |                           |
+|Schichten von             |              |              |                           |
+|Kunststoffbahnen und      |DIN 53 363    |              |                           |
+|-folien                   |              |              |                           |
+|- Weiterreiίkraft Folie   |              |              |                           |
+|Kugelfalltest             |VDA 237-101   |PV 3905       |Kugel: 500g, 880 g, 1.000g |
+|                          |              |NES M 134     |Temperierung der Proben bis|
+|                          |              |DBL 5306 u.a. |-40°C mφglich.             |
+|                          |              |PPV 4004      |                           |
+|                          |              |                                           |
+|Ansprechpartnerin:        |Frau Ute      |Tel.: 03672/379 420    E-Mail:             |
+|                          |Schwarz       |schwarz@titk.de                            |
+
+
+
+
+
+
+Kunststoffe, Faserverbundwerkstoffe, Folien
+
+
+Wδrme-/ Kδlte-/ Brennverhalten, Klimalagerungen, Belichtungsprόfungen
+
+
+|Prόfung                 |Prόfnorm         |Prόfnorm         |Bemerkungen           |
+|                        |DIN / ISO / ASTM |Autoindustrie    |                      |
+|Vicat-Erweichungstempera|DIN EN ISO 306   |DBL 5404         |Im Silikonφl          |
+|tur                     |                 |Opel-QK-Normen   |Prόftemperatur bis    |
+|Verfahren A und B       |                 |TL 527 u.a.      |220°C mφglich.        |
+|Wδrmeformbestδndigkeit  |DIN EN ISO 75    |TL 527           |Im Silikonφl          |
+|HDT-Temperatur          |                 |Opel-QK-Normen   |Prόftemperatur bis    |
+|Verfahren A und B       |                 |u.a.             |220°C mφglich.        |
+|OIT-Temperatur          |                 |                 |                      |
+|Kugeleindruck in der    |DIN EN 60695-10-2|Fόr              |                      |
+|Wδrme                   |                 |Elektro-anwendung|                      |
+|                        |DIN IEC 89 Sec.82|en               |                      |
+|                        |(alt)            |                 |                      |
+|Temperaturleitfδhigkeit |ASTM E-1461      |Fόr              |Messbereich bis 300°C |
+|                        |DIN 30905, DIN EN|Kunststoffplatten|Nanoflash LFA 447,Fa. |
+|                        |821              |                 |Netzsch-Gerδtebau     |
+|                        |                 |                 |GmbH, Selb            |
+|                        |DIN 52 612 -1- B |Baubereich /     |ThermoProof,          |
+|                        |                 |Teppiche         |Plattengerδt 500 x 500|
+|                        |                 |                 |mm bis 40°C           |
+|Wδrmelagerung           |                 |Normen           |Im                    |
+|                        |                 |verschiedener    |Umlufttrockenschrank  |
+|                        |                 |Hersteller       |                      |
+|Warmlagerungstemperatur |DIN 53 497       |DBL 5555, DBL    |                      |
+|                        |                 |5403             |                      |
+|                        |                 |DBL 5404 u.a.    |                      |
+|                        |                 |TL 527 u.a.      |                      |
+|Umweltprόfungen         |DIN EN 60068-2-14|Normen           |                      |
+|                        |(Na)             |verschiedener    |                      |
+|feuchte Wδrme           |DIN EN 60068-2-14|Hersteller       |                      |
+|                        |(Nb)             |                 |                      |
+|                        |DIN EN 60068-2-30|                 |                      |
+|                        |                 |                 |                      |
+|                        |DIN IEC 68-2     |                 |                      |
+|                        |DIN 50017        |                 |                      |
+|Klimawechselbestδndigkei|                 |P-VW 1200; DBL   |                      |
+|t                       |                 |5471             |                      |
+|Kondenswasserkonststantk|                 |GME 60 202       |                      |
+|lima                    |                 |BMW N 601.22.0   |                      |
+|Kδlteverhalten          |                 |DBL 5410; VW     |                      |
+|                        |                 |44045            |                      |
+|                        |                 |TL 527 u.a.; PTL |                      |
+|                        |                 |8140             |                      |
+|Alterungsbestδndigkeit  |DIN 53 857 T1    |VW 44045         |Alterung nach Vorgabe |
+|                        |                 |                 |Auftraggeber bis 300°C|
+|Bestimmung des          |DIN 75 200       |DBL 5307.10 bis  |Mindestgrφίen         |
+|Brennverhaltens         |ISO 3795         |.13              |beachten!             |
+|von Werkstoffen der     |FMVSS 302        |GS 97038; GMW    |Herstellung von       |
+|Kraftfahrzeuginnenaussta|                 |3232             |Musterplatten auf     |
+|ttung                   |                 |NES M 0094; PTL  |Anfrage               |
+|                        |                 |8501             |                      |
+|                        |                 |STD 5031,1;      |                      |
+|                        |                 |VW TL 1010       |                      |
+|Entflammbarkeit von     |UL 94            |TL 1011          |-V und -HB            |
+|Kunststoffen            |                 |                 |                      |
+|Verhalten beim Beflammen|DIN 53 438-1     |PV 3357          |                      |
+|mit einem Brenner       |DIN 4102 B2      |Bauanwendungen   |                      |
+|Sauerstoffindex (OI);   |ISO 4589         |                 |                      |
+|alt: LOI                |ASTM D 2863      |                 |                      |
+|Glόhdrahtfestigkeit     |DIN EN 60695-10  |Ford WSS-M99P32  |                      |
+|                        |bis 13           |u.a.             |                      |
+|Sonnensimulation        |DIN 75 220       |TL 226 u.a.      |Auch Lackprόfungen    |
+|Heiίlichtechtheit       |DIN EN ISO       |VDA 75202        |Belichtung im         |
+|(Xenon)                 |105-B06          |PV 1303, GMW     |Xenontest Alpha       |
+|                        |                 |14162            |                      |
+|                        |                 |DBL 5555 u.a.    |                      |
+|Licht- und              |ISO 4892         |                 |Belichtung im         |
+|Wetterechtheit          |                 |Porsche PPV 4014 |Xenontest Alpha       |
+|von Kunststoffen        |                 |VW PV 3930       |                      |
+|Floridatest             |                 |VW PV 3929       |                      |
+|Kalaharitest            |                 |                 |                      |
+|/Arizonatest            |                 |                 |                      |
+|                        |                 |                 |                      |
+|Ansprechpartnerin:      |Frau Ute Schwarz |Tel.: 03672/379  |E-Mail:               |
+|                        |                 |420              |schwarz@titk.de       |
+                                 Kunststoffe, Faserverbundwerkstoffe, Folien
+
+
+                                       Emissionen / Schadstoffuntersuchungen
+
+
+|Prόfung                  |Prόfnorm        |Prόfnorm     |Bemerkungen                 |
+|                         |DIN / ISO / ASTM|Autoindustrie|                            |
+|                         |                |             |                            |
+|Emissionsverhalten       |                |VW 50180     |Fogging-Kondensatwert       |
+|                         |                |             |Head-Space-Wert             |
+|                         |                |             |Formaldehyd-Bestimmung      |
+|                         |                |             |Geruchsprόfung              |
+|Fogging-Kondensat-Wert   |DIN 75 201-B    |PV 3015      |                            |
+|                         |                |GMW 3235 - B |                            |
+|Fogging-Reflektometer-Wer|DIN 75 201-A    |PV 3920      |                            |
+|t                        |                |GMW 3235 - A |                            |
+|Bestimmung der Emission  |                |VDA 277      |Summenparameter             |
+|organischer Verbindungen |                |PV 3341      |                            |
+|                         |                |STD 1027.2714|                            |
+|Messung der              |DIN 53 315      |VDA 275      |                            |
+|Formaldehydemission      |                |PV 3925      |                            |
+|                         |                |STD 1027.2713|                            |
+|Geruch                   |                |VDA 270      |                            |
+|                         |                |PV 3900      |                            |
+|                         |                |GMW 3205     |                            |
+|Charakterisierung der    |DIN EN ISO 11358|VW 2.8.1     |Ermittlung thermischer      |
+|thermischen Stabilitδt   |                |             |Parameter wie Feuchtegehalt,|
+|und des thermischen      |ASTM E 914-83   |             |Fόllstoffgehalt,            |
+|Zersetzungsverhaltens von|                |             |Weichmachergehalt,          |
+|Werkstoffen in           |                |             |Zersetzungsbeginn etc.      |
+|Abhδngigkeit von der     |                |             |mittels Thermogravimetrie.  |
+|Temperatur und der       |                |             |Charakterisierung           |
+|Atmosphδre.              |                |             |entstehender Spaltprodukte  |
+|                         |                |             |in Abhδngigkeit von der     |
+|                         |                |             |Temperatur und der          |
+|                         |                |             |Atmosphδre mittels          |
+|                         |                |             |TG/IR-Kopplung              |
+|Schwermetallbestimmung   |DIN EN ISO      |             |As, Sb, Pb, Cd, Cr, Cr-VI,  |
+|                         |105-E04         |             |Hg, Ni, Cu, Ni, Co, Sn      |
+|RoHS-Konformitδt         |2002/95/EG      |             |Cd, Pb, Hg, Cr(VI), PBB,    |
+|                         |                |             |PBDE                        |
+|EU-Altautoverordnung     |2000/52/EG      |             |Cd, Pb, Hg, Cr(VI)          |
+|Bestimmung von           |DIN 38 406      |             |Probenvorbereitung:         |
+|Hauptkomponenten und     |DIN 38 405      |             |- Zerkleinerung             |
+|Spurenelementen mittels  |DIN EN ISO 11885|             |- Mikrowellendruckaufschluss|
+|AAS und ICP-OES          |(E22)           |             |                            |
+|Bestimmung von           |EPA 606         |             |                            |
+|Weichmachern in          |                |             |                            |
+|Kunststoffen             |                |             |                            |
+|Bestimmung von           |                |             |Hausvorschrift              |
+|Caprolactam und dessen   |                |             |                            |
+|Oligomeren in            |                |             |                            |
+|Polyamid-spritzgussteilen|                |             |                            |
+|mittels HPLC             |                |             |                            |
+|Bestimmung von PCB in    |DIN 38 414-S20  |             |                            |
+|Kunststoffen             |                |             |                            |
+|Bestimmung von Benzol und|DIN 38 407-F 9  |             |                            |
+|einigen Derivaten (BTEX) |                |             |                            |
+|in festen und gasfφrmigen|                |             |                            |
+|Proben                   |                |             |                            |
+|Bestimmung von           |                |             |Hausvorschrift              |
+|Lφsungsmittelrestgehalten|                |             |                            |
+|in festen und gasfφrmigen|                |             |                            |
+|Proben                   |                |             |                            |
+|Spielzeugnorm            |DIN EN 71       |             |                            |
+|                         |                |                                          |
+|Ansprechpartnerin:       |Frau Anke Krδmer|Tel.: 03672 / 379 250     E-Mail:         |
+|                         |                |kraemer@titk.de                           |
+Kunststoffe, Faserverbundwerkstoffe, Folien
+
+
+Elektrische Eigenschaften
+
+|Prόfung                 |Prόfnorm         |Prόfnorm         |Bemerkungen           |
+|                        |DIN / ISO / ASTM |                 |                      |
+|                        |                 |Autoindustrie    |                      |
+|Kriechstromfestigkeit   |DIN IEC 112      |Fόr              |                      |
+|CTI und PTI-Wert        |                 |Elektroanwendunge|                      |
+|                        |                 |n                |                      |
+|Spez.                   |DIN IEC 60 093   |PV 1015          |                      |
+|Durchgangswiderstand    |                 |                 |                      |
+|Spez.                   |DIN IEC 60 093   |                 |                      |
+|Oberflδchenwiderstand   |                 |                 |                      |
+|Glόhdrahtfestigkeit     |DIN EN 60695-10  |Ford WSS-M99P32-A|Fόr Elektroanwendungen|
+|                        |bis 13           |                 |                      |
+|Kugeleindruck in der    |DIN EN 60695-10-2|                 |Fόr Elektroanwendungen|
+|Wδrme                   |                 |                 |                      |
+|                        |DIN IEC 89 Sec.82|                 |                      |
+|                        |(alt)            |                 |                      |
+|                        |                 |                 |                      |
+|Ansprechpartnerin:      |Frau Ute Schwarz |Tel.: 03672/379  |E-Mail:               |
+|                        |                 |420              |schwarz@titk.de       |
+
+
+
+Bestδndigkeiten
+
+|Prόfung                 |Prόfnorm        |Prόfnorm         |Bemerkungen            |
+|                        |DIN / ISO / ASTM|                 |                       |
+|                        |                |Autoindustrie    |                       |
+|Wasseraufnahme          |DIN EN ISO 62   |Ford WSK-M4D673-A|                       |
+|                        |                |u.a.             |                       |
+|Extraktionsverhalten    |DIN 53 738      |DBL 5410         |                       |
+|                        |VDA 675 125     |DBL 5555         |                       |
+|Alterungsbestδndigkeit  |DIN 53 857 T1   |VW 44045         |Alterung nach Vorgabe  |
+|                        |                |                 |Auftraggeber           |
+|Chemikalienbestδndigkeit|DIN ISO 175     |NES M 0133       |                       |
+|                        |                |Ford WSS-M99P32-A|                       |
+|Spannungsrissbestδndigke|DIN EN ISO      |DBL 5404         |Biegestreifenverfahren |
+|it                      |22088-3         |                 |                       |
+|Bestδndigkeit gegen     |                |GMW 3259         |                       |
+|Schimmelbildung         |                |                 |                       |
+|Reibechtheit /          |DIN ISO 105-X12 |DBL 7384, GMW    |Lackprόfungen          |
+|Abriebverhalten         |                |14867            |                       |
+|                        |                |VW TL 226, PV    |                       |
+|                        |                |3906             |                       |
+|Reinigungsmittelbestδndi|                |DBL 5404, VW TL  |                       |
+|gkeit                   |                |226              |                       |
+|von Kunststoffen        |                |GMW 14334        |                       |
+|Wasserechtheit          |DIN ISO 105-E01 |GME 60 304       |                       |
+|Sonnensimulation        |DIN 75 220      |TL 226 u.a.      |Auch Lackprόfungen     |
+|Heiίlichtechtheit       |DIN EN ISO      |VDA 75202        |Belichtung im Xenontest|
+|(Xenon)                 |105-B06         |PV 1303, GMW     |Alpha                  |
+|                        |                |14162            |                       |
+|                        |                |DBL 5555 u.a.    |                       |
+|Licht- und              |ISO 4892        |                 |Belichtung im Xenontest|
+|Wetterechtheit          |                |Porsche PPV 4014 |Alpha                  |
+|von Kunststoffen        |                |VW PV 3930       |                       |
+|Floridatest             |                |VW PV 3929       |                       |
+|Kalaharitest            |                |                 |                       |
+|/Arizonatest            |                |                 |                       |
+|                        |                |                 |                       |
+|Ansprechpartnerin:      |Frau Ute Schwarz|Tel.: 03672/379  |E-Mail: schwarz@titk.de|
+|                        |                |420              |                       |
+
+
+
+
+                                                      Textile Flδchengebilde
+
+
+                                    mit oder ohne Deckschicht aus Kunststoff
+
+
+                                      Geometrische und Konstruktionsmerkmale
+
+|Prόfung                 |Prόfnorm        |Prόfnorm         |Bemerkungen             |
+|                        |DIN / ISO / ASTM|                 |                        |
+|                        |                |Autoindustrie    |                        |
+|Flδchenbezogene Masse   |                |GME 60 314       |                        |
+|                        |                |GME 60 301       |                        |
+|- textile Flδchengebilde|DIN EN 12 127   |                 |                        |
+|                        |DIN EN ISO      |                 |                        |
+|                        |2286-2          |                 |                        |
+|- Vliesstoffe           |ISO 9073-1      |                 |                        |
+|Dichte                  |                |GME 60 352       |                        |
+|Lδnge und Breite von    |DIN EN 1773     |                 |                        |
+|textilen Flδchen        |                |                 |                        |
+|Dicke, Gesamtdicke      |                |GME 60 303       |                        |
+|- von Textilien u.      |DIN EN ISO 5084 |                 |                        |
+|textilen                |                |                 |                        |
+|Erzeugnissen            |DIN EN ISO      |                 |                        |
+|- von Vliesstoffen      |9073-2          |                 |                        |
+|Fadendichte von Geweben |ISO 7211        |GME 60 317       | (in Kett- und          |
+|                        |                |                 |Schussrichtung)         |
+|Maschendichte           |DIN 53 883 - 12 |GME 60323        |                        |
+|in Maschenwaren         |                |                 |                        |
+|Massenanteile           |DIN 53 856      |                 |Messproben je 10 cm x 10|
+|von Kette und Schuss    |                |                 |cm                      |
+|Luftdurchlδssigkeit     |DIN EN ISO 9237 |                 |Ausfόhrung entsprechend |
+|                        |                |                 |Auftraggeber            |
+|Weichheit               |                |GME 60 302       |                        |
+|Weichheitszahl          |                |GME 60 302       |                        |
+|Verhalten gegenόber     |                |VW TL 52 306     |                        |
+|Wasser                  |                |GME 30 604       |Saugvermφgen (Steighφhe)|
+|- Wasseraufnahmevermφgen|DIN 53 923      |                 |                        |
+|                        |DIN EN ISO 20   |                 |Hydrostatischer         |
+|- Wasserdruckversuch    |811             |                 |Druckversuch            |
+|Biegesteifheit          |                |                 |                        |
+|- Ohlsen                |DIN 53350       |                 |                        |
+|- Balkenmethode         |DIN 53121       |BMW PAN 147      |                        |
+|- King Bend             |ASTM 4032       |                 |                        |
+|                        |Frau            |                 |                        |
+|Ansprechpartnerin:      |Marina          |Tel.: 03672/379  |E-Mail:                 |
+|                        |Weiί-Quasdorf   |321              |weiss-quasdorf@titk.de  |
+
+
+
+* Auf Anfrage sind auch Prόfungen an Fasern, Garnen und Fδden mφglich
+
+Textile Flδchengebilde
+
+
+mit oder ohne Deckschicht aus Kunststoff
+
+
+Beanspruchungskennwerte mechanisch
+
+|Prόfung                 |Prόfnorm        |Prόfnorm         |Bemerkungen            |
+|                        |DIN / ISO / ASTM|                 |                       |
+|                        |                |Autoindustrie    |                       |
+|Zugversuch              |DIN EN ISO      |GME 60 325       |Streifenzugversuch:    |
+|- textile               |13934-1         |GME 60 305       |Hφchstzugkraft und     |
+|Flδchengebilde,         |                |VW PV 3909       |Hφchstzugkraftdehnung  |
+|Gewebe                  |                |                 |                       |
+|- Vliesstoffe           |DIN EN ISO      |VW PV 3909       |                       |
+|                        |9073-03         |                 |                       |
+|Grab-Zugversuch         |DIN EN ISO 13   |                 |Besondere Form des     |
+|                        |934-2           |                 |Streifenzugversuches   |
+|Weiterreiίversuch       |DIN 53859 - 4, 5|                 |                       |
+|                        |                |                 |                       |
+|                        |DIN EN 1875-3   |                 |                       |
+|Textilien               |DIN EN ISO      |                 |                       |
+|                        |4674-1          |                 |                       |
+|                        |DIN EN ISO 13   |                 |                       |
+|Vliesstoffe             |937-2 DIN EN ISO|                 |                       |
+|                        |13 937-3 DIN EN |                 |                       |
+|                        |ISO 13 937-4    |                 |                       |
+|                        |DIN EN ISO      |                 |                       |
+|                        |9073-4          |                 |                       |
+|Scheuerversuch          |                |                 |                       |
+|Rundscheuerversuch      |DIN 53 863-2    |VW PV 3908       |                       |
+|Martindale-Scheuerversuc|DIN EN ISO 12947|                 |                       |
+|h                       |                |VW PV 3908       |Prόfung nach           |
+|Bestimmung der          |DIN EN ISO      |                 |Scheuerbeanspruchung   |
+|Scheuerbestδndigkeit    |10947-1         |                 |                       |
+|Bestimmung der          |DIN EN ISO      |                 |                       |
+|Probezerstφrung         |12947-2         |                 |                       |
+|Bestimmung des          |DIN EN ISO      |                 |                       |
+|Masserverlustes         |12947-3         |                 |                       |
+|Beurteilung             |DIN EN ISO      |                 |                       |
+|Oberflδchenverδnderung  |12947-4         |                 |                       |
+|Merkmalsverδnderung/    |DIN EN 20 105A02|                 |                       |
+|Pillverhalten/          |                |                 |Beurteilung mittels    |
+|Pillingeffekt           |DIN EN ISO 12   |VW PV 3928       |Pillnote               |
+|- Pillprόfung nach      |945-2           |VW PV 3923       |                       |
+|Martindale              |DIN EN ISO 12   |                 |                       |
+|- Pillingprόfung nach   |945-1           |                 |                       |
+|ICI                     |                |                 |                       |
+|Trommelversuch          |DIN 54 323 / 54 |                 |Ausschlieίlich         |
+|                        |328             |                 |Teppichprόfung         |
+|                        |                |                 |Verδnderung            |
+|                        |                |                 |Oberflδchenbild        |
+|Knittererholungsfδhigkei|DIN EN 22 313   |                 |trocken und nass       |
+|t                       |                |                 |                       |
+|Knitterverhalten        |                |                 |                       |
+|-                       |DIN 53 890      |                 |trocken und nass       |
+|Knittererholungswinkel- |                |                 |                       |
+|Messverfahren           |                |                 |                       |
+|Maίδnderung nach        |DIN EN ISO 3759 |VW TL 53 206     |Vorgabe Behandlungsart |
+|Behandlung              |ISO 5077        |                 |vom                    |
+|                        |                |                 |Auftraggeber,          |
+|Reibechtheit/Abriebverha|DIN ISO 105-X12 |DBL 7384, GMW    |                       |
+|lten                    |                |14867            |                       |
+|                        |                |VW TL 226, PV    |                       |
+|                        |                |3906             |                       |
+|Nahtprόfungen           |                |                 |                       |
+|- Nahtausreiίfestigkeit |                |                 |                       |
+|bzw.                    |DIN EN ISO 13   |                 |Einschlieίlich         |
+|Nahthφchstzugkraft      |935 - 1         |                 |Beurteilung Bruchbild  |
+|- Schiebewiderstand bzw.|ISO 13936-1     |                 |                       |
+|                        |ISO 13936-2     |                 |                       |
+|-festigkeit             |DIN 53868       |GME 60 329       |                       |
+|                        |DIN 54 301      |                 |                       |
+|Nadel-/                 |DIN 53331       |                 |                       |
+|Stichausreiίwiderstand  |                |                 |                       |
+|Trennkraft              |DIN 53357       |                 |                       |
+|                        |DIN 54310       |                 |                       |
+|                        |Frau            |                 |                       |
+|Ansprechpartnerin:      |Marina          |Tel.: 03672/379  |E-Mail:                |
+|                        |Weiί-Quasdorf   |321              |weiss-quasdorf@titk.de |
+
+
+                                                      Textile Flδchengebilde
+
+
+                                    mit oder ohne Deckschicht aus Kunststoff
+
+
+                                   Beanspruchungskennwerte Temperatur/ Brand
+
+|Prόfung                   |Prόfnorm        |Prόfnorm         |Bemerkungen            |
+|                          |DIN / ISO / ASTM|                 |                       |
+|                          |                |Autoindustrie    |                       |
+|Alterung                  |                |VW PV 1200       |Vorgabe weiterer       |
+|- Klimabehandlung         |                |PV 2005 u.a.     |Behandlungsarten vom   |
+|- Temperaturbestδndigkeit |                |GME 60 307 - 1B  |Auftraggeber           |
+|- Kδltebestδndigkeit      |                |GME 60 306 u.a.  |                       |
+|Kόnstliche Bewitterung    |DIN EN ISO 4892 |PV 3929          |                       |
+|oder Bestrahlung          |- 2             |PV 3930          |                       |
+|Brennverhalten            |DIN 4102-1      |                 |                       |
+|45°C- Methode/            |Klasse B2       |                 |                       |
+|Kantenbeflammung          |DIN 54 335      |                 |                       |
+|von textilen              |DIN 54 332      |                 |                       |
+|Fuίbodenbelδgen           |DIN 66 081      |                 |                       |
+|Klassifizierung des       |                |                 |                       |
+|Brennverhaltens           |                |                 |                       |
+|Wasserechtheit            |DIN ISO 105-E01 |GME 60 304       |                       |
+|                          |Frau            |                 |                       |
+|Ansprechpartnerin:        |Marina          |Tel.: 03672/379  |E-Mail:                |
+|                          |Weiί-Quasdorf   |321              |weiss-quasdorf@titk.de |
+
+
+                                        Beanspruchungskennwerte Licht/ Klima
+
+|Prόfung                   |Prόfnorm        |Prόfnorm         |Bemerkungen            |
+|                          |DIN / ISO / ASTM|                 |                       |
+|                          |                |Autoindustrie    |                       |
+|Lichtechtheit             |DIN ISO 105 - B |                 |Belichtung im Xenontest|
+|                          |02              |                 |Alpha                  |
+|Heiίlichtechtheit (Xenon) |DIN EN ISO      |VDA 75202        |Belichtung im Xenontest|
+|                          |105-B06         |PV 1303, GMW     |Alpha                  |
+|                          |                |14162            |                       |
+|                          |                |DBL 5555 u.a.    |                       |
+|Belichtung im Suntest     |DIN 75 220      |TL 226 u.a.      |                       |
+|Lichtechtheit der         |VDA 75202       |PV 1303, GMW     |Belichtung im Xenontest|
+|Kfz-Innen-                |                |14162            |Alpha                  |
+|ausstattung               |                |DBL 5555 u.a.    |                       |
+|Kόnstliches Bewittern oder|DIN EN ISO      |PV 3929          |                       |
+|Bestrahlen                |4892-2          |PV 3930          |                       |
+|Farbechtheit gegen        |DIN EN ISO 105-B|                 |                       |
+|kόnstliche Bewitterung    |04              |                 |                       |
+|Alterungsbestδndigkeit    |DIN 53 857 T1   |VW PV 3904       |Alterung nach Vorgabe  |
+|                          |                |VW PV 1303       |Auftraggeber           |
+|                          |Frau            |                 |                       |
+|Ansprechpartnerin:        |Marina          |Tel.: 03672/379  |E-Mail:                |
+|                          |Weiί-Quasdorf   |321              |weiss-quasdorf@titk.de |
+
+
+                                          Beanspruchungskennwerte Substanzen
+
+|Prόfung                   |Prόfnorm        |Prόfnorm         |Bemerkungen            |
+|                          |DIN / ISO / ASTM|                 |                       |
+|                          |                |Autoindustrie    |                       |
+|Bestδndigkeit gegen       |DIN ISO 105 - E |GME 60 275       |saure und alkalische   |
+|Synthetische Schweiίlφsung|04              |                 |Prόflφsung             |
+|Extraktion mit            |DIN EN ISO 105 -|                 |As, Sb, Pb, Cd, Cr,    |
+|Schweiίlφsung             |E 04            |                 |Cr-VI, Hg, Ni, Cu, Ni, |
+|(Schwermetallbestimmung)  |                |                 |Co, Sn                 |
+|Azo-Farbstoff-Untersuchung|§ 35 LMBG -     |                 |22 Arylamine           |
+|                          |82.02. - 2      |                 |                       |
+|Anschmutz- und            |                |PV 3356          |                       |
+|Reinigungsverhalten       |                |                 |                       |
+|                          |Frau            |                 |                       |
+|Ansprechpartnerin:        |Marina          |Tel.: 03672/379  |E-Mail:                |
+|                          |Weiί-Quasdorf   |321              |weiss-quasdorf@titk.de |
+Textile Flδchengebilde
+
+
+mit oder ohne Deckschicht aus Kunststoff
+
+
+Emission, Schadstoffanalyse
+
+|Prόfung                 |Prόfnorm        |Prόfnorm         |Bemerkungen            |
+|                        |DIN / ISO / ASTM|                 |                       |
+|                        |                |Autoindustrie    |                       |
+|Emissionsverhalten      |                |VW 50180         |Fogging-Kondensatwert  |
+|                        |                |                 |Head-Space-Wert        |
+|                        |                |                 |Formaldehyd-Bestimmung |
+|                        |                |                 |Geruchsprόfung         |
+|Fogging                 |DIN 75 201 A    |PV 3920; GMW     |                       |
+|                        |DIN 75 201 B    |3235-A           |                       |
+|                        |                |PV 3015; GMW     |                       |
+|                        |                |3235-B           |                       |
+|Schwermetallbestimmung  |DIN EN ISO 105 -|                 |As, Sb, Pb, Cd, Cr,    |
+|                        |E 04            |                 |Cr-Vl, Hg, Ni, Cu, Ni, |
+|                        |                |                 |Co, Sn                 |
+|Bestimmung von          |                |                 |entspr. Φko - Tex 100  |
+|sensibilisierenden      |                |                 |                       |
+|Dispersionsfarbstoffen  |                |                 |                       |
+|Ansprechpartnerin:      |Frau Anke Krδmer|Tel.: 03672/379  |E-Mail: kraemer@titk.de|
+|                        |                |250              |                       |
+
+
+Farbuntersuchungen
+
+|Prόfung                 |Prόfnorm        |Prόfnorm         |Bemerkungen            |
+|                        |DIN / ISO / ASTM|                 |                       |
+|                        |                |Autoindustrie    |                       |
+|Normfarbwerte/          |DIN 5033        |                 |                       |
+|Farbwertanteile         |                |                 |                       |
+|Farbkonstanz            |                |VW 501 90        |                       |
+|Farbechtheit bei Licht  |DIN EN ISO      |                 |                       |
+|(Xenon)                 |105-B02         |                 |                       |
+|Farbechtheit bei Reibung|DIN EN ISO      |                 |                       |
+|                        |105-X12         |                 |                       |
+|Untersuchungen von      |§ 35 LMBG -     |                 |22 Arylamine           |
+|Azo-Farbstoffen in      |82.02-2         |                 |                       |
+|Textilien               |                |                 |                       |
+|                        |Frau            |                 |                       |
+|Ansprechpartnerin:      |Marina          |Tel.: 03672/379  |E-Mail:                |
+|                        |Weiί-Quasdorf   |321              |weiss-quasdorf@titk.de |
+
+
+Luftsackmaterial (Airbag)
+
+|Prόfung                 |Prόfnorm        |Prόfnorm         |Bemerkungen            |
+|                        |DIN / ISO / ASTM|                 |                       |
+|                        |                |Autoindustrie    |                       |
+|EASC 9904 0180          |Diverse Normen  |EASC 9904 0180   |mit Ausnahme der       |
+|REV A06  nach           |u.a. ISO 3795   |REV A06          |Prόfungen              |
+|Prόfprogramm Punkt 3    |(Brand)         |                 |3.13                   |
+|                        |                |                 |3.19                   |
+|                        |                |                 |3.25                   |
+|                        |Frau            |                 |                       |
+|Ansprechpartnerin:      |Marina          |Tel.: 03672/379  |E-Mail:                |
+|                        |Weiί-Quasdorf   |321              |weiss-quasdorf@titk.de |
+
+
+
+
+                                                                Schaumstoffe
+
+
+|Prόfung                 |Prόfnorm        |Prόfnorm         |Bemerkungen             |
+|                        |DIN / ISO / ASTM|                 |                        |
+|                        |                |Autoindustrie    |                        |
+|Rohdichte               |DIN EN ISO 845  |DBL 5574 ff      |                        |
+|Verhalten bei           |                |                 |                        |
+|Zugbelastung            |DIN 53 504      |Ford WSK-M99P32-A|                        |
+|- Zugversuch            |                |                 |                        |
+|                        |DIN 53 329      |GMI 60 283 Part 2|                        |
+|- Weiterreiίkraft       |ASTM D 3574 Test|                 |                        |
+|                        |F               |                 |                        |
+|Stauchhδrte             |DIN 53 577      |DBL 5574 ff      |                        |
+|Druckverformungsrest    |DIN EN ISO 1856 |Ford WSK-M99P32-A|                        |
+|                        |                |                 |                        |
+|                        |                |GMI 60283        |                        |
+|                        |Frau            |                 |                        |
+|Ansprechpartnerin:      |Marina          |Tel.: 03672/379  |E-Mail:                 |
+|                        |Weiί-Quasdorf   |321              |weiss-quasdorf@titk.de  |
+
+
+
+                                                          Leder / Kunstleder
+
+
+|Prόfung                 |Prόfnorm        |Prόfnorm         |Bemerkungen             |
+|                        |DIN / ISO / ASTM|                 |                        |
+|                        |                |Autoindustrie    |                        |
+|Flδchengewicht          |DIN 53327       |GME 60 314       |                        |
+|Dicke, Gesamtdicke      |DIN EN ISO      |GME 60 303       |                        |
+|                        |2286-3          |                 |                        |
+|                        |DIN 53326       |                 |                        |
+|Verhalten bei           |                |GME 60 325 C     |                        |
+|Zugbelastung            |DIN 53 328      |GME 60 305 A     |                        |
+|- Zugversuch            |                |                 |                        |
+|                        |DIN 53 329      |                 |                        |
+|- Weiterreiίkraft       |                |GME 60 335       |                        |
+|                        |DIN 53 357      |                 |                        |
+|- Trennversuch der      |DIN 53 530      |                 |                        |
+|Schichten               |                |                 |                        |
+|an haftend verbundenen  |                |                 |                        |
+|Gewebeeinlagen          |                |                 |                        |
+|Weichheit               |                |GME 60 302       |                        |
+|Weichheitszahl          |                |GME 60 302       |                        |
+|Stichausreiίwiderstand  |                |GME 60 329       |                        |
+|Verhalten bei           |                |                 |Bei Raumtemperatur und  |
+|Stoίbelastung           |DIN EN ISO 6603 |                 |auίerhalb Raumtemperatur|
+|- Instrumentierter      |                |                 |                        |
+|Durchstoί               |                |                 |                        |
+|Versuch                 |                |                 |                        |
+|Klimabehandlung         |                |z. B.            |Weitere Behandlungen    |
+|- Klimawechseltest      |                |P-VW 1200        |nach Vorgabe            |
+|                        |                |PPV-2005         |Auftraggeber            |
+|- Wδrmeschrumpfverhalten|                |PPV-5002         |bzw. Techn.             |
+|                        |                |                 |Lieferbedingungen       |
+|                        |                |                 |                        |
+|Temperaturbehandlung    |                |GME 60 307-1B    |                        |
+|-                       |                |GME 60 306       |nach Vorgabe            |
+|Temperaturbestδndigkeit |                |                 |Auftraggeber            |
+|- Kδltebestδndigkeit    |                |                 |                        |
+|Komplettprόfungen       |                |z.B.             |                        |
+|                        |                |DBL 5306         |                        |
+|                        |                |DBL 5381         |                        |
+|                        |                |DBL 5471         |                        |
+|                        |                |DBL 9202         |                        |
+|                        |                |TL 52284         |                        |
+|                        |Frau            |                 |                        |
+|Ansprechpartnerin:      |Marina          |Tel.: 03672/379  |E-Mail:                 |
+|                        |Weiί-Quasdorf   |321              |weiss-quasdorf@titk.de  |
+Kunststoffe, Faserverbundwerkstoffe, Folien
+
+
+Probenvorbereitung
+
+
+|Technik                 |Prόfnorm      |Probenformen        |Bemerkungen           |
+|                        |DIN / ISO /   |Maίe in mm          |                      |
+|                        |ASTM          |                    |                      |
+|Spritzguss              |DIN EN ISO    |                    |Thermoplastische      |
+|Battenfeld HM 110 / 350H|294-1         |Vielzweckprobekφrper|Kunststoffe bis 350°C |
+|/ 130V                  |DIN EN ISO    |Typ A               |Verarbeitungs-temperat|
+|Schlieίkraft:  1100 kN  |3167          |Zugstab 1A          |ur; kein PVC          |
+|Schneckendurchmesser: 40|DIN EN ISO    |Platten 60 x 60 x 2 |                      |
+|mm                      |527-2         |oder 1              |                      |
+|Schneckenlδnge L/D:  22 |DIN EN ISO    |Platten 80 x 80 x 1 |                      |
+|Spritzdruck max.: 1595  |294-4         |oder 4              |                      |
+|bar                     |              |Platten 140 x 70 x 2|                      |
+|                        |              |                    |                      |
+|                        |              |Platten 100 x 100 x |                      |
+|                        |ISO 179 + ISO |5                   |                      |
+|                        |180           |ISO-Normstδbe 80 x  |                      |
+|                        |DIN 53453     |10 x 4              |                      |
+|                        |UL 94         |Normkleinstδbe 50 x |                      |
+|                        |              |6 x 4               |                      |
+|                        |              |Brandstδbe 125 x 13 |                      |
+|                        |              |                    |                      |
+|                        |              |Dicke: 0,8; 1,2;    |                      |
+|                        |              |1,6; 3,2            |                      |
+|Sδgen / Frδsen          |DIN 53733     |Zugstδbe            |Programmierung anderer|
+|Coesfeld-CNC Probenfrδse|DIN EN ISO    |1A, 1B, 1BA, 5, 5A, |Probenformen mφglich. |
+|                        |527-2         |5B                  |                      |
+|                        |ISO 179 + ISO |ISO-Normstδbe 80 x  |                      |
+|                        |180           |10 x 4              |                      |
+|Stanzen                 |              |Zugstδbe            |Nur weiche Materialien|
+|Coesfeld- Probenstanze  |DIN EN ISO    |5A; 1B; 5           |                      |
+|                        |527-2         |S2                  |                      |
+|                        |DIN 53404     |Stab 170 x 15 x d   |                      |
+|                        |DIN EN ISO    |                    |                      |
+|                        |527-3         |                    |                      |
+|Kerben                  |              |                    |                      |
+|CEAST-Kerbmaschine      |ISO 179 + ISO |A-Kerbe             |                      |
+|                        |180           |U-Kerbe             |                      |
+|                        |DIN 53453     |                    |                      |
+|Extrusion               |              |Granulate mit       |Thermoplastische      |
+|ZSK 25                  |              |Additiven           |Kunststoffe bis 300°C |
+|ZSK 40                  |              |(Fόllstoffe,        |Verarbeitungs-temperat|
+|                        |              |Glasfasern          |ur; kein PVC          |
+|                        |              |Synthesefasern,     |                      |
+|                        |              |Flammschutzmittel   |                      |
+|                        |              |u.a.; auch          |                      |
+|                        |              |Nano-partikel)      |                      |
+|Folienherstellung       |              |Flach- oder         |                      |
+|Gφttfert-Extrusiometer  |              |Blasfolie           |Einschicht            |
+|LabTec                  |              |Folienbreite bis    |3-Schicht; A-B-A      |
+|                        |              |200mm               |mφglich               |
+|                        |              |Folienbreite bis    |                      |
+|                        |              |200mm               |                      |
+|                        |              |                    |                      |
+|Ansprechpartnerin:      |Frau Ute      |Tel.: 03672/379 420 |E-Mail:               |
+|                        |Schwarz       |                    |schwarz@titk.de       |
+
+
+Thόringisches Institut fόr Textil- und Kunststoff-Forschung e. V.
+
+
+Forschungsschwerpunkte innerhalb der Abteilung Kunststoff-Forschung:
+
+
+
+    - Antibakteriell ausgerόstete Kunststoffe (Masterbatches,
+      Beschichtungen)
+    - Wδrme- und Kδltespeichermaterialien (PCM)
+    - Elektrisch leitfδhige und abschirmende Composites
+    - Nanocomposites und -blends (inkl. Carbon-Nanotubes, Schichtsilikate)
+    - Flammschutzausrόstung von thermoplastischen Kunststoffen
+    - Faserverstδrkung mit synthetischen und natόrlichen Fasern
+    - Synthese von Polyestern, Polyamiden und Polycarbonaten im Autoklaven
+    - Eigenschaftsmodifizierung von Folien u. a. m.[pic]

@@ -1,0 +1,267 @@
+Die Quantenmechanik verstehen
+
+Jörg Hüfner
+
+Vortrag vor dem Heidelberger Arbeitskreis Schule-Universität, 15.7.06
+
+
+Die Entdeckung der Quantenmechanik ist sicher das wichtigste Ereignis in der Physik des 20. Jahrhunderts. Die Quantenmechanik hat aber auch unser tägliches Leben und unsere Wirtschaft massiv verändert. Man denke nur an die Mikroelektronik. Es ist deshalb unerlässlich, dass gewisse Tatsachen und Ideen dieses neuen Gebietes im Schulunterricht gelehrt werden. Allerdings ist die Quantenmechanik schwer. Nicht nur deswegen, weil sie sich auf mikroskopisch kleine Systeme bezieht und sich deshalb der Anschauung entzieht, sondern auch, weil sie uns zwingt, einige ganz neue Denkkonzepte zu schlucken. Der Nobelpreisträger Richard Feynman, der selbst mit der Quantenmechanik virtuos umging, wusste davon, als er den provokanten Satz formulierte:I think I can safely suggest that nobody understands quantum mechanics. Es ging ihm dabei sicherlich nicht darum, dass er nicht wusste, wie man mit der Quantenmechanik als Handwerkszeug umgehen sollte, um etwas auszurechnen, sondern er meinte ein tieferes Verstehen vielleicht sogar eine Vertrautheit mit dem, was hinter dem Formalismus steckt. Darum soll es auch in meinem heutigen Vortrag gehen. Was ich heute erzählen werde, wird für Ihren Schulunterricht nicht unmittelbar hilfreich sein, denn dort geht es zunächst um harte Tatsachen, Experimente, Zahlen und mathematische Gleichungen. Aber in der Schule, wie auch in den Vorlesungen der Universität, sollten die Lernenden auch einen Blick hinter die Tatsachen auf die Geheimnisse der Natur werfen können, um sich von ihnen faszinieren zu lassen. In diesem Sinne werde ich heute zwei Schlüsselexperimente der Quantenphysik, das Doppelspaltexperiment und den radioaktiven Zerfall.
+
+1.      
+Was heißt Verstehen?
+
+Zentral für meinen Vortrag ist der Begriff des Verstehens. Ich werde dieses Wort in zwei Bedeutungen benutzen. Besser sollte man vielleicht von zwei Ebenen des Verstehens sprechen.
+
+-       
+Das wissenschaftsinterne Verstehen im Sinne von wissen, wie etwas funktio-niert: Ein Teilgebiet der Physik heißt verstanden, wenn die in einer mathematischen Theorie berechneten Zahlen mit den in einem Experiment gemessenen Werten übereinstimmen. In diesem wissenschaftsinternen Sinn ist die Quantenmechanik verstanden. Der Unterricht in der Schule und Universität konzentriert sich notwendiger-weise auf diese Form des Verstehens. Aber man sollte dabei nicht stehen bleiben. 
+
+-       
+Das philosophische Verstehen im Sinne von deuten oder interpretieren: Wenn eine Theorie im wissenschaftsinternen Sinne erfolgreich erforscht und vermittelt worden ist, beginnt häufig eine zweite Stufe des Verstehens: die Aussagen der Theorie werden im Rahmen einer allgemeineren Vorstellung von der Natur interpretiert. Diese philosophische Deutung ist ein Prozess, der nicht an den Grenzen der Fachwissenschaft halt macht, sondern gerade im Dialog mit Vertretern anderer Fachdisziplinen und mit einer interessierten Öffentlichkeit abläuft. Da auch die Physik ein Produkt geistiger Aktivität ist, sollte sie genau so der fragenden Deutung ausgesetzt sein, wie ein Gemälde, ein Roman oder Drama. Leider gelingt das in den wenigsten Fällen, und vielleicht deshalb haftet der Physik oft etwas Blutleeres an. Im meinem Vortrag heute, werde ich den Deutungsaspekt stärker betonen. 
+
+2.      
+Das Doppelspaltexperiment und seine Deutung.
+
+Der Welle-Teilchen Dualismus ist eigentlich nichts Neues in der Physik. Schon im 17. Jahrhundert hatte man darüber gestritten, ob Licht aus Teilchen bestehe oder ein Wellenphänomen sei. Die entgültige Entscheidung für die Wellennatur des Lichtes kam - so glaubte man damals  im Jahre 1802 durch Young mit den Nachweis der Interferenz in einem Doppelspaltexperiment. Anfang des 20. Jahrhunderts wurde der Fall aber noch einmal durch Planck und Einstein aufgerollt, als diese beiden Forscher erkannten, dass Licht aus einzelnen Energiepaketen, sog. Photonen, besteht  also eine Art Teilchen. Die Situation wurde sogar noch konfuser, als man entdeckte, dass auch kleine Objekte mit Ruhemasse, wie Elektronen, die man selbstverständlich als Teilchen angesehen hatte, sich in gewissen Situationen wie Wellen verhalten. 
+Welche Beziehung besteht zwischen den Wellen- und Teilcheneigenschaften der mikroskopischen Objekte? Das Schlüsselexperiment, das in diesem Zusammenhang immer wieder diskutiert wird, ist das Doppelspaltexperiment, das man heute mit Licht, Elektronen, Atomen und sogar schon mit Molekülen ausführen kann, immer mit dem demselben Ergebnis.
+
+2.1     
+Anordnung und Ergebnisse das Experiments. 
+
+### Drawn Shape (ignored-not implemented yet)
+Die experimentelle Anordnung besteht aus den folgenden drei Elementen:
+
+
+1.      
+### Drawn Shape (ignored-not implemented yet)
+Eine Quelle der Objekte, die man untersuchen will, z.B. ein Laser als Lichtquelle, oder eine Elektronenkanone wie im obigen Bild links. Wichtig ist, dass die erzeugten Objekte alle in eine Richtung und mit genau gleicher Geschwindigkeit in Richtung auf die erste Wand (a) zu laufen.
+2.      
+Eine erste Wand (a) mit einem Doppelspalt aus zwei parallel zueinander verlaufenden Schlitzen. Der Abstand d und die Breite dieser Schlitze müssen relativ klein sein, d.h. dürfen bis zu einen Faktor 100 bis 1000 größer als die Wellenlänge ť der verwendeten Teilchen sein.
+3.      
+Eine zweite Wand, die sog. Auffangwand, in einem makroskopisch (Ordnung Meter) großen Abstand von der Wand mit dem Doppelspalt. Diese Wand besteht aus einer Photoplatte oder einer anderen Form eines Teilchendetektors, auf dem die Objekte, die es geschafft haben, durch die Schlitze zu fliegen, bei ihrem Auftreffen jeweils ein am Ort x lokalisiertes Signal, z.B. einen schwarzen Punkt auf der Photoemulsion, erzeugen. Im Folgenden nennen wir die Auffangwand eine Photoplatte.
+
+Während des Experiments fliegen die in der Quelle erzeugten Objekte auf die Wand (a) mit den zwei Spalten zu. Die meisten Objekte bleiben auf der Wand (a) hängen. Die wenigen, die durch einen Spalt kommen, hinterlassen auf der Photoplatte schwarze Punkte. Wir wollen uns die Verteilung der schwarzen Punkte in drei verschiedenen Situationen ansehen (Abbildung 1, Intensitätsverteilungen (c) und (d)):
+a.      
+Nur der obere Spalt P1 ist geöffnet. Auf der Photoemulsion entsteht eine Intensitätsverteilung in der Form eines Berges in direkter Verlängerung der Richtung von der Quelle und dem geöffneten Spalt, sozusagen ein etwas verbreitertes Bild des Spaltes.
+### Drawn Shape (ignored-not implemented yet)
+b.      
+Nur der untere Spalt P2 ist geöffnet. Auf der Photoemulsion entsteht ein etwas Berg, wieder in der Verlängerung von Quelle und geöffnetem Spalt P2. Da die beiden Spalte sehr nahe beieinander liegen, sind beide Berge nur leicht gegen einander versetzt und die beiden Intensitätsverteilungen überlappen sich beträcht-lich.
+c.      
+### Drawn Shape (ignored-not implemented yet)
+Beide Spalte sind geöffnet. Man erwartet, dass jetzt eine Intensitätsverteilung entsteht, die einfach die Summe der Schwärzungen aus den beiden Experimenten ist, bei denen jeweils nur ein Spalt geöffnet war. Ganz falsch ist das nicht. Aber zusätzlich erkennt man Intensitätsminima in dem Bereich, wo sich die von den Einzelspalten herrührenden Intensitäten überlappen. Intensitätsminima bedeuten, dass dort praktisch keine Objekte hinkommen, wenn beide Spalte geöffnet sind, obwohl dort Objekte registriert werden, wenn jeweils nur ein Spalt geöffnet ist. 
+
+Wenn beide Spalte geöffnet sind, erscheint an manchen Orten weniger Intensität, als wenn die beiden Spalte nacheinander einzeln geöffnet sind. Diese Minima könnte man als smoking gun bezeichnet, wobei in den Western Filmen die smoking gun den Mörder überführte. In der Physik nennt man dieses Phänomen destruktive Interfe-renz und nimmt es als eindeutiges Indiz für den Wellencharakter. Die untersuchte Strahlung ist damit als Welle überführt. Als Young diese Interferenzstreifen in einem Experiment mit Licht beobachtete, schloss er, dass Licht Wellenscharakter haben müsse. Man sieht aber solche destruktive Interferenz auch, wenn man das Experiment mit Atomen oder Molekülen macht, deren Teilchencharakter zunächst keiner bestritten hätte. 
+
+2.2     
+Die Interpretation des Ergebnisses im Wellenbild
+
+Wellenphänomene veranschaulicht man sich am besten mit Wasserwellen. Diese zeigen Wellenberge und Wellentäler relativ zu der ungestörten Wasseroberfläche. Wenn zwei Wellen durcheinander laufen, wenn sie z.B. durch zwei Schiffe erzeugt werden, so wird an den Stellen, wo zwei Berge auf einander treffen, ein höherer Berg entstehen und bei zwei Tälern, ein noch tieferes Wellental. Aber wenn ein Berg der einen Welle und ein Tal der zweiten zusammentreffen, löschen sich ihre Effekte aus, und bleibt die Oberfläche glatt. Das ist die Erklärung der destruktiven Interferenz. 
+Abbildung 2 zeigt die Wellenstruktur in einem Doppelspaltexperiment. Von einer Quelle, oben im Bild, gehen Kugelwellen aus, die vor der ersten Wand fast wie eine ebene Welle aussehen. Hinter dieser Wand gehen von jedem Spalt wieder Kugelwellen aus, die im oben beschriebenen Sinn interferieren. Wenn man die eingezeichneten Linien als Wellenberge identifiziert erkennt man radialförmig ausgehende Strassen konstruktiver Interferenz, die dann aus dem Nachweisschirm zu hellen Stellen mit viel Intensität führen. Dazwischen gibt es Gebiete destruktiver Interferenz.
+Mit Hilfe der Schrödingerschen Wellenfunktion lässt sich das obige Phänomen mit Wasserwellen auch für quantenmechanische Teilchen wie folgt beschreiben. Für den kräftefreien Fall gilt die Wellengleichung
+
+i [ ś/śt Č (x,t) = - ([˛/ 2m) Č (x,t) ; [ = h/2Ŕ 
+
+worin h das Plancksche Wirkungsquantum, m die Masse des Teilchens sind und fettgedruckte Buchstaben Vektoren bedeuten, z.B. x = (x,y,z). Einfache Lösungen dieser Gleichung sind die ebene Welle
+
+Č (x,t) = a ×exp(i[kˇx-Ét]) mit É =  [ˇk˛/2m,
+
+oder die Kugelwelle
+
+Č (x,t) = bˇ(1/r)ˇexp(iˇ[kˇr-Ét]) mit r = |x|,
+
+wobei der Zusammenhang zwischen É und k aus der Schrödingergleichung folgt und a und b Konstanten sind. Eine ebene Welle würde die Strahlung vor der Wand (a) beschreiben, wobei k die Richtung der Strahlung festlegt. Kugelwellen wären die Form der Strahlung hinter jedem Spalt.
+
+Wenn man den Mittelpunkten der beiden Spalte die Positionen y1 und y2 zuordnet, dann gilt für die Intensität der Schwärzung am Punkt x auf der Photoememulsion 
+
+I(x,t) = |ČK(x-y1,t) + ČK(x-y2,t)|˛
+
+Mit dieser Formel werden zwar nicht die einzelnen Punkte auf der Photoplatte wiedergegeben, aber die mittlere Intensitätsverteilung, einschließlich der Interferenzeffekte. Wo liegt das Problem?
+
+2.3     
+Das Problem
+
+Das bekannte Cartoon von dem quantenmechanischen Skifahrer zeigt sehr schön, wo das Problem liegt. Die zwei Spuren im Schnee um die Tanne sind solange nicht weiter verwunderlich, solange man nicht weiß, dass sie nur von einem Skifahrer herrühren.
+### Drawn Shape (ignored-not implemented yet)
+
+### Drawn Shape (ignored-not implemented yet)
+
+
+
+Übertragen auf den Doppelspalt: Die Wellenbeschreibung des Doppelspaltexperiments ist solange erfolgreich, wenn man nur die mittlere Intensität auf der Photoplatte beschreiben will. Diese Beschreibung erfordert notwendig, dass zu der Interferenz die Kugelwellen von beiden Spalte gleichstark und gleichmäßig beitragen. Auf der anderen Seite, weiß man, z.B. durch die punktförmig Schwärzung auf der Photoplatte dass es sich um lokalisierte Teilchen handeln muss. Wie kann ein einziges Teilchen gleichzeitig durch beide Spalte fliegen? In der Tat hat man das Experiment mit so niedriger Intensität gefahren, dass jeweils nur ein Teilchen in der Apparatur war. Nach langer Zeit ergab sich auch hier dasselbe Interferenzmuster auf dem Schirm, das auch schon mit einem Experiment hoher Intensität gefunden wurde. Jedes durch die Spalte fliegende Teilchen hat also mit sich selbst interferiert. Diese Absurdität hat der Cartoonist wunderbar festgehalten. Ich werde zwei Deutungen vorstellen, die Kopenhagener und die von Bohm und de Broglie, in denen versucht wurde, mit dieser Absurdität fertig zu werden
+
+2.4     
+Kopenhagener Deutung: Wellen- und Teilchenbilder ergänzen einander 
+
+Bohr hat den Begriff der Komplementarität in den Mittelpunkt der sog. Kopenhagener Deutung gestellt: Jedem Atom oder Photon ordnet er einen Doppelcharakter zu, Welle und Teilchen. In gewissen Situationen ist der Wellenaspekt wichtig, z.B. beim Durchgang durch den Doppelspalt, in anderen äußert sich der Teilchencharakter, z.B. wenn am Ende auf dem Schirm schwarze Punkte entstehen. Aber es ist sehr schwierig, sich diesen Charakterwechsel sogar während eines einzigen Experiments vorzustellen. Heisenberg sagt dazu Die beiden Bilder schließen sich natürlich aus(...). Aber die beiden Bilder ergänzen sich; wenn man mit beiden Bildern spielt, indem man von einem Bild zum anderen übergeht und wieder zurück, so erhält man schließlich den richtigen Eindruck von der merkwürdigen Art von Realität, die hinter unseren Atomexperimenten steckt. 
+Im Zweifel kann der Physiker natürlich immer auf die Schrödinger Gleichung zurückgreifen. Glücklich ist aber wohl kaum ein Hochschullehrer, wenn er seinen Studierenden den Welle-Teilchen Dualismus in dieser Form beibringen soll. Nach Heisenberg liegt der Kern aller Deutungsprobleme der Quantenmechanik darin, physikalische Begriffe [z.B. Welle oder Teilchen] anwenden zu müssen, die aus einem anderen Erfahrungsbereich  dem der klassischen Physik  stammen. Die Anwendbarkeit dieser klassischen Begriffe ist jedoch durch die Unschärferelation begrenzt. (O. Passon). 
+
+2.5     
+Deutung von Bohm und de Broglie: Teilchen wird von der Welle geführt
+
+In der Beschreibung des Doppelspaltexperiments nach Bohm und de Broglie kommen natürlich auch die beiden Elemente Teilchen und Welle vor, aber ihre Rollen sind klarer von einander abgegrenzt. Der Grundgedanke ist der folgende: Die Lösung der Schrödingergleichung für das Doppelspaltexperiment liefert eine Wellenfunktion, die den ganzen Raum erfüllt und den Charakter einer Welle hat. Das Teilchen, das von der Quelle ausgesandt wird und auf den Doppelspalt zufliegt, bleibt immer ein Teilchen, bewegt sich aber auf einer Bahn, die durch die Wellenfunktion bestimmt ist. Die Welle ist die Führerindes Teilchens und leitet das Teilchen durch einen der beiden Spalte bis zu einen Punkt auf der Photoemulsion. Die Bahnen, auf denen die Führungswelle das Teilchen leitet, sind allerdings andere Bahnen als die, die aus der Newtonschen Mechanik folgen, so dass keine Teilchen an Stellen gelangen, wo die Wellenfunktion durch destruktive Interferenz verschwindet.
+Das soll im Folgenden mathematisch genauer ausgeführt werden. (Eine gute Darstellung dieser Theorie findet man in O. Passon: Bohmsche Mechanik, eine elementare Einführung in die deterministische Interpretation der Quantenmechanik, Verlag Harri Deutsch, Frankfurt 2004). Wir gehen von der Schrödingergleichung, diesmal mit einem äußeren Potential V(x) aus:
+
+i [ ś/śt Č (x,t) = - ([˛/ 2m) Č (x,t) + V(x)ˇ Č (x,t)
+
+Der zentrale Begriff in der Bohmschen Mechanik, wie diese Formulierung der Quantenmechanik genannt wird, ist die lokale Geschwindigkeit v(x,t). Man definiert den quantenmechanischen Operator der Geschwindigkeit vop durch den Impulsoperator dividiert durch die Masse m des Teilchens: 
+
+vop = pop/m = [/i Ń/m,
+
+womit man den Asudruck für die lokale Stromdichte
+der geht von der bekannten quantenmechanischen Formel für die Stromdichte erhält:
+
+j(x,t) = Re [Č*(x,t) ( [/m×i Ń) Č(x,t)]
+
+worin Re für Realteil steht. Die lokale Geschwindigkeit v(x,t), die ein Teilchen am Ort x zur Zeit t hat, wird dann durch 
+
+j(x,t) = [Č*(x,t)×Č(x,t)]× v(x,t) 
+definiert. Ein lokaler Teilchenstrom entsteht, wenn die lokale Dichte [Č*(x,t)×Č(x,t)] sich mit der lokalen Geschwindigkeit v(x,t) bewegt.
+
+Zerlegt man nun die Wellenfunktion  Č (x,t) in Betrag R(x,t) und Phase S(x,t), indem man schreibt
+
+Č (x,t) = R(x,t)ˇexp[iˇS(x,t)]
+
+dann wird der Ausdruck für die lokale Geschwindigkeit sehr einfach, nämlich
+
+v(x,t) = [/m ŃS(x,t).
+
+Nach Bohm wird auch in der Quantenmechanik die Bahn jedes Teilchens durch einen zeitabhängigen Ortsvektor Xqu(t) beschrieben. Dessen Zeitableitung d/dt Xqu (t) wird mit der lokalen Geschwindigkeit v(x,t) am Ort Xqu(t) des Teilchens identifiziert
+
+d/dt Xqu (t) = v(Xqu(t),t) = [/m ŃS(Xqu (t),t).
+
+woraus eine Differentialgleichung entsteht, sofern die Phase der Wellenfunktion S(x,t) gegeben ist. Diese gewöhnliche Differentialgleichung bestimmt die Zeitabhängigkeit Xqu(t) der Bewegung des Teilchens vollständig, wenn eine Anfangbedingung z.B. Xqu(0)= X0 gegeben ist. 
+Man berechnet die Bahn der Teilchen in zwei Stufen: a) die Wellenfunktion  Č (x,t)  des Problems wird als Lösung der Schrödingergleichung berechnet. b) die zeitliche Entwicklung der Bahn Xqu(t) wird aus der Differentialgleichung berechnet, in der die Wellenfunktion vorkommt.
+Anschaulich kann das auch so ausdrücken: Zu jedem einlaufenden Teilchen mit vorgegebener Energie gehört eine Wellenfunktion, die von dem Potential und gewissen Randbedingungen des Systems, wie z.B. Wänden abhängt. Die Wellenfunktion hin wiederum bestimmt die Bahn des Teilchens oder führt das Teilchen, weshalb man auch von Führungswelle spricht. Vielleicht darf man sich das Teilchen als Wellenreiter vorstellen. Es wird dorthin geführt, wohin die Welle kommt. Wohin die Welle nicht kommt, da kommt auch kein Surfer hin. So kann man schon aus diesem sehr qualitativen Argument ahnen, dass das Teilchen nie dahin geführt wird, wo die Wellenfunktion wegen der Interferenz verschwindet. 
+In der Bohmschen Mechanik spielt die Wellenfunktion nicht die Rolle einer Wahrscheinlichkeitsamplitude, sondern sie ist eine Art Kraft, die die Bahn des quantenmechanischen Teilchens bestimmt. Diese Deutung ergibt sich noch genauer aus einer anderen Formulierung der Bohmschen Mechanik, die wir hier beschreiben, aber nicht ableiten wollen. In der klassischen Physik bestimmt das externe Potential V(x) allein die klassische Zeitabhängigkeit Xkl(t) nach der Newtonschen Bewegungs-gleichung 
+
+mˇd2/dt2 Xkl(t) = - Ń V(Xkl(t))
+
+und es scheint zunächst überhaupt kein Zusammenhang zwischen der klassischen und quantenmechanischen Bahnkurve zu bestehen. Allerdings kann man zeigen, dass die quantenmechanische Bahnkurve auch einer Newtonschen Bewegungsgleichung genügt, wenn man nur ein quantenmechanisches Zusatzpotential Uqu(x,t) einfügt
+
+mˇd2/dt2 Xqu(t) = - Ń [V(Xqu(t)) + Uqu(x,t)], 
+
+worin das Zusatzpotential von der Wellenfunktion abhängt und zwar allein von ihrem Betrag R(x,t) = ˝Č(x,t)˝
+
+Uqu(x,t) = - ([ ˛/2ˇm)ˇR(x,t)/ R(x,t)
+
+Man beachte, dass das quantenmechanische Zusatzpotential proportional zu [ ist und deshalb im klassischen Limes verschwindet. Wegen dieses Zusatzpotentials ist die quantenmechanische Bahn eines Teilchens i.a. eine andere als die klassische. 
+Zur Illustration des neuen Begriffs der quantenmechanischen Bahnkurve wollen wir jetzt die Situation am Doppelspalt in der Bohmschen Mechanik betrachten. 
+a.      
+Vor dem Doppelspalt: Die Wellenfunktion ist eine ebene Welle, deren Phase durch S(x,t) = kˇx - Éˇt und deren Betrag R(x,t) = konstant gegeben sind. Damit ist das quantenmechanische Potential Uqu(x,t) = 0 und die quantenmechanische Bahn fällt mit der klassischen zusammen, denn v(x,t) = [×k/m
+b.      
+Wenn nur ein infinitesimal breiter Spalt geöffnet ist, hat man hinter dem Schirm mit dem Spalt eine Kugelwelle mit der Phase S(x,t) = kˇ|x| - Éˇt, worin |x| = r der Abstand vom Spalt ist. Hinter dem Spalt gilt dann
+
+d/dt Xqu (t) = ([ /m)ˇ Ń S(Xqu(t),t) = ([ ˇk/m) x/|x|
+
+        
+also Bahnen, die radial von dem Spalt ausgehen, wobei in jeder Richtung die Geschwindigkeit die gleiche ist. Das quantenmechanische Potential wirkt nur genau in der Spaltöffnung. Für den Betrag der Kugelwelle gilt R(x,t) = 1/|x|. Wegen der aus der Elektrodynamik bekannten Relation  1/|x| = -1/(4×Ŕ×|x|) ist das quanten-mechanische Potential proportional zur Deltafunktion: Uqu(x,t) ~ ´(x) und wirkt also nur im Spalt. 
+### Drawn Shape (ignored-not implemented yet)
+### Drawn Shape (ignored-not implemented yet)
+c.      
+Beide Spalte sind geöffnet: Hier ist die Situation nicht mehr analytisch lösbar. In der Abbildung 4 sind das quantenmechanische Potential und die Bahnen gezeigt. 
+### Drawn Shape (ignored-not implemented yet)
+Abbildung 4: Das quantenmechanische Potential (links) und die Bohmschen Bahnen (rechts) hinter der Wand mit dem Doppelspalt. 
+
+In der Abb. 4 zugrundeliegenden Rechnung haben die Spalte eine gaussförmige Öffnung. In dem Bild mit dem Potential sind sie als kleine Höcker am Horizont zu sehen. Auf dem linken Teil von Abb.4 gehen die Bahnen von den beiden Öffnungen am oberen Rand aus. Das Potential fällt mit wachsendem Abstand von der Wand mit den Spalten ab, es ist von tiefen Furchen durchzogen, in denen die Teilchen stark beschleunigt werden, so dass sie sich dort nicht lange aufhalten. Die Bahnen konzentrieren sich immer mehr dort, wo man sie nach der quantenmechanischen Wahrscheinlichkeitsrechnung erwartet. Das sieht man sehr gut auf dem rechten Teil von Abb.4.
+Für ein einzelnes Teilchen hängt die Bahn von dem Potential ab, aber auch ganz entscheidend von der Anfangsbedingung: Xqu(0)= X0. Da die Teilchen aus der Quelle in einem relativ breitem Bündel starten, werden alle Anfangbedingungen gleichmäßig bedient. Je nach Anfangsbedingung wird das Teilchen auf der Wand (a) mit den Spalten absorbiert oder es läuft durch einen oder den anderen Spalt. Aber immer läuft das Teilchen nur durch einen Spalt, wobei die Information darüber, ob der jeweils andere Spalt geöffnet oder geschlossen ist, in dem Führungspotential enthalten ist. Deshalb hängt die Bahn des Teilchen hinter dem Spalt in der Tat davon ab, wie viele Spalte geöffnet sind, obwohl das Teilchen nur durch eines hindurchfliegt. Die Information über den Zustand des anderen Spaltes erhält das Teilchen nicht durch eine Wechselwirkung, sondern allein dadurch, dass die Gesetze der Quantenmechanik gelten. Hierin sehe ich eine Analogie zu den verschränkten Zuständen. Über diese sog. Nichtlokalität werden wir im letzten Abschnitt sprechen.
+
+2.6 Vor- und Nachteile der Bohmschen Mechanik
+
+Um keine Missverständnisse aufkommen zu lassen: Die Voraussagen der Schrödingerschen Theorie und der Bohmschen Mechanik stimmen in jedem Fall überein. Es gibt also keine Möglichkeit, diese beiden Formulierungen durch ein Experiment zu unterscheiden. Für mich besteht der Charm der Bohmschen Formulierung darin, dass gewisse Ungereimtheiten der Kopenhagener Deutung, wie der Welle-Teilchen Dualismus oder der Kollaps der Wellenfunktion in dieser Formulierung eine viel natürlichere Interpretation erhalten. Die Bohmsche Vorstellung von der Wellenfunktion als einer Führungswelle ist für mich eine hilfreiche Anschauung, und ich bedauere es jetzt sehr, dass ich erst so spät auf sie aufmerksam geworden bin, so dass ich sie nicht in meine Vorlesungen habe aufnehmen können. Und da sie an der Quantenmechanik nichts ändert, also alle Ergebnisse der QM unangetastet läst, ist sie legitim, aber natürlich nur eine von mehreren Vorstellungen. Die Kopenhagener Deutung der Quantenmechanik würde es einfach verbieten sich so konkrete Vorstellungen zu machen. Mein schlechtes Gewissen, mit meiner Sympathie für die Bohmsche Formulierung zu einer Minderheit der Physiker zu gehören , wird dadurch gemindert, dass auch ein so intimer Kenner der Quantenphysik wie John Bell bekennt: Bohms 1952 papers on quantum mechanics were for me a revelation. The elimination of indeterminism was very striking (J.S. Bell:Beables for quantum field theory).
+Bohm hat den Bahnbegriff der klassischen Physik nicht aufgegeben, aber die Form der Bahn ist nicht nur durch die schon aus der klassischen Physik bekannten Kräfte bestimmt, sondern auch durch gewisse Randbedingungen (wie offene oder geschlossene Spalte), die sich in der Form von Uqu(x,t) niederschlagen. 
+Mit seiner Theorie hat Bohm allerdings verborgene Parameter eingeführt, nämlich die Anfangsposition des Teilchens X0 zur Zeit t=0 und die Position des Teilchens zu jedem Zeitpunkt t. Deren Werte bleiben notwendigerweise verborgen, da sie wegen der Unschärferelation nicht gemessen werden können, ohne den Ausgang des Experiments zu stören. Nicht der einzelne Wert X0 ist bestimmt, sondern nur die Wahrscheinlich-keitsverteilung der Anfangswerte X0 ist durch |Č( X0,t=0)|˛ gegeben. Könnte man den exakten Wert X0 bestimmen, wäre der Ausgang jedes Einzelereignisses deterministisch voraussagbar. Da sie aber prinzipiell verborgen bleiben müssen, gilt auch für die Bohmsche Interpretation die probabilistische Natur der Quantenmechanik. 
+Allerdings hat auch die Bohmsche Theorie nicht nur schöne Seiten. Z.B. gilt, wie man aus der Definition der Geschwindigkeitsdichte v(x,t) sieht, dass v = 0, sofern die Wellenfunktion reell ist. Da die meisten Wellenfunktionen für Bahndrehimpuls l = 0 reell gewählt werden können, gilt v = 0, d.h. das Teilchen ist in jedem s-Zustand in Ruhe ist. Dieses Ergebnis ist schon recht merkwürdig. Denn es ist zwar richtig, dass für l=0, der Erwartungswert verschwindet, < v > = 0 , aber ganz sicherlich gilt <v˛>š 0, wie man durch Messungen leicht nachweisen kann. 
+
+3.      
+Radioaktiver Zerfall
+
+An einem zweiten Schlüsselexperiment der Quantenphysik, dem radioaktiven Zerfall, sollen die Konzepte Wahrscheinlichkeit, Zufall und Determinismus erläutert werden. 
+
+3.1     
+Wahrscheinlichkeit
+
+Der Begriff der Wahrscheinlichkeit gehört heute zum Alltagsvokabular. Wahrschein-lichkeitsaussagen drücken unvollständiges Wissen aus. Wenn man nur die Wahr-scheinlichkeit für das Eintreten eines Ereignisses kennt, weiß man nicht alles. Als Beispiel möchte ich aus einer (erschreckenden) Statistik zitieren, die ich kürzlich in der FAZ gelesen habe: Die Wahrscheinlichkeit, dass ein 20-jähriger Russe das 60. Lebensjahr erreicht, beträgt 50%. (Zum Vergleich: für einen Schweizer beträgt die entsprechende Wahrscheinlichkeit 90%). Die Zahlen sind einer offiziellen Sterbestatistik, der Human Mortality Database entnommen. Statistische Aussagen sind z.B. für die Rentenkasse wichtig, weil auf ihrer Basis die Prämien berechnet werden. Auf Grund statistischer Aussagen allein kann aber nicht vorausgesagt werden, wann ein bestimmtes Individuum sterben wird. Ob das im Alter von 22 oder erst von 95 Jahren geschieht, ist aus der Sicht des Statistikers rein zufällig. Begibt man sich von der Ebene des Statistikers auf die Ebene des Individuums, dessen Gesundheit und Lebensumstände individuell stark variieren, so scheint dem Tod eines bestimmten Menschen sehr viel weniger Zufälliges anzuhaften. Man versteht  manchmal allerdings erst nachträglich  wann und warum ein Mensch sterben musste. 
+
+In der Mathematik definiert man Wahrscheinlichkeit als relative Häufigkeit: die Häufigkeit ą, mit der ein bestimmtes Ereignis ą in einer Menge von vielen anderen Ereignissen auftritt. 
+
+wą = ą/ Ł˛ ˛
+
+Wahrscheinlichkeitsaussagen basieren also immer auf der Auswertung von vielen Ereignissen und machen nur Voraussagen über viele Ereignisse, nie über ein einzelnes Ereignis. 
+
+Auch in der Quantenmechanik spielt der Begriff der Wahrscheinlichkeit eine zentrale Rolle. Das soll am radioaktiven Zerfall diskutiert werden. Gegeben sei eine bestimmte Menge, z.B. 1g einer radioaktiven Substanz. Diese bestehe aus einer großen Zahl von identischen Atomen, deren Kerne energetisch angeregt sind und die ihre überschüssige Energie durch Aussenden einer Strahlung, z.B. Elektronen, abgeben. Diese weist man mit einem Zählrohr nach, wobei jedes ausgesandte Elektron zu einem Signal führt, das man hören, registrieren und zählen kann. Ein Elektron gehört zu dem Zerfall eines einzigen Kerns. Dieser wandelt sich dabei in einen anderen, meist nicht mehr radioaktiven Kern um. 
+
+### Drawn Shape (ignored-not implemented yet)
+Wie lange dauert es, bis die Hälfte der ursprünglichen Menge radioaktiver Kerne zerfallen ist? Diese Zeit heißt Halbwertszeit und ist eine für die Art der Atomkerne, z.B. Radium-Kerne, charakteristische Zahl. Je nach Substanz kann sie wenige Sekunden oder auch Millionen von Jahren betragen. Sie lässt sich leicht messen, indem man die Abnahme der mit dem Zählrohr registrierten Strahlung verfolgt. Die Halbwertszeit bei dem radioaktiven Zerfall entspricht bei der Sterbestatistik der Zeit, nach der die Hälfte der Personen einer Population verstorben sind. In dem obigen Beispiel beträgt die Halbwertszeit eines 20-jährigen Russen 40 Jahre. Ganz analog wie bei der menschlichen Sterbestatistik sagt aber die Halbwertszeit einer radioaktiven Substanz nichts darüber aus, wann ein bestimmter herausgegriffener Kern zerfallen wird. Die Histogramme in Abb.5 beschreiben die Verteilung der Anzahlen Nn, dass n Zerfälle in einem bestimmten Zeitintervall registriert werden. Die Histogramme zeigen deutlich den statistischen Charakter der Zerfälle.
+
+### Drawn Shape (ignored-not implemented yet)
+Können wir uns bei den radioaktiven Kernen von der Ebene der Statistik auf die Ebene des individuellen Kerns begeben? Können wir dessen Eigenschaften genauer studieren, z.B. sein Alter oder seinen Gesundheitszustand, um daraus genauere Einsicht in die Gesetze des radioaktiven Zerfalls zu bekommen und unter Umständen den genauen Zeitpunkt des Zerfalls vorauszuberechnen? 
+
+
+
+
+
+
+Hier kommt eine Überraschung: Auf der Ebene der Mikrosysteme gibt es keine Individualität; alle Kerne einer gegebenen Substanz sind ununterscheidbar. Da sie mikroskopisch klein sind, genügen wenige Zahlen, um den Zustand eines Kernes vollständig zu charakterisieren: Die Zahl seiner Neutronen und Protonen, seine Anregungsenergie, sein Drehimpuls und die sog. Parität. Alle Atomkerne eines Nuklids - es sind sehr sehr viele, etwa 10˛ł - stimmen in diesen wenigen Zahlen überein. Darüber hinaus gibt es keine weiteren Eigenschaften, durch die sie unterschieden werden könnten. Deshalb kann man einem Kern nicht ansehen, wann er zerfallen wird. Allerdings könnte man versuchen, dem individuellen Kern noch weitere Geheimnisse zu entreißen, z.B. indem man ihn mit hochenergetischen Elektronen beschießt und die vom Kern abgelenkten Elektronen untersucht. Solche Eingriffe sind zwar möglich, aber so drastisch, dass sich dabei der untersuchte Atomkern verändert, u.U. auch in seinen Zerfallseigenschaften, womit man es nicht mehr mit demselben Zustand zu tun hat. Dass man von einem Mikrosystem nicht alle Eigenschaften zugleich erfahren kann, ist eine Konsequenz der Heisenbergschen Unschärfe-Relation, eine der Säulen der Quantenmechanik. Weil die meisten Messungen notwendig das System verändern, ist es einem makroskopischem Beobachter verwehrt ist, alles Wünschenswerte über ein Mikrosystem zu erfahren. 
+
+3.2     
+Zufall
+
+Neben dem Begriff der Wahrscheinlichkeit ist der Begriff des Zufalls für unsere weiteren Betrachtungen wichtig. Auch dieser Begriff ist aus dem Alltagsleben wohl bekannt. In der Enzyklopädie Philosophie lesen wir die Definition: In der Mathematik und den empirischen Wissenschaften spricht man oft von Zufall, wenn Abfolgen regellos und nicht voraussagbar sind. Das Werfen eines Würfels ist ein vertrautes Beispiel für zufällige Ereignisse. Die Analyse der Ergebnisse der einzelnen Würfe ergibt keinen Hinweis auf eventuelle Gesetzmäßigkeiten im Ablauf der Ereignisse. 
+
+Dennoch wissen wir aus den Gesetzen der Mechanik, dass jeder Wurf vollständig determiniert ist. Allerdings liefern Würfe nur dann dieselbe Augenzahl, wenn die Anfangsbedingungen, d.h. die Art, wie man den Würfel wirft, genau übereinstimmen. Das jedoch kann man im allgemeinen nicht durch einen Wurf mit der Hand, sondern nur mit einer komplizierten Maschine erreichen. Das Zufällige der Ergebnisse beim Würfelspiel erklärt sich also aus den Anfangsbedingungen und nicht etwa daraus, dass die strengen Gesetze der Mechanik nicht wirken würden. Aus einer sehr genauen Beobachtung der Anfangsbedingungen und einem schnellen Computer könnte man das Ergebnis jedes Wurfes exakt voraussagen. Damit würde das scheinbar zufällige Verhalten in ein vollständig determiniertes Verhalten verwandelt werden. 
+
+Nach Heisenberg unterscheidet man zwei Arten von Zufällen:
+
+-       
+Unter subjektivem Zufall versteht man die scheinbare Zufälligkeit, welche auf Grund von Informationsmangel über die exakten Anfangsbedingungen eines physikalischen Prozesses stattfindet. Vermehrte Information wandeln das zufällige in ein notwendiges oder gesetzmäßiges Verhalten um. In diesem Sinne handelt es sich beim Würfelspiel um einen subjektiven Zufall.
+-       
+Bei dem objektiven Zufall ist es prinzipiell unmöglich, das beobachtete regellose, nicht voraussagbare Verhalten durch vermehrte Information in ein Verhalten zu verwandeln, dessen gesetzmäßige Notwendigkeit erkennbar ist.
+
+3.3     
+Determinismus in der Quantenmechanik?
+
+Von welcher Art ist der Zufall beim radioaktiven Zerfall? Wie beim Würfeln registriert man auch hier eine völlig regellose Abfolge von Ereignissen. Könnten auch die Gründe für dieses zufällige Verhalten dieselben wie beim Würfeln sein? Das würde bedeuten, dass sich der radioaktive Atomkern nach einem deterministischen Naturgesetz von einer Anfangsbedingung bis zu dem Zeitpunkt des Zerfalls entwickelt. Die verschiedenen beobachteten Zeitpunkte der Zerfälle wären durch verschiedene Anfangsbedingungen für die einzelnen Atomkerne bei ihrer Entstehung zu erklären. Wie oben besprochen, verbietet die Heisenbergsche Unschärferelation eine vollständige Kenntnis des Mikrosystems und damit auch der Anfangsbedingungen. Daher gehören der radioaktive Zerfall und viele andere Prozesse der Quantenmechanik in die Kategorie der objektiven Zufälle, da vollständige Information bei Mikrosystemen prinzipiell unmöglich ist.
+
+Wie kann man den objektiven Zufall in der Quantenmechanik philosophisch deuten? Einstein wehrte sich vehement gegen die Vorstellung rein zufälliger Ereignisse mit dem berühmten Ausspruch Gott würfelt nicht! Er hoffte, dass die damals vorliegende Theorie der Quantenmechanik noch nicht abgeschlossen sei. Eine vollkommenere Theorie würde es erlauben, dass man sich nicht mit Aussagen über Wahrscheinlichkeiten zufrieden geben müsse, sondern dass man in den radioaktiven Kernen verborgene Parameter entdecken, messen und berechnen würde, die es erlauben, den Zeitpunkt jedes individuellen Zerfalls vorauszusagen. 
+
+Einsteins Hoffnung, dass sich individuelle Ereignisse voraussagen lassen, hat sich nicht erfüllt. Dennoch ist damit die Kontroverse über verborgene Parameter oder über einen verborgenen Determinismus nicht beendet. Es könnte ja sein, dass es auch in der zeitlichen Entwicklung jedes Mikrosystems eine strenge Gesetzmäßigkeit im Sinne des Determinismus gibt, die wir aber prinzipiell nicht beobachten können, weil die Systeme zu klein sind. 
+
+Die heute dominierende philosophische Deutung der Quantenmechanik, die Bohrsche oder Kopenhagener Deutung, lehnt solche verborgenen Parameter rundweg ab. Über die Abläufe in der mikroskopischen Welt sind nur Wahrscheinlichkeitsaussagen zu machen. Für die individuellen Ereignisse gilt der Zufall und nicht das Kausalitätsprinzip. Das ist sicherlich eine konsequente Haltung, allerdings macht sie Aussagen über etwas, was experimentell nicht verifizierbar ist.
+
+Eine Minderheit unter den Physikern, wozu ich mich auch zähle, möchte eine andere mathematische Formulierung und damit eine andere philosophische Interpretation der Quantenmechanik nicht ausgeschlossen sehen. Diese von Bohm und de Broglie vorgeschlagene Formulierung ist in jeder physikalischen Beziehung mit der klassischen Formulierung z.B. nach Schrödinger äquivalent. Die beiden Autoren haben in die Quantentheorie verborgene Parameter eingeführt, die den Zeitablauf und das Ergebnis einer Reaktion im deterministischen Sinne vollständig bestimmen. Allerdings ist das Ergebnis nicht voraussagbar, da die Anfangsbedingungen wegen der Unschärferelation prinzipiell nicht beobachtbar sind. Nach Bohm und de Broglie haben wir es in dem Mikrokosmos mit einem verborgenen Determinismus zu tun. Aus der Gültigkeit der Quantenmechanik folgt also nicht notwendig, dass im Mikrokosmos das Kausalitätsprinzip auf der Ebene des Einzelereignisses aufgehoben sei. 
+
+4.      
+Verschränkte Zustände und die Nichtlokalität der Quantenmechanik
+
+Vielleicht haben Sie jetzt das Gefühl bekommen, dass es in der Physik eine Willkür mathematischer Formulierungen gibt und damit eine Pandora-Büchse von gegensätzlichen Deutungen. Die Einführung der verborgenen Parameter könnte ja nur ein Beispiel sein. Nun so einfach ist es nicht. Schon kurz nach der Ausformulierung der Quantenmechanik bewies von Neumann, dass es in der Quantenmechanik keine verborgenen Parameter geben könne, allerdings unter einer Voraussetzung, der Lokalität. Was ist damit gemeint? Das soll in diesem Abschnitt erklärt werden. 
+
+Nicht-Lokalität ist eng verknüpft mit verschränkten Zuständen. Das Phänomen der verschränkten Zustände ist auch unter dem Kürzel EPR Einstein-Podolsky-Rosen Paradoxon bekannt, nach den drei Autoren einer Arbeit mit dem Titel Can Quantum-Mechanical Description of Physical Reality be Considered Complete?(1935). Verschränkte Zustände sind auch in dem Quantencomputing und der Quantenkryptographie wichtig. 
+
+Der Begriff verschränkt ist dem Alltag entnommen. Man spricht z.B. von verschränkten Händen. In dieser Position kann eine Hand sich nicht verändern, ohne dass auch die zweite Hand sich verändert. Genau in dieser Bedeutung wird das Wort auch in er Quantenmechanik benutzt.
+
+In der heutigen Literatur wird das EPR-Experiment häufig in der folgenden Form diskutiert: Ein System zerfällt und zwei Teilchen, z.B. zwei Elektronen fliegen in verschiedene Richtungen fort. Unter gewissen Bedingungen des Zerfalls sind die beiden Elektronen mit einander verschränkt. Diese Eigenschaft zu erklären ist nicht einfach. Ich versuche es dennoch. Die beiden Elektronen verhalten sich wie kleine Kreisel, Spins genannt. In einem verschränkten Zustand sind die Drehrichtungen der beiden Kreisel so miteinander verkoppelt, dass ihre Drehachsen immer einander entgegengesetzt gerichtet sind, während das Gesamtsystem sich aber in dauernder Drehung befindet. Damit weiß man nie, in welche absoluten Richtung die Achsen der Einzelkreisel zeigen, nur ihre relativen Positionen liegen immer fest. Würde man die Richtung eines Kreisels messen und damit festlegen, wäre natürlich auch die Richtung des anderen Kreisels, nämlich in die entgegengesetzte Richtung, festgelegt. Das ist nicht weiter verwunderlich und entspricht genau dem, was man schon aus den verschränkten Händen erwarten würde.
+In mathematischer Sprache ist Verschränkung dagegen sehr einfach zu definieren. Wenn die Wellenfunktion eines Zweiteilchensystems faktorisiert, 
+
+¨(1,2) = Ć(1)ˇž(2)
+
+dann ist das System nicht verschränkt. Jede Abweichung von der Faktorisierung heisst Verschränkung. Z.B. wenn die Spins zweier Wellenfunktionen zu Null gekoppelt sind, erhält man einen verschränkten Zustand
+
+¨(1,2) = [Ć(1,+)ˇĆ(2,-) - Ć(1,-)ˇĆ(2,+)]/(2)1/2
+
+worin Ć(1,+) z.B. die Spinorfunktion für Teilchen 1 im Zustand Spin up ist. 
+Während in dem Bild mit den verschränkten Händen, die Verschränkung aufhört, wenn sich die Hände voneinander entfernen, gibt es in der Quantenmechanik etwas Neues: Die Verschränkung der beiden Spins bleibt erhalten, auch wenn sich die beiden Teilchen in ihrem verschränkten Zustand, über weite Strecken, selbst über Entfernungen von Kilometern, von einander entfernen. Die verschränkten Hände hätten sich dann schon längst entschränkt. In ihrer entfernten Position legt die Messung der Richtung der Kreiselachse eines Teilchens automatisch die Richtung der Kreiselachse des zweiten Teilchens als entgegengesetzt fest. Das ist sehr merkwürdig, da diese ja in keinem Kontakt mehr sind und auch keine physikalische Wirkung festzustellen ist, die von dem einem Teilchen, das gerade gemessen worden ist, auf das weitentfernte andere übertragen werden könnte.
+
+Während der Diskussion bei diesem Vortrag wurde ein weiteres Beispiel vorgeschlagen, wie die Paradoxie der quantenmechanischen Verschränkung verdeutlichen kann. Ein Diebespaar wird beim Einbruch überrascht. Der Polizist hat nur eine Kugel, er schießt auf die beiden Einbrecher, die bei der Arbeit sind: einer wird verletzt, der andere entkommt. Wir definieren die Verschränkung in diesem Fall also: nur einer entkommt unverletzt. Nun wollen wir eine zweite Situation betrachten für die beiden verschränkten Einbrecher: Sie hören den Polizisten kommen und fliehen in entgegengesetzte Richtungen. Der Polizist verfolgt einen und schießt: Entweder trifft er und der verfolgte Einbrecher fällt verletzt nieder, oder der Polizist verfehlt den verfolgten Einbrecher, dann fällt der andere Einbrecher verletzt nieder  wegen der Verschränkung und ihrer merkwürdigen Wirkung über große Distanzen. Natürlich hinkt auch diese Analogie, aber sie macht vielleicht die Absurdität der quantenmechanischen Verschränkung etwas sichtbarer.
+
+Wie kann man das Phänomen der Verschränkung verstehen? Einstein in seiner drastischen Sprache nannte es eine spukhafte Fernwirkung. Weil er an Spuk nicht glauben wollte, schloss er, dass die Richtungen beider Spins schon festgelegt waren, als sich beide Teilchen voneinander getrennt hatten und diese Richtungen schon vorher physikalische Realität hatten, ihre Werte also nicht erst bei der Messung angenommen worden sind. Diese Interpretation müssen wir heute ausschließen. 
+
+Das Phänomen der spukhaften Fernwirkung wird heute als eine Grundsäule der Quantenmechanik angesehen, und man versucht nicht, es noch weiter zu verstehen. Statt des etwas spöttischen Ausdrucks, den Einstein geprägt hat, spricht man von Nichtlokalität quantenmechanischer Systeme. Selbst wenn zwei verschränkte Teilchen sich räumlich weit voneinander entfernen, sind sie doch nicht unabhängig von einander. Eine Messung an einem Teilchen beeinflusst auch das andere Teilchen. Es ist also nicht immer möglich, Systeme dadurch zu isolieren, dass man sie räumlich voneinander trennt. Ob dieses wichtige Phänomen aber weitreichende philosophische Konsequenzen hat, sehe ich im Augenblick nicht. Die Nichtlokalität der Quantenmechanik aber ist die Voraussetzung dafür, dass es verborgene Parameter geben kann. Die Nichtlokalität tritt allerdings auch schon in dem Doppelspaltexperiment auf. Das Teilchen, das durch Spalt 1 fliegt, weiß, ob der zweite Spalt geöffnet oder geschlossen ist auch das durch dieselbe spukhafte Fernwirkung.
+
+5.      
+Zusammenfassung: Über die Wichtigkeit der Nicht-Lokalität
+
+Wo liegt die größte konzeptionelle Schwierigkeit der Quantenmechanik? 
+Sicherlich nicht in der Heisenbergschen Unschärfe-Relation. Denn man kann sehr wohl verstehen, dass man den Eingriff in ein System, der durch eine Messung bewirkt wird, nicht beliebig klein machen kann. Es gibt eben eine kleinste Wirkung und nichts darunter. Deshalb kann man von einem System auch nicht alles Notwendige erfahren, das man wissen muss, um den Ausgang eines Experimentes festzulegen, ohne das System selbst zu verändern.. Es kann höchstens einen verborgenen Determinismus geben - wenn überhaupt. 
+Vielleicht ist die Nichtlokalität das schwierigste neue Konzept, das wir aus der Mikrophysik zu schlucken haben. Es tritt beim Doppelspalt wie auch bei den verschränkten Zuständen auf. Die Bewegung eines Teilchens mit kleinen Ausdehnungen wird durch eine Wellenfunktion beschrieben, die sich über einen wesentlich größeren Bereich erstreckt als die Ausdehnung des Teilchens selbst. Mit ihrer Ausdehnung weiß die Wellenfunktion über Vieles Bescheid, von dem das Teilchen selbst mit seinen Wechselwirkungen nichts erfährt. Die Nichtlokalität steht natürlich auch hinter dem Welle-Teilchen-Dualismus, der üblicherweise im Mittelpunkt quantenmechanischer Debatten steht. 
+
+Ich danke Herrn Dr. R. Löhken für seine Kritik zur Darstellung und Hilfe bei den Ab-bildungen.
+

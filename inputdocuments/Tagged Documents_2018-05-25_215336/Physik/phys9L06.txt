@@ -1,0 +1,250 @@
+
+                            Kφrper in der Physik
+
+Bevor wir bestimmen, was ein Kφrper  ist,  wollen  wir  uns  ein  paar  neue
+Vokabeln einprδgen:
+
+|der Stoff,                        |das Material,                       |
+|etwas zum Gesetz erheben,         |die Geschwindigkeit erhφhen,        |
+|einen Stein senkrecht hoch        |den Wagen zum Stillstand bringen,   |
+|schleudern,                       |                                    |
+|bremsen = negativ beschleunigen,  |unelastisch gegen die Wand stoίen,  |
+|irgendwo haften bleiben,          |elastisch von der Gefδίwand         |
+|                                  |zurόckgestoίen werden,              |
+|der elastische Stoί,              |der Zusammenstoί,                   |
+|ideal,                            |punktfφrmige Gestalt,               |
+|kleine gleichmδίig mit Masse      |das chemische Element,              |
+|gefόllte Kugeln                   |                                    |
+|spezifische Eigenschaften,        |der Stickstoff (N2),                |
+|stoffspezifische Merkmale,        |der Wasserstoff (H2)                |
+|zusammenpressbar sein,            |der Sauerstoff (O),                 |
+|einen Druck ausόben,              |das Quecksilber (Hg),               |
+|der Druck auf die Kreisflδche mit |das Chlor (Cl),                     |
+|einem Durchmesser von x cm,       |                                    |
+|die relative Atommasse,           |das Fluor (Fl),                     |
+|es gelten die Gesetze der         |das Brom (Br),                      |
+|klassischen Mechanik,             |                                    |
+|die Summe der mechanischen        |das Blei (Pb),                      |
+|Energien ist konstant,            |                                    |
+|die Summe der Impulse bleibt      |der mittlere Abstand,               |
+|unverδndert,                      |                                    |
+|die herrschenden Verhδltnisse,    |die innewohnenden Krδfte,           |
+
+
+
+                    Was verstehen wir unter einem Kφrper?
+
+      Wir haben die folgende Erfahrung gemacht und erheben sie zum Gesetz:
+Jeder physikalische Kφrper nimmt fόr sich einen Raum ein, so  dass  sich  an
+der gleichen Stelle des Raumes niemals  gleichzeitig  zwei  Kφrper  befinden
+kφnnen.
+1
+
+
+
+
+
+
+      Welche Eigenschaften ordnen wir den Kφrpern zu?
+
+      a) jeder Kφrper hat eine Form und ein Volumen,
+      b) der Stoff, aus dem sie bestehen,
+      c) die Zustandsform oder der Aggregatzustand,
+
+
+
+
+Entsprechend  dem  Punkt  c)  unterscheiden  wir  an  dieser   Stelle   drei
+Aggregatzustδnde:
+  - der gasfφrmige Aggregatzustand - das Gas,
+  - der flόssige Aggregatzustand -die Flόssigkeit,
+  - der feste Aggregatzustand - der Festkφrper,
+
+
+      Worin unterscheiden sie sich?
+
+      das Gas:
+       Gase haben keine bestimmte Gestalt. Sie haben  die  Eigenschaft  sich
+gleichmδίig auf den ganzen verfόgbaren Raum zu verteilen. Das  Volumen  kann
+durch verhδltnismδίig klein Krδfte verδndert werden.
+
+      die Flόssigkeit:
+       Flόssigkeiten haben keine bestimmte Form, d.h. sie  passen  sich  der
+Form des Gefδίes an, wobei sich eine waagerechte Oberflδche  ausbildet.  Sie
+haben ein bestimmtes Volumen, daί auch durch groίe  Drόcke  kaum  verringert
+werden kann.
+
+      der Festkφrper:
+       Festkφrper haben eine bestimmte Form und Volumen. Die Form kann durch
+genόgend Groίe Krδfte verδndert werden. Das Volumen dagegen ist  auch  durch
+groίe Krδfte fast nicht verδnderbar.
+
+
+   Erklδrung der Kφrpereigenschaften mittels Betrachtung der Anordnung der
+                      Molekόle und Atome in den Stoffen
+                                                      [Hφfling, Physik Bd.1]
+
+       1.) Bei den Gasen sind die Atome und Molekόle vφllig frei  beweglich.
+Ihr  Abstand  ist  verhδltnismδίig  groί.  Die  Gasteilchen   bewegen   sich
+vollkommen ungeordnet und frei, deshalb  haben  Gase  weder  eine  bestimmte
+Gestalt noch ein bestimmtes Volumen,  sondern  sie  fόllen  den  verfόgbaren
+Raum gleichmδίig aus.
+
+       2.)  Bei  den  Flόssigkeiten  sind  die  Atome  und  Molekόle  leicht
+gegeneinander verschiebbar.  Aus  diesem  Grund  haben  Flόssigkeiten  keine
+feste Gestalt, sondern sie passen sich dem Gefδί   an. Sie liegen aber  noch
+immer so dicht beieinander, dass sie schwer dichter  zusammenpressbar  sind.
+Darum ist ihr Volumen  fast unverδnderlich.
+
+       3) Bei den Festkφrpern hat jedes Atom bzw. Molekόl festen  Platz,  um
+den es sich zwar etwas bewegen aber nicht vφllig verlassen kann.
+
+
+     Wir beobachten: Nachdem der Zucker in das Wasser getan wurde, verδndert
+ sich der Geschmack und die Dichte des Wasser. Das Volumen bleibt von dieser
+                                                        Tδtigkeit unberόhrt.
+
+
+
+
+Flόssigkeiten und feste Kφrper
+
+
+Betrachtungen zu den Elementarkrδften / Molekularkrδften:
+
+die Elementarkraft,    die Krδftebeziehung,
+die Anziehung,   die Abstoίung,
+der Zusammenhalt,      die Dichte,
+Dinge zusammenhalten,  Gegensδtze ziehen sich an,
+Gleiches stφίt sich ab,      Quecksilber,
+homogen,    inhomogen,
+gleichartig,     verschieden,
+waagerecht, senk(e)recht,
+die Oberflδche,  ausbilden,
+
+Krδftebeziehungen: Anziehung und Abstoίung (vonzαs, taszitαs) sind  wichtige
+Beziehungen.
+
+       Die  fόr  den  Zusammenhalt  der  Molekόle  oder  Atome  von  Stoffen
+verantwortlichen Krδfte bezeichnet man Molekularkrδfte. Wenn es  sich  dabei
+insbesondere um  den  Zusammenhalt  der  kleinsten  Teilchen  eines  Stoffes
+handelt (homogene Stoffe), so spricht man von Kohδsionskrδften.
+
+       Wδhrend  die  Kohδsionskrδfte  fόr  den  Zusammenhalt  zwischen   den
+Molekόlen eines Stoffes sorgen,  (z.B.  Eisen,  Glas,  Wasser,  Quecksilber,
+...) gibt es auch Krδfte zwischen den Molekόlen  verschiedener  Stoffe,  die
+sogenannten Adhδsionskrδfte
+
+
+Beispiele:
+      Kohδsionskraft:
+      - ruhende Flόssigkeiten  bilden  eine  waagerechte,  ebene  Oberflδche
+aus,
+      - Seifenblasenbildung,
+      - Sand- bzw. Schleifpapier zur Oberflδchenbearbeitung fester Kφrper,
+      - zersδgen von Festkφrpern,
+
+
+      Adhδsionskraft:
+       Sie ist besonders gut zu beobachten zwischen  den  Flόssigkeiten  und
+den   Festkφrpern,   wobei   die   Adhδsionskrδfte    und    Kohδsionskrδfte
+unterschiedlich stark wirken.
+
+|Wasser im Glasgefδί       |     |Quecksilber im Glasgefδί   |
+|Rand an der Gefδίwand nach|     |Rand an der Gefδίwand nach |
+|oben gewφlbt              |     |unten gewφlbt              |
+
+
+
+      H2O   Hg
+
+
+      Adhδsion > Kohδsion    Adhδsion < Kohδsion
+      (sprich: grφίer als)   (sprich: kleiner als)
+
+
+Versuche, Experimente, Beobachtungen, Beispiele:
+
+       Tauchen  ein  Geldstόck  in  Flόssigkeit  (und  versuchen  es  wieder
+herauszuziehen,  d.h.  nur  Oberflδchenberόhrung)  bzw.  versuchen  auf  die
+Flόssigkeit zu legen.
+Versuch:    1.   2.
+Lage der Mόnze:  hochkant    quer (Kreisflδche)
+Beobachtung:     sinkt  schwimmt zum Teil
+Kraftaufwendung
+zum Rausziehen:  gering      relativ groί
+|Bewertung der Krδfte:     | |                            |
+|die Elementarkrδfte  | |dagegen sind sie im zweiten |
+|sind in der ersten   | |Versuch groί genug, um      |
+|Versuchsanordnung    | |diesen Kφrper mit genau der |
+|nicht in der Lage den| |gleichen Masse zu tragen    |
+|Kφrper am Sinken zu  | |                            |
+|hindern,             | |                            |
+
+      Vermischen von Bohnen und Reis
+      Es treten keine Adhδsionskrδfte auf.
+
+
+      Vermischen von Alkohol und Wasser
+      Vermischen der Flόssigkeiten sagt uns, dass die  Adhδsionskrδfte  kaum
+wirken
+
+
+
+
+Flόssigkeiten und Gase
+
+
+       Unterschiede   und   Gemeinsamkeiten   von    einigen    ausgewδhlten
+Eigenschaften
+Aufgabe:
+Vergleiche die Gase und die  Flόssigkeiten,  in  dem  Du  die  Eigenschaften
+gegenόber stellst. Gehe davon aus, was Du sowohl von  den  Gasen,  als  auch
+von den Flόssigkeiten weiίt. Dazu fόlle die  jeweils  andere  Tabellenhδlfte
+aus!
+Versuche herauszufinden, welche  Eigenschaften  wir  anderen  Wissenschaften
+zuordnen.
+
+|das Gas                          |die Flόssigkeit                   |
+|leicht zusammenpressbar          |                                  |
+|                                 |besitzt eigenen Rauminhalt        |
+|                                 |όbt Druck nach innen und nach     |
+|                                 |auίen aus                         |
+|es bestehen keinerlei            |                                  |
+|Krδftebeziehungen                |                                  |
+|ist durchsichtig                 |                                  |
+|                                 |ist geschmacklos                  |
+|                                 |Teilchen bewegen sich unregelmδίig|
+|Teilchen bewegen sich ungeordnet |                                  |
+|                                 |brennen bei Entzόndung            |
+|kφnnen miteinander vermischt     |                                  |
+|werden                           |                                  |
+|besitzen eine hohe               |                                  |
+|Geschwindigkeit                  |                                  |
+
+
+neue Wφrter:
+die Hydraulik,
+die Flόssigkeit kann vom Schiff nur verdrδngt werden,
+Auftrieb beim Schwimmen und Tauchen,
+Regentropfen, Tassenrand,
+
+
+Textaufgaben:
+Lb. S.12 Nr.3 (Lb - Lehrbuch)
+      Ein Kraftwagen mit einer Masse von 800 Kg wird 3  s  lang  durch  eine
+Kraft von 1600 N beschleunigt. Welche Endgeschwindigkeit erreicht er.
+
+Lb. S.17 Nr.1
+      Welche kinetische Energie besitzt ein Kraftwagen mit einer  Masse  von
+800 Kg und einer Geschwindigkeit von 72 km/h?
+
+Lb. S.17 άA-Nr. 1 (άA - άbungsaufgabe)
+       Um  das  Wievielfache  mόssen  wir  die  Geschwindigkeit  eines  sich
+bewegenden Kφrpers erhφhen, um eine 6,25-fache  grφίere  kinetische  Energie
+zu erreichen?
+
+Lb. S.18 άA-Nr. 3
+      Ermitteln Sie die Gleichung fόr die Hφhe  des  Fluges  eines  Kφrpers,
+der mit der Geschwindigkeit v senkrecht nach oben geschleudert wird.
+

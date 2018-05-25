@@ -1,0 +1,3564 @@
+Eine Publikation der
+
+Blockchains,
+Smart Contracts
+und das
+Dezentrale Web
+Shermin Voshmgir
+
+Impressum
+Technologiestiftung Berlin 2016
+Fasanenstraße 85 · 10623 Berlin · Telefon +49 30 46302 400
+info@technologiestiftung-berlin.de · technologiestiftung-berlin.de
+
+Autorin
+Dr. Shermin Voshmgir
+Herausgeber
+Dr. Christian Hammel
+Gestaltung
+Lippert Studios, Berlin
+Druck
+LM Druck und Medien GmbH, Freudenberg
+Titelbild
+Lippert Studios, Berlin
+
+Dieses Projekt wird von der Senatsverwaltung für Wirtschaft, Technologie und Forschung und der Investitionsbank Berlin aus
+Mitteln des Landes Berlin gefördert.
+
+Textinhalte, Tabellen und Abbildungen dieses Werkes, mit
+
+und Abbildungen Quellen angegeben sind, sind diese ebenfalls
+
+Ausnahme der Abbildungen 8 und 9, können genutzt und
+
+als Quelle zu nennen.
+
+geteilt werden unter einer Creative Commons – Lizenz Namensnennung – Weitergabe unter gleichen Bedingungen 3.0 Deutsch-
+
+Die Autorin weiß um die Bedeutung einer geschlechtergerechten
+
+land (siehe http://creativecommons.org/ licenses/by-sa/3.0/de/).
+
+Sprache und befürwortet grundsätzlich den Gebrauch von Parallelformulierungen. Von einer durchgehenden Benennung beider
+
+Als Namensnennung für Text und Tabellen ist anzugeben:
+
+Geschlechter bzw. der konsequenten Verwendung geschlechter-
+
+Shermin Voshmgir, Blockchains, Smart Contracts und das
+
+neutraler Bezeichnungen wurde im vorliegenden Text dennoch
+
+Dezentrale Web, Technologiestiftung Berlin, 2016. Wo an Tabellen
+
+abgesehen, weil die Lesbarkeit deutlich erschwert würde.
+
+2
+
+Inhalt
+Vorwort
+
+5
+
+Zusammenfassung
+
+6
+
+Executive Summary
+
+7
+
+1.
+
+Über Blockchain
+
+8
+
+1.1
+
+Blockchain und die Entwicklung des Web
+
+9
+
+1.2
+
+World Wide Web
+
+10
+
+1.3
+
+Technologie hinter Blockchain
+
+12
+
+1.4
+
+Wofür kann man die Blockchain verwenden?
+
+14
+
+1.5
+
+Welche Blockchains gibt es?
+
+15
+
+1.6
+
+Status Quo und langfristiges Potenzial
+
+16
+
+2.
+
+3.
+
+Branchen und Anwendungsgebiete
+
+17
+
+2.1
+
+Banken, Versicherungen und FinTech
+
+18
+
+2.2
+
+Sharing Economy, Internet of Things und Industrie 4.0
+
+19
+
+2.3
+
+Sharing Economy und Kreativwirtschaft
+
+20
+
+2.4
+
+Notare, Grundbücher und eGovernment
+
+21
+
+2.5
+
+Buchhaltung, Buchprüfung und Auditing
+
+22
+
+2.6
+
+Supply Chain
+
+22
+
+2.7
+
+Gesundheitswesen
+
+23
+
+2.8
+
+Energiewirtschaft
+
+24
+
+2.9
+
+IT Dienstleistungen
+
+26
+
+2.10 Legal Tech und neue juristische Sachverhalte
+
+26
+
+2.11 Forschungsbedarf
+
+27
+
+Standort Berlin
+
+28
+
+3.1
+
+Startups
+
+28
+
+3.2
+
+Etablierte Firmen und Institutionen im Blockchain Umfeld
+
+29
+
+3.3
+
+Forschung und Lehre
+
+29
+
+3.4
+
+Meetups in Berlin
+
+29
+
+4.
+
+Potenziale und Herausforderungen
+
+30
+
+5.
+
+Handlungsempfehlungen für den Standort Berlin
+
+31
+
+5.1
+
+Förderungen von Pilotprojekten
+
+31
+
+5.2
+
+Rechtssicherheit schaffen
+
+31
+
+5.3
+
+Information und Ausbildung
+
+32
+
+5.4
+
+Kooperationsnetzwerke und Veranstaltungen
+
+32
+
+5.5
+
+Förderungen der Basistechnologien und Blockchain Startups
+
+33
+
+Interviewpartner
+
+34
+
+Quellen und weiterführende Informationen
+
+35
+
+3
+
+4
+
+Vorwort
+
+Blockchain-City Berlin
+Kennen Sie Blockchain? Sie ist jedenfalls aus den Wirtschafts-
+
+vor besonderen Herausforderungen steht, von besonderem
+
+nachrichten nicht mehr wegzudenken. Das Interesse an der
+
+Interesse ist. Aber sie kann auch, und das macht sie im
+
+Blockchain ist ungebrochen und nimmt laufend zu. Mittlerweile
+
+wirtschaftlichen Kontext so attraktiv und disruptiv, als kosten-
+
+wird sogar von einer “Blockchain-Revolution” gesprochen,
+
+günstigere Alternative zu komplexen Verfahren und Verträgen
+
+die unsere Welt verändern wird. Nüchtern betrachtet dürfte
+
+dabei helfen, Transaktionskosten erheblich zu senken.
+
+allerdings klar sein, dass hier auch ein gewisses Maß an Überschwang zu konstatieren ist.
+
+Mit unserer Studie wollen wir nicht nur einen Überblick über
+die Technologie geben, sondern auch konkrete Anwendungs-
+
+Noch vor wenigen Monaten wurde die Blockchain vor allem mit
+
+möglichkeiten aufzeigen. Wir geben praktische Antworten
+
+Kryptowährungen wie Bitcoin in Verbindung gebracht. Doch es
+
+auf die Fragen: Wer forscht und entwickelt in Berlin an Block-
+
+wird immer deutlicher, dass auch viele andere Bereiche von
+
+chains? Welche Berliner Anwender könnten die Technologie
+
+ihr profitieren können: Die Blockchain ist im Kern eine Alter-
+
+einsetzen? Zu welchen Zwecken? Wo stehen wir im überregi-
+
+native zu Zertifikaten, staatlichen Registern und öffentlichen
+
+onalen Vergleich?
+
+Beglaubigungen. Sie basiert auf dem Gedanken, dass die Wahrheit und Richtigkeit ihrer Informationen durch die Vielzahl
+
+Eines lässt sich bereits an dieser Stelle mit Sicherheit sagen:
+
+der öffentlichen Kopien ihrer selbst innerhalb der Online-
+
+Berlin ist der wichtigste Standort für die Entwicklung von
+
+Community sichergestellt ist.
+
+Blockchain-Technologien in Deutschland - wer die Chancen der
+Blockchain nutzen will, ist in Berlin richtig.
+
+Sie ist also vor allem dort stark, wo vorhandene Strukturen das
+Vertrauen in die Richtigkeit von Transaktionen und Informationen nicht gewährleisten können. Dies dürfte ein Grund
+
+Nicolas Zimmer
+
+dafür sein, dass die Blockchain beispielsweise als Alternative
+
+Vorstandsvorsitzender
+
+zu Grundbüchern vor allem in Ländern, deren Verwaltung
+
+Technologiestiftung Berlin
+
+5
+
+Zusammenfassung
+
+Blockchain ist eine neue Technologie der Verifizierung von
+
+unterscheiden sich dementsprechend wesentlich von herkömm-
+
+Datentransaktionen. Es handelt sich um eine Form der Vertei-
+
+lichen Anwendungen.
+
+lung und Sicherung von Daten, auf deren Basis viele Funktionen
+dezentralisiert
+
+(2) Blockchain-Technologien haben Anwendungspotenziale in
+
+werden können. Die Blockchain kann überall dort zum Einsatz
+
+einer Vielzahl von Branchen. Sie ermöglichen neue Formen der
+
+kommen, wo Informationen sicher verwaltet und verifiziert
+
+Abwicklung von Geschäften, indem sie die Rolle zentraler Clea-
+
+werden müssen und es normalerweise eines Vermittlers bedarf.
+
+ringstellen als Mittler ersetzen oder verändern können. Da die
+
+zentral
+
+organisierter
+
+Informationssysteme
+
+Technologie und deren Anwendungen noch jung und zum Teil
+Die Blockchain baut unter anderem auf der Logik der Peer-to-
+
+erst im Entstehen sind, gibt es noch wenige Erfahrungswerte.
+
+Peer (P2P) Netzwerke auf und löst das Problem der zentralen
+
+Einige neue Anwendungen sind schon heute machbar und trag-
+
+Datenspeicherung und Transaktionsvalidierung. Sie kann damit
+
+fähig. An anderen Anwendungen wird – auch in Berlin – intensiv
+
+ein nächster großer Schritt in der Entwicklung der Computer
+
+entwickelt. Um neue Rollen für Mittler zu schaffen, benötigen
+
+und des Internets sein. Was ist damit gemeint? Das WWW hat
+
+einige Anwendungsmöglichkeiten allerdings erhebliche Netz-
+
+den Informationsaustausch revolutioniert. Das sogenannte
+
+werkeffekte, die in so einem frühen Stadium der Technologie
+
+Web2 machte das Web programmierbar und brachte uns Social
+
+noch nicht abzuschätzen sind.
+
+Media und die Sharing Economy. Blockchain kann in dieser
+Entwicklungsreihe als ein Baustein des Web3 gesehen werden,
+
+(3) Was technisch grundsätzlich möglich ist, unterscheidet sich
+
+der den Wertaustausch revolutioniert, indem er P2P-Trans-
+
+in manchen Branchen von dem, was derzeit aus regulatorischer
+
+aktionen ohne zentrale Clearingstelle ermöglicht. Auf dieses
+
+Sicht eindeutig geregelt ist. Hier besteht branchenspezifischer
+
+Transaktionsprotokoll können Smart Contracts, dezentrale
+
+Klärungsbedarf. Des Weiteren sind Entwickler und Unternehmer
+
+Anwendungen (dApps) und Dezentrale Autonome Organisati-
+
+mit einem gewissen Grad an Rechtsunsicherheit konfrontiert,
+
+onen (DAOs) aufbauen.
+
+da die Realität des Internets sowie öffentlicher Blockchains und
+die unterschiedliche
+
+nationalstaatliche Gesetzgebung stark
+
+Die Studie identifiziert wesentliche Berliner Akteure und zeigt
+
+auseinander klaffen. Neuartige Anwendungen und Organisati-
+
+mögliche Handlungsmaßnahmen für Unternehmen, Wissen-
+
+onsformen wie dApps oder DAOs werfen gesellschaftsrechtliche
+
+schaft und Politik auf. Mögliche Blockchain Anwendungen
+
+Fragen auf, die noch zu klären sind. Für Smart Contracts, die
+
+werden über eine ganze Reihe von Branchen hinweg vorge-
+
+Verträge in Form von Programmcode sind, fehlt noch ausrei-
+
+stellt: Banking und Fintech, Kreativwirtschaft, Sharing Economy,
+
+chende Erfahrung in der Rechtspraxis, wie diese rechtssicher
+
+Energiesektor, eGovernment, Legal Tech, Gesundheit und (IT-)
+
+gestaltet werden können.
+
+Consulting. Darüber hinaus werden aktuelle Forschungsfelder
+für die Wissenschaft aufgezeigt.
+
+(4) Berlin ist einer der Hotspots weltweit, an dem sich eine
+Vielzahl von Blockchain Entwicklern und Blockchain Startups
+konzentrieren. Es werden Maßnahmen aufgezeigt, wie man den
+
+Die wichtigsten Erkenntnisse und Empfehlungen sind:
+
+Technologiestandort Berlin in dieser Hinsicht weiter stärken
+könnte. Die Studie empfiehlt möglichen öffentlichen und privaten
+
+(1) Blockchain-Technologien sind eine Alternative zu Anwen-
+
+Anwendern konkrete Pilotprojekte zur Evaluation der Techno-
+
+dungen, die auf zentralen Clearingstellen oder zentralen
+
+logie, insbesondere im Bereich des e-Government, des dezentralen
+
+Vertrauensinstanzen beruhen. Sicherheit und Angreifbarkeit
+
+Energiehandels und im Bereich transparenter Supply Chains.
+
+6
+
+Executive Summary
+
+Blockchain is a new technology for the verification of data
+
+Most important learnings are:
+
+transactions. It is a type of distributed data storage and
+processing that enables many features of centrally organized
+
+(1) Blockchain technologies can substitute applications based
+
+information systems to be decentralized. The Blockchain can
+
+on centralized trust authorities or clearing houses. Security and
+
+be used everywhere where information is to be stored and
+
+vulnerability of Blockchain technologies differ substantially
+
+verified and where usually an intermediate agent is engaged.
+
+from conventional solutions.
+
+A Blockchain is a shared, trusted, public record of transactions,
+that everyone can inspect, but which no single user controls. It
+
+(2) Blockchain technologies can be used in a broad spectrum
+
+is an encrypted, secure, tamper resistant, distributed database.
+
+of industries. They enable new ways of organizing business
+
+It solves a complex mathematical problem and allows us to
+
+transactions by substituting intermediary agents or by changing
+
+build anything from simple Smart Contracts, to whole dApps
+
+their roles. As the technology is new and many applications are
+
+(Decentralized Applications) or complex DAOs (Decentralized
+
+just being developed there is a lack of experience to overcome.
+
+Autonomous Organizations) on top of it. It is considered by
+
+Some applications are technically feasible and stable. Others
+
+many to be a game changer that allows us to decentralize trust,
+
+still are intensely engineered, many of them in Berlin. To take
+
+creating the basis for a peer-to-peer economy, powered by auto
+
+disruptive effects on the role of intermediary agents, some
+
+enforceable smart contracts. Transactions on the Blockchain
+
+applications will need considerable network effects that can’t
+
+through these smart contracts are in many cases faster and
+
+be estimated in the current early stage of the technology.
+
+cheaper and more secure than transactions that classically run
+through neutral central authorities.
+
+(3) Developers and Entrepreneurs currently face many legal
+
+Blockchain can be seen as one of the most important building
+
+uncertainties, since the reality of the internet and the different
+
+blocks of the next generation Internet. If the WWW revolutionized
+
+national legal frameworks diverge. New types of organizations
+
+information, and the Web2 introduced the programmable Web
+
+like dApps or DAOs pose new challenges for companies laws
+
+through Social Media and the Sharing Economy, Blockchain can
+
+that remain to be solved. Smart contracts, being contracts in
+
+be seen as the most important building block in the Web3, the
+
+form of programmed code, pose new challenges, because there
+
+decentral web, allowing for real P2P transactions without a
+
+is a lack of practice on how such contracts can be closed in a
+
+middle man.
+
+legally compliant and binding form.
+
+This report explains Blockchain as a technology, analyses
+potential use cases, lines out relevant players in Berlin, and
+
+(4) Berlin is an international hotspot for many Blockchain
+
+defines an action plan to strengthen the local ecosystem. The
+
+developers and Blockchain startups. This report shows, how
+
+first part will give an introduction to Blockchain as a technology
+
+Blockchain technology in Berlin can be further strengthened
+
+without going into too many technical details. The second
+
+and recommends pilot projects for the further evaluation of
+
+part will showcase selected applications and discuss industry
+
+the technology, especially in the sectors of eGovernment,
+
+sectors where Blockchain could be relevant: Banking and
+
+decentralized energy trading, and transparent supply chains.
+
+Finance, Creative Industries, Sharing Economy, Energy Sector,
+eGovernment, Legal Tech, Health, and IT Consulting. The last
+part of this report will focus on Berlin as an Innovation Hub,
+analyzing the current ecosystem and players active in the field.
+
+7
+
+1. Über Blockchain
+
+Blockchain ist eine neue Technologie der Verifizierung von
+
+Blockchain
+
+Datentransaktionen. Es handelt sich um eine Form der Verteilung
+
+digitale Werte nicht von A nach B kopieren, sondern sie über
+
+und Sicherung von Daten, auf deren Basis viele Funktionen
+
+ein dezentralisiertes Netzwerk so transferieren, dass jeder
+
+zentral
+
+Teilnehmer des Netzwerks zweifelsfrei und anonymisiert
+
+organisierter
+
+Informationssysteme
+
+dezentralisiert
+
+Technologien
+
+ermöglichen
+
+erstmals,
+
+dass
+
+wir
+
+feststellen kann, wer gerade im Besitz des Wertes ist.2
+
+werden können. Die Blockchain kann überall dort zum Einsatz
+kommen, wo es normalerweise eines Vermittlers, einer ‚Trusted
+3rd Party‘, bedarf, wo Informationen sicher verwaltet und
+
+Auf Blockchain basierende Smart Contracts, dezentralisierte
+
+verifiziert werden müssen. Blockchain bietet Nachvollziehbarkeit
+
+Anwendungen (dApps) und Dezentral Autonome Organisationen
+
+sowie
+
+(DAOs) können herkömmliche „Trusted 3rd Parties“ ersetzen,
+
+(statistische)
+
+Fälschungssicherheit1,
+
+ohne
+
+bei
+
+einer
+
+sowie wirtschaftliche und bürokratische Transaktionen unter-
+
+unabhängigen, zentralen Instanz anfragen zu müssen.
+
+schiedlichster Natur um ein vielfaches billiger, schneller und
+Die Blockchain ist eine auf vielen Computern gleichzeitig
+
+sicherer als herkömmliche zentralisierte Client-Server-basierte
+
+gepflegte Datei, in der sämtliche Transaktionen aller Teilnehmer
+
+Informationssysteme machen.
+
+vom gesamten Netzwerk per Mehrheits-Konsens validiert
+
+Potenzial von Blockchain besser verstehen zu können, ist es
+
+und abgespeichert werden. Einmal abgespeichert kann eine
+
+hilfreich, einen kurzen Blick in die Geschichte des Computers
+
+Transaktion im Nachhinein nicht mehr verändert werden.
+
+und des Internets zu werfen.
+
+Um die Bedeutung und das
+
+Transaktionen werden in Blöcken verschlüsselt und sind
+miteinander verkettet, daher der Name Blockchain.
+
+Abbildung 1
+Blockchain: Woher stammt der Name?
+
+Der erste Block von
+Transaktionen wird
+verschlüsselt:
+„Genesis Block“
+
+5
+1
+
+In regelmäßigen
+Zeitabständen wird
+ein neuer Block von
+Transaktionen verschlüsselt
+und hinzugefügt.
+
+2
+
+Jeder Teilnehmer im P2P Netzwerk hat eine Kopie
+der gesamten Blockchain. Wenn die Mehrheit
+der Teilnehmer im Netzwerk eine Transaktion
+für richtig erachtet, wird sie validiert. Mehrere
+validierte Transaktionen werden in einem Block
+zusammengefasst und verschlüsselt.
+
+3
+Blöcke von
+Transaktionen sind
+untrennbar miteinander
+verkettet, daher der
+Name Blockchain.
+
+4
+Ein Block beinhaltet
+aktuelle Transaktionen und
+die Zusammenfassung aller
+vorherigen Blöcke in Form
+eines Hashwertes.
+Quelle: eigene Darstellung
+
+1 Statistische Fälschungssicherheit: zur Fälschung muss die Mehrheit der an einem P2P-Netz teilnehmenden Knoten kompromittiert werden. Das macht
+Fälschungen nicht inhärent unmöglich, erhöht den Aufwand aber enorm.
+2 Bitcoin Kurz & Gut, Jörg Platzer, 2014, Seite 65 (Kindle Version)
+8
+
+1.1 Blockchain und die Entwicklung des Web
+Wenn man an die Anfänge der Computergeschichte denkt, so
+
+Das Internet auf Basis des TCP/IP Protokolls war zwar ein
+
+gab es zuerst Mainframe Computer. Sie waren groß, mussten
+
+erster Schritt in Richtung Dezentralisierung, indem es den
+
+von mehreren Menschen bedient werden und nur wenige
+
+Zugang zu Information und den Datenaustausch vereinfacht
+
+private und staatliche Institutionen konnten sich Computer
+
+und beschleunigt hat. Allerdings werden Daten auch heute
+
+überhaupt leisten. Mit dem Einzug des Personal Computers
+
+noch in den meisten Fällen zentral gespeichert: entweder
+
+in private Haushalte in den 1980er Jahren änderte sich alles
+
+direkt auf dem Computer oder den jeweiligen Endgeräten
+
+schlagartig. Obwohl es das Arpanet - den Vorläufer des Inter-
+
+oder remote in der sogenannten Cloud. Doch auch die Cloud
+
+nets - schon seit den 1960er Jahren gab, waren die meisten
+
+basiert auf zentraler Datenspeicherung: Die Daten werden via
+
+Computer weltweit bis Anfang der 1990er Jahre nicht
+
+Internet auf Servern gespeichert, auch wenn diese verteilt
+
+miteinander verbunden.
+
+sein können und es nicht relevant ist, wo sie sich befinden.
+
+Erst die Entwicklung des TCP/IP Protokolls Anfang der 1980er
+
+Eine Herausforderung bei zentraler Datenspeicherung besteht
+
+Jahre und der darauf folgende Aufstieg des Internets Anfang
+
+darin, dass Datensicherung, Verifizierung und Zertifizierung
+
+der 1990er ermöglichten die zunehmende Vernetzung der
+
+von Transaktionen geld- und zeitintensiv sind und immer eine
+
+Rechner weltweit, zunächst von privaten Haushalten, Firmen
+
+potenzielle, zentrale Quelle für Fehler, Manipulation und Zensur
+
+und anderen Institutionen. In weiterer Folge kam die Vernet-
+
+darstellen. Diese können intern oder extern verursacht sein,
+
+zung mit mobilen Endgeräten dazu. Mit dem Internet der
+
+absichtlich oder unabsichtlich, durch Mensch oder Maschine.
+
+Dinge vernetzten sich in einem nächsten Schritt immer mehr
+autonome Geräte miteinander.
+
+P2P3-Netzwerke, die Ende der 1990er durch Anwendungen
+wie Napster populär wurden, zeigten erstmals einer breiteren
+
+Die ersten sogenannten Killer-Anwendungen Anfang der
+
+Öffentlichkeit, wie man in einer vernetzten Welt neue Datens-
+
+1990er Jahre waren Email (SMTP) und das World Wide Web
+
+trukturen schaffen kann, die in einer Welt der alleinstehenden,
+
+(HTTP). Trotz weiter Verbreitung des Internets und der Vernet-
+
+nicht vernetzten Computer bislang nicht möglich gewesen waren.
+
+zung von Milliarden Endgeräten, wurden und werden die
+meisten Daten weiterhin zentral gespeichert und im Client-
+
+Blockchain baut unter anderem auf der Logik der P2P-Netzwerke
+
+Server Prinzip gesichert, verarbeitet und abgefragt.
+
+auf, löst das Problem der zentralen Datenspeicherung und Transaktionsvalidierung und ist somit möglicherweise der nächste
+große Schritt in der Entwicklung der Computer und des Internets.
+
+Abbildung 2
+Warum ist die Blockchain fälschungssicher?
+
+Jeder Teilnehmer des Netzwerks hält eine Kopie der
+Blockchain, ein Register, in dem sämtliche Transaktionen
+gespeichert werden. Neue Eintragungen müssen gemeinsam
+verifiziert werden. Damit ist die Blockchain besonders sicher
+vor Fälschungen.
+
+Sollte ein Teilnehmer des Netzwerks Einträge in seiner Kopie
+der Blockchain manipulieren, würde dies beim automatischen
+Abgleich der Kopien anderer Teilnehmer auffallen. Wenn die
+eigene Kopie der Blockchain vom Rest des Netzwerks nicht
+akzeptiert wird, ist man nicht mehr Teil dieses Netzwerks.
+Quelle: eigene Darstellung
+
+3
+
+P2P (= peer to peer): An einem P2P-Netzwerk teilnehmende Computer sind über die physische Struktur des Internets ohne zentrale Instanzen und
+gleichberechtigt miteinander verbunden und können Daten direkt untereinander austauschen oder verteilt verarbeiten. Jeder Computer in diesem
+Netzwerk ist sowohl Server als auch Client. Zentrale Instanzen sind nicht erforderlich.
+9
+
+1.2 World Wide Web
+Das WWW hat den Informationsaustausch revolutioniert. Das
+
+wurden zu Teilzeithoteliers, jeder Autobesitzer wurde zum
+
+sogenannte Web2 baut mit neuartigen Anwendungen auf dem
+
+potenziellen Taxifahrer, jeder Smartphonebesitzer zum Citizen
+
+WWW auf: Social Media haben neue Kommunikations- und
+
+Journalist. Transparenz und Transaktionskosteneffizienz haben
+
+Interaktionsformen geschaffen. Online Marktplätze haben
+
+diese Entwicklung begünstigt. Dies war ein erster Schritt in
+
+Käufer und Verkäufer weltweit einander näher gebracht,
+
+Richtung P2P-Ökonomie, aber immer mit einer zwischenge-
+
+Vertriebswege verkürzt und komplett neue Anwendungsfelder
+
+schalteten Clearingstelle, einer vertrauenswürdigen Plattform
+
+kreiert, unter anderem die sogenannte Sharing Economy. Das
+
+als Mittelsmann. So sehr diese neuen Plattformen Menschen
+
+Dezentrale Web, von vielen innerhalb der Entwickler Commu-
+
+und Institutionen weltweit einander näher brachten, wurde
+
+nity auch Web3 genannt, hat das Potenzial, den Wertaustausch
+
+dadurch aber auch ein neues Problem geschaffen: die zuneh-
+
+zu revolutionieren.
+
+mende Marktdominanz einiger weniger Plattformbetreiber wie
+Ebay, Amazon, Zalando, Airbnb, Uber, Facebook, Twitter, u.a..
+
+Information Data Highway, das statische Web, Web1 oder
+
+Daten, die auf den zentralen Rechnern dieser Firmen gespei-
+
+WWW: Im Grunde genommen basiert das Internet, wie wir es
+
+chert werden, sind zu einer wertvollen Handelsware für die
+
+heute kennen, auf einem Protokoll: dem TCP/IP. Alle anderen
+
+Werbebranche geworden, eine indirekte Einnahmequelle für
+
+Protokolle und Dienste, die danach kamen, bauten darauf
+
+die Plattformbetreiber. Nutzer geben einerseits die Rechte an
+
+auf. Datenautobahn war das Schlagwort der 1990er. Heute
+
+ihren privaten Daten auf (vor allem relevant im Zusammenhang
+
+verwendet niemand mehr dieses Wort, weil es
+
+selbstver-
+
+mit Social Media) und sind darüber hinaus von der Marktmacht
+
+ständlich geworden ist, dass wir immer und allgegenwärtig mit
+
+der Plattformbetreiber abhängig (vor allem relevant im Zusam-
+
+allen anderen verbunden sind und kommunizieren. Anfang der
+
+menhang mit Marktplätzen).
+
+1990er Jahre konnte zwar so mancher schon ahnen, was für
+ein bahnbrechendes Potenzial das Internet hat. Die wenigsten
+
+Das Dezentrale Web, das autonome Web, Web3: Blockchain
+
+aber haben die Entwicklung der letzten 25 Jahre vorher-
+
+kann in dieser Entwicklungsreihe als ein Baustein des Web3
+
+sagen können. Viele Dinge, die wir heute als selbstverständlich
+
+gesehen werden, der den Wertaustausch revolutionieren kann.
+
+ansehen, waren in den 1990er Jahren noch reine Science Fiction.
+
+Blockchain ist ein Transaktionsprotokoll (value exchange
+protocol), das echte P2P-Transaktionen ermöglicht, und zwar
+
+Das programmierbare Web, Social Media, Sharing Economy
+
+ohne zentrale Clearingstelle oder Trusted 3rd Party. Auf dieses
+
+oder Web2: Um die Jahrtausendwende kam mit dem Web2
+
+Transaktionsprotokoll können Smart Contracts, dezentrale
+
+der nächste Entwicklungsschritt. Im Web2 wurde das Internet
+
+Anwendungen (dApps) und Dezentrale Autonome Organisati-
+
+programmierbar. Die Weiterentwicklung von Informationsaus-
+
+onen (DAOs) aufbauen. Im Dezentralen Web vermischen sich
+
+tausch erfolgte durch komplexe Anwendungen, die auf den
+
+die Funktionen des Computers mit Funktionen des Internets.
+
+einfachen Internet Protokollen aufsetzten und eine neue Form
+
+Ein verteiltes Netzwerk von Rechnern übernimmt klassische
+
+der Interaktion ermöglichten. Social Media Anwendungen wie
+
+Funktionen des physischen Rechners. Dafür bedarf es einer
+
+Myspace, Facebook, Youtube, Twitter und alles, was danach
+
+Vielzahl neuer Protokolle. Blockchain ist nur eine von vielen
+
+kam, haben die Form der Kommunikation von bilateral
+
+auf
+
+Technologien, die ein Dezentrales Web ermöglichen, scheint
+
+multilateral geändert. Jeder war plötzlich ein Sender von
+
+aber derzeit eine starke Triebfeder dieses Wandels zu sein.
+
+Informationen in einer noch komplexeren Art, als es zuvor
+
+Die Blockchain übernimmt im Gesamtsystem des Dezentralen
+
+mit Email und statischen Webseiten möglich gewesen war.
+
+Webs unter anderem die Aufgabe der Prozessorleistung eines
+
+Die Grenze zwischen Konsumenten und Produzenten verfloss.
+
+dezentralen Computers4. Aber ohne komplementäre dezentrale
+
+Online Marktplätze haben Vertriebswege verkürzt. Secondhand
+
+Protokolle wird ein wirklich dezentrales Netz nicht funktio-
+
+wurde plötzlich salonfähig. Die Sharing Economy hat neue
+
+nieren. Ausgewählte Bestandteile eines Gesamtsystems Web3
+
+Geschäftsmodelle geschaffen: Mieter und Wohnungsbesitzer
+
+zeigt folgende Abbildung.
+
+4
+
+10
+
+“Prozessor” bzw. “Prozessorleistung” meint hier ganz im wörtlichen Sinne die Leistung des Prozessierens von Datenveränderungen und ist nicht
+zu verwechseln mit dem Hardwarebauteil CPU (central processing unit), einem Prozessor als Bauteil. Ebenso meint “Computer” hier die Gesamtheit
+aller verteilten Rechensysteme, nicht etwa einzelne Elektrogeräte auf oder unter Tischen.
+
+Abbildung 3
+Dezentrales Web schematisiert als dezentraler Computer
+
+dApps (dezentrale Applikationen)
+Anwendungsebene
+
+Transaktionskommunikation
+
+Dezentrale Prozessor Leistung
+
+Whisper (Ethereum)
+
+Blockchain (Öffentlich, Konsortium, Privat)
+
+File Storage
+
+Datenbank
+
+IPFS + Filecoin
+Swarm (Ethereum)
+SoLiD
+
+Bigchain DB (Software)
+IPDB (public net)
+
+Quelle: eigene Darstellung
+
+Viele dieser Protokolle, Technologien und Anwendungen rund
+
+Trotz Blockchain und anderen dezentralen Protokollen wird es
+
+um Blockchains befinden sich noch in den Kinderschuhen.
+
+auch in Zukunft eine Existenzberechtigung für Clearingstellen
+
+Welche Standards sich letztendlich durchsetzen werden und
+
+und zentralisierte Client-Server-basierte Systeme geben. Nur
+
+wann sie eine kritische Masse erlangen, weiß man derzeit
+
+wird wahrscheinlich die Bedeutung zentralisierter Instanzen
+
+noch nicht.
+
+tendenziell abnehmen. Ihre Rolle wird sich verändern, während
+die Bedeutung dezentraler Lösungen zunimmt.
+
+11
+
+1.3 Technologie hinter Blockchain
+In der Blockchain werden Transaktionen unveränderbar und
+
+Das Blockchain Protokoll gibt hierbei den Netzwerkteilnehmern
+
+für alle nachvollziehbar abgespeichert.5 Die Blockchain kann
+
+die ‘Spielregeln’ für das Validieren der Transaktionen vor. Bei
+
+als dezentrales, allumfassendes und transparentes Kontobuch
+
+öffentlichen Blockchains kann jeder das Protokoll auf seinen
+
+gesehen werden, das alle Transaktionen zwischen Nutzern
+
+Rechner laden und Teil des Netzwerks werden. Bei privaten
+
+registriert und die gespeicherten Transaktionsdaten blockweise
+
+Blockchains und Konsortium Blockchains ist eine Teilnahme
+
+verschlüsselt und aneinanderreiht. Alle Teilnehmer des Netz-
+
+nur auf “Einladung” oder “Erlaubnis” möglich. Grundsätzlich
+
+werks haben gleichermaßen Zugriff auf dieselben Daten und
+
+gilt: je mehr Netzwerkteilnehmer es gibt und je diversifizierter
+
+zwar in Echtzeit.
+
+diese sind, desto vertrauenswürdiger ist das System.
+
+Das Validieren von Transaktionen erfolgt dezentral durch das
+
+Eine zentrale Fehlerquelle sowie Manipulation und Zensur durch
+
+gesamte Netzwerk. Wenn die Mehrheit des Netzwerks eine
+
+eine zentrale Institution sind somit abgeschafft. Man vertraut
+
+Transaktion validiert, wird die Transaktion dauerhaft in die
+
+nicht einer Person oder Institution, sondern dem Protokoll und
+
+Blockchain geschrieben. Ansonsten wird die Transaktion abge-
+
+den Netzwerkteilnehmern, die Transaktionen dem Blockchain
+
+lehnt und geht nicht durch.
+
+Protokoll entsprechend verifizieren.
+
+Abbildung 4
+Vertrauen in Serverbetreiber versus Vertrauen in die Programmierung des Protokolls und die Verifizierung durch peers.
+
+Server = Datenmonarchie
+
+P2P Netzwerke = Datendemokratie
+Quelle: eigene Darstellung
+
+12
+
+Abbildung 5
+Die wissenschaftlichen Grundlagen von Blockchain-Technologien
+
+Blockchain ist eine Kombination aus drei Konzepten/Technologien
+P2P Netzwerke
+
+Kryptografie
+
+Spieltheorie
+
+Jeder Teilnehmer im Netzwerk ist
+sowohl Client als auch Server
+
+Sorgt sowohl für Transparenz als
+auch Privatsphäre
+
+Verhaltensregelung durch ökonomische
+Anreizsysteme
+Quelle: eigene Darstellung
+
+P2P-Netzwerke: Transaktionen sind transparent. Alle jemals
+
+verändert oder gelöscht werden, es sei denn, die Mehrheit der
+
+durchgeführten Transaktionen werden in einem Register
+
+Teilnehmer stimmt dem zu. Um Transaktionen durchführen zu
+
+gespeichert. “Alle Teilnehmer einer Blockchain sind über ein
+
+können, erhält jeder Teilnehmer der Blockchain einen privaten
+
+Peer-to-Peer Netzwerk verteilt und Transaktionen sind für
+
+und einen öffentlichen Schlüssel. Der öffentliche Schlüssel stellt
+
+jeden Teilnehmer einsehbar. Damit können alle Transaktionen
+
+eine eindeutige Adresse (eine Art Kontonummer) dar, die als
+
+bis zu ihrem Ursprung zurückverfolgt werden.”5
+
+Empfangsadresse für eingehende Transaktionen verwendet
+wird. Der private Schlüssel muss geheim gehalten werden.
+
+Kryptografie sorgt für Transparenz und Privatsphäre glei-
+
+Er funktioniert wie ein Passwort. Mit dem privaten Schlüssel
+
+chermaßen. Über kryptographische Funktionen sind einzelne
+
+werden ausgehende Transaktionen bestätigt. Für eine Transak-
+
+Transaktionen verschlüsselt. Das verschafft (relative) Anony-
+
+tion muss der Absender lediglich den öffentlichen Schlüssel des
+
+mität6. Blöcke von Transaktionen sind untrennbar miteinander
+
+Empfängers angeben, sowie über seine notwendigen privaten
+
+verkettet. Eine Aneinanderreihung von verketteten Trans-
+
+Schlüssel für die zu transferierenden Einheiten oder zu bestä-
+
+aktionsblöcken wird daher Blockchain genannt. Einzelne
+
+tigenden Informationen verfügen. Da für eine Transaktion
+
+Blockchains können mehr Informationen enthalten als die
+
+keine weiteren Informationen benötigt werden, müssen die
+
+Transaktionsblöcke.7 Die Blöcke erhalten neben einer oder
+
+Teilnehmer im Netzwerk nicht mit ihren Klarnamen oder einer
+
+mehreren Transaktionen auch eine Zusammenfassung aller
+
+geprüften Identität auftreten. Die Blockchain erlaubt daher
+
+vorherigen Blöcke in Form eines Hash Werts8. Dieser Hash
+
+nicht nur Transparenz, sondern auch eine “relative Anony-
+
+Wert dient als Fälschungssicherung, mit der die Echtheit einer
+
+mität”.6 Das für die jeweiligen Anwendungen erwünsche Level
+
+Transaktionskette überprüft werden kann. Bei Manipulations-
+
+von Transparenz und Anonymität kann durch entsprechende
+
+versuchen würde der Hash Wert nicht mehr stimmen. Jeder
+
+Programmierung der im Einzelfall verwendeten Blockchain und
+
+Teilnehmer im Netzwerk darf neue Einträge zur Blockchain
+
+der zugehörigen Protokolle festgelegt werden und ist auch bei
+
+hinzufügen. Diese Einträge sind schreibgeschützt und können
+
+aktuell in Anwendung befindlichen unterschiedlichen Block-
+
+im Nachhinein nicht mehr verändert oder entfernt werden. Was
+
+chains recht verschieden.9
+
+einmal in die Blockchain geschrieben wird, kann nicht mehr
+
+5
+6
+
+7
+8
+9
+
+ÖFIT-Trendschau: Öffentliche Informationstechnologie in der Digitalen Gesellschaft, Trendthema 36: Blockchain, Mai 2016 (Jens Fromm, Mike Weber,
+Fraunhofer Fokus)
+Relative Anonymität: Auf der Bitcoin Blockchain beispielsweise, ist die Zuordnung des Schlüssels zu einer bestimmten Person, für einen normalen
+Nutzer nicht so einfach möglich, aber mit viel Aufwand durchaus nachvollziehbar (mittels Datadamining). Fälle, in denen dies Ermittlungsbehörden
+gelungen ist, sind bekannt. Die Blockchain Technologie ist hier aber einem rasanten Wandel unterworfen. Neuere Blockchains, wie Monero und Zcash,
+haben Protokolle entwickelt, bei denen die Identität einer Adresse gänzlich anonymisiert ist.
+Zum Beispiel die Bitcoin-Blockchain, die auch die Bitcoins selbst enthält.
+Ein Hash-Wert ist eine Prüfsumme, die aus dem zu prüfenden Inhalt selbst errechnet wird. Würde der Inhalt verändert, stimmte der Hash-Wert nicht
+mehr. In der analogen Welt seit Jahrzehnten als “Prüfziffer” z.B. bei Kontonummern und Ausweisdokumenten in Gebrauch.
+ÖFIT-Trendschau: Öffentliche Informationstechnologie in der Digitalen Gesellschaft, Trendthema 36: Blockchain, Mai 2016 (Jens Fromm,
+Mike Weber, Fraunhofer Fokus)
+13
+
+Spieltheoretische Incentivierung: Ökonomische Anreizsysteme
+
+müsste man über die Mehrheit der Netzwerkteilnehmer
+
+sorgen dafür, dass die Teilnehmer im Netzwerk im eigenen Inte-
+
+verfügen und diese dazu bringen können, Transaktionen nicht
+
+resse für ein funktionierendes Gesamtsystem sorgen: Proof of
+
+dem Protokoll entsprechend zu verifizieren. Der ökonomische
+
+Work (PoW), Proof of Stake (PoS), Proof of Burn (PoB), u.v.m.
+
+Aufwand steht in den allermeisten Fällen mit dem Nutzen nicht
+
+Einzelne Teilnehmer im System sind hierbei ökonomisch
+
+im Verhältnis. Fälschung oder Zensur wird dadurch ökonomisch
+
+incentiviert, Transaktionen dem Protokoll entsprechend zu
+
+unrentabel. Proof of Work macht eine Blockchain sicher, ist aber
+
+verifizieren. Proof of Work ist bisher am weitesten verbreitet
+
+auch sehr langsam, d.h. zu wenige Transaktionen pro Sekunde
+
+und funktioniert folgendermaßen: Wenn ein Block von Trans-
+
+können auf einer PoW-basierten Blockchain abgewickelt
+
+aktionen korrekt, d.h. dem Protokoll gemäß, verifiziert wird,
+
+werden. Auch wenn sie noch in der Entwicklung sind, zeichnen
+
+bekommt der Teilnehmer im Netzwerk einen Block Reward.
+
+sich viele unterschiedliche Ansätze ab, wie man diese Skalie-
+
+Incentivierung führt im Zusammenspiel mit dem P2P-Charakter
+
+rungsprobleme bewältigen könnte. Hier besteht grundsätzlich
+
+der Blockchain dazu, dass der Aufwand für Manipulationen des
+
+noch viel Forschungs- und Entwicklungsbedarf. Im Laufe der
+
+Gesamtsystems dann enorm groß wird, wenn die Zahl der betei-
+
+nächsten Jahre könnte sich daher die Grundarchitektur von
+
+ligten Nutzer groß ist. Um bestehende Transaktionen, die in der
+
+Blockchains unter anderem auch hinsichtlich der Anreiz-
+
+Blockchain gemacht wurden, zu zensurieren oder zu fälschen,
+
+mechanismen ändern.
+
+1.4 Wofür kann man die Blockchain verwenden?
+Smart Contracts10 sind automatisch ausführbare Programme,
+
+DAOs (Decentralized Autonomous Organizations) sind eine
+
+die auf der Blockchain aufbauen und vordefinierte Transakti-
+
+neue Form der Organisation, deren Statuten, Geschäftsord-
+
+onsspielregeln im Programmcode abbilden. Eine Transaktion,
+
+nung, Gesellschaftsvertrag oder Satzung durch einen Smart
+
+die über einen Smart Contract läuft, wird automatisch ausge-
+
+Contract abgebildet und automatisch ausgeführt werden. Die
+
+führt, wenn alle beteiligten Parteien die zuvor definierten
+
+Spielregeln der Organisation werden im Vorfeld definiert und
+
+Konditionen erfüllen. Dadurch erübrigt sich die Notwendig-
+
+in die Smart Contracts programmiert. DAOs brauchen kein
+
+keit einer zentralen, zwischengelagerten Instanz, insbesondere
+
+zentral organisiertes Management des Tagesgeschäfts mehr.
+
+wenn die beteiligten Parteien sich nicht kennen und somit auch
+
+Die Rollen von Spezialisten werden durch gewählte Teil-
+
+nicht vertrauen, und senkt zudem die Transaktionskosten.
+
+nehmer der DAO oder externe “Agenten” übernommen. DAOs
+sind die höchste und komplexeste Form eines Smart Contracts.
+
+dApps (Decentralized Applications) sind dezentrale Anwen-
+
+Wir befinden uns allerdings in einer sehr frühen Phase der
+
+dungen, vom Backend bis zum User Interface, die auf einer
+
+Entwicklung von DAOs. Hier besteht noch viel Forschungs- und
+
+Blockchain laufen und einen oder mehrere Smart Contracts
+
+Entwicklungsbedarf und es bedarf technologischer Netzwerk-
+
+verwenden. Die Begriffe dApps und Smart Contracts werden in
+
+effekte, bevor diese Anwendungen in einer breiten Masse
+
+der noch jungen Blockchain Community unterschiedlich ausge-
+
+relevant werden können.
+
+legt. Definitionen sind einem raschen Wandel unterworfen.
+
+10 Smart Contracts sind nicht 1:1 mit klassischen Verträgen in Textform gleichzusetzen, könnten diese aber solche in Zukunft ersetzen, wenn dem
+entsprechende Rahmenbedingungen erfüllt sind (siehe Kapitel weiter hinten).
+14
+
+1.5 Welche Blockchains gibt es?
+Bitcoin: Obwohl das Konzept von Blockchain und P2P-Netz-
+
+Ethereum ist in dieser Entwicklungsreihe derzeit eine der
+
+werken im akademischen Umfeld schon seit den 1980er
+
+vielversprechendsten öffentlichen Blockchains. Ethereum ist
+
+Jahren existiert, gab es nie einen Anwendungsfall, der eine
+
+eine von Bitcoin unabhängige Blockchain. Das Protokoll ist
+
+bedeutende kritische Masse erreichte. Bitcoin war sozusagen
+
+einer komplett anderen Logik unterworfen. Im Gegensatz zu
+
+der erste richtige Anwendungsfall einer Blockchain, der in
+
+Bitcoin, das für eine einzige Funktion ausgelegt ist (Geld von
+
+den letzten Jahren zunehmend an Bedeutung gewonnen hat.
+
+A nach B schicken ohne zwischengeschaltete Bank), ist die
+
+Auslöser war die Wirtschaftskrise 2008. Der Kollaps der Bank
+
+Ethereum Blockchain als ein dezentrales Rechnernetzwerk
+
+Lehman Brothers stellte den Höhepunkt dieser Krise dar.
+
+konzipiert, auf dem man jegliche Art von Smart Contracts
+
+Was damals für viele erstmals deutlich wurde: Banken sind
+
+und dApps programmieren kann. Im Gegensatz zu Bitcoin
+
+ein „single point of failure“ und wenn diese zentrale Instanz
+
+ermöglicht die Ethereum Blockchain somit jegliche Art von
+
+versagt oder kollabiert, sind die Kollateralschäden groß.
+
+P2P Wertaustausch, nicht nur Geldtransaktionen. 2013 veröf-
+
+Wenige Wochen später publizierte eine anonyme Person oder
+
+fentlichte Vitalik Buterin das
+
+Gruppe namens Satoshi Nakamoto ein White Paper, in dem
+
+kurz darauf spezifizierte Gavin Wood das Yellow Paper für
+
+Bitcoin als Kryptowährung erstmals definiert wurde. Die Idee
+
+Ethereum. 2014 folgte eine Crowdfunding Kampagne, in der
+
+hinter Bitcoin war es, funktionsfähiges Geld ohne Banken und
+
+innerhalb von 6 Wochen 18 Millionen USD in Bitcoin durch
+
+Zentralbanken zu kreieren. Freiwillige Programmierer setzten
+
+Crowdfunding/Crowdinvesting aufgestellt wurden. Im Juli
+
+daraufhin dieses White Paper in Code um und wenige Monate
+
+2015 wurde die Ethereum Plattform gelaunched. Die Ethe-
+
+später gab es Bitcoin. Das dahinter liegende Protokoll nannte
+
+reum Foundation hat ihren Sitz in der Schweiz. Ein Teil des
+
+man Blockchain. Aktuelle Zahlen zu Bitcoin: 10 Milliarden
+
+Entwicklerteams sitzt in Berlin. Ziel der Ethereum Founda-
+
+USD Marktkapitalisierung, ca. 5 Millionen User.
+
+tion ist es, die Ethereum Blockchain und darauf aufbauende
+
+White Paper zu Ethereum,
+
+dezentrale Technologien zu entwickeln und kontinuierlich
+Altcoins: Das Bitcoin Protokoll sowie das Protokoll anderer
+
+weiterzuentwickeln und der Öffentlichkeit zur Verfügung
+
+öffentlicher Blockchains, die danach kamen, ist open source
+
+zu stellen.13 Zum technologischen Ökosystem von Ethereum
+
+und kann von jedem kopiert und modifiziert werden. Somit
+
+gehören neben der Ethereum-Blockchain eine Vielzahl verfüg-
+
+kann jeder auf der Grundlage dieses Codes seine eigene Kryp-
+
+barer Clients, mit denen man am System teilnehmen kann,
+
+towährung mit angepassten Variablen kreieren. Im Laufe der
+
+außerdem sind mehrere Programmiersprachen verfügbar,
+
+Jahre wurde das Bitcoin Protokoll hundertfach modifiziert.11
+
+mit denen man Smart Contracts erstellen kann. Viele span-
+
+Man kam schnell auf die Idee, Bitcoin als Transaktions-Token
+
+nende Projekte und Startups setzen gerade auf die Ethereum
+
+für
+
+juristischen
+
+- Blockchain, unter anderem slock.it, RWE, Thomson Reuters,
+
+Eine der spannendsten Entwick-
+
+Santander Bank, Microsoft, Bitnation, um hier nur einige zu
+
+lungen hierbei waren Colored Coins und Master Coins. Vitalik
+
+nennen.14 Im Laufe des nächsten Jahres werden wir die ersten
+
+Buterin, der einige Zeit an solchen Entwicklungen mitgewirkt
+
+greifbaren Projekte sehen. Es wird voraussichtlich noch
+
+hatte, stellte rasch fest, dass diese Anpassungen der Bitcoin
+
+einige weitere Jahre dauern, bis das Potenzial der Anwen-
+
+Blockchain zwar möglich, aber nicht effizient und flexibel
+
+dungen auch in einer breiteren Öffentlichkeit greifbar wird.
+
+jegliche
+
+Art
+
+von
+
+wirtschaftlichen
+
+Verträgen zu verwenden.
+
+und
+
+genug waren. Er entwickelte daher das White Paper für
+Ethereum.
+
+Andere
+
+Dogecoin,
+
+Litecoin,
+
+Altcoins
+Lisk,
+
+sind
+
+beispielsweise:
+
+Namecoin,
+
+Peercoin,
+
+Dash,
+
+Monero,
+
+Tendermint, ZCash, u.v.m.12
+
+11 http://altcoins.com/
+12 http://coinmarketcap.com/
+13 Siehe Handelsregisterauszug: http://www.hrazg.ch/webservices/net/HRG/HRG.asmx/getHRGPDF?chnr=CH-170.7.000.758-1&amt=170&toBeModified=0&validOnly=0&lang=1&sort=
+14 Einige dieser Projekte wurden erstmals auf der Entwicklerkonferenz von Ethereum im September 2016 in Shanghai vorgestellt: https://ethereumfoundation.org/devcon/?page_id=14.
+Weiterführende Quellen:
+http://www.coindesk.com/microsoft-ethereum-3-million-developers/
+http://www.coindesk.com/german-utility-company-turns-to-blockchain-amid-shifting-energy-landscape/
+http://www.ibtimes.co.uk/bitnation-launches-decentralised-borderless-virtual-nation-constitution-ethereum-1544431
+https://cointelegraph.com/news/santander-confirms-fiat-backed-token-project-on-ethereum-blockchain
+http://www.coindesk.com/thomson-reuters-blockoneid-ethereum-blockchain/
+15
+
+Konsortium Blockchains: Im Gegensatz zur ursprünglichen
+
+weise Interbank-Transaktionen effizienter zu gestalten. So eine
+
+Idee von einer Blockchain (Protokoll ist open source und jeder
+
+Lösung entspricht einem Information/Daten Oligopol und ist
+
+kann Teilnehmer des Netzwerks werden), haben einige Bran-
+
+somit eine Teildezentralisierung von Transaktionsvalidierung.
+
+chen angefangen, an Konsortium Blockchains zu arbeiten. Bei
+Konsortium Blockchains sind die Akteure der Blockchain ausge-
+
+Private/Enterprise Blockchains: Das sind in-house Lösungen,
+
+wählt, nur diese können/dürfen Transaktionen validieren. Wenn
+
+die darauf abzielen, das Datenmanagement innerhalb eines
+
+daher der klassische Finanzsektor beispielsweise von der Block-
+
+Unternehmens effizienter zu gestalten. Sie bieten höhere Trans-
+
+chain spricht, so sind meist keine öffentlichen Blockchains wie
+
+aktionssicherheit, Nachvollziehbarkeit und somit weniger Fehler
+
+Bitcoin oder Ethereum sondern eher Konsortium Blockchains
+
+und Redundanzen. Alle Netzwerkteilnehmer befinden sich
+
+gemeint oder private Blockchains (siehe unten), um beispiels-
+
+innerhalb eines Unternehmens. Das Protokoll ist nicht öffentlich.
+
+Abbildung 6
+Welche Blockchains gibt es?
+
+Öffentliche Blockchains
+
+Private Blockchains
+
+Konsortium Blockchains
+
+· Unendlich viele Netzwerkteilnehmer
+· Jeder kann Transaktionen validieren
+· Protokoll öffentlich
+
+· Ausgewählte und begrenzte Anzahl von
+Netzwerkteilnehmern
+· Nur ausgewählte Mitglieder können
+Transaktionen validieren
+· Protokoll nicht öffentlich
+
+· Netzwerkteilnehmer nur innerhalb
+eines einzelnen Unternehmens
+· Nur ausgewählte Mitglieder können
+Transaktionen validieren
+· Protokoll kann öffentlich sein
+(open source) oder nicht öffentlich
+Quelle: eigene Darstellung
+
+1.6 Status Quo und langfristiges Potenzial
+Blockchain als Technologie gibt es in der jetzigen Form seit
+
+des Internet. Obwohl vielen schon klar war, dass diese neue
+
+2009. Die Technologie, die ursprünglich für Bitcoin entwickelt
+
+Technologie unser Kommunikationsverhalten revolutionieren
+
+wurde, um Geldtransaktionen ohne Banken zu ermöglichen,
+
+würde, konnten die meisten das Ausmaß des technologischen,
+
+bietet nun auch das Potenzial für eine Vielfalt von neuen
+
+wirtschaftlichen und gesellschaftlichen Wandels, den wir in
+
+Anwendungen. Die Entwicklung von Blockchain steckt zwar
+
+den letzten 25 Jahren gesehen haben, damals dennoch nicht
+
+noch in den Kinderschuhen, doch sie vollzieht sich rasant.
+
+vorhersehen.
+
+Immer
+
+mehr
+
+Unternehmen
+
+und
+
+Forschungseinrichtungen
+
+beschäftigen sich mit dem Thema. Immer mehr Investitionska-
+
+Bei Blockchain verhält es sich ähnlich. Wir stehen erst am Anfang.
+
+pital drängt in den Markt.
+
+Mit jeder neuen Anwendung, die auf der Blockchain realisiert
+wird, mit jeder neuen Firma, die anfängt, Blockchain-basierte
+
+Genaue Entwicklungen lassen sich derzeit nicht vorhersehen.
+
+Dienste anzubieten, mit jeder neuen Technologie, die auf der
+
+Anfang der 1990er Jahre war auch noch nicht vorhersehbar,
+
+Blockchain aufbaut, wird das Potenzial klarer und greifbarer.
+
+dass wir heute Smartphones haben, auf denen wir Dienste wie
+
+Wir wissen noch nicht, wann die nächste Killer-Anwendung auf
+
+Wikipedia, Facebook, Youtube, Twitter u.v.m. verwenden. Damals
+
+der Blockchain kommen wird. Dass sie aber früher oder später
+
+kannten wir nur Email und das WWW als erste Anwendungen
+
+kommen wird, scheint aktuell sehr wahrscheinlich.
+
+16
+
+2. Branchen und Anwendungsgebiete
+
+Smart Contracts auf der Blockchain ermöglichen zum ersten
+
+oder sogenannter Prosumer-Modelle, die im Kern peer-to-peer
+
+Mal echte P2P-Transaktionen ohne Mittelsmann und haben das
+
+Geschäfte sind und heute durch Plattform Betreiber vermittelt
+
+Potenzial, viele bisherige Geschäfts- und Verwaltungsprozesse
+
+und abgewickelt werden, ein peer-to-peer Abwicklungssystem
+
+von Grund auf zu transformieren. Betroffen von dieser
+
+zur Verfügung zu stellen. Somit würde die Notwendigkeit der
+
+Transformation sind Banken, Versicherungen und all jene
+
+Rolle des Plattform-Betreibers in der herkömmlichen Art und
+
+Behörden,
+
+Weise abgeschafft oder zumindest stark verändert werden.
+
+die
+
+Informationen
+
+archivieren,
+
+verifizieren,
+
+authentifizieren, lizenzieren, patentieren und zur Verfügung
+stellen. Betroffen sind aber auch klassische Vertriebsketten.
+
+Des Weiteren könnte sich Blockchain auch zur Basistechnologie
+
+Die Blockchain hat das Potenzial, traditionelle wirtschaftliche
+
+für klassische Industrie 4.0 Lösungen entwickeln. In einer
+
+Produktions- und Vertriebsketten auf den Kopf zu stellen sowie
+
+IoT
+
+Mittelsmänner und Zwischenhändler abzuschaffen. Sie kann
+
+und Transaktion essentiell sind, bieten Smart Contracts auf
+
+aber auch sehr viel mehr Transparenz schaffen.
+
+Blockchain Basis durch ihre automatisierte Vertragsabwicklung
+
+Insbesondere
+
+haben
+
+Blockchain-basierte
+
+Verfahren
+
+das
+
+Welt,
+
+in
+
+der
+
+Maschine-zu-Maschine
+
+Kommunikation
+
+eine effiziente Lösung.
+
+Potenzial, Anwendungen aus dem Bereich der Sharing Economy
+
+Abbildung 7
+Anwendungspotenziale von Blockchains nach Branchen
+
+Anwendungspotenziale von Blockchains
+Energiewirtschaft
+Datensicherheit und Transparenz
+Banken, Versicherungen und FinTech
+Kreativwirtschaft
+IoT und Industrie 4.0
+Verwaltung und eGovernment
+Mobility
+Legal Tech
+Quelle: eigene Darstellung
+
+17
+
+2.1 Banken, Versicherungen und FinTech
+Der klassische Finanzsektor hängt in seiner Transakti-
+
+Blockchainlösungen einsetzen können, um ihre Geschäftspro-
+
+onseffizienz zum Teil Jahrzehnte hinter den technischen
+
+zesse zu optimieren. Die Bank Santander beispielsweise hat
+
+Möglichkeiten nach, und das schon lange bevor es die Bitcoin
+
+errechnet, dass sie bis zum Jahr 2030 20 Milliarden USD15
+
+gab. Dies hat in den vergangenen Jahren dazu geführt, dass
+
+durch den Einsatz von Blockchain Technologien einsparen
+
+FinTech Startups weltweit den klassischen Banken merklich
+
+könnte. Für den Kunden ist das kein wesentlicher “Disrupt”.
+
+Marktanteile durch effizientere, schnellere und günstigere
+
+Der Mehrwert für die Bank ist Wettbewerbsfähigkeit mit den
+
+Transaktionen abgraben konnten.
+
+jungen FinTechs durch Prozessoptimierung und günstigere
+Transaktionskosten, die dann zum Teil auch an die Kunden
+
+Während heutzutage beispielsweise High Frequency Trading
+
+weitergegeben werden können.
+
+zur Selbstverständlichkeit geworden ist, wobei in Millisekunden Wertpapiere in Milliardenhöhe gehandelt werden,
+
+R3 beispielsweise ist ein Konsortium von 42 der international
+
+dauert es dennoch mehrere Tage, bis der Handel dieser Wert-
+
+größten Banken, die den Nutzen der Blockchain für Banken
+
+papiere formal abgewickelt ist. Banküberweisungen, auch
+
+ergründen und gemeinsame Standards entwickeln. Deutsche
+
+innerhalb eines Landes, dauern mehrere Tage, während man
+
+Bank, Commerzbank und UBS sind unter anderem an diesem
+
+mit Bitcoin in wenigen Sekunden Geldbeträge von Europa
+
+Konsortium beteiligt. Bei diesen Konsortium Blockchains handelt
+
+nach Afrika schicken kann. Zu einem Bruchteil der Trans-
+
+es sich allerdings nicht um eine komplette Dezentralisierung
+
+aktionskosten normaler Banküberweisungen wohlgemerkt.
+
+von Transaktionsvalidierung, sondern um eine Dezentralisie-
+
+Dieser Kosten- und Geschwindigkeitsvorteil entsteht dadurch,
+
+rung innerhalb eines strikt definierten Konsortiums.
+
+dass Transaktionen peer-to-peer ausgeführt und abgewickelt werden und nicht mehrere Server und Clearingstellen
+
+Neuere Fintech Startups gehen aber zum Teil ganz andere Wege
+
+mit semiautomatischen Compliance-Prüfungen durchlaufen
+
+und es bleibt abzuwarten, was hier in den nächsten Jahren
+
+müssen, wie es im Finanzbereich sonst üblich ist. Ein zusätz-
+
+noch auf uns zukommen wird. Die auch in Berlin tätige Firma
+
+licher Vorteil ist, dass bei internationalen Transaktionen
+
+Bitwala bietet Finanzdienstleitungen rund um Bitcoin, die
+
+Währungsumrechnungen beim Zahlungsvorgang entfallen.
+
+eine bessere Bedienungsfreundlichkeit von Bitcoin und eine
+
+Somit werden erstmals Mikrotransaktionen rentabel. Dies
+
+bessere Schnittstelle mit klassischen Finanzdienstleistungen
+
+wird über den FinTech Sektor hinaus Wellen schlagen und
+
+beinhalten. Unter anderem ermöglichen sie SEPA-Überwei-
+
+Auswirkungen auf neue Produkte und Dienstleistungen haben,
+
+sungen mit Bitcoin. Die ebenfalls in Berlin ansässige Firma
+
+die bis dato einfach nicht rentabel waren.
+
+SatoshiPay bietet Nanopayments auf der Bitcoin Blockchain
+
+Diese Mängel haben nun auch viele Banken erkannt. Sie versu-
+
+an, die insbesondere für das Verlagswesen und im IoT Bereich
+
+chen zu identifizieren, inwieweit sie private sowie Konsortium
+
+relevant werden können.
+
+15 http://www.coindesk.com/santander-blockchain-tech-can-save-banks-20-billion-a-year/
+18
+
+2.2 Sharing Economy, Internet of Things und
+Industrie 4.0
+Smart Access Control Lösungen, wie sie die deutsche Firma
+
+Einer der spannendsten Anwendungsfälle für Blockchain ist das
+
+slock.it bietet, bauen auf der Ethereum Blockchain auf. Smart
+
+Internet der Dinge und Industrie 4.0. Mit dem Internet der Dinge
+
+Locks sind eine praktische Lösung für die Sharing Economy. Mit
+
+sollen all jene Endgeräte des täglichen Gebrauchs miteinander
+
+slock.it kann man alles vermietbar machen, was den modernen
+
+vernetzt werden und interagieren, die bisher nicht miteinander
+
+Menschen umgibt: Wohnungen, Autos, Waschmaschinen, Fahr-
+
+vernetzt waren. Smart Contracts auf der Blockchain sind hierbei
+
+räder, Rasenmäher. All diese Geräte haben in Zukunft ein digitales
+
+eine ideale Ergänzung dieser Entwicklung. Da das Internet der
+
+Schloss, das Transaktionen über die Blockchain verifiziert, und
+
+Dinge auch in der Produktion Einzug halten soll -unter anderem
+
+jeder meiner autorisierten Nachbarn kann nun meine Geräte
+
+sollen in der Industrie 4.0 Werkstücke ihre eigene Bearbeitung
+
+verwenden. Die Vermietung wird über slock.it mittels Smart
+
+durch direkte Kommunikation mit den Bearbeitungsmaschinen
+
+Contracts auf der Ethereum Blockchain effizient, kostengünstig
+
+steuern- darf damit gerechnet werden, dass Industrie 4.0 eben-
+
+und allgemein nachvollziehbar abgewickelt. Das ist die Vision
+
+falls zu einem der spannenden Anwendungsfälle für Blockchain
+
+von slock.it, die eine Sharing Economy mit angemessen geringem
+
+werden kann. Smart Contracts auf der Blockchain sind hierbei
+
+Verwaltungsaufwand ermöglichen könnte.
+
+eine ideale Ergänzung dieser Entwicklung, da sie für die Übergabe korrekter Produktionsanweisungen an Maschinen sehr
+geeignet erscheinen ebenso wie für die Abrechnung von Produktionsschritten und Kontrolle auf vertragsgemäße Erfüllung.
+
+Abbildung 8
+Peer-to-Peer–Econonomy, Verleih und Bezahlung mit slock.it
+
+Quelle: www.slock.it
+
+19
+
+2.3 Sharing Economy und Kreativwirtschaft
+Heutzutage kann jeder mit seinem Smartphone oder auf dem
+
+Blockchain auch dazu beitragen können, Prosumern einen
+
+Computer schneller und billiger denn je Filme, Musik und Texte
+
+ähnlich hohen Reach zum Konsumenten zu ermöglichen, wie
+
+produzieren und durch die sozialen Netzwerke jedem anderen
+
+bestehende etablierte Plattformen ihn haben, oder ob Block-
+
+Verbraucher weltweit zur Verfügung stellen. Diese Entwicklung
+
+chain Technologien eher das Abrechnungsmodell zwischen
+
+hat in den vergangenen Jahren ganze Industrien in den Umbruch
+
+Plattformen und Produzenten verändern werden, ist daher
+
+gestürzt und neue Marktteilnehmer generiert. Eine neue Misch-
+
+aktuell nicht absehbar.
+
+form von Nutzer und Produzent ist entstanden: der Prosumer.
+Durch Digitalisierung von Medieninhalten sowie das Web2
+
+Einige ausgewählte Anwendungsfälle für dezentrale Anwen-
+
+wurden Verbraucher plötzlich auch zu Produzenten von Musik,
+
+dungen in der Kreativwirtschaft sind:
+
+Nachrichten und Filmen. Die klassischen Player in der Kreativwirtschaft, im Verlagswesen, in Film- und Fernsehen oder
+
+Ujo Music ist ein Blockchain-basierter Prototyp für die Musikin-
+
+Musikindustrie haben Marktanteile an neue Markteilnehmer
+
+dustrie. Gemeinsam mit der britischen Künstlerin Imogen Heap
+
+verloren, an Katzenvideos, Ted Talks, Instagram, musica.ly oder
+
+wird hier an einer neuen, transparenteren und effizienteren
+
+Videoblogger, die plötzlich größere Zuschauerzahlen hatten als
+
+Form der Musiklizensierung gearbeitet.
+
+etablierte Prime Time Sendungen im TV.
+Im Mai 2016 wurde im Rahmen des Musictechfest in Berlin das
+Doch obwohl die Produktion von kreativen Inhalten demokrati-
+
+Thema Blockchain und Musikindustrie besprochen. Blockchain
+
+siert wurde, ist der Vertrieb dieser neuen Plattformen weiterhin
+
+und die Musikindustrie waren auch ein großes Thema auf der
+
+zentralisiert und ein großer Teil der Werbeeinnahmen geht an
+
+re:publica 2016. Das Ziel: Transparenz von Urheberrechten und
+
+Firmen, die meist im Silicon Valley sitzen, und nicht an die Produ-
+
+Abrechnungssystemen on the fly. Künstler bekommen ihren
+
+zenten der Inhalte. Blogger sind von den Werbeeinnahmen der
+
+Anteil sobald konsumiert wird und nicht erst nach Monaten
+
+Plattformen wie Facebook und Youtube abhängig und können
+
+oder Jahren. Gelder werden direkt ausgeschüttet und müssen
+
+schwer unabhängig von diesen Plattformen Geld verdienen.
+
+nicht erst durch Plattenlabels, Produzenten oder Vertriebsplatt-
+
+Blockchain eröffnet hier neue Geschäftsfelder und P2P-
+
+formen laufen. Über den Smart Contract erfolgen Konsum und
+
+Möglichkeiten zu wesentlich niedrigeren Transaktionskosten.
+
+Bezahlung zeitgleich und direkt.
+
+Allerdings sind die Geschäftsmodelle hier unklar, da Daten nicht
+
+Ascribe ist ein Dienst des Berliner Blockchain Startups
+
+auf Servern gespeichert werden, Transaktionen nicht zentral
+
+BigchainDB. Künstler können ihre digitalen Kunstwerke oder
+
+validiert werden und der Quellcode open source ist. Wie kann
+
+Fotos ihrer analogen Kunstwerke für alle nachvollziehbar auf
+
+man damit Geld verdienen? Diese Frage ist noch weitgehend
+
+der Blockchain registrieren. Ein Hash Key (Digitales Zertifikat)
+
+unbeantwortet. Genauso wie Anfang der 1990er Jahre nicht
+
+wird generiert, mit dem der Urheber dieser Werke jederzeit
+
+absehbar war, wie man mit Online-Content Geld verdient. dApp
+
+seine Urheberschaft beweisen kann und auch die Rechte am
+
+basierte potenzielle Konkurrenten für bestehende Plattformen
+
+Werk transferieren kann. Für die Zukunft sind Kooperationen
+
+werden aber wahrscheinlich erst dann eine kritische Masse von
+
+mit online Marktplätzen angedacht. Hier soll es Künstlern
+
+Nutzern erreichen können, wenn sie auch gute User Interfaces
+
+ermöglicht werden, mit ihrem digitalen Zertifikat - ihrem Private
+
+haben und genug Geld in Marketing investieren. Die Netzwer-
+
+Key - mit einem einfachen Mausklick die Rechte an ihren Kunst-
+
+keffekte bestehender Plattformen sind nicht zu unterschätzen.
+
+werken auf online Marktplätzen temporär oder dauerhaft zu
+
+Ob und wie diese neuen, dezentralen Anwendungen auf der
+
+vermieten oder zu verkaufen.
+
+20
+
+2.4 Notare, Grundbücher und eGovernment
+Zu den wichtigsten Anwendungsgebieten für Blockchain und
+
+schafft werden. Korruption und Steuerhinterziehung werden
+
+Smart Contracts gehören jegliche Arten von Zertifizierungs-
+
+von vornherein vermieden. Steuern können on the fly - ohne
+
+stellen, Registrierungsstellen sowie notarielle Akte. Wenn eine
+
+Verzögerung - gezahlt werden. Diese Entwicklung bedarf aller-
+
+Urkunde einmal auf der Blockchain registriert wurde, so ist
+
+dings einer weiten Verbreitung von Blockchain Technologien,
+
+diese digitale Urkunde für immer auf der öffentlichen Block-
+
+der Einführung von Standards sowie von Maßnahmen regula-
+
+chain verschlüsselt verbrieft und kann von jedem eingesehen
+
+torischer Natur, die darauf abzielen, dass man buchhalterische
+
+werden, der einen Autorisierungsschlüssel hat. Blockchain ist
+
+und steuerliche Konsequenzen schon beim Buchen erkennt.
+
+eine Technologie, mit der der Staat und staatsnahe Institutionen
+
+Das deutsche Finanzamt ist zwar bei der digitalen Signatur
+
+diese Prozesse besser und schlanker gestalten können.
+
+schon dabei, Blockchain-basierte Steuerabwicklung einschließlich der Steuerprüfung on-the-fly ist aber vorerst eine eher
+
+Zertifizierungsstellen und Register wie zum Beispiel Ämter, die
+
+theoretische Vision.
+
+Grundstücksrechte verwalten, Eheschließungen dokumentieren,
+
+An dieser Stelle sei nochmals darauf hingewiesen, dass Block-
+
+Patente gewähren und Ausweise ausstellen oder Anwälte, die
+
+chain-basierte Verfahren nicht notwendig den “gläsernen
+
+Urheberrechte bestätigen, um nur einige zu nennen, können
+
+Bürger” erzwingen, sondern dass das erlaubte und erwünschte
+
+mit Blockchain-Technologie ersetzt oder effizienter gemacht
+
+Level an Transparenz bei der Programmierung einer konkreten
+
+werden und vermutlich auch ganz neue Leistungen anbieten.
+
+Anwendung festgelegt werden kann.
+
+Bei
+
+Notaren,
+
+die
+
+Verträge
+
+verifizieren
+
+und
+
+Testamente
+
+besiegeln, besteht in Ländern wie Deutschland, in denen Grund-
+
+Genehmigungsverfahren: Am Beispiel von Baugenehmigungen
+
+bucheinträge und Register gut funktionieren, kein unmittelbarer
+
+oder Gewerbeanmeldungen könnte man zeigen, wie man
+
+Handlungsbedarf, da diese Prozesse weitgehend reibungslos
+
+betroffene Prozesse einfacher über Smart Contracts auf der
+
+und verlässlich funktionieren. Es gibt aber mittel- und lang-
+
+Blockchain abbilden kann. Lässt sich der Prozess des Erteilens
+
+fristig erhebliche Einsparungspotenziale, da Transaktionen auf
+
+einer Gewerbeanmeldung beispielsweise über Standardisierung
+
+der Blockchain schneller, günstiger und weniger fehleranfällig
+
+auf die Blockchain setzen? Können Behörden mittels spezieller
+
+sind. Länder in denen diese Dienste nicht gut funktionieren
+
+Verifizierungscodes Kriterien überprüfen, und bei Erfüllung
+
+oder die korruptionsanfällig sind, werden tendenziell eher early
+
+dieser Kriterien über den Smart Contract innerhalb weniger
+
+adopter sein. Griechenland und Honduras beispielsweise wollen
+
+Stunden automatisch ein Gewerbe erteilen? All dies sind
+
+Grundbucheinträge und andere Verwaltungsakte in Zukunft
+
+Anwendungsfälle, die es zu evaluieren gilt.
+
+auf die Blockchain umstellen. Aber auch Staaten, in denen das
+Grundbuchwesen reibungslos funktioniert, testen bereits die
+
+eGovernment: Abgesehen von den oben erwähnten Beispielen
+
+Blockchain. Schweden zum Beispiel befindet sich gerade in der
+
+gibt es eine Vielzahl von Anwendungsfällen für Blockchain-ba-
+
+Evaluierungsphase und testet Blockchain für Grundbuchein-
+
+sierte eGovernment Lösungen. Die Herausforderung wird
+
+träge. Sony hat angekündigt, auf Blockchain-Basis ein Register
+
+möglicherweise darin liegen, das Potenzial dieser Technologien
+
+auf den Weg zu bringen, das Studienfortschritte und die Echt-
+
+den beteiligten politischen Akteuren verständlich zu machen.
+
+heit von Bildungsabschlüssen überprüfbar macht.16
+
+Außerdem müssten alle Stakeholder, die an potenziellen Transformationsprozessen beteiligt sind, den politischen Willen
+
+Steuerwesen: Die Blockchain hat das Potenzial, Buchhaltung
+
+zeigen; sonst sind Blockchain-basierte Projekte im eGovern-
+
+und Steuerzahlungen zu revolutionieren. Dies ist kein unmit-
+
+ment Bereich kaum durchsetzbar. Um sich an die Technologie
+
+telbarer Anwendungsfall, sondern es bedarf noch erheblicher
+
+heranzutasten, empfiehlt es sich daher, mit Pilotprojekten zu
+
+Netzwerkeffekte bevor er weitreichend umgesetzt werden
+
+beginnen, um die Technologie und Anwendungsfälle in einem
+
+könnte. Steuerzahlungen könnten langfristig viel effizienter
+
+kontrollierten Rahmen zu verstehen, ohne sich gleich dazu
+
+durch Smart Contracts auf der Blockchain schon am Tag der
+
+zu verpflichten, jahrzehntelang etablierte Verwaltungspro-
+
+Bezahlung von Rechnungen direkt vom Konsumenten an den
+
+zesse auf die Blockchain umzustellen. Pilotprojekte sind ein
+
+Staat transferiert werden. Der mühsame, (semi)manuelle Erfas-
+
+guter Proof of Concept, mit dem man Vertrauen schafft, um
+
+sungsprozess durch Buchhaltungsabteilungen der betroffenen
+
+besser bewerten zu können, in welchem Bereich man auf die
+
+Firmen sowie deren Steuerberater, kann langfristig somit abge-
+
+Blockchain umsteigen kann und will.
+
+16 http://www.sony.net/SonyInfo/News/Press/201602/16-0222E/index.html
+21
+
+2.5 Buchhaltung, Buchprüfung und Auditing
+Traditionelle Buchhaltungs- und Buchführungsmethoden haben
+
+auf der Blockchain automatisieren können. Privatsphäre ist hier
+
+einheitliche Standards im Rechnungswesen geschaffen. Wenn
+
+allerdings ein Problem, mit dem man sich auseinandersetzen
+
+man diese Standards mit Transaktionen auf der Blockchain
+
+muss. Das erwünschte Niveau an Transparenz muss zwischen
+
+verbindet, so kann man jegliche Finanztransaktion auf der
+
+allen Beteiligten verhandelt und im Protokoll festgelegt werden.
+
+Blockchain auch als zertifizierten Nachweis für Buchhaltung
+und Kostenrechnung verwenden. Ein Anwendungsgebiet der
+
+Blockchain Technologien, ob private oder öffentliche Block-
+
+Blockchain ist daher die Buchhaltung.
+
+chains, ermöglichen Effizienzgewinne, auch für den Staat. Es
+würde sich unter anderem empfehlen, eine Forschungsgruppe
+
+Da Zahlungstransaktion auf der Blockchain gespeichert werden,
+
+aufzusetzen, die beispielsweise für den Anwendungsfall von
+
+kann man diese Transaktionen bei einheitlichen Buchführungs-
+
+Unternehmenssteuern durchkonjugiert, wie die Prozesse stan-
+
+standards auch gleich in ein Blockchain-basiertes doppeltes
+
+dardisiert werden müssten, um sie für alle Stakeholder zu
+
+Buchhaltungssystem einführen. Somit gehören unabsichtliche
+
+optimieren. Dafür müssten dann Standards entwickelt werden,
+
+Fehler in der Buchhaltung sowie aktive Verschleierung von
+
+die auch international durchgesetzt werden müssten. Deutsch-
+
+Compliance-Verstößen der Vergangenheit an. Rechnungsprü-
+
+land könnte hierbei eine Vorreiterrolle spielen, das Zeitfenster
+
+fung besteht heute aus stichprobenhaften Buchprüfungen durch
+
+ist derzeit gegeben. Ein weiterer attraktiver Anwendungsfall
+
+Innenrevisionen, Finanzämter und zertifizierte Buchprüfer. In
+
+könnte unter anderem die Prüfung der Verwendung öffentli-
+
+Zukunft wird man diese Buchführungen durch Smart Contracts
+
+cher Fördermittel sein.
+
+2.6 Supply Chain
+auf
+
+Wo, wann und unter welchen Bedingungen wurden Einzelteile
+
+Vertriebsketten auf zweierlei Art auswirken: kürzere Vertriebs-
+
+von Produkten und Dienstleistungen hergestellt? Was ist die
+
+wege und transparentere Vertriebsketten.
+
+genaue Herkunft von Produkten und Dienstleistungen? All
+
+Blockchain-basierte
+
+Anwendungen
+
+können
+
+sich
+
+diese Fragen können durch Blockchain Technologien transpaKürzere Vertriebswege: Sobald genug Marktteilnehmer auf
+
+renter und vertrauenswürdiger dargestellt und nachvollziehbar
+
+Blockchain-basierte Lösungen umgestiegen sind und einheit-
+
+gemacht werden. Dies kann fundamentale Auswirkungen auf
+
+liche Daten und Transaktionsstandards entlang internationaler
+
+allgemeine volkswirtschaftliche Strukturen sowie konkrete
+
+Vertriebsketten eingeführt sind, werden wahrscheinlich viele
+
+betriebswirtschaftliche Aktivitäten haben. Das in Großbri-
+
+Marktteilnehmer
+
+zentrale
+
+tannien beheimatete Startup provenance.org beschäftigt sich
+
+Zertifizierungs- und Clearing Aufgaben übernommen haben.
+
+seit längerem mit diesen Fragen und entwickelt gerade einen
+
+Allerdings nur dort, wo Makler, Großhändler oder Plattformen
+
+Blockchain-basierten Prototyp. Zertifizierung und Qualitätssi-
+
+lediglich Clearing Funktionen innehaben. Jene Player, die einen
+
+cherung auf der blockchain passiert ‘on the fly’ und bedarf in
+
+zusätzlichen Mehrwert bieten, werden wahrscheinlich nicht so
+
+vielen Fällen keiner externen Organisationen mehr, die stich-
+
+schnell ihre Rolle in der Supply Chain verlieren.
+
+probenartige ex-post Analysen machen. Ein weiterer Vorteil der
+
+irrelevant
+
+werden,
+
+die
+
+bislang
+
+Nachvollziehbarkeit von Vertriebsketten kann darin liegen, den
+Transparentere Vertriebsketten: Ist Bio drinnen, wo Bio drauf
+
+betrügerischen Gebrauch gefälschter externer Zertifizierungen
+
+steht? Ist Fair Trade drinnen, wo Fair Trade drauf steht? Ist
+
+oder komplette Produktfälschungen deutlich zu erschweren.
+
+‘Made in Germany’ drinnen, wo ‘Made in Germany’ drauf steht?
+
+22
+
+2.7 Gesundheitswesen
+Blockchain als Begriff ist auch im Gesundheitswesen ange-
+
+haben, mit denen sie regelmäßig ihre Werte messen: Diabetes,
+
+kommen und bereits auf dem Radar einiger Player. Allerdings
+
+Blutdruck, Fitnesswerte. Der Patient erfasst Parameter über
+
+befindet man sich im Wesentlichen noch in der Beobach-
+
+sein Endgerät und dann erfolgt automatisiertes Datenmoni-
+
+tungs- und Evaluationsphase. Blockchain bietet auch im
+
+toring ohne Zeitverzögerung und mit mehr Datensicherheit
+
+Gesundheitswesen ein großes Potenzial der Prozessoptimierung.
+
+als durch herkömmliche Datenerfassungs- und Speicherungs
+
+Allerdings sind der medizinische Markt und das Gesundheits-
+
+Verfahren. Dies ist insbesondere wertvoll für Frühwarnsys-
+
+wesen stark reglementiert. Daher ist es wichtig zu verstehen,
+
+teme. Firmen wie Tierion18, Partner von Philips Blockchain Lab,
+
+welche Anwendungsfälle technisch grundsätzlich möglich sind
+
+arbeiten bereits an ähnlichen Lösungen.
+
+und welche Anwendungen Regularien unterworfen sind, die
+einen unmittelbaren Einsatz von Blockchain erschweren. Es sei
+
+Abrechnung zwischen Arzt, Patient und Krankenkassen:
+
+denn, die Gesetzgebung zeigt hier den notwendigen politischen
+
+Grundsätzlich
+
+Willen, wie zum Beispiel im Fall von Estland, wo öffentliche
+
+Ärzte, der Apotheken sowie das Abrechnungsverfahren der
+
+Institutionen gemeinsam mit der Firma Guardtime alle Gesund-
+
+Krankenkassen durch Smart Contracts auf der Blockchain
+
+heitsdaten in Estland auf die Blockchain migrieren17.
+
+abgewickelt werden. Das könnte allen beteiligten Stakehol-
+
+kann
+
+die
+
+Bezahlung
+
+der
+
+niedergelassenen
+
+dern wesentlichen Zeit- und Kostenaufwand ersparen, sowie
+Zweiter Gesundheitsmarkt: In diesem Bereich sind die Teil-
+
+Abrechnungssysteme
+
+nehmer in geringerem Maß gesetzlichen Regularien unterworfen.
+
+machen. Das Einsparungspotenzial bei den Transaktionskosten
+
+fehler-
+
+und
+
+manipulationsresistenter
+
+Es ist wahrscheinlich, dass wir hier die ersten Anwendungsfälle
+
+ist enorm. Dieser Anwendungsfall hängt jedoch einerseits von
+
+sehen werden. Datenkommunikation zwischen Arzt, Patient,
+
+starken Netzwerkeffekten ab, andererseits auch von den betei-
+
+weiteren Therapeuten und Krankenkassen könnte direkt über
+
+ligten Interessengruppen und gesetzlichen Vorschriften, die in
+
+die Blockchain stattfinden. Kommunikation und Auswertung
+
+diesem Bereich erst angepasst werden müssten. Gem19 zum
+
+von Gesundheitsdaten sowie Frühwarnsysteme, sind ebenfalls
+
+Beispiel ist ein US Amerikanisches Blockchain Startup, das in
+
+naheliegende Anwendungen, beispielsweise überall dort, wo
+
+diesem Bereich die ersten use cases gemeinsam mit verschie-
+
+Patienten medizinisch-technische Endgeräte zur Verfügung
+
+denen Stakeholdern im Gesundheitswesen testet.
+
+17 http://www.coindesk.com/blockchain-startup-aims-to-secure-1-million-estonian-health-records/
+18 https://tierion.com/
+19 https://gem.co/
+23
+
+2.8 Energiewirtschaft
+Transaktionseffizienz ist auch ein wichtiges Thema in der
+
+Wo Blockchain neue Märkte eröffnet und alte Märkte ersetzt:
+
+Energiebranche. Private Blockchain Lösungen und Konsortium
+
+Stromhandel ist in den meisten Ländern monopolisiert.
+
+Blockchains könnten ein guter Einstieg sein, um branchenweite
+
+Heutzutage kann man nur über einen Aggregator seinen selbst
+
+Transaktionskosten zu senken. Vorreiter im Energiebereich in
+
+erzeugten Strom handeln. Alle Transaktionen laufen über die
+
+Deutschland ist unter anderem RWE. Ihr Ziel ist nicht nur, klas-
+
+klassischen Energieanbieter. Dies ist eine wesentliche Markt-
+
+sische Transaktionskosten zu senken, sondern auch komplett
+
+eintrittsbarriere für kleine Produzenten, die echten P2P-Handel
+
+neue Geschäftsfelder zu erarbeiten, unter anderem auch
+
+verhindert, weil die Transaktionskosten durch administrative
+
+auf Basis öffentlicher Blockchains wie Ethereum. Der RWE
+
+und regulatorische Hürden zu hoch sind. Auf der Blockchain
+
+Innovation Hub beispielsweise beschäftigt sich mit neuen
+
+wären
+
+Geschäftsmodellen auf der Blockchain und hat hierzu mehrere
+
+möglich. Die größten Herausforderungen im Energiebereich
+
+Teams engagiert, die unter anderem auch in Berlin in interdis-
+
+sind nicht technischer Natur sondern regulatorischer Natur.20
+
+ziplinären Projekten beschäftigt sind, nicht nur im klassischen
+
+Der Strommarkt ist so reguliert, dass neue Marktteilnehmer
+
+Utility Bereich, sondern auch im sogenannten “Beyond Utility”
+
+und Startups oftmals an gesetzlichen Rahmenbedingungen
+
+Bereich. RWE versucht, Blockchain mit IoT und Physical Deli-
+
+scheitern. Ein Pilotprojekt auf regionaler Ebene könnte regula-
+
+very zu kombinieren. Projektpartner in Berlin sind unter
+
+torischer Skepsis entgegenwirken.
+
+erstmals
+
+Echtzeit-Märkte
+
+und
+
+Preisdifferenzierung
+
+anderem Ethereum und der GTEC Innovationshub.
+Solche Pilotprojekte ermöglichen staatlichen Akteuren einerPeer to Peer Energy Trading: Die Energiewende in Deutsch-
+
+seits, sich mit der Technologie in einem kontrollierten Rahmen
+
+land will den Übergang von Kernenergie und nicht-nachhaltiger
+
+vertraut zu machen. Sie helfen auch zu verstehen, welche
+
+Nutzung fossiler Energieträger zu einer nachhaltigen Ener-
+
+gesetzlichen Rahmenbedingungen angepasst werden müssten,
+
+gieversorgung schaffen. Das hat dazu geführt, dass rund 50%
+
+wenn man Blockchain-basierte Projekte im Energiebereich
+
+der erneuerbaren Energien mittlerweile von genossenschaft-
+
+fördern will. Bisher sind bestenfalls für Mieterstrom-Modelle
+
+lich strukturierten Kleinproduzenten
+
+produziert werden.
+
+und Eigenverbrauch geklärt, welche Umlagen im Zuge der Ener-
+
+Blockchain ist eine Technologie, mit der man solche genossen-
+
+giewende (EEG-Umlage, Netzentgelte, u.v.m) an welcher Stelle
+
+schaftlichen Strukturen einfach darstellen kann. Hier könnte
+
+fällig werden. Für den P2P-Energiehandel beispielsweise ist
+
+die Kombination von Blockchain, IoT und Sharing Economy
+
+diese Frage bisher nicht geklärt.
+
+zum Tragen kommen, um die dezentrale Energieproduktion mit
+dezentraler Vertriebsstruktur zu koppeln. Die bisherige Heraus-
+
+Berlin könnte beispielsweise gemeinsam mit den Berliner Stadt-
+
+forderung der Energiewende war weniger die erneuerbare
+
+werken und entsprechenden Partnern in der Privatwirtschaft
+
+Energie, sondern die Dezentralisierung des Stromhandels. Ein
+
+ein lokales “Smart Grid” Projekt für einen P2P-Energiehandel in
+
+Großteil der Wertschöpfung im Energiehandel könnte mittels
+
+einem kleinen kontrollierten Rahmen testen und evaluieren, ob
+
+P2P-Energy Trading Systems vor Ort und regional stattfinden.
+
+Blockchain-basierte Lösungen auch in einem größeren Rahmen
+
+Somit könnten wir in Deutschland eine weitere Phase der Ener-
+
+wirtschaftlich umsetzbar sind. Erste solche Pilotprojekte des
+
+giewende erreichen.
+
+Blockchain-basierten P2P-Energy Trading sind bekannt aus New
+York, wo im März 2016 der Betreiber LO3 Energy ein solches
+Netz mit je 5 produzierenden und konsumierenden Haushalten
+gestartet hat und aus Australien, wo das Unternehmen Power
+Ledger einen Feldversuch mit 20 Teilnehmern gestartet hat.
+
+20 Das Stromeinspeisegesetz (1990) und EEG Erneuerbare Energien Gesetz (seit 2000)
+24
+
+Abbildung 9
+Die neuen Geschäftsmodelle in der Energiewirtschaft
+
+Quelle: Kohleatlas 2015, Heinrich-Böll-Stiftung;
+https://www.boell.de/sites/default/files/styles/fullsize/public/uploads/2015/05/energiewende_geschaeftsmodelle.jpg?itok=fs5aHCKt;
+steht unter der Lizenz CC BY-SA 3.0 DE (http://creativecommons.org/licenses/by-sa/3.0/de/legalcode)
+
+25
+
+2.9 IT Dienstleistungen
+Es gibt ein komplett neues Feld an Beratungsdienstleistungen
+
+anzubieten. Software Entwickler sollen dadurch in Zukunft
+
+im IT-Bereich rund um die Evaluierung und Implementierung
+
+single-click cloud-based Blockchain Lösungen bekommen, um
+
+von Blockchain-basierten IT-Lösungen und Geschäftsmodellen.
+
+rascher Blockchain-basierte Produkte entwickeln zu können.
+
+BaaS, Blockchain as a Service, ist eines von vielen Schlag-
+
+Die angedachten Lösungen basieren auf unterschiedlichen
+
+wörtern, wobei der Umfang der Leistungen hier variiert bzw.
+
+Blockchain Konzepten in Kombination mit Server-basierten
+
+sich mit anderen Dienstleistungen vermischt. Etablierte Bera-
+
+Cloudlösungen. Aber es geht hier nicht nur um komplette
+
+tungsunternehmen und IT Dienstleister haben das Potenzial
+
+BaaS Services sondern um einzelne Pilotprojekte. Pricewa-
+
+der Blockchain erkannt und bauen bereits Blockchain-ba-
+
+terhouseCoopers (PWC)25 arbeitet unter anderem an einer
+
+sierte Lösungen auf. Microsoft (Azure) , Deloitte (Rubix) , IBM
+
+Blockchain-basierten Lösung im Versicherungsgroßhandel für
+
+(BlueMix)23, Amazon (AWS)24 arbeiten bereits unter anderem
+
+Echtzeit Auditing.
+
+21
+
+22
+
+daran, Blockchain as a Service (BaaS) über ihre Cloud Lösungen
+
+2.10 Legal Tech und neue juristische Sachverhalte
+Die Schnittstelle zwischen Technologie und Privatrecht wird
+
+Welches Recht gilt?
+
+auf der Blockchain und im Dezentralen Web noch bedeu-
+
+Eine viel grundlegendere Frage jedoch ist, welches nationale
+
+tender als bisher. Smart Contracts beispielsweise sind keine
+
+Recht in einem dezentralen P2P-Netzwerk, ohne Server, mit
+
+Verträge klassischer Art in Form von Texten, die Vereinba-
+
+einer Vielzahl von international verteilten Netzwerkteilnehmern
+
+rungen in Abschnitten und Paragraphen so darstellen, dass sie
+
+anwendbar ist. Nationale Rechtsformen und das komplizierte
+
+von Menschen, nämlich den Vertragsparteien und im Streit-
+
+Geflecht von internationalen, bilateralen sowie multilateralen
+
+fall von einem Gericht interpretiert werden können, sondern
+
+Verträgen werden schon lange nicht mehr den Anforderungen
+
+Programme, die von Maschinen verstanden, kontrolliert (also
+
+einer globalisierten Internet-basierten Gesellschaft gerecht. Im
+
+auf das Eintreten der Bedingungen hin untersucht) und ausge-
+
+Dezentralen Web, wo die letzte zentrale Instanz, nämlich die
+
+führt werden müssen. Allerdings haben sie praktisch die
+
+des Servers, auch abgeschafft wird und Management durch
+
+Wirkung von herkömmlichen Verträgen. Daher stellt sich unter
+
+Code ersetzt werden soll, wird die derzeitige Kluft zwischen
+
+anderem die Frage, wie man Smart Contracts rechtssicher und
+
+nationalem Recht und der Realität des Internets noch größer als
+
+rechtskonform erstellen kann. Dies ist eine Frage, der Juristen
+
+zuvor. Öffentliche Blockchains wie Bitcoin und Ethereum sind
+
+in Zusammenarbeit mit Softwareentwicklern gemeinsam nach-
+
+per se dezentral. Die darauf bauenden dApps können auch in
+
+gehen müssen. Hier eröffnet sich ein großes Potenzial für
+
+die Kategorie fallen, und DAOs sind es schon per Definition.
+
+Startups im Bereich Legal Tech.
+
+Welches Recht gilt also, wenn ein Unternehmen dezentral
+organisiert ist und keinen klassischen Firmensitz hat? Welche
+gesellschaftsrechtliche Form ist in so einem Fall sinnvoll und
+anwendbar? Auch steuerrechtliche Aspekte, Gewährleistungsund Haftungsverpflichtungen u.v.m sind derzeit kaum geklärt.
+
+21
+22
+23
+24
+25
+26
+
+https://azure.microsoft.com/en-us/solutions/blockchain/
+http://rubixbydeloitte.com/
+http://www.wsj.com/articles/ibm-bets-on-bitcoin-ledger-1455598864?mg=id-wsj
+http://www.the-blockchain.com/2016/05/03/amazon-announced-blockchain-service-baas-sandbox-developers/
+http://www.coindesk.com/pwc-blockchain-project-creates-living-audit-wholesale-insurance/
+
+Tokensales von Blockchains, dApps und DAOs
+
+Ether, ETH bei der Ethereum Blockchain, u.v.m), gibt es
+
+Im Gesellschaftsrecht gibt es keine adäquaten Lösungen für
+
+dApp-Tokens (REP bei Augur, SNGLS bei SingularDTV, u.v.m),
+
+dezentrale Organisationen. Es gibt derzeit keine Gesellschafts-
+
+und DAO Tokens (DAO bei The DAO27 u.v.m). In manchen Fällen
+
+form, die den Anforderungen einer dezentralen Organisation
+
+sind diese Tokens keine Anteile, sondern die netzwerkeigene
+
+mit international verteilten Netzwerkteilnehmern wirklich
+
+Währung. In anderen Fällen sind sie ein wichtiger Bestand-
+
+gerecht wird. Deswegen wählen viele Blockchain, dApps und
+
+teil des spieltheoretischen Anreizmechanismus. Die Grenzen
+
+DAO Projekte derzeit den Umweg von komplexen Rechts-
+
+verschwimmen hier oftmals, zumal auf der Blockchain komplett
+
+konstrukten in der Schweiz. Die Frage der Gesellschaftsform
+
+neue
+
+und der damit verbundenen Haftungsbeschränkungen ist
+
+eintreten, die von manchen als Crypto Economics bezeichnet
+
+vor allem im Zusammenhang mit Blockchain, dApp und DAO
+
+werden und für die es noch keine Rechtsrahmen gibt.
+
+Marktmechanismen
+
+und
+
+wirtschaftliche
+
+Dynamiken
+
+Tokenssales wichtig, um den Gründern und Netzwerkteilnehmern mehr Rechtssicherheit zu geben. Es herrscht derzeit
+
+Wie Rechtssicherheit durch anwaltliche Tätigkeit sichergestellt
+
+große Unklarheit über den Rechtsstatus solcher Tokensales.
+
+werden kann, ist in der Praxis kaum erprobt. Es liegt auch noch
+
+Viele Blockchains, dApps und DAOs finanzieren sich durch
+
+kaum Rechtsprechung vor. Mehr Rechtssicherheit in solchen
+
+sogenannte Tokensales. Dabei veräußert der Betreiber bzw.
+
+Fragen würde mehr Sicherheit für Unternehmensgründer,
+
+Entwickler der dApps eigene dApp-spezifische Tokens26, die
+
+Entwickler, Anwender und Anteilseigentümer an solchen Konst-
+
+weiterverkauft werden können. Zusätzlich zu den öffentlichen
+
+rukten schaffen. Eine vorbeugende Überregulierung ist allerdings
+
+Blockchain-Tokens (Bitcoin, BTC bei der Bitcoin Blockchain,
+
+zu vermeiden, um Innovation nicht im Keim zu ersticken.
+
+2.11 Forschungsbedarf
+Obwohl Blockchain-Technologien längst der Grundlagenfor-
+
+ökonomische
+
+schung entwachsen sind, gibt es dennoch in der angewandten
+
+viele weitere Themen. “Es ist davon auszugehen, dass wir in
+
+Modelle,
+
+Geschäftsprozessmodellierung
+
+und
+
+Forschung erheblichen Forschungsbedarf, der sowohl durch
+
+ein bis zwei Jahrzehnten wirtschaftlich über Mechanismen
+
+Unternehmen als auch durch angewandte Forschung im
+
+miteinander interagieren werden, für die wir bislang weder
+
+öffentlichen Sektor bearbeitbar ist. Eine Auswahl solcher
+
+Konzepte noch Begriffe haben.”28 Die nächsten Jahre werden
+
+Forschungsbereiche ist: Skalierung von Blockchains, Iden-
+
+daher voraussichtlich noch viele neue Forschungsfelder zu Tage
+
+tity Lösungen sowie Anonymität, IT Sicherheit, juristische
+
+bringen, von denen wir heute noch keine Vorstellung haben.
+
+Herausforderungen von dezentralen Rechnersystemen, neue
+
+26 Token, wörtlich: Zeichen, Gutschein, Wertmarke, Jeton
+27 The DAO (http://daohub.org) war eine spezielle Ausprägung einer DAO, und mitunter eines der ersten Experimente mit dem Konzept von Dezentral
+Autonomen Organisationen. The DAO ist im Sommer 2016 in die Schlagzeilen geraten. Erst, weil es in einem spektakulären Tokensale innerhalb von
+4 Wochen rund 180 Millionen EUR im Gegenwert von Ether auf die Beine gestellt hat, dann als rund 50 Millionen EUR temporär “gedrained” wurden.
+Letztendlich wurde eine Lösung gefunden, und die Tokens sind an die ursprünglichen Tokenholder zurückgeflossen. Die Details der Ereignisse würden
+den Rahmen dieser Arbeit sprengen. Eines aber ist hier wichtig anzumerken: All diese Ereignisse haben viele wichtige Fragen rund um Smart Contract
+Security und Governance Mechanismen von dezentralen Organisationen aufgeworfen. Hier besteht viel Handlungsbedarf im Bereich FuE.
+28 Bitcoin Kurz & Gut, Jörg Platzer, 2014, Seite 92 (Kindle Version)
+27
+
+3. Standort Berlin
+
+Berlin ist weltweit nach London und New York einer der
+
+Viele wesentliche Blockchain Basistechnologien werden von
+
+Hauptknotenpunkte für Blockchain Entwickler. Der Grund
+
+Berliner Startups entwickelt (Ethereum, Ethcore, BigchainDB,
+
+hierfür liegt einerseits darin, dass Berlin eine blühende
+
+IPDB, viele Bitcoin Wallet Entwickler, u.v.m). Einige dieser
+
+Kreativ- und Startup Szene hat. Andererseits hat Berlin in
+
+Firmen haben zwar ihren offiziellen Firmensitz in anderen
+
+der Vergangenheit international namhafte Entwickler aus der
+
+Ländern, wie Großbritannien und den Niederlanden, allerdings
+
+Kryptografie- und Bitcoin Szene angezogen. Einer der Gründe
+
+sitzt ein großer Teil ihrer Entwicklerteams in Berliner Büros.
+
+hierfür ist, dass Deutschland in seiner Gesetzgebung bisher
+
+Der Nährboden für spannende Blockchain-basierte Projekte
+
+einen hohen Wert auf Anonymität und Privatsphäre gelegt hat.
+
+sowie der potenzielle Zulauf von Investitionskapital, Talenten
+und Arbeitsplätzen ist daher als groß einzuschätzen.
+
+3.1 Startups
+In Berlin gibt es eine blühende Szene von jungen, motivierten
+
+investieren. Berlin hat die Chance, sich als einer der Blockchain
+
+Unternehmen, Softwareentwicklern, kreativen Köpfen und
+
+Hotspots weltweit zu etablieren und mehr talentierte, qualifi-
+
+zunehmend mehr Investoren, die bereit sind, am Standort zu
+
+zierte und motivierte Arbeitskräfte anzuziehen.
+
+Dies ist eine exemplarische Auflistung von Berliner Blockchain
+Startups und Playern (Kein Anspruch auf Vollständigkeit):
+· All4btc, FinTech, Bezahldienstleistung
+· Bitwala, FinTech, Bezahldienstleistungen
+(Teil des Teams in Berlin)
+
+· Ethdev, das Berliner Entwicklerteam von ethereum.org,
+Basistechnologie
+· Parity, Basistechnologie
+
+· Bitbond, FinTech, Darlehen
+
+· Monax, Basistechnologie
+
+· Blockchain Industries, Basistechnologie
+
+· IOTA, Basistechnologie, IoT
+
+· BigchcainDB, Basistechnologie, Datenbank
+
+· IPDB, Interplanetary Database, Basistechnologie
+
+· BlockchainHub, InformationsHub und Think Tank
+· Blueyard Capital, Venture Capital Firma, auf Blockchain
+
+· Jolocom, Basistechnologie
+
+Projekte spezialisiert
+
+· Leondrino, FinTech (Teil des Teams in Berlin)
+· Lisk, Basistechnologie, (Teil des Teams in Berlin)
+
+· Coynoare, FinTech, Beratung
+
+· Slock.it, Basistechnologie, IoT, (Teil des Teams in Berlin)
+
+· Electrum Technologies GmbH, FinTech, Basistechnologie,
+
+· SatoshiPay, FinTech, Nanopayment Service
+
+Bitcoin Wallet
+
+28
+
+· Vaultoro, FinTech, Börse
+
+3.2 Etablierte Firmen und Institutionen im
+Blockchain Umfeld
+Bestehende Firmen, ob Großkonzerne oder etablierte Startups,
+
+wie Blockchain die eigene Branche und die eigenen Geschäfts-
+
+sind bis auf wenige Ausnahmen größtenteils noch nicht aktiv.
+
+felder betreffen könnte. Manche größeren Unternehmen sind
+
+Immer mehr Unternehmen haben zwar Blockchain als Tech-
+
+dabei, in-house Think Tanks oder Innovationshubs aufzusetzen,
+
+nologie bereits entdeckt, befinden sich allerdings noch in der
+
+die sich zum Teil und manchmal auch ausschließlich dem Thema
+
+Beobachtungsphase. Diesen Firmen scheint es aktuell vor allem
+
+widmen. Einige führen ihre Aktivitäten, wie oben am Beispiel
+
+wichtig zu sein, die Technologie dahinter und das Potenzial der
+
+RWE gezeigt, auch in Berlin durch.
+
+Anwendungen überhaupt erst zu verstehen und zu evaluieren,
+
+3.3 Forschung und Lehre
+und
+
+rina Adam, HTW, Allgemeine BWL (Corporate Finance, Blockchain,
+
+Fachrichtungen in Berlin beschäftigen sich bereits mit Block-
+
+Investition Finanzierung und Rechnungswesen), Prof. Peter
+
+chain-Technologien, sowohl in der Forschung als auch in der
+
+Hufnagel, HTW, Angewandte Informatik, Gesundheitsinformatik,
+
+Lehre, unter anderem: Prof. Björn Scheuermann, HU Berlin,
+
+Telemedizin, Medical Imaging (Telemedizintechnik, Blockchain,
+
+Institut für Informatik (Geldwertstabilität und die Schnittstelle
+
+Gesundheitsökonomie), Christoph Burger, ESMT, Associate Dean
+
+von Technik und Mikroökonomie), Prof. Stefan Tai, TU Berlin,
+
+of Executive Education (dezentrale Energiemärkte), Prof. Manfred
+
+Institut Wirtschaftsinformatik und quantitative Methoden (Skalie-
+
+Hauswirth, TU Berlin (Fachgebiet Verteilte offene Systeme sowie
+
+rung und Anwendungsarchitekturen von Blockchains, Verteilte
+
+Fraunhofer-Institut für Offene Kommunikationssysteme FOKUS),
+
+Systeme), Prof. Ute Dietrich, HTW, Wirtschaftsingenieurwesen mit
+
+Badiei Farzaneh, Phd Candidate, HIIG (Internet Governance,
+
+dem Schwerpunkt Informatik (IoT und Industrie 4.0), Prof. Katha-
+
+Blockchain Governance).
+
+Einzelne
+
+Institute
+
+unterschiedlicher
+
+Universitäten
+
+3.4 Meetups in Berlin
+· Bitcoin Stammtisch im Room77
+· BlockchainMeetup Berlin
+· BlockchainHub Meetup
+· Ethereum Meetup
+
+29
+
+4. Potenziale und Herausforderungen
+
+Derzeit scheint die Finanzindustrie im Blockchain Bereich
+
+mit dApps auf Public Blockchains Geld verdienen kann, wenn
+
+die Nase vorn zu haben. Aber die anderen Branchen ziehen
+
+der Code open source ist. Das ist allerdings nur ein Zeichen
+
+bereits
+
+ist
+
+dafür, dass die Technologie noch sehr jung ist. Genauso wie bis
+
+größte
+
+Ende der 1990er Jahre die meisten nicht abschätzen konnten,
+
+Herausforderung scheint im Moment darin zu liegen, Wissen
+
+bzw. skeptisch waren, ob und wie man mit Online-Content
+
+und Verständnis dazu zu verbreiten, was Blockchain, dApps
+
+Geld verdienen kann und es Mitte der 2000er Jahre schwierig
+
+und Smart Contracts sind und was man damit konkret machen
+
+abzusehen war, wie sich mobile Apps monetarisieren lassen.
+
+nach.
+
+Das
+
+Transaktionseffizienz
+
+größte
+und
+
+Potenzial
+
+von
+
+Blockchain
+
+Dezentralisierung.
+
+Die
+
+kann. Auch ist in vielen Fällen nicht klar, wie man überhaupt
+
+Abbildung 10
+Potenziale und Herausforderungen
+
+Potenziale
+Effizienz
+P2P Transaktionen durch Dezentrale Transaktionsvalidierung
+Nachvollziehbarkeit
+Erhöhte Fälschungssicherheit und Nachvollziehbarkeit von
+Produktions- und Zahlungsketten
+Transparenz
+Erhöhte Nachvollziehbarkeit, Transparenz und daher weniger
+Willkür
+
+Herausforderungen
+Skallierbarkeit
+Transaktionen pro Sekunde; Webstacks und Libraries, um
+schneller programmieren zu können
+Usability
+Handling von public private key und user interfaces
+Geschäftsmodelle
+Wie kann man mit dApps in Zukunft Geld verdienen,
+wenn der Code open source ist?
+Abhängikeit von komplexen Algorithmen
+Sind Smart Contract und komplexe Algorithmen der neue
+„Man in the Middle“?
+Reputation Systems
+Im dezentralen Web braucht man gute Reputation Systems,
+um Entscheidungen auch dezentralisieren zu können.
+Quelle: eigene Darstellung
+
+Blockchain und das Dezentrale Internet können in jedem Fall
+
+Technologien einen Hype Cycle: die Erwartungshaltung ist
+
+Game Changer sein. Aber je nach Branche wird die Technologie
+
+hoch, viel Geld wird in eine Industrie/Technologie gepumpt,
+
+in manchen Fällen früher, in anderen Fällen später relevant
+
+dann werden manche Investoren nervös. Vor allem jene, die
+
+werden, vor allem überall dort, wo Netzwerkeffekte notwendig
+
+nur auf kurzfristige Gewinne aus sind oder die Technologie
+
+sind. An einigen Aspekten der Protokolle und Anwendungen
+
+nicht wirklich verstehen. Wenn es den meisten Investoren nicht
+
+besteht noch Forschungs- und Entwicklungsbedarf:
+
+schnell genug geht, kommt es in weiterer Folge zum Einbruch
+
+Skalierbarkeit (Anzahl der Transaktion pro Sekunde), Private
+
+der Investitionen. Das bedeutet allerdings nicht, dass eine
+
+Key Management sowie benutzerfreundliche Interfaces sind
+
+Technologie, besonders nach Einsetzen der Netzwerkeffekte,
+
+weitere Herausforderungen. Die Frage, die sich hier stellt, ist
+
+nicht das Potenzial hat, das erwartet werden durfte, sondern
+
+nicht, ob diese Probleme gelöst werden können, sondern eher
+
+spricht eher dafür, dass manche Akteure die notwendigen
+
+wann und wie genau sie gelöst werden.
+
+Zeitfenster falsch einschätzen. Es ist daher anzunehmen, dass
+so ein Zyklus auch bei Blockchain eintreten wird. Jene, die es
+
+Timing ist daher eine der wichtigsten Fragen. Es könnte
+
+schaffen, diese Phase durchzuhalten, werden wahrscheinlich
+
+durchaus sein, dass das “Tal der Tränen” nahe ist. Wie wir in
+
+erfolgreich sein.
+
+der Vergangenheit gesehen haben, gibt es bei den meisten
+
+30
+
+5. Handlungsempfehlungen für den
+Standort Berlin
+Blockchain hat das Potenzial, eine völlig neue Art der Abwicklung
+
+Obwohl Blockchain eine noch junge Technologie ist, sind viele
+
+von Geschäften zu ermöglichen und zum neuen Geschäftsfeld
+
+Potenziale heute schon greifbar, vor allem im Finanzsektor.
+
+innerhalb der IT zu werden. Blockchain hat damit auch das
+
+Viele weitere Anwendungen sind bereits in Entwicklung.
+
+Potenzial, einen dauerhaften umfassenden digitalen Wandel
+
+In einer breiten Masse gibt es allerdings noch viel zu wenig
+
+von Wirtschaft und Gesellschaft mit sich zu bringen oder diesen
+
+Information und Wissen über diese Technologie, sowohl
+
+mindestens zu beschleunigen. Daher ist es nicht nur wichtig,
+
+bei Entwicklern und IT-Anbietern, als auch bei potenziellen
+
+unmittelbare wirtschaftliche Handlungsfelder zu beleuchten,
+
+Anwendern. Jetzt kommt es darauf an, das Thema Blockchain
+
+sondern das Thema auch langfristig und interdisziplinär
+
+in die Öffentlichkeit zu bringen, wenn man als Standort
+
+zu betrachten mit dem Fokus, neue wirtschaftliche und
+
+profitieren
+
+gesellschaftliche Lösungen auf Basis dezentraler Blockchain
+
+sollten deshalb - wie bei jeder neuen Technologie - darauf
+
+Technologien zu entwickeln.
+
+zielen, Rahmenbedingungen zu schaffen, die Neugierde und
+
+will.
+
+Mögliche
+
+Unterstützungsmaßnahmen
+
+Experimentierfreudigkeit fördern, anstatt einem Mindset von
+“das haben wir noch nie so gemacht” nachzugeben.
+
+5.1 Förderungen von Pilotprojekten
+Etablierte Unternehmen, auch die öffentliche Verwaltung,
+sollten angeregt werden, neue Blockchain-basierte Technologien in Test- und Pilotprojekte zu adoptieren. Die Berliner
+Verwaltung könnte gemeinsamen mit privaten Unternehmen
+erste eGovernment Lösungen im Rahmen solcher Pilotprojekte
+testen. Privatwirtschaftliche Akteure könnten in unterschiedlichen Branchen mit Unterstützung des Landes Pilotprojekte
+
+starten, um in einem kontrollierten Rahmen die Technologie
+besser zu verstehen. Für Pilotprojekte bieten sich folgende im
+jeweiligen Kapitel genauer ausgeführte Themen an: Erneuerbare Energien (P2P-Stromhandel am Beispiel des TransActive
+Grid in New York), Grundbucheinträge, jegliche Art von Genehmigungsverfahren, Medizindaten und Supply Chain.
+
+5.2 Rechtssicherheit schaffen
+Für Blockchains, dApps und DAOs ist derzeit unklar, in wie
+weit sich der Rechtsrahmen des nationalen Rechts (Gesellschaftsrecht, Steuerrecht, Arbeitsrecht, Konsumentenrecht,
+u.v.m) auf dezentrale Konstrukte übertragen lässt. Hier sollte
+auch auf lokaler sowie nationaler Ebene geprüft werden,
+ob ein Regulierungsbedarf besteht und gegebenenfalls ein
+entsprechender Rechtsrahmen geschaffen werden, der solche
+Innovationen rechtssicher ermöglicht, ohne Innovation zu
+erschweren. Der lokale Handlungsspielraum ist allerdings
+beschränkt, da diese Fragen langfristig weder auf lokaler
+noch auf nationaler Ebene zufriedenstellend gelöst werden
+
+können und es in vielen Fällen konsistenter, internationaler
+Lösungen Bedarf. Deutschland könnte aber beim Setzen
+solcher internationalen Standards eine Vorreiterrolle spielen.
+Des Weiteren kann man lokale Initiativen starten, die Rechtspraktiker mit Blockchain-Themen vertrauter machen. Der
+Berliner Blockchainhub bespielsweise hat gemeinsam mit der
+Berliner Zweigstelle der internationalen Anwaltskanzlei DLA
+Piper und namhaften Entwicklern aus dem Blockchain Umfeld
+einen Arbeitskreis zum Thema Blockchain & the Future of
+Law etabliert, wo man sich genau damit auseinandersetzt.
+
+31
+
+5.3 Information und Ausbildung
+Informationsaufarbeitung: Es gibt nach wie vor zu wenig
+Information über die Blockchain, vor allem deutschsprachige Information, die auch einem technisch nicht versierten
+Publikum verständlich ist. Einen ersten Schritt in Richtung der
+interessierten Fachöffentlichkeit stellt dieser Report dar. Das
+Thema Blockchain sollte allerdings für eine breitere Öffentlichkeit aufgearbeitet, kommuniziert und interdisziplinär
+propagiert werden. Die Anwendungsthemen in einer Vielzahl
+von Branchen sind im Kapitel 3 benannt. Besonderer interdisziplinärer Aufarbeitung bedürfen insbesondere die Aspekte an
+der Schnittstelle zwischen Technologie und Recht oder Verwaltung (Smarts Contracts und das Rechtssystem, eGovernment,
+volkswirtschaftliche Auswirkungen von Blockchain).
+
+Bildung: Um Berlin als Wirtschaftsstandort zu stärken, wird
+es wichtig sein, bestehende und zukünftige Arbeitnehmer
+und Unternehmensgründer mit den notwendigen Fähigkeiten
+auszustatten. Notwendige Kenntnisse über Systemarchitektur
+und Programmierung müssen nun in der Ausbildung ankommen
+und sollten an Fachhochschulen, Universitäten und arbeitsmarktnahen Bildungseinrichtungen angeboten werden. Dafür
+müssen so schnell als möglich gemeinsam mit den Stakeholdern
+Blockchain relevante Lehrpläne und Unterrichtsmaterialien
+entwickelt werden.
+
+5.4 Kooperationsnetzwerke und
+Veranstaltungen
+Mit dem Ziel, eine Plattform für Ideen und neue Lösungen
+rund um Blockchain zu schaffen, sollten Events und Kooperationsnetzwerke eingerichtet bzw. gefördert werden, die
+Informationen rund um Blockchain aufarbeiten, den unter-
+
+schiedlichen Akteuren in Berlin vermitteln und diese Akteure
+auch bei regelmäßigen Veranstaltungen verschiedener Formate
+zusammenbringen: Firmen, Bildungs- und Forschungseinrichtungen sowie Privatpersonen.
+
+Abbildung 11
+Bereichsübergreifende Netzwerke
+
+Bereichsübergreifende Netzwerke
+HR-Entwicklung, Bildung und Lehre
+Forschung und Entwicklung
+KMUs und Unternehmensgründer
+Engagierte Privatpersonen
+Quelle: eigene Darstellung
+
+32
+
+5.5 Förderung von Basistechnologien und
+Blockchain Startups
+Es gibt eine Reihe von Maßnahmen, die darauf abzielen
+könnten, den Standort Berlin mit gezielter Förderung von
+Blockchain-basierten Aktivitäten und Projekten zu fördern.
+
+spezifischen Beratungs- oder Transferstelle über einen Zeitraum von drei Jahren im Umfang einer vollen Stelle an einer
+Hochschule sinnvoll.
+
+Kooperation von Wirtschaft und Universitäten: Es würde sich
+anbieten, niedrigschwellige Förderungen einzuführen, die die
+Annäherung von Unternehmen unterschiedlicher Branchen
+und Unternehmensgrößen an das Thema unterstützen. Dazu
+könnte sowohl die Nutzung des Transferbonus für diesen
+Zweck stärker beworben werden als auch die Nutzung von
+Blockchain-Technologien explizit als möglicher Gegenstand
+von Coachings im Rahmen des Coaching Bonus gefördert
+werden. Viele Unternehmen scheinen die beiden Programme
+im Zusammenhang mit Blockchain bisher nicht wahrzunehmen.
+Darüber hinaus erscheint die Einrichtung einer blockchain-
+
+Forschung und Entwicklung: Bei der technischen Forschung
+gibt es Herausforderungen im Bereich Skalierbarkeit von
+Blockchains, Netzwerksicherheit von P2P-Netzen, Smart
+Contract Security sowie Datensicherheit und Privacy. Interdisziplinärer Forschungsbedarf besteht bei Fragen rund um
+Geschäftsmodelle, Soziologie, Volkswirtschaft, Politik und
+Recht, Rechnungswesen und Unternehmensteuern. Derzeit
+sind insbesondere die juristischen Fragen, sowie Fragen rund
+um Governance dezentraler Organisationen wichtig. Hier sollte
+entsprechende FuE ebenso gefördert werden wie die gezielte
+Entwicklung interdisziplinärer FuE-Projekte.
+
+Abbildung 12
+Bereichsübergreifende Forschung zu Blockchain-Themen
+
+Bereichsübergreifende Forschung zu Blockchain-Themen
+Politikwissenschaft
+Volkswirtschaft
+Soziologie
+Neue Geschäftsmodelle
+Recht
+Informatik
+Kryptografie
+Quelle: eigene Darstellung
+
+33
+
+Interviewpartner
+
+Adam, Katarina: Prof. Dr. Ing. (HTW, Hochschule für TEchnik und WIrtschaft)
+Badiei, Farzaneh: Phd Candidate, (HIIG, Humboldt Institut für Internet und Gesellschaft)
+Borchers, Peter: MBA, (Geschäftsführer, Allianz X)
+Burger, Christoph: MBA, (ESMT, European School of Management and Technology)
+Crane, Brian-Fabian: Msc, (Monax und Organisator des Blockchain Meetups Berlin)
+Hasberg, Kirsten: MSc (Energy Democracy)
+Hauswirth, Manfred: Prof. Dr. (Fraunhofer Fokus)
+Hufnagel, Peter: Prof. (Charite und HTW)
+Lohkamp, Joachim: MBA (Gründer und Geschäftsführer Jolocom)
+McConaghy, Masha: PhD (CCO of BigchainDB/Ascribe)
+McConaghy, Trent: PhD (CTO BigchainDB/IPDB)
+Ciarán, O‘Leary: Dipl. Kfm, (Geschäftsführer, Blueyard Capital)
+Remmers, Karl-Heinz: Dipl. Ing, (Vorstand Solarpraxis Neue Energiewelt AG)
+Scheuermann, Björn: Prof. Dr. (Humboldt Universität Berlin)
+Stöcker, Carsten: Dr. Dipl. Phys. (RWE Innovation Lab, Innovations Manager)
+Susemihl, Ingo: Dipl. Ing. (Siemens Novel Business, Venture Manager)
+Wattendrupp, Claus: (Vattenfall, Leiter Business Development Erneuerbare Energien)
+
+34
+
+Quellen und weiterführende Informationen
+
+Diese Studie beschreibt den aktuellen Stand der Entwicklung zum Zeitpunkt der Herausgabe dieser Studie. Blockchain
+und alle anderen Technologien rund um das Dezentrale Web
+sowie deren Anwendungen sind einem rasanten Wandel unterworfen. Obwohl darauf geachtet wurde diese Studie so neutral
+und vorausschauend wie möglich zu verfassen, können einige
+Fakten bereits kurze Zeit nach Erschienen dieser Studie nicht
+mehr aktuell sein. Die wenigen Bücher, die es zu dem Thema
+gibt, sind derselben Problematik unterworfen. Aktuellere Informationen bieten meist einschlägige, im Folgenden angeführte
+online Medien, die allerdings oft ebenfalls mit der rasanten
+Entwicklung nicht Schritt halten. Gerade bei öffentlichen Blockchains ist die aktuellste Information zum Stand der öffentlichen
+
+Diskussion den sozialen Netzwerken zu entnehmen, was dem
+open source Charakter von öffentlichen Blockchains geschuldet ist.
+Quellen zum Thema Blockchain, insbesondere zu aktuellen
+Aktivitäten von Unternehmen oder Institutionen, sind fast
+durchweg Internet-Quellen, deren Links sich rapide ändern.
+Auf die Angabe solcher Fundstellen wurde deshalb weitgehend
+zu Gunsten eines Verzeichnisses weiterführender Literatur
+verzichtet. Informationen dieser Art stammen oftmals aus
+Pressemeldungen und Unternehmensmeldungen, die zum Zeitpunkt der Recherche online waren. Viele weitere Informationen
+entstammen der beruflichen Tätigkeit der Autorin und einzelnen
+Fachinterviews, für die an dieser Stelle nochmals gedankt sei.
+
+Bücher
+· Bitcoin - Kurz und Gut, Jörg Platzer, 2014
+· Blockchain Revolution, Don Tapscott, 2016
+· The Business Blockchain, William Mougayar, 2016
+Weiterführenden Online Ressourcen
+· Allgemeine Infos, Blockchain für Einsteiger: http://blockchainhub.net
+· ÖFIT-Trendschau, 2016, Fraunhofer institut FOKUS, Jens Fromm und Mike Weber, http://www.oeffentliche-it.de/-/blockchain
+· Bitcoin: https://bitcoin.org/
+· Ethereum: https://blog.ethereum.org/
+· IPFS: https://ipfs.io/
+· IPDB: https://ipdb.foundation/
+· Bitcoin White Paper: https://bitcoin.org/bitcoin.pdf
+· Ethereum White Paper: https://github.com/ethereum/wiki/wiki/White-Paper
+· BigchainDB White Paper: https://www.bigchaindb.com/whitepaper/
+· Web3: http://gavwood.com/web3lt.html
+· http://www.coindesk.com/blockchains-and-the-future-of-audit/
+· http://www.economist.com/news/leaders/21677198-technology-behind-bitcoin-could-transform-how-economy-works-trust-machine
+· http://www.economist.com/news/special-report/21650295-or-it-next-big-thing
+· https://www.weforum.org/reports/the-future-of-financial-infrastructure-an-ambitious-look-at-how-blockchain-can-reshapefinancial-services
+· https://www.weforum.org/agenda/2015/12/how-blockchain-technology-could-change-the-world
+Online Nachrichtenportale und Blockchain relevante Blogs
+· http://www.coindesk.com/
+· https://cointelegraph.com/
+· https://bitcoinmagazine.com/
+· https://www.cryptocoinsnews.com/
+· https://letstalkbitcoin.com/
+
+35
+
+Die Technologiestiftung Berlin engagiert sich für die Entwicklung Berlins
+zur Hauptstadt der Digitalisierung. Sie macht die Chancen und Perspektiven
+deutlich, die mit dem technologischen Fortschritt verbunden sind und
+formuliert Handlungsempfehlungen. Außerdem unterstützt sie die
+Open Data-Strategie und setzt sich für eine smarte Infrastruktur ein.
+
+Dr. Shermin Voshmgir
+Dr. Shermin Voshmgir ist Gründerin des BlockchainHubs, einem InformationsHub und Think Tank mit Sitz in Berlin, der weltweit interdisziplinär die
+Entwicklung der Blockchain-Technologie vorantreibt, kommuniziert und
+diskutiert. Sie ist studierte und promovierte Wirtschaftsinformatikerin.
+Aktuell lehrt sie als Gastdozentin zum Thema Blockchain am Institut für
+Informatik der Wirtschaftsuniversität Wien und ist eine gefragte Vortragende
+bei Konferenzen zum Thema Blockchains, Smart Contracts und dem
+dezentralen Web. Zudem berät sie in diesem Zusammenhang Unternehmen
+zu relevanten Blockchain-Anwendungen und Regierungsorganisationen
+bezüglich notwendiger Neugestaltung der Gesetzgebung.
+
+Technologiestiftung Berlin | Fasanenstraße 85 | D-10623 Berlin technologiestiftung-berlin.de
+
+

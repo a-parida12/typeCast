@@ -1,0 +1,388 @@
+6 Die Bedeutung der Ableitung
+
+6
+
+24
+
+Die Bedeutung der Ableitung
+
+Wir wollen in diesem Kapitel diskutieren, inwieweit man aus der Kenntnis der
+Ableitung Rückschlüsse über die Funktion f ziehen kann.
+Zunächst beschäftigen wir uns mit Extremwerten.
+Definition Es sei f eine Funktion und A eine Menge von Zahlen, die im
+Definitionsbereich von f enthalten ist.
+Ein Punkt x ∈ A heißt eine Maximumstelle von f auf A gdw.
+f (y) ≤ f (x) für alle y ∈ A.
+Die Zahl f (x) wird dann ein Maximum von f auf A genannt. Man sagt auch,
+f nimmt auf A sein Maximum in x an.
+Ein Punkt x ∈ A heißt eine Minimumstelle von f auf A gdw.
+f (x) ≤ f (y) für alle y ∈ A.
+Die Zahl f (x) wird dann ein Minimum von f auf A genannt. Man sagt auch, f
+nimmt auf A sein Minimum in x an.
+Definition Es sei f eine Funktion und A eine Menge von Zahlen, die im
+Definitionsbereich von f enthalten ist. Ein Punkt x ∈ A heißt eine lokale
+Maximumstelle (Minimumstelle) für f auf A gdw. es ein δ > 0 gibt, so dass x
+eine Maximumstelle (Minimumstelle) für f auf
+A ∩ (x − δ, x + δ)
+ist.
+Satz 6.1 (Lokales Extremwertkriterium) Es sei f eine Funktion, die auf
+(a, b) definiert ist. Hat f in x eine lokale Maximum- oder Minimumstelle und
+ist f in x differenzierbar, dann ist f 0 (x) = 0.
+Beweis. Wie betrachten den Fall, dass f eine lokale Maximumstelle in x hat.
+Es sei δ > 0 so gewählt, dass x eine Maximumstelle für f auf (x − δ, x + δ) ist.
+Dann gilt für alle h mit |h| < δ
+f (x + h) ≤ f (x),
+also
+f (x + h) − f (x) ≤ 0.
+Wenn h > 0 ist, gilt daher
+f (x + h) − f (x)
+≤ 0,
+h
+also
+
+f (x + h) − f (x)
+≤ 0.
+h
+Andererseits gilt, wenn h < 0 ist,
+lim
+
+h→0+
+
+f (x + h) − f (x)
+≥ 0,
+h
+
+6 Die Bedeutung der Ableitung
+
+also
+lim
+
+h→0−
+
+25
+
+f (x + h) − f (x)
+≥ 0.
+h
+
+Nach Voraussetzung ist f in x differenzierbar. Das bedeutet, dass diese
+beiden Grenzwerte übereinstimmen und gleich der Ableitung f 0 (x) in x sein
+müssen. Es folgt, dass
+f 0 (x) ≤ 0 und f 0 (x) ≥ 0,
+also f 0 (x) = 0.
+Der Beweis für eine lokale Minimumstelle geht analog oder kann auf den
+anderen Fall zurückgeführt werden (wie?).
+2
+Satz 6.1 liefert ein notwendiges Kriterium für eine lokale Extremstelle: f 0 (x) =
+0.
+Definition Ein kritischer Punkt einer differenzierbaren Funktion f ist eine
+Zahl x, so dass
+f 0 (x) = 0.
+Der Funktionswert f (x) an einem kritischen Punkt x heißt ein kritischer oder
+stationärer Wert von f .
+Bei der Extremwertbestimmung geht man also wie folgt vor. Es sei f eine
+Funktion, die auf [a, b] definiert und auf (a, b) differenzierbar ist. Um die Maxima und Minima von f zu finden, müssen zwei Arten von Punkten betrachtet
+werden:
+(1) die kritischen Punkte von f auf (a, b),
+(2) die Randpunkte a und b des Intervalls.
+Beispiel 6.1 Wir betrachten die Aufgabe, die Extremwerte der Funktion
+f (x) = x3 − x auf dem Intervall [−1, 2]
+zu bestimmen. Es gilt
+f 0 (x) = 3x2 − 1,
+q
+q
+die kritischen Punkte sind also 13 und − 13 . Beide Punkte liegen in (−1, 2),
+also haben wir als Kandidaten für mögliche Extremstellen
+q q
+(1) − 13 , 13 ,
+(2) −1, 2.
+Es gilt
+r
+
+r
+r
+2 1
+1
+1
+f (−
+, f(
+)=−
+, f (−1) = 0, f (2) = 6.
+3
+3
+3 3
+q
+q
+Also nimmt f das Minimum − 23 13 in 13 und das Maximum 6 in 2 an.
+2
+1
+)=
+3
+3
+
+r
+
+Wir behandeln nun grundlegende Sätze über differenzierbare Funktionen.
+
+6 Die Bedeutung der Ableitung
+
+26
+
+Satz 6.2 (Satz von Rolle) Es sei f stetig auf [a, b] und differenzierbar auf
+(a, b). Gilt f (a) = f (b), dann gibt es eine Zahl x ∈ (a, b), so dass f 0 (x) = 0.
+Beweis. Da f auf [a, b] stetig ist, nimmt f nach dem Maximum-Minimum-Satz
+auf [a, b] ein Maximum und ein Minimum an.
+Wird das Maximum in einem Punkt x ∈ (a, b) angenommen, so gilt nach
+Satz 6.1 f 0 (x) = 0 und wir sind fertig.
+Wird das Minimum in einem Punkt x ∈ (a, b) angenommen, so gilt wieder
+nach Satz 6.1 f 0 (x) = 0.
+Ansonsten werden sowohl Maximum als auch Minimum an den Randpunkten
+des Intervalls [a, b] angenommen. Da aber nach Voraussetzung f (a) = f (b) ist,
+sind Maximum und Minimum von f gleich und f ist eine konstante Funktion.
+Für eine konstante Funktion f gilt aber f 0 (x) = 0 für alle x ∈ (a, b).
+2
+Satz 6.3 (Mittelwertsatz) Wenn f stetig auf [a, b] und differenzierbar auf
+(a, b) ist, dann gibt es eine Zahl x ∈ (a, b), so dass
+f 0 (x) =
+Beweis. Es sei
+
+
+h(x) := f (x) −
+
+f (b) − f (a)
+.
+b−a
+f (b) − f (a)
+b−a
+
+
+(x − a).
+
+Die Funktion h ist stetig auf [a, b] und differenzierbar auf (a, b) und es gilt
+h(a)
+
+= f (a),
+
+h(b)
+
+= f (b) −
+
+
+
+f (b) − f (a)
+b−a
+
+
+(b − a) = f (a).
+
+Wir können daher den Satz von Rolle auf h anwenden. Aus diesem Satz folgt,
+dass es ein x ∈ (a, b) gibt, so dass
+0 = h0 (x) = f 0 (x) −
+also
+f 0 (x) =
+
+f (b) − f (a)
+,
+b−a
+
+f (b) − f (a)
+.
+b−a
+2
+
+Korollar 6.1 Ist f auf einem Intervall definiert und differenzierbar und gilt
+f 0 (x) = 0 für alle x in dem Intervall, so ist f auf dem Intervall konstant.
+Beweis. Es seien a und b zwei beliebige Punkte des Intervalls mit a < b. Nach
+dem Mittelwertsatz existiert ein x ∈ (a, b) mit
+f 0 (x) =
+
+f (b) − f (a)
+.
+b−a
+
+Nach Voraussetzung gilt aber f 0 (x) = 0 für alle x in dem Intervall, also
+0=
+
+f (b) − f (a)
+.
+b−a
+
+6 Die Bedeutung der Ableitung
+
+27
+
+Daraus folgt aber f (a) = f (b). Da a und b beliebige Punkte des Intervalls mit
+a < b waren, muß der Wert von f auf je zwei Punkten des Intervalls der gleiche
+sein, f muß also auf dem Intervall konstant sein.
+2
+Korollar 6.2 Es seien f und g differenzierbare Funktionen, die auf dem gleichen Intervall definiert sind. Gilt f 0 (x) = g 0 (x) für alle x aus dem Intervall,
+dann gibt es eine Zahl c, so dass f = g + c gilt.
+Beweis. Man wende Korollar 6.1 auf die Funktion h := f − g an.
+
+2
+
+Definition Eine Funktion f wird
+(a) auf dem Intervall I als streng monoton wachsend bezeichnet gdw. für zwei
+beliebige Zahlen a, b aus I
+f (a) < f (b)
+
+für a < b ist.
+
+(b) auf dem Intervall I als streng monoton fallend bezeichnet gdw. für zwei
+beliebige Zahlen a, b aus I
+f (a) > f (b)
+
+für a < b ist.
+
+Korollar 6.3 Es sei f auf einem Intervall I definiert und differenzierbar.
+(a) Gilt f 0 (x) > 0 für alle x ∈ I, so ist f auf I streng monoton wachsend.
+(b) Gilt f 0 (x) < 0 für alle x ∈ I, so ist f auf I streng monoton fallend.
+Beweis. Wir betrachten den Fall f 0 (x) > 0. Es seien a und b zwei beliebige
+Punkte aus I mit a < b. Nach dem Mittelwertsatz gibt es ein x ∈ (a, b) mit
+f 0 (x) =
+
+f (b) − f (a)
+.
+b−a
+
+Da f 0 (x) > 0 für alle x ∈ (a, b) ist, gilt
+f (b) − f (a)
+> 0.
+b−a
+Wegen b − a > 0 folgt aber f (b) > f (a).
+Der Beweis für f 0 (x) < 0 geht analog.
+
+2
+
+Satz 6.4 Es sei f auf einem Intervall I definiert und differenzierbar. Für einen
+Punkt a ∈ I gelte f 0 (a) = 0.
+(a) Ist f 00 (a) > 0, so hat f in a ein lokales Minimum.
+(b) Ist f 00 (a) < 0, so hat f in a ein lokales Maximum.
+
+6 Die Bedeutung der Ableitung
+
+28
+
+Beweis. Nach Definition gilt
+f 0 (a + h) − f 0 (a)
+.
+h→0
+h
+
+f 00 (a) = lim
+Da f 0 (a) = 0 gilt, folgt
+
+f 0 (a + h)
+.
+h→0
+h
+
+f 00 (a) = lim
+
+Wir nehmen nun an, dass f 00 (a) > 0. Dann muß der Quotient
+f 0 (a + h)
+h
+für hinreichend kleines h positiv sein, d.h.
+f 0 (a + h) muß für hinreichend kleines h > 0 positiv sein
+und f 0 (a + h) muß für hinreichend kleines h < 0 negativ sein.
+Nach Korollar 6.3 folgt daraus, dass f auf einem Intervall rechts von a streng
+monoton wachsend und auf einem Intervall links von a streng monoton fallend
+sein muß. Also hat f in a ein lokales Minimum.
+Der Beweis für den Fall f 00 (a) < 0 verläuft analog.
+2
+Zum Abschluß dieses Abschnittes betrachten wir noch eine Anwendung auf
+die Grenzwertberechnung. Bei der Bestimmung von Grenzwerten stößt man oft
+auf Grenzwerte der Form
+f (x)
+,
+lim
+x→a g(x)
+wobei
+lim f (x) = 0 und lim g(x) = 0.
+
+x→a
+
+x→a
+
+Solche Grenzwerte nennt man Grenzwerte vom Typ ” 00 ”. Eine wichtige Methode
+zur Behandlung solcher Grenzwerte gibt der folgende Satz an.
+Satz 6.5 (L’Hôpitalsche Regel) Angenommen
+lim f (x) = 0 und lim g(x) = 0
+
+x→a
+
+und limx→a
+
+f 0 (x)
+g 0 (x)
+
+x→a
+
+existiert. Dann existiert auch limx→a
+
+f (x)
+g(x)
+
+und es gilt
+
+f (x)
+f 0 (x)
+= lim 0
+.
+x→a g(x)
+x→a g (x)
+lim
+
+Beispiel 6.2 Nach der Regel von L’Hôpital gilt
+lim
+
+x→0
+
+sin x
+cos x
+= lim
+= 1.
+x→0
+x
+1
+
+Zum Beweis dieses Satzes benötigen wir eine Verallgemeinerung des Mittelwertsatzes.
+
+6 Die Bedeutung der Ableitung
+
+29
+
+Satz 6.6 (Cauchyscher Mittelwertsatz) Die Funktionen f und g seien auf
+[a, b] stetig und auf (a, b) differenzierbar. Ist g 0 nirgendwo 0 in (a, b), so gibt es
+ein x ∈ (a, b), so dass
+f (b) − f (a)
+f 0 (x)
+=
+0
+g (x)
+g(b) − g(a)
+gilt.
+Beweis. Da g 0 in (a, b) keine Nullstelle besitzt, folgt nach dem Satz von Rolle,
+dass g(a) 6= g(b) ist, d.h. der Nenner in der Behauptung wird nicht Null. Man
+wende dann den Satz von Rolle auf die Funktion
+h(x) := f (x)[g(b) − g(a)] − g(x)[f (b) − f (a)]
+2
+
+an.
+Beweis von Satz 6.5.. Die Behauptung ergibt sich wie folgt:
+lim+
+
+b→a
+
+f (b)
+f (b) − 0 [CMWS]
+f 0 (x)
+= lim+
+=
+lim+ 0
+.
+g(b) b→a g(b) − 0
+x→a g (x)
+2
+
+

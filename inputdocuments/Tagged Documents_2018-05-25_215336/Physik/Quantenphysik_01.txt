@@ -1,0 +1,208 @@
+
+Ein wenig Quantenphysik: Leitfaden, um sich zurechtzufinden. Buchbezug zu
+Sexl, Band 2: Der Weg zur modernen Physik
+
+
+Entstehung (Emission), Ausbreitung und "Tod" (Absorption) von Strahlung
+Emissionsspektrum der Atome: S 313; Laserlicht S 274,275
+Absorptionsspektren: S 313; Himmelsblau S 74, Körperfarben,
+addititive/subtraktive Farbmischung S71,72
+
+
+Strahlung ist in diesem Sinn die Gesamtheit elektromagnetischer Strahlung.
+Nicht dazu gehören: die radioaktiven Strahlen ( (schnelle Heliumkerne) und
+( (schnelle Elektronen oder Positronen), hingegen (-Strahlung.
+
+Die Physik elektromagnetischer Strahlungen ist nicht mit Mitteln der
+Mechanik zu erklären. Auch die Elektrizitätslehre einschliesslich
+Wellenlehre reicht nicht aus, um alle Phänomene verstehen zu können.
+
+Wann entsteht Strahlung? Strahlung entsteht immer, wenn elektrische
+Ladungen beschleunigt werden. Ihre Abstrahlrichtung ist vorwiegend
+senkrecht zur Beschleunigung. Das ist schon eine Voraussage von J. C.
+Maxwell (1856) als Folge seiner 2 Maxwell'schen Gesetze: Siehe Lehrbuch
+Seite 202.
+Alle elektromagnetischen Wellen sind Transversalwellen. Es gibt keine
+elektromagnetischen Longitudinalwellen. [pic] sind gleichphasig, stehen
+aber aufeinander senkrecht. Siehe Skizze Seite 204 oben.
+
+Das Spektrum der elektromagnetischen Wellen reicht von der niederfrequenten
+Übertragung elektrischer Energie über den Eisenkern von Transformatoren (50
+Hz) bis zu höchstfrequenten ( Strahlen, die von Atomkernen stammen. Siehe
+Tabelle Seite 205.
+
+Alle elektromagnetischen Wellen breiten sich unabhängig vom Bezugssystem
+des Betrachters oder vom Bezugssystem der Strahlungsquelle im Vakuum mit
+Lichtgeschwindigkeit aus. Dabei ist [pic]. (S 205). Prüfe nach mit der
+Formelsammlung. Die Formel ist eine Folge der Maxwell'schen Gleichungen.
+
+Max Planck: 1900 fand aus Überlegungen in Analogie zur statistischen Wärme
+das Planck' sche Strahlungsgesetz. Es bezieht sich auf die Energie, die ein
+"schwarzer Körper" in Abhängigkeit von seiner Temperatur in den einzelnen
+Wellenlängenbereichen der abgestrahlten Temperaturstrahlung emittiert.
+Begriffe: Temperaturstrahlung (Seite 208), schwarzer Körper (Seite 208),
+Emissionsvermögen (S 209), Absorptionsvermögen (Seite 208)
+Planck musste (nicht freiwillig, hat sich gesträubt!) eine kleinste
+Lichtenergie einführen. Dies führt zum Ausdruck "Quantelung".
+E = hf.  h = 6.63ˇ10-34 Ws. f = Frequenz der Strahlung. Damit ist klar:
+Hochfrequente Strahlung hat hohe Quantenenergie. (Jedes Quant hat dann hohe
+Energie, blaue Lichtquanten sind energiereicher als rote, UV ist wiederum
+energiereicher, Röntgenstrahlen noch mehr etc.) Die Planck'sche
+Strahlungsformel steht in der Formelsammlung. Ihr Graph: siehe Planck.xls
+
+Niels Bohr erklärt kurz darauf in seinem Atommodell (das heute überholt
+ist), dass die Energiequanten hf die Differenz der möglichen potenziellen
+Energien von Elektronenbahnen in den "Schalen" angeregter möglicher
+Zustände darstellen. Siehe Lehrbuch Seite 81: Lymann-Serie, Balmer-Serie,
+Paschen-Serie zum Wasserstoff-Atom. E1 - E2 = hf. Die Bohr'sche Theorie
+zeigt das feine Gefühl Bohr's für das physikalische Verhalten der Natur im
+Mikrokosmos, jedoch fehlt der Theorie ein Fundament. Er konnte aber die
+Wasserstoffspektren ausrechnen! Seine Theorie versagt bei allen anderen
+(komplizierteren) Atomen. Sie war ein wegweisender Anfang. Bohr konnte
+nicht schlüssig erklären, warum Atome stabil sind.
+
+Albert Einstein erkläre 1905 den von früher her bekannten aber mit
+klassischen Mitteln nicht erklärbaren äusseren Photoeffekt. Bestrahlt man
+eine negativ geladene Metallplatte (Elektronen an der Oberfläche) mit
+Licht, so kommt es darauf an, ob jedes einzelne Quant des Lichts genügend
+Quantenenergie besitzt, um die nötige Austrittsarbeit für die zu
+emittierenden Elektronen aufzubringen, sodass sich die Platte wegen der
+dann austretenden Elektronen entlädt. Er schloss, dass je 1 Lichtquant
+genau 1 Elektron aus dem Metall herausschlage. Ist die Austrittsarbeit
+kleiner als die Energie hf, so reicht diese für den Effekt. Für Zink zum
+Beispiel eignet sich das Licht einer Glühlampe auch dann nicht, wenn man
+enorme Intensitäten verwendet. Die Platte bleibt negativ geladen. Nach der
+klassischen Physik würden die Elektronen dadurch so stark geschüttelt, dass
+sie schliesslich genügend Energie zum Austreten hätten. Hingegen beobachtet
+man den Effekt recht gut, wenn UV-Licht aus einer Quecksilberdampflampe
+verwendet wird (auch wenn sie schwach ist). Die Elektronen haben nach dem
+Herausschleudern die kinetische Energie
+E = hf - [pic] Graph siehe: Lehrer an der Tafel. Für diese Arbeit erhielt
+A. Einstein den Nobelpreis (nicht für die Entwicklung der
+Relativitätstheorie). Diese Erklärung zeigt deutlich den Teilchencharakter
+von Strahlung. Wir machen das Experiment.
+
+Auch die Untersuchung von Röntgenspektren zeigt deutlich die
+Energiequantelung. Röntgenstrahlung entsteht durch abruptes Abbremsen sehr
+schneller Elektronen an einem Metalltarget. Die Beschleunigungsenergie wird
+auf das Quant übertragen.
+[pic]
+Streuungsexperimente zeigen, dass die Quanten des Lichts, man nennt sie
+fortan Photonen, Impuls besitzen, d. h. sie weisen Trägheit auf wie ein
+sich bewegendes Teilchen. Wenn sie aufprallen übertragen sie auf die
+Aufprallmaterie Impuls. Dieser Photonenimpuls hat den Betrag: [pic], seine
+Richtung entspricht der Ausbreitungsrichtung des Photons.
+Streuungsexperimente führten übrigens Ernest Rutherford zur Entdeckung des
+Atomkerns.
+
+Beim Compton-Effekt, benannt nach dem Physiker, der ihn erklärte, wird die
+Streuung hochenergetischer Strahlung (Röntgen- oder (-Strahlen) an den
+Elektronen von Materie (meist Metalle) untersucht. Dabei sind die
+Erhaltungssätze für Energie und Impuls mit den genannten Ansätzen
+anzuwenden und ausserdem ist die Rechnung wegen der hohen Geschwindigkeiten
+herausgeschleuderter Elektronen relativistisch zu führen. Die Ansätze
+erinnern an die klassischen Ansätze für Stossversuche. Auch hier ist es
+nötig, die Strahlung als Teilchenstrom zu betrachten. Die sorgfältigen
+Untersuchungen und die klare Interpretation trug auch Compton den
+Nobelpreis ein.
+De Broglie hatte die kühne Idee, den Spiess umzudrehen (siehe Impulsformel
+der Strahlung, oben) und stellte als 24-jähriger in seiner Doktorarbeit die
+Hypothese auf, dass jede bewegte Materie von einer Welle begleitet sei,
+deren Wellenlänge [pic]. Setzt man für p = mv, E = [pic], so ergibt sich
+die Energieformel [pic]
+oder: [pic]
+Diese Wellen nannte De Broglie Materiewellen. Das heisst, de Broglie
+postulierte, dass beliebige bewegte Teilchen (Materie) Welleneigenschaften
+besitze.
+Für die Leistungen, die sich hinter dieser Doktorarbeit verbergen, erhielt
+auch De Broglie den Nobelpreis. Seine Behauptungen wurden durch die
+Voraussage von Elektronenbeugung, experimentell gezeigt mit den Versuchen
+von Thomson und Davisson, bestätigt.
+
+Erwin Schrödinger entwickelte ca. 1920 die Wellenmechanik der
+Quantenphysik. Er beschrieb mit Differenzialgleichungen eine
+Wellenamplitude, deren Quadrat später von Max Born als
+Aufenthaltswahrscheinlichkeit eines Teilchens am betreffenden Raumpunkt zur
+betreffenden Zeit gedeutet wurde. Mit dieser Methodik war eine Atomtheorie
+gewonnen, die es erlaubte sämtliche Spektren von Atomstrahlungen zu
+verstehen und auch solche von noch unbekannten Elementen vorauszuberechnen.
+Die Bereiche, bei denen die Aufenthaltswahrscheinlichkeit für ein
+bestimmtes Elektron relativ hoch ist, nennt man dessen Orbital.
+Auch E. Schrödinger erhielt für diese Arbeiten den Nobelpreis.
+
+Zur Orbitaltheorie lieferte der Physiker Wolfgang Pauli noch ein wichtiges
+Prinzip, das nach ihm benannt ist: Jedes Orbital eines Atoms kann nur 2
+Elektronen aufnehmen. Jetzt war es möglich, das Periodensystem der Elemente
+quasi physikalisch zu belegen und damit zu verstehen.
+
+Wir sehen: Im Mikrokosmos sind Strahlungen und Teilchen wie Elektronen
+teils als Korpuskeln (Teilchen) teils als Wellen zu deuten. Beide
+Erscheinungen sind stets vorhanden, aber bei den Beobachtungen treten mal
+die Wellen, mal die Teilcheneigenschaften in den Vordergrund. Man nennt das
+Welle-Teilchen-Dualismus.
+
+Eine konsistente Teilchentheorie wurde durch eine Gruppe von Mathematikern
+an der Universität Göttingen entwickelt. Man nannte die Theorie
+Matrizenmechanik.
+Werner Heisenberg, ein Mitglied dieser Gruppe, ist schliesslich 1927 der
+Durchbruch gelungen, die beiden bis dahin nebeneinander und widersprüchlich
+existierenden Theorien: Wellentheorie im wesentlichen von E. Schrödinger
+und Teilchentheorie, genannt Matrizenmechanik oder Quantenmechanik zu
+vereinigen. Dies gelang ihm mit dem Unschärfprinzip, auch Unschärferelation
+genannt. Es lautet, (etwas vereinfacht):  Legt man den Ort von Teilchen mit
+der Genauigkeit (x und den Impuls des Teilchens mit der Genauigkeit (p
+fest, so gilt stets: (x ˇ (p ( h
+Das bedeutet: Kennt man zu einer bestimmten Zeit den Aufenthaltsort eines
+Teilchens sehr genau, so ist sein Impuls ungenau bekannt (unscharf) und
+umgekehrt genauso. Man kann es auch so sagen: Es ist nicht möglich, einen
+Elektronenstrahl zu erzeugen, in dem die Teilchen sowohl einen genau
+bestimmten Ort als auch eine genau bestimmte Geschwindigkeit haben.
+
+Dies hat ganz gravierende Auswirkungen auf die Philosophie des
+Naturgeschehens. Denn wenn man zu einem Anfangszeitpunkt nicht beliebig
+genau Ort und Geschwindigkeit eines Teilchens kennen kann, ist es
+prinzipiell unmöglich länger anhaltende Voraussagen für die künftige
+Bewegung des Teilchens zu machen. Der von Laplace im 17. Jahrhundert
+vorgelegte Dämon, nach welchem man in Kenntnis aller Orte und
+Geschwindigkeiten aller Teilchen dieser Welt und in Kenntnis aller auf
+diese Teilchen wirkenden mechanischen Kräfte die gesamte Zukunft der Welt
+voraussagen könne, verliert damit seine Grundlage. Damit ist klar: Das
+Naturgeschehen ist nicht genau oder genau (mit Fehlern) vorhersagbar. Es
+ist nicht determiniert. Vielleicht liegt darin die Erkenntnis versteckt,
+dass es einen freien Willen gibt? Aber so wie sich Theologen und
+Philosophen nicht mit ihrer Argumentationsart in die Physik mischen sollen,
+sollen Physiker (und andere Naturwissenschaftler) sich nicht anmassen, ihre
+Methoden in Bereichen anzuwenden, die nicht die ihren sind.
+
+Folgen der Quantenphysik:
+ - Verständnis für den inneren Aufbau der Atome und Berechnung dieses
+   Aufbaus
+ - Verständnis für zahlreiche Erscheinungen im Zusammenhang mit
+   elektromagnetischer Strahlung
+ - Verständnis der Leitungseffekte in Metallen und Halbleitern
+   (Bänderstrukturen)
+ - Darauf aufbauend die gesamte Mikrotechnik, integrierte Schaltungen,
+   Informationstechnologie, Datentechnik, Quantenelektronik, Quantenoptik
+ - Verstehen zum Atomkern, Kernenergie, Radioaktivität, Kernspaltung,
+   Kernfusion
+   Unsere Hauptenergiequelle: die Sonne; Kosmische Strahlung.
+ - Wesentliches im Bereich der Elementarteilchen. Zum heutigen Stand sind
+   allerdings grundlegende Erweiterungen hinzugekommen. (Verlängerung der
+   Liste der Erhaltungssätze, Standardmodell der Elementarteilchen)
+ - Festkörperphysik bei normalen und tiefen Temperaturen, z. B.
+   Supraleitfähigkeit (gibt zwar noch immer Rätsel auf), Material- und
+   Werkstoffforschung
+
+Was ist noch nicht gelungen:
+ - Gesamtverständnis (Vereinigung) Relativitätstheorie und Quantenphysik
+ - Einheitliche Feldtheorie (Man muss nach wie vor die Gravitationskräfte,
+   elektromagnetische Kräfte und Kernkräfte getrennt betrachten, obwohl man
+   starke Anzeichen hat, dass diese Naturkräfte Teil einer übergeordneten
+   Feldtheorie sind)
+ - Etliche Auswirkungen auf komplexe Systeme
+ - Noch viele offene Fragen im Bereich der Elementarteilchenphysik
+ - Diese Liste ist ganz unvollständig, da ein Physiklehrer nur sehr
+   teilweise im Forschungsbereich informiert sein kann.
+
+Werner Fuchsberger,
+im April 2003, Seitenzahlen an Sexl II, neu angepasst: März 2005

@@ -1,0 +1,332 @@
+
+Seminar: Einfόhrung in die Mathematikdidaktik
+Dozent: Prof. Dr. Jahnke
+Wintersemester 2006/2007
+Referenten: Konrad Schemmel, Stefanie Zarnekow
+
+
+                         Was ist Mathematikdidaktik?
+
+1. Mathematikdidaktik im Bezugsfeld der Wissenschaften
+Bevor όber den Inhalt und die Funktion der Mathematikdidaktik geredet  wird,
+ist  es  zunδchst  entscheidend,  sich  die  Stellung  der   Mathematik   im
+Bezugsfeld  der  Wissenschaften  zu  betrachten,  da   hieraus   wesentliche
+Erkenntnisse όber Aufgabenbereiche  und  Funktionen  der  Mathematikdidaktik
+offenbar werden.
+Die  Mathematikdidaktik  siedelt  sich  in  der  Schnittmenge  zwischen  der
+Mathematik  als   Fachdisziplin,   der   Pδdagogik   und   der   Lern-   und
+Entwicklungspsychologie und  der  tatsδchlichen  Unterrichtspraxis  an.  Sie
+vereint   in   sich   Elemente   sowohl   der   Natur-    wie    auch    der
+Geisteswissenschaften. Sie dient als Vermittler  zwischen  den  Disziplinen,
+wobei sie jedoch nicht nur auf die  Vermittlerfunktion  zu  reduzieren  ist,
+sondern auch selbst eine eigenstδndige Grundlagenwissenschaft darstellt.
+
+                                    [pic]
+Abb.1.:   Modell   der   Einordnung   der   Mathedidaktik    zwischen    den
+wissenschaftlichen Disziplinen
+      (siehe Vorlesung)
+
+2. Die Pringsheim-Forderung (14.03.1904)
+Bei  der  Mathematikdidaktik  handelt  es   sich   um   eine   recht   junge
+Wissenschaft, die sich  erst  Anfang  des  20.  Jahrhunderts  zu  entwickeln
+begann. Einer der ersten Mathematiker die  sich  fόr  die  Einfόhrung  einer
+Mathedidaktik  aussprachen  war  der  1850  in  Schlesien  geborene   Alfred
+Pringsheim,   der   als   ein    Mitbegrόnder    der    Mathedidaktik    als
+wissenschaftliche Disziplin gilt.
+Am 14.03.1904 trug Pringsheim anlδsslich einer Festrede  an  der  Kφniglich-
+Bayerischen Akademie der Wissenschaften sein Anliegen vor,  einen  Lehrstuhl
+fόr mathematische Pδdagogik ins Leben zu rufen.  Er  sah  die  Notwendigkeit
+hierfόr im  mangelnden  pδdagogischen  Wissen  der  Mathematiker  begrόndet.
+Insbesondere beklagte  er  die  daraus  resultierenden  "recht  kόmmerlichen
+Frόchte" bei den Schόlern der Mathematik. Er wehrte sich dagegen die  Schuld
+bei den Schόlern zu  suchen,  sondern  sah  die  Ursachen  vielmehr  in  der
+ungenόgenden Universitδtsausbildung von Mathematikern an den  Universitδten.
+Er kritisierte, dass angehende  Lehrer  die  Mathematik  an  der  Hochschule
+gelehrt bekδmen, wδhrend das Lehren der Mathematik nicht gelehrt wurde.
+Bis heute hat die Mathematikdidaktik immer noch ein Imageproblem und hat  es
+schwer sich voll durchzusetzen, weshalb die Pringsheim-Forderung  bis  heute
+kaum etwas an Aktualitδt verloren hat.  Die  Ursache  des  bisher  fehlenden
+Durchsetzungsvermφgens  liegt  im  allgemein   verbreiteten   Zerrbild   der
+Didaktik und ihren Aufgaben.
+
+
+Das Zerrbild der Mathematikdidaktik
+
+In der  mathematischen  Gesellschaft  herrscht  oft  die  Meinung  vor,  die
+Mathematikdidaktik diene lediglich der  Aufbereitung  mathematischer  Stoffe
+fόr die Praxis. Ihre Aufgaben wδren demnach  das  Zerlegen  des  Stoffes  in
+Lehratome, das Erfinden von άbungssequenzen, sowie die  Entproblematisierung
+von mathematischen Sachverhalten. Begrόndet in dieser  Ansicht  scheint  die
+Mathematikdidaktik   das   mathematische    Niveau    zu    bedrohen.    Die
+Didaktifizierung der Mathematik wird als Bedrohung angesehen, da sie die  so
+genannte "reine" Mathematik verfδlschen und unzulδssig  vereinfachen  kφnne.
+Ausgehend von diesem  δuίerst  unzureichenden  Vorstellungen   ist  zunδchst
+eine  Begriffsbestimmung  der  Mathematikdidaktik  und  ihrer  Aufgaben  von
+Nφten.
+
+
+
+3. Mathematikdidaktik- Begriffsbestimmung
+
+Zur Begriffsbestimmung seien hier zwei Erklδrungsversuche vorgestellt:
+
+1. "[...] eigenstδndige wissenschaftliche Disziplin [...] mit  dem  Anspruch
+   auf einen wissenschaftlich begrόndeten Schulunterricht der  Jugend  durch
+   entsprechend professionell ausgebildete Lehrer. [...]  Mathematikdidaktik
+   ist die Wissenschaft vom Lernen und Lehren von  Mathematik  in  jeglicher
+   Form [...]." (Positionspapier des Beirats der GDM)
+
+
+2.  "Fachdidaktik ist [...] eine Art konzeptionelle Organisation fόr
+   komplexe wissenschaftliche  Anforderungen, zu deren Bewδltigung Beitrδge
+   vieler Partner erforderlich sind. [...] Sie ist eine Institution des
+   wissenschaftlichen Transfers." (Otte
+)
+
+Die  Mathematikdidaktik  stellt  ein  Bezugssystem  zwischen  allen  an  der
+Realisierung der Mathematik  beteiligten  Partnern  dar.  Sie  reagiert  auf
+Verδnderungen in der Gesellschaft, als auch  der  Wissenschaft  und  wandelt
+sich entsprechend in ihren Aufgaben und Anforderungen.  Sie  ist  in  erster
+Linie eine Grundlagendisziplin  wie  die  Fachmathematik  selber  und  weist
+starke technologische Zόge vor.
+
+
+
+4. Aufgabenbeschreibung
+
+Die Aufgaben der Mathematikdidaktik sind  vielfδltig  und  beschrδnken  sich
+nicht auf die reine Vermittlung zwischen Universitδt und Schule.  In  erster
+Linie  besitzt  die  Mathematikdidaktik  eine  Defizit  ausgleichende  Rolle
+zwischen den verschiedenen Bezugsdisziplinen. Sie beschδftigt sich  mit  der
+Grundlagenforschung,  sowie  de  Planung  und  Optimierung  von  Lehr-   und
+Lernprozessen.  Das  Lehren  und  Lernen  der  Mathematik  wird  dahingehend
+erforscht, dass es hinsichtlich der Vorraussetzungen, der Methoden  und  der
+Ziele zu einer Verbesserung des Status Quo kommt. Des Weiteren befasst  sich
+die   Mathematikdidaktik   mit   der   Entwicklung   von    Curricula    und
+Unterrichtsmaterialien, der Erprobung  von  neuen  Unterrichtskonzepten  und
+der Erforschung von Kommunikationsproblemen im Mathematikunterricht.
+Es findet zudem  Feldforschung  in  Bezug  auf  mathematische  Anforderungen
+statt  und  es  werden  didaktisch  orientierte  Sachanalysen  durchgefόhrt.
+Allgemein lδsst  sich  sagen,  dass  sich  die  Mathematikdidaktik  mit  den
+Kooperationsbeziehungen zwischen den einzelnen  Parteien  beschδftigt.  Dies
+sind im Einzelnen die  Beziehungen  Lehrer-Schόler,  Lehrer-Lehrer,  Lehrer-
+Wissenschaftler, aber auch Bezugswissenschaft- Bezugswissenschaft.
+Da  die  Didaktik  auch  eine  Vermittlerfunktion  zwischen  Mathematik  und
+Lernendem  darstellt,  ist  die  Mathematikdidaktik  somit  das  eigentliche
+Berufsfeld des Mathematiklehrers.
+
+Die   Fachdidaktik   unterliegt   aufgrund    der    zuvor    angesprochenen
+Vermittlerfunktion  vielfachen  Spannungen,  die  im  Folgenden  dargestellt
+werden sollen:
+
+
+5. Mathematiker vs. Lernender
+
+Zwischen dem Mathematiker und dem Lernenden  herrscht  ein  groίer  Konflikt
+vor, der in dem Widerspruch  der  vermeintlich  perfekten  Aufbereitung  der
+Mathematik   durch   logische   Strukturierung   und    dem    tatsδchlichen
+Wissenserwerb zu Tage tritt.
+Der Mathematiker geht  von  einer  "kanonischen  Lerntheorie"  aus:  Da  die
+Mathematik  per  Definition  logisch  und  wahr  ist,  sowie   auch   streng
+systematisch und vom Einfachen zum Komplexen aufgebaut ist,  verkφrpert  sie
+die  optimale  Lernstruktur   und   benφtigt   demnach   keine   didaktische
+Aufbereitung mehr.
+Dem gegenόber steht jedoch der Lernende, der den Inhalt verinnerlichen  soll
+und sich dafόr an die Vorgaben der Mathematik halten muss. Diesen  logischen
+Strukturen kann der Lernende meist  nicht  folgen,  da  Lehren,  Lernen  und
+Verstehen keine linearen Prozesse sind. Dies steht  im  Widerspruch  zu  der
+wohlgeordneten Mathematik, welche eine eben solche Linearitδt erzwingt.
+Die kanonische Lerntheorie sucht  demnach  bei  Auftreten  von  Misserfolgen
+beim Lernen  die  Schuld  beim  Schόler  und  wόrde  die  Mathematikdidaktik
+letztendlich όberflόssig machen.
+
+
+
+6. Spannung zwischen Unterrichtspraxis und Fachwissenschaft:
+
+
+    Das Theorie-Praxis-Problem in den Mathematikdidaktik
+
+Die Mathematikdidaktik unterliegt einer zweifachen Spannung, und zwar zum
+Einen ist der Mathematik die Didaktik nicht wissenschaftlich genug
+(Didaktifizierung als verfδlschende Simplifizierung), und zum Anderen
+bezeichnet die Unterrichtspraxis die Mathematikdidaktik als zu theoretisch
+und praxisfern. Was die Mathematikdidaktik ausarbeitet, soll mφglichst
+direkt und unverδndert in den Unterrichtsalltag όbertragen werden kφnnen.
+
+7. Der doppelte Bezug zur Schulpraxis aus Sicht der Mathematikdidaktik
+
+
+[pic]
+
+Aus dem Schema ist zu entnehmen, dass die Schulpraxis  sowohl  Abnehmer  der
+Mathematikdidaktik, als auch Forschungsfeld derselben ist.
+Abnehmer  in  der  Hinsicht,  dass  Konzepte,  Prinzipien  und   didaktische
+Aufbereitung  der  Mathematik  in  passender   Weise   in   den   Unterricht
+eingearbeitet werden.
+Eben jene angewandten Ergebnisse werden in der Praxis erprobt und  gegebenen
+Falls noch einmal  abgeδndert  und  an  die  Anforderungen  des  Unterrichts
+angepasst.
+Beide  Bereiche  sind  im  Hinblick  auf  die  Universitδre  Ausbildung  der
+Mathematiklehrer, der Lehrerfortbildung,  der  Materialentwicklung  und  auf
+neue didaktische Konzepte und Vorschlδge zu betrachten.
+Das Theorie-Praxis-Problem besteht, weil es keine einfachen direkten
+Transfers zwischen den praktischen und den theoretischen Arbeiten gibt,
+d.h. dass die Ergebnisse der theoretischen Arbeiten nicht direkt und ohne
+Bearbeitung in die Praxis umgesetzt werden kφnnen. Sie sind nur Konzepte,
+keine Rezepte fόr den optimalen Lernzuwachs im Unterricht.
+
+
+8. Der doppelte Bezug des Lehrenden zum Lernenden
+
+
+
+In der diagnostischen Dimension kommt es zur  Beobachtung  der  Schόler  und
+deren  Lernprozesse,  so  dass  auch  hier  eine  geeignete   Reaktion   auf
+eventuelle Schwδchen von  den  durch  Forscher  geschaffene  und  durch  den
+Lehrer angebotene Lernumgebungen erfolgen kann  und  diese  dann  durch  den
+Lehrer und den Didaktiker behoben werden kφnnen.
+
+
+Dieses Modell  verdeutlicht  somit,  dass  es  stets  zu  Wechselbeziehungen
+zwischen den  beteiligten  Parteien  am  Lernprozess  kommt  und  dies  auch
+dringend nφtig ist, um dem Schόler  ein  abwechslungsreiches,  interessantes
+und gehaltvolles Lernen zu ermφglichen.  Festhalten  an  den  Lernumgebungen
+ohne entsprechende Rόckkopplung zur Kontrolle  des  Lernerfolges  ist  nicht
+zweckgemδί  fόr  ein  Schulsystem,  das  gut  ausgebildete  Schόler  in  die
+Ausbildung oder an die Universitδten schicken mφchte.
+
+
+
+
+
+
+
+
+9. Unterrichtsprinzipien
+
+[pic]
+Zur Behandlung von  Unterrichtsprinzipien  ist  es  zunδchst  notwendig,  zu
+erfassen  nach  welchem  Prinzip  Unterricht  aufgebaut  ist  und   wie   er
+funktioniert. Es gibt zahlreiche Modelle, die Wesen und  Funktionsweise  von
+Unterricht beschreiben. Wir mφchten uns hier auf das  so  genannte  Berliner
+Modell von Heinemann, Otto und Schulz beschrδnken.
+Nach dem Berliner Modell spielt sich der Unterricht auf 4  Ebenen ab.
+
+
+Die  Inhaltsebene  bezieht  sich  darauf,  was  gelehrt  werden  soll,   die
+intentionale Ebene auf den Zweck des Lernens, die methodische Ebene auf  die
+Art der Vermittlung und  die  mediale  Ebene  beschδftigt  sich  schlieίlich
+damit, mit welchen Hilfsmitteln der Unterricht gestaltet  wird.  Diese  vier
+Ebenen stehen miteinander in Wechselbeziehungen und bedingen  einander.  Aus
+ihrem Wechselspiel entsteht letztendlich der Unterricht  und  bekommt  seine
+eigentliche  Gestalt.  Die  Aufgabe   von   Unterrichtsprinzipien   ist   es
+schlieίlich, den Unterricht zu strukturieren.
+
+
+
+
+10. Didaktische Prinzipien des Mathematikunterrichts
+
+Nach Rinschede handelt es  sich  bei  Unterrichtsprinzipien  um  "regulative
+Grundsδtze  zur  optimalen  Auswahl,  Anordnung  und  Vermittlung  von   den
+Inhalten des Unterrichts." (Rinschede,  G.  (2003):  Geographiedidaktik.  2.
+Aufl., Paderborn.) Demnach sind Unterrichtsprinzipien in  erster  Linie  als
+Vorschlδge und  Strukturierungshilfen  zu  sehen.  Es  sind  hingegen  keine
+Rezepte, nach denen Unterricht stur geplant werden kann. In  der  Regel  ist
+eine  1:1-  Umsetzung  weder  erwόnscht   noch   mφglich.   Vielmehr   haben
+Unterrichtsprinzipien die Aufgabe dem Lehrenden Hilfestellungen an die  Hand
+zu geben mit denen er den Unterricht gestalten kann.
+Die Fachdidaktiker waren in den letzten  Jahren  sehr  rege  im  Formulieren
+neuer Unterrichtsprinzipien, wobei sich einige nur im  Namen  unterscheiden,
+wδhrend  andere,  bei  unterschiedlichem  Inhalt,  unter  dem  selben  Namen
+auftauchen. Eine Ordnung und Strukturierung der  Materie  fand  bisher  kaum
+und nur bruchstόckhaft statt.  So  gibt  es  zum  Beispiel  die  "operativen
+Prinzipien", welche all diejenigen Prinzipien beinhaltet, die sich  aus  dem
+Operationsbegriff nach Piaget herleiten. Diese Prinzipien  legen  besonderes
+Augenmerk auf  Kompositionsfδhigekeit,  Assoziativitδt  und  Reversibilitδt,
+welche im  Verstδndnis  der  Schόler  erreicht  werden  soll.  Ein  weiteres
+Beispiel wδren die Variationsprinzipien, welche sich  auf  das  Prinzip  des
+aktiven Lernens stόtzen. Die Stoffvermittlung folgt hier in  der  Regel  dem
+Spiralprinzip, nachdem ein Thema im Laufe der  Schullaufbahn  mehrmals,  auf
+unterschiedlichen und im Schwierigkeitsgrad ansteigenden  Abstraktionsgraden
+behandelt wird.
+
+
+
+
+10.1. Das EIS-Prinzip nach J. Bruner
+
+Abschlieίend soll nun noch als ein Beispiel  eines  Unterrichtsprinzips  das
+sogenannte, von J.Bruner entwickelte "EIS" -Prinzip vorgestellt werden.  Der
+Name EIS  leitet  sich  aus  den  Adjektiven  enaktiv  (handelnd),  ikonisch
+(bildlich)  und  symbolisch(verbal,  formal)  her,  welche  das  Prinzip  im
+Wesentlichen  charakterisieren.  Sie  stehen  fόr  die  drei   verschiedenen
+Darstellungsebenen  in  denen  mathematische  Sachverhalte   im   Unterricht
+erklδrt  werden  sollen.  Die  Vermittlung  erfolgt  όber  Bild  (ikonisch),
+Handlung  (enaktiv)  und  Zeichen  (symbolisch).  Diese  Ebenen  stehen   in
+Wechselwirkung zueinander und beeinflussen  sich  gegenseitig.  Verbindendes
+Element zwischen den Ebenen ist die Sprache, der sowohl in  der  Interaktion
+zwischen  den  Ebenen,  als  auch  in  der  Schόler-Lehrer-Interaktion  eine
+zentrale Rolle zufδllt.
+
+10.2. Eine Aufgabe zum EIS-Prinzip mit Lφsungsvorschlag:
+Versucht  in  der  Gruppe,  die  folgenden  Begriffe,  bzw.  Operationen  zu
+ikonisieren, enaktivieren , verbalisieren und formalisieren:
+         . Quadrat
+         . Flδcheninhalt eines Rechtecks
+         . Kόrzen eines Bruchs
+         . Achsenspiegelung
+         . Ableitung einer Funktion
+
+
+Lφsungsvorschlag:[pic]
+
+-----------------------
+Konstruktive Dimension
+
+
+ Unterrichts-
+
+
+                                   praxis
+
+Forschungspraxis
+
+                               Schόler, Lernen
+
+
+                                   Lehrer
+
+
+
+                                    [pic]
+
+
+Diagnostische Dimension
+
+Konstitutionelle Dimension
+
+Analytische Dimension
+
+Quelle: ZDM 98/5 (mit eigener Bearbeitung)
+
+Wie dieses Modell  verdeutlicht,  gibt  es  keine  direkten  Einflόsse  oder
+hierarchische Abhδngigkeiten zwischen Theorie und Praxis.  Es  handelt  sich
+vielmehr  um  Wechselbeziehungen  zwischen  Gleichberechtigten,  voneinander
+unabhδngigen Bereichen.
+Die Verbindung zwischen Forscher  und  Lehrer  wird  in  der  ZDM  98/5  als
+konstitutionelle Dimension bezeichnet,  welche  sich  mit  dem  "Design  von
+exemplarischen,   mathematischen   Lernumgebungen"   befasst.   Unter    der
+konstruktiven Dimension ist das Verhδltnis zwischen Lehrer  und  Schόler  zu
+verstehen, welche fόr die Bereitstellung der  entsprechenden  Lernumgebungen
+fόr  den  Schόler  umfasst,   um   einen   grφίtmφglichen   Lernzuwachs   zu
+gewδhrleisten.
+Beide o.g.  Dimensionen  unterliegen  einer  Rόckkopplung  entsprechend  der
+Akteure, also in der analytischen Dimension  zwischen  Lehrer  und  Forscher
+und  in  der  diagnostischen  Dimension  zwischen  Schόler  und  Lehrer.  So
+verbirgt  sich  hinter  der  analytischen  Dimension  die  Erforschung   von
+sozialen, mathematischen Vermittlungsprozessen, um wieder neue,  verbesserte
+Lernumgebungen  fόr die Lehrer zur Verfόgung stellen zu kφnnen.
+
+

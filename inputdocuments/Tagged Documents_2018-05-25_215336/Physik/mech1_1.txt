@@ -1,0 +1,389 @@
+1
+
+Einordnung und Gliederung
+der Mechanik
+
+Die Mechanik als solche ist ein Teilgebiet der Physik, das mit der Entwicklung der
+sog. Analytischen bzw. Rationalen Mechanik im letzten Jahrhundert einen gewissen
+Abschluß erreicht hat. Die Analytische Mechanik ist ein mathematisch streng formuliertes, axiomatisch aufgebautes Gedankengebäude, das sich weniger der Lösung von
+Einzelproblemen widmet, sondern vielmehr versucht, prinzipielle Einsichten in Gesetzmäßigkeiten, Strukturen und Zusammenhänge in der Mechanik zu erlangen. Auf
+der anderen Seite ist die Mechanik unerlässlich, wenn es darum geht, konkrete technische, d.h. ingenieurwissenschaftliche Probleme zu lösen. Das dafür nötige Rüstzeug
+bereitzustellen, ist Gegenstand der sogenannten Technischen Mechanik, und um
+diese geht es in unserer Vorlesung.
+Eine Grundaufgabe der Mechanik ist die Beschreibung und Vorhersage der Bewegungen von Körpern sowie die Ermittlung sogenannter Kräfte, die diese Bewegungen
+bedingen. Man unterteilt daher die Mechanik gerne in die Teilbereiche Kinematik
+und Dynamik. Die Kinematik ist die Lehre vom geometrischen und zeitlichen Bewegungsablauf (griechisch κινεσισ = Bewegung). Dabei wird nicht auf die Kräfte als
+Ursache der Bewegung eingegangen. Die Dynamik (griechisch δυναµισ = Kraft)
+hingegen ist auf dem Kraftbegriff begründet und beschäftigt sich demzufolge mit den
+Kräften und den aus ihnen resultierenden Bewegungen.
+Die Dynamik wiederum unterteilt sich in die Statik und in die Kinetik. Wie der Name
+sagt (lateinisch status = Stehen), befasst sich die Statik mit dem Zustand der Ruhe,
+der, wie wir sehen werden, dadurch gekennzeichnet ist, dass die Kräfte miteinander im
+Gleichgewicht stehen. Die Kinetik hingegen untersucht Bewegungen, wie sie aus der
+Wirkung von nicht miteinander im Gleichgewicht stehenden Kräften resultieren.
+Wenn man so will, ist die Statik ein Sonderfall der Dynamik, nämlich auf den Zustand
+der Ruhe bezogen, und man könnte versucht sein, sie deduktiv im Sinne eines Spezialfalles sozusagen am Rande abzuhandeln. Dieses wäre sicherlich im Sinne der Analytischen Mechanik. Für den Ingenieur jedoch ist ein detailliertes, problembezogenes
+Studium der Statik unerlässlich. Ein Gebäude, ein Damm oder ein Fernsehturm sollen
+schließlich gerade so bemessen sein, dass sie sich nicht bewegen oder zusammenstürzen. Wir werden uns daher am Anfang dieses Buches ausschließlich mit statischen
+Problemstellungen beschäftigen. Natürlich ist es für den Ingenieur und speziell für den
+Maschinenbauer auch wichtig, den Bewegungsablauf wie z.B. eines Motors zu beschreiben. In den späteren Kapiteln geht es entsprechend darum, die dabei nötigen
+Verfahren zu erlernen, mit anderen Worten, die Welt der Dynamik genauer zu verstehen.
+Einen wesentlichen Aspekt in einer Konstruktion hat die Auswahl des verwendeten
+Materials: Holz bricht bekanntlich leichter als Stahl, Aluminium ist sicherlich leichter
+als Eisen, was für die Gewichtsersparnis wichtig ist, Kupfer verformt sich plastisch,
+
+1
+
+Glas hingegen nicht. Folgerichtig muss der Ingenieur den individuellen Charakter des
+verwendeten Werkstoffes berücksichtigen und in seine Berechnungen mit einfließen
+lassen. Die Technische Mechanik behandelt solche Fragestellungen unter dem Oberbegriff Festigkeitslehre. Hierbei ist es unter anderem nötig, die in der Statik und in
+der Dynamik ermittelten Kräfte in Schnittkräfte, Spannungen und Verformungen des
+Bauteiles umzurechnen und mit kritischen Werkstoffgrößen zu vergleichen. Man untersucht beispielsweise die Stabilität eines Tragwerkes und seiner Bauelemente. Auch
+hiermit werden wir uns früh in diesem Buches auseinandersetzen.
+
+2
+2.1
+
+Grundbegriffe
+Zum Kraftbegriff
+
+Die Kraft ist eine so genannte primitive Größe. Sie ist das Resultat geistiger Abstraktion, basierend auf unserer täglichen Erfahrung, wobei wir Kräfte nicht direkt beobachten können, sondern lediglich aus ihrer Wirkung auf ihre Existenz schließen. Man
+denke hierbei etwa an die Verformung einer Feder, an die Dehnung eines Stabes oder
+auch an die Muskelspannung, die wir fühlen, wenn wir Kräfte ausüben.
+Eine Kraft ist durch drei Eigenschaften bestimmt, ihren Betrag, ihre Richtung und
+durch ihren Angriffspunkt.
+Der Betrag ist ein Maß für die Größe der wirkenden Kraft. Ein qualitatives Gefühl
+hierfür vermittelt die unterschiedliche Muskelspannung, die wir empfinden, wenn wir
+zum Beispiel verschiedene Körper heben. Wir bezeichnen den Betrag der Kraft mit
+dem Symbol F (von englisch force). Gemessen werden kann der Betrag F einer Kraft,
+indem man ihn mit der Schwerkraft, etwa mit geeichten Gewichten, vergleicht. Als
+Maßeinheit für den Betrag der Kraft verwendet man das Newton mit dem Kurzzeichen N. In der Technik benutzt man gern auch Vielfache der Einheit, wie beispielsweise das kN, was 1000 N entspricht.
+Dass eine Kraft eine Richtung hat, ist auch intuitiv klar. Schließlich wirkt das Gewicht eines Körpers immer lotrecht nach unten, und es macht sicher einen Unterschied, mit welchem Winkel man bei betragsmäßig gleichbleibender Kraft auf einen
+Körper drückt oder zieht (siehe Abbildung 2.1.1).
+A F
+A F
+
+F A
+
+A
+
+F
+
+Abb. 2.1.1: Richtung und Angriffspunkt einer Kraft.
+
+Außerdem ist der Angriffspunkt der Kraft von Bedeutung, wie exemplarisch in Abbildung 2.1.1 zu sehen ist: Abhängig davon, wo sich der Angriffspunkt A der Kraft an
+
+2
+
+der Kiste befindet, wird, trotz betragsmäßig gleichbleibender Kraft, eine unterschiedliche Wirkung auf die Kiste resultieren.
+Wir fassen diese intuitiv klaren Aussagen in folgendem Satz zusammen:
+Die Kraft ist ein gebundener Vektor.
+Das Adjektiv gebunden bedarf einer näheren Erklärung: Einen freien Vektor kann
+man im Raum zu sich selbst beliebig parallel verschieben. Dieses ist bei einem Kraftvektor nicht erlaubt. Die Kraft ist an ihre Wirkungslinie gebunden und besitzt darüber
+hinaus einen klar zu spezifizierenden Angriffspunkt.
+Entsprechend der in der Vektorrechnung üblichen Symbolik, wollen wir für den
+Kraftvektor das Symbol F verwenden. Der Betrag der Kraft ist durch das Symbol F
+(ohne Unterstrich) gekennzeichnet.
+In Abbildung 2.1.2 ist ein Kraftvektor F zu sehen, der in einem Punkt A eines Körpers im Raum angreift. Außerdem ist ein rechtwinkliges kartesisches Koordinatensystem eingezeichnet, das durch Einheitsvektoren e x , e y und e z aufgespannt wird.
+Die Indizes x , y und z kennzeichnen dabei die drei Raumrichtungen. Man sieht,
+dass der Kraftvektor gegen die drei Koordinatenachsen unter den Winkeln α β , und
+γ geneigt ist. Aus rechentechnischen Gründen ist es sehr oft günstig, den Kraftvektor
+hinsichtlich eines Koordinatensystems darzustellen, also aufzuspannen. Dazu projiziert man den Kraftvektor F auf die drei aufeinander senkrecht stehenden Achsenrichtungen und erhält so die drei Vektoren F x , F y und F z . Hierfür kann man mit
+den zuvor erwähnten Einheitsvektoren e x , e y und e z schreiben:
+
+(
+
+)
+
+F = F x + F y + F z = Fx e x + F y e y + Fz e z = Fx , F y , Fz .
+
+z
+
+Fz
+ez
+
+ex
+
+γ
+α
+
+β
+
+Fy
+
+ey
+
+y
+
+Fx
+x
+Abb. 2.1.2: Kraftvektor, im Raum aufgespannt im kartesischen Dreibein
+
+3
+
+(2.1.1)
+
+Dabei befolgen wir eine Grundregel der Vektoraddition, wonach gilt, dass Vektoren
+(hier F x , F y und F z ) dadurch addiert werden, dass man bei der Addition das Ende
+des Vektors an den Kopf desjenigen Vektors hängt, zu dem er addiert werden soll.
+Man nennt die Größen Fx , F y und Fz auch die kartesischen Komponenten des
+
+(
+
+)
+
+Vektors F . Es ist üblich, sie in einer Zeile Fx , F y , Fz (manchmal auch als Spalte
+geschrieben) zusammenzufassen. Merke, dass es sich dabei lediglich um alternative
+Schreibweisen ein- und desselben Objekts F handelt. Man beachte, dass die Reihenfolge, in der das Aneinanderketten der Teilvektoren F x , F y und F z erfolgt, beliebig
+ist und immer zum gleichen Endresultat führt. Dies entspricht dem Kommutativ(=Vertauschbarkeits-)Gesetz der Vektoraddition.
+Der Franzose René Descartes (auch Cartesius genannt, 1596-1650) wurde
+in La Haye geboren und von seinem achten Lebensjahr an der Jesuitenschule La Flèche in Anjou ausgebildet. Hier studierte er die damaligen
+Klassiker und beschäftigte sich insbesondere mit Logik, Aristotelischer
+Philosophie und Mathematik. Es wird berichtet, dass sein Gesundheitszustand nicht allzu gut war und ihm deshalb erlaubt wurde, bis elf Uhr
+vormittags im Bett zu bleiben, eine Gewohnheit, die er bis zu seinem Tode
+beibehielt. Er studierte schließlich die Rechte an der Universität in Poitiers
+und schloss sich nach seinem Abschluss 1616 der Militärakademie in
+Breda an. 1618 beginnt er sich wieder intensiver mit Mathematik und
+Mechanik zu beschäftigen, und zwar unter Anleitung des Holländers Isaac
+Beeckman. Der Aufenthalt in Holland währt zwei Jahre und danach reist
+Descartes nach Art des jungen Gentleman durch Europa, schließt sich
+zeitweise sogar der Bayerischen Armee an (1619), um 1628 für die nächsten zwanzig Jahre nach Holland zurückzukehren. Hier verfasst er wichtige
+wissenschaftliche Arbeiten, insbesondere über optische und meteorologische Fragestellungen, als ihn die Nachricht von Galileis Problemen mit der
+katholischen Kirche und dem damit verbundenen Hausarrest erreicht, was
+ihn zögern lässt, intensiv vor seinem eigenen – vorzugsweise natürlichen –
+Tod zu publizieren. Einen solchen Vorwand, nicht zu veröffentlichen,
+kann der heutige Wissenschaftler nurmehr selten geltend machen.
+
+Nach dem Satz des Pythagoras im Raum lässt sich der Betrag F des Vektors F wie
+folgt durch die kartesischen Komponenten ausdrücken:
+F = Fx2 + F y2 + Fz2 .
+
+(2.1.2)
+
+Schließlich kann man die Richtungswinkel α β , und γ mit den Komponenten und
+dem Betrag des Kraftvektors F in Verbindung bringen:
+cosα =
+
+Fy
+Fx
+F
+, cosβ =
+, cosγ = z .
+F
+F
+F
+
+(2.1.3)
+
+4
+
+Beide Gleichungen lassen sich mit Hilfe der Abbildung 2.1.2 beweisen.
+Pythagoras von Samos (580-500 v.u.Z.) war vornehmlich Philosoph und
+Mystiker mit einer starken Neigung zur Mathematik, Astronomie, Musik,
+Heilkunde, dem Ringkampf und der Politik. Durch letzteres ereilt ihn im
+Jahre 532 vor Christus das Schicksal eines politischen Flüchtlings. Er
+verlässt Samos, um der dortigen Tyrannei zu entgehen und zieht nach
+Süditalien. In Croton gründet er seine berühmte philosophische und religiöse Schule, und er schart Anhänger um sich, die so genannten Pythagoräer.
+Der nach ihm benannte Satz war tausend Jahre zuvor bereits den Babyloniern bekannt gewesen und diente diesen praktischen Leuten zur Feldvermessung. Pythagoras jedoch war vielleicht einer der ersten, der sich auch
+für einen Beweis „seines“ Satzes interessierte. Über Details seiner eigenen
+wissenschaftlichen Arbeiten ist nicht allzu viel bekannt, denn die pythagoreische Schule gab sich erstens nach außen hin verschlossen und zweitens
+ist es bei Teams ja ohnehin nicht immer einfach, den konkreten Beitrag des
+Einzelnen auszumachen. Überhaupt glaubten die Pythagoräer zunächst
+einmal an die „Kraft der ganzen Zahl“ und hofften, Naturvorgänge durch
+harmonische Zahlenverhältnisse darstellen zu können, gleichgültig ob es
+sich dabei um astronomische oder musikalische Probleme handelte. Leider
+entdeckten sie bei ihren Forschungen, dass die Diagonale eines Quadrates
+nicht als rationales Vielfaches darstellbar ist, d.h., sie wurden plötzlich mit
+dem Phänomen der irrationalen Zahl konfrontiert. Dies gab bei ihnen und
+anderen griechischen Mathematikern zu größerer Unruhe Anlass, wie es bei
+Menschen, die mit Neuem konfrontiert werden, auch heute noch durchaus
+geschieht. Bemerkenswert scheint, dass die Ideen, oder besser gesagt die
+Wunschvorstellungen der Pythagoräer bis zum Beginn der modernen Naturwissenschaften ihre Kraft behielten. So versuchte noch Kepler in seinem
+Werk „Harmonices Mundi“ der Natur zunächst menschliche Harmonievorstellungen zu oktroyieren, verschrieb sich aber schließlich dann doch einer
+mehr rational geprägten Weltsicht, wie seine Auswertung experimenteller
+Daten Tycho de Brahes bezeugt, was ihn schliesslich auf die Bewegungsgesetze der Planeten brachte.
+
+2.2
+
+Einteilung der Kräfte, das Schnitt- und das Wechselwirkungsprinzip
+
+In der Mechanik ist es üblich, Kräfte nach verschiedenen Gesichtspunkten einzuteilen.
+Entsprechend haben sich diverse Begriffe eingebürgert, die man kennen sollte, um die
+einschlägige Literatur zu verstehen und die im folgenden erläutert werden (vgl. auch
+Abbildung 2.2.1).
+Streckenlast :
+Einzellast :
+Linienkraft :
+F
+
+F
+
+q0
+
+Abb. 2.2.1: Zum Begriff der Einzellast oder Linienkraft.
+
+Die Einzelkraft: Hierunter verstehen das idealisierte Konzept einer punktförmig angreifenden Kraft. Man kann sie dadurch näherungsweise erzeugen, dass man den Körper mit einer Nadelspitze oder über einen dünnen Draht belastet.
+
+5
+
+Die Linienkraft oder Streckenlast: Hierbei handelt es sich um Kräfte, die entlang
+einer Linie kontinuierlich verteilt sind. Näherungsweise erzeugen lassen sie sich dadurch, dass man etwa mit einer dünnen Schneide oder einem Draht gegen einen Körper drückt.
+Die Volumenkraft: Hierunter versteht man Kräfte, die über das Volumen eines Körpers angreifen, wie zum Beispiel das Gewicht oder elektromagnetische Kräfte.
+Die Oberflächenkraft: Diese tritt in der Berührungsfläche zweier Körper auf. Beispiele sind der Wasserdruck auf eine Staumauer oder der Druck einer Panzerkette auf
+den Boden.
+Eingeprägte Kräfte: Diese greifen in vorgegebener Weise an einem physikalischen
+System an, wie etwa das Gewicht oder der Druck einer Nadel auf die Oberfläche eines
+Körpers, bzw. eine Schneelast auf einem Dach, usw.
+Reaktions- oder Zwangskräfte: Diese entstehen, wenn man einem durch eingeprägte
+Kräfte beeinflussten System seine Bewegungsfreiheit nimmt. Man denke an einen
+fallenden Stein, auf den nur sein eigenes Gewicht wirkt. Hält man den Stein in der
+Hand, so ist seine Bewegungsfreiheit eingeschränkt, indem man durch die Hand eine
+dem Gewicht entgegengesetzte Reaktions- bzw. Zwangskraft ausübt.
+Reaktionskräfte lassen sich dadurch sichtbar machen, dass man den Körper von seinen
+geometrischen Bindungen löst, ihn sozusagen freimacht bzw. freischneidet. Diese in
+der Mechanik überaus wichtige Technik des Freischnitts soll im folgenden an einem
+Beispiel erläutert werden.
+F
+
+A
+
+F
+
+FA
+
+B
+
+FB
+
+Abb. 2.2.2: Zum Begriff des Freischnitts.
+
+Betrachte den in Abbildung 2.2.2 dargestellten Balken, der durch eine eingeprägte
+Kraft F belastet ist und auf zwei Stützen, den sogenannten Auflagern, ruht. Diese
+sind offensichtlich Bindungen, die den Balken an der Bewegung hindern, und wir
+befreien uns von ihnen, indem wir an ihrer Stelle zwei Reaktions- bzw. Freischnittskräfte, genannt FA und FB , anbringen. Dieses führt auf das Freikörperbild oder
+auch kurz Freischnitt, der rechts in Abbildung 2.2.2 zu sehen ist.
+Äußere und innere Kräfte: Wie der Name sagt, wirkt eine äußere Kraft von außen auf
+ein mechanisches System. Sowohl eingeprägte als auch Reaktionskräfte sind Beispiele
+äußerer Kräfte. Innere Kräfte erhält man durch gedankliches Zerteilen bzw. Schneiden
+des Körpers. Dieses ist in Abbildung 2.2.3 erläutert: Führt man durch den belasteten
+
+6
+
+Körper einen Schnitt, so ist es um das Gleichgewicht zu wahren nötig, an Stelle der
+inneren Bindung durch das Material geeignete, flächenförmig verteilte, eben innere
+Schnittkräfte aufzuprägen. Man beachte, dass die Einteilung in innere und äußere
+Kräfte davon abhängt, welches System untersucht wird. Fassen wir etwa den Gesamtkörper in Abbildung 2.2.3 als ein System auf, so sind die durch den Schnitt freigelegten Kräfte innere Kräfte. Betrachten wir dagegen die unten gezeichneten Teilkörper 1
+oder 2 jeweils als ein System, so sind alle dargestellten Kräfte äußere Kräfte.
+Die bei Studenten unbeliebte Technik des Freischnitts von Kräften ist dem
+Gelehrten Leonard Euler (1707-1783) zu verdanken. Überhaupt trug Euler
+unendlich viel zu den Konzepten der Analysis und der klassischen Mechanik
+bei. Sein Vater wollte ihn eigentlich in klerikalen Diensten sehen, die rationalen Wissenschaften schienen Euler jedoch mehr zu interessieren. So geht er
+zwar als Student nach Basel, wechselt aber von Theologie alsbald zur Mathematik, um bei seinem (ebenfalls berühmten) Lehrmeister Johann Bernoulli
+Mathematik zu studieren. Es dauert jedoch nicht lange, und er überflügelt
+seinen Lehrer. 1727 geht er nach St. Petersburg, um an der von der berüchtigten Katharina der Großen neu gegründeten Akademie der Wissenschaften als
+Professor für Physik zu wirken. In Russland dient er auch als Schiffsarzt bei
+der Marine. 1733 entschließt er sich zur Heirat. Er wird dreizehn Mal Vater,
+aber nur fünf seiner Kinder überleben bis zum Erwachsenenalter. 1741 wechselt er auf Einladung Friedrichs des Großen zur Berliner Akademie, wo er die
+nächsten 25 Jahre bleibt. Sein Verhältnis zu Friedrich verschlechtert sich im
+Laufe der Zeit jedoch, und so kehrt er 1766 nach St. Petersburg zurück. Bemerkenswert ist, dass Euler Zeit seines Lebens trotz seiner starken Sehbehinderung (er verlor sein rechtes Augenlicht im Alter von 31 Jahren und erblindete
+kurz nach seiner Rückkehr nach St. Petersburg aufgrund einer nicht geglückten
+Augenoperation wegen grauen Stars vollständig) wissenschaftlich enorm
+kreativ und produktiv blieb. In der Tat war die Petersburger Akademie noch
+fünfzig Jahre nach seinem Tod damit beschäftigt, bisher Unveröffentlichtes
+seiner Werke herauszubringen, so dass seine „Opera Omnia“ schließlich 866
+Bücher und Schriften umfassten.
+
+F
+
+FA
+
+FB
+F
+
+1
+
+2
+FB
+
+FA
+
+Abb. 2.2.3: Zum Begriff der inneren Kraft und des Schnittprinzips.
+
+7
+
+Schnitt
+F
+
+F
+
+F
+
+F
+
+G
+
+G
+
+G
+
+Kontakt
+
+G
+
+Abb. 2.2.4: Zum Wechselwirkungsgesetz, „Actio = Reactio“ Prinzip.
+
+Im Zusammenhang mit dem Freischnitt von Kräften bzw. mit dem Schnittprinzip ist
+das sogenannte Wechselwirkungsgesetz, auch actio = reactio Prinzip, von entscheidender Bedeutung. Es besagt, dass zu jeder Kraft immer eine gleich große aber entgegengesetzte Gegen- bzw. Reaktionskraft gehört. Dieses aus der Erfahrung begründete Prinzip ist in Abbildung 2.2.4 links illustriert: Die gezeigte Hand übt auf eine Wand
+eine Kraft F aus. Eine gleich große aber entgegengesetzte Kraft wird aber auch von
+der Wand auf die Hand ausgeübt. Beide Kräfte kann man dadurch sichtbar machen,
+dass man, wie gezeigt, an der Kontaktstelle freischneidet. Ein anderes Beispiel für das
+actio = reactio Prinzip ist rechts in Abbildung 2.2.4 gezeigt: Aufgrund der Gravitation
+hat ein Körper auf der Erde ein Gewicht G . Dieses ist die Anziehungskraft, welche
+die Erde auf ihn ausübt. Umgekehrt wirkt auch der Körper mit einer gleichgroßen aber
+entgegengerichteten Kraft auf die Erde, beide Körper ziehen einander an.
+Wir fassen zusammen:
+Actio = reactio: Die Kräfte, die zwei Körper aufeinander ausüben, sind gleich groß,
+entgegengesetzt gerichtet und liegen auf der gleichen Wirkungslinie.
+
+8
+
+Im folgenden stellen wir uns die Aufgabe, Reaktions- und Schnittkräfte für mechanische Systeme zu berechnen, um danach die ihnen unterworfenen Körper hinsichtlich
+ihrer Materialfestigkeit korrekt dimensionieren zu können.
+Isaac Newton (1642-1727) war unzweifelhaft eines der größten naturwissenschaftlichen Genies. Um seine Entdeckungen zu würdigen, ist kein Superlativ zu gewagt, und sein soeben zitiertes Prinzip actio=reactio ist in der Tat
+nur ein Stein in dem unendlich großen Ozean der Wahrheit, der vor ihm lag
+und den er entdeckte, um seine eigenen Worte zu paraphrasieren. Auch seine
+menschlichen Qualitäten genügen Superlativen, allerdings wohl eher im
+negativen Sinne. Dem Internet entnehmen wir: „Newton was rigorously
+puritanical: When one of his few friends told him “a loose story about a
+nun,” he ended their friendship. He is not known to have ever had a romantic
+relationship of any kind, and is believed to have died a virgin. Furthermore,
+he had no interest in literature or the arts, dismissing a famous collection of
+sculpture as “stone dolls.” In short, Newton was a mathematical mystic,
+convinced that he shared a privileged relationship with God, and obsessively
+devoted to finding how He had constructed the universe. He thought of
+himself as the sole inventor of the calculus, and hence the greatest mathematician since the ancients, and left behind a huge corpus of unpublished work,
+mostly alchemy and biblical exegesis, that he believed future generations
+would appreciate more than his own.“ Besonders berüchtigt ist sein Prioritätsstreit mit Leibniz, die Entdeckung der Differential- und Integralrechnung
+betreffend, worauf auch das Zitat anspielt. So wurde Leibniz von der Royal
+Society aufgefordert, seine Ansprüche vorzutragen und zu begründen, aber
+Newton (als wichtigstes Mitglied und Präsident) sorgte dafür, daß die Karten
+„richtig“ gemischt wurden, indem er das Untersuchungskomitee mit seinen
+Anhängern besetzte und zur Sicherheit den Endbericht selber schrieb. Angeblich sei es sein schönster Tag gewesen zu sehen, wie Leibniz seelisch
+zerbrach, was zeigt, daß man auch ohne „romantic relationships“ seinen
+Spaß haben kann. In diesem Sinne stand er auch dem Geld nicht feindlich
+gegenüber, denn er wurde in seinen späteren Jahren Warden and Master of
+the Mint, eine recht lukrative Stellung neben seiner Position als Cambridge
+Professor. Von jeder geprägten Münze erhielt er nämlich seinen Anteil, was
+sich in einem Jahr zu 1000 Pfund akkumulierte. Newton starb als reicher,
+allerdings dem Bericht nach geiziger Mann. Abschließend sei bemerkt, daß
+Newton’s Charakter auch für den Psychoanalytiker von Interesse sein könnte, denn wir lesen im Internet : „Frank E. Manuel, in his bold portrait of
+Isaac Newton (1963), suggests that Newton's ferocity in his arguments with
+Hooke, Flamsteed, and Leibniz, is the result of the deprivation of his mother
+when she married Barnabas Smith and moved away from him for seven
+years. Having lost his mother for a time, Manuel speculates that Newton ever
+afterward fought hard to keep what he thought was his, especially all the
+fruits of his genius. Westfall argues more cautiously that no empirical evidence can confirm or disprove such an “analysis.” (Never at Rest, p. 53n.)“.
+
+9
+
+

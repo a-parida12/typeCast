@@ -1,0 +1,4874 @@
+PHYSIK
+
+I
+
+MECHANIK
+
+F. HERRMANN
+SKRIPTEN ZUR EXPERIMENTALPHYSIK
+ABTEILUNG FÜR DIDAKTIK DER PHYSIK
+UNIVERSITÄT KARLSRUHE
+AUFLAGE 1997
+
+Hergestellt mit RagTime
+Druck: Universitätsdruckerei Karlsruhe
+Vertrieb: Studentendienst der Universität Karlsruhe
+März 1997
+Alle Rechte vorbehalten
+
+Inhaltsverzeichnis
+1. Mengenartige Größen
+
+7
+
+2. Impuls und Impulskapazität
+
+9
+
+2.1
+2.2
+
+Definition des Impulses
+Die Impulskapazität
+
+9
+10
+
+3. Die Kraft
+
+11
+
+3.1
+3.2
+3.3
+3.4
+3.5
+
+11
+12
+13
+14
+15
+
+Impulsströme
+Die Stromrichtung
+Die Impulsstromstärke
+Geschlossene Impulsstromkreise
+Die Kontinuitätsgleichung
+
+4. Impuls und Kraft als Vektoren
+
+17
+
+4.1
+4.2
+4.3
+4.4
+4.5
+4.6
+
+17
+17
+18
+19
+20
+22
+
+Der Impuls als Vektor
+Die Kraft als Vektor
+Die Newtonschen Gesetze
+Die Gravitationskraft
+Impulsbilanz bei Drehbewegungen
+Verzweigte Impulsstromkreise
+
+5. Impulsstrom und Energiestrom
+5.1
+5.2
+5.3
+
+Der Zusammenhang zwischen Energiestromstärke, Impulsstromstärke und
+Geschwindigkeit
+Die Analogie zur Elekrizitätslehre
+Verallgemeinerung auf drei Dimensionen
+
+24
+
+24
+26
+27
+
+6. Energiespeicher
+
+28
+
+6.1
+6.2
+6.3
+6.4
+
+28
+29
+29
+30
+
+Der bewegte Körper als Energiespeicher - die kinetische Energie
+Die Feder als Energiespeicher
+Das elektrische Feld als Energiespeicher
+Das Gravitationsfeld als Energiespeicher
+
+7. Stoßprozesse
+
+31
+
+8. Dissipative Impulsströme: Reibung und Viskosität
+
+33
+
+4
+9. Die Analogie zwischen Mechanik und Elektrodynamik - der Dualismus
+innerhalb von Mechanik und Elektrodynamik
+
+35
+
+9.1
+9.2
+9.3
+9.4
+
+35
+36
+37
+39
+
+Die Analogie
+Der Dualismus
+Beispiel
+Mechanische Materialkonstanten
+
+10. Schwingungen
+
+41
+
+10.1
+10.2
+10.3
+10.4
+10.5
+10.6
+10.7
+10.8
+10.9
+10.10
+
+41
+41
+44
+46
+48
+50
+50
+53
+55
+55
+
+Kinematik und Dynamik
+Qualitative Diskussion einiger Beispiele von Schwingungen
+Das ungedämpfte Federpendel
+Das gedämpfte Federpendel
+Erzwungene Schwingungen
+Elektrische Analoga und duale Anordnungen
+Zwei gekoppelte Federpendel
+Erzwungene Schwingungen von zwei gekoppelten Pendeln
+Freiheitsgrade
+Zwölf gekoppelte Pendel
+
+11. Chaotische Vorgänge
+
+57
+
+12. Drehimpuls und Drehmoment
+
+60
+
+12.1
+12.2
+
+60
+
+Der Drehimpuls als mengenartige Größe
+Der Zusammenhang zwischen dem Drehimpuls eines Systems von
+Massenpunkten und den Impulsen der Massenpunkte
+12.3 Das Drehmoment und die Kontinuitätsgleichung
+12.4 Der Zusammenhang zwischen Drehmoment und Kräften
+12.5 Das Trägheitsmoment
+12.6 Die Zerlegung des Drehimpulses - Spin und Bahndrehimpuls
+12.7 Drehimpuls und Energie
+12.8 Der Steinersche Satz
+12.9. Die Analogie zwischen Elektrizitätslehre, Translationsmechanik und
+Rotationsmechanik
+12.10 Zweckmäßige Zerlegungen in Teilsysteme; die Gezeiten; die SpinBahn-Kopplung
+12.11 Drehmomentgleichgewichte
+
+61
+64
+65
+66
+69
+70
+72
+73
+74
+75
+
+13. Mechanische Spannung - Impulsstromdichte
+
+76
+
+14. Statische Felder
+
+77
+
+14.1
+14.2
+14.3.
+14.4.
+14.5
+
+77
+78
+78
+80
+81
+
+Physikalische und mathematische Felder
+Die physikalische Größe Feldstärke
+Das Newtonsche Gravitationsgesetz - das Coulombsche Gesetz
+Feldlinienbilder - die Divergenzfreiheit von Feldern
+Die Überlagerung von Feldstärkeverteilungen
+
+5
+14.6
+14.7
+14.8
+14.9
+14.10
+14.11
+14.12
+14.13
+14.14
+
+Massen und Ladungen als Quellen von (mathematischen) Feldern
+Beispiele von Feldstärkeverteilungen
+Mechanische Spannungen in statischen Feldern
+Die Energieverteilung im statischen elektrischen und im statischen
+Gravitationsfeld
+Das Gravitationspotential
+Das Zweikörperproblem
+Die Planetenbewegung
+Schwerelosigkeit
+Gezeitenkräfte
+
+15. Relativistische Dynamik
+15.1
+15.2
+15.3
+15.4
+15.5
+15.6.
+15.7
+
+82
+83
+85
+88
+89
+90
+92
+94
+95
+97
+
+Vorbemerkungen
+Die Äquivalenz von Masse und Energie
+Die Beziehung P = vF
+Der E-p-Zusammenhang
+Der E-v-Zusammenhang
+Der v-p-Zusammenhang
+Beispiele
+
+97
+97
+98
+98
+100
+101
+101
+
+16. Bezugssysteme - relativistische Kinematik
+
+106
+
+16.1
+16.2
+16.3
+16.4
+
+106
+107
+107
+108
+
+Bezugssysteme
+Die Konstanz der Lichtgeschwindigkeit
+Relativistische Transformationsgleichungen
+Konsequenzen der Transformationsgleichungen
+
+1. Mengenartige Größen
+Es gibt eine Klasse physikalischer Größen mit denen der Umgang besonders leicht ist: die mengenartigen Größen. Zu ihnen gehören:
+- die Masse m
+- die Energie E
+- die elektrische Ladung Q
+- der Impuls p
+- die Entropie S
+- die Stoffmenge n
+und andere.
+Man darf sich jede dieser Größen wie eine Art Substanz vorstellen, und man darf über sie sprechen, wie man über eine Substanz spricht. Der physikalische Grund hierfür ist, daß es zu jeder solchen Größe eine Dichte (Massendichte, Energiedichte, Ladungsdichte . . . ) und einen Strom
+(Massenstrom, Energiestrom, elektrischer Strom . . . ) gibt.
+Aus dieser Tatsache folgen weitere Eigenschaften der mengenartigen Größen: Sie verhalten sich
+bei Systemzusammensetzung additiv, Abb. 1.1. Hat die Größe x in System S1 den Wert x1 und in
+System S2 den Wert x2 , so hat sie in dem zusammengesetzten System S den Wert x1 + x2. Für
+nichtmengenartige Größen, z. B. die Temperatur, gilt diese Regel nicht.
+Die Frage nach der Erhaltung ist nur für mengenartige Größen eine sinnvolle Frage. So sind Energie und elektrische Ladung Erhaltungsgrößen, Entropie und Stoffmenge dagegen sind es nicht,
+denn man kann Entropie erzeugen und Stoffmenge sowohl erzeugen als auch vernichten. Die
+Frage nach der Erhaltung nichtmengenartiger Größen dagegen ist sinnlos, etwa die Frage: "Ist der
+Druck eine Erhaltungsgröße?"
+Die Stärken einiger Ströme haben aus historischen Gründen eigene Namen: Die Energiestromstärke nennt man auch Leistung, und die Impulsstromstärke nennt man fast ausschließlich Kraft.
+In Tabelle 1.1 sind die wichtigsten mengenartigen Größen zusammen mit den entsprechenden
+Stromstärken zusammengestellt.
+
+Abb. 1.1. Zur Additivität mengenartiger Größen
+
+8
+Tabelle 1.1. Einige mengenartige Größen und ihre Stromstärken
+Mengenartige Größe
+
+Stromstärke
+
+Name
+
+Symbol (Maßeinheit)
+
+Name
+
+Symbol (Maßeinheit)
+
+Masse
+Energie
+elektrische Ladung
+Impuls
+Entropie
+Stoffmenge
+
+m (kg)
+E (Joule, J)
+Q (Coulomb, C)
+p (Huygens, Hy)
+S (Carnot, Ct)
+n (mol)
+
+Massenstromstärke
+Leistung
+elektrische Stromstärke
+Kraft
+Entropiestromstärke
+Stoffmengenstromstärke
+
+- (kg/s)
+P (Watt, W = J/s)
+I (Ampere, A = C/s)
+F (Newton, N = Hy/s)
+- (Ct/s)
+- (mol/s)
+
+Zwischen einigen Bereichen der Physik existieren Analogien: Aus einer Beziehung, die in einem
+Gebiet der Physik gilt, erhält man durch rein formales Übersetzen eine Beziehung, die in einem
+anderen gilt. Bei diesen Analogien entsprechen sich mengenartige Größen. Wir werden in diesem Skriptum oft die Analogie zwischen Mechanik und Elektrizitätslehre ansprechen. Bei ihr
+entsprechen sich Impuls und elektrische Ladung, sowie Kraft (= Impulsstromstärke) und elektrische Stromstärke.
+
+2. Impuls und Impulskapazität
+2.1 Definition des Impulses
+Ein rollender Wagen hat Schwung. Je schneller er rollt, und je schwerer er ist, desto mehr
+Schwung hat er. Die Bedeutung von dem, was man umgangssprachlich Schwung nennt, deckt
+sich sehr gut mit der Bedeutung der mengenartigen physikalischen Größe Impuls.
+Huygens nannte den Impuls "quantitas motus", sinngemäß übersetzt "Bewegungsmenge". Ein
+sich bewegender Körper enthält eine bestimmte Menge Impuls, genauso wie ein elektrisch geladener Körper eine bestimmte Menge Elektrizität enthält.
+Wir beschränken uns zunächst auf die Betrachtung eindimensionaler, geradliniger Bewegungen
+in x-Richtung, und wir legen fest:
+Bewegt sich ein Körper in die positive x-Richtung, so ist sein Impuls positiv. Bewegt sich der
+Körper in die negative x-Richtung, so ist sein Impuls negativ. Ruht der Körper, so ist sein Impuls
+Null.
+Wir legen als nächstes die Impulseinheit fest:
+Ein Körper der Masse 1 kg, der sich mit einer Geschwindigkeit von 1 m/s in die positive x-Richtung bewegt, hat einen Impuls von einem Huygens: p = 1 Hy.
+Wir überzeugen uns später davon, daß man zur Festlegung der Impulseinheit keine weiteren Angaben über den Einheitskörper zu machen braucht. Man braucht z. B. nichts über seine geometrische Gestalt und über seine chemische Zusammensetzung zu sagen.
+Abb. 2.1 zeigt, wie man den Impuls eines Körpers K messen kann. Man läßt Einheitskörper E,
+d. h. Körper, von denen jeder eine (negative) Impulseinheit trägt, mit K so zusammenstoßen, daß
+sie nach dem Stoß mit K verbunden bleiben ("inelastischer Stoß"). Dabei geht von K auf E Impuls
+über. Man läßt nun so lange Einheitskörper gegen K stoßen, bis K und alle bereits an ihm hängenden Einheitskörper zum Stillstand gekommen sind. Wenn dazu z Einheitskörper erforderlich
+sind, weiß man, daß K am Anfang z Impulseinheiten hatte.
+
+Abb. 2.1. Zur Messung des Impulses. K = Körper, dessen Impuls gemessen werden soll. E = Körper mit einer Impulseinheit
+
+10
+Dieses Meßverfahren setzt voraus, daß beim Zusammenstoß kein Impuls verloren geht, und kein
+neuer Impuls erzeugt wird. Daß das der Fall ist, kann man in weiteren Experimenten leicht nachweisen.
+
+2.2 Die Impulskapazität
+Wir untersuchen nun, wovon der Impuls eines Körpers abhängt und stellen fest:
+Der Impuls eines Körpers hängt ab
+- von der Geschwindigkeit des Körpers;
+- von der Masse des Körpers.
+Er hängt nicht ab z. B.
+- von der chemischen Zusammensetzung des Körpers;
+- von der geometrischen Gestalt des Körpers.
+Die quantitative Untersuchung zeigt, daß für nicht zu große Geschwindigkeiten (|v| « c ) gilt:
+p ~ mv
+Die Maßeinheit Huygens des Impulses ist nun gerade so eingerichtet, daß aus der Proportionalitätsbeziehung eine Gleichung wird:
+p = mv
+
+(2.1)
+
+Selbstverständlich gilt diese Beziehung nur für die Klasse von Systemen, für die sie experimentell verifiziert wurde: für Körper nicht zu hoher Geschwindigkeit. Für andere Systeme, z. B. elektromagnetische Felder, gelten andere Beziehungen.
+Man kann Gleichung (2.1) auch folgendermaßen lesen: Bei gegebener Geschwindigkeit enthält
+ein Körper um so mehr Impuls, je größer seine Masse ist. Die Masse stellt damit ein Maß für die
+Impulskapazität eines Körpers dar.
+In Tabelle 2.1 sind einige typische Impulswerte angegeben.
+Die zu Gleichung (2.1) analoge Beziehung der Elektrizitätslehre ist
+Q = CU.
+Sie sagt, daß die Platten eines Kondensators bei gegebener Spannung um so mehr elektrische Ladung Q tragen, je größer die Kapazität C des Kondensators ist.
+Man stellt experimentell fest, daß Impuls weder erzeugt noch vernichtet werden kann:
+Der Impuls ist eine Erhaltungsgröße.
+Tabelle 2.1. Einige typische Impulswerte
+Fliegender Tennisball
+fliegender Fußball
+Fußgänger
+fahrender Personenwagen
+Erde (auf ihrer Bahn um die Sonne)
+
+2 Hy
+12 Hy
+100 Hy
+40 000 Hy
+1.8. 1028 Hy
+
+3. Die Kraft
+3.1 Impulsströme
+Wenn elektrische Ladung von einer Stelle A nach einer Stelle B übertragen wird, sagt man, es fließe ein elektrischer Strom von A nach B. Genauso kann man, wenn Impuls von einem Körper A
+auf einen Körper B übertragen wird, sagen, es fließe ein Impulsstrom von A nach B, Abb. 3.1 und
+Abb. 3.2.
+
+Abb. 3.1. Von A nach B fließt ein Impulsstrom. Der Impuls
+von Körper A verteilt sich auf beide Körper.
+
+Abb. 3.2. Von A nach B fließt ein Impulsstrom. Der ganze
+Impuls von A geht auf B über.
+
+Läßt man den Impuls eines Körpers in die Erde abfließen, so verteilt er sich in der Erde; er "verdünnt" sich dabei so stark, daß man ihn nicht mehr nachweisen kann, Abb. 3.3. Die analoge elektrische Situation zeigt Abb. 3.4.
+
+Abb. 3.3. Der Impuls fließt vom Auto in die Erde und verdünnt sich dort so stark, daß man ihn nicht mehr nachweisen
+kann.
+
+Abb. 3.4. Die elektrische Ladung fließt von der Kugel in die
+Erde und verdünnt sich dort so stark, daß man sie nicht mehr
+nachweisen kann.
+
+Impuls fließt, wenn eine Verbindung existiert, von selbst in die Erde. Um einen Impulsstrom gegen seine natürliche Flußrichtung fließen zu lassen, braucht man eine "Impulspumpe". In
+Abb. 3.5 wirkt die Person als Impulspumpe. Abb. 3.6 zeigt die analoge elektrische Situation.
+Ob ein Gegenstand oder ein anderes Gebilde den Impuls gut oder schlecht leitet, läßt sich leicht
+feststellen, Abb. 3.7. Man findet:
+
+12
+
+Abb. 3.5. Der Impuls des Wagens nimmt zu. Die Person
+"pumpt" ihn aus der Erde über das Seil in den Wagen.
+
+Abb. 3.6.Die elektrische Ladung der Kugel nimmt zu. Das
+Netzgerät "pumpt" sie aus der Erde über das Kabel auf die
+Kugel.
+
+- Feste Gegenstände leiten Impulsströme;
+- Gase leiten Impulsströme schlecht;
+- Seile leiten Impulsströme nur in eine Richtung;
+- Räder werden oft zur Impulsisolation verwendet.
+Reiben zwei Gegenstände aneinander, so fließt zwischen ihnen ein Impulsstrom. Je geringer die
+Reibung, desto besser ist die Impulsisolation.
+Auch nichtmaterielle physikalische Systeme, die sogenannten Felder, leiten den Impuls. Abb.
+3.8 zeigt, wie Impuls durch ein Magnetfeld fließt.
+
+Abb. 3.7. Der Wagen wird über die Stange mit Impuls geladen. Die Stange leitet den Impuls.
+
+Abb. 3.8. Der Wagen bekommt seinen Impuls über das Magnetfeld, das sich zwischen den beiden Magneten befindet.
+
+3.2 Die Stromrichtung
+Steht ein Gegenstand (oder anderes Gebilde) unter Zugspannung, so fließt in ihm ein Impulsstrom in die negative x-Richtung, Abb. 3.9. Steht ein Gegenstand unter Druckspannung, so fließt
+in ihm ein Impulsstrom in die positive x-Richtung, Abb. 3.10. Diesen Sätzen liegt eine Konvention zu Grunde: Zählte man den Impuls eines Körpers positiv, wenn sich der Körper in die negative x-Richtung bewegt, so kehrten sich auch die Stromrichtungen um. (Auch in der Elektrizitätslehre hat man eine willkürliche Vorzeichenfestlegung getroffen: Elektronen bzw. geriebene Siegellackstäbe werden als negativ geladen definiert.)
+
+13
+
+Abb. 3.9. Der Impuls fließt in die negative x-Richtung.
+
+Abb. 3.10. Der Impuls fließt in die positive x-Richtung.
+
+3.3 Die Impulsstromstärke
+Ein Gegenstand, durch den ein Impulsstrom
+fließt, wird verformt. Nimmt der Gegenstand,
+nachdem der Impulsstrom aufgehört hat zu fließen, seine alte Form wieder an, so nennt man
+ihn elastisch. Elastische Körper können zur
+Messung der Impulsstromstärke benutzt werden. Solche Stromstärkemeßgeräte nennt man
+Kraftmesser. Man geht mit ihnen um, wie mit
+anderen Stromstärkemeßgeräten auch, z. B.
+wie mit Amperemetern, Abb. 3.11:
+- Man trennt die Leitung, in der der zu messende
+Strom fließt durch;
+
+Abb. 3.11. Zur Messung der Impulsstromstärke
+
+- man verbindet die beiden neu entstandenen Enden mit den beiden Anschlüssen des Stromstärkemeßgeräts.
+Die Maßeinheit der Impulsstromstärke ist das Newton (N). Es gilt
+1N=1
+
+Hy
+s
+
+Der in der Physik übliche Name der Impulsstromstärke ist Kraft. Der sprachliche Umgang mit
+dem Wort Kraft ist allerdings etwas anders als der mit dem Wort Stromstärke. In Tabelle 3.1 sind
+einige Übersetzungsregeln aufgelistet.
+Tabelle 3.1. Zum sprachlichen Umgang mit den Wörtern "Kraft" und "Impulsstrom"
+Impulsstrom
+
+Kraft
+
+In den Körper fließt ein Impulsstrom hinein.
+
+Auf den Körper wirkt eine Kraft.
+
+Von Körper A nach Körper B fließt ein Impulsstrom.
+
+Körper A übt auf Körper B eine Kraft aus.
+
+Durch das Seil fließt ein Impulsstrom.
+
+In dem Seil wirkt eine Kraft.
+
+14
+
+3.4 Geschlossene Impulsstromkreise
+In den Abbildungen 3.12 a bis c ist die Impulsänderung des Körpers K 10 Hy/s, denn es fließt ein
+Impulsstrom von 10 N in den jeweiligen Körper. Wegen der großen Masse des Körpers in Abb.
+3.12 c ändert sich aber dessen Geschwindigkeit kaum noch. Trotzdem fließt durch den Kraftmesser ein Impulsstrom derselben Stärke wie durch den Kraftmesser in Abb. 3.12 a. Man sieht daran,
+daß das Fließen eines Impulsstroms nichts mit der Bewegung des Impulsleiters zu tun hat.
+
+Abb. 3.12. Das Fließen eines Impulsstroms hat nichts mit der Bewegung des Impulsleiters zu tun.
+
+In Abb. 3.12 d schließlich fließt immer noch ein Impulsstrom von 10 N. Diesmal ändert sich aber
+der Impuls keines Körpers. Der Impuls fließt hier in einem geschlossenen "Stromkreis". Dieselbe
+Situation liegt vor bei der Anordnung von Abb. 3.13: Die obere Feder steht unter Zugspannung,
+d. h. der Impulsstrom fließt von rechts nach links, die untere steht unter Druckspannung, d. h. der
+Impulsstrom fließt von links nach rechts.
+Anordnungen, in denen Impulsströme fließen,
+ohne daß sich etwas bewegt, nennt man statische Anordnungen.
+Der Impulsstromkreis von Abb. 3.13 bringt
+eine triviale Erfahrung zum Ausdruck: Wenn
+an irgendeiner Stelle in einer statischen Anordnung eine Druckspannung herrscht, so muß es
+eine andere Stelle geben, die unter Zugspannung steht.
+Abb. 3.13. Geschlossener Impulsstromkreis
+
+Es mag aus zwei Gründen merkwürdig erscheinen, im Zusammenhang mit statischen Anordnungen von Strömen zu sprechen:
+
+15
+1. Kann es sein, daß ein Strom ständig fließt, - ohne Antrieb, ohne Energiequelle? Offenbar ja.
+Schließlich gibt es auch elektrische "reibungsfreie" Ströme, die Supraströme.
+2. Die Anordnung von Abb. 3.13 ist völlig symmetrisch. Wie kommt aber der Strom dazu, eine
+Richtung auszuzeichnen? Die Antwort lautet: Die Richtung hat nicht der Strom ausgezeichnet,
+sondern wir, indem wir festgelegt haben, daß nach rechts bewegte Körper positiven Impuls haben. Es liegt also einfach daran, daß unser Koordinatensystem unsymmetrisch ist.
+
+3.5 Die Kontinuitätsgleichung
+Da der Impuls eine Erhaltungsgröße ist, kann
+sich sein Wert innerhalb eines Raumbereichs
+nur dadurch ändern, daß ein Impulsstrom in den
+Bereich hinein- oder aus ihm herausfließt. Das
+Hinein- und Herausfließen kann aber auf zweierlei Art geschehen: Entweder, wie in Abb.
+3.14 a, durch Zug oder Druck, oder, wie in Abb.
+3.14 b, dadurch, daß sich Impuls "konvektiv" in
+den Bereich hinein oder aus ihm herausbewegt.
+Die gesamte Impulsstromstärke Ip setzt sich also aus zwei Summanden zusammen. Nur den Abb. 3.14. Zwei Typen von Impulsströmen
+ersten, den Druck- bzw. Zugterm, nennt man
+Kraft. Den zweiten, konvektiven Strom wollen wir mit Fkonv bezeichnen. Es ist also
+Ip = F + Fkonv
+
+(3.1)
+
+Der konvektive Impulsstrom Fkonv , etwa in einem Wasserstrahl, läßt sich durch die Massenstromstärke Im und die Strahlgeschwindigkeit vS ausdrücken. Für die Impulsänderung dp in
+dem gestrichelt markierten Raumbereich in Abb. 3.14 b gilt nämlich
+dp = vS dm.
+Also ist
+dp konv
+= F konv = v Sdm = v SI m
+dt
+dt
+Die Gesamtstromstärke ist damit:
+Ip = F + vS Im,
+
+(3.2)
+
+und für die Impulsänderung im Raumbereich können wir schreiben
+dp
+= Ip
+dt
+
+(3.3)
+
+Gleichung (3.3) ist die Kontinuitätsgleichung für den Impuls. Man beachte, daß diese Beziehung
+keine Definition der Größe Ip darstellt. Sie bringt vielmehr eine Erfahrung zum Ausdruck: die
+Erfahrung, daß der Impuls eine Erhaltungsgröße ist. Die Größen auf der linken und der rechten
+Seite sind nämlich unabhängig voneinander meßbar.
+
+16
+Die zu (3.3) analoge elektrische Beziehung lautet
+dQ
+=I
+dt
+und die Kontinuitätsgleichung für die Masse
+dm = I
+m
+dt
+
+4. Impuls und Kraft als Vektoren
+4.1 Der Impuls als Vektor
+Wir lassen jetzt die Einschränkung fallen, daß sich Körper nur in die positive oder negative xRichtung bewegen dürfen. Um den Wert des Impulses eines Körpers beliebiger Bewegungsrichtung festzulegen, muß man den Betrag des Impulses und die Bewegungsrichtung, die "Richtung
+des Impulses", angeben. Der Impuls ist also ein Vektor. Da der Impuls mengenartig ist, muß eine
+Addition erklärt werden: Der Impuls wird nach der gewöhnlichen Vektoradditionsregel (Parallelogrammregel) addiert.
+Die Impulse der räumlich getrennten Systeme A und B seien pA und pB. Dann ist der Impuls des
+aus A und B zusammengesetzten Systems
+p = pA + pB.
+(Die Geschwindigkeit ist nicht mengenartig. Die Addition von Geschwindigkeiten hat eine andere physikalische Bedeutung: Sie entspricht stets einem Wechsel des Bezugssystems. Die Addition von Geschwindigkeiten geschieht nur im Grenzfall kleiner Geschwindigkeiten |v | « c nach
+den Regeln der Vektoraddition.)
+Oft ist es zweckmäßig, den Impuls eines Körpers in die x-, y- und z-Komponente zu zerlegen:
+p = px ex + py ey + pz ez
+Impuls, der in die x-Richtung weist, nennen wir kurz x-Impuls. Entsprechend gibt es y- und zImpuls.
+
+4.2 Die Kraft als Vektor
+Die elektrische Ladung ist ein Skalar. Folglich ist auch die elektrische Stromstärke ein Skalar.
+Der Impuls ist ein Vektor. Folglich muß auch die Kraft, d. h. die Impulsstromstärke, ein Vektor
+sein.
+Um eine Impulsstromstärke (oder Kraft) anzugeben, genügt es nicht zu sagen, in dem entsprechenden Leiter fließen z. B. 10 Hy/s, man muß auch noch sagen, was für Impuls fließt: x-Impuls,
+y-Impuls, z-Impuls oder irgendeine Kombination aus diesen drei Impulssorten. Man muß daher
+auch die Stromstärke des Impulses durch einen Vektor beschreiben.
+
+Abb. 4.1. (a) x-Impuls fließt von rechts nach links. (b) x-Impuls fließt von links nach rechts. (c) x-Impuls fließt von unten
+nach oben.
+
+18
+
+Abb. 4.2. (a) y -Impuls fließt von rechts nach links. (b) y - Impuls fließt von rechts durch die Schleife nach links.
+
+Der Betrag dieses Vektors gibt den Betrag des pro Zeit an einer gegebenen Stelle vorbeifließenden Impulses an. Seine Richtung gibt die Richtung des Impulses an, der in der Leitung fließt.
+Achtung: Die Impulsstromstärkerichtung (= Kraftrichtung) stimmt im Allgemeinen nicht mit der
+Richtung der Leitung, durch die der Impuls fließt (z. B. eine Stange), überein.
+Abb. 4.1 zeigt drei Beispiele dafür, daß x-Impuls in einen Körper hineinfließt. Man sagt in allen
+drei Fällen, auf den Körper wirke eine Kraft in x-Richtung. Man beachte, daß die Flußrichtung
+des x-Impulses in jedem Teilbild anders ist. In Abb. 4.1 a kommt der x-Impuls von rechts in den
+Körper hinein, in Abb. 4.1 b von links und in Abb. 4.1 c von unten.
+Abb. 4.2 zeigt einen Körper, der mit y-Impuls geladen wird. Man sagt, auf den Körper wirke eine
+Kraft in y-Richtung. In Abb. 4.2 a kommt der Impuls von rechts; in Abb. 4.2 b auch, allerdings
+muß er noch durch die Schleife hindurchfließen.
+
+4.3 Die Newtonschen Gesetze
+Wir können jetzt auch die Kontinuitätsgleichung in vektorieller Form schreiben:
+d p
+= Ip
+dt
+
+mi t I p = F + F ko nv
+
+(4.1)
+
+Schließt man konvektive Impulsströme aus, so bleibt
+d p
+=F
+dt
+
+(4.2)
+
+Wir formulieren die drei Newtonschen Gesetze.
+1. Newtonsches Gesetz
+Ein kräftefreier Körper bewegt sich geradlinig gleichförmig.
+(Der Impuls eines Körpers, in den kein Impulsstrom hineinfließt, ändert sich nicht.)
+2. Newtonsches Gesetz
+Wenn eine Kraft F auf einen Körper mit der Masse m wirkt, ändert sich sein Impuls so, daß
+d (mv ) = F
+dt
+
+19
+(Wenn ein Impulsstrom F in einen Körper fließt, ändert sich dessen Impuls so, daß
+d p
+=F
+dt
+ist.)
+3. Newtonsches Gesetz
+Wenn die Kraft F, die auf einen Körper A wirkt, ihren Ursprung in einem anderen Körper B hat,
+so wirkt auf B die entgegengesetzte gleiche Kraft -F.
+(Wenn ein Impulsstrom der Stärke F, der in einen Körper A hineinfließt, seinen Ursprung in einem anderen Körper B hat, so fließt aus B ein Impulsstrom derselben Stärke F heraus.)
+Man sieht, daß alle drei Gesetze die Impulserhaltung ausdrücken.
+
+4.4 Die Gravitationskraft
+Die z-Achse stehe senkrecht zur Erdoberfläche, und die positive Seite weise nach unten.
+Für einen fallenden Körper nehmen Impuls und Geschwindigkeit zu. Es fließt z-Impuls in den
+Körper hinein. Dieser Impuls kommt über das Gravitationsfeld aus der Erde. Ist Luftreibung vorhanden, so fließt außerdem Impuls aus dem Körper heraus in die Luft.
+Die Stärke des Impulsstroms von der Erde zum Körper ist, solange der Körper nicht zu weit von
+der Erdoberfläche entfernt ist, nur von der Masse m des Körpers abhängig:
+F=mg
+F ist die Gravitationskraft oder Gewichtskraft. Der Betrag des Vektors g ist ortsabhängig. In
+Mitteleuropa ist sein Wert in der Nähe der Erdoberfläche 9,81 N/kg, am Nord- und am Südpol
+9,83 N/kg und am Äquator 9,78 N/kg. Man nennt |g| daher auch den Ortsfaktor. Wir lernen später eine allgemeinere Bedeutung von g kennen.
+Hindert man den Körper am Fallen, indem man ihn aufstellt oder aufhängt, Abb. 4.3, so erhält
+man einen geschlossenen Impulsstromkreis: Der Impuls fließt aus der Erde über das Gravitationsfeld in den Körper und von dort über die Aufhängung zurück zur Erde.
+Traditionell unterscheidet man, allein um den Zustand des Körpers in Abb. 4.3 zu beschreiben,
+zwischen vier verschiedenen Kräften. Obwohl alle vier vom selben Betrag sind, muß man sie be-
+
+Abb. 4.3. Geschlossener Impulsstromkreis
+
+20
+grifflich sauber voneinander unterscheiden:
+1. Die Kraft FSK, die das Seil auf den Körper ausübt;
+2. die Kraft FKS, die der Körper auf das Seil ausübt;
+3. die Kraft FEK, die die Erde auf den Körper ausübt;
+4. die Kraft FKE, die der Körper auf die Erde ausübt.
+Zwischen diesen Kräften gelten die folgenden Beziehungen:
+FSK = - FKS
+
+(4.3a)
+
+FEK = - FKE
+
+(4.3b)
+
+FSK = - FKE
+
+(4.3c)
+
+Die Gleichungen (4.3a) und (4.3b) sind Ausdruck des 3. Newtonschen Gesetzes. Gleichung
+(4.3c) besagt, daß die Summe der Kräfte, die auf den Körper wirken, gleich Null ist. Diese Summe
+muß gleich Null sein, denn der Impuls des Körpers ändert sich nicht.
+Betrachtet man die Anordnung im Impulsstrombild, so erkennt man, daß die vier Kräfte nichts
+anderes darstellen, als die Stromstärke desselben Impulsstroms an vier verschiedenen Stellen:
+beim Verlassen des Seils, beim Eintritt in den Körper, beim Verlassen des Körpers und bei Eintritt in die Erde.
+
+4.5 Impulsbilanz bei Drehbewegungen
+Die Zentrifugalkraft
+Ein Körper der Masse m soll sich reibungsfrei
+mit konstanter Winkelgeschwindigkeit
+
+ω =dα
+dt
+auf einer Kreisbahn bewegen. (dα = Winkel
+im Bogenmaß. dα ist ein Vektor. Weisen die
+gekrümmten Finger der rechten Hand in die
+Drehrichtung, so gibt der Daumen die Richtung
+des dα -Vektors an. Es folgt, daß auch die Winkelgeschwindigkeit ein Vektor ist, Abb. 4.4.)
+
+Abb. 4.4. Zur Definition des Winkelgeschwindigkeitsvektors
+
+Damit sich der Körper auf einer Kresibahn bewegt, muß sich sein Impuls ständig ändern,
+Abb. 4.5. Es muß ständig eine Kraft auf ihn wirken. Diese Kraft heißt Zentripetalkraft. Die Impulsänderung im Zeitintervall dt ist
+dp = p2 - p1 = dα × p
+Mit ω = dα /dt folgt
+d p
+=ω ×p
+dt
+
+Abb. 4.5. Zur Berechnung der Impulsänderung eines Körpers, der eine Kreisbewegung ausführt
+
+21
+und mit p = mv und v = ω × r :
+d p
+= m [ω × (ω × r )]
+dt
+Mit F = dp/dt ergibt sich
+F = m [ω × (ω × r)]
+Diese Kraft kann man selbstverständlich messen. Handelt es sich z. B. um einen Körper, der mit
+einer Schnur herumgeschleudert wird, so braucht man nur in die Schnur einen Kraftmesser einzubauen. Damit haben wir die Impulsbilanz für den Körper erstellt.
+Schwieriger wird es, wenn wir uns auf den Körper draufsetzen und die Bilanz in diesem neuen
+Bezugssystem machen. Am Kraftmesser sehen wir, daß nach wir vor ein Impulsstrom in den Körper hineinfließt. Allerdings ist nichts von einer Impulsänderung zu merken; in unserem neuen
+Bezugssystem ruht ja der Körper. Wir schließen daher, daß der Impuls durch einen unsichtbaren
+Leiter wieder abfließt. Es fließt also ein Strom der Stärke
+FZ = - m [ω × (ω × r)]
+durch den leeren Raum weg. Wir sagen: Auf den Körper wirkt eine Kraft, die der Zentripetalkraft
+das Gleichgewicht hält, die Zentrifugalkraft.
+Tatsächlich fließt dieser Strom nicht durch den leeren Raum, sondern durch ein physikalisches
+Gebilde: das Gravitationsfeld.
+
+Die Corioliskraft
+Wir betrachten ein Fahrzeug der Masse m, das sich auf einer mit der Winkelgeschwindigkeit ω
+rotierenden Scheibe bewegt, Abb. 4.6. Die Geschwindigkeit vR des Fahrzeugs relativ zur Scheibe sei konstant, ebenso die Winkelgeschwindigkeit ω. Es ist in diesem Fall möglich, die Impulsänderung des Fahrzeugs allein durch die Größen m, vR und ω auszudrücken. Es ist nämlich
+d p
+= m {[ω × (ω × r )] + 2(ω × v R )}
+dt
+
+(4.4)
+
+Der erste Summand auf der rechten Seite ist gleich der Zentripetalkraft. Hinzu kommt noch ein
+Beitrag zur Impulsänderung, der senkrecht zur Geschwindigkeit vR steht. Um uns eine Anschau-
+
+Abb. 4.6. Neben der Zentrifugalkraft wirkt auf das Fahrzeug
+eine weitere Kraft quer zur Richtung der Schienen.
+
+Abb. 4.7. Zerlegung der Impulsänderung im Zeitintervall dt
+in zwei Anteile. Der dritte Anteil ist hier Null.
+
+22
+ung von diesem zweiten Summanden zu bilden, betrachten wir einen Spezialfall: Das Fahrzeug
+bewege sich auf einer Schiene radial nach außen. Wir betrachten den Wagen, wenn er sich so nahe
+der Mitte der Scheibe befindet, daß wir den ersten Term auf der rechten Seite von (4.4) vernachlässigen können. (Der zwiete Term ist vom Radius unabhängig.) Man kann sich nun die Änderung des zweiten Terms aus zwei Anteilen zusammengesetzt denken, Abb. 4.7.
+Der erste Beitrag kommt daher, daß der Vektor des Impulses m vR mit der Winkelgeschwindigkeit ω gedreht wird. Er beträgt
+dp1 = m (dα × vR) = m (ω × vR) dt
+Der zweite Beitrag kommt daher, daß sich das Fahrzeug auf Grund der Radialbewegung nach Ablauf der Zeit dt auf einem anderen Kreisumfang befindet, d. h. an einer Stelle der Scheibe, die sich
+mit einer anderen Tangentialgeschwindigkeit bewegt:
+d p 2 = m ⋅ d (ω × r ) = m (ω × d r )dt = m (ω × v R)dt
+dt
+Die Summe der beiden Beiträge ergibt 2 m(ω × vR)} dt.
+Wenn sich nun der Wagen in größerem Abstand vom Zentrum bewegt, kommt noch der erste
+Term in (4.4)
+dp0 = m[ω × (ω × r)] dt
+hinzu, sodaß wir insgesamt erhalten
+dp = m {[ω × (ω × r)] + 2(ω × vR)} dt
+Auch die Kraft, die zu dem Term 2m (ω × vR) gehört, läßt sich messen. Sie würde sich bei einem
+Schienenfahrzeug durch einen Druck auf die Schienen quer zu deren Richtung äußern.
+Wieder machen wir die Impulsbilanz im rotierenden Bezugssystem. In ihm ist die Impulsänderung Null, obwohl die aus Gleichung (4.4) folgenden Kräfte auf den Körper wirken. Es muß also
+neben der Zentrifugalkraft
+FZ = - m [ω × (ω × r)]
+noch eine weitere Kraft
+FC = - 2m (ω × vR)
+auftreten, die dem zweiten Summanden auf der rechten Seite von Gleichung (4.4) das Gleichgewicht hält. Diese Kraft heißt Corioliskraft. Auch FC beschreibt einen Impulsstrom, der aus dem
+Körper ins Gravitationsfeld fließt, und auch dieser Strom tritt nur im rotierenden Bezugssystem
+auf.
+
+4.6 Verzweigte Impulsstromkreise
+Wir haben festgestellt, daß die Kraft ein Vektor ist. Welche physikalische Bedeutung hat die Vektoraddition von Kräften? In der Anordnung von Abb. 4.8 treffen sich drei Seile in einem Punkt, einem Knoten. Wir wenden auf den gestrichelt eingerahmten Bereich die Kontinuitätsgleichung
+(4.2) an:
+
+23
+d p
+=
+dt
+
+∑Fi
+
+i = 1, 2,3
+
+i
+
+Die Gesamtstromstärke F ist die Summe aus
+den drei Teilstromstärken F1, F2 und F3. Der
+Impuls in dem betrachteten Bereich ändert sich
+nicht, d. h. dp/dt = 0. Mit der Kontinuitätsgleichung folgt daraus:
+
+∑Fi
+i
+
+=0
+
+i = 1,2, 3
+Abb. 4.8. Die Summe der Kräfte, die auf den Knoten wirken,
+ist gleich Null.
+
+Die Summe der Kräfte, die auf den Knoten wirken, ist gleich Null. (Oder die Gesamtstromstärke der Ströme, die zum Knoten fließen, ist gleich
+Null.)
+Das elektrische Analogon dieser Regel ist die Kirchhoffsche Knotenregel.
+
+Abb.5.1. Der Impulsstromkreis ist über die Erde geschlossen.
+
+Abb.5.2. Der geschlossene Impulsstromkreis ist von der Erde
+isoliert.
+
+5. Impulsstrom und Energiestrom
+5.1 Der Zusammenhang zwischen Energiestromstärke, Impulsstromstärke und Geschwindigkeit
+Eine Kiste wird mit konstanter Geschwindigkeit über den Boden gezogen, Abb. 5.1. Das Seil
+steht unter Zugspannung, d. h. durch das Seil fließt ein Impulsstrom nach links. An der Tatsache,
+daß sich weder der Impuls der Kiste noch der der Person ändert, erkennt man, daß der Impuls
+durch die Erde zur Person zurückfließt: Wir haben einen geschlossenen Stromkreis vor uns.
+Man erkennt das Fließen des Impulsstroms noch besser, wenn man das Experiment so abändert
+wie es Abb. 5.2 zeigt. Durch die Räder ist der Impulsstromkreis gegen die Erde isoliert. Das Fließen des Impulsstroms erkennt man an den beiden Federn: Die obere Feder ist gedehnt, d. h. der
+Impulsstrom fließt in ihr nach links, die untere ist gestaucht, d. h. der Impulsstrom fließt in ihr
+nach rechts.
+Bei dem Vorgang muß sich die Person anstrengen, und die Unterseite der Kiste erwärmt sich.
+Daran erkennt man, daß Energie von der Person zur Kiste fließt. Sie kommt aus den Muskeln der
+Person und fließt durch das Seil und die Kiste zur Unterseite der Kiste. Die Energie fließt nur
+dann, wenn sich die Kiste bewegt und wenn das Seil unter Spannung steht. Das heißt, daß die
+Energiestromstärke P abhängt von der Geschwindigkeit v der Kiste und der Kraft F, die auf die
+Kiste wirkt ( d. h. der Stärke des Impulsstroms, der durch das Seil zur Kiste fließt). Wir wollen uns
+diesen Zusammenhang zwischen P, v und F beschaffen.
+Daß bei konstanter Geschwindigkeit P ~F ist, sieht man leicht, wenn man die Person statt einer,
+zwei Kisten nebeneinander ziehen läßt,
+Abb. 5.3. Wegen der Knotenregel (angewendet
+auf den Punkt P) gilt für den Energiestrom:
+P1 + P2 + P3 = 0
+und für den Impulsstrom
+F1 + F2 + F3 = 0.
+Mit P2 = P3 und F2 = F3 wird
+P1 = 2 |P2 |
+und
+F1 = 2 |F2 |.
+
+Abb.5.3. In Seil 1 ist sowohl die Impulsstromstärke als auch
+die Energiestromstärke doppelt so groß wie in Seil 2 oder in
+Seil 3.
+
+25
+
+Abb. 5.4. Das Produkt aus Kraft und Geschwindigkeit hat für Seil 1 denselben Wert wie für Seil 2.
+
+Bei konstanter Geschwindigkeit hat eine Verdopplung der Kraft eine Verdopplung der Energiestromstärke zur Folge.
+Daß bei konstanter Energiestromstärke F ~1/v ist, sieht man an Hand von Abb. 5.4. Aus geometrischen Gründen ist
+v1 = 2 v2 .
+Da durch Seil 3 keine Energie fließt, ist
+P1 = P2
+Durch Anwendung der Knotenregel auf die Rolle bekommt man
+F1 + F2 + F3 = 0,
+und wenn man die Symmetrie der Rolle berücksichtigt,
+F2 = 2 |F1|.
+Bei konstanter Energiestromstärke ist also die Kraft dem Kehrwert der Geschwindigkeit proportional.
+Aus
+P~F
+
+bei v = const
+
+und
+F ~ 1/v bei P = const
+folgt
+P ~ v . F.
+Die Maßeinheit der Energie ist nun gerade so
+eingerichtet, daß gilt
+P = v . F.
+Setzt man v in m/s und F in N ein, so erhält
+man P in Watt (W).
+Läßt man die ganze Anordnung sich mit der Geschwindigkeit v' bewegen, Abb. 5.5 (was auf
+dasselbe herauskommt, als ob man sie in einem
+anderen Bezugssystem beschreibt), so fließt
+nicht nur im Seil der Energiestrom
+
+Abb.5.5. Außer im Seil fließt noch ein Energiestrom in der
+Unterlage.
+
+26
+PS = ( v' + ∆v) F,
+wo ∆v die Geschwindigkeit der Kiste relativ zur Unterlage ist. Es fließt außerdem ein Energiestrom in der "Rückleitung", also in der Unterlage:
+PR = - v' F.
+Der Nettoenergiestrom von der Person zur Kiste hat also die Stärke
+P = PS + PR
+oder
+P = ∆v .F
+
+5.2 Die Analogie zur Elektrizitätslehre
+Der Impulsstromkreis von Abb. 5.2 ist analog
+zu einem einfachen elektrischen Stromkreis,
+Abb. 5.6. Die Batterie entspricht der Person,
+der Glühfaden der Lampe entspricht der Unterseite der Kiste. Die Energiestromstärke ist hier
+.
+P = ∆ϕ I.
+Wir sehen, daß das elektrische Potential ϕ die
+zur Geschwindigkeit analoge Größe ist.
+Die beiden Gleichungen
+.
+P = ∆v . F und P = ∆ϕ I
+
+Abb.5.6. Ein elektrischer Stromkreis, der zu dem Impulsstromkreis von Abb. 5.2 analog ist
+
+drücken eine allgemeingültige Regel aus:
+Jeder Energiestrom ist begleitet vom Strom einer weiteren mengenartigen Größe.
+Wir nennen die gleichzeitig mit der Energie fließende Größe den Energieträger. In dem Beispiel
+mit der bewegten Kiste ist der Impuls der Energieträger, in dem elektrischen Stromkreis ist es die
+elektrische Ladung.
+Abb. 5.7 zeigt noch zwei zueinander analoge technische Vorrichtungen: einen Flaschenzug und
+einen Transformator. Für beide ist, sofern sie keine Verluste haben, die Stärke des hineinfließenden Energiestroms gleich der des herausfließenden:
+P1 = P2 .
+Was sich ändert, ist in beiden Fällen die Stärke des Trägerstroms.
+
+Abb. 5.7. Flaschenzug und Transformator
+
+27
+5.3 Verallgemeinerung auf drei Dimensionen
+Die Gleichung P = ∆v .F ist nur für den Fall gültig, daß ∆v und F dieselbe Richtung haben. ∆v
+und F sind die Beträge dieser Vektoren. Die Beziehung läßt sich leicht verallgemeinern. Es ist
+nämlich
+P = ∆v .F
+Daß hier das Innenprodukt stehen muß, erkennt man an Hand von Abb. 5.8. Man zerlegt die Kraft
+F in eine zur Bewegung parallele und eine dazu senkrechte Komponente. Man sieht, daß mit der
+senkrechten Komponente kein Energiestrom verbunden ist. Der Energiestrom ist also derselbe
+als wäre nur die Projektion Ft von F vorhanden.
+
+Abb.5.8. Nur die Komponente Ft von F trägt zum Energiestrom bei.
+
+6. Energiespeicher
+Wir untersuchen in diesem Abschnitt mechanische Energiespeicher. Einen mechanischen Speicher kann man mit Hilfe eines Impulsstroms mit Energie laden, und man kann die Energie mit
+Hilfe des Impulsstroms zu einem späteren Zeitpunkt wieder herausholen. Es ist für mechanische
+Energiespeicherung charakteristisch, daß der Lade- und der Entladevorgang durch die Beziehung
+P = ∆v . F
+beschrieben werden.
+Es gibt viele verschiedene Systeme, für die das zutrifft. Beim Laden ändern - außer der Energie stets noch irgendwelche anderen Variablen des Systems ihren Wert. Am Wert dieser Variablen
+kann man den Energieinhalt ablesen. Wir werden für mehrere Beispiele den Zusammenhang zwischen dem Energieinhalt und solchen anderen Variablen berechnen.
+
+6.1 Der bewegte Körper als Energiespeicher - die kinetische Energie
+Ein Wagen wird beschleunigt, Abb. 6.1. Durch das Seil fließt ein Energiestrom der Stärke
+P = ∆v . F zum Wagen. Nicht nur die Energie, sondern auch der Impuls häuft sich im Wagen an.
+Mit
+P = dE
+dt
+und
+F =
+
+d p
+dt
+
+wird der Zusamenhang zwischen den zeitlichen Änderungen von E und p im Wagen:
+dE = v d p
+dt
+dt
+Wir verwenden p = m v und integrieren:
+E = m1
+
+∫ pd
+
+p
+
+p2
+E (p ) = E 0 + 2m
+Hier ist E0 die Energie des Wagens bei p = 0.
+Mit p = m v erhält man:
+m
+E (v ) = E 0 + 2 v
+
+2
+Abb.6.1. Ein Körper wird mit Impuls geladen. Dabei nimmt
+sein Energieinhalt zu.
+
+29
+Diese Beziehungen gelten natürlich nur so lange, wie p = m v ist, d. h. so lange |v | « c ist. Man
+nennt den Term p2/(2m) = m v2/2 die kinetische Energie des Körpers. Man beachte, daß das
+nicht bedeutet, es gebe Energien verschiedener Natur. Man kennzeichnet mit dem Adjektiv "kinetisch" lediglich das System, in dem die Energie gespeichert ist.
+
+6.2 Die Feder als Energiespeicher
+Eine Stahlfeder, Abb. 6.2, wird gedehnt. Durch das Seil fließt ein Energiestrom der Stärke
+P = v . F zur Feder. Während die Energie in der Feder deponiert wird, fließt der Impuls durch
+die Feder hindurch. Da für das linke Ende der Feder v = 0 ist, ist hier auch P = 0. Mit
+P = dE
+dt
+und
+v =dx
+dt
+erhält man
+dE = F d x
+dt
+dt
+Für Stahlfedern ist der Zusammenhang zwischen Kraft und Auslenkung linear, d. h. es gilt
+F = Dx
+(Hookesches Gesetz, D heißt Federkonstante).
+Damit wird:
+E = D ∫x d x
+E (x ) = E 0 + D x
+2
+
+2
+
+oder mit F = Dx
+2
+
+E (F ) = E 0 + F
+2D
+
+Abb.6.2. Eine Feder wird gedehnt. Dabei nimmt ihr Energieinhalt zu.
+
+6.3 Das elektrische Feld als Energiespeicher
+Die Platten eines Kondensators werden mit Q = const auseinandergezogen, Abb. 6.3. Durch das
+Seil fließt ein Energiestrom der Stärke P = v . F zum Kondensator. Die Energie wird im elektrischen Feld, das sich zwischen den Kondensatorplatten befindet, deponiert. Mit
+P = dE
+dt
+
+30
+v =dx
+dt
+und
+2
+
+Q
+F =
+2 ε0A
+(ε0 = elektrische Feldkonstante, A = Plattenfläche) erhält man durch Integration:
+Abb.6.3. Die Platten eines geladenen Kondensators werden
+auseinandergezogen. Dabei nimmt der Energieinhalt des Feldes zwischen den Platten zu.
+
+2
+
+E (Q ) =
+
+Q x
+2 ε0A
+
+Daraus ergibt sich mit C = ε0 A/x (C = Kapazität, x = Plattenabstand):
+2
+
+Q
+E (Q ) = E 0 +
+2C
+oder mit Q = CU
+
+2
+E (U ) = E 0 + C U
+2
+
+6.4 Das Gravitationsfeld als Energiespeicher
+Ein Körper wird nach oben gezogen, Abb. 6.4. Durch das Seil fließt ein Energiestrom der Stärke
+P = v . F zum Körper und weiter in das Gravitationsfeld von Körper und Erde. Mit
+P = dE
+dt
+v = dz
+dt
+und
+F = mg
+erhält man durch Integration:
+E(z) - E(z0) = mg(z - z0)
+Man nennt E(z) die potentielle Energie des
+Körpers. Man sagt, beim Heben des Körpers
+von z auf z0 nehme seine potentielle Energie
+um mg(z - z0) zu.
+
+Abb.6.4. Eine Last wird gehoben. Dabei wird Energie im
+Gravitationsfeld gespeichert.
+
+7. Stoßprozesse
+Unter einem Stoß versteht man einen Übergang von einem Anfangszustand a in einen Endzustand e, an dem mindestens zwei Körper oder Teilchen (z. B. auch Photonen) beteiligt sind. Beim
+Stoß werden Impuls und Energie neu auf die Stoßpartner verteilt. Es können dabei auch Reaktionen stattfinden, d. h. Teilchen erzeugt oder vernichtet werden. Im Anfangs- und im Endzustand
+sind die Teilchen vollständig entkoppelt: Es fließen weder Impuls- noch Energieströme zwischen ihnen. Nur während der Zeit des Übergangs findet Impuls- und Energieübertragung statt.
+Energie- und Impulssatz verlangen, daß
+
+∑E i ,a = ∑E j ,e
+i
+
+j
+
+und
+
+∑p i , a = ∑p j ,e
+i
+
+j
+
+ist. Der Massenschwerpunkt rS eines Schwarms von n Körpern ist definiert durch
+n
+
+r S ∑m i =
+i =1
+
+n
+
+∑r i m i
+
+i =1
+
+Die Ableitung dieser Gleichung nach der Zeit ergibt:
+n
+
+.
+r S ∑m i =
+i =1
+
+n
+
+.
+
+∑r i m i
+
+i =1
+
+Da der Gesamtimpuls des Teilchenschwarms (rechte Seite der Gleichung) beim Stoß konstant
+bleibt, ist auch die Schwerpunktsgeschwindigkeit
+.
+vS = rS
+vor und nach dem Stoß dieselbe:
+vS a = vS e
+Unter dem Schwerpunktsystem eines Schwarms von Körpern versteht man ein Bezugssystem, in
+dem der Schwerpunkt des Schwarms ruht.
+Die Energie eines Schwarms von n Körpern kann man schreiben
+E =
+
+n
+
+n
+
+i =1
+
+i =1
+
+∑E i ,0 + ∑E i , kin
+
+Ei,0 ist die innere, Ei,kin die kinetische Energie des i-ten Körpers. Die zweite Summe läßt sich
+noch einmal zerlegen:
+
+∑E i ,kin = E S kin + ∑E i , kin
+( S)
+
+i
+
+i
+
+wo
+1
+E S kin = 2 ( ∑m i )v
+i
+
+2
+S
+
+32
+die "kinetische Energie des Schwerpunkts" ist und
+Ei
+
+(S)
+,kin
+
+die kinetische Energie des i-ten Körpers im Schwerpunktsystem. Damit wird die Gesamtenergie:
+E = ∑E i ,0 + ∑E i
+i
+
+(S)
+,kin
+
++ E S kin
+
+i
+
+Betrachtet man den Schwarm als Ganzes, so erscheint die Summe
+
+∑E i ,kin
+(S)
+
+i
+
+als ein Anteil seiner inneren Energie. Wir fassen daher die beiden Summen zu E0, der inneren
+Energie des ganzen Schwarms zusammen:
+E = E0 + ES kin,
+mit
+E 0 = ∑E i ,0 + ∑E i
+i
+
+(S)
+,kin
+
+i
+
+und
+1
+E S kin = 2 ( ∑m i )v
+i
+
+2
+S
+
+Da die Schwerpunktsgeschwindigkeit vS beim Stoß konstant bleibt, folgt
+E0 a = E0 e
+und
+ES kin a = ES kin e
+Wir nennen Größen, die beim Stoß konstant bleiben, Stoßinvarianten. E, p, vS, E0 und ES kin a
+sind also Stoßinvarianten.
+Wenn außerdem noch
+
+∑E i ,kin
+(S)
+
+i
+
+Stoßinvariante ist, nennt man den Stoß elastisch, wenn nicht, heißt er inelastisch. Die
+nach einem inelastischen Stoß fehlende kinetische Energie kann entweder gespeichert, oder
+zur Wärmeproduktion verwendet werden. Im
+ersten Fall ist der Stoß reversibel, im zweiten
+nicht, Abb. 7.1.
+
+Abb. 7.1. Verschiedene Stoßtypen
+
+8. Dissipative Impulsströme: Reibung und Viskosität
+In den drei in Abb. 8.1 dargestellten Situationen fließt ein Impulsstrom von einem sich mit konstanter Geschwindigkeit bewegenden Körper auf einen anderen ruhenden. Der Impulsstrom
+fließt über ein Geschwindigkeitsgefälle, ähnlich wie der elektrische Strom in einem elektrischen
+Widerstand über ein Potentialgefälle fließt. Da in jedem Fall ein Energiestrom der Stärke
+P = ∆v . F dissipiert , d. h. zur Wärmeerzeugung verwendet wird, sprechen wir hier von dissipa-
+
+Abb. 8.1. Bei einem Reibungsvorgang fließt Impuls vom Körper höherer zum Körper niedrigerer Geschwindigkeit.
+
+tiven Impulsströmen. Mechanische Energiedissipation nennt man Reibung.
+Man erkennt die Gültigkeit der folgenden Regel:
+Ein dissipativer Impulsstrom fließt stets vom Körper höherer zum Körper niedrigerer Geschwindigkeit.
+Das elektrische Analogon dieser Regel lautet:
+Ein dissipativer elektrischer Strom fließt stets vom Körper höheren zum Körper niedrigeren elektrischen Potentials.
+Der Zusammenhang zwischen F und ∆v ist in jedem der drei Fälle von Abb. 8.1 ein anderer,
+Abb. 8.2. Das elektrische Analogon der ∆v - F -Kennlinie ist die ∆ϕ - I -Kennlinie.
+Im ersten Fall von Abb. 8.2, wenn zwei feste Körper übereinandergleiten, ist die Kraft unabhängig von der Geschwindigkeitsdifferenz. Dieser Fall ist realisiert bei Bremse und Kupplung des
+Autos.
+Die zweite Kennlinie von Abb. 8.2 erhält man, wenn die Grenzflächen von zwei übereinandergleitenden festen Körpern durch eine Flüssigkeitsschicht (ein Schmiermittel) voneinander ge-
+
+Abb. 8.2. Die zu den in Abb. 8.1 dargestellten Vorgängen gehörenden Kennlinien
+
+34
+trennt sind. Hier gilt eine Art Ohmsches Gesetz, und man kann in Analogie zum elektrischen Widerstand R = ∆ϕ/I einen mechanischen Widerstand Rp definieren:
+Rp=
+
+∆v
+F
+
+Dieser Fall ist realisiert beim Stoßdämpfer im Auto: Die Kraft auf den Stoßdämpfer ist proportional zur Geschwindigkeitsdifferenz zwischen den beiden Befestigungen des Stoßdämpfers.
+Der Widerstand Rp hängt auf einfache Art mit der Fläche A der übereinandergleitenden Körper
+und ihrem Abstand l zusammen, Abb. 8.3:
+Rp=
+
+l
+
+ηA
+
+Diese Beziehung ist analog zu der bekannten
+Gleichung für den elektrischen Widerstand:
+R =
+
+l
+
+σA
+
+η, die Viskosität, ist eine für die den Impuls
+leitende Flüssigkeit charakteristische Mate- Abb. 8.3 Zum mechanischen und elektrischen Widerstandsrialkonstante. Sie ist das Analogen zur elektri- gesetz
+schen Leitfähigkeit σ. Man kann η daher auch als Impulsleitfähigkeit bezeichnen.
+Die dritte Kennlinie in Abb. 8.2, bei der die Kraft quadratisch von der Geschwindigkeit abhängt,
+erhält man, wenn man einen Körper durch eine Flüssigkeit oder ein Gas hindurchzieht. Sie beschreibt zum Beispiel den Luftwiderstand eines Autos:
+F =
+
+1
+2
+c WA ρ (∆v )
+2
+
+Hier ist ρ die Dichte des Fluids, A die Querschnittsfläche des Körpers senkrecht zur Bewegungsrichtung und cW der sogenannte Widerstandsbeiwert. cW ist dimensionslos und von der
+Größenordnung 1.
+
+9. Die Analogie zwischen Mechanik und Elektrodynamik - der Dualismus innerhalb von Mechanik und Elektrodynamik
+9.1 Die Analogie
+Zwischen zwei physikalischen Gebieten besteht eine Analogie, wenn sich Größen des einen Gebiets so auf Größen des anderen abbilden lassen, daß die Beziehungen zwischen den Größen des
+einen Gebiets in richtige Beziehungen zwischen den Größen des anderen übergehen. Es gibt in
+der Physik mehrere solche Analogien. Wir beschäftigen uns hier mit einer Analogie zwischen
+Mechanik und Elektrodynamik. Die Größen, die einander entsprechen, sind in Tabelle 9.1 aufgeführt.
+Die Erhaltungsgröße p wird auf die Erhaltungsgröße Q, die Energie auf sich selbst abgebildet.
+Man sieht, daß man aus
+Tabelle 9.1. Zueinander analoge Größen aus Mechanik und Elektrodynamik
+
+P = ∆v F
+durch rein formales Übersetzen
+P=UI
+
+Mechanik
+
+Elektrodynamik
+
+Impuls p
+Kraft (Impulsstromstärke) F
+Geschwindigkeit v
+Geschwindigkeitsdifferenz ∆v
+Verschiebung ∆r
+Energie E
+Energiestromstärke P
+
+elektrische Ladung Q
+elektrische Stromstärke I
+elektrisches Potential ϕ
+elektrische Spannung ∆ϕ=U
+magnetischer Fluß NΦ
+Energie E
+Energiestromstärke P
+
+bekommt.
+Betrachtet man ein Objekt unter mechanischen Gesichtspunkten, so interessieren oft nur drei Eigenschaften:
+- seine Trägheit
+- seine Elastizität
+- sein dissipatives Verhalten.
+Der Ingenieur realisiert diese drei Eigenschaften gern durch räumlich getrennte Bauelemente,
+oder er zerlegt ein gegebenes System in Gedanken in Bauelemente, nämlich in solche, die
+- träge, aber starr und reibungslos,
+- elastisch, aber masse- und reibungslos und
+- dissipativ, aber starr und masselos sind.
+Jedes dieser drei Bauelemente denkt er sich noch insofern idealisiert, als die das Bauelement beschreibenden Variablen auf sehr einfache Art miteinander zusammenhängen. Diese idealisierten
+Bauelemente sind der Massenpunkt, die Feder und der Stoßdämpfer. Die diese Bauelemente charakterisierenden Beziehungen sind:
+Massenpunkt:
+
+p =mv
+
+Feder:
+
+F = D∆r
+
+Stoßdämpfer:
+
+∆v = Rp F
+
+In der Elektrizitätslehre ist die Situation analog. Auch hier zerlegt man ein Gebilde gern in Bau-
+
+36
+elemente, unter denen drei eine besondere Rolle spielen: der Kondensator, die Spule und der Widerstand. Auch diese Bauelemente werden näherungsweise durch drei sehr einfache Beziehungen charakterisiert:
+Kondensator:
+
+Q = CU
+
+Spule:
+
+I = (N/L)Φ
+
+Widerstand:
+
+U = RI.
+
+Diese Bauelemente sind, wenn man die
+Übersetzungstabelle zu Grunde legt,
+den drei vorher genannten mechanischen analog, und wir können damit unsere Übersetzungstabelle erweitern,
+Tabelle 9.2. Die Liste der zueinander
+analogen Größen ist damit längst nicht
+erschöpft. Ein besonders interessantes
+Größenpaar stellen noch Drehimpuls
+(= Impulsmoment) und elektrisches
+Dipolmoment dar.
+
+Tabelle 9.2. Zueinander analoge Größen und Begriffe aus Mechanik
+und Elektrodynamik
+
+Mechanik
+
+Elektrodynamik
+
+Massenpunkt
+Masse (Impulskapazität) m
+Feder
+reziproke Federkonstante 1/D
+Stoßdämpfer
+mechanischer Widerstand Rp
+Viskosität (Impulsleitfähigkeit) η
+
+Kondensator
+Kapazität C
+Spule
+Induktivität L
+Widerstand
+elektrischer Widerstand R
+elektrische Leitfähigkeit σ
+
+9.2 Der Dualismus
+Außerdem existiert innerhalb der Mechanik eine Struktur, die wir Dualismus nennen wollen.
+Wegen der Analogie zwischen Mechanik und Elektrodynamik hat auch die Elektrodynamik diese duale Struktur. Worum handelt es sich dabei? Man verwandelt eine beliebige Anordnung aus
+den vorher beschriebenen Bauelementen nach bestimmten Regeln in eine andere Anordnung.
+Außerdem bildet man Größen nach bestimmten Regeln auf andere Größen ab. Die mathematische Struktur des alten Problems in den alten Größen ist dann dieselbe wie die des neuen Problems in den neuen Größen. Wendet man dieselben Übersetzungsregeln zweimal nacheinander
+an, so kommt man zum alten Problem zurück. In Tabelle 9.3 sind die sich entsprechenden Bauelemente, physikalischen Größen und "topologischen Regeln" aufgeführt.
+
+Auch bei dem Dualismus spielt die Energie eine besondere Role: Sie ist selbstdual. Obwohl zu
+Tabelle 9.3. Zum Dualismus in Mechanik und Elektrodynamik
+
+Bauelemente
+
+Größen
+
+Mechanik
+
+Elektrodynamik
+
+Massenpunkt ⇔ Feder
+
+Kondensator ⇔ Spule
+
+Stoßdämpfer ⇔ Stoßdämpfer
+
+Widerstand ⇔ Widerstand
+
+p ⇔ ∆r
+
+Q ⇔ NΦ
+
+F ⇔ ∆v
+
+I ⇔ ∆ϕ =U
+
+m ⇔ 1/D
+
+C⇔L
+
+Rp ⇔ 1/Rp
+E⇔E
+
+R ⇔1/R = G
+E⇔E
+
+P⇔P
+
+P⇔P
+
+topologische
+
+Parallelschaltung ⇔ Reihenschaltung
+
+Regeln
+
+Knoten ⇔ Masche
+
+37
+dem Bauelement Widerstand das Bauelement Widerstand dual ist, entspricht der Größe Widerstand deren Kehrwert, der Leitwert G.
+
+9.3 Beispiel
+Wir lösen ein mechanisches Problem, zusammen mit seinem elektrischen Analogon, Abb. 9.1.
+Die mechanische Version steht links, die elektrische rechts. Danach lösen wir die zu beiden Problemen dualen Versionen.
+
+Abb. 9.1. Zwei zueinander analoge Systeme
+
+Geschwindigkeitsdifferenzen bzw. elektrische Spannungen werden im Uhrzeigersinn gezählt
+(z. B. ∆vR = v2 - v3 oder UR = ϕ2 - ϕ3 ). Der Index p am mechanischen Widerstand wird der
+Übersichtlichkeit wegen weggelassen. Wir wenden auf den Stromkreis die Maschenregel an:
+
+∆v 0 + ∆ v m + ∆v R = 0
+
+U 0 + UC + U R = 0
+
+Mit
+
+∆v R = R ⋅ F
+.
+ ∆v
+.  R = m ∆v m
+p = m∆ v m ⇒ F = m∆ v m  R
+
+UR = R ⋅ I
+
+.
+U
+.  R = CUC
+Q = C ⋅ UC ⇒ I = CUC  R
+
+wird daraus
+.
+U 0 + UC + RCUC = 0
+
+.
+∆v 0 + ∆ v m + Rm∆ v m = 0
+Die Lösungen dieser Differentialgleichung sind:
+
+∆v m (t ) = − ∆v 0 (1 − e
+
+−
+
+t
+Rm
+
+UC (t ) = − U 0 (1 − e
+
+)
+
+−
+
+t
+RC
+
+)
+
+Daraus kann die Zeitabhängigkeit anderer Größen der Stromkreise berechnet werden.
+
+∆v R (t ) = − ∆v 0 − ∆ v m (t ) = − ∆v 0 e
+∆v 0 − Rmt
+F (t ) = −
+e
+R
+
+−
+
+t
+Rm
+
+)
+
+U R (t ) = − U 0 − UC (t ) = − U 0 e
+I (t ) = −
+
+U0
+e
+R
+
+t
+−
+RC
+
+−
+
+t
+RC
+
+)
+
+38
+Wir nennen
+Ptotal
+
+= Gesamtstärke des Energiestroms von der Energiequelle (Motor bzw.
+Batterie) zu Massepunkt bzw. Kondensator und Stößdämpfer bzw. Widerstand
+
+Pm und PC
+
+= Stärke des Energiestroms zum Massepunkt bzw. zum Kondensator
+
+PR
+
+= Stärke des Energiestroms zum Stoßdämpfer bzw. zum Widerstand.
+
+Man erhält
+P total = (∆ v m + ∆v R )F (t ) = − ∆v 0F (t )
+
+∆v 02 − Rmt
+e
+=
+R
+t
+∆v 02 − Rmt
+−
+P m = ∆v m (t )F (t ) =
+e
+(1 − e Rm )
+R
+∆v 02 − Rmt 2
+P R = ∆v R (t )F (t ) = R (e
+)
+
+P total = (UC + U R )I (t ) = − U 0I (t )
+2
+
+U − t
+= 0 e RC
+R
+2
+
+PC = UC (t )I (t ) =
+
+U0
+
+e
+
+−
+
+t
+RC
+
+(1 − e
+
+−
+
+R
+2
+U0 − t 2
+P R = U R (t )I (t ) = R (e RC )
+
+t
+RC
+
+)
+
+In Abb. 9.2 sind Ptotal, PR und Pm (bzw. PC )
+als Funktion der Zeit dargestellt.
+Der Vergleich der linken Seite unserer Rechnung mit der rechten zeigt, daß man sich die
+eine der beiden Rechnungen hätte sparen können: Man erhält sie durch rein formales Übersetzen aus der anderen Seite.
+Abb. 9.2. Energiestromstärken als Funktion der Zeit
+
+Mit Hilfe der Übersetzungsregeln des Dualismus verwandeln wir das Problem nun in ein neues,
+Abb. 9.3.
+Stromstärken (auch Impulsstromstärken) werden zum Knoten K hin positiv gezählt.
+Wir wenden auf K die Knotenregel an:
+
+Abb. 9.3. Die Systeme sind zueinander analog, und zu denen in Abb. 9.1 dual.
+
+39
+F0 + FD + FR = 0
+
+I 0 + IL + IR = 0
+
+Mit
+.
+∆v = F R R = 1 F D
+D
+
+.
+U = IR R = L IL
+
+wird daraus
+F0 + FD +
+
+1 .
+F =0
+RD D
+
+I 0 + IL +
+
+L .
+I =0
+R L
+
+Die Lösungen dieser Differentialgleichungen sind:
+F D (t ) = − F 0 (1 − e
+
+− RDt
+
+)
+
+I L (t ) = − I 0 (1 − e
+
+−
+
+R
+t
+L
+
+)
+
+Daraus folgt wieder die Zeitabhängigkeit anderer Größen. Wir führen die Rechnung nicht weiter,
+denn man sieht schon, wie die Sache läuft: Man erhält die Gleichungen in diesem Beispiel Zeile
+für Zeile aus denen des vorigen Beispiels durch Anwendung der Übersetzungsregeln des Dualismus.
+Abb. 9.4 zeigt schließlich noch ein Problem einschließlich seines elektrischen Analogons und
+seiner beiden dualen Versionen, das dem vorigen sehr ähnlich ist. Wir überlassen die entsprechende Rechnung dem Leser.
+
+Abb. 9.4. Ein mechanisches System mit seinem elektrischen Analogon, sowie die beiden dualen Systeme
+
+9.4 Mechanische Materialkonstanten
+Wir hatten drei verschiedene mechanische Eigenschaften von Körpern ausgemacht: die Trägheit,
+beschrieben durch die physikalische Größe Masse m, die Elastizität, beschrieben durch die Federkonstante D und die Zähigkeit, beschrieben durch einen Reibungswiderstand Rp.
+Die drei Größen m, D und Rp beziehen sich auf ein ausgedehntes Gebilde. Jede dieser Größen
+bringt aber eine Materialeigenschaft zum Ausdruck. Und diese drei Materialeigenschaften lassen
+
+40
+sich auch durch lokale Größen beschreiben, durch sogenannte Materialkonstanten. In die globalen Größen m, D, und Rp gehen außer den lokalen Materialgrößen nur noch geometrische Größen ein.
+
+Die Massendichte
+Die die Trägheit beschreibende lokale Größe ist die Massendichte ρ. Man dividiert die in einem
+Raumbereich enthaltene Masse m durch das Volumen V des Raumbereichs und erhält die mittlere Dichte. Wenn das Volumen des Raumbereichs klein ist gegen das Gesamtvolumen des betrachteten Systems, so läßt man das Adjektiv "mittlere" weg und spricht einfach von der Dichte
+"an der Stelle" des gewählten Raumbereichs. Es ist also
+m
+ρ =V
+Der Elastizitätsmodul
+Durch einen elastischen Stab der Länge l und der Querschnittsfläche A fließe ein Impulsstrom
+der Stärke F. Solange der Impulsstrom fließt, ist der Stab um ∆l gegenüber seiner Normallänge l
+verkürzt oder verlängert. Den Zusammenhang zwischen F und ∆l beschreibt das Hookesche
+Gesetz:
+F = D∆l
+Der Wert der globalen Größe D, der "Federkonstante", ist von den Abmessungen des Stabes abhängig. D ist proportional zur Querschnittsfläche und umgekehrt proportional zur Länge l:
+D =E A
+l
+Der Proportionalitätsfaktor E heißt Elastizitätsmodul des Materials. Er hängt nur vom Material
+des Stabes ab. Es ist also
+E = l D
+A
+
+Die Viskosität
+Die das dissipative Verhalten von Materie beschreibende lokale Größe hatten wir schon kennengelernt: Es ist die Viskosität η. Mit der globalen Größe Rp hängt sie zusammen über
+
+η =
+
+l
+AR p
+
+Die hier gegebene Beschreibung des elastischen und dissipativen Verhaltens der Materie ist stark
+vereinfacht. Tatsächlich kann weder das eine noch das andere durch eine einzige Zahl beschrieben werden. Eine vollständige Darstellung würde zeigen, daß sowohl Elastizitätsmodul als auch
+Viskosität sogenannte Tensoren sind. Tensoren sind mathematische Gebilde, zu deren Festlegung mehr als nur eine Zahl gebraucht wird. So ist der Elastizitätstensor durch 21 voneinander
+unabhängige Zahlen bestimmt. Falls das Material isotrop ist, reduziert sich diese Zahl allerdings
+auf 2. Eine davon ist der gerade diskutierte Elastizitätsmodul, die andere bringt zum Ausdruck,
+wie stark sich das Material in der Richtung quer zur angelegten Kraft verformt.
+
+10. Schwingungen
+10.1 Kinematik und Dynamik
+Die Kinematik befaßt sich mit der Form der Bahn eines Körpers oder Teilchens, und sie befaßt
+sich damit, wie diese Bahn zeitlich durchlaufen wird. Sie befaßt sich also mit der Funktion r( t).
+Mechanische Vorgänge werden gern nach kinematischen Kriterien klassifiziert. So spricht man
+von
+- geradlinig gleichförmigen Bewegungen;
+- gleichmäßig beschleunigten Bewegungen;
+- gleichförmigen Kreisbewegungen;
+- harmonischen Bewegungen;
+- exponentiell abklingenden Bewegungen;
+- chaotische Bewegungen;
+- etc.
+Eine solche Klassifizierung legt aber die Dynamik eines Vorgangs keineswegs fest. Ein und derselbe kinematische Bewegungstypus kann auf ganz unterschiedliche Arten zustande kommen.
+So liegt eine geradlinig gleichförmige Bewegung vor bei einem Auto, das mit konstanter Geschwindigkeit auf einem geraden Stück der Autobahn fährt, aber auch bei dem berühmten kräftefreien Körper des ersten Newtonschen Gesetzes. Die beiden Vorgänge haben dieselbe Kinematik, aber eine unterschiedliche Dynamik.
+
+10.2 Qualitative Diskussion einiger Beispiele von Schwingungen
+Eine Schwingung liegt vor, wenn sich der Wert einer physikalischen Größe periodisch ändert,
+z. B. der Impuls eines Pendels, die elektrische Stromstärke in einem Schwingkreis oder das
+Reflexionsvermögen eines Laubwaldes bei λ= 500 nm. Wir beschränken uns hier natürlich auf
+mechanische Schwingungen, d. h. Schwingungen von Größen, die in der Mechanik eine Rolle
+spielen. Wir fassen aber den Begriff der Schwingung nicht sehr eng. Wir sprechen z. B. auch dann
+noch von einer Schwingung, wenn die periodische Variation mit einer Exponentialfunktion moduliert ist. Man nennt eine solche Schwingung "gedämpft".
+Man kann Schwingungen oder schwingende Systeme nach verschiedenen Kriterien beurteilen:
+- Wie ist die Schwingungsform? (harmonisch, sägezahnförmig etc.)
+- Wieviele Energiespeicher sind am Zustandekommen der Schwingung beteiligt?
+- Welcher Anteil der Energie wird pro Periode dissipiert?
+- Welche Energie- und Impulsströme fließen in das System hinein und aus ihm heraus?
+- Hat das System charakteristische Frequenzen?
+Wir werden zunächst einige Beispiele unter diesen Gesichtpunkten qualitativ diskutieren. Wir
+
+42
+werden dabei sehen, daß kinematisch gleiche Schwingungen auf ganz verschiedene Art zustande
+kommen, d. h. eine ganz unterschiedliche Dynamik haben.
+Eindimensionales Federpendel, Abb. 10.1
+Schwingungsform: harmonisch
+Die Energie fließt periodisch aus den Körpern
+in die Feder und wieder zurück. Der Impuls
+fließt zwischen den beiden Körpern hin und
+her. Im Idealfall wird keine Energie dissipiert.
+Das System hat eine einzige Eigenfrequenz.
+Abb. 10.1. Eindimensionales Federpendel
+
+Elastischer Ball zwischen zwei harten Wänden, Abb. 10.2
+Schwingungsform: rechteckig
+Die Energie bleibt ständig im Ball. Der Impuls
+ist die meiste Zeit konstant; nur während des
+Umkehrens fließt Impuls vom Ball in die
+Wand, bzw. von der Wand in den Ball. Im Idealfall wird keine Energie dissipiert. Das System
+hat keine ausgezeichnete Schwingungszeit.
+
+Abb. 10.2. Ein elastischer Ball wird zwischen zwei harten
+Wänden hin- und herreflektiert.
+
+Motor + schwingender Körper, Abb. 10.3
+Schwingungsform: harmonisch
+Zwischen Körper und Motor fließt Energie hin
+und her. Impuls fließt periodisch aus dem Körper in die Erde und wieder zurück. Im Idealfall
+wird keine Energie dissipiert. Das System hat
+keine ausgezeichnete Schwingungszeit.
+Abb. 10.3. Der Körper K wird von einem Motor M hin- und
+herbewegt.
+
+Kippschwingung
+Abb. 10.4
+
+(Relaxationsschwingung),
+
+Schwingungsform (der Wassermasse im oberen Behälter): sägezahnförmig
+Ein einziger Energiespeicher wird periodisch
+gefüllt und entleert. Eine schwache Energiedissipation ist für das Funktionieren notwendig.
+Die Schwingungszeit hängt von der Stärke des
+Wasserstroms ab.
+
+Abb. 10.4. Das Wasserbecken mit dreieckigem Profil kippt
+um, sobald sein Schwerpunkt über den Drehpunkt D nach
+rechts hinausgewandert ist.
+
+43
+Harmonische Relaxationsschwingung, Abb.
+10.5
+Schwingungsform: harmonisch
+Ein einziger Energiespeicher wird periodisch
+gefüllt und entleert. Eine starke Energiedissipation ist für das Funktionieren notwendig. Das
+System hat eine einzige Eigenfrequenz.
+Abb. 10.5. Der Stab liegt lose auf den Rollen. Er rutscht harmonisch hin und her.
+
+Gedämpfte Schwingung, Abb. 10.6
+Schwingungsform: harmonisch mit exponentiell abklingender Amplitude
+Die Energie fließt zum größten Teil zwischen
+Feder und Kugel hin und her. Pro Schwingung
+wird ein kleiner Anteil im Stoßdämpfer dissipiert. Das System hat eine Eigenfrequenz.
+Abb. 10.6. Gedämpfte Schwingung
+
+Rückgekoppelte Schwingungen
+Sie finden in den meisten Uhren statt (Ausnahmen: Sonnenuhr, Sanduhr, Wasseruhr). Man geht
+aus von einem System, das möglichst schwach gedämpfte Schwingungen ausführt. Die durch
+Dissipation verlorene Energie wird durch einen Energiestrom von außen ersetzt. Die Stärke dieses Energiestroms wird durch den Schwinger selbst gesteuert. Wenn die Dämpfung zunimmt,
+geht dieser Schwingungstyp stetig in eine Relaxationsschwingung über. (Beispiele für Schwingungen, die zwischen diesen beiden Typen liegen: Streich- und Blasinstrumente, quietschende
+Tür).
+
+Erzwungene Schwingung, Abb. 10.7
+Kombination aus dem ersten (Federpendel)
+und dem dritten (Motor + Körper) Beispiel
+Schwingungsform: harmonisch
+Die Energie fließt je nach Frequenz andere Wege. Das System schwingt mit beliebiger Frequenz.
+Abb. 10.7. Erzwungene Schwingung
+
+44
+10.3 Das ungedämpfte Federpendel
+Das System, Abb. 10.8, besteht aus
+- einer Feder (Federkonstante D);
+- einem Körper (Masse m);
+- der Erde (Masse unendlich).
+Wir wenden das zweite Newtonsche Gesetz
+(die Kontinuitätsgleichung für den Impuls) auf
+den gestrichelt umrandeten Bereich an,
+Abb. 10.8. Federpendel
+
+dp
+=F
+dt
+setzen
+..
+p = mx
+
+und
+
+F = − Dx
+
+ein und erhalten
+..
+m x + Dx = 0
+Die Lösung dieser Differentialgleichung ist
+x (t ) = x 0 sin (ωt +ϕ )
+
+mit
+
+ω =
+
+D
+m
+
+x0 und ϕ legen die Anfangsbedingungen fest. x0 ist die Amplitude, ϕ bestimmt die Lage der Sinuskurve auf der Zeitachse.
+Wir wählen ϕ = 0, sodaß x (t = 0) = 0 ist. Aus der Lösung x (t ) lassen sich die Werte der anderen
+Variablen als Funktion der Zeit berechnen. Mit
+.
+p (t ) = m x (t )
+wird
+p (t ) = m ω x0 cos ωt
+oder
+p (t ) = p0 cos ωt
+
+mit p0 = m ω x0
+
+Die Kraft erhält man aus F (t ) = - Dx (t ):
+F (t ) = -Dx0 sin ωt
+oder
+F (t ) = F0 sin ωt
+
+mit F0 = - Dx0
+
+Man sieht, daß der Impulsstromstärkebetrag maximal ist, wenn der Impuls selbst den Wert Null
+hat. Der Impuls fließt periodisch zwischen Körper und Erde hin und her.
+Die Energie des Körpers ist:
+
+45
+p 02
+p2
+E K = E K 0 + 2m = E K 0 + 2m cos 2 ω t
+oder
+p 02 1
+E K = E K 0 + 2m 2 (1 + cos 2ωt )
+Die Energie der Feder ist
+E F = E F 0 + D x 2 = E F 0 + D x 02 sin 2 ωt
+2
+2
+oder
+Dx 02 1
+E F = E F 0 + 2 2 (1 − cos 2ω t )
+Die Amplituden p02/(4m) und Dx02/4 sind untereinander gleich. Die Summe EK + EF ist daher
+zeitlich konstant, d. h. es fließt Energie zwischen Körper und Feder hin und her, und zwar mit der
+Frequenz 2ω.
+Wir berechnen noch die Stärke des Energiestroms zwischen Körper und Feder:
+P = vF = (ωx 0 cos ωt )( − Dx 0 sin ω t )
+=−
+
+Dω x 02
+sin 2ω t
+2
+
+oder
+P = P 0 sin 2ωt
+mit
+Dω x 02
+P0 = −
+2
+Abb. 10.9 zeigt verschiedene Größen des Federpendels als Funktion der Zeit.
+
+Abb. 10.9. Verschiedene Größen des Federpendels als Funktion der Zeit
+
+46
+10.4 Das gedämpfte Federpendel
+Abbildung 10.10 zeigt schematisch ein Federpendel mit Dämpfung. Die Reibung wird
+repräsentiert durch einen Stoßdämpfer mit
+.
+.
+F R = − x / R = − kx
+Wir wenden das zweite Newtonsche Gesetz an
+auf den gestrichelt umrandeten Bereich:
+dp
+= FD + FR
+dt
+Mit
+
+Abb. 10.10. Federpendel mit Dämpfung
+
+.
+.
+p = mx , F D = − Dx und F R = − kx
+
+erhält man die Differentialgleichung
+..
+.
+mx + kx + Dx = 0
+Einsetzen des Lösungsansatzes
+x (t ) = e −δt (x 1 cos ωt + x 2 sin ω t )
+liefert
+
+δ = k
+2m
+
+ω =±
+
+und
+
+2
+
+D − k
+m
+4m 2
+
+Falls
+2
+
+D − k >0
+m
+4m 2
+ist, stellt diese Lösung eine harmonische Schwingung mit exponentiell abfallender Amplitude
+dar. Für
+2
+
+D − k <0
+m
+4m 2
+wird aus der harmonischen Schwingung eine Summe von zwei Exponentialfunktionen. Um Lösungen mit positiven Exponenten auszuschließen, macht man für diesen Fall am besten einen
+neuen Lösungsansatz:
+- α 1t
+
+x (t ) = x 1 e
+
+- α 2t
+
++ x2 e
+
+Einsetzen in die Differentialgleichung liefert
+
+α 1, 2 = k ±
+2m
+
+2
+
+k −D
+4m 2 m
+
+Der Abklingvorgang geht am schnellsten, wenn
+2
+
+k =D
+4m 2 m
+
+47
+ist. Dies ist der aperiodische Grenzfall.
+Wenn
+2
+
+k =D
+4m 2 m
+ist, fließt Energie zwischen der Feder und dem Körper hin und her. Ein Teil der Energie fließt aber
+zum Stoßdämpfer und wird dort dissipiert. Den Energieverlust pro Periode erhält man durch Vergleich des Energieinhalts der Feder in zwei aufeinanderfolgenden Maxima.
+Wir setzen x2 = 0 und berechnen den Energieinhalt der Feder in den Maxima, d. h. wenn
+cos ωt = 1 ist:
+E F max = E F 0 + D x 12 e − 2δt
+2
+Daraus folgt
+dE F max
+= − δDx 12 e − 2δ t
+dt
+Man definiert den Gütefaktor des Systems als
+Q = 2π
+
+Energiebetrag, der pro Periode hin und her fließt
+Energieverlust in einer Periode
+
+Man erhält
+(D / 2)x 12 e − 2 δt
+E F max − E F 0
+2
+π
+Q = 2π
+=
+= ω
+−
+2
+δ
+t
+2
+T
+dE F max
+2δ
+δDx 1 e
+−
+T
+dt
+Hier wurde ω = 2π/T verwendet.
+Mit δ = k und ω ≈
+2m
+Q =
+
+D
+m
+
+wird
+
+Dm
+k
+
+Abb. 10.11. Schwingungsverlauf bei einem gedämpften Federpendel für verschiedenstarke Dämpfung und für unterschiedliche Anfangsbedingungen
+
+48
+10.5 Erzwungene Schwingungen
+Wir betrachten zwei Anordnungen, die je aus einem Massenpunkt, einer Feder, einem Stoßdämpfer und einer Energiequelle Q bestehen, Abb. 10.12. Bei der einen bewirkt die Energiequelle eine
+harmonische Verschiebung (und damit auch eine harmonische Geschwindigkeit), bei der anderen einen harmonischen Impulsstrom. (Die elektrischen Analoga dieser Energiequellen sind das
+spannungs- und das stromstabilisierte Wechselstromnetzgerät.)
+Mit Anwendung der Kontinuitätsgleichung für den Impuls (zweites Newtonsches Gesetz) auf
+den gestrichelt markierten Bereich erhält man für beide Anordnungen dieselbe Differentialgleichung.
+dp /dt = F D + F R
+.
+p = mx
+
+dp /dt = FQ + F D + F R
+.
+p = mx
+FQ = F 0 sin ωt
+F D = − Dx
+.
+F R = − kx
+
+F D = − D (x − x 0 )
+.
+F R = − kx
+x Q = x Q 0 sin ω t
+Umbenennung : Dx Q 0F 0
+..
+.
+m x + kx + Dx = F 0 sin ωt
+
+..
+.
+mx + kx + Dx = F 0 sin ω t
+
+Die allgemeine Lösung dieser inhomogenen Differentialgleichung erhält man als Summe aus der
+allgemeinen Lösung der homogen gemachten plus einer speziellen Lösung der inhomogenen.
+Die Lösung der homogenen Differentialgleichung klingt mit der Zeit ab. Sie beschreibt den Einschwingvorgang. Wir fragen hier nur nach dem Teil der Lösung, der nach Ende des Einschwingvorgangs übrigbleibt. Wir machen hierfür den Ansatz:
+x(t ) = x0 sin (ωt - ϕ )
+Einsetzen in die Differentialgleichung ergibt Bedingungen für x0 undϕ:
+tan ϕ =
+
+x0 =
+
+ωk
+m (ω 02 − ω 2 )
+
+wobei
+
+ω0 =
+
+D
+m
+
+F0
+m 2 (ω 0 − ω 2 ) + k ω
+2
+
+2
+
+2
+
+2
+
+Abb. 10.12. Der Körper der Masse m führt erzwungene Schwingungen aus. Anwendung der Kontinuitätsgleichung für den
+Impuls auf das gestrichelt umrandete Gebiet führt in beiden Fällen zu derselben Differentialgleichung.
+
+49
+Diskussion der Lösung
+Schwingungsform und Frequenz
+Der Massenpunkt (genauer: seine Ortskoordinate) schwingt harmonisch mit derselben Frequenz
+wie der "Erreger" ( xQ bzw. FQ).
+Amplitude x0 (Abb. 10.13 oben)
+Für kleine Werte von ω ist x0 = F0/(m ω02) = F0/D. Die Amplitude hängt in diesem Fall bei der
+rechten Anordnung nur von der Kraftamplitude F0 und der Federkonstante D ab, bei der linken
+ist x0 = |xQ0 |, d. h. der Massenpunkt und die entspannte Feder bewegen sich genauso wie der Anschluß der Quelle. Für zunehmendes ω wächst x0 und erreicht ein Maximum: Das System "Massenpunkt + Feder" ist mit dem Erreger in Resonanz.
+
+ωr =
+
+2
+
+ω 02 − k 2
+2m
+
+ist die Resonanzfrequenz. Sie liegt bei schwacher Dämpfung dicht unter ω0. Für ω → ∞ geht x0
+gegen Null.
+Phase (Abb. 10.13 unten)
+Der Masssenpunkt schwingt gegenüber dem Erreger im Allgemeinen phasenverschoben. Für
+ω = 0 ist ϕ = 0. Erreger und Massenpunkt sind "in Phase". Mit zunehmender Erregerfrequenz
+ω wächst auch ϕ. Für ω = ω0 ist tan ϕ = ∞ und ϕ = π/2. Für ω → ∞ geht ϕ gegen π.
+Eine wichtige Größe ist das zeitliche Mittel der Stromstärke der im Widerstand dissipierten Energie:
+.
+.2
+P = x ⋅ ( − F R ) = kx
+Mit
+.
+x = ω x 0 cos (ωt − ϕ )
+erhält man
+P = kω2x02 cos2 (ωt - ϕ )
+Da der zeitliche Mittelwert von cos2 (ωt - ϕ )
+gleich 1/2 ist, ergibt sich für das Zeitmittel der
+Energiestromstärke:
+P = 1 k ω 2x 02
+2
+Wir setzen für x0 den früher berechneten Ausdruck ein und erhalten:
+2
+
+P (ω ) =
+
+F0
+
+kω 2
+2 m 2 (ω 2 − ω 2 ) 2 + ω 2k
+0
+
+2
+
+Das Maximum dieser Funktion liegt bei ω0.
+Im Gegensatz zu x0(ω) geht P(ω) für ω → 0
+gegen Null.
+
+Abb. 10.13. Je kleiner die Dämpfung k ist, desto schmaler ist
+die Spitze der Resonanzkurve x0(ω) und desto steiler die
+Stufe in der ϕ(ω )-Kurve.
+
+50
+10.6 Elektrische Analoga und duale Anordnungen
+Abb. 10.14 zeigt die elektrischen Analoga und die dualen Anordnungen der in den Abschnitten
+10.3 bis 10.5 betrachteten Systeme.
+ungedämpft
+
+gedämpft
+
+erzwungen
+
+original
+elektrisches
+Analogon
+duale Anordnu ngen
+mechanisch
+elektrisch
+Abb. 10.14. Ungedämpft, gedämpft und erzwungen schwingende Systeme einschließlich elektrischer Analoga und dualer
+Systeme
+
+10.7 Zwei gekoppelte Federpendel
+Die Anordnung von Abb. 10.15, die hier
+behandelt wird, stellt eine wichtige
+Grundlage für Probleme aus der Atom-,
+Molekül- und Festkörperphysik dar. Die
+Bezeichnungen gehen aus der Abbildung
+hervor.
+Im Allgemeinen führen die beiden Körper eine unübersichtliche Bewegung aus.
+Die rechnerische Lösung des Problems
+
+Abb. 10.15. Schwingendes System mit zwei Freiheitsgraden
+
+51
+zeigt, daß die Bewegung, sowie die Energie- und Impulsströme einfacher sind, als es den Anschein hat. Wir wenden die Kontinuitätsgleichung für den Impuls auf die beiden gestrichelt umrandeten Bereiche in Abb. 10.15 an:
+dp 1
+= ∑F1i
+dt
+i
+
+dp 2
+= ∑F 2i
+dt
+i
+
+Mit
+
+.
+.
+p 1 = mx 1, p 2 = mx 2, F 1a = − D ' x 1, F 1b = − D (x 1 − x 2 ), F 2 b = − D (x 2 − x 1 ), F 2 c = − D ' x 2
+
+erhält man die beiden gekoppelten Differentialgleichungen:
+..
+(I) mx 1 + D (x 1 − x 2 ) + D ' x 1 = 0
+..
+(II) m x 2 + D (x 2 − x 1) + D ' x 2 = 0
+Durch Addition (I) + (II) und Subtraktion (I) - (II) erhält man zwei neue Differentialgleichungen:
+..
+..
+m (x 1 + x 2 ) + D ' (x 1 + x 2 ) = 0
+..
+..
+m (x 1 − x 2 ) + 2D (x 1 − x 2 ) + D ' (x 1 − x 2 ) = 0
+Wir führen die neuen Koordinaten
+q1 = x1 + x2
+und
+q2 = x1 - x2
+ein. Die alten Koordinaten hängen von den neuen ab gemäß
+x1 = (1/2)(q1 + q2)
+bzw.
+x2 = (1/2)(q1 - q2).
+In den neuen Koordinaten lauten die Differentialgleichungen
+..
+m q 1 + D 'q 1 = 0
+..
+m q 2 + (2D + D ' )q 2 = 0
+Sie sind entkoppelt und können daher unabhängig voneinander gelöst werden. Wir übernehmen
+die Lösung aus Abschnitt 10.3:
+q 1(t ) = q 1 0 sin (ω 1t + ϕ 1 )
+q 2 (t ) = q 2 0 sin (ω 2t + ϕ 2 )
+
+mit
+mit
+
+ω1 =
+ω2=
+
+D'
+m
+2D + D '
+m
+
+Hieraus können die alten Koordinaten berechnet werden:
+x1 (t ) = (1/2)[q10 sin (ω1t + ϕ1 ) + q20 sin (ω2t + ϕ2 )]
+x2 (t ) = (1/2)[q10 sin (ω1t + ϕ1 ) - q20 sin (ω2t + ϕ2 )]
+Die Schwingung jeder der Koordinaten ist also stets eine Überlagerung von zwei harmonischen
+Schwingungen mit den Frequenzen ω1 und ω2.
+
+52
+Diskussion
+Wir setzen die Anfangsbedingungen ϕ1 = 0 und ϕ2 = 0.
+Eigenschwingungen
+Ist q10 ≠ 0 und q20 = 0, so schwingen x1 und x2 harmonisch mit gleicher Amplitude und gleicher Phase mit der Frequenz ω1. Ist q10 = 0 und q20 ≠ 0, so schwingen x1 und x2 harmonisch
+mit der Frequenz ω2, mit gleicher Amplitude, aber gegenphasig. Man sagt in diesen beiden Fällen, das System führe Eigenschwingungen oder Normalschwingungen aus. Man nennt daher q1
+und q2 auch die Normalkoordinaten des Systems.
+Jeder beliebige Zustand kann beschrieben werden als Überlagerung der Eigenschwingungen des
+Systems.
+Abbildung 10.16 zeigt den Weg von Impuls und Energie für beide Eigenschwingungen in je zwei
+verschiedenen Schwingungszuständen.
+
+erste Eigenschwingung (q20 = 0)
+
+zweite Eigenschwingung (q10 = 0)
+Impulsströme
+
+Energieströme
+
+Abb. 10.16. Impuls- und Energieströme für die beiden Eigenschwingungen des Systems
+
+53
+Einfacher Spezialfall D<<D'
+Falls D <<D', d. h. die mittlere Feder schwach gegen die äußeren Federn ist, kann das System betrachtet werden als zwei Federpendel (je ein Körper und eine Feder D' ), die mit der Feder D
+schwach aneinander "gekoppelt" sind. Wählt man als Anfangsbedingung q10 = q20 = q0, so entsteht ein übersichtlicher Bewegungsverlauf:
+x1 (t ) = (1/2)q0 (sin ω1t + sin ω2t )
+x2 (t ) = (1/2)q0 (sin ω1t - sin ω2t )
+Nach Umbenennung ω1 = ω - ∆ω und ω2 = ω + ∆ω und Verwendung bekannter trigonometrischer Formeln ergibt sich:
+x (t ) = q sin ωt . cos ∆ωt
+1
+
+0
+
+x2 (t ) = - q0 cos ωt . sin ∆ωt
+Wegen D <<D' ist ∆ω << ω. Daher sind x1 (t ) und x2 (t ) mit der Frequenz ∆ω modulierte
+harmonische Schwingungen der Frequenz ω, Abb. 10.17. Die Energie fließt mit der Frequenz
+2∆ω zwischen dem rechten und dem linken Federpendel hin und her. Innerhalb jedes Pendels
+fließt sie mit der hohen Frequenz 2ω zwischen dem Körper und der zugehörigen Feder des Pendels hin und her. Man nennt einen solchen Schwingungsvorgang eine Schwebung.
+Einfacher Spezialfall D'<<D
+Aus D'<<D folgt ω1 << ω2 . Das System kann betrachtet werden als ein aus den beiden Körpern
+und der mittleren Feder bestehendes Federpendel, das schwach (über D' ) an die Erde gekoppelt
+ist, Abb. 10.18. Für D' → 0 geht die niedrige Frequenz gegen Null, und die erste Eigenschwingung geht in eine Translation über.
+
+Abb. 10.17. Der Spezialfall D << D'
+
+Abb. 10.18. Der Spezialfall D' << D
+
+10.8 Erzwungene Schwingungen von zwei gekoppelten Pendeln
+Abb. 10.19 zeigt die Anordnung. Das eine Ende des Pendels wird bewegt gemäß
+xQ= xQ0 sin ωt.
+Dadurch wird
+F1a = - D' (x1 -xQ0 sin ωt)
+(statt F1a = - D' x1). Damit wird aus den Differentialgleichungen:
+
+54
+
+Abb. 10.19. Anordnung zur Erzeugung erzwungener Schwingungen von zwei gekoppelten Federpendeln
+
+..
+mx 1 + D (x 1 − x 2 ) + D ' x 1 = D ' x Q 0 sin ω t
+..
+(II) mx 2 + D (x 2 − x 1 ) + D 'x 2 = 0
+(I)
+
+Addition und Subtraktion liefern die entkoppelten Differentialgleichungen in q1 und q2 :
+..
+m q 1 + D 'q 1 = D ' x Q 0 sin ωt
+..
+m q 2 + (2D + D ' )q 2 = D ' x Q 0 sin ωt
+Dies sind zwei Differentialgleichungen für gewöhnliche erzwungene Schwingungen, wie die in
+Abschnitt 10.5 (allerdings haben wir hier keine Dämpfung angenommen). Nimmt man nun die
+Resonanzkurve auf, d. h. ändert man ω und betrachtet den Schwingungszustand, so stellt man
+folgendes fest: Ist ω = ω1, d. h. gleich der Frequenz der ersten Eigenschwingung, so wird diese
+erste Eigenschwingung stark angeregt. Die erste Eigenschwingung ist "in Resonanz mit dem Erreger". Die Stärke des Energiestroms vom Erreger zum Pendel hat ein Maximum. Das Analoge
+gilt, wenn die Erregerfrequenz ω = ω2 ist.
+
+3 Schwingungen
+f=3
+
+2 Rotationen
+3 Translationen
+f=2+3=5
+
+2 Rotationen
+3 Translationen
+1 Schwingung
+f=2+3+1+=6
+
+Festkörper mit 1023 Atomen
+
+3 Rotationen
+3 Translationen
+3 . 1023 - 6 Schwingungen
+f = 3 + 3 + 3 . 1023 - 6 = 3 . 1023
+
+Abb. 10.20. Beispiele einiger Systeme mit Freiheitsgraden unterschiedlicher Natur
+
+55
+10.9 Freiheitsgrade
+Die Zahl f der Freiheitsgrade gibt an, durch wieviele, voneinander unabhängige Zeitfunktionen
+ein System beschrieben wird. Im Beispiel von Abschnitt 10.7 ist f = 2, denn das System wird volständig beschrieben durch x1 (t ) und x2 (t ) oder durch q1 (t ) und q2 (t ) oder durch p1 (t ) und
+p2(t ). Manchmal nennt man f auch den Freiheitsgrad.
+Oft kann man bei geeigneter Koordinatenwahl jeden Freiheitsgrad einem einfachen Bewegungsvorgang zuordnen: einer harmonischen Schwingung (Schwingungsfreiheitsgrad), einer geradlinig gleichförmigen Bewegung (Translationsfreiheitsgrad), einer gleichmäßigen Rotation (Rotationsfreiheitsgrad) . . .
+Beispiele
+- Zwei gekoppelte Pendel, siehe Abschnitt 10.7: q1 (t ), q2 (t );
+- freier Massenpunkt x(t ), y(t ), z(t );
+- weitere Beispiele, siehe Abb. 10.20.
+
+Abb. 10.21 (a) Eindimensionales Modell eines Kristalls. (b) 1., 2., 3. und 12. Eigenschwingung
+
+10.10 Zwölf gekoppelte Pendel
+Die Anordnung von Abb. 10.21 a stellt ein eindimensionales Modell eines Kristalls dar. Das System hat 12 Freiheitsgrade und damit zwölf Eigenschwingungen. Abb. 10.21 b zeigt die Form der
+ersten, zweiten, dritten und zwölften Eigenschwingung. Die Pfeile stellen die Länge des durchlaufenen Weges der zwölf Massenpunkte zwischen zwei Umkehrpunkten dar. Dieser Weg ist
+
+56
+hier, der Übersichtlichkeit halber, quer zur
+Ausdehnung der Kette dargestellt.
+Die 12 Schwingungszustände sehen stehenden Wellen ähnlich, und man kann jedem eine
+Wellenlänge λ zuordnen. Man nennt
+k = 2π/λ
+die Wellenzahl. Die Funktion ω = ω(k) heißt
+Dispersionsrelation der Anordnung, Abb.
+10.22. Die Kurve, die man durch die Punkte
+hindurchlegen kann, bricht bei k = π/a ab,
+Abb. 10.22. Graphische Darstellung der Dispersionsrelawobei a der Abstand zwischen benachbarten
+tion eines Systems von 12 gekoppelten Schwingern
+Massenpunkten ist. Die Dispersionsrelation
+einer Anordnung mit sehr viel mehr Massenpunkten sieht fast genauso aus, nur liegen die Punkte
+sehr viel dichter, die Kurve ist praktisch kontinuierlich. Auch in echten Kristallen mißt man Dispersionsrelationen, die diese Form haben.
+
+11. Chaotische Vorgänge
+Die Vorgänge, die wir in Abschnitt 9.3 und in Kapitel 10 betrachtet haben, sind von einem gewissen Standpunkt aus unrealistische Spezialfälle. Sie haben nämlich die folgende Besonderheit:
+Wenn der Anfangszustand des Systems gegeben ist, kann man mit Hilfe der entsprechenden Differentialgleichungen den Zustand des Systems zu einem beliebig weit in der Zukunft und zu einem beliebig weit in der Vergangenheit liegenden Zeitpunkt berechnen. Wenn man den Ausgangszustand mit einer gewissen Ungenauigkeit kennt, so kann man auch den Endzustand mit einer gewissen Ungenauigkeit berechnen. Es ist typisch für diese Art von Vorgängen, daß eine kleine Variation der den Ausgangszustand charakterisierenden Werte der Variablen eine kleine Variation der Endzustandswerte zur Folge hat.
+Tatsächlich verhalten sich reale Systeme fast immer anders. Fragt man nach einem Endzustand,
+der zu weit in der Zukunft liegt, oder nach einem früheren Zustand, der weit in der Vergangenheit
+liegt, so stellt man fest, daß eine kleine Variation der Werte des Ausgangszustandes eine sehr große Variation der Werte des zu berechnenden Zustandes zur Folge hat. Die Größe dieser Variation
+wächst im Allgemeinen exponentiell mit dem zeitlichen Abstand zwischen Ausgangszustand
+und dem zu berechnenden Zustand. Da man einen Zustand grundsätzlich nur mit einer begrenzten Genauigkeit charakterisieren kann, folgt, daß man den Zustand zu einem weit in der Zukunft
+oder weit in der Vergangenheit liegenden Zeitpunkt prinzipiell nicht berechnen kann.
+Mathematisch äußert sich ein solches Verhalten darin, daß die Differentialgleichung, die das System beschreibt, nicht linear ist. Man sagt von solchen nichtlinearen System, sie verhalten sich
+chaotisch. Tatsächlich sieht das Verhalten dieser Systeme auch chaotisch - im umgangssprachlichen Sinn - aus. Aber Vorsicht! Nicht jeder Vorgang, der chaotisch aussieht, ist auch chaotisch im
+vorher erklärten Sinn. Ein System aus 20 linear gekoppelten Schwingern zum Beispiel kann Bewegungen ausführen, die völlig ungeordnet, d. h. chaotisch aussehen. Trotzdem ist das System
+nicht chaotisch im physikalischen Sinn: Seine späteren Zustände und seine in der Vergangenheit
+liegenden Zustände lassen sich aus einem vorgegebenen Ausgangszustand berechnen.
+Wir betrachten ein Beispiel. Abb. 11.1 zeigt zwei durch eine Feder gekoppelte Gleiter auf der
+Luftkissenbahn. Das System wird so angeregt, daß die Gleiter gegeneinander schwingen, ihr
+Schwerpunkt aber in Ruhe bleibt. Jeder Gleiter bewegt sich sinusförmig, Abb. 11.2. Ist ein Ausgangszustand vorgegeben, so lassen sich die Zustände zu beliebigen anderen Zeitpunkten be-
+
+Abb. 11.1. Zwei Gleiter auf der Luftkissenbahn schwingen
+um ihren gemeinsamen Schwerpunkt.
+
+Abb. 11.2. Weg-Zeit-Diagramm der beiden Gleiter von Abb.
+11.1
+
+58
+
+Abb. 11.3. Ein einziger Gleiter bewegt sich wie ein springender Ball.
+
+Abb. 11.4. Weg-Zeit-Diagramm des Gleiters von Abb.11.3
+
+rechnen. Das System verhält sich nicht chaotisch.
+Abb. 11.3 zeigt einen Gleiter auf einer geneigten Luftkissenbahn. Am tieferen Ende der Bahn ist
+ein recht harter elastischer Federpuffer angebracht. Der Gleiter bewegt sich beschleunigt nach
+links, wird "reflektiert", bewegt sich wieder nach rechts, kehrt wieder um usw. Das Weg-Zeit-Diagramm besteht aus nach unten offenen Parabeln, Abb. 11.4. Auch dieses System verhält sich
+nicht chaotisch.
+Wir kombinieren nun die beiden zuvor betrachteten Systeme, Abb. 11.5: Zwei gekoppelte Gleiter wie in Abb. 11.1 befinden sich
+auf einer geneigten Luftkissenbahn wie in
+Abb. 11.3. Es zeigt sich, daß die Bewegung
+des Systems chaotisch ist. Abb. 11.6 zeigt das
+Weg-Zeit-Diagramm eines der beiden Gleiter.
+Abb. 11.6a legt es schon nahe, daß es sich hier
+um einen chaotischen Vorgang handelt. Es
+könnte allerdings sein, daß der Vorgang nur
+Abb. 11.5. Kombination der Systeme von Abb. 11.1 und Abb.
+11.3
+unübersichtlich aussieht, aber nicht chaotisch
+im Sinne der Physik ist. Wir wiederholen daher den Versuch, wobei wir die Ausgangsbedingungen, so gut wir können, genauso einrichten,
+wie bei dem Versuch, dessen Ablauf Abb. 11.6a zeigt. Wir erhalten den Ablauf von Abb. 11.6b:
+trotz fast gleicher Anfangsbedingungen ein ganz anderes Verhalten als beim ersten Versuch.
+Es ist leicht, den Versuch auf dem Computer zu simulieren. Man gibt Anfangsbedingungen ein
+und läßt den simulierten Vorgang ablaufen. Man wiederholt die Simulation mit Anfangsbedingungen, die sich von denen des ersten Durchlaufs nur sehr wenig unterscheiden. Der Ablauf beim
+zweiten mal ist völlig anders. Der Computer bestätigt also, daß das Verhalten des Systems chaotisch ist.
+Eine übersichtliche Darstellung der auf dem Computer simulierten Bewegung zeigt Abbildung
+11.7. Hier sind die Schwerpunktsbewegung und die Relativbewegung der beiden Gleiter gegeneinander getrennt über der Zeit aufgetragen. Das System läßt sich entsprechend dieser Abbildung in zwei Teilsysteme zerlegen. Die Ortsvariable des einen ist die Schwerpunktskoordinate,
+die des anderen ist der Abstand der beiden Körper. Bei jedem Aufdopsen wird die Energie zwischen den beiden Teilsystemen neu verteilt.
+
+59
+
+Abb. 11.6. Weg-Zeit-Diagramm eines der beiden Gleiter von Abb. 11.5. Das Diagramm wurde zweimal aufgenommen. Die Anfangsbedingungen wurden dabei, so gut es ging, genauso gewählt.
+
+Abb. 11.7. Das Experiment von Abb. 11.5 wurde zweimal auf dem Computer simuliert. Die Anfangsbedingungen unterschieden
+sich um etwa 5 %. Schwerpunktsbewegung und Relativbewegung der beiden Gleiter sind getrennt dargestellt.
+
+12. Drehimpuls und Drehmoment
+12.1 Der Drehimpuls als mengenartige Größe
+Von einem sich drehenden Schwungrad sagt man, es habe Schwung. Was man in diesem Zusammenhang umgangssprachlich als Schwung bezeichnet, kann man aber nicht mit dem physikalischen Impuls identifizieren, denn der Gesamtimpuls des Schwungrades ist Null. Nur seine Teile
+haben Impuls.
+Wir betrachten als Repräsentanten des Schwungrades eine "Hantel": zwei Massenpunkte 1 und 2,
+verbunden durch eine masselose, starre Stange, Abb. 12.1. Die Massen der beiden Massenpunkte
+sind untereinander gleich. Die Hantel rotiert um eine Achse, die senkrecht auf der Verbindungsgeraden der beiden Massenpunkte steht, und die durch den Schwerpunkt geht. Wir nennen die
+Impulse der Massenpunkte p1 und p2. Im Schwerpunktsystem ist p1 + p2 = 0, also p1 = - p2.
+Kann man nun diese Hantel dadurch zum Stillstand bringen, daß man den Impuls von Massenpunkt 1 durch die Stange zu Massenpunkt 2 fließen läßt? Oder dadurch, daß man die beiden Massenpunkte zur Mitte bewegt, sodaß sich dort ihre Impulse kompensieren? Die Erfahrung zeigt,
+daß das nicht möglich ist. (Bei einer "Hantel", die aus zwei entgegengesetzten elektrischen Ladungen besteht, d. h. bei einem elektrischen Dipol, würde das durchaus gehen.) Man kann die
+Hantel nur dadurch zum Stillstand bringen, daß man Impulsströme zwischen dem System "Hantel" und einem weiteren System fließen läßt. Diese Tatsache ist ein Hinweis darauf, daß wir es
+hier mit einer neuen Erhaltungsgröße zu tun haben.
+Man nennt diese Größe Drehimpuls (oder Drall, oder Impulsmoment) und kürzt sie ab durch den
+Buchstaben L. Sie entspricht dem, was man umgangssprachlich den Schwung des Schwungrades nennt.
+Wir wollen einige Eigenschaften dieser Größe kennenlernen.
+Man kann das Schwungrad in der Gegend herumtragen. Das bedeutet, daß man auch den Drehimpuls im Raum herumbewegen kann.
+Drehimpuls kann von einem System auf ein anderes übertragen werden, er kann von einem in ein
+anderes System fließen, Abb. 12.2.
+Der Drehimpuls hat eine Richtung, er ist ein Vektor. Bei einem Schwungrad, das sich um seine
+
+Abb.12.1. Die Hantel dreht sich um eine Achse, die senkrecht
+auf der Verbindungsgeraden der bvvveiden Massenpunkte
+steht.
+
+Abb.12.2. Der Drehimpuls fließt durch die Welle und die
+Rutschkupplung vom linken zum rechten Schwungrad.
+
+61
+Symmetrieachse dreht, ist die Richtung des LVektors identisch mit der Richtung des Winkelgeschwindigkeitsvektors ω.
+Überträgt man auf ein System, das den Drehimpuls L0 hat, den Drehimpuls - L0, so resultiert
+der Drehimpulswert Null (spezieller Fall der
+Vektoraddition).
+Wir betrachten ein System, das aus vielen
+Schwungrädern besteht. Es ist
+L = ∑L i
+
+Abb.12.3. Manchmal kann man eine Drehimpulsdichte definieren.
+
+i
+
+wobei Li der Drehimpuls des i-ten Schwungrades ist.
+Man kann oft eine Drehimpulsdichte angeben, Abb. 12.3.
+Wir fassen zusammen:
+Der Drehimpuls
+- ist additiv bei Systemzusammensetzung;
+- kann strömen;
+- kann eine Dichte haben.
+Der Drehimpuls ist also eine mengenartige Größe.
+Man stellt außerdem experimentell fest, daß der Drehimpuls eine Erhaltungsgröße ist.
+Man kann für die Messung von Drehimpulswerten ein Verfahren verwenden, das zu dem in Abschnitt 2.1 geschilderten Verfahren zur Impulsmessung analog ist.
+Wir werden im folgenden Abschnitt sehen, daß man in bestimmten Fällen den Drehimpuls eines
+Systems aus der Impulsverteilung im System berechnen kann.
+
+12.2 Der Zusammenhang zwischen dem Drehimpuls eines Systems von Massenpunkten
+und den Impulsen der Massenpunkte
+Wir suchen den Zusammenhang zwischen dem Drehimpuls eines Systems und den Impulsen seiner Teile. Das betrachtete System ist ein "Schwarm" von Massenpunkten. Die Abstände der Massenpunkte untereinander brauchen nicht fest zu sein, die Massenpunkte können beliebig durcheinanderfliegen. Wir beginnen mit dem einfachsten Fall: mit zwei Massenpunkten. Die beiden
+Massenpunkte dürfen also zum Beispiel: starr miteinander verbunden sein, durch eine masselose
+Feder verbunden sein, durch ein elektrisches oder Gravitationsfeld verbunden sein oder sich völlig frei bewegen. Die Massen seien m1 und m2, die Ortsvektoren r1 und r2.
+Wir behaupten nun, daß die Größe
+2
+
+∑r
+i =1
+
+i
+
+× pi
+
+zeitlich konstant ist, solange in keinen der Massenpunkte ein Impulsstrom hineinfließt, der von
+
+62
+außerhalb des Systems kommt. Zum Beweis betrachten wir die Zeitableitung dieses Ausdrucks.
+d
+
+∑r
+
+i
+
+×pi
+
+dt
+
+=∑
+
+d ri
+dt
+
+× p i + ∑r i ×
+
+d pi
+dt
+
+Da
+d ri
+=vi
+dt
+parallel zu pi ist, verschwindet das erste Vektorprodukt auf der rechten Seite, und es bleibt
+d ∑r i × p i
+d p1
+d p2
+= r1 ×
++ r2 ×
+dt
+dt
+dt
+und mit
+d pi
+= Fi
+dt
+wird
+d ∑r i × p i
+= r 1 × F1 + r 2 × F 2
+dt
+Wenn kein Impuls von außen kommt, so fließen nur Impulsströme zwischen Massenpunkt 1 und
+Massenpunkt 2, und es ist F1 = -F2 = F. Damit wird
+d ∑r i × p i
+= (r 1 − r 2 ) × F
+dt
+Die Erfahrung zeigt, daß der Kraftvektor F parallel zur Verbindungslinie der Massenpunkte, und
+damit zu r1 - r2 liegt. Also ist die rechte Seite der letzten Gleichung Null, und damit ist der Ausdruck
+
+∑r i × p i
+i
+
+zeitlich konstant, q. e. d.
+Dieser Ausdruck ist zeitlich konstant, solange keine Impulsströme von außen kommen oder nach
+außen fließen. Wir könnten ihn daher mit L identifizieren. Wir tun es aber nicht, denn der Ausdruck kann von Null verschieden sein, obwohl sich das betrachtete System gar nicht dreht. Wir legen statt dessen für den Drehimpuls des Systems aus zwei Massenpunkten fest:
+L = r1 × p 1 + r 2 × p 2
+(S)
+
+(S)
+
+pi(S) sind die Impulse der Massenpunkte im Schwerpunktsystem. (Im Schwerpunktsystem ist die
+Summe der Impulse gleich Null.)
+Wir zeigen, daß eine analoge Gleichung auch für drei Massenpunkte gilt. Die Verallgemeinerung
+für n Massenpunkte liegt dann auf der Hand.
+d ∑r i × p i
+dt
+
+(S)
+
+= Beweisschritte wie vorher = ∑r i × F i
+
+63
+Da wieder kein Impuls von außen kommt, stellt Fi die Gesamtstärke der Impulsströme zwischen
+Massenpunkt i und den beiden anderen Massenpunkten dar:
+F i = ∑ F ik
+i ≠k
+
+d ∑r i × p i
+dt
+
+(S)
+
+= r 1 × (F 1 2 + F1 3) + r 2 × (F 2 3 + F 2 1) + r 3 × (F 3 1 + F 3 2 )
+
+Wegen der Impulserhaltung ist Fik = -Fki.
+d ∑r i × p i
+dt
+
+(S)
+
+= (r 1 − r 2 ) × F1 2 + (r 2 − r 3 ) × F 2 3 + (r 3 − r 1) × F 3 1
+
+Auf Grund der Erfahrungstatsache, daß Fik parallel zum Verbindungsvektor ri - rk ist, wird die
+rechte Seite gleich Null.
+(S)
+∑r i × p i
+
+ist also zeitlich konstant, und wir haben
+L = ∑r i × p i(S )
+
+f ü r ein System von Massenpunkten
+
+Für die Maßeinheit des Drehimpulses Euler (E) gilt damit: 1 E = 1 Hy . m = 1 N . m . s = 1 J . s.
+Beispiele typischer Drehimpulswerte
+System Erde-Sonne
+Erde
+Schwungrad einer großen Dampfmaschine
+Schwungrad einer Spielzeugdampfmaschine
+Elektron
+Zwei Warnungen
+
+3 . 1040 E
+7 . 1033 E
+104 E - 105 E
+5 . 10-3 E
+0,53 . 10-34 E
+
+1. Die hier ausgeführte Rechnung ist kein Beweis der Drehimpulserhaltung. Es ist auch nicht die
+Ableitung der Drehimpulserhaltung aus der Impulserhaltung. Die Drehimpulserhaltung wurde
+in die Rechnung zusätzlich hineingesteckt in Form der folgenden Aussage: "Die Erfahrung zeigt,
+daß der Kraftvektor F parallel zur Verbindungslinie der Massenpunkte liegt." Dieser Satz besagt
+ja genau, daß man die beiden Impulse einer Hantel nicht einfach zur Mitte fließen lassen kann, damit sie sich kompensieren. Dieser Satz ist also eine Art, die Drehimpulserhaltung zu formulieren.
+2. Die Formel
+L = ∑r i × p i
+
+(S)
+
+ist zwar verallgemeinerungsfähig, gilt aber keineswegs immer. Sie gilt näherungsweise für eine
+echte Hantel, d. h. eine Hantel die nicht aus zwei Massenpunkten, sondern aus zwei ausgedehnten Körpern besteht. Die beiden Körper an den Enden der Hantel dürfen aber selbst keinen Drehimpuls haben. (Massenpunkte haben per definitionem keinen Drehimpuls.) Es gibt physikalische Systeme, die keine Ausdehnung, aber trotzdem Drehimpuls haben, z. B. Elektronen. Den
+Drehimpuls der Elektronen kann man nicht nach der Formel
+L = ∑r i × p i
+
+(S)
+
+berechnen. Diese Formel kann also nicht die Definitionsgleichung des Drehimpulses sein.
+
+64
+12.3 Das Drehmoment und die Kontinuitätsgleichung
+Ein Motor versetzt ein Schwungrad in Drehung, Abb. 12.4. Da der Drehimpuls des Schwungrades zunimmt, muß durch die Antriebswelle Drehimpuls hindurchfließen. Es fließt ein Drehimpulsstrom von der Erde durch die Welle ins Schwungrad. Für die Stärke M dieses Stroms gilt:
+M = dL
+dt
+Man nennt M das Drehmoment. Man sagt: "Der Motor übt auf das Schwungrad ein Drehmoment
+aus", oder "am Schwungrad greift ein Drehmoment an".
+Man kann die Funktion einiger technischer Vorrichtungen so beschreiben:
+Welle:
+Leitung für den Drehimpuls
+Lager:
+Isolator für den Drehimpuls
+Kupplung:
+Schalter für den Drehimpuls
+Bremse:
+Schalter, durch den ein Drehimpulsstrom in die Erde geleitet werden kann
+Fließt ein Drehimpulsstrom durch einen elastischen Stab, so wird der Stab verdrillt. Der Verdrillungswinkel ist ein Maß für die Drehimpulsstromstärke.
+Da der Drehimpuls eine Erhaltungsgröße ist, kann sich sein Wert innerhalb eines Raumbereichs
+nur dadurch ändern, daß ein Drehimpulsstrom in den Bereich hinein- oder aus ihm herausfließt.
+Wie schon beim Impuls, kann das Hinein- und Herausfließen auf zweierlei Art geschehen: entweder, wie im oberen Teil von Abb. 12.5, über eine unter Torsionsspannung stehende Welle,
+oder, wie im unteren Teil der Abbildung, dadurch, daß sich Drehimpuls "konvektiv" in den Bereich hinein oder aus ihm herausbewegt. Nur den ersten dieser beiden Stromtypen nennt man
+Drehmoment M. Bezeichnet man den zweiten mit Mkonv, so ist die Gesamtstromstärke
+IL = M + Mkonv
+und wir können die Kontinuitätsgleichung für den Drehimpuls schreiben:
+dL =I
+L
+dt
+
+Abb.12.4. Ein Drehimpulsstrom fließt aus der Erde über die
+Welle ins Schwungrad.
+
+Abb.12.5. Zwei Typen von Drehimpulsströmen:(a) Drehmoment; (b) konvektiver Strom
+
+65
+12.4 Der Zusammenhang zwischen Drehmoment und Kräften
+Für ein System von Massenpunkten berechnen wir
+d L = d ∑r i × p i
+dt
+dt
+
+(S)
+
+Der Rechengang ist derselbe wir der in Abschnitt 12.2. Wir wollen jetzt auch Kräfte zulassen, die
+von außen auf das System wirken, allerdings noch mit der Einschränkung
+
+∑F i = 0
+Hier ist Fi die von außen auf den Massenpunkt i wirkende Kraft. Wenn diese Bedingung erfüllt
+ist, ändert sich der Schwerpunktimpuls nicht. Wir erhalten
+dL = r × F
+∑ i
+i
+dt
+und wegen
+dL =M
+dt
+wird
+M = ∑r i × F i
+
+mit
+
+∑F i = 0
+
+Besteht das System aus nur zwei Massenpunkten, so ist F1 + F2 = 0, d. h. die beiden Kraftvektoren sind entgegengesetzt gleich:
+F1 = -F2 = F
+Das Drehmoment
+M = (r1 - r2) × F
+nennt man in diesem speziellen Fall Kräftepaar.
+Größenordnung einiger Drehmomente:
+starker Schiffsmotor
+106 E/s
+Automotor
+100 E/s
+Spielzeugmotor
+10-2 E/s
+Wir bilden nun für einen einzigen Massenpunkt die Größe r × p, wobei r der Ortsvektor in einem
+beliebigen Ortskoordinatensystem ist, und p der Impuls des Massenpunktes. Wir bezeichnen
+den Ursprung des Ortskoordinatensystems mit O. Wir bilden die Zeitableitung
+d (r × p ) d r
+d p
+=
+×p +r ×
+=r ×F
+dt
+dt
+dt
+=0
+Man nennt oft
+r × p den Drehimpuls des Massenpunktes in Bezug auf O;
+r × F das auf den Massenpunkt ausgeübte Drehmoment in Bezug auf O.
+Diese beiden Größen sind aber mit Vorsicht zu behandeln, denn ihre Werte hängen nicht nur von
+der Wahl des Geschwindigkeits-, sondern auch von der des Ortskoordinatensystems ab.
+
+66
+12.5 Das Trägheitsmoment
+Je schneller sich ein Körper um eine bestimmte Achse dreht, desto größer ist sein Drehimpuls: je
+größer ω desto größer L. Der genaue mathematische Zusammenhang zwischen ω und L kann
+recht kompliziert sein. Er hängt von der räumlichen Verteilung der Masse des betrachteten Körpers ab, und er hängt davon ab, um welche Achse sich der Körper dreht. Wir beginnen die Untersuchung des ω-L-Zusammenhangs mit einem sehr einfachen Spezialfall: mit einer Hantel, die
+um ihre Achse (durch den Schwerpunkt und senkrecht zur Verbindungsgeraden der beiden Massenpunkte) rotiert.
+Der Drehimpuls der Hantel ist:
+L = r1×p1(S) + r2×p2(S)
+Die Indizes 1 und 2 beziehen sich auf die beiden Massenpunkte.
+Da p1(S) = -p2(S) ist, wird
+L = (r1 - r2)×p1(S)
+Da r1 - r2 senkrecht auf p1(S) steht, ergibt sich für den Betrag von L:
+L = 2rp.
+Hier ist r der Betrag von (1/2)(r1 - r2), d. h. der Abstand der Massenpunkte von der Achse, und p
+der Betrag von p1(S) und von p2(S).
+Mit p = mv = mωr wird
+L = 2r2mω,
+oder vektoriell
+L = Jω
+
+mit
+
+J = 2r2m
+
+(12.1)
+
+Also: Drehimpuls- und Winkelgeschwindigkeitsvektoren sind parallel und ihre Beträge proportional zueinander. Den Proportionalitätsfaktor nennt man Trägheitsmoment. Das Trägheitsmoment sagt uns, ob ein mit einer bestimmten Winkelgeschwindigkeit rotierender Körper viel oder
+wenig Drehimpuls enthält. Wir können es als die Drehimpulskapazität des Systems auffassen. Es
+ist damit ein Maß für die Trägheit eines Körpers bezüglich Drehbewegungen. Ein großes Trägheitsmoment bedeutet ja, daß man dem Körper viel Drehimpuls zuführen muß, um seine Winkelgeschwindigkeit zu vergrößern.
+Die Beziehung (12.1) hat dieselbe Struktur wie der Geschwindigkeits-Impuls-Zusammenhang
+p = mv
+oder der Zusammenhang zwischen elektrischer Spannung und elektrischer Ladung
+Q = CU.
+Für das Trägheitsmoment der Hantel haben wir gefunden
+J = 2r2m
+Es hängt nicht nur von der Masse der Hantel ab, sondern auch davon, wo die Masse sitzt. Je weiter
+sie von der Achse entfernt ist, d. h. je größer r ist, desto größer ist auch J, desto träger ist die Hantel (bezüglich Rotationsbewegungen).
+Wir untersuchen nun den ω-L-Zusammenhang für den nächst komplizierteren Körper, einen
+Körper, der inversionssymmetrisch bezüglich einer Achse ist. Er soll um diese Symmetrieachse
+
+67
+rotieren. Wir zerlegen den Körper in Gedanken
+in kleine Massenelemente. Die Ausdehnung jedes dieser Massenelemente soll klein sein gegen die gesamte radiale Ausdehnung des Körpers. Jedes Massenelement kann wie ein Massenpunkt behandelt werden. Wegen der Inversionssymmetrie des Körpers lassen sich die
+Massenelemente zu Paaren zusammenfassen,
+von denen jedes eine Hantel bildet, deren Achse
+mit der Rotationsachse des Körpers zusammenfällt, Abb. 12.6.
+
+Abb.12.6. Der Körper läßt sich in viele Hanteln zerlegen.
+
+Wenn sich der Körper mit der Winkelgeschwindigkeit ω um seine Achse dreht, so rotiert auch jede Hantel mit dieser Winkelgeschwindigkeit. Jede Hantel liefert nun einen Beitrag
+2ωri2∆mi
+zum Gesamtdrehimpuls. Die Hanteln sind mit dem Index i durchnumeriert. ∆mi ist die Masse jedes der beiden Massenelemente der Hantel i, und ri ist der Abstand dieser Massenelemente von
+der Drehachse.
+Man kann auch sagen, jede halbe Hantel, also jedes Massenelement, liefere den Beitrag
+
+∆Li = ωri2∆mi
+zum Gesamtdrehimpuls.
+Der Gesamtdrehimpuls ist die Summe aller dieser Beiträge:
+L = ω ∑r i2∆m i
+i
+
+oder vektoriell geschrieben:
+L = Jω
+
+mit
+
+J = ∑r i2∆ m i
+i
+
+Macht man die Zerlegung in Massenelemente immer feiner, so erhält man als Grenzwert
+J = ∫ r 2dm
+
+(12.2)
+
+Wir sehen: Auch hier sind L und ω proportional zueinander.
+Wir machen uns als nächstes klar, daß man im Allgemeinen nicht mit einer einzigen Zahl auskommt, wenn man die Trägheit eines Körpers bezüglich Rotationsbewegungen charakterisieren
+will. Wir betrachten einen Körper, der inversionssymmetrisch bezüglich mehrerer Achsen ist,
+z. B. den in Abb. 12.7. Wir können mit Gleichung (12.2) drei Trägheitsmomente berechnen: je eines für die Rotation um jede der drei Symmetrieachsen. Selbstverständlich erhält man im Allgemeinen für jede Drehrichtung einen anderen Wert.
+Wir sehen also: J ist nicht einfach eine einzige für den Körper charakteristische Zahl. Das Trägheitsmoment hat vielmehr für verschiedene Drehrichtungen verschiedene Werte. Es wird aber
+noch komplizierter.
+Wir lassen wieder eine Hantel rotieren, diesmal aber um eine Achse, die nicht mehr senkrecht auf
+der Verbindungsgeraden der Massenpunkte steht, sondern einen schiefen Winkel zu ihr bildet.
+
+68
+
+Abb.12.7. Der Körper ist bezüglich drei Achsen inversionssymmetrisch.
+
+Abb.12.8. Die Hantel rotiert um eine Achse, die nicht senkrecht auf der Verbindungslinie der Massenpunkte steht.
+
+Durch den Schwerpunkt soll sie aber nach wie vor gehen, Abb. 12.8. Wieder suchen wir den ωL-Zusammenhang. Wir berechnen:
+L = r1×p1(S) + r2×p2(S)
+Dazu legen wir den Ursprung der Ortsvektoren der Bequemlichkeit halber in den Schwerpunkt
+der Hantel, sodaß r1 = - r2. Außerdem ist sowieso p1(S) = - p2(S). Es wird daher
+L = 2r1×p1(S)
+Der Drehimpulsvektor steht also senkrecht auf den Impulsvektoren und senkrecht auf der Verbindungsgeraden der Massenpunkte der Hantel, Abb. 12.9. L hat also nicht dieselbe Richtung
+wie ω. Der L-Vektor bewegt sich mit der Winkelgeschwindigkeit ω auf einem Kegelmantel
+um die ω-Richtung. Wir sehen, daß die Beziehung L = Jω hier nicht mehr gilt.
+Trotzdem sagt man, daß die Beziehung zwischen den Vektoren ω und L linear sei. Verändert
+man nämlich den Betrag der Winkelgeschwindigkeit um einen bestimmten Faktor, nicht aber ihre Richtung, so ändert sich der Betrag des Drehimpulses um denselben Faktor, während sich die
+Richtung von L nicht ändert.
+Mathematisch beschreibt man eine solche "lineare Transformation eines Vektors" in einen anderen durch einen Tensor. Man sagt, das Trägheitsmoment ist ein Tensor und schreibt den Zusammenhang zwischen ω und L
+L = Jω
+Der Tensor J kann analytisch dargestellt werden durch eine 3×3-Matrix, die die 9 "Komponenten" des Tensors enthält. Stellt man auch den ω-Vektor durch seine Komponenten dar, so kann
+man J und ω miteinander multiplizieren und
+erhält L in Komponentenschreibweise. Von
+den 9 Komponenten des Trägheitstensors
+(=Träheitsmomenttensors) sind nur 6 voneinander unabhängig. Das bedeutet, daß das Trägheitsverhalten eines Körpers bezüglich Rotationsbewegungen durch 6 Zahlen eindeutig bestimmt ist. Der Körper kann eine beliebig komplizierte Verteilung der Massendichte haben seine Rotationsträgheit ist stets durch 6 Zahlenwerte festgelegt.
+Mit diesen Zahlen, d. h. den Komponenten des
+
+Abb.12.9. Der Drehimpulsvektor ist nicht parallel zum Winkelgeschwindigkeitsvektor.
+
+69
+Trägheitstensors, verhält es sich ähnlich wie mit den Komponenten eines Vektors. Die Komponenten ein und desselben Vektors haben, je nach Koordinatensystem unterschiedliche Werte.
+Genauso haben auch die Komponenten eines Tensors, je nach Koordinatensystem, verschiedene
+Werte.
+Es gibt nun eine spezielle Wahl des Koordinatensystems, in dem die Komponenten eine besonders anschauliche Bedeutung haben. Es ist das Koordinatensystem, in dem die den Tensor darstellende Matrix Diagonalform hat. Das bedeutet: Läßt man den Körper um eine der Koordinatenachsen rotieren, d. h. weist der Winkelgeschwindigkeitsvektor in eine der drei Koordinatenachsenrichtungen, so weist auch der Drehimpulsvektor in diese Richtung: ω und L liegen parallel zueinander. Dies gilt für alle drei Koordinatenachsenrichtungen. Für jede dieser Richtungen gilt also
+L = Jω
+
+mit
+
+i = 1, 2, 3
+
+Zu jeder dieser Richtungen gehört ein Wert des Trägheitsmoments. Die diesen drei Richtungen
+entsprechenden Drehachsen heißen Hauptträgheitsachsen. Die entsprechenden Werte des Trägheitsmoments sind die Hauptträgheitsmomente. Es wird nun auch plausibel, warum man 6 Zahlen braucht, um das Trägheitsverhalten eines Körpers zu charakterisieren: 3 Zahlen legen die
+Richtungen der Hauptträgheitsachsen fest und 3 weitere Zahlen die Werte der 3 Hauptträgheitsmomente.
+Rotiert ein Körper mit konstanter Winkelgeschwindigkeit um eine andere als eine Hauptträgheitsachse, so ändert sich sein Drehimpuls ständig. Die Komponenten des Drehimpulses, die
+senkrecht zu ω liegen ändern sich sinusförmig. Der entsprechende Zu- und Abfluß von Drehimpuls geschieht meist über die Lager und ist leicht zu beobachten oder zu messen.
+
+12.6 Die Zerlegung des Drehimpulses - Spin und Bahndrehimpuls
+Wir zeigen diese Zerlegung für einen einfachen Fall: für ein System von 4 Massenpunkten, Abb.
+12.10. Das Gesamtsystem A wird zerlegt in zwei räumlich getrennte Systeme a und b. Wir fragen
+nach dem Zusammenhang zwischen dem Drehimpuls LA des Gesamtsystems und den Drehimpulsen La und Lb der Teilsysteme. Wir geben zunächst LA, La und Lb einzeln an:
+LA = r1×p1(A) + r2×p2(A) + r3×p3(A) + r4×p4(A)
+La= r1×p1(a) + r2×p2(a)
+Lb= r3×p3(b) + r4×p4(b)
+pi(x) ist hier der Impuls von Massenpunkt i im Schwerpunktsystem von System x, Abb. 12.11.
+Eine etwas mühsame Rechnung ergibt ein sehr einfaches und einleuchtendes Ergebnis.
+Mit r1 = ra + r1(a), r2 = ra + r2(a), r3 = rb + r3(b) und r4 = rb + r4(b) wird
+LA = (ra + r1(a))×p1(A) + (ra + r2(a))×p2(A) + (rb + r3(b))×p3(A) + (rb + r4(b))×p4(A)
+Wir benutzen p1(A) = m1(va(A) + v1(a)) und die entsprechenden Beziehungen für die Massenpunkte 2 bis 4 und ordnen um:
+LA = ra × (p1(A)+p2(A))+ rb × (p3(A) + p4(A))
++ m1r1(a)× (va(A) + v1(a)) + m2r2(a)× (va(A) + v2(a))
++ m3r3(b)× (vb(A) + v3(b)) + m4r4(b)× (vb(A) + v4(b))
+
+70
+
+Abb.12.10. Das System A wird in Teilsysteme zerlegt.
+
+Abb.12.11. Zur Definition der in der Rechnung verwendeten
+Größen
+
+Mit p1(A) + p2(A) = pa(A) und p3(A) + p4(A) = pb(A) (Schwerpunktimpulse der Systeme a und b),
+sowie mit m1r1+ m2r2 = 0 und m3r3+ m4r4 = 0 (Definition der Schwerpunkte Sa und Sb) wird
+LA = (ra × pa(A))+ (rb × pb(A))+ (r1(a)×p1(a)) + (r2(a)×p2(a)) + (r3(b)×p3(b)) + (r4(b)×p4(b))
+Die letzten 4 Summanden sind gerade gleich La + Lb. Es ist also
+L A = L a + L b + L a −b
+
+mit
+
+L
+
+a−b
+
+=
+
+∑r i
+a, b
+
+× p (i A)
+
+Der Gesamtdrehimpuls von System A ist also gleich der Summe der Drehimpulse der Teilsysteme a und b plus dem Drehimpuls La-b eines dritten Systems a-b. a-b ist das System, das entsteht,
+wenn die Masse von System a im Schwerpunkt Sa vereinigt wird und die von System b in Sb. Wir
+haben also A zerlegt in die drei Teilsysteme a, b und a-b.
+Eine solche Zerlegung wird oft gemacht, wenn a und b starre Körper sind, aber auch beim Atom,
+wo etwa a ein Elektron und b der Atomkern ist. Man nennt La und Lb den Eigendrehimpuls oder
+Spin von System a bzw. b.
+Hat eines der Systeme a und b eine viel größere Masse als das andere, ist also z. B. mb » ma, so ist
+der Abstand rb - rA des Schwerpunktes Sb vom Gesamtschwerpunkt SA viel kleiner als ra - rA.
+Legt man den Ursprung der Ortsvektoren in SA, so ist in der Summe
+L
+
+a−b
+
+=
+
+∑r i
+a, b
+
+× p (i A)
+
+der Beitrag von System b viel kleiner als der von System a. Es hat sich daher leider eingebürgert,
+in diesem Fall La-b den Bahndrehimpuls von System a zu nennen.
+12.7 Drehimpuls und Energie
+Drehimpulsstrom und Energiestrom
+Durch eine Welle kann ein Energiestrom fließen. Damit ein Energiestrom fließt, ist es notwendig,
+daß
+- sich die Welle dreht, also ω ≠ 0 ist;
+- ein Drehimpulsstrom fließt, also M ≠ 0 ist.
+Die Energiestromstärke P ist also eine Funktion von ω und von M. Wir suchen den Zusammenhang E(ω,M). Durch die beiden Seile in Abb. 12.12 fließe je ein Impulsstrom. Die Kraftvekto-
+
+71
+
+Abb.12.12. Durch jedes der beiden Seile fließt sowohl Energie als auch Impuls.
+
+Abb.12.13. Energieübertragung durch eine Welle. Durch die
+Welle fließen Energie und Drehimpuls.
+
+ren seien entgegengesetzt gleich. Die Kraft in beiden Seilen zusammen ist also Null. Es fließt aber
+ein Drehimpulsstrom der Stärke
+M = 2r × F.
+Der Energiestrom, der durch beide Seile zusammen zum Rad fließt, hat eine Stärke von
+P = 2vF.
+Mit v = ω × r wird
+P = 2(ω × r)F.
+Nach den Regeln der Vektorrechnung wird
+P = 2 ω(r × F)
+und mit r × F = M/2
+P =ωM
+
+(12.3)
+
+Energieübertragung durch Wellen
+In Abb. 12.13 fließt der Drehimpuls in einem geschlossenen Stromkreis zwischen Energiequelle
+(Turbine) und Energieempfänger (Generator): Ein Teil des Weges führt durch die Welle, der andere durch die Gehäuse der Maschinen und die Fundamente. Die Energie begleitet den Drehimpuls nur auf einem Teil seines Weges: nur durch die Leitungen, für die ω ≠ 0 ist.
+
+Energiespeicherung im Schwungrad
+Ein sich drehendes Schwungrad hat mehr Energie als ein ruhendes. Um die Energieänderung des
+Schwungrades zu berechnen, laden wir es mit Energie und mit Drehimpuls auf. Dabei fließen ein
+Energie- und ein Drehimpulsstrom in das Schwungrad hinein. Die Stromstärken hängen miteinander zusammen über Gleichung (12.3). Für das Schwungrad gelten die Kontinuitätsgleichungen von Energie und Drehimpuls:
+P = dE
+dt
+Damit wird
+
+und
+
+M =dL
+dt
+
+72
+dE = ω d L
+dt
+dt
+und
+
+∫dE = ∫ωd L
+und mit L = Jω
+E = 1 ∫ Ld L
+J
+2
+L
+E (L ) =
++ E0
+2J
+oder
+E (ω ) = J ω 2 + E 0
+2
+
+12.8 Der Steinersche Satz
+Ein Körper a der Masse m rotiere um eine fest an die Erde montierte Achse A, Abb. 12.14. Bekannt sei
+- die Winkelgeschwindigkeit ω ;
+- das Trägheitsmoment J des Körpers.
+Wieviel Drehimpuls und wieviel Energie enthält
+- der Körper a;
+- das System Körper-Erde?
+Da die Erde starr ist und schwer gegen den rotierenden Körper, können wir sie uns ersetzt denken
+durch einen Körper b unendlich großer Masse am Ort der Drehachse, Abb. 12.15. Wir zerlegen
+nun das Gesamtsystem in Teilsysteme, so wie es in Tabelle 12.1 dargestellt ist. Gesamtdrehimpuls L und gesamte kinetische Energie Ekin ergeben sich als Summen der entsprechenden Werte
+der Teilsysteme.
+
+Abb. 12.14. Der Körper a rotiert um die Achse A.
+
+Abb. 12.15. Die Erde wurde durch den unendlich schweren
+Körper b am Ort der Drehachse ersetzt.
+
+73
+Tabelle 12. 1
+
+Teilsystem
+
+Winkelgeschwindigkeit
+
+Trägheitsmoment
+
+Drehimpuls
+
+kinetische
+Energie
+
+Körper a
+
+ω
+
+J
+
+Jω
+
+(J/2)ω2
+
+Körper b
+
+0
+
+uninteressant
+
+0
+
+0
+
+System a-b der
+Schwerpunkte
+von a und b
+
+ω
+
+mra2
+
+ωmra2
+
+(1/2)mra2ω2
+
+L = ωJ + ωmra2 = ω(J + mra2) = ωJA
+J
+E kin = 1 (J + mr a2 )ω 2 = Aω 2
+2
+2
+Man nennt
+JA = J + mra2
+das "Trägheitsmoment des Körpers a bezüglich der Drehachse A". Der Zusammenhang zwischen J und JA heißt der Steinersche Satz. Tatsächlich ist JA die Summe der Trägheitsmomente
+von Körper a und System a-b.
+
+12.9. Die Analogie zwischen Elektrizitätslehre, Translationsmechanik und Rotationsmechanik
+Die Analogie geht aus Tabelle 12.2 hervor. Sie geht weiter als es nach dieser Tabelle den Anschein hat. Insbesondere existiert auch innerhalb der Rotationsmechanik ein Dualismus. Man
+hätte in die Tabelle noch eine zweite elektrische Spalte einführen können, an deren Spitze das
+elektrische Dipolmoment stehen müßte, das Analogon zum "Impulsmoment" L. Diese Spalte
+wäre allerdings weniger interessant, denn das elektrische Dipolmoment ist, im Gegensatz zum
+Drehimpuls, keine Erhaltungsgröße.
+Tabelle 12.2
+
+Elektrizitätslehre
+
+Translationsmechanik
+
+Q
+ϕ
+U
+C
+L
+nΦ
+Q = CU
+P = UI
+2
+
+Q
+E = E 0 + 2C
+
+Rotationsmechanik
+
+p
+v
+∆v
+m
+1/D
+r
+p = mv
+P = ∆v F
+
+L
+ω
+∆ω
+J
+1/ Richtmoment
+α
+L = Jω
+P = ∆ωM
+
+p2
+E = E 0 + 2m
+
+L
+E = E 0 + 2J
+
+2
+
+Wir wollen zwei Beispiele der Analogie betrachten, die wir im nächsten
+Abschnitt brauchen, Abb.
+12.16 und 12.17. In den
+Systemen von Abb. 12.16
+schwingt die mengenartige Größe X (Q bzw. p
+bzw. L) zwischen System 1 und System 2 hin
+und her. Bei den Systemen von Abb. 12.17 fließt
+die mengenartige Größe
+X von dem System, in
+dem die intensive Größe
+ξ den größeren Wert hat,
+
+74
+
+Abb.12.16. Die mengenartige Größe (Q bzw. p bzw.L)
+fließt zwischen den Teilsystemen 1 und 2 hin und her.
+
+Abb.12.17. Die mengenartige Größe fließt von dem Teilsystem, in dem die intensive Variable den größeren Wert hat in
+das Teilsystem, in dem sie den kleineren Wert hat.
+
+in das System, in dem ξ den kleineren Wert hat. Der Strom hört auf zu fließen, wenn der Wert der
+intensiven Größe in beiden Systemen gleich geworden ist. Diesen Zustand nennt man Gleichgewicht bezüglich des Stroms der Größe X.
+
+12.10 Zweckmäßige Zerlegungen in Teilsysteme; die Gezeiten; die Spin-Bahn-Kopplung
+Wir knüpfen an Abschnitt 12.6 an. Man kann ein System oft auf verschiedene Arten in Teilsysteme zerlegen. Der Gesamtdrehimpuls ist in jedem Fall gleich der Summe der Drehimpulse der
+Teilsysteme. Manchmal fließt nun Drehimpuls aus einem Teilsystem in ein anderes (im Fachjargon: die Teilsysteme sind "aneinander gekoppelt"). Man kann dabei zwei Extremfälle unterscheiden.
+Der Drehimpulsstrom zwischen zwei Teilsystemen kann dissipativ sein. In diesem Fall fließt er
+solange, bis die ω-Werte der beiden Teilsysteme gleich geworden sind. Es herrscht dann Gleichgewicht bezüglich des Drehimpulsstroms oder "Rotationsgleichgewicht". Ein Beispiel hierfür
+ist der Drehimpulsstrom, der aus dem System Erde in das System fließt, das aus den Schwerpunkten von Erde und Mond gebildet wird. Ein solcher Strom kommt zustande durch die Gezeiten.
+(Die Systeme Mond und Mond-Erde sind bereits im Gleichgewicht, sie haben bereits dieselbe
+Winkelgeschwindigkeit.)
+Der Strom zwischen Teilsystemen kann auch nicht-dissipativ sein. Dann fließt er zwischen den
+Teilsystemen ständig hin und her. Ein Beispiel herfür sind die Atome. Im Wasserstoffatom zum
+Beispiel fließt Drehimpuls ständig hin und her zwischen dem Teilsystem Elektron und dem Teilsystem, das aus den Schwerpunkten von Elektron und Kern gebildet wird. Dieses Hin- und Herfließen von Drehimpuls nennt man Spin-Bahn-Kopplung.
+Atome mit vielen Elektronen kann man auf viele Arten in Teilsysteme zerlegen. Es ist zweckmäßig, das so zu tun, daß starke Drehimpulsströme nur innerhalb der Teilsysteme auftreten, nicht dagegen zwischen einem Teilsystem und einem anderen. Der Drehimpuls jedes der so gewählten
+Teilsysteme ist dann nahezu konstant.
+
+75
+12.11 Drehmomentgleichgewichte
+Wir haben in Kapitel 4 gesehen, wie man mit
+der Knotenregel für Impulsströme einen bestimmten Typ statischer Probleme lösen kann.
+In Abb. 12.18 ist ein Problem dargestellt, das
+auf diese Art nicht gelöst werden kann. Die
+Masse der Last und die Geometrie der Anordnung sind gegeben. Gesucht sind die Kräfte auf
+die beiden Lager P und Q. Da die drei in dem
+Problem auftretenden Kraftvektoren parallel
+liegen, ist die Zerlegung der Gewichtskraft FG
+in die Kräfte auf die Lager nicht eindeutig. Das
+Abb.12.18. Die Zerlegung von FG in zwei parallele Kräfte
+untere Teilbild zeigt zwei der unendlich vielen ist nicht eindeutig.
+Möglichkeiten. Das Problem läßt sich aber lösen, wenn man für den Balken außer der Impulsbilanz
+
+∑F i = 0
+i
+
+noch die Drehimpulsbilanz macht:
+
+∑M i = ∑r i × F i = 0
+Man legt denn Nullpunkt der Ortsvektoren ri so, daß die Rechnung möglichst einfach wird. Wir
+legen ihn in den Punkt Q. Damit stehen die ri senkrecht auf den Kraftvektoren und die Vektorprodukte werden zu gewöhnlichen Produkten der Vektorbeträge. Außerdem fällt der Term
+r Q × FQ weg, da rQ = 0 ist. Es bleibt also
+-aFP + bFG = 0
+Mit FG = - mg und FP + FQ + FG = 0 wird
+F P = − ba m g
+F Q = mg (1 + ba )
+
+13. Mechanische Spannung - Impulsstromdichte
+Wir betrachten ein Stück Materie, das zwischen die Backen einer Schraubzwinge eingeklemmt
+ist, so daß in x-Richtung eine Kraft wirkt, Abb. 13.1. Wir legen an irgendeiner Stelle durch das
+Materiestück eine senkrechte Schnittfläche A. Das Materiestück links der Schnittfläche übt nun
+auf das Materiestück rechts der Schnittfläche eine Kraft aus, oder in anderen Worten; durch die
+Schnittfläche ließt ein Impulsstrom.
+Oft ist es zweckmäßig, diesen Sachverhalt lokal zu beschreiben. Man benutzt hierzu den Quotienten
+
+σ =F
+A
+Diese Größe heißt mechanische Spannung oder Impulsstromdichte. (Eine Stromstärke pro Fläche heißt immer Stromdichte.) Die Größe beschreibt den lokalen Spannungszustand der Materie.
+Ist σ an einer Stelle größer als Null, so herrscht dort eine Druckspannung, wenn σ kleiner als
+Null ist, eine Zugspannung.
+Nun ist der Spannungszustand eines Materiestücks aber durch die Angabe einer einzigen Spannung noch nicht eindeutig beschrieben. Es können nämlich unabhängig von der zuerst betrachteten Kraft in x-Richtung noch je eine Kraft in y- und in z-Richtung wirken, Abb. 13.2. Die Materie kann also in drei aufeinander senkrechten Richtungen unter drei verschiedenen Spannungen
+stehen. Um den lokalen Spannungszustand vollständig zu beschreiben, muß man daher angeben:
+- die Richtung eines rechtwinkligen Dreibeins, in dem die Spannungskomponenten unabhängig
+voneinander sind;
+- die zu den drei unabhängigen Richtungen gehörenden σ-Werte.
+Wir hatten anläßlich der Diskussion des Trägheitsmoments gelernt, daß ein Gebilde, das man auf
+diese Art beschreiben kann, ein Tensor ist. Auch die mechanische Spannung ist also ein Tensor.
+Der Name des mathematischen Gebildes "Tensor" stammt übrigens von dieser physikalischen
+Realisierung.
+Während der Trägheitstensor einem ganzen Körper zugeordnet ist, ist der Spannungstensor eine
+lokale Größe, er gehört zu einem einzigen Punkt. Seine Komponenten können an jeder Stelle eines Systems andere Werte haben.
+
+Abb. 13.1. Der eingeklemmte Körper steht in x-Richtung
+unter Druckspannung.
+
+Abb. 13.2. Der eingeklemmte Körper steht in x- und yRichtung unter verschiedenen Druckspannungen.
+
+14. Statische Felder
+14.1 Physikalische und mathematische Felder
+Felder sind physikalische Systeme. Es gibt eine Reihe verschiedenartiger Felder. Wir betrachten
+hier nur das elektromagnetische Feld und das Gravitationsfeld. Folgende Eigenschaften von Feldern sind uns bisher begegnet:
+- in Feldern fließen Impulsströme (Felder übertragen Kräfte);
+- Felder enthalten Energie;
+- in Feldern fließen Energieströme (diese haben wir allerdings nur beobachtet, solange sich ein
+Feld ändert).
+Bisher war ein Feld für uns etwas ähnliches wie eine Feder in einem undurchsichtigen Kasten, aus
+dem nur zwei "Haken" herausgucken: elektrische Ladungen Magnetpole oder Massen. Wir haben die Existenz der Felder nur durch Bilanzieren festgestellt: "Hier endet die sichtbare Leitung
+eines Impulsstroms, also muß hier eine unsichtbare Leitung beginnen, durch die der Impuls weiterfließen kann." Wir wollen in diesem Kapitel in den Kasten hineinschauen und verschiedene
+Fragen beantworten:
+1. Wie hängt die Stärke des Impulsstroms von einem "Haken" zum anderen, also von einer Masse
+zur anderen oder von einer Ladung zur anderen, von den Werten der Massen bzw. Ladungen und
+von ihren Abständen ab?
+2. Wie sieht die Impulsstromverteilung im Feld aus, welchen Weg nehmen die Impulsströme im
+Feld?
+3. Wie ist die Energie im Feld verteilt?
+Die Luft über der Erdoberfläche hat an verschiedenen Stellen verschiedene Temperaturen T, verschiedene Drücke p, verschiedene Massen- und Entropiedichten ρm bzw. ρS und verschiedene
+chemische Zusammensetzungen. Man kann jeder Stelle einen T-, p-, ρm-und ρS-Wert zuordnen, sowie Konzentrationswerte der verschiedenen in der Luft enthaltenen Stoffe.
+Die Menge aller T-Werte T(x,y,z) bildet ein Temperaturfeld, die der p-Werte p(x,y,z) ein
+Druckfeld usw. Das Wort Feld wird hier in einer anderen Bedeutung benutzt als vorher. Um die
+beiden Bedeutungen zu unterscheiden sprechen wir hier auch von mathematischen Feldern, im
+Gegensatz zu den vorher diskutierten physikalischen Systemen, die wir physikalische Felder
+nennen wollen.
+Wir werden sehen, daß man ein physikalisches Feld oft durch mathematische Felder beschreiben
+kann. Nur wenn das (physikalische) Feld an allen Stellen im Raum identisch ist, braucht man zur
+Beschreibung keine mathematischen Felder. Ein solches Feld nennt man homogen. Die Situation
+ist dieselbe, wie wenn wir Luft in einem Behälter haben und T, p, ρ etc. überall im Behälter denselben Wert haben. Dann genügt es, einen einzigen T-Wert, p-Wert etc. anzugeben, um den Zustand der Luft vollständig zu beschreiben.
+
+78
+
+Abb. 14.1. Verdoppelt man die Masse von m0 auf 2m0, so verdoppelt sich auch die Kraft auf diesen Massenpunkt.
+
+14.2 Die physikalische Größe Feldstärke
+Wir betrachten ein beliebiges statisches (zeitlich konstantes) Gravitationsfeld, das zu einer Verteilung von Massen m1, m2, m3, …mn gehört. Wir bringen an eine Stelle r dieses Feldes einen
+Massenpunkt der Masse m0 und stellen fest, daß das Feld auf den Massenpunkt eine Kraft ausübt,
+d. h. daß vom Feld her ein Impulsstrom auf den Massenpunkt fließt, Abb. 14.1. Wir verdoppeln
+nun die Masse des Massenpunktes auf 2m0 und stellen fest, daß sich auch die Kraft auf den Massenpunkt verdoppelt. Es ist so, als hätten wir einfach zwei Massenpunkte nebeneinander gesetzt.
+Die Kraft des Feldes auf den ersten scheint die Kraft des Feldes auf den zweiten nicht zu stören. F
+ist also proportional zu m:
+(14.1)
+F=g.m
+Der vektorielle Proportionalitätsfaktor g ist von m unabhängig. Er charakterisiert das Feld, das
+die Massen m1, m2, …mn an der Stelle erzeugen, an der sich der Massenpunkt m0 befindet. Wir
+nennen ihn die Stärke des Gravitationsfeldes der Massen m1, m2, …mn. Man beachte, daß g(r)
+die Stärke des Feldes in dem Zustand ist, in dem sich m0 noch nicht an der Stelle r befindet.
+All dies gilt sinngemäß auch für statische elektrische Felder: Die Kraft, die ein elektrisches Feld
+auf eine Punktladung Q ausübt, ist proportional zu Q. Der Proportionalitätsfaktor E heißt die
+Stärke des elektrischen Feldes der anderen Ladungen, d. h. aller Ladungen außer der betrachteten
+Punktladung:
+F = E . Q.
+
+14.3. Das Newtonsche Gravitationsgesetz - das Coulombsche Gesetz
+Newtons Gravitationsgesetz (1687)
+Der Ort von zwei Massenpunkten m1 und m2 sei festgelegt durch die Ortsvektoren r1 und r2,
+Abb. 14.2. Newton zeigte, daß die Kraft F2, die der Massenpunkt m1 auf den Massenpunkt m2
+ausübt, gegeben ist durch
+m 1m 2 r
+F2 = − G
+( )
+r2 r
+Hier ist
+G = 6, 67 ⋅ 10
+
+−1 1
+
+m3
+kg ⋅ s 2
+
+79
+
+Abb. 14.2. Zum Gravitationsgesetz
+
+Abb. 14.3. Die Feldstärkepfeile weisen zum Massenpunkt m
+hin.
+
+eine universelle Konstante, die Gravitationskonstante, und r = r2 - r1 der Abstandsvektor zwischen m1 und m2. Man erhält daraus die Feldstärke g1 des Feldes von m1 allein:
+m1 r
+g 1 (r ) = − G 2 ( r )
+r
+Wenn wir m1 und das entsprechende Feld allein betrachten, können wir den Index 1 weglassen.
+Wir erhalten somit die Feldstärkeverteilung des Feldes eines Massenpunktes der Masse m:
+m r
+g (r ) = − G 2 ( r )
+r
+Jedem Punkt des Feldes ist damit ein Vektor g(r) zugeordnet. g(r) ist ein Vektorfeld (Feld im
+mathematischen Sinn). Die Feldstärkevektorpfeile weisen zum Massenpunkt m hin, Abb. 14.3.
+
+Das Coulombsche Gesetz (1785)
+Hundert Jahre nach der Veröffentlichung des Gravitationsgesetzes zeigte Coulomb, daß eine
+ähnliche Beziehung für die Kraft F2 gilt, die eine Punktladung Q1 auf eine Punktladung Q2
+ausübt:
+F2 =
+
+1 Q 1Q 2 ( r )
+4π ε0 r 2 r
+
+Hier ist
+
+ε 0 = 8, 85 ⋅ 10
+
+−12
+
+As
+Vm
+
+die elektrische Feldkonstante.
+Für die elektrische Feldstärke E1 des Feldes von Q1 allein erhält man
+E 1(r ) =
+
+1 Q 1 (r )
+4π ε0 r 2 r
+
+oder, wenn man den Index 1 wegläßt
+E (r ) =
+
+1 Q (r )
+4π ε0 r 2 r
+
+80
+
+Abb. 14.4. Die Vektorpfeile wurden durch Linien ersetzt, an
+die sie Tangenten sind.
+
+Abb. 14.5. Feldlinien enden nur auf Massen.
+
+Falls die Ladung positiv ist, weisen die Feldstärkevektoren von der Ladung weg. Ist sie negativ,
+so weisen sie zur Ladung hin.
+
+14.4. Feldlinienbilder - die Divergenzfreiheit von Feldern
+Eine besonders praktische Art, Feldstärkeverteilungen darzustellen, ist das Feldlinienbild. Statt
+der Feldstärkepfeile zeichnet man durchgehende Linien, und zwar so, daß die Feldstärkevektorpfeile Tangenten an die Linien sind. Im Fall des Feldes eines Massenpunktes m0 sind die Feldlinien Geraden, die von m0 aus radial nach außen laufen, so wie es Abb. 14.4 zeigt. Bei dieser Abbildung wurde aber eine weitere Vereinbarung noch nicht berücksichtigt: Die Dichte der Linien,
+d. h. die Linienzahl Z pro senkrecht zu den Linien stehender Fläche A wird proportional zur
+Feldstärke gewählt:
+Z =k g
+A
+Wir wollen berechnen, wie dann die Linienzahl vom Abstand r vom Zentrum abhängt. Wir berechnen die Zahl Z(r) der Linien, die eine Kugelfläche mit dem Radius r durchstoßen.
+m0
+Z (r ) = k g A = kG 2 ⋅ 4 π r 2 = kG 4 π m 0
+r
+Die Zahl der Linien ist also unabhängig von r. Jede Kugelfläche wird von derselben Zahl Linien
+durchstoßen. Das bedeutet, daß die Feldlinien durchgehend sind: Sie laufen vom Massenpunkt
+radial nach außen. Man ordnet nun jeder Feldlinie auch noch eine Richtung zu: dieselbe Richtung, die die Feldstärkevektoren haben, die tangential zur Linie liegen. Die Feldlinien kommen
+also von außen und laufen radial auf den Massenpunkt zu, Abb. 14.5.
+Diese Feststellung gilt viel allgemeiner als es nach unserer Herleitung den Anschein hat. Es gilt
+nämlich:
+Die Feldlinien von statischen Gravitationsfeldern enden auf Massen.
+An Stellen des Feldes, an denen die Massendichte Null ist, beginnen oder enden keine Feldlinien.
+Man sagt auch: Das Feld g(r) ist an Stellen mit ρm(r) = 0 divergenzfrei. Mathematisch drückt
+man diesen Tatbestand so aus
+div g(r) = 0
+
+für
+
+ρm(r) = 0
+
+Die Feldlinien des Gravitationsfeldes haben damit eine ähnliche Eigenschaft wie die Stromlinien
+
+81
+
+Abb. 14.6. Die Stärke des Feldes, das 2m0 an irgendeiner
+Stelle erzeugt, ist doppelt so groß wie die des Feldes von m0.
+
+Abb. 14.7. Die Stärke des Feldes von m1 und m2 ist gleich
+der Vektorsumme der Feldstärken der Felder von m1 und
+m2 allein.
+
+einer Wasserströmung. Sie suggerieren, daß etwas strömt. Tatsächlich sind sie aber keine Stromlinien. Insbesondere stellen sie weder die Stromlinien des Impuls-, noch die des Energiestroms
+dar.
+Alles in diesem Abschnitt Gesagte gilt sinngemäß für das elektrische Feld. Insbesondere gilt:
+Die elektrischen Feldlinien beginnen an positiven und enden an negativen Ladungen.
+
+14.5 Die Überlagerung von Feldstärkeverteilungen
+Die Stärke des Feldes eines Massenpunktes m0 ist
+g (r ) = − G
+
+m0 r
+( )
+r2 r
+
+(14.2)
+
+Verdoppelt man die Masse des Massenpunktes von m0 auf 2m0, so verdoppelt sich die Feldstärke an jeder Stelle r. Verdoppeln der Masse ist aber dasselbe, als hätte man 2 Massenpunkte der
+Masse m0 an dieselbe Stelle gesetzt. Die Stärke des Feldes, das zu den beiden Massenpunkten gehört, ist also gleich der Summe der beiden Feldstärken, Abb. 14.6. Die Erfahrung lehrt, daß dies
+auch viel allgemeiner gilt: Die Stärke des Feldes in einem Punkt P von zwei Massenpunkten, die
+sich an beliebigen Stellen befinden, ist gleich der Vektorsumme der Stärken der Felder, die jeder
+Massenpunkt im Punkt P hervorrufen würde, wenn er allein vorhanden wäre, Abb. 14.7. Man
+kann daher die Gravitationsfeldstärke einer
+Massenverteilung konstruieren aus den Feldstärken, die zu den einzelnen Massen gehören.
+Das Analoge gilt für die elektrische Feldstärke.
+Achtung: Aus der Tatsache, daß sich die Feldstärken additiv verhalten, folgt nicht, daß sich
+alle anderen Größen des Feldes auch additiv
+verhalten. Insbesondere verhalten sich die
+mengenartigen Größen der Felder nicht additiv.
+Wir wollen noch einmal die Beziehung
+
+Abb. 14.8. Wendet man die Beziehung F = gm auf den Körper O an, so ist g die Stärke des Feldes der Körper 1 bis 4.
+
+82
+F = gm
+betrachten. Wir wenden sie an auf den Körper O in Abbildung 14.8. g(r) ist die Stärke des Feldes, das die Körper 1 bis 4 an der Stelle r erzeugen. Es ist die Stärke, die das Gravitationsfeld dort
+hätte, wenn der Körper O nicht vorhanden wäre. g(r) ist also nicht die Stärke des tatsächlich vorhandenen Feldes. Diese ist wegen der Gegenwart von Körper O ganz anders. Die Abbildungen
+14.9a und 14.9b zeigen das an dem Beispiel, in dem g(r) von einem einzigen Massenpunkt herrührt. In Abb. 14.9a ist das Feldlinienbild des Feldes dargestellt, dessen Feldstärke in F0 = gm0
+eingesetzt werden muß, wenn man die Kraft F0 berechnen will, die Massenpunkt m1 auf Massenpunkt m0 ausübt. Abb. 14.9b zeigt das Feldlinienbild des tatsächlich vorhandenen Feldes.
+
+Abb. 14.9. (a) Die Verteilung der Feldstärke, die in F = gm eingesetzt werden muß. (b) Die Feldstärkeverteilung des tatsächlich
+vorhandenen Feldes
+
+Die Masse in F = gm nennt man oft Probemasse, die Ladung in F = EQ entsprechend Probeladung, denn man stellt sich gern vor, daß man diese Masse bzw. Ladung nur dazu benutzt, die Feldstärke zu messen, die ohne sie vorhanden wäre. Man nimmt sie also nach der Messung wieder heraus, sodaß nun die Feldstärke tatsächlich den Wert hat, den man mit Hilfe der Probemasse bzw.
+–ladung bestimmt hat.
+
+14.6 Massen und Ladungen als Quellen von (mathematischen) Feldern
+Wir wollen die Frage untersuchen, wie die Zahl der Feldlinien, die zu einem Massenpunkt hinlaufen, durch einen zweiten Massenpunkt beeinflußt wird. Nähert man sich hinreichend einem der
+Massenpunkte in Abb. 14.10, etwa dem Massenpunkt m1, so wird die Feldstärke beliebig groß.
+Der relative Einfluß des Massenpunktes m2
+auf die Feldstärke wird damit bei Annäherung
+an m1 beliebig klein. Die Feldstärkeverteilung
+in der Nähe von m1 ist also dieselbe, als wäre
+m1 allein vorhanden. Wir legen nun um m1 eine sehr kleine Kugelfläche. Die Zahl der Feldlinien, die diese Kugelfläche durchstoßen, ist
+von m1 allein bestimmt. Legt man nun eine
+große geschlossene Fläche um m1, die aber m2
+nicht enthält, so müssen in die große Fläche genauso viele Feldlinien eintreten wie in die kleine, denn im Feld beginnen oder enden ja keine Abb. 14.10. Die Zahl der Feldlinien, die in eine geschlossene
+Feldlinien. Die Zahl der Feldlinien, die in die Fläche eintreten, hängt nur von der Masse ab, die sich innerhalb der Fläche befindet.
+
+83
+geschlossene Fläche eintreten, hängt also nur von der Gesamtmasse innerhalb der Fläche ab. Sie
+ist proportional zu dieser Masse. Bei der Zählung muß natürlich jede aus der Fläche austretende
+Feldlinie gegen eine eintretende aufgerechnet werden.
+
+14.7 Beispiele von Feldstärkeverteilungen
+(a) Die Feldstärkeverteilung eines unendlich ausgedehnten Plattenkondensators
+Die Feldlinien einer gleichmäßig elektrisch geladenen Platte verlaufen aus Symmetriegründen
+senkrecht zur Platte nach beiden Seiten, Abb. 14.11a und 14.11b. Die Feldstärke in einem Plattenkondensator erhält man durch Addition der Feldstärke einer positiv geladenen und einer gegen
+die erste versetzten negativ geladenen Platte, Abb. 14.11c. Das resultierende Feld hat überall außerhalb der Platten die Feldstärke Null. Zwischen ihnen ist es homogen.
+Bei zwei gleichartig geladenen Platten oder einer Anordnung aus zwei flachen parallelen Massenplatten ist der Raum zwischen den Platten feldfrei, hier ist die Feldstärke Null. Außerhalb ist
+das Feld homogen, Abb. 14.12.
+
+Abb. 14.11. Das Feld im Innern des Kondensators (c) entsteht
+aus der Überlagerung der Felder der Platten (a und b).
+
+Abb. 14.12. Das Feld zwischen zwei gleichartig geladenen
+Platten oder zwischen zwei Massenplatten (c) entsteht aus der
+Überlagerung der Felder der Platten (a und b).
+
+(b) Die Feldstärkeverteilung des Feldes von zwei Punktladungen und von zwei Massenpunkten
+Man erhält es z. B. durch graphische Addition der Feldstärkevektoren, aus denen der beiden einzelnen Punktladungen bzw. -massen. In Abb. 14.13 ist das Feld von zwei Punktladungen gleichen Betrages, aber unterschiedlichen Vorzeichens dargestellt. Abb. 14.14 zeigt die Feldstärkeverteilung von zwei Punktladungen gleichen Betrages und gleichen Vorzeichens. Sie ist dieselbe
+wie die von zwei Massenpunkten gleicher Masse.
+
+(c) Die Feldstärkeverteilung des Feldes einer kugelsymmetrischen Ladungs- bzw. Massenverteilung
+Aus Symmetriegründen müssen die Feldlinien radial nach außen verlaufen, Abb. 14.15. Wir legen um das Zentrum in Gedanken eine Kugelschale, und zwar so, daß sich außerhalb keine Quellen (Ladungen bzw. Massen) befinden. Die Feldliniendichte ist hier durch die Gesamtladung
+
+84
+
+Abb. 14.13. E-Feldlinien des Feldes von zwei Punktladungen gleichen Betrages und entgegengesetzten Vorzeichens
+
+Abb. 14.14. E- bzw. g-Feldlinien des Feldes von zwei gleichen Punktladungen oder zwei gleichen Massenpunkten
+
+(bzw. -masse) innerhalb der Kugelfläche bestimmt. Die Feldstärke ist daher dieselbe, als wäre die
+ganze Ladung bzw. Masse im Kugelmittelpunkt konzentriert.
+Hieraus folgt z. B. , daß die Feldstärke des Gravitationsfeldes an der Erdoberfläche dieselbe ist,
+als wäre die ganze Masse der Erde im Erdmittelpunkt konzentriert. Es gilt also Gleichung (14.2):
+g (r ) = − G
+
+m0 r
+( )
+r2 r
+
+wo für m0 die Erdmasse und für r der Erdradius einzusetzen ist. Mit m0 = 5,977 . 1024 kg und
+r = 6,371 . 106 m erhält man
+g (r ) = − 9, 82 N ( rr )
+kg
+Setzt man diesen Wert in Gleichung (14.1) ein, so erhält man die "Gewichtskraft" an der Erdoberfläche, vergleiche Abschnitt 4.4.
+
+(d) Die Feldstärkeverteilung des Feldes einer kugelschalenförmigen Quellenverteilung
+Außerhalb von r0 ist die Feldstärke dieselbe als wären die Quellen im Kugelmittelpunkt konzentriert. Innerhalb der Kugelschale könnten die Feldlinien aus Symmetriegründen nur radial verlaufen. Verliefen sie aber so, so müßte sich im Mittelpunkt eine Quelle befinden, was aber nicht
+der Fall ist. Folglich ist die Feldstärke überall im Innern der Kugel Null, Abb. 14.16.
+Sitzt elektrische Ladung homogen verteilt auf eines sehr dünnen Kugelschale vom Radius r0, so
+
+Abb. 14.15. Feldlinien einer kugelsymmetrischen Quellenverteilung
+
+Abb. 14.16. Feldlinien einer kugelschalenförmigen Quellenverteilung
+
+85
+ist die Ladung pro Fläche
+Q
+Q
+=
+A
+4π r 02
+Nun ist die Feldstärke direkt außerhalb der Kugelfläche
+E (r 0 ) =
+
+1 Q (r )
+4π ε0 r 2 r
+0
+
+Es ist daher
+Q
+A = ε 0E
+Dies ist eine lokale Aussage über einen Punkt der Oberfläche der geladenen Kugel. Sie gilt immer, wenn die Feldlinien von einer geladenen Fläche aus senkrecht in nur einer Richtung weglaufen.
+Auf analoge Art berechnen wir den Zusammenhang zwischen der Masse pro Fläche m/A und der
+Feldstärke g. Aus
+m
+m
+=
+A
+4π r 02
+und
+g (r 0 ) = G m2 ( rr )
+r0
+folgt
+g
+m
+=
+A
+4π G
+
+14.8 Mechanische Spannungen in statischen Feldern
+Wir betrachten die Ladung von Platte 2 in Abb. 14.17 als Probeladung im Feld von Platte 1. Die
+Gültigkeit der Gleichung F2 = Q2E1 beschränkt sich zunächst auf einen Punkt. Wir zerlegen daher Platte 2 in sehr viele kleine, gleich große Segmente, von denen jedes die Ladung Q2i trägt.
+Die Gesamtladung ist
+Q 2 = ∑Q 2i
+i
+
+Auf jedes der Elemente Q2i übt Platte 1 die
+Kraft
+F2i = Q2iE1
+aus. Da E1 an den Orten aller Ladungen Q2i
+denselben Wert hat, und alle Q2i untereinander gleich sind, ist die Gesamtkraft F2 auf Platte 2
+F 2 = ∑F 2i = E 1∑Q 2i = E 1Q 2
+
+Abb. 14.17.Die Ladung von Platte 2 wird als Probeladung im
+Feld von Platte 1 betrachtet.
+
+86
+Diese Formel ist, wegen der Homogenität des
+Feldes der Platte 1, dieselbe als wäre Q2 eine
+Punktladung.
+Nun ist
+E1 = E/2
+wenn E die Feldstärke im kompletten Kondensator ist. Es ist also
+F 2 = Q 2E
+2
+Nach Abschnitt 14.7 (d) ist |Q2|/A = ε0/|E|, da
+rechts von Platte 2 die Feldstärke Null ist. Wir
+erhalten also
+ε0 2
+F2 = − 2 E A
+
+Abb. 14.18. Der Impulsstrom fließt durch das Feld von einer
+Platte zur anderen. Das Feld steht in x-Richtung unter Zugspannung.
+
+Dies ist aber nicht nur die Kraft, die Platte 1 auf Platte 2 ausübt. Es ist auch die Kraft, die Platte 1
+auf das Feld unmittelbar vor Platte 1 ausübt, und es ist die Kraft, die das Feld unmittelbar vor Platte 2 auf Platte 2 ausübt, und es ist auch die Kraft, die die linke Hälfte des Feldes auf die rechte ausübt. In der Impulsstromsprache ausgedrückt ist F2 die Stärke des Impulsstroms, der von Platte 1
+nach Platte 2 fließt. Es ist natürlich egal, ob man den Strom am Ort von Platte 1 oder von Platte 2
+oder irgendwo dazwischen betrachtet: Er hat überall dieselbe Stromstärke, Abb. 14.18.
+Die Tatsache, daß durch das Feld ein Impulsstrom fließt bzw. daß ein Teil des Feldes auf einen anderen eine Kraft ausübt, ist gleichbedeutend damit, daß das Feld selbst unter mechanischer Spannung steht. Da ein Teil des Feldes am anderen zieht, handelt es sich um eine Zugspannung. Die
+mechanische Spannung σx in x-Richtung erhält man, indem man die Kraft durch die Fläche dividiert:
+
+ε0 2
+σx = − 2 E
+Im Kondensator herrscht also in Feldlinienrichtung eine Zugspannung, egal ob die linke Platte
+positiv und die rechte negativ ist oder umgekehrt. Einem kleinen Ausschnitt eines elektrischen
+Feldes sieht man nicht an, durch welche Anordnung das Feld erzeugt wird. Es gilt daher allgemein:
+In einem elektrischen Feld herrscht in Richtung der Feldlinien Zugspannung.
+Wir betrachten nun das elektrische Feld von zwei gleichartig geladenen Platten, sowie das Gravitationsfeld von zwei parallelen Massenplatten, Abb. 14.19a und 14.19b. Den Feldlinienverlauf
+hatten wir schon in Abschnitt 14.7 gefunden. Der Raum zwischen den Platten ist feldfrei. Hier
+fließt also kein Impulsstrom. In der Abbildung wird der Impuls zwischen den Platten durch Federn geleitet. Im elektrischen Fall stehen die Federn, sowie das Feld außerhalb der Platten unter
+Zugspannung. Im Gravitationsfeld stehen die Federn unter Druckspannung. Also muß auch im
+Feld eine Druckspannung herrschen:
+Im Gravitationsfeld herrscht in Richtung der Feldlinien Druckspannung.
+Den Wert der mechanischen Spannung σx im Gravitationsfeld berechnen wir wie den von σx im
+elektrischen Feld.
+
+87
+
+Abb. 14.19. (a) Die gleichartig geladenen Platten werden vom elektrischen Feld voneinander weggezogen. (b) Die Massenplatten
+werden vom Gravitationsfeld zueinander hingedrückt
+
+F2 = m2g1
+Wenn wir die Feldstärke außerhalb des Plattenpaares mit g bezeichnen, so ist
+g
+g1 = 2
+Damit und mit
+m2
+g
+=
+A
+4π G
+wird
+F2 =
+
+1 g 2A
+4πG
+
+und
+
+σx =
+
+1 g
+8 πG
+
+2
+
+Gleichartig geladene Körper werden also vom Feld nicht voneinander weggedrückt, sondern -gezogen. Ebenso werden zwei Massen, etwa Erde und Mond vom Feld nicht zueinander hingezogen, sondern von außen zueinander hingedrückt.
+Sowohl im elektrischen als auch im Gravitationsfeld herrscht auch quer zu den Feldlinien eine
+mechanische Spannung: im elektrischen Feld eine Druckspannung und im Gravitationsfeld eine
+Zugspannung. Daß etwa im elektrischen Feld
+eines Plattenkondensators quer zu den Feldlinien eine Druckspannung herrscht, macht man
+sich leicht plausibel. Die Platten des Kondensators von Abb. 14.20 stehen in y-Richtung
+unter Zugspannung. Es fließt also innerhalb der
+Platten ein y-Impulsstrom von oben nach unten. Dieser kann nur durch das Feld wieder zurückfließen. Im Feld fließt er also von unten
+nach oben. Das bedeutet, daß im Feld eine
+Druckspannung herrscht. Die Zug- und Druckspannungen in elektromagnetischen Feldern Abb. 14.20. Die Kondensatorplatten stehen unter Zugspannung. Daher muß das Feld zwischen ihnen in senkrechter
+wurden um 1840 von Faraday entdeckt.
+Richtung unter Druckspannung stehen.
+
+88
+Wir geben ohne Beweis die mechanischen Spannungen quer zu den Feldlinien an. Wenn der
+Feldstärkevektor in x-Richtung liegt, so ist:
+elektrisches Feld
+Gravitationsfeld
+
+ε0 2
+σy = 2E
+1 g
+σy = −
+8 πG
+
+ε0
+σz = 2E
+2
+
+σz = −
+
+2
+
+1 g
+8 πG
+
+2
+
+14.9 Die Energieverteilung im statischen elektrischen und im statischen Gravitationsfeld
+Bewegt man eine Platte eines geladenen Kondensators gegen die andere, wie es Abb. 14.21 zeigt,
+so fließt Energie in das Feld des Kondensators gemäß
+P = vF
+Mit P = dE/dt (für das Feld im Kondensator) und v = dx/dt wird
+dE = Fdx
+Die gesamte Energie, die im Kondensator steckt, wenn der Plattenabstand x0 beträgt, erhält man
+durch Integration von x = 0 bis x = x0:
+x0
+
+E = ∫ F dx
+0
+
+Mit
+
+ε0 2
+F = 2E A
+(wo A der Flächeninhalt einer Kondensatorplatte ist) ergibt sich
+
+ε0
+2
+E = 2AE x0
+Das Produkt aus Fläche und Plattenabstand ist gleich dem Volumen des Feldes. Daher ist die
+Energiedichte ρE = E/V:
+
+ρE =
+
+ε0
+2
+
+E
+
+2
+
+Zur Berechnung der Energiedichte des Gravitationsfeldes betrachten wir zwei parallele Massenplatten. Die Rechnung ist analog zu der vorangehenden:
+x0
+
+E = ∫ F dx
+0
+
+Mit
+F =
+
+1 g 2A
+8πG
+
+ergibt sich für den Betrag der zu den Platten geflossenen Energie
+Abb. 14.21. Bewegt man die rechte Platte nach rechts, so
+fließt Energie in das Feld zwischen den Platten.
+
+89
+E =
+
+1 g 2Ax
+0
+8πG
+
+Dieser Energiebetrag ist aber nicht von der Erzeugung von Feld begleitet, sondern von der
+Vernichtung des Feldes zwischen den Platten.
+Wir können diesem Tatbestand dadurch Rechnung tragen, daß wir sagen, die Energiedichte
+im Feld sei negativ:
+
+ρE = −
+
+1 g2
+8πG
+
+Abb. 14.22. Für die Verschiebung des kleinen Körpers von
+ro nach r muß Energie aufgebracht werden.
+
+Man kann sich auch vorstellen, daß man Energie braucht, um gravitationsfeldfreien Raum "aufzuspannen".
+
+14.10 Das Gravitationspotential
+Die Feldstärkeverteilung für einen Massenpunkt ist durch Gleichung (14.2) gegeben. Dieselbe
+Gleichung gilt für kugelsymmetrische Massenverteilungen, allerdings nur außerhalb des Gebietes, in dem sich die Massenverteilung befindet.
+Wir betrachten das Feld einer kugelsymmetrischen Massenverteilung der Gesamtmasse m0. Wir
+bringen einen kleinen Körper der Masse m an die Stelle r0. Der Ursprung der Ortsvektoren liege
+im Symmetriezentrum O der Massenverteilung m0. Wir verschieben nun den Körper der Masse
+m an eine andere Stelle r, Abb. 14.22. Ist diese Stelle von O weiter entfernt als r0, so muß für die
+Verschiebung Energie aufgebracht werden. Man steckt diese Energie in das den beiden Massen
+m0 und m gemeinsame Gravitationsfeld.
+Wir berechnen den aufzubringenden Energiebetrag:
+r
+
+r
+
+E (r ) − E (r 0 ) = ∫ F d r = Gmm 0 ∫ dr2 = − Gmm 0 ( r1 − r1 )
+r0
+r0 r
+0
+
+(14.3)
+
+Je größer der Abstand r ist, auf den man m bringt, desto mehr Energie wird gebraucht.
+Wir dividieren nun diese Energie durch die Masse m des Körpers, den wir verschieben. Diese
+Energie pro Masse
+E (r ) − E (r 0 )
+= − Gm 0 ( r1 − r1 )
+m
+0
+
+(14.4)
+
+ist unabhängig von m. Sie hängt nur von der Massenverteilung m0 ab. Es handelt sich daher um
+eine Funktion von r, mit der das Feld von m0 allein beschrieben wird. Wir nennen die Größe
+E (r )
+= V (r )
+m
+
+(14.5)
+
+das Gravitationspotential.
+Das Gravitationspotential ist eine Größe, die einem Punkt in einem (physikalischen) Feld zugeordnet ist. Sie ist damit eine mathematisches Feld.
+Mit (14.5) können wir das Potential der kugelsymmetrischen Massenverteilung schreiben:
+
+90
+1
+1
+V (r ) − V (r 0 ) = − Gm 0 ( r − r )
+0
+Diese Gleichung legt das Gravitationspotential nur bis auf eine willkürliche additive Konstante
+fest. Das bedeutet, daß der Nullpunkt von V frei wählbar ist. Man legt oft fest
+V(r → ∞) = 0
+Damit wird
+V (r ) = −
+
+Gm 0
+r
+
+Die Beschreibung eines (physikalischen) Feldes durch die Potentialverteilung V(r) ist der Beschreibung durch die Feldstärkeverteilung g(r) äquivalent. Die eine kann aus der anderen berechnet werden. Wir haben den Zusammenhang zwischen beiden am Beispiel des Feldes der kugelsymmetrischen Massenverteilung gezeigt. Allgemein gilt:
+V (r ) − V (r 0 ) = −
+
+r
+
+∫r
+
+g (r )d r
+0
+
+g (r ) = − grad V (r )
+
+Abb. 14.23. Äquipotentialflächen und Feldlinien einer kugelsymmetrischen Massenverteilung
+
+Abb. 14.24. Äquipotentialflächen und Feldlinien von zwei
+kugelsymmetrischen Körpern unterschiedlicher Masse
+
+Die Bedingung V(r) = const legt eine Fläche konstanten Potentials fest. Für verschiedene Werte
+Vi ergeben sich verschiedene Äquipotentialflächen. Die Äquipotentialflächen des Feldes einer
+kugelsymmetrischen Massenverteilung sind Kugelflächen, Abb. 14.23.
+Die Äquipotentialflächen eines Feldes liegen immer senkrecht zu den Feldlinien. Die graphische
+Darstellung der Äquipotentialflächen ist daher
+genauso suggestiv wie die der Feldlinien.
+Abb. 14.24 zeigt Feldlinien und Äquipotentialflächen von zwei kugelsymmetrischen Körpern unterschiedlicher Masse.
+
+14. 11 Das Zweikörperproblem
+Wir fragen nach der Bewegung von zwei Körpern, die über ein Feld aneinanderhängen, Abb.
+14.25.
+
+Abb. 14.25. Zweikörperproblem
+
+91
+
+Abb. 14.26. Energie- und Impulsflüsse beim System Körper-Feld-Körper. (a) Die Massen der beiden Körper sind von derselben
+Größenordnung. (b) Die Masse des einen Körpers ist viel größer als die des andern.
+
+Bei der Bewegung fließen Impulsströme über das Feld zwischen den beiden Körpern. Das Feld
+kann keinen Impuls aufnehmen. Sein Impuls ändert sich also nicht.
+Bei der Bewegung fließen außerdem Energieströme. Da das Feld Energie aufnehmen kann,
+nimmt die Energie des Feldes zeitweise auf Kosten der Energie der Körper zu und umgekehrt,
+Abb. 14.26a.
+Ein wichtiger Sonderfall ist der, bei dem einer der beiden Körper sehr schwer gegen den anderen
+ist: m1>>m2.
+Beispiele
+System Sonne - Erde: mSonne>>mErde
+System Erde-Mond: mErde>>mMond
+System Ablenkplatten einer Fernsehröhre - Elektron: mFernseher>>mElektron
+System Atomkern - Elektron: mAtomkern>>mElektron
+System Erde - Apfel: mErde>>mApfel
+In diesen Fällen fließt die Energie praktisch nur zwischen dem Feld und dem leichten Körper hin
+und her, Abb. 14. 26b. Außerdem ist die Bewegung, d. h. die Geschwindigkeit, des schweren gegen die des leichten vernachlässigbar. Warum?
+Wir betrachten die Energie der Körper im Schwerpunktsystem. Aus
+p2
+E = 2m + E 0
+folgt
+p
+dE = m d p
+Fließt Impuls von einem Körper zum andern, so ist dp1 = - dp2 = dp. Außerdem ist p1 = - p2 = p.
+Damit wird
+dE 1 =
+
+pd p
+m1
+
+und dE 2 =
+
+pd p
+m2
+
+dE1 und dE2 haben dasselbe Vorzeichen: Wenn E1 zunimmt, so nimmt auch E2 zu. Die Energiebeträge dE1 und dE2 kommen beide aus dem Feld. Wegen m1>>m2 ist aber dE1 << dE2,
+
+92
+d. h. dE1 ist gegen dE2 vernachlässigbar. Die Energie fließt also praktisch nur zwischen dem
+Feld und dem leichten Körper 2 hin und her. Wegen
+p2 = m2v2 = -p1 = m1v1
+ist mit m1>>m2 auch v1 gegen v2 vernachlässigbar. Im Schwerpunktsystem sind also Geschwindigkeit und kinetische Energie des schweren Körpers praktisch gleich Null.
+Da sich Körper 1 nicht bewegt, ist der Beitrag von Körper 1 zum Feld zeitlich konstant. Man sagt
+daher auch: "Das Feld von Körper 1 ist zeitlich konstant." Außerdem sagt man: "Körper 2 bewegt
+sich im Feld von Körper 1." Körper 2 bewegt sich also in einem zeitlich konstanten Gravitationsfeld. Mit "Feld" ist hier die Feldstärkeverteilung g(r) gemeint.
+
+14.12 Die Planetenbewegung
+Die Planeten bewegen sich im g-Feld der Sonne. Die Kraft, die die Sonne (Index O) auf einen
+Planeten (Index P) ausübt, ist
+m Om P
+FP = − G
+er
+r2
+er ist der Einheitsvektor in der Richtung der Verbindungsgeraden zwischen Sonne und Planet.
+Wir wählen als Ursprung von r den Schwerpunkt S des Systems Sonne-Planet. Der Drehimpuls
+dieses Systems ist
+)
+L = r O × p (OS) + r P × p (S
+= const
+P
+
+(14.6)
+
+Da |rO|<< |rP| und pO(S) = -pP(S) ist, ist der erste Term in (14.6) gegen den zweiten vernachlässigbar. Es ist also
+)
+L ≈ r P × p (S
+= const
+P
+
+Mit p = mv = m(dr/dt) wird
+L = mr × v = m r × d r
+dt
+(1/2)(r × dr) ist die in der Zeit dt vom Ortsvektor r "überstrichene" Fläche. Mit L = const ist also auch die pro Zeit überstrichene Fläche zeitlich konstant. Befindet sich ein Planet auf dem sonnenfernen Teil seiner Bahn, so ist seine Tangentialgeschwindigkeit klein, befindet er sich in Sonnennähe, so ist sie groß, Abb. 14.27.
+Diesen Sachverhalt entdeckte Kepler, bevor
+das Gravitationsgesetz oder gar der Drehimpulssatz bekannt waren. Man nennt ihn das
+zweite Keplersche Gesetz.
+Die Bahnkurven eines Planeten im Feld der
+Sonne oder allgemeiner, eines Körpers im
+1/r2- Feld lassen sich analytisch berechnen.
+Die Rechnung ist aber recht mühsam. Wir beschreiben hier einfach das Ergebnis: Der Planet
+bewegt sich auf einer Kegelschnittbahn (Ellipse, Hyperbel, Parabel, Kreis, Gerade), wobei
+
+Abb. 14.27. Die vom Ortsvektor des Planeten pro Zeit überstrichene Fläche ist konstant.
+
+93
+die Sonne in einem der beiden Brennpunkte des Kegelschnitts steht. Auch das ist von Kepler entdeckt worden (genauer: daß sich Planeten auf Ellipsenbahnen bewegen). Dies ist das erste Keplersche Gesetz.
+Die Bahnen der Planeten der Sonne sind Ellipsen, deren Exzentrizität (mit Ausnahme der von
+Merkur und Pluto) sehr klein ist, also nahezu Kreisbahnen. Sie liegen ungefähr in einer einzigen
+Ebene, der Umlaufsinn aller Planeten ist derselbe.
+Für Kreisbahnen im 1/r2- Feld kann man leicht eine Beziehung zwischen Umlaufzeit und Bahnradius berechnen. Für einen Planeten, der sich mit der Winkelgeschwindigkeit ω auf einer Kreisbahn mit dem Radius r bewegt, ist (siehe Abschnitt 4.5)
+d p
+= − m Pω 2r
+dt
+Diese Impulsänderung kommt zustande durch die Gravitationskraft
+m Om P
+FP = − G
+er
+r2
+Es ist also
+m Pω 2r = G
+
+m Om P
+r2
+
+Die Masse mP des Planeten fällt heraus, und es bleibt
+
+ω 2r 3 = Gm O
+Der Ausdruck ω2r3, und damit auch r3/T2 (T = Umlaufzeit), hat daher für alle Planeten der
+Sonne denselben Wert
+r 3 = const
+2
+T
+Diese Beziehung gilt auch für elliptische Bahnen, wenn man für r die große Halbachse der Ellipsen einsetzt. Sie wurde ebenfalls von Kepler entdeckt und heißt das dritte Keplersche Gesetz.
+Wir berechnen noch die kinetische Energie eines Körpers der Masse m im 1/r2- Feld der Sonne
+für einige Spezialfälle.
+(a) Der Körper werde in großem Abstand r0 von der Sonne aus der Ruhe losgelassen. Er nähert
+sich der Sonne und nimmt aus dem Gravitationsfeld den Energiebetrag ∆E auf. Seine kinetische
+Energie beträgt also am Ende seiner Fallbewegung ∆E. Nach Gleichung (14.3) ist
+
+∆E = Gm Om ( r1 − r1 ) = E kin
+0
+Ist r0 sehr groß gegen r, so ist
+E kin ≈ Gm O m
+r
+(b) Der Körper bewege sich auf einer Kreisbahn mit dem Radius r. Für ihn lautet dp/dt = F ausgeschrieben
+so
+
+94
+m Om
+v2
+m r =G
+r2
+Hieraus folgt
+m
+m
+E kin = 2 v 2 = Gm O 2r
+Je kleiner die Kreisbahn ist, desto größer ist also die kinetische Energie. Sie ist aber stets halb so
+groß wie die kinetische Energie, die er hätte, wenn er aus dem Unendlichen frei auf diesen Radius
+heruntergefallen wäre.
+Ist die kinetische Energie des Körpers bei r = ∞ größer als Null, so kann er sich nicht auf einer geschlossenen Bahn bewegen.
+
+14.13 Schwerelosigkeit
+Daß sich eine Person schwer fühlt, daß sie die
+Schwere spürt, bedeutet, daß sie ihr eigenes
+Gewicht fühlt. In den Beinen zum Beispiel
+spürt sie das Gewicht von Kopf, Oberkörper
+und Armen. Die Person spürt also die Impulsströme, die durch ihren Körper fließen, Abb.
+14. 28. Abb. 14.29 zeigt eine Modellperson bestehend aus 2 Klötzen. Durch die Grenzfläche
+zwischen oberem und unterem Klotz fließt der
+Impuls, der aus dem Gravitationsfeld in den
+oberen Klotz eingetreten ist. Durch die Grenzfläche zwischen unterem Klotz und Erde fließt
+außerdem noch der Impuls, der aus dem Feld in
+den unteren Klotz gelangt ist.
+
+Abb. 14.28. Die Person fühlt sich schwer, weil Impulsströme
+durch sie hindurchfließen.
+
+Um das Schweregefühl loszuwerden, muß man dafür sorgen, daß die Impulsströme innerhalb des
+Körpers verschwinden. Hierfür gibt es zwei Methoden.
+Die eine besteht darin, daß man keinen Impuls aus dem Gravitationsfeld zufließen läßt. Um das
+zu erreichen, muß man sich an einen Ort begeben, an dem sich kein Gravitationsfeld irgendeines
+Planeten oder Sterns befindet.
+Die andere Methode ist viel leichter zu verwirklichen: Man verhindert einfach, daß der Impuls,
+
+Abb. 14.29. Modellperson
+
+Abb. 14.30. Der aus dem Gravitationsfeld kommende Impuls
+kann nicht mehr abfließen.
+
+95
+der aus dem Gravitationsfeld in die verschiedenen Teile des Körpers eintritt, abfließen kann. Dazu genügt es, die Verbindung zur Erde zu unterbrechen. In anderen Worten: Man läßt sich frei fallen. Abb. 14.30 zeigt die Situation für unsere Modellperson. In jeden der beiden Klötze, und an jede Stelle jedes Klotzes tritt Impuls aus dem Gravitationsfeld ein. Dieser fließt aber innerhalb der
+Materie der Klötze nicht mehr herum. Er fließt insbesondere auch nicht vom oberen in den unteren Klotz. Der untere spürt daher nicht mehr das Gewicht des oberen.
+Während die auf der Erde stehenden Klötze unter Druckspannung stehen, sind die frei fallenden
+Klötze spannungsfrei.
+Die allgemeine Relativitätstheorie zeigt übrigens, daß zwischen den beiden Realisierungen der
+Schwerelosigkeit prinzipiell kein Unterschied besteht.
+
+14.14 Gezeitenkräfte
+Wir machen ein Gedankenexperiment. Eine
+Art Hantel, bestehend aus zwei Körpern A und
+B derselben Masse m und einer leichten Verbindungsstange, wird im inhomogenen Gravitationsfeld fallengelassen, Abb. 14. 31. Körper
+A befindet sich an einem Ort höherer Gravitationsfeldstärke als B. In A fließt daher aus dem
+Gravitationsfeld ein stärkerer Impulsstrom
+hinein als in B. Die entsprechenden Stromstärken sind
+
+F Feld
+
+A
+
+= mg (r 0 )
+
+und
+
+F Feld
+
+B
+
+Abb. 14.31. In Körper A fließt aus dem Gravitationsfeld ein
+stärkerer Impulsstrom hinein als in Körper B.
+
+= m (g (r 0 ) +
+
+dg
+∆r )
+dr
+
+Da A und B zusammenhängen, können sich die Impulse von A und B nur mit derselben Rate ändern:
+dp A dpB
+=
+dt
+dt
+Damit die Impulsänderungen von A und B gleich sind, muß ständig Impuls durch die Stange von
+A nach B fließen. Wir nennen die entsprechende Stromstärke FG. Der Gesamtimpulsstrom, der
+in Körper A hineinfließt, muß genauso stark sein wie der, der in B hineinfließt, es muß gelten
+FA = FB.
+Mit
+F A = mg (r 0 ) − F G
+
+und
+
+F B = m (g (r 0 ) +
+
+dg
+∆r ) + F G
+dr
+
+wird
+mg (r 0 ) − F G = m (g (r 0 ) +
+
+dg
+∆r ) + F G
+dr
+
+Hieraus kann man die Stärke des Impulsstroms in der Stange berechnen:
+
+96
+dg
+FG = − m
+∆r
+2 dr
+Da dg/dr < 0 ist, ist FG positiv: Es fließt positiver Impuls von A nach B. (Die positive Impulsrichtung weist zur Erde hin.) Das bedeutet, daß
+die Stange unter Zugspannung steht. A übt über
+die Stange auf B eine Kraft aus. Diese Kraft
+nennt man eine Gezeitenkraft, denn sie ist auch
+für die Gezeiten auf der Erde verantwortlich.
+Die Gezeiten kommen zustande vor allem Abb. 14.32. Die Erde dreht sich unter den Flutbergen weg.
+durch die Inhomogenität des Gravitationsfeldes des Mondes in dem Raumbereich, den die Erde einnimmt. (Nur zum kleineren Teil ist auch
+die Sonne am Zustandekommen der Gezeiten beteiligt.) Die Erde steht also in Richtung der Verbindungsgeraden zum Mond unter Zugspannung. Das Wasser an der Erdoberfläche kann diesem
+Zug nachgeben und bildet an gegenüberliegenden Seiten der Erde "Flutberge", Abb. 14.32.
+Da sich die Erde dreht, bewegen sich die Flutberge relativ zur Erdoberfläche. Diese Bewegung ist
+mit Reibung verbunden. Daher wird die Eigendrehung der Erde durch die Gezeiten gebremst. Wo
+bleibt der Drehimpuls?
+
+15. Relativistische Dynamik
+15.1 Vorbemerkungen
+Die bisherigen Kapitel umfaßten die Newtonsche Mechanik. Sie ist gültig, solange alle auftretenden Geschwindigkeiten klein sind gegen 300 000 km/s. Die relativistische Mechanik gibt diese
+Einschränkung auf. Man kann die relativistische Mechanik aus der Newtonschen entwickeln
+durch eine einzige zusätzliche Annahme. Historisch lief die Entwicklung so: In einem Experiment (Michelson-Morley) war festgestellt worden, daß die Geschwindigkeit des Lichts unabhängig vom Bezugssystem ist. Einstein zeigte mit der speziellen Relativitätstheorie, daß sich hieraus
+Konsequenzen ergeben, die weit über dieses spezielle Experiment hinausgehen. Insbesondere
+mußte die ganze Newtonsche Dynamik korrigiert werden. Die Richtigkeit der Relativitätstheorie
+wurde inzwischen in sehr vielen Experimenten bestätigt. Wir stellen an den Anfang nicht die
+Konstanz der Lichtgeschwindigkeit, sondern eine Tatsache, die sich historisch als eine Konsequenz daraus ergeben hat, deren Tragweite aber viel einleuchtender ist.
+
+15.2 Die Äquivalenz von Masse und Energie
+Die Newtonsche Mechanik kennt vier mengenartige Größen, von denen jede einem Erhaltungssatz genügt: den Impuls p, den Drehimpuls L, die Masse m und die Energie E. Die Relativitätstheorie behauptet nun, daß eine dieser Größen überflüssig ist, denn es gilt:
+E = mc2
+wo c = 3,00 . 108 m/s eine universelle Naturkonstante ist. Diese Beziehung sagt nicht etwa, daß
+man Masse in Energie verwandeln kann. Sie sagt, daß "Energie" und "Masse" nur zwei verschiedene Wörter für dieselbe Sache sind. Sie sagt, daß Systeme, von denen wir bisher angenommen
+haben, sie haben nur Energie aber keine Masse, z. B. das elektrostatische Feld, auch Masse haben,
+und sie sagt, daß Systeme, von denen die Newtonsche Mechanik annimmt, sie haben nur Masse,
+aber keine Energie, z. B. ein ruhender Körper, auch Energie haben.
+Die Beziehung E = mc2 sagt uns außerdem, daß die Eigenschaften, die wir bisher von der Masse
+kannten, auch Eigenschaften der Energie sind:
+1. Masse ist Impulskapazität. Ein Körper ist träge, er ändert seine Geschwindigkeit nur, wenn
+man ihm Impuls zuführt. Auch Energie ist also Impulskapazität, und es gilt:
+p = mv = E 2v
+c
+
+(15.1)
+
+Diese Beziehung lehrt uns, daß zum Beispiel die Energie in einem elektrostatischen Feld träge
+ist. Wegen des großen Faktors c2 ist dieser Effekt aber nicht leicht nachzuweisen.
+2. Masse ist Quelle des Gravitationsfeldes. Also ist auch Energie, z. B. die Energie in einem elektrostatischen Feld, Quelle eines Gravitationsfeldes.
+Die Beziehung E = mc2 sagt uns eigentlich auch, daß Masse die Eigenschaften hat, die wir bisher
+von der Energie kannten. Dabei stellen wir fest, daß wir bisher gar keine solchen Eigenschaften
+kannten. Erst jetzt, über E = mc2 haben wir allgemeine Eigenschaften der Energie kennengelernt: Trägheit und Gewicht.
+
+98
+Da die Energie eines Körpers mit der Geschwindigkeit zunimmt, folgt aus (15.1), daß ein Körper
+mit wachsender Geschwindigkeit immer träger wird. Es wird immer schwieriger, ihn zu beschleunigen. Für v → 0 geht die Beziehung (15.1) über in die der Newtonschen Mechanik. Die
+Masse der Newtonschen Mechanik, die wir von jetzt ab mit m0 bezeichnen, ist also der kleinste
+Wert, den die Größe m = E/c2 annehmen kann. Man nennt m0 die Ruhmasse und E0 = m0c2 die
+Ruhenergie, oder besser innere Energie, eines Systems.
+In der Newtonschen Mechanik sind E und m verschiedene Größen. Ein System hat erstens Masse und zweitens Energie. Im Lichte der Relativitätstheorie würden wir sagen, die Energie wird in
+zwei Anteile zerlegt: in die innere Energie und den Rest. Die Newtonsche Mechanik nahm an,
+daß für beide Anteile ein Erhaltungssatz gilt. Die Relativitätstheorie lehrt uns nun, daß beide Größen einzeln keinem Erhaltungssatz genügen. Es gibt nur einen einzigen Erhaltungssatz für die
+Summe aus beiden. Diese Summe nennen wir Energie.
+
+15.3 Die Beziehung P = vF
+Die Relativitätstheorie tastet die Mengenartigkeit von E und p nicht an. Daraus folgt, daß nach
+wie vor
+P~F
+ist. Für den Proportionalitätsfaktor ergeben sich allerdings Konsequenzen. Wir benutzen diese
+Beziehung von jetzt an zur Definition der Geschwindigkeit (genauso wie man gewöhnlich die
+elektrische Spannung über P = UI definiert):
+P = vF
+Mit den Kontinuitätsgleichungen für Energie und Impuls folgt hieraus:
+dE = vdp
+
+(15.2)
+
+15.4 Der E-p-Zusammenhang
+In der Newtonschen Mechanik lautet der Zusammenhang zwischen Energie und Impuls
+E =E0 +
+
+p2
+2m 0
+
+Hier ist m0 die Ruhmasse und E0 ein konstanter Term, über dessen Wert die Newtonsche Mechanik keine Aussage macht. Wir leiten nun den relativistischen Energie-Impuls-Zusammenhang
+her. Wir setzen in (15.1) die Beziehung (15.2) ein
+c 2p
+dE = E d p
+Hieraus folgt
+EdE = c2pdp
+und
+d(E2) = c2dp2
+und weiter
+
+99
+d(E2- c2p2) = 0
+Hieraus folgt
+E2- c2p2 = const = E02
+und
+E =
+
+(15.3)
+
+2
+
+E 0 + c 2p 2
+
+E0 ist, wie man sieht, die Energie des Systems bei p = 0. E0 ist also die innere Energie und damit
+gleich m0c2. Abb. 15.1 zeigt den E-p-Zusammenhang für Teilchen verschiedener Ruhmasse.
+Die Energie E - E0, die das System zusätzlich zu seiner inneren Energie hat, nennt man kinetische Energie
+(15.4)
+
+2
+
+E kin = E − E 0 =
+
+E 0 + c 2p 2 − E 0
+
+Grenzfälle
+(a) Das System ist ein Körper mit kleinem Impuls, d. h. cp <<E0. Mit
+E =E0
+
+1+
+
+c 2p
+
+2
+
+2
+
+E0
+
+wird
+2
+
+2
+
+1c p
+E ≈ E 0 (1 + 2
+2 )
+E
+0
+
+und mit E0 = m0c2 erhalten wir
+p2
+E ≈ E 0 + 2m
+0
+(b) Das System ist Licht. Für Licht ist m0 = 0
+und E0 = 0. Daraus folgt
+E =c p
+(c) Das System ist ein Körper mit sehr großem
+Impuls, d. h. cp >>E0. Damit wird
+E ≈c p
+Die Energie hängt nur noch vom Impuls, aber
+nicht mehr von der Ruhmasse ab. Der E-p-Zusammenhang ist derselbe wie bei Licht.
+
+Abb. 15.1. Energie-Impuls-Zusammenhang für Teilchen unterschiedlicher Ruhmasse
+
+100
+15.5 Der E-v-Zusammenhang
+Setzt man in E2- c2p2 = E02 die Beziehung (15.1) ein, so ergibt sich
+2
+
+E − c 2 E 4v
+c
+2
+
+2
+
+2
+
+= E0
+
+und daraus
+E =
+
+E0
+1−
+
+v2
+c2
+
+Der Quotient v/c und der Ausdruck
+1
+1 − v 2 /c 2
+kommen in relativistischen Beziehungen oft vor. Man kürzt sie deshalb ab:
+v =β
+c
+
+1
+1 − v 2 /c
+
+und
+
+2
+
+=γ
+
+Mit diesen Abkürzungen wird der Energie-Geschwindigkeits-Zusammenhang:
+E =
+
+E0
+1−β
+
+2
+
+= γ E0
+
+Mit E = mc2 und E0 = m0c2 läßt sich diese Beziehung auch schreiben
+m0
+m =
+=γ m0
+2
+1−β
+In der relativistischen Physik ist es natürlicher, nicht die Geschwindigkeit, sondern die Energie
+als unabhängige Variable aufzufassen. Wir formen daher um
+v =c
+
+E 0
+1− E 
+
+2
+
+Man sieht, daß mit zunehmender Energie die
+Geschwindigkeit zunimmt, allerdings in dem
+Maße wie sie sich dem Wert c nähert immer
+weniger. Sie geht asymptotisch gegen den
+Wert c, Abb. 15.2. c ist die Grenzgeschwindigkeit für jeden Transport von Energie und
+Impuls. Da der Transport jeder anderen mengenartigen Größe an den Transport von Energie gekoppelt ist, ist c auch die Grenzgeschwindigkeit für den Transport von Drehimpuls, Entropie, Stoffmenge, elektrischer Ladung etc.
+
+Abb. 15.2. Zusammenhang zwischen Geschwindigkeit und
+Energie für Teilchen unterschiedlicher Ruhmasse
+
+101
+Die kinetische Energie als Funktion von v ist
+E kin = E − E 0 = E 0 (
+
+1
+− 1)
+1 − v 2 /c 2
+
+Für v = 0,866c ist Ekin = E0. Bei dieser Geschwindigkeit hat sich also die Energie (Masse) gegenüber der inneren Energie (Ruhmasse) verdoppelt.
+Falls v<<c ist, d. h. im Newtonschen Grenzfall der Relativitätstheorie, erhält man die von früher
+bekannten Beziehungen.
+1v 2
+E ≈ E 0 (1 + 2 2 )
+c
+ergibt mit E0/c2 = m0
+m
+E ≈ E 0 + 2v 2
+
+15.6. Der v-p-Zusammenhang
+Aus (15.1), E = γ E0 und E0 = m0c2 folgt
+p =
+
+γ
+E v = γ m 0v
+c2 0
+
+oder
+p =
+
+m0
+1−β
+
+2
+
+v =
+
+m0
+1 − v 2 /c 2
+
+v
+
+Nimmt man wieder v als abhängige Variable,
+so erhält man
+cp
+v =
+m 02c 2 + p 2
+
+Abb. 15.3. Zusammenhang zwischen Geschwindigkeit und
+Impuls für Teilchen unterschiedlicher Ruhmasse
+
+Der v-p-Zusammenhang ist in Abb. 15.3 dargestellt.
+Für den Newtonschen Grenzfall v << c folgt hieraus die bekannte Beziehung
+p ≈m0v
+15.7 Beispiele
+Geladenes Teilchen im homogenen elektrischen Feld
+Ruhmasse des Teilchens: m0
+elektrische Ladung des Teilchens: Q
+Stärke des elektrischen Feldes ohne Teilchen: E
+Gesucht sind Energie, Impuls und Geschwindigkeit des Teilchens als Funktion der Zeit.
+
+102
+a
+
+b
+
+c
+
+Abb. 15.4. Impuls (a), Energie (b) und Geschwindigkeit (c) eines geladenen Teilchens im homogenen elektrischen Feld als Funktion der Zeit
+
+F = QE
+p(t) = F . t = Q . E . t
+Der Impuls nimmt, wie in der Newtonschen Mechanik, linear mit der Zeit zu, Abb. 15.4a. Er
+wächst unbegrenzt.
+E (t ) =
+
+2
+
+E 0 + c 2p 2
+
+=c
+
+c 2m 20 + p (t )
+
+=c
+
+c 2m 20 + F t
+
+2
+
+2 2
+
+Für große t-Werte nimmt die Energie linear mit der Zeit zu, Abb. 15.4b.
+v (t ) = c 2
+
+p (t )
+E (t )
+
+=c2
+t
+=F
+m0
+
+Ft
+2
+
+m 02c 4 + c 2F t 2
+1
+2
+
+2
+1 + F2 t 2
+c m0
+
+Für kleine t wächst die Geschwindigkeit linear mit der Zeit. Für große t wird
+Ft cm 0
+v (t ) ≈ m Ft = c
+0
+v nähert sich c asymptotisch, Abb. 15.4c.
+Für große t nehmen also E und p linear mit t zu, während v konstant bleibt. Man sieht, daß das
+Wort Teilchenbeschleuniger nicht sehr angebracht ist.
+
+Fallendes Licht
+Wir betrachten eine bestimmte Menge des Lichts, das aus der Lampe an der Decke austritt und
+sich nach unten bewegt. Da das Licht Energie (=Masse) hat, fließt aus dem Gravitationsfeld ein
+Impulsstrom in das Licht hinein. Der Impuls des Lichts nimmt dem Betrage nach zu:
+
+103
+dp = Fdt
+Mit F = mg = (E/c2)g wird
+dp = E 2 gdt
+c
+und mit dt = - dz/c ergibt sich
+dp = − E 3 gdz
+c
+Nun ist gdz gleich der negativen Änderung dV des Gravitationspotentials V. Es folgt
+dp = E 3 dV
+c
+Mit E = cp folgt für die relative Energieänderung dE/E des Lichts
+g
+dE
+dV
+=
+=
+dz
+2
+E
+c
+c2
+Die Energie des Lichts nimmt, genauso wie die Energie jedes anderen fallenden Körpers oder
+Teilchens, zu. Beim Licht äußert sich das in der Zunahme der Frequenz, denn Energie und Frequenz ν sind verknüpft über
+E = Zhν
+(Z = Photonenzahl, h = Planck-Konstante)
+Der Effekt ist auf der Erde sehr schwach, konnte aber im Labor gemessen werden. Für dz = 10 m
+ergibt sich:
+dE
+−1 5
+10m / s2 ⋅ 10 m
+=
+1 6 2 2 ≈ 10
+E
+9 ⋅ 10 m / s
+Die Tatsache, daß Licht, das von Stellen höheren Gravitationspotentials kommt, an seinem Ankunftsort, d. h. am Ort niedrigeren Gravitationspotentials, eine höhere Frequenz hat, hat eine
+merkwürdige Konsequenz. Wir können uns vorstellen, daß das Licht auf dem hohen Gravitationspotential von einem schwingenden System emittiert wird. Die Schwingungszeit dieses Systems sei T = 1/ν, wo ν die Frequenz des Lichts ist. Wir können nun das schwingende System
+auch als Uhr auffassen, die in den zeitlichen Abständen T Signale emittiert. Wir nennen diese
+Uhr U2. Wir stellen nun an die Stelle des niedrigeren Gravitationspotentials eine andere Uhr U1,
+die ganz genauso gebaut ist wie U2.
+Ein Beobachter auf dem niedrigen Gravitationspotential stellt nun fest, daß die Signale von U2 in
+kürzeren zeitlichen Abständen eintreffen als die seiner eigenen Uhr U1. Er schließt daraus, daß
+die Zeit auf dem hohen Gravitationspotential schneller läuft.
+In Übereinstimmung hiermit stellt ein Beobachter auf dem hohen Gravitationspotential fest, daß
+die Uhr U1 langsamer läuft als seine eigene Uhr U2, daß also die Zeit auf dem niedrigen Gravitationspotential langsamer läuft, als seine eigene Zeit.
+
+104
+Die Bindungsenergie
+Bei der Reaktion von 2 mol atomarem Wasserstoff zu 1 mol molekularem Wasserstoff wird
+Energie abgegeben, die Bindungsenergie. Bei gleicher Temperatur ist die Energie des atomaren
+Wasserstoffs größer als die des molekularen. Danach wiegt 1 mol H2 weniger als 2 mol H. Dieser
+Gewichtsunterschied ist aber so klein, daß man ihn nicht messen kann.
+Reagieren Atomkerne miteinander, so ist die Bindungsenergie pro mol um fünf Zehnerpotenzen
+größer und im Massenspektrometer meßbar. Bei der Reaktion
+6Li
+
++ 2H → 24He
+
+wird
+
+∆ E = 2, 1 ⋅ 10 1 2J / mol
+n
+abgegeben. Das ist in Masseneinheiten ausgedrückt:
+12
+
+2, 1 ⋅ 10 J
+∆m
+∆E
+−4
+= 0, 23 ⋅ 10 kg / mol
+16
+n = nc 2 =
+9 ⋅ 10 (m 2 / s 2 )mol
+Mit
+m
+m
+m
+n = ( n ) Li + ( n ) H ≈ 6 g / mol + 2g / mol = 8 g/ mol
+wird
+0, 023
+∆m
+m = 8 = 0, 003
+
+Warum man Speicherringe baut
+Die Hochenergiephysik befaßt sich mit Teilchenreaktionen, für deren Ablauf viel Energie erforderlich ist. Eine bestimmte Reaktion zwischen Teilchen A und Teilchen B findet nur statt, wenn
+ein Mindestenergiebetrag zur Verfügung steht, ein Betrag, der im Allgemeinen weit über die innere Energie der Einzelteilchen hinausgeht.
+Da bei der Reaktion zwischen A und B der Gesamtimpuls und damit die kinetische Energie erhalten bleibt, nützt es nichts, die kinetische Energie des Systems zu erhöhen. Für die Reaktion steht
+nur die Energie im Schwerpunktsystem A-B, d. h. die innere Energie des Systems A-B (siehe Kapitel 7), zur Verfügung. (Man sieht hier die Unzweckmäßigkeit des Ausdrucks Ruhenergie).
+In manchen Hochenergieexperimenten erhöht man nur die Energie der Teilchensorte A. Man tut
+das, indem man sie "beschleunigt". Die Teilchen B bleiben in Ruhe, sie bilden das "Target". Für
+das System A-B bedeutet das, daß nicht nur seine innere, sondern auch seine kinetische Energie
+erhöht wird. Diese kinetische Energie ist für die Reaktion von A mit B verloren. Wir wollen berechnen, welcher Anteil der in A hineingesteckten Energie als innere Energie im Schwerpunktsystem von A-B für die Reaktion zur Verfügung steht. Der Einfachheit halber seien A und B Teilchen derselben Sorte. Sie haben also dieselbe innere Energie E0.
+Aus Gleichung 15.4 folgt
+p = (1/c )
+
+2
+
+E kin + 2E kinE 0
+
+Da die Teilchen B vor der Reaktion ruhen, ist der Impuls von A vor der Reaktion gleich dem Im-
+
+105
+puls von A-B nach der Reaktion:
+2
+
+E kin A + 2E kin AE 0 =
+
+2
+
+E kin A −B + 2E kin A −BE 0 A −B
+
+Nach dem Energiesatz ist
+Ekin A + E0 + E0 = Ekin A-B + E0 A-B
+und
+Ekin A-B = Ekin A + 2E0 - E0 A-B
+Ekin A-B wird in die Impulsbilanzgleichung eingesetzt und E0 A-B wird eliminiert:
+E 0 A− B =
+
+2E 0 (E kin A + 2E 0 )
+
+Für hohe Energien Ekin A >> E0 wächst also die für die Reaktion verfügbare Energie E0 A-B nur
+mit der Wurzel der aufgewendeten Energie Ekin A.
+Läßt man zum Beispiel Protonen von 30 GeV reagieren mit ruhenden Protonen, so stehen für die
+Reaktion nur noch 7 GeV zur Verfügung. Es ist daher besser, beide Teilchensorten mit Impuls
+und Energie zu laden, und zwar so, daß der Impuls des Systems A-B Null ist. Dann steht die ganze
+Energie für die Reaktion zur Verfügung.
+Man realisiert das, indem man zunächst die Teilchen A mit Energie und Impuls lädt und sie in einem Speicherring "parkt". Dann werden die Teilchen B mit demselben Beschleuniger mit E und
+p geladen und schließlich mit den Teilchen A zur Reaktion gebracht.
+
+Der Lichtdruck des Sonnenlichts
+Die Energiestromdichte jE des Sonnenlichts beträgt auf der Erde etwa 1 kW/m2 (= Solarkonstante).
+Aus dE = cdp folgt
+P = cF
+und
+jE = cσ
+Der Lichtdruck σ des Sonnenlichts beträgt also
+
+σ =
+
+−6
+1kW / m 2
+≈ 3 ⋅ 10 N / m 2
+8
+3 ⋅ 10 m / s
+
+Würde das ganze Sonnenlicht, das auf die Erde fällt, absorbiert, so würde damit ein Impulsstrom
+von etwa 4,3 . 108 N auf die Erde fließen. Tatsächlich ist es mehr, da das zurückgeworfene Licht
+Impuls des umgekehrten Vorzeichens besitzt wie das ankommende.
+
+16. Bezugssysteme - relativistische Kinematik
+16.1 Bezugssysteme
+Man kann den Ort eines Körpers A nur angeben in Bezug auf einen anderen Körper, z. B. in Bezug auf Körper B. Die Beschaffenheit von Körper B hat keinen Einfluß auf den Ort von Körper A.
+Man gibt daher den Ort eines Körpers nicht an in Bezug auf einen anderen Körper, sondern in Bezug auf ein Ortskoordinatensystem. Auch die Geschwindigkeit eines Körpers kann man nur angeben in einem Koordinatensystem, durch einen Punkt im Geschwindigkeitsraum. Das Analoge
+gilt für die Beschleunigung.
+Man faßt nun diese Koordinatensysteme zusammen durch die folgende Konstruktion: Man denkt
+sich ein Dreibein im Ortsraum, das sich bewegen kann wie ein Körper. Auf diesen gedachten
+Körper bezieht man die Angabe aller kinematischen Größen: Ort, Geschwindigkeit, Beschleunigung…Dieses gedachte Dreibein nennt man ein Bezugssystem. Beschreibt man ein und denselben Vorgang in zwei verschiedenen Bezugssystemen, so haben die physikalischen Größen unterschiedliche Werte. Der Vorgang bleibt aber derselbe.
+Wir beschreiben im Folgenden einen Newtonschen Körper durch Angabe der Werte seiner Variablen in zwei Bezugssystemen S und S'. Wir betrachten der Übersichtlichkeit halber nur eine
+Raumdimension x
+(a) S' ist gegen S um den zeitlich konstanten Abstand x0 verschoben
+Ort:
+Geschwindigkeit:
+Beschleunigung:
+Impuls:
+Energie:
+Gravitationsfeldstärke:
+etc.
+
+x' = x - x0
+v' = v
+a' = a
+p' = p
+E' = E
+g' = g
+
+(b) S' bewegt sich mit konstanter Geschwindigkeit v0 gegen S in die positive x-Richtung
+Ort:
+Geschwindigkeit:
+Beschleunigung:
+Impuls:
+Energie:
+Gravitationsfeldstärke:
+etc.
+
+x' = x - v0t
+v' = v -v0
+a' = a
+p' = p - mv0
+E' = E + (m/2)v2 - pv0
+g' = g
+
+Die Gleichungen gelten, wie wir noch sehen werden, nur in nichtrelativistischer Näherung. Die
+erste Gleichung stellt die sogenannte Galilei-Transformation dar. In verallgemeinerter Form sagt
+die zweite Beziehung, daß sich bei Bezugssystemwechsel die Geschwindigkeiten von Körper
+und Bezugssystem nach den Regeln der Vektoraddition kombinieren. Das ist durchaus nicht
+selbstverständlich, denn die Geschwindigkeit ist keine mengenartige Größe.
+
+107
+(c) S' bewegt sich mit konstanter Beschleunigung a0 gegen S
+Ort:
+Geschwindigkeit:
+Beschleunigung:
+Impuls:
+Energie:
+Gravitationsfeldstärke:
+
+x' = x - (a0/2)t2
+v' = v -a0t
+a' = a - a0
+p' = p - m a0t
+E' = E + (m/2)a02t2 - pa0t
+g' = g - a0
+
+Das dritte Beispiel zeigt, daß man stets ein Bezugssystem finden kann, in dem die Gravitationsfeldstärke gleich Null ist. Ein solches Bezugssystem nennt man Inertialsystem. Die Aussagen der
+speziellen Relativitätstheorie beschränken sich auf Inertialsysteme.
+Für die relativistische Mechanik muß der Bezugssystembegriff noch erweitert werden: An vielen
+Stellen in dem von unserem Dreibein aufgespannten Raum befinden sich Uhren, die dieselbe Bewegung wie das Dreibein ausführen. Die Uhren müssen sorgfältig synchronisiert werden, etwa
+so: In der Mitte zwischen zwei benachbarten Uhren wird ein Lichtsignal nach beiden Seiten emittiert. Jede der beiden Uhren wird auf Null gestellt, wenn das Lichtsignal bei ihr ankommt. Wie
+kann man die anderen Uhren synchronisieren?
+
+16.2 Die Konstanz der Lichtgeschwindigkeit
+Die Beziehung
+v =c
+
+2
+
+1 − E 0 /E
+
+2
+
+sagt, daß alle Teilchen, deren innere Energie E0 = 0 ist, die Geschwindigkeit v =c haben. Zu diesen Teilchen gehören die Teilchen des Lichts, die Photonen, und wahrscheinlich die Neutrinos.
+Licht bewegt sich also mit der Geschwindigkeit v = c. Darum nennt man die Konstante c auch
+die Lichtgeschwindigkeit.
+Wir betrachten ein Teilchen, das in Bezugssystem S die Geschwindigkeit c hat. Nach den Regeln
+der klassischen Kinematik müßte es in einem gegen S mit der Geschwindigkeit -v0 bewegten Bezugssystem S' die Geschwindigkeit
+v' = c + v0
+haben. Dieses Ergebnis ist aber falsch, denn es widerspricht der Aussage der relativistischen Dynamik, nach der die Geschwindigkeit von Teilchen mit E0 = 0 gleich c ist. Selbstverständlich
+sollen die Regeln der Mechanik in zwei Bezugssystemen, die sich dadurch unterscheiden, daß
+sich das eine gegen das andere bewegt, dieselben sein. Daß die Geschwindigkeit des Lichts in jedem Bezugssystem denselben Wert c hat, wurde experimentell von Michelson und Morley gefunden. Man kann also schließen, daß die Transformationsformel für v für große Geschwindigkeiten nicht v' = v - v0 sein kann.
+16.3 Relativistische Transformationsgleichungen
+Aus der Tatsache, daß die Lichtgeschwindigkeit Grenzgeschwindigkeit für Energie-ImpulsTransporte ist, folgt, daß auch die anderen Transformationsgleichungen in Abschnitt 16.1 falsch
+werden, wenn nicht mehr v, v0 <<c ist. Außerdem folgt, daß eine weitere Transformation falsch
+wird, die in der Newtonschen Mechanik immer richtig ist, gleichgültig, ob sich die Bezugssyste-
+
+108
+me mit konstanter Geschwindigkeit, Beschleunigung oder noch höherer Zeitableitung des Ortes
+x bewegen:
+t' = t
+Sie besagt, daß der Zeitpunkt, zu dem ein "Ereignis" eintritt, unabhängig vom Bezugssystem ist.
+Die für große Geschwindigkeiten gültigen Transformationsgleichungen für Ort und Zeit lau ten:
+x '=
+
+t '=
+
+x − v 0t
+1 − v 02 /c 2
+t − (v 0 /c 2 )x
+1 − v 02 /c
+
+2
+
+= γ (x − v 0 t )
+= γ (t −
+
+v0
+c2
+
+x)
+
+(16.1)
+
+(16.2)
+
+Mißt man die Zeit durch w = ct, so werden die Beziehungen noch übersichtlicher:
+x ' = γ (x − βw )
+w ' = γ (w − β x )
+Für Geschwindigkeit, Impuls und Energie gelten:
+vx − v 0
+v x '=
+v 0v x
+1− 2
+c
+p x − (v 0 /c 2 )E
+v0
+p x '=
+= γ (p x − 2 E )
+c
+1 − v o2 /c 2
+E − v 0 px
+E '=
+= γ (E − v 0 p x )
+1 − v o2 /c 2
+
+(16.3)
+
+Die relativistische Transformation der Koordinaten x, y, z und t heißt Lorentz-Transformation.
+Wir befassen uns im Folgenden nur mit der Transformation der kinematischen Größen. Dabei
+wird es wichtig sein, wo und wann irgendetwas passiert, aber nicht was passiert. Wir sprechen
+deshalb ganz allgemein von einem Ereignis ei, das am Ort (xi, yi, zi) zur Zeit ti passiert, in Symbolen:
+ei: (xi, yi, zi, ti)
+16.4 Konsequenzen der Transformationsgleichungen
+(a) c als Grenzgeschwindigkeit
+Aus Gleichung (16.3) folgt, daß die Geschwindigkeit eines Teilchens den Wert c nicht dadurch
+überschreiten kann, daß man zur Beschreibung ein neues Bezugssytem wählt. Selbst wenn sich
+das Teilchen in S mit v = c bewegt, und man es in einem Bezugssystem S' beschreibt, das sich gegen S mit v0 = - c bewegt, erhält man nur
+v ' = c + c2 = c
+c
+1+ 2
+c
+
+109
+(b) Die Relativität der Gleichzeitigkeit
+Zwei Ereignisse e1: (x1, t1) und e2: (x2, t2) heißen "gleichzeitig", wenn t1 = t2 ist. Mit Gleichung (16.2) folgt, daß zwei Ereignisse, die in S an zwei verschiedenen Orten x1 und x2 zum
+Zeitpunkt t1 = t2 = t, also gleichzeitig stattfinden, in S' nicht mehr gleichzeitig sind:
+t 1'= γ [t − (v 0 /c 2 )x 1]
+t 2 '= γ [t − (v 0 /c 2 )x 2 ]
+t 2 '− t 1'= γ (v 0 /c 2 )(x 1 − x 2 ) ≠ 0
+Zwei Ereignisse können gleichzeitig relativ zu einem bestimmten Bezugssystem sein, und nicht
+gleichzeitig relativ zu einem anderen.
+
+(c) Die Längenkontraktion
+Man bestimmt die Länge eines Stabes in einem gegebenen Bezugssystem, indem man feststellt,
+an welchem Ort sich die beiden Stabenden zu einem bestimmten Zeitpunkt, also gleichzeitig, befinden. Da die Gleichzeitigkeit bezugssystemabhängig ist, muß auch die Länge vom Bezugssystem abhängen. Ein Stab der Länge l0 ruhe in S'. Die Positionen von Anfang und Ende des Stabes
+in S' seien x1' und x2'. Es ist also
+l0 = x2' -x1'
+Die Länge in S wird dadurch bestimmt, daß man nachsieht, wo in S sich Anfang x1 und Ende x2
+gleichzeitig, und zwar zum Zeitpunkt t1 = t2 = t befinden. (Die Ereignisse (x1, t1) und (x2, t2)
+sind in S' nicht gleichzeitig.) Nach Gleichung (16.1) ist
+x1' (t1') = γ (x1 - v0t)
+x2' (t2') = γ (x2 - v0t)
+Da sich der Stab in S' nicht bewegt, ist x2' (t2') - x1' (t1') = l0, obwohl die Ereignisse (x1', t1') und
+(x2', t2') in S' nicht gleichzeitig sind. Es ist also
+x2' - x1' = γ (x2 - x1)
+Die Länge des gegen S mit der Geschwindigkeit v0 bewegten Stabes ist daher in
+l = γ1 l 0
+l =
+
+1 − v 02 /c 2 l 0
+
+(d) Die Zeitdilatation
+In S finden zwei Ereignisse e1 und e2 zu verschiedenen Zeiten am selben Ort, der Einfachheit halber bei x = 0 , statt:
+e1: (x1 = 0, t1)
+e2: (x2 = 0, t2)
+Dieselben Ereignisse haben in S' die folgenden Koordinaten:
+
+110
+e1: (x1' = -γ v0t1, t1' = γt1)
+e2: (x2' = -γ v0t2, t2' = γt2)
+Der zeitliche Abstand zwischen e1 und e2 ist also in S nicht derselbe wie in S':
+t2' - t1' = γ (t2 - t1)
+
+∆t '=
+
+∆t
+1 − v 02 /c 2
+
+Stellt man sich vor, daß die beiden Ereignisse in S darin bestehen, daß die Zeiger einer Uhr 0 h und
+1 h anzeigen, so erkennt man, daß diese Uhr von S' aus gesehen um den Faktor γ langsamer läuft.
+Eine Uhr, die relativ zu einem Körper oder Teilchen ruht, mißt die Eigenzeit des Körpers oder
+Teilchens. Die Zeitdilatation ist sehr groß bei Teilchen, die sich mit nahezu Lichtgeschwindigkeit bewegen. Solche Teilchen werden mit Beschleunigern erzeugt und kommen in der Höhenstrahlung vor. Die Zeitdilatation macht sich dadurch bemerkbar, daß die Lebensdauer dieser Teilchen im "Laborsystem" viel größer ist als für Teilchen die im Laborsystem ruhen.
+
+

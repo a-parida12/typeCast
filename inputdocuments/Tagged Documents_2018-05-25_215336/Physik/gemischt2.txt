@@ -1,0 +1,71 @@
+
+                       Das Herzstück der Quantenphysik
+
+
+1. Wiederholung:
+   a) Was stellt man am Beobachtungsschirm fest, wenn man einzelne Photonen
+   durch einen
+        Doppelspaltversuch schickt?
+        Welche Vorhersagen kann die Quantenphysik machen?
+        Was ist anders als bei der klassischen Physik?
+   b) Was stellt man fest, wenn man versucht, Photonen sehr genau auf einen
+        bestimmten Ort und einen bestimmten Impuls zu präparieren?
+
+
+2. Links oder rechts?
+   Ein Photon wird emittiert und durchläuft einen
+   Doppelspaltversuch.
+   a) Angenommen, das Photon geht durch den linken
+       Spalt. Skizzieren Sie rechts P(x) für das Muster, zu dem
+       es dann beitragen würde. Skizzieren Sie auch eine typische
+       Häufigkeitsverteilung!
+        Kann man sagen, das Photon verhält sich wie ein
+        Teilchen? Begründung!
+   b) Angenommen, das Photon geht durch den rechten Spalt.
+        Tragen Sie in die Skizze von Aufgabe a) das P(x) für das
+        Muster ein, zu dem das Photon beitragen würde.
+   c) Nun werden beide Spalte geöffnet.
+        Angenommen, das Photon geht immer durch den linken
+        oder den rechten Spalt.
+        Welches Ergebnis erwarten Sie unter dieser Voraussetzung,
+        wenn man nun sehr viele (eine Million) Photonen durch den
+        Doppelspalt (mit beiden Spalten offen) schickt. Zeichnen Sie
+        das zugehörige Muster in die Skizze von a) mit ein.
+   d) Welches Muster erhält man im Experiment, wenn man eine
+        Million Photonen durch einen Doppelspalt schickt?
+        Zeichnen Sie es unter die Skizze von a).
+   e) Was kann man aus dem experimentellen Ergebnis von d) folgern?
+        Wie könnte man diese Folgerung im Experiment überprüfen?
+
+
+3. Welcher Weg?
+   Zeichnen Sie in das Doppelspaltexperiment unten so Polarisatoren ein,
+   dass man bestimmen kann, welchen Weg ein Photonen gegangen ist, ohne das
+   Photon zwischendurch zu absorbieren.
+   Welches experimentelle Ergebnis erwarten Sie an den Detektoren? Zeichnen
+   Sie das Ergebnis an das CCD-Array. (Rechts ist eine mögliche Verteilung
+   eingezeichnet, wie man sie ohne Polarisatoren bekommen würde.)
+   Kann man tatsächlich sagen, das Photon ging nur den einen oder anderen
+   Weg?
+
+
+
+-----------------------
+x
+
+P
+
+P
+
+x
+
+Laser
+
+CCD-Array =
+Feld von Detektoren
+
+
+(Ergebnis ohne Polarisatoren)
+
+
+

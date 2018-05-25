@@ -1,0 +1,1247 @@
+
+Grundkurs
+
+
+Stochastik-Skript
+
+
+
+Inhaltsverzeichnis
+
+I. Wahrscheinlichkeitstheorie
+
+1. Zufallsexperimente und Ergebnisräume …………………...………....	  2
+2. Ereignisalgebra ………………………………………………………..	  3
+3. Relative Häufigkeiten ………………………………………………….	  4
+4. Wahrscheinlichkeitsverteilungen ……………………………………..	  5
+5. Stochastische Unabhängigkeit ………………………………………...	  8
+6. Bernoulli-Ketten ………………………………………………………..	10
+7. Binomialverteilung ……………………………………………………	13
+
+
+
+II. Statistik
+
+8. Testen von Hypothesen ……………………………………………….	16
+
+
+
+III. Aufgaben
+
+
+
+
+1. 
+I. Wahrscheinlichkeitstheorie
+
+Die Stochastik, die man als die Lehre der Gesetzmäßigkeit des Zufalls bezeichnen kann, gliedert sich in zwei gleichberechtigte Teilgebiete, die Wahrscheinlichkeitstheorie und die Statistik, die jedoch nicht unabhängig voneinander existieren.
+Die Wahrscheinlichkeitstheorie hat die Beschreibung und Untersuchung konkret gegebener Zufallssituationen zur Aufgabe. Die Statistik sucht  Antworten auf die Frage, welche Schlussfolgerungen man aus zufälligen Beobachtungen ziehen kann. Hierbei benötigt man die Erkenntnisse der Wahrscheinlichkeitstheorie.
+
+
+1. Zufallsexperimente und Ergebnisräume
+
+1.1 Zufallsexperimente
+In den Naturwissenschaften gewinnt man Erkenntnisse, indem man Experimente durchführt. Bei sinnvollen Experimenten sind die Bedingungen präzise festgelegt und so kann ein Experiment unter diesen immer gleichen Bedingungen beliebig oft wiederholt werden. Die einmalige Durchführung eines Experiments bezeichnet man als Versuch.
+Sinnvoll ist ein Experiment meist nur, wenn man sich zu Beginn einen Überblick über alle möglichen Ergebnisse verschafft. Welches Ergebnis in Endeffekt eintritt ist bei den meisten Experimenten rein zufällig. Um diese Tatsache besonders zu betonen spricht man in der Wahrscheinlichkeitstheorie von Zufallsexperimenten.
+Wenn man diesen Begriff hört, denkt man zunächst an so genannte Glücksspiele, wie
+- Roulette
+- Werfen eines Würfels
+- Werfen einer Münze
+
+Doch auch im Alltagsleben gibt es genügend Beispiele für Zufallsexperimente:
+- Qualitätskontrolle: Oft wird in Firmen getestet, ob ein Werkstück in Ordnung oder Ausschuss ist. Ob das jeweilige Teststück brauchbar ist, kann meist nicht direkt erschlossen werden.
+- Registrierung des Geschlechts eines Neugeborenen.
+- Bestimmung der Anzahl der Verkehrsunfälle in einem Jahr bezogen auf eine bestimmte Personengruppe.
+
+Setzt man ein Zufallsexperiment aus mehreren einzelnen zusammen, so spricht man von einem mehrstufigen Zufallsexperiment.
+
+
+1.2 Stochastische Modelle
+Um Zufallsexperimente mathematisch erfassen zu können und Aussagen über die Wahrscheinlichkeit bestimmter Ausgänge machen zu können, muss man die Realität in ein mathematisches Modell umwandeln. Der erste Schritt dabei ist die Erstellung des Ergebnisraums.
+
+
+1.3 Ergebnisräume
+Wie oben erwähnt wird ein Zufallsexperiment meist erst dadurch sinnvoll, dass man sich einen Überblick über alle möglichen Ergebnisse verschafft. Die Menge aller möglichen Ergebnisse  bezeichnet man als Ergebnisraum . Es ist in der Praxis sinnvoll und wichtig, dass man nur sinnvolle Ergebnisse betrachtet, also den Ergebnisraum so einfach wie möglich hält. Beim Würfeln ist es beispielsweise nicht sinnvoll, den Fall zu betrachten, dass der Würfel auf einer Kante liegen bleibt. Die Anzahl der Elemente des Ergebnisraums  bezeichnet man mit  und nennt sie die Mächtigkeit des Ergebnisraums.
+
+
+
+Beispiele für Ergebnisräume:
+a) Mögliche Ergebnisräume beim einmaliges Werfen eines Würfels:  
+							|?1| = 6  
+						|?2| = 2  
+	gerade Augenzahl; ungerade Augenzahl    	|?3| = 2      
+b) Mögliche Ergebnisräume beim zweimaligen Werfen eines Würfels:
+	 		|?1| = 36  
+	(Summe der Augenzahlen)		|?2| = 11  
+	0-mal 6; 1-mal 6; 2-mal 6			|?3| = 3      
+
+Verringert man die Anzahl der Elemente eines Ergebnisraums (z.B. jeweils von  auf ), so spricht man von einer Vergröberung, bei der Umkehrung spricht man von einer Verfeinerung. Eine Vergröberung bedeutet immer einen Informationsverlust.
+
+
+2. Ereignisalgebra
+
+Jede Teilmenge A des endlichen Ergebnisraums  heißt Ereignis. Das Ereignis A tritt genau dann ein, wenn ein Ergebnis  eintritt, dass in A enthalten ist. Die Menge aller Ereignisse heißt Ereignisraum. 
+
+SymbolSprechweiseVeranschaulichung 
+(Venn-Diagramm)____
+AGegenereignis von AEreignis A und Ereignis BEreignis A oder Ereignis B      ____           ____              ______________
+weder A noch B      ____           ____               _____________
+höchstens eines der Ereignisse
+Für die Verknüpfung von Mengen gelten Kommutativ-, Assoziativ- und Distributivgesetz. Darüber hinaus gelten die Gesetze von De Morgan:
+
+
+
+
+
+
+                                                                                                                                                                                                      ___
+Das Ereignis A und sein Gegenereignis A können nicht gemeinsam eintreten. Es gibt jedoch in fast allen Fällen ein anderes Ereignis B, das auch nicht gemeinsam mit A eintreten kann, d.h. dass . 
+
+Die Ereignisse A und B heißen unvereinbar oder disjunkt, wenn .
+
+Das Ereignis heißt sicheres Ereignis; das Ereignis heißt unmögliches Ereignis.
+
+
+
+3. Relative Häufigkeiten
+
+Man kann zwar nicht vorhersagen, welches Ergebnis bei einem Versuch eines Zufallsexperiments eintritt, man kann jedoch Aussagen darüber machen mit welcher Wahrscheinlichkeit ein bestimmtes Ereignis eintritt. Ein Weg, mit dem man in der Praxis Durchschnittswerte für die Wahrscheinlichkeiten vorgegebener Ereignisse bestimmt, führt über die relative Häufigkeit. Diese erhält man, indem man das Zufallsexperiment n-mal durchführt, dabei die Anzahl der Fälle k bestimmt, in denen das gewünschte Ereignis eintritt (absolute Häufigkeit) und diese Anzahl durch die Zahl der Versuche teilt.
+
+
+
+
+
+Der Übergang zum Begriff der Wahrscheinlichkeit, wird durch eine Erfahrungstatsache gestützt, die als Empirisches Gesetz der großen Zahlen bezeichnet wird:
+
+
+Dieser feste Wert ist die Wahrscheinlichkeit .
+
+Eigenschaften relativer Häufigkeiten:
+hn (A ? B) = hn (A) +  hn (B) – hn (A ? B) 
+
+Für eine “Häufigkeitsverteilung” gilt weiter:		? = { ?1 ; ?2 ... ?m }
+1.     0 ? hn (?) ? 1
+2.     hn (?1) + hn (?2) +  ...  + hn (?m) = 1
+3.     hn (A) =  hn (?) 
+                              
+Berechnung von Wahrscheinlichkeiten
+
+4.1 Wahrscheinlichkeitsverteilungen
+Um zu entscheiden, wie wahrscheinlich das Eintreten eines Ereignisses ist, reicht es, den einzelnen Elementarereignissen eindeutig Wahrscheinlichkeiten zuzuordnen. Da eine derartige Funktion „die Wahrscheinlichkeit 1 auf die Elementarereignisse verteilt“, spricht man von einer Wahrscheinlichkeitsverteilung.
+
+Eine wichtige Eigenschaft der Wahrscheinlichkeitsverteilung ist: 
+  
+
+
+                                                                                                                                                                                                                                     
+4.2 Stochastische Modelle
+Der zweite Schritt beim Aufstellen eines stochastischen Modells ist die Festlegung der zugehörigen Wahrscheinlichkeitsverteilung. Der Zusammenhang zwischen dem stochastischen Modell und der Realität stellt sich folgendermaßen dar:
+
+4.3 Konkrete Berechnungsmöglichkeiten von Wahrscheinlichkeiten
+4.3.1 Berechnung am Baumdiagramm
+
+
+Die Summe der Wahrscheinlichkeiten aller Äste, die von einem Verzweigungspunkt ausgehen, ist immer 1.
+
+
+
+4.3.2 Berechnung mit Vierfeldertafeln	
+
+
+A___
+A
+B
+___         .
+
+P(B)___. 
+B                               __ _
+    ___             ___
+        ___
+P(B)
+P(A)          ___
+P(A)                                                                                                                                                                                                                                                                                                                                                                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                 ___
+Die  Summe  der  ersten Zeile  ergibt P(B), die Summe der 2. Zeile  ergibt P(B). Ebenso ergibt 
+                                                                                                                                                                                                                                                                                                                    ___
+die Summe der ersten Spalte  P(A), die Summe der 2. Spalte  P(A).
+
+Daher gilt:
+                                                                                             ___
+o                                    ___                                                   ___              ___                              ___
+o                                                                                                                 ___
+o                                    ___                                                    ___             ___                               ___
+o 4.4 Kombinatorik
+
+Bei der Bestimmung von Wahrscheinlichkeiten ist es meist sehr hilfreich, die Mächtigkeit des Ergebnisraums oder die Mächtigkeit einzelner Ereignisse abzuzählen. Dabei hilft einem die Kombinatorik. Beim Abzählen der Elemente einer Menge ist entscheidend, ob sich einzelne Elemente wiederholen können und ob die Reihenfolge der Elemente als wichtig erachtet wird.
+Es gibt folgende Möglichkeiten, k Elemente aus einer n-Menge (Menge mit n Elementen) auszuwählen:
+
+mit Wiederholungenohne Wiederholungenmit Beachtung  der Reihenfolgek-Tupel aus einer
+n-MengeFormel:nkBeispiel:Zahlenschlossk-Permutationen aus
+einer n-MengeFormel:Beispiel:Verteilung von Kinoplätzenohne Beachtung der ReihenfolgeFormel:k-Teilmengen aus
+einer n-MengeFormel:Beispiel:Lotto
+
+4.5 Wichtige Wahrscheinlichkeitsverteilungen
+
+4.5.1 Gleichverteilung
+Die Wahrscheinlichkeitsverteilung P:  heißt Gleichverteilung. Der Name kommt daher, dass jedem Elementarereignis dieselbe Wahrscheinlichkeit zugeordnet wird. Ein Zufallsexperiment, bei dem die Gleichverteilung zugrunde liegt heißt Laplace-Experiment.
+Für die Berechnung der Wahrscheinlichkeit  des Ereignisses A benutzt man die Regel
+
+
+
+
+Dabei gilt:
+ = Anzahl der für A günstigen Ergebnisse
+ = Anzahl der möglichen Ergebnisse
+
+
+4.5.2 Binomialverteilung
+Beim n-maligen Ziehen mit Zurücklegen ist es manchmal sinnvoll, nur zu unterscheiden, ob man einen Treffer (weiße Kugel) oder ein Niete (schwarze Kugel) erhält. Ein sinnvoller Ergebnisraum ist kein Treffer; ein Treffer; ……..; n Treffer.
+Die zugehörige Wahrscheinlichkeitsverteilung P:  der die Trefferzahl k abbildet, heißt Binomialverteilung. Dabei ist p der Anteil der weißen Kugeln.
+
+4.5.3 Hypergeometrische Verteilung
+Beim n-maligen Ziehen ohne Zurücklegen ist es manchmal ebenfalls sinnvoll, nur zu unterscheiden, ob man einen Treffer (weiße Kugel) oder ein Niete (schwarze Kugel) erhält. Ein sinnvoller Ergebnisraum ist wieder kein Treffer; ein Treffer; ……..; n Treffer.
+Bei insgesamt N Kugeln, von denen K weiß sind, erhält man die Wahrscheinlichkeits-verteilung P: . Auch bei dieser so genannten hypergeometrischen Verteilung wird die Trefferzahl k abgebildet.
+
+
+
+4. Stochastische Unabhängigkeit
+
+5.1 Bedingte Wahrscheinlichkeit
+Es gibt Situationen, in denen die Wahrscheinlichkeiten durch die Vorinformation beeinflusst werden. Beim Ziehen ohne Zurücklegen beeinflusst der erste Zug die Wahrscheinlichkeit für das Eintreten eines bestimmten Ereignisses beim zweiten Zug.
+Können bei einem Experiment die Ereignisse A und B eintreten, so heißt die Wahrscheinlichkeit von B unter der Bedingung, dass A bereits eingetreten ist die (bedingte) Wahrscheinlichkeit von B unter der Bedingung A und bezeichnet sie mit 
+
+Es gilt , was man auch am Baumdiagramm ablesen kann:
+
+
+
+
+
+
+
+5.2 Stochastische Unabhängigkeit zweier Ereignisse
+Man bezeichnet zwei Ereignisse A und B als stochastisch unabhängig, wenn das Eintreten des Ereignisses A die Wahrscheinlichkeit des Ereignisses B nicht beeinflusst.
+
+Daraus folgt mit der Schreibweise von oben . Mit der Formel  ergibt sich eine Formel zur Überprüfung der Unabhängigkeit:
+
+
+Die stochastische Unabhängigkeit ist in der Praxis von großer Bedeutung. In der Psychologie fragt man sich beispielsweise häufig, ob die Auftretenswahrscheinlichkeit einer bestimmten Störung in bestimmten Bevölkerungsgruppen größer ist als in anderen.
+Im Fall der Bulimie hat man in der Gesamtbevölkerung eine Auftretenswahrscheinlichkeit von 0,1%, bei weiblichen Personen im Alter von 15-35 Jahren liegt sie bei 3%. Durch das Wissen, dass eine Person weiblich und zwischen 15 und 35 Jahren alt ist verändert sich die Auftretenswahrscheinlichkeit von Bulimie. Es liegt also stochastische Abhängigkeit vor.
+Wäre eine psychische Störung stochastisch unabhängig von einer bestimmten Population, so müsste die Auftretenswahrscheinlichkeit in der Population mit der in der Gesamtpopulation übereinstimmen.
+
+
+                                                                                                                                                                                                                                                                                                                                                                              ___        ___
+Sind zwei Ereignisse A und B stochastisch unabhängig, so sind auch A und B, A und B sowie
+  ___                        ____
+A und B stochastisch unabhängig.
+
+Die zugehörige Vierfeldertafel ist eine Multiplikationstafel:
+
+
+A___
+A
+B
+___                  .
+
+P(B)___. 
+B                                        __ _
+    ___                        ___
+        ___
+P(B)
+P(A)          ___
+P(A)
+
+
+
+
+
+
+
+5.3 Zusammenhang zwischen Unabhängigkeit und Unvereinbarkeit zweier Ereignisse
+
+Begründung:
+A;B  sind unvereinbar      AB =       P(AB) = 0
+aber P(A)  0      P(B)  0            A und B sind abhängig
+
+Graphischer Überblick:
+
+A und B sind unvereinbar
+ A und B sind abhängigA und B sind vereinbar
+ A und B sind unabhängig, wenn 
+ A und B sind abhängig
+5.4 Stochastische Unabhängigkeit mehrerer Ereignisse
+
+Ereignisse A1; A2; ……..; An heißen stochastisch unabhängig, wenn sie paarweise stochastisch unabhängig sind, und wenn gilt:
+
+
+Paarweise stochastisch unabhängig bedeutet dabei, dass je zwei der Ereignisse stochastisch unabhängig sind.
+
+
+
+5. Bernoulli-Ketten
+
+6.1 Bernoulli-Experimente
+
+anschauliche Deutung:
+Ein Bernoulli-Experiment ist ein Zufallsexperiment, bei dem nur interessiert, ob ein bestimmtes Ergebnis vorliegt oder nicht, d.h. ein Zufallsexperiment, dessen Ergebnisraum nur aus zwei Elementen besteht.
+
+Bezeichnungen:
+1 = Treffer
+0 = Niete
+p = Trefferwahrscheinlichkeit
+
+Weitere Beispiele:
+
+ExperimentTreffer (0)Niete (1)Münzwurf
+Würfelwurf
+Ziehen mit Zurücklegen
+Qualitätsprüfung eines Massenartikels
+Flaschendrehen
+Blümchen zupfen
+Geburt
+SchwangerschaftstestKopf
+Sechs
+weiße Kugel
+gut
+Flasche zeigt auf mich
+Er/Sie liebt mich
+Mädchen
+positivZahl
+Nicht-Sechs
+schwarze Kugel
+schlecht
+Flasche zeigt nicht auf mich
+Er/Sie liebt mich nicht
+Junge
+negativ
+Bemerkung:
+Die meisten Zufallsexperimente kann man durch eine Vergröberung des Ergebnisraumes zu einem Bernoulli-Experiment machen.
+
+Beispiel:
+Beim Würfeln ist der zugrunde liegende Ergebnisraum . Beim ersten Wurf beim Mensch-ärgere-dich-nicht ist es jedoch nur interessant ob man eine „6“ würfelt oder nicht. Hier bietet sich die Vergröberung  an. Mit diesem Ergebnisraum ist der erste Wurf beim Mensch-ärgere-dich-nicht ein Bernoulli-Experiment.
+
+
+6.2 Bernoulli-Ketten
+
+Meistens interessiert man sich nicht für ein einzelnes Bernoulli-Experiment, sondern für eine mehrfache Ausführung eines Bernoulli-Experiments. Wenn man einen Zufallsversuch viele Male unter genau den gleichen Bedingungen durchführt, so werden sich die Ausgänge der Einzelversuche vermutlich nicht beeinflussen. Münze, Würfel und Roulettscheibe haben kein „Gedächtnis“.
+Bei n-maliger Durchführung eines Experiments bedeute das Ereignis Ai = „Treffer beim i-ten Versuch“.
+
+
+Beispiele:
+a) Qualitätskontrolle mehrerer gleichartiger Werkstücke.
+b) Psychologische Untersuchung mehrerer Kinder auf Hochbegabung.
+c) Raten bei einem Multiple-Choice-Test bei dem jede Frage dieselbe Anzahl an Lösungsmöglichkeiten hat.
+d) Testen eines Medikaments in Tierversuchen.
+
+
+
+Mit welcher Wahrscheinlichkeit erhält man bei einer Bernoulli-Kette der Länge n und der Trefferwahrscheinlichkeit p ein bestimmtes n-Tupel mit genau k Einsen?
+
+Um diese Frage zu klären betrachtet man zunächst den Sonderfall, dass die ersten k Elemente des n-Tupels Einsen sind. Um die Wahrscheinlichkeit dafür zu berechnen betrachtet man den zugehörigen Baumast:
+
+Unter Benutzung der ersten Pfadregel ergibt sich die Wahrscheinlichkeit zu    (mit q = 1-p).
+
+Nun versucht man sich den Baumast für den allgemeinen Fall vorzustellen und bildet wiederum mit Hilfe der ersten Pfadregel die Wahrscheinlichkeit. Man sieht schnell, dass im zugehörigen Produkt wieder k-mal der Faktor p und (n-k)-mal der Faktor (1-p) auftritt. Mit Hilfe des Kommutativgesetzes kann man die Faktoren beliebig anordnen und erkennt: Die Wahrscheinlichkeit ergibt sich auch im allgemeinen Fall zu:      mit q = 1-p
+
+
+Spezialfälle:
+Bei einer Bernoulli-Kette der Länge n mit Parameter p gilt:
+
+
+
+
+
+
+3-mindestens-Aufgaben:
+In der Praxis ist es oft auch von Interesse, wie lang eine Bernoulli-Kette sein muss, um mit einer bestimmten Sicherheit mindestens einen Treffer zu erzielen.
+Beispielsweise fragt sich Herr Moser, der zwei Töchter hat, wie viele Kinder er zeugen muss, um mit einer Wahrscheinlichkeit von mindestens 98% mindestens einen Sohn zu haben. (Die Wahrscheinlichkeit für eine Jungengeburt beträgt 0,514).
+
+Lösung:
+P(„mindestens 1 Sohn“)  0,98      1- P(„kein Sohn“)  0,98
+ - P(„kein Sohn“)  0,98 – 1      P(„kein Sohn“)  0,02
+ 0,486n  0,02      ln0,486n  ln0,02      ln0,486  ln0,02
+ n        n  5,4    n  6
+Herr Moser muss mindestens 6 Kinder zeugen, um mit einer Wahrscheinlichkeit von mindestens 98% mindestens einen Sohn zu haben.
+
+
+Abschätzung der Trefferwahrscheinlichkeit p:
+Welche Aussagen kann man über p machen, wenn in einer Bernoulli Kette der Länge n mit der Mindestwahrscheinlichkeit  mindestens ein Treffer erzielt werden soll?
+
+Es muss gelten:      
+
+   
+
+Mit welcher Wahrscheinlichkeit erhält man bei einer Bernoulli-Kette der Länge n und der Trefferwahrscheinlichkeit p genau k Einsen?
+
+In den meisten Fällen ist es nicht von Interesse, wann die k Treffer auftreten, es ist vielmehr entscheidend, ob genau k Treffer auftreten. Da man versucht, den Ergebnisraum stets so einfach wie möglich zu halten, betrachtet man die Vergröberungkein Treffer; ein Treffer; ………; n Treffer.
+Nun stellt sich die Frage, welche Wahrscheinlichkeit den einzelnen Elementarereignissen zugeordnet wird. Die Wahrscheinlichkeit für genau k Treffer bei einer Bernoulli-Kette der Länge n mit Trefferwahrscheinlichkeit p ergibt sich folgendermaßen:
+* Die Wahrscheinlichkeit eines bestimmten Ergebnisses mit genau k Treffern und n-k Nieten ist .
+* Die Anzahl der n-Tupel mit genau k Einsen ist .
+1. 
+6. Binomialverteilung
+
+In den meisten Fällen ist es nicht von Interesse, wann genau die k Treffer auftreten, es ist vielmehr entscheidend, ob genau k Treffer auftreten. Da man versucht, den Ergebnisraum stets so einfach wie möglich zu gestalten betrachtet man meist nur die Vergröberung kein Treffer; ein Treffer; ………; n Treffer.
+Nun stellt sich die Frage, welche Wahrscheinlichkeit den einzelnen Elementarereignissen zugeordnet wird. Die Wahrscheinlichkeit für genau k Treffer bei einer Bernoulli-Kette der Länge n mit Trefferwahrscheinlichkeit p ergibt sich folgendermaßen:
+* Die Wahrscheinlichkeit eines bestimmten Ergebnisses mit genau k Treffern und n-k Nieten ist .
+* Die Anzahl der n-Tupel mit genau k Einsen ist .
+* Die Wahrscheinlichkeit für genau k Treffer bei einer Bernoulli-Kette der Länge n ergibt sich als Summe der Wahrscheinlichkeiten der einzelnen Ergebnisse zu
+	
+   (mit q = 1-p)
+
+
+Graphische Darstellung:
+Graphisch stellt man die Binomialverteilung entweder mit einem Stabdiagramm oder mit einem so genannten Histogramm dar.
+
+StabdiagrammHistogramm
+
+Beim Histogramm wählt man als Breite eines Rechtecks meist eine Längeneinheit, so dass die Fläche des jeweiligen Rechtecks über einer Trefferzahl der Wahrscheinlichkeit dieser Trefferzahl entspricht.
+
+
+
+
+
+Eigenschaften der Binomialverteilungen:
+Die Binomialverteilung B(n;p) wird durch die beiden Parameter n und p charakterisiert.
+
+a) Abhängigkeit vom Parameter p:
+- Das Maximum, also die Stelle größter Wahrscheinlichkeit, rückt mit wachsendem p nach rechts.
+- B(n;p) und B(n;1-p) liegen symmetrisch zur Achse .
+- B(n;) liegt symmetrisch zur Achse .
+
+p = 0,2:p = 0,5:
+
+b) Abhängigkeit von der Länge n:
+- Das Maximum rückt mit wachsendem n nach rechts.
+
+n = 1:n = 9:
+In der Praxis ist man häufig nicht an dem Ereignis „genau k Treffer“, sondern an Ereignissen „höchstens k Treffer“ bzw. „mindestens k Treffer“ interessiert. Damit man dabei nicht ständig aufwendige Summen berechnen muss, definiert man sich die so genannte kumulative Verteilungsfunktion
+
+
+
+
+
+
+
+Benutzung von Tafelwerken:
+Da die Binomialverteilung für die Praxis von großer Bedeutung ist, sind sowohl sie als auch die kumulative Verteilungsfunktion für bestimmte Parameter n und p in so genannten Tafelwerken der Stochastik tabellarisiert.
+
+nkp = 0,20B(n;p;k) B(n;p;i)p = 0,25B(n;p;k) B(n;p;i)p = 0,30B(n;p;k) B(n;p;i)80
+1
+2
+3
+4
+5
+6
+7
+80,16777
+0,33554
+0,29360
+0,14680
+0,04588
+0,00918
+0,00115
+0,00008
+0,000000,16777
+0,50332
+0,79692
+0,94372
+0,98959
+0,99877
+0,99992
+
+0,10011
+0,26697
+0,31146
+0,20764
+0,08652
+0,02307
+0,00385
+0,00037
+0,000020,10011
+0,36708
+0,67854
+0,88618
+0,97270
+0,99577
+0,99962
+0,99998
+0,05765
+0,19765
+0,29648
+0,25412
+0,13614
+0,04668
+0,01000
+0,00122
+0,000070,05765
+0,25530
+0,55177
+0,80590
+0,94203
+0,98871
+0,99871
+0,99993
+100
+1
+2
+3
+4
+5
+6
+7
+8
+9
+100,10737
+0,26844
+0,30199
+0,20133
+0,08808
+0,02642
+0,00551
+0,00079
+0,00007
+0,00000
+0,10737
+0,37581
+0,67780
+0,87913
+0,96721
+0,99363
+0,99914
+0,99992
+
+
+0,05631
+0,18771
+0,28175
+0,25028
+0,14600
+0,05840
+0,01622
+0,00309
+0,00039
+0,00003
+0,000000,05631
+0,24403
+0,52559
+0,77588
+0,92187
+0,98027
+0,99649
+0,99958
+0,99997
+
+0,02825
+0,12106
+0,23347
+0,26683
+0,20012
+0,10292
+0,03676
+0,00900
+0,00145
+0,00014
+0,000010,02825
+0,14931
+0,38278
+0,64961
+0,84973
+0,95265
+0,98941
+0,99841
+0,99986
+0,99999
+
+Beim ablesen der Werte geht man so vor, dass man zunächst nach dem passenden Parameter p sucht. Hat man die richtige Spalte gefunden, so sucht man nach dem passenden Parameter n. Die gegebenen Parameter geben einem nun die zugehörige Spalte und die zugehörige Zeile der Tabelle an. Den gesuchten Wahrscheinlichkeitswert erhält man, indem man von dem gewünschten Trefferwert k aus waagrecht nach rechts (zur Sicherheit mit einem Lineal) und liest dann den Wert für bzw.  ab.
+
+Im obigen Beispiel ist die Bestimmung von in Rot bzw.  in Blau dargestellt.
+II. Statistik
+
+In der Wahrscheinlichkeitstheorie haben wir bisher mit Wahrscheinlichkeiten gerechnet. In der Statistik beschäftigen wir uns nun damit, Vermutungen über Wahrscheinlichkeiten anzustellen (Schätzen) und zu überprüfen (Testen). Derartige Aussagen bezeichnet man als stochastische Schlüsse.
+Obwohl der Begriff Statistik einen weitreichenden geschichtlichen Hintergrund besitzt entstand die mathematische Statistik, wie wir sie heute kennen, erst im 20. Jahrhundert zu Beginn der 30er Jahre. Die ersten Abweichungen von den bis dahin bevorzugten Vollerhebungen entstanden durch einen Vorschlag von W.H. Shewhart, einen Mitarbeiter der Bell Telephone Laboratories, bei dem es darum ging, statt der Kontrolle aller Einheiten nur Zufallsstichproben zu untersuchen.
+Die zentrale Aufgabe der Statistik besteht darin, Methoden zu entwickeln, mit denen man aus zufallsgesteuerten Beobachtungen auf die zugrunde liegenden Gesetzmäßigkeiten schließen kann. Bei der Suche nach diesen Gesetzmäßigkeiten geht es darum, aufgrund der gemachten Beobachtungen das richtige Wahrscheinlichkeitsmaß zu ermitteln. Dabei gibt es zwei grundsätzliche Vorgehensweisen:
+- die Parameterschätzung
+Hat man keine Vermutung über die Trefferwahrscheinlichkeit p, so schätzt man diese Wahrscheinlichkeit aufgrund des Ergebnisses anhand einer bestimmten Stichprobe (Hochrechnung). Bei einer Punktschätzung gibt man einen genauen Wert für p an, bei einer Intervallschätzung nur ein Intervall, in dem p liegen soll. Die Statistik beschäftigt sich dabei vornehmlich damit, den Grad der Unsicherheit einer derartigen Schätzung zu bestimmen.
+
+- das Testen von Hypothesen
+
+Hat man Vermutungen (Hypothesen) über die Trefferwahrscheinlichkeit p, so entscheidet man anhand einer Stichprobenerhebung, welche Hypothese angenommen oder verworfen wird. Hier ist die Statistik daran interessiert, wie groß die Wahrscheinlichkeit eines Irrtums bei einer derartigen Testung ist.
+
+Im Grundkurs Mathematik beschränkt man sich auf das Testen von Hypothesen und lässt die Schätzung außen vor.
+
+
+7. Testen von Hypothesen
+
+Ein derartiges statistisches Testverfahren läuft mehrschrittig ab: Zunächst stellt man die zu überprüfenden Hypothesen auf. Im Anschluss daran entwirft man ein Zufallsexperiment und formuliert das zugehörige stochastische Modell. Die Wahl der Entscheidungsregel bei der man sich meist an einem bestimmten Irrtumsniveau orientiert folgt als dritter Schritt. Die Durchführung des Experiments bildet den Abschluss des Entscheidungsverfahrens. Dass die Durchführung den Abschluss bildet ist äußerst wichtig, da man geneigt ist, vorliegende Daten so zu interpretieren, wie man sie sehen möchte. Daher besteht die Gefahr des Selbstbetrugs oder gar der Manipulation, wenn die Daten erhoben sind, bevor eine Entscheidungsregel festgelegt wurde.
+
+
+
+
+
+
+
+
+
+
+8.1 Der Alternativtest
+
+Beispiel:
+Eine Firma stellt Spulenaufwicklungen her. Die eingebauten Motoren sind von unterschiedlicher Qualität. Es gibt die beiden Möglichkeiten, dass in einer Lieferung von 100 Teilen entweder 10% oder 40% in Ordnung sind. Jede Lieferung muss daraufhin überprüft werden.
+
+a) Aufstellen der Hypothesen:
+
+H1 = „Der Ausschussanteil beträgt 10%“      p1 = 0,1
+H2 = „Der Ausschussanteil beträgt 40%“      p2 = 0,4
+
+H1 und H2 sind Hypothesen, die einander ausschließen, sie heißen Alternativen. H1 und H2 heißen einfache Hypothesen, weil sie nur durch einen Wert von p beschrieben werden.
+
+b) Aufstellen des zugehörigen stochastischen Modells:
+
+Stichprobenlänge:n = 10Testgröße:Z = „Anzahl der Fehlteile“Ergebnisraum:kein Fehlteil; 1 Fehlteil; ……..; 10 FehlteileWahrscheinlichkeitsverteilung:B(10; 0,1) falls H1 wahr ist
+B(10; 0,4) falls H2 wahr ist
+c) Entwicklung einer Entscheidungsregel:
+
+Man sucht sich nun einen Wert , so dass man H1 annimmt, falls und H1 ablehnt, falls Z>k.
+Das  Ereignis  A =    =    heißt  Annahmebereich  der  Hypothese  H1,  das 
+                                            ___
+Ereignis A = Z>k =  heißt Ablehnungsbereich von H2.
+
+Bei der Durchführung eines Tests gibt es verschiedene Möglichkeiten:
+
+
+Entscheidung fürH1 ()H2 (Z>k)RealitätH1 ist wahr
+ p1 = 0,1richtige
+EntscheidungFehler
+1. ArtH2 ist wahr
+ p2 = 0,4Fehler
+2. Artrichtige
+Entscheidung
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vergleich verschiedener Entscheidungsregeln:
+(1) Entscheidung für H1, wenn 
+
+
+(2) Entscheidung für H1, wenn 
+
+
+(3) Entscheidung für H1, wenn 
+
+
+
+
+d) Durchführung des Experiments und Hypothesenentscheidung:
+
+Ist die theoretische Vorarbeit beendet, so wird das „Zufallsexperiment“ durchgeführt. Das Ergebnis wird im Hinblick auf die festgelegte Entscheidungsregel bewertet und aufgrund dieser Bewertung wird eine der Hypothesen angenommen, die andere wird abgelehnt.
+Dass die Durchführung den Abschluss bildet ist äußerst wichtig, da man geneigt ist, vorliegende Daten so zu interpretieren, wie man sie sehen möchte. Daher besteht die Gefahr des Selbstbetrugs oder gar der Manipulation, wenn die Daten erhoben sind, bevor eine Entscheidungsregel festgelegt wurde. Dieselbe Verfälschung ergibt sich, wenn man die Entscheidungsregel nicht beachtet oder sie nach der Durchführung verändert.
+
+
+8.2 Der Signifikanztest
+
+In der Realität gibt es kaum Situationen, in denen man Entscheidungen zwischen zwei einfachen Hypothesen treffen muss. Meistens gibt es eine unüberschaubare Anzahl von Möglichkeiten. In solchen Fällen neigt man dazu sich eine Vermutung herauszugreifen und Testet sie gegen alle anderen möglichen Annahmen. In derartigen Fällen ist man bemüht, das Risiko 1. Art unter einer bestimmten Schranke zu halten.
+Ein Test, bei dem man sich darauf beschränkt, nur für eine Hypothese die Wahrscheinlichkeit sie irrtümlich abzulehnen so gering wie möglich zu halten heißt Signifikanztest. Die Hypothese nennt man in diesem Fall Nullhypothese, die Oberschranke für die Irrtumswahrscheinlichkeit bezeichnet man als Signifikanzniveau . Ein Versuchsergebnis, das zur Ablehnung der Nullhypothese führt heißt „signifikant auf dem Niveau .
+
+a) einseitiger Signifikanztest
+
+Beispiel:
+Markus behauptet seine Freiwurfquote liegt bei 80%. Uns interessiert in diesem Fall nur ob er schlechter ist als er sagt, da wir nicht davon ausgehen, dass er sich unterschätzt. Um ihn nicht zu beleidigen wollen wir diese Hypothese mit einem Risiko von höchstens 5% ablehnen.
+
+o Aufstellen der Hypothesen:
+
+H0 = „Markus hat eine Freiwurfquote von 80%“      p0 = 0,8
+H1 = „Markus hat eine Freiwurfquote von unter 80%“      p1 < 0,8
+
+
+o Aufstellen des zugehörigen stochastischen Modells:
+
+Stichprobenlänge:n = 30Testgröße:Z = „Anzahl der Fehlwürfe“Ergebnisraum:kein Fehlwurf; 1 Fehlwurf; ……..; 30 FehlwürfeWahrscheinlichkeitsverteilung:B(30; 0,8) falls H0 wahr ist
+unbekannt falls H0 falsch ist
+o Entwicklung einer Entscheidungsregel:
+
+Man   braucht   wieder   einen   Annahmebereich   A =   und   einen 
+                                                                                                           ___
+Ablehnungsbereich A =  mit einem Wert , so dass die Wahrscheinlichkeit H0 irrtümlich abzulehnen unter 5% liegt.
+
+
+die Hypothese H0 wirdo angenommen (Z>k)abgelehnt ()RealitätH0 ist wahr
+ p0 = 0,8richtige
+EntscheidungFehler
+1. Arto H2 ist wahr
+ p1 < 0,8Fehler
+2. Artrichtige
+Entscheidung
+
+Aus der Tabelle abgelesen ergibt sich der Wert k = 
+Man nennt den Test einseitig, da der Ablehnungsbereich den Annahmebereich nur von einer Seite her einschränkt.
+
+o Durchführung des Experiments und Hypothesenentscheidung
+
+
+b) zweiseitiger Signifikanztest
+
+Beispiel:
+Bei einer Wahlprognose wurde der CSU bei der nächsten Landtagswahl ein Ergebnis von 60% prognostiziert. Man möchte sich höchstens mit 1% Wahrscheinlichkeit von dieser Annahme abbringen lassen.
+
+o Aufstellen der Hypothesen:
+
+H0 = „Die CSU wird ein Wahlergebnis von 55% erreichen“      p0 = 0,55
+H1 = „Die CSU wird ein anderes Wahlergebnis als 55% erreichen“      p1  0,55
+
+
+o Aufstellen des zugehörigen stochastischen Modells:
+
+Stichprobenlänge:n = 100000Testgröße:Z = „Anzahl der CSU-Stimmen“Ergebnisraum:keine Stimme; 1 Stimme; ……..; 100000 StimmenWahrscheinlichkeitsverteilung:B(100000; 0,55) falls H0 wahr ist
+unbekannt falls H0 falsch ist
+o Entwicklung einer Entscheidungsregel:
+
+Man   braucht   erneut   einen   Annahmebereich   A =   und   einen 
+                                                                                                           ___
+Ablehnungsbereich A =  mit Werten , so dass die Wahrscheinlichkeit H0 irrtümlich abzulehnen unter 5% liegt.
+
+
+
+die Hypothese H0 wirdo angenommen ()abgelehnt ()RealitätH0 ist wahr
+ p0 = 0,8richtige
+EntscheidungFehler
+1. Arto H2 ist wahr
+ p1 < 0,8Fehler
+2. Artrichtige
+Entscheidung
+
+Nach langwieriger Berechnung ergeben sich die Werte k = und l = 
+Man nennt den Test zweiseitig, da der Ablehnungsbereich den Annahmebereich von beiden Seiten her flankiert.
+
+o Durchführung des Experiments und Hypothesenentscheidung
+
+
+
+Aufgaben zu Ergebnisräumen:
+
+1. Geben Sie zwei verschiedene Ergebnisräume an, die den dreimaligen Würfelwurf beschreiben könnten.
+
+2. Geben Sie die Mächtigkeiten der Ergebnisräume aus Aufgabe 1 an.
+
+Lösungen:
+
+Aufgabe 1:
+
+
+keine „6“; eine „6“; zwei „6-er“; drei „6-er“
+
+Aufgabe 2:
+
+;   
+
+Aufgaben zu Ereignisräumen:
+
+1. A;B;C seien 3 beliebige Ereignisse. Beschreiben Sie folgende Ereignisse durch Terme der Ereignisalgebra:
+a) alle dreib) höchstens zweic) mindestens einesd) keinese) genau einesf) nur A und Bg) genau zweih) A oder B, aber nicht C
+2. Gegeben sind folgende Ereignisse:
+A = „Eine Person ist weiblich“
+B = „Eine Person ist schwanger“
+C = „Eine Person ist Raucher“
+
+Beschreiben Sie folgende Ereignisse durch Terme der Ereignisalgebra:
+a) Eine Person ist männlich und raucht.
+b) Eine weibliche Frau ist schwanger und Nichtraucherin.
+c) Eine Frau ist entweder schwanger oder sie raucht.
+d) Eine Person ist entweder eine Frau oder sie raucht.
+
+Lösungen:
+
+Aufgabe 1:
+
+
+a)                         ___             ____             ____
+b) 
+c)                         ___             ____             ____
+d)                                               ____             ____                        ___                                  ____                         ___             ____
+e)                                                                ____
+f)                                                                     ____                                           ____                                             ___
+g)                                                                        ____                                      ____                                           ____
+h) 
+
+Aufgabe 2:
+
+                       ___
+a)                                            ____             ____
+b)                                                                         ____                    ____
+c) 
+d) 
+
+Aufgaben zur relativen Häufigkeit:
+
+1. Auf einer Party sind 15 Gäste. 9 Gäste sind männlich und 5 Gäste rauchen. Die Anzahl der männlichen Raucher beträgt 3.
+
+a) Legen Sie eine Vierfeldertafel der absoluten Häufigkeiten an.
+b) Legen Sie eine Vierfeldertafel der relativen Häufigkeiten an.
+
+2. 37% aller Passagiere eines großen Fährschiffes kaufen auf dem Schiff Tabakwaren, 20% aller Passagiere kaufen Süßwaren.
+a) Zwischen welchen Grenzen liegt die relative Häufigkeit der Passagiere, die weder Tabakwaren und Süßwaren kaufen?
+
+Wir nehmen nun an, dass ein Viertel derjenigen, die Süßwaren kaufen auch Tabakwaren kaufen. Das sind gerade 100 Personen.
+
+b) Stellen Sie eine Vierfeldertafel auf und ermitteln Sie, wie viele Prozent der Tabakwarenkäufer auch Süßwaren kaufen.
+
+
+Lösungen:
+
+Aufgabe 1:
+
+a) 
+M__
+M
+R3      2 (5-3)  5____
+R         6 (9-3)        4 (10-6)109615b) 
+M__
+M
+R____
+R1
+
+Aufgabe 2:
+
+a) Da 37% der Personen Tabakwaren kaufen, können höchstens 63% weder Tabak- noch Süßwaren kaufen. Da höchstens 57% entweder Tabak- oder Süßwaren kaufen, sind es mindestens 43%.
+Die Anzahl derer, die weder Tabak- noch Süßwaren kaufen liegt also im Intervall .
+b)  
+Vierfeldertafel der absoluten Häufigkeiten:Vierfeldertafel der relativen Häufigkeiten
+S____
+S
+T100  640740____
+T300  960126040016002000
+S____
+S
+T0,050,320,37____
+T0,150,480,630,20,81
+
+Aufgaben zu stochastischen Modellen:
+
+1. Geben Sie drei verschiedene stochastische Modelle zum einmaligen Werfen eines Würfels an.
+
+2. Geben Sie ein sinnvolles stochastisches Modell zum 10-maligen Freiwurf-Werfen beim Basketball für einen Spieler mit der Trefferwahrscheinlichkeit 88% an.
+
+
+Lösungen:
+
+Aufgabe 1:
+
+Modell 1:
+. Als Wahrscheinlichkeitsverteilung nimmt man die Gleichverteilung.
+
+Modell 2:
+. Als Wahrscheinlichkeitsverteilung nimmt man die Verteilung P mit:
+ und  für  (gezinkter Würfel)
+
+Modell 3:
+. Als Wahrscheinlichkeitsverteilung nimmt man die Verteilung P mit:
+ und 
+
+Aufgabe 2:
+
+kein Treffer; 1 Treffer; ……..; 10 Treffer mit der Wahrscheinlichkeitsverteilung B(10;0,88).
+
+Aufgabe zu Baumdiagrammen:
+
+Markus hat eine Freiwurfquote von 80 %. Kurz vor Ende eines Spiels wird er gefoult und erhält zwei Freiwürfe. Zeichnen Sie das entsprechende Baumdiagramm und berechnen Sie die Wahrscheinlichkeiten aller Elementarereignisse
+
+Lösung:
+
+
+Aufgabe zu Vierfeldertafeln:
+
+Eine Erhebung unter Jugendlichen im Alter von 15 – 23 Jahren hat ergeben:
+38% der Befragten gehen regelmäßig ins Fitnessstudio, 31% zum Inline-Skaten. 18% der Jugendlichen beschäftigen sich mit beiden Sportarten. Bestimmen Sie mithilfe einer Vierfeldertafel den Anteil der Jugendlichen, der keine der beiden Sportarten betreibt.
+
+Lösung:
+
+
+F___
+F
+I0,180,13
+(0,31-0,18)0,31___
+I0,2
+(0,38-0,18)0,49
+(0,69-0,2)0,690,380,621
+
+
+
+
+
+
+ 49% der befragten Jugendlichen betreiben keine der beiden Sportarten
+
+Aufgaben zur Kombinatorik:
+
+1. Gegeben ist das Wort „Mississippi“. Bestimme die Anzahl aller verschiedenen (oft sinnlosen) „Wörter“, die aus allen Buchstaben dieses Wortes gebildet werden können!
+
+2. 3 Mädchen und 4 Jungen gehen gemeinsam ins Kino. Auf wie viele Arten können sie in einer Reihe sitzen?
+
+Lösungen:
+
+Aufgabe 1:
+
+Die Anzahl der Möglichkeiten 11 unterschiedliche Buchstaben beliebig anzuordnen ist 11!. Da das „s“ und das „i“ je 4-mal und das „p“ 2-mal vorkommen muss man diese Anzahl durch  teilen und erhält 34650 mögliche Worte.
+
+Aufgabe 2:
+
+Sie können auf 7! = 5040 Arten nebeneinander sitzen.
+
+
+
+Aufgaben zu Laplace-Wahrscheinlichkeiten:
+
+1. 10 Jungen und 6 Mädchen sollen in zwei Mannschaften zu je acht Spielern eingeteilt werden. Wie groß ist die Wahrscheinlichkeit, dass in jeder Mannschaft genau 3 Mädchen sind?
+
+2. Die Partei A besteht aus 8 Frauen und 10 Männern, die Partei B besteht aus 5 Frauen und 11 Männern. Von den 18 Sitzen im Gemeinderat entfallen 11 auf Partei A und 7 auf Partei B. Mit welcher Wahrscheinlichkeit sitzen genau 3 Frauen aus Partei A und 2 Frauen aus Partei B im Gemeinderat?
+
+3. Auf einer Party sind 15 Gäste. 9 Gäste sind männlich und 5 Gäste rauchen. Die Anzahl der männlichen Raucher beträgt 3. Um Mitternacht stehen vier Personen an der Toilette an. Wie groß ist die Wahrscheinlichkeit, dass es zwei Frauen und zwei männliche Raucher sind.
+
+4. In einer Zeitschrift wird eine Bildungsreise angeboten, an der insgesamt 22 Personen teilnehmen können. Es melden sich 30 Interessenten für die Reise.
+a) Wie viele Möglichkeiten gibt es, daraus eine Reisegruppe mit 22 Personen zusammenzustellen?
+b) Unter den 30 Interessenten sind 4 Lehrer und acht Schüler. Wie wahrscheinlich ist es, dass in einer 22-köpfigen Reisegruppe genau zwei Lehrer und genau vier Schüler sind?	
+
+Lösungen:
+
+Aufgabe 1:
+Anzahl der Möglichkeiten =  = 12870
+
+Anzahl der günstigen Ereignisse =  =  = 5040
+
+P(„3 Mädchen in jeder Mannschaft“) =  =  = 0,39     (39%)
+
+Aufgabe 2:
+Anzahl der Möglichkeiten =  =  = 
+
+Anzahl der günstigen Ereignisse =  =  = 8316000
+
+P(„3 Frauen aus A und 2 Frauen aus B“) =  =  = 0,023     (2,3%)
+
+Aufgabe 3:
+Anzahl der möglichen Ereignisse =  = 1365
+Anzahl der günstigen Ereignisse =  =  = 45
+P(„2 Frauen und 2 männliche Raucher“) =  = 0,033   (3,3%)
+
+Aufgabe 4:
+a) Anzahl der Möglichkeiten =  = 5825925
+      
+b) P („2 Lehrer und 4 Schüler“) =  =  =  = 0,011   (11%)
+
+
+Aufgaben zur stochastischen Unabhängigkeit:
+
+1. Der Schüler Clemens und die Schülerin Katherina sind öfters montags krank, und zwar Clemens mit der Wahrscheinlichkeit 0,3 und Katherina mit der Wahrscheinlichkeit 0,5. Es kommt nur mit der Wahrscheinlichkeit 0,2 vor, dass sie am Montag beide im Unterricht anwesend sind. Man prüfe durch Rechnung, ob die montägliche Erkrankung von Clemens und Katherina unabhängige Ereignisse sind.
+
+2. Eine Schulklasse besteht aus 18 Mädchen und 12 Jungen. 6 Mädchen und 4 Jungen mögen das Fach Mathematik. Sind die Ereignisse
+   A = „Ein Klassenmitglied ist weiblich“
+   B = „Ein Klassenmitglied mag Mathematik“
+   unabhängig?
+
+3. Auf einer Party sind 15 Gäste. 9 Gäste sind männlich und 5 Gäste rauchen. Die Anzahl der männlichen Raucher beträgt 3. Einige der weiblichen Partygäste sind schwanger. Gegeben sind die Ereignisse
+   A= „Eine zufällig ausgewählte  Person ist männlich.“
+   B= „Eine zufällig ausgewählte Person raucht.“
+   C= „Eine zufällig ausgewählte Person ist schwanger.“
+
+a) Sind die Ereignisse A und B unabhängig? Begründung!
+b) Sind die Ereignisse A und C unabhängig? Begründung!
+
+4. Dani und Beni spielen Basketball. Dani trifft einen Freiwurf mit der Wahrscheinlichkeit 0,5; Beni trifft mit der Wahrscheinlichkeit 0,3. Legen Sie eine Vierfeldertafel der Wahrscheinlichkeiten an und geben Sie die Wahrscheinlichkeit an, dass nur einer von beiden seinen Freiwurf trifft.
+
+5. Zwei Schützen (Rico und Sven) treffen das Ziel unabhängig voneinander mit den Wahrscheinlichkeiten   0,5 (Rico) und 0,7 (Sven). Jeder schießt einmal. Mit welcher Wahrscheinlichkeit wird das Ziel
+a) genau einmal,
+b) überhaupt getroffen?
+
+6. Andi und Manuela jobben in Bamberg. Andi fährt mit der Wahrscheinlichkeit 0,95, Manuela mit der Wahrscheinlichkeit 0,30 am Wochenende in ihre Heimatstadt München. Die Ereignisse
+	A= „Andi fährt am Wochenende nach München.“
+	B= „Manuela fährt am Wochenende nach München.“
+	sind stochastisch unabhängig.
+a) Legen Sie eine Vierfeldertafel der Wahrscheinlichkeit an.
+b) Geben Sie die Wahrscheinlichkeit an, dass
+i. keiner von beiden am Wochenende in München ist.
+ii. nur einer von beiden am Wochenende in München ist.
+
+Lösungen:
+
+Aufgabe 1:
+
+C:= „Clemens ist montags in der Schule.“
+K:= „Katherina ist montags in der Schule.“
+
+P(C) = 0,8 ;   P(K) = 0,5 ;   P(CK) = 0,2
+      C und K sind abhängig
+
+Aufgabe 2:
+
+A = „Ein Klassenmitglied ist weiblich“
+B = „Ein Klassenmitglied mag Mathematik“
+P(A) =  =    ;   P(B) =  =    ;   P(AB) =  = 
+
+   A und B sind unabhängig
+
+Aufgabe 3:
+
+P(A) =  =  ;   P(B) =  =  ;   P(AB) =  = 
+a)       A und B sind unabhängig
+b) A und C sind unvereinbar            A und C sind abhängig ()
+
+Aufgabe 4:
+
+D = „Dani trifft den Freiwurf“
+B = „Beni trifft den Freiwurf“
+DDB0,3B0,70,50,5DDB0,150,150,3B0,350,350,70,50,5
+P(„nur einer trifft“) = P(DB) + P(DB) = 0,35+0,15 = 0,5     (50%)
+
+Aufgabe 5:
+
+R:= „Ricco trifft.“
+S:= „Sven trifft.“
+
+
+S__
+S
+R0,5__
+R0,50,70,3
+S__
+S
+R0,350,150,5__
+R0,350,150,50,70,3                                                       _         _
+a) P(„genau ein Treffer“) = P(RS) + P(RS) = 0,15 + 0,35 = 0,5   (50%)
+                                                                                          _      _
+b) P(„überhaupt treffen“) = 1 – P(„kein Treffer“) = 1-P(R S) = 1- 0,15 = 0,85   (85%) 
+
+Aufgabe 6:
+
+a)
+A__
+A
+B0,3__
+B0,70,950,05
+A__
+A
+B0,2850,0150,3__
+B0,6650,0350,70,950,05                                                                                                                                                                                                          _ _              __ _
+b) i)  P(„keiner von beiden ist in München“) = P(AB) = 0,035   (3,5%)
+                                                                                                                                                                                                                                       __ _                        _ _
+    ii) P(„nur einer von beiden ist in München“) = P(AB) + P(AB) = 0,015 + 0,665 = 0,68   (68%)
+
+
+Aufgaben zu Bernoulli-Ketten:
+
+1. Laut Brockhaus sind etwa 5% aller Bundesbürger farbenblind. Wie groß ist die Wahrscheinlichkeit, dass in einer Klasse mit 25 Schülern mindestens ein Schüler farbenblind ist?
+
+2. Etwa 12,5 % einer Bevölkerung sind Linkshänder. Wie groß ist die Wahrscheinlichkeit, dass von sechs zufällig ausgewählten Personen dieser Bevölkerung mindestens einer Linkshänder ist?
+
+3. Eine Maschine stellt Schrauben mit einem Ausschuss von 5% her. Wie groß ist die Wahrscheinlichkeit, dass unter acht zufällig ausgewählten Schrauben keine Ausschussware ist?
+
+4. Etwa 10 % einer Bevölkerungsgruppe kennen nicht den Namen ihres gegenwärtigen Staatspräsidenten. Wie groß ist die Wahrscheinlichkeit, dass von zehn zufällig ausgewählten Personen dieser Bevölkerung alle wissen, wie der gegenwärtige Staatspräsident heißt?
+
+5. Zur Vorbereitung auf die nächste Saison befindet sich die deutsche Damen-Biathlon-Nationalmannschaft momentan im Sommertrainingslager. Am Ende jeder Woche finden Trainingswettkämpfe über 10 km statt. Dabei wird 2-mal stehend geschossen (jeweils 5 Schüsse). Durch die große Belastung sinkt die Trefferwahrscheinlichkeit der Damen auf 88%.
+
+Geben Sie die Wahrscheinlichkeit dafür an, dass eine Biathletin
+a) alle 10 Schüsse trifft;
+b) mindestens einen Schuss verschießt;
+c) nur die ersten 3 Schusse verschießt;
+d) die ersten 10 Schüsse trifft;e) Der deutsche Trainer wettet mit Andrea (p = 0,93), dass sie bei der nächsten Trainingseinheit mindestens einen Schuss verfehlen. Wie viele Schüsse muss er sie schießen lassen, damit er mit einer Wahrscheinlichkeit von mindestens 98% die Wette gewinnt?
+6. Eine Maschine erzeugt Metallteile. 5% davon sind unbrauchbar. Wie viele Teile muss man wenigstens nehmen, damit man mit mindestens 50% Wahrscheinlichkeit ein defektes dabei hat?
+
+
+Lösungen:
+
+Aufgabe 1:
+
+P(„mindestens ein farbenblinder Schüler“) = 1-0,9525 = 0,7226   (72,26%)
+
+Aufgabe 2:
+
+P(„mindestens ein Linkshänder“) = 1-0,8756 = 0,5512   (55,12%)
+
+Aufgabe 3:
+
+P(„keine Ausschussware“) = 0,958 = 0,6634   (66,34%)
+
+Aufgabe 4:
+
+P(„alle kennen den Staatspräsidenten“) = 0,910 = 0,3487   (34,87%)
+
+Aufgabe 5:
+
+a) P(„alle 10 Schüsse trifft“) = 0,8810 = 0,2785   (27,85%)
+b) P(„mindestens einen Fehlschuss“) = 1-P(„nur Treffer“) = 1-0,8810 = 0,7215   (72,15%)
+c) P(„nur die ersten 3 Schusse verschießt“) =    (0,07%)
+d) P(„die ersten 5 Schüsse trifft“) = 0,885 = 0,5277   (52,77%)
+e) P(„mindestens 1 Fehlschuss“)  0,98      1- P(„nur Treffer“)  0,98
+ - P(„nur Treffer“)  0,98 – 1      P(„nur Treffer“)  0,02
+ 0,93n  0,02      ln0,93n  ln0,02      ln0,93  ln0,02
+ n        n  53,91    n  54
+Er muss sie mindestens 54-mal schießen lassen.
+
+Aufgabe 6:
+
+P(„mindestens 1 Fehlteil“)  0,5      1- P(„kein Fehlteil“)  0,5
+ - P(„kein Fehlteil“)  0,5 – 1      P(„kein Fehlteil“)  0,5
+ 0,95n  0,5      ln0,95n  ln0,5      ln0,95  ln0,5
+ n        n  13,51    n  14
+Man muss mindestens 14 Teile nehmen.
+
+
+
+
+
+
+
+
+
+
+
+Aufgaben zur Binomialverteilung:
+
+1. Ein Versandhaus verschickt Schokoladentafeln, pro Karton 12 Stück. Man rechnet aus Erfahrung damit, dass 10% der Tafeln beim Transport beschädigt werden. Mit welcher Wahrscheinlichkeit findet man in einem Karton
+a) genau 3 kaputte Tafeln,
+b) weniger als zwei kaputte Tafeln,
+c) mehr als 5 kaputte Tafeln,
+d) zwischen 3 und 7 kaputte Tafeln?
+
+2. Ein Modejournal behauptet, dass 60% aller Männer „Krawattenmuffel“ sind. Wie groß ist die Chance, dass unter 200 zufällig ausgewählten
+a) genau 110 Krawattenmuffel,
+b) weniger als 80 Krawattenmuffel,
+c) mehr als 150 Krawattenmuffel,
+d) zwischen 120 und 160 Krawattenmuffel sind?
+
+3. Ein idealer Würfel wird 100mal geworfen. Mit welcher Wahrscheinlichkeit würfelt man die „6“
+a) genau 30-mal,
+b) weniger als 23-mal,
+c) mehr als 50-mal,
+d) zwischen 30 und 70-mal?
+
+4. Eine Maschine stellt Schrauben mit einem Ausschuss von 15% her. In einer Schachtel befinden sich 15 Schrauben. Man betrachtet die Anzahl der unbrauchbaren Schrauben.
+a) Zeichnen Sie das zugehörige Histogramm!
+b) Berechnen Sie die Wahrscheinlichkeiten folgender Ereignisse und tragen Sie sie mit den angegebenen Farben im Histogramm ein:
+i. mindestens 8 unbrauchbare Schrauben (gelb)
+ii. höchstens 3 unbrauchbare Schrauben (rot)
+iii. zwischen 3 und 6 unbrauchbare Schrauben (blau)
+
+5. Ein großes Kopiergerät in einem Copy-Shop ist gerade erst repariert worden, aber ein Ausschuss von 8% kann trotzdem nicht ausgeschlossen werden. Herr Eipok macht 15 Kopien und zählt die fehlerhaften.
+a) Zeichnen Sie das zugehörige Histogramm!
+b) Berechnen Sie die Wahrscheinlichkeiten folgender Ereignisse und tragen Sie sie mit den angegebenen Farben im Histogramm ein:
+i. mindestens 8 Fehlkopien (gelb)
+ii. höchstens 3 Fehlkopien (rot)
+iii. zwischen 3 und 6 Fehlkopien (blau)
+
+6. Eine Maschine stellt Stanzteile mit einem Ausschussanteil von 5% her. Bei einer Auslieferung fragt man sich, wie viele Fehlteile man in einer 15-er Packung findet.
+a) Zeichnen Sie das zugehörige Histogramm!
+b) Berechnen Sie die Wahrscheinlichkeiten folgender Ereignisse und tragen Sie sie mit den angegebenen Farben im Histogramm ein:
+i. mindestens 8 Fehlteile (gelb)
+ii. höchstens 3 Fehlteile (rot)
+iii. zwischen 3 und 6 Fehlteile (blau)
+
+7. In einem Elektrizitätswerk arbeiten voneinander unabhängig 3 Generatoren, von denen jeder mit 10% Wahrscheinlichkeit versagen. Die Stromversorgung ist gesichert, wenn mindestens zwei Generatoren laufen. Mit welcher Wahrscheinlichkeit könnte die Stromversorgung zusammenbrechen?
+
+8. Bei einer Versicherung sind 20 Agenten beschäftigt, die 75% ihrer Zeit im Außendienst verbringen. Wie viele Schreibtische müssen angeschafft werden, damit mindestens 90 % der Innendienstzeit jeder Agent einen eigenen Schreibtisch zur Verfügung hat?
+
+
+Lösungen:
+
+
+
+
+
+
+Aufgaben zum Testen von Hypothesen:
+
+1. Bei der Züchtung einer gewissen Blumensorte erhält man rote oder weiße Exemplare. Eine der beiden Farben ist ein „dominantes Merkmal“ und muss nach den Vererbungsgesetzen mit der Wahrscheinlichkeit von 75% auftreten. In einem Kreuzungsversuch ergeben sich 15 Nachkommen. 
+a) Mit welcher Wahrscheinlichkeit irrt man sich, wenn man die häufiger auftretende Farbe für „dominant“ hält? 
+b) Mit welcher Wahrscheinlichkeit irrt man sich, wenn man die weniger häufig auftretende Farbe für „nicht dominant“ hält? 
+
+2. Das neue Waschmittel Lunil soll durch eine große Werbeaktion eingeführt werden. Wenn es der Werbeagentur gelingt, Lunil bei mehr als 45% der Bevölkerung bekannt zu machen, erhält sie von den LunilWerken eine besondere Prämie. Die Entscheidung soll auf Grund einer Befragung von 200 Personen getroffen werden. Wie muss die Entscheidungsregel lauten, wenn die LunilWerke nur 0,5% Risiko dafür eingehen wollen, dass die Agentur zu Unrecht die Prämie erhält? Wie hoch ist dann das Risiko für die Agentur, die Prämie nicht zu erhalten, obwohl 60% der Bevölkerung von Lunil erfahren haben?
+
+3. In der Zeitung steht: »Die Hälfte unserer Erwerbspersonen verdient weniger als 1600 DM monatlich!« Wir wählen daraufhin 100 Personen mit Einkommen zufallsbestimmt aus und finden, dass nur 42 davon ein Monatseinkommen unter 1600 DM haben. Auf welchem Signifikanzniveau können wir die Zeitungsbehauptung ablehnen (zweiseitiger Test)?
+
+4. Die Glühlampen einer bestimmten Marke haben zu 25% eine Brenndauer unter 1000 Stunden. Die Konkurrenz bringt einen neuen Typ auf den Markt, bei dem dieser Anteil angeblich kleiner ist. Wie viele von 100 Lampen der neuen Sorte müssen mehr als 1000 Stunden brennen, wenn man der Behauptung bei nur 5% Fehlerrisiko glauben soll?
+
+5. Bei einem Blutalkoholgehalt von mehr als 0,8 Promille ist Autofahren strafbar. Das Gesetz zieht rigoros diese Grenze. In einer Klinik kann der Blutalkohol praktisch zweifelsfrei gemessen werden; der Schnelltest auf der Straße ist nicht so zuverlässig. Das Testergebnis  es lautet »Alkoholgehalt größer bzw. kleiner als 0,8 Promille«  kann in zweifacher Weise falsch sein. Erläutere die beiden Fehlermöglichkeiten und ihre Folgen! Welche Wahl der Fehlerwahrscheinlichkeiten entspricht unserem Rechtsgrundsatz »in dubio pro reo«? Welche besondere Problematik ergibt sich daraus, dass der Blutalkoholgehalt eines Fahrers auch beliebig genau bei 0,8 Promille liegen kann?
+
+6. Ein Händler erhält häufig Lieferungen, bei denen ein Ausschussanteil von höchstens 5 % zugelassen ist. Zur Überprüfung der Lieferungen werden zwei Prüfpläne vorgeschlagen. Prüfplan 1: Die Lieferung wird abgelehnt, wenn in einer Stichprobe von zehn Stück mindestens ein Stück Ausschuss ist. Prüfplan 11: Die Lieferung wird abgelehnt, wenn in einer Stichprobe von 20 Stück mindestens zwei Stück Ausschuss sind. Welchen Prüfplan sollte der Händler wählen? Begründen Sie Ihre Antwort.
+
+7. Jemand behauptet, dass in den Zoohandlungen grüne und blaue Wellensittiche gleich häufig zum Verkauf angeboten werden. In mehreren Zoohandlungen wird bei 100 Sittichen die Farbe bestimmt. Man findet 64 grüne Vögel. Kann man bei einem Signifikanzniveau von 1 % schließen, dass die Farben der angebotenen Tiere gleich häufig sind?
+
+8. Bei einer Lotterie wird damit geworben, dass jedes vierte Los gewinnt. Man beobachtet, dass unter 53 gezogenen Losen nur acht Gewinnlose waren.
+a) Stimmt die Werbeaussage?
+b) Zu welchem Ergebnis kommt man, wenn unter 530 Losen 80 Gewinnlose waren
+
+9. Es wird die Hypothese vertreten, dass ein mit Butter bestrichener Toast immer auf die "Butterseite" fällt.
+a) Ein Toast wird 50mal geworfen. Dabei fällt er 20mal auf die Butterseite (B). Testen Sie die Hypothese po= 0,5 auf einem Signifikanzniveau von 1
+b) Es wird vereinbart die Hypothese beizubehalten, wenn bei 50 Würfen mindestens 17mal und höchstens 33mal B eintritt. Welche Irrtumswahrscheinlichkeit liegt diesem Test zu Grunde?
+c) Berechnen Sie für die Tests in al) und b) die Risiken 2, Art, wenn in Wirklichkeit P (B)= 0,4 gilt.
+d) Was ergibt sich bei a) und b) für das Signifikanzniveau 5 % und Stichprobenumfang n = 100?
+
+10. Die Beliebtheit einer Fernsehsendung soll untersucht werden. Eine Blitzumfrage hatte folgendes Ergebnis: Von den Zuschauern, welche die Sendung gesehen hatten, waren 40 % jünger als 25 Jahre; von diesen hatten 30 % und von den restlichen 70 % eine positive Meinung zu der Sendung. Wie viel Prozent der Zuschauer, welche die Sendung gesehen hatten, äußerten sich positiv zu ihr?
+
+Lösungen:
+
+
+
+
+
+GK Wahrscheinlichkeitstheorie – Inhaltsverzeichnis	1
+
+
+
+GK Wahrscheinlichkeitstheorie – Zufallsexperimente und Ergebnisräume	3
+
+www.mathematik.digitale-schule-bayern.de     		                          © Andreas Schönauer, Joachim Herold
+
+GK Wahrscheinlichkeitstheorie - Ereignisalgebra	4
+
+GK Wahrscheinlichkeitstheorie – Berechnung von Wahrscheinlichkeiten	7
+
+GK Wahrscheinlichkeitstheorie – Stochastische Unabhängigkeit	9
+
+GK Wahrscheinlichkeitstheorie – Bernoulli-Ketten	12
+
+GK Wahrscheinlichkeitstheorie – Binomialverteilung	13
+
+GK Wahrscheinlichkeitstheorie – Testen von Hypothesen	20
+
+GK Wahrscheinlichkeitstheorie – Aufgaben zu Kapitel 1 bis 3	22
+
+GK Wahrscheinlichkeitstheorie – Aufgaben zu Kapitel 4	26
+
+GK Wahrscheinlichkeitstheorie – Aufgaben zu Kapitel 5	29
+
+GK Wahrscheinlichkeitstheorie – Aufgaben zu Kapitel 6	31
+
+GK Wahrscheinlichkeitstheorie – Aufgaben zu Kapitel 7	33
+
+GK Wahrscheinlichkeitstheorie – Aufgaben zu Kapitel 8	35
+

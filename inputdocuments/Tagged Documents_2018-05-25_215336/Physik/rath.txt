@@ -1,0 +1,487 @@
+Was ist Physik?
+Versuch einer didaktischen Antwort auf eine
+grundlegende Frage des Physikunterrichts
+Gerhard Rath
+1. Wie Schulbücher Physik definieren
+"Die Physik ist die Wissenschaft von den Eigenschaften und
+Zustandsformen, dem inneren Aufbau ("Struktur") und den Bewegungen der unbelebten Materie, den diese Bewegungen
+hervorrufenden Kräften oder Wechselwirkungen und den dabei wirkenden Gesetzmäßigkeiten."
+Diese Definition stammt aus einem österreichischen Schulbuch für den Physikunterricht. Sie steht auf einer der ersten
+Seiten dieses Buches, von dem Sie wahrscheinlich kaum die
+zugeordnete Schulstufe erraten werden: Es ist für Physik-Anfänger gedacht, für die 2. Klasse AHS bzw. HS. [1, S.6]
+Dazu gleich eine lehrbuchhafte Aufgabe: Markieren Sie im Zitat alle Begriffe, die einem aufgeweckten Zwölfjährigen unbekannt sein dürften bzw. in der Alltagssprache anders verwendet werden als sie in der Fachsprache des Zitats gemeint sind!
+Es bleiben wohl nur Füllworte übrig. Die Definition ist absolut
+nichtssagend, wohl nicht nur für Schüler dieser Altersstufe.
+Sehen wir weiter: Für beginnende Oberstufenschüler wird
+Physik etwa so erklärt:
+"Die Physik erforscht Naturgesetze und beschreibt damit Naturerscheinungen. Sie beschäftigt sich mit dem, was man über
+die Natur aussagen kann." [2, S.8]
+Das klingt um einiges einfacher, sagt aber bei näherer Betrachtung auch nicht viel über die Physik aus. Naturgesetze sind ein
+wesentliches Ergebnis physikalischer Forschung - Physik erforscht ihre Resultate? Welche Natur ist überhaupt gemeint die unberührte, oder einfach unsere Umwelt? Diese ist jedoch
+wiederum wesentlich von Physik und Technik geprägt und gestaltet - ein Zirkelschluß.
+Vorsichtiger geht man im preisgekrönten Lehrwerk Physik
+compact ans Werk:
+"Aufgabe: Überlege, wie du "Physik" definieren (einem Jüngeren erklären) würdest! Sicher ist ein Ziel der physikalischen
+Forschung das Zurückführen aller Naturerscheinungen auf
+möglichst wenige Grundgesetze (Grundbausteine, Grundkräfte)." [3, S. 5]
+Wieder wäre anzumerken, daß die erklärenden Begriffe durch
+die Physik selbst gestaltet wurden (Naturerscheinungen,
+Grundgesetze,...), wir also abermals eine Zirkeldefinition vor
+uns sehen. Der vife Schüler findet eine Auflösung der Aufgabe
+weiter hinten im Buch:
+"Die Antwort auf diese Frage bereitet selbst Physikern
+Schwierigkeiten. Schlage in möglichst vielen Lexikas nach.
+Ein Vorschlag: Physik ist eine Lehre von der Natur." [3, S.76]
+
+Der Vorschlag ist vorsichtig und kurz, dafür inhaltsleer und
+statisch.
+Anzumerken wäre, daß die Auswahl der Lehrbücher beliebig
+erfolgte, es sieht bei anderen dieser Art nicht wesentlich anders aus. Es muß auch gesagt werden, daß neben diesen Zitaten viele Bemühungen zu finden sind, sich an den Begriff Physik von verschiedenen Seiten anzunähern (Teilgebiete, Forschungsmethoden,...). Nichtsdestoweniger müssen solche
+Sätze den Eindruck erwecken, die Autoren hätten sich kaum
+mit der Frage auseinandergesetzt oder sich nicht bemüht, diese
+altersgemäß zu beantworten.
+2. Wie ein Physiker Physik definiert
+Nicht nur Schüler werden mit obigen Definitionen unzufrieden sein. Versuchen wir also eine Erklärung zu finden, die für
+physikalisch Gebildete, Lehrer oder auch Physiker selbst tragfähig ist.
+Die Frage "Was ist Physik" ist natürlich keine physikalische,
+sondern muß der Wissenschaftstheorie zugezählt werden.
+Diese reflektiert über Wissenschaft und liegt damit erkenntnistheoretisch gesehen gar nicht so weit vom Lehren der Physik
+entfernt, da dieses ja auch über Physik erfolgt und nicht selbst
+Physik sein kann.
+Tatsächlich ist der Begriff nicht so ohne weiteres zu definieren, wie von Herbert Pietschmann in seinem Buch Phänomenologie der Naturwissenschaft ausführlich darstellt wird [4, S.
+3 ff]. Eine Definition nach den strengen Regeln der Logik
+bringt wenig Erkenntnisgewinn: Physik ist eine Naturwissenschaft, die ... - der Oberbegriff muß selbst erst erklärt werden,
+wobei haarscharf die gleichen Probleme auftreten wie bei der
+Erklärung von "Physik", weiters müßte diese von anderen Naturwissenschaften eindeutig getrennt werden, was gerade in
+der aktuellen Forschung nicht möglich ist.
+In der Geschichte gab es verschiedene Definitionsversuche,
+die jeweils besondere Aspekte des Begriffs hervorhoben, zum
+Beispiel:
+Physik ist ...
+• Ein System von Erkenntnissen, Gesetzen, Theorien - das,
+was in den Physikbüchern steht
+• Eine besondere Methode des Erkenntnisgewinns, das
+Wechselspiel Theorie-Experiment, mathematische Naturbeschreibung
+• Eine Art Wahrheit, quasi-religiös, ein modernes Weltbild
+(C.F. v. Weizsäcker, [4], S. 6)
+• Ein gesellschaftlich-wirtschaflicher Faktor, Forschung,
+Expertentum, Macht
+
+Dr. Gerhard Rath, BRG Keplerstraße Graz und Abteilung für Physikdidaktik
+am Institut für Experimentalphysik der Universität Graz
+
+2
+
+PLUS LUCIS
+
+3/97
+
+Fachdidaktik
+
+• Ein dynamisches Ringen um Naturverständnis, wachsend,
+sich entwickelnd, mit "Paradigmenwechseln" (Th. Kuhn,
+[4], S. 5)
+• (nur) eine Art über die Welt zu denken, von vorneherein
+nicht besser oder schlechter als viele andere (z.B. Astrologie, Mystik ...), in einigen Bereichen erfolgreich, für andere
+ungeeignet (P. Feyerabend, [4], S. 5).
+Pietschmann liefert nach einer Diskussion dieser Aspekte
+selbst einen Satz: "Physik ist das, was die Physiker machen."
+[4, S. 6].
+Logisch gesehen eine Zirkeldefinition, kann sie dialektisch
+verstanden werden, wie sie auch vom Autor gemeint und erklärt wird. Wie in einem Brennglas sammelt sie methodische,
+ergenbishafte, historische und gesellschaftliche Aspekte.
+Der Physiker (die Physikerin) läßt sich eher bestimmen als die
+Wissenschaft: "Dies geschieht ... aus dem sozialen Kontext,
+durch die Zugehörigkeit zur "Gemeinschaft der Physiker". ...
+Allgemein wird wahrscheinlich anerkannt werden, daß zur
+Gemeinschaft der Physiker gehört, wer regelmäßig die einschlägigen physikalischen Kongresse besucht und/oder in
+physikalischen Fachzeitschriften publiziert." [4, S. 7]
+Für mich ist dies die überzeugendste Definition von Physik,
+vielleicht weil sie im Gegensatz zu vielen anderen Versuchen
+von einem in der aktuellen Forschung stehenden Wissenschaftler stammt, der sich auch intensiv mit Philosophie auseinandergesetzt hat. Danach gilt aber: Physiklehrer sind keine
+Physiker.
+3. Wie Lehrer Physik definieren könnten
+Aber sie haben Schülern zu erklären, was Physik ist. Klarerweise wird ein entscheidender Teil der Frage operational, also
+handelnd, beantwortet oder sollte es zumindest: Durch Beschäftigung mit Physik erfahren die Schüler schon, worum es
+dabei geht, auch wenn kein wichtiger Satz darüber formuliert
+wird. Soll dieses Verständnis aber nicht einseitig werden, müssen mehrere oder alle der oben genannten Aspekte gemacht
+werden, gemeint ist vom Schüler gemacht und nicht nur gehört. Solche Erfahrungen sind in der Schule nur in eingeschränktem Maße möglich - es lassen sich Elemente der Forschung nachvollziehen, aber: Auch Schüler sind keine Physiker!
+Daher erscheint es mir sinnvoll und notwendig, die Frage im
+Unterricht auch explizit anzusprechen. Weniger im Anfangsunterricht, in der allerersten Stunde, dafür genügt ein Alltagsverständnis des Wortes. Sicher aber bereits in der Unterstufe
+bzw. Hauptschule. Ich möchte eine Erklärung für diese Altersgruppe versuchen, sie ist die größere didaktische Herausforderung, da man sich in der Oberstufe leichter auf den gewohnten
+begrifflichen Apparat zurückziehen kann.
+Der Vorschlag sieht vorerst keine Definition in einem Satz vor,
+sondern knüpft an die angeführten Aspekte an und versucht
+damit, den Begriff auf schülergerechte Weise einzukreisen. Er
+schlüsselt die Frage Was ist Physik? in mehrere "W"-Fragen
+auf:
+Womit beschäftigt sich Physik?
+Beispiele aus verschiedenen Teilgebieten, typische Objekte
+bzw. Modelle (vom Atom bis zur Galaxie), später eine AufFachdidaktik
+
+zählung der Teilgebiete selbst. Dieser Punkt wird in den meisten Schulbüchern auch angesprochen.
+Wie arbeitet Physik?
+Zum Verständnis des Wechselspiels Theorie-Experiment nach
+ganz speziellen Regeln ist die persönliche Erfahrung der Schüler am wichtigsten. Methoden-Schemata machen - wenn überhaupt - erst in den höchsten Klassen Sinn. Jüngere Schüler
+dürften aber den Vergleich mit der Methode von Detektiven
+verstehen - Suche nach Hinweisen, Sammeln, Ordnen, Nachdenken, Bilden von Theorien, Überprüfen, Stellen neuer Fragen usw. Ein Beispiel dazu liefert ein Unterrichtsvorschlag
+zum Teilchenmodell, in dem über ein konkretes Detektivspiel
+die methodische Vorgangsweise angesprochen wird [5].
+Wer betreibt Physik?
+Jetzt kommen die Physiker ins Spiel. Zuerst die "Großen", Bekannten, historische Forscherpersönlichkeiten. Physik ist etwas von Menschen Gemachtes. Später läßt sich die Bestimmung im Sinne Pietschmanns erweitern: Forschungsarbeit,
+Veröffentlichungen und Kongresse (also Meinungsaustausch
+innerhalb einer Gemeinschaft) gehören dazu.
+Wo wird Physik betrieben?
+Ein wichtiger, oft vernachlässigter Punkt, denn er führt endgültig in die Gegenwart und aus dem Klassenzimmer heraus.
+Universitäten, Institute, Firmen, Labors, Computernetze, ... ,
+heute meist hochspezialisierte, hochtechnisierte Einrichtungen. So sieht eben die aktuelle Physik aus!
+Die Beschäftigung mit dieser Frage schützt vielleicht ein wenig vor Äußerungen der Art "Alles ist Physik ...". Bei einseitiger Behandlung des Aspekts physikalischer Inhalte, Ergebnisse und Anwendungen ("Womit ... ?") erfolgt gerade bei jüngeren Schülern leicht eine Antwort wie diese - es gibt ja nichts
+in ihrer Umwelt, wo Physik nicht in irgendeiner Form eine
+Rolle spielt - das Öffnen einer Flasche, Schwimmen, Fernsehen, ... - aber das alles ist eben noch lange keine Physik.
+Wozu Physik?
+Auf diese Frage gibt es viele mögliche Antworten:
+• Physik macht Spaß, kann spannend und interessant sein.
+• Sie befriedigt Wissensdurst, wir lernen über unsere Welt,
+unsere Stellung in dieser Welt und über eine unserer Möglichkeiten, diese Welt zu erfahren und zu verstehen.
+• Sie bringt "sichere" Erkenntnis [4, S. 233 ff], vorhersagbare
+Ergebnisse. Jeder, der in einem Flugzeug fliegt, weiß dies
+zu schätzen.
+• Ihre Ergebnisse erleichtern unser Leben. Sie können helfen,
+Probleme zu lösen (die allerdings zum Teil durch die Naturwissenschaften erst geschaffen wurden)
+• Sie ist ein gewaltiger Wirtschaftsfaktor, viele Menschen
+leben davon.
+• Sie ist ein wesentlicher Teil unserer Kultur und Zivilisation.
+Jede dieser fünf Fragen läßt sich auf verschiedenen Stufen mit
+verschiedener Genauigkeit und Ausführlichkeit behandeln.
+Ohne Schwierigkeiten kann das Ganze auch in eine Definition
+in Form eines Satzes münden.
+Die letzte Frage "Wozu Physik?" bezieht sich hier zwar auf die
+Physik der Physiker, hängt aber gerade für Schüler eng mit der
+Frage "Wozu Physikunterricht?" zusammen, wie auch ihre
+Diskussion ganz zu Beginn des Oberstufenlehrbuchs von J.
+Schreiner zeigt [6]. Einsichten in die Wichtigkeit und SinnhafPLUS LUCIS
+
+3/97
+
+3
+
+tigkeit der Wissenschaft können auf ein entsprechendes Verständnis des zugehörigen Schulfaches ausstrahlen.
+Wenn wir über Physik lernen, verstehen wir besser, was Physiker machen. Wir können mitdenken, sollen mitreden und
+mitentscheiden. Dazu hilft uns zu wissen, was Physik ist.
+[1] Becker u.a.: Physik heute 2 (2. Kl. HS und AHS), Salzburger Jugend Verlag
+[2] Mathuber u.a.: Physik aktuell 1 (5./6.Kl.), Naturwissenschaftliche Verlagsgesellschaft Salzburg
+
+[3] Jaros u.a.: Physik compact, Basiswissen 1, Hölder Pichler
+Tempsky
+[4] H. Pietschmann: Phänomenologie der Naturwissenschaft.
+Springer 1996
+[5] R. Driver, P. Scott: Schülerinnen und Schüler auf dem
+Weg zum Teilchenmodell. In: Naturwissenschaften im
+Unterricht - Physik 5 (1994) S. 24 ff
+[6] Schreiner: Physik 1, Hölder Pichler Tempsky
+
+Transparenz in Lerninhalt und Notengebung
+Helmut Lambauer
+Einleitung
+
+Semesterstruktur und Unterrichtsformen
+
+Wie kann ich meinen SchülerInnen die wichtigsten Ideen der
+Physik nahebringen? Wie kann ich dabei ihre Eigeninitiative
+fördern, Interessen wecken, sie auf die Matura und die Zeit danach (Studium, Berufswelt) vorbereiten? Wie kann ich ihr
+Wissen und ihre Bemühungen mit einer Note so bewerten, daß
+sie den Leistungen entspricht und auch verstanden wird?
+
+Jedes Semester wird in drei inhaltliche Blöcke unterteilt. Jeder
+Block beinhaltet ein bis zwei in sich möglichst geschlossene
+Kapitel der Physik.
+
+Die Beantwortung dieser Fragen und die Umsetzung im Unterricht ist wohl subjektiv verschieden und zum Teil an Lehrerpersönlichkeit und Klassengegebenheiten gebunden. Im folgenden möchte ich ein Unterrichtskonzept vorstellen, das aus
+meinen Überlegungen zu den oben genannten Fragen entstanden ist. Es ist mir klar, daß manche Kolleginnen und Kollegen
+ähnliche Konzepte entwickelt haben. Bekannt ist mir das auch
+an dieser Stelle veröffentlichte Konzept meines Fachdidaktiklehrers Prof. Mag. Hansjörg Kunze, das meinem in mancher
+Weise Vorbild gewesen ist. Vielleicht ist in den folgenden
+Ausführungen dennoch die eine oder andere Anregung für Sie
+enthalten, über Rückmeldungen zum Thema würde ich mich
+freuen.
+Kern- und Spezialstoff
+Die zu erwartende Lehrplanreform sieht vor, Stoffgebiete gemäß der Matura in Kern- und Spezialgebiete zu unterteilen.
+Für mich heißt das, eine Auswahl zu treffen. Ich muß auf Basis
+des Lehrplans entscheiden zwischen Themenbereichen, die
+zentrale Bedeutung für das Verständnis der Natur haben, und
+solchen, die dem weiteren Verständnis dienen. Diese Entscheidung ist natürlich subjektiv, trotzdem muß sie getroffen werden.
+Ich erwarte von allen meinen SchülerInnen, daß sie über die
+Kernbereiche der Physik Bescheid wissen. Spezialgebiete
+werden nach Interessen und Lehrplan ausgewählt und bearbeitet. Nicht alle SchülerInnen müssen über alle Themen der Spezialgebiete Bescheid wissen.
+
+DI Mag. Helmut Lambauer, Grazer International Bilingual School,
+Marschallgasse 19-21, 8020 Graz
+
+4
+
+PLUS LUCIS
+
+3/97
+
+Pro Kapitel kommen in meinem Unterricht hauptsächlich zwei
+Unterrichtsformen vor: Frontalvortrag mit Demonstrationsexperiment und Individual- oder Gruppenstudium mit Schülerexperiment. Darüber hinaus gibt es noch die Struktur des Seminars, darüber später mehr.
+Jeder Themenbereich beginnt mit Frontalvortrag und Demonstrationsexperimenten. Diese Phase ist sehr strukturiert, klar
+und möglichst kurz. Die Informationen zum Themenbereich
+werden in dichter Form an die SchülerInnen weitergegeben.
+Bei allen Unterkapiteln ist schon in der Überschrift klar, ob sie
+Kern- oder Spezialstoff beinhalten. In dieser Phase sollen die
+SchülerInnen interessiert zuhören, sich genaue Notizen machen und Verständnisfragen stellen.
+Nach Ende des Informationsblocks gibt es einen sogenannten
+Workshop zum Thema. Ein Workshop dauert bis zu zwei
+Schulwochen, und kann Rechenbeispiele, Schülerexperimente, Naturbeobachtungen, Aufsätze, Forschungsaufträge,
+etc. beinhalten. Er hat einen verpflichteten Teil und einen Erweiterungsteil. So muß jede SchülerIn zum Beispiel 3 von 7
+vorgeschlagenen Rechnungen lösen, ein Experiment durchführen usw. Der Erweiterungsteil beinhaltet den Rest der für
+den verpflichtenden Teil vorgeschlagenen Aufgaben, bietet
+aber auch Möglichkeiten für individuelle Interessen (freie Arbeitsaufträge). Diese Formen, Vortrag und Workshop, dienen
+dem Wissenserwerb für das konkrete Wissensgebiet.
+Seminar
+Das Seminar ist eine Arbeitsform, die noch spezieller auf individuelle Interessen eingehen soll. Zusätzlich soll sie auf die
+Matura und das Universitätsstudium (gleich welchen Faches)
+vorbereiten und die Fähigkeit fördern, vor einer Gruppe zu
+sprechen. Ein Seminar ist eine Reihe von bis zu sieben Vorträgen, die von SchülerInnen gehalten werden. Die Vorträge sind
+alle zu einem bestimmten Thema (z.B. Physik und Sport, PhyFachdidaktik
+
+sik in der Renaissance) oder bearbeiten ein Buch (z.B.: Stephen Hawkins: Eine kurze Geschichte der Zeit). Die SchülerInnen bekommen Unterlagen zu den gewählten Themen und
+müssen ein 10-15 minütiges Referat sowie eine Zusammenfassung von einer Seite vorbereiten. Die Referate werden in einem getrennten Raum nur vor den anderen Seminarteilnehmerinnen (sowie mir) gehalten. Die Zusammenfassungen werden
+an die Seminarteilnehmer verteilt. Seminare werden während
+der Workshops abgehalten. Damit soll sichergestellt werden,
+daß die nicht am Seminar teilnehmenden SchülerInnen über
+die Dauer des Seminars einer sinnvollen und fachbezogenen
+Arbeit nachgehen.
+
+Punkte in einem Semester
+pro Themenblock
+(3 Blöcke)
+
+Maximum in
+einem Semester
+
+Tests
+
+4
+
+12
+
+Workshop
+
+4
+
+12
+
+Mitarbeit
+
+2
+
+6
+
+Wiederholungen
+
+2 (4)
+
+Heft
+
+3
+
+Sonderleistung
+
+(2)
+
+TOTAL
+
+35 (39)
+
+Pro Jahr werden vier Seminare abgehalten, so daß jede SchülerIn die Möglichkeit hat einmal teilzunehmen.
+Noten für das erste Semester
+Leistungsbeurteilung
+Das zentrale Prinzip der Leistungsbeurteilung ist die Transparenz. Es soll ganz klar sein, was verlangt wird und wie sich das
+Erbringen einer Leistung auf die Note auswirkt. Der Leistungsbeurteilung liegt ein Punktesystem zugrunde. Ich werde
+im Folgenden kurz erläutern, wofür man Punkte bekommen
+kann und dann die Tabelle mit der Anzahl der Punkte und der
+dazugehörigen Noten präsentieren, wobei es mir wichtig ist,
+die Transparenz und die Kontinuität der Punktvergabe herauszustreichen.
+Jedes Semesterdrittel schließt mit einem Test ab, welcher ausschließlich die Kerngebiete der Themen beinhaltet. Die SchülerInnen haben die Garantie, daß im Test nichts verlangt wird,
+was nicht ausdrücklich als Kernstoff unterrichtet wurde. Die
+Tests sind Multiple-Choice. Durch die bei dieser Testform vorgegebenen Antworten wird die klare Trennung der Stoffgebiete in Kern- und Spezialstoff unterstützt.
+Während der Informationsphase jedes Themenblocks gibt es
+für SchülerInnen die Möglichkeit, sich am Stundenanfang freiwillig für eine Wiederholung zu melden. Eine Wiederholung
+pro Semester ist im Punktesystem einkalkuliert, maximal zwei
+pro SchülerIn werden gewertet. Wiederholungen gehen über
+den Inhalt der letzten beiden Stunden, können also auch Spezialstoff beinhalten.
+Workshops bringen Punkte, die Hälfte für den verpflichtenden
+Teil, die Hälfte für den Erweiterungsteil. Fristversäumnis bei
+der Abgabe bewirkt Abzüge.
+Die Hefte werden einmal am Ende des Semesters auf Vollständigkeit überprüft, ein gut geführtes Heft bringt Punkte. Damit
+soll gewährleistet werden, daß die SchülerInnen auch in folgenden Jahren und bei der Matura auf die gegebenen Informationen zugreifen können.
+Die Mitarbeit während der Informationsphase eines Themenblocks wird mit Punkten honoriert. Grobe Unkonzentriertheit
+führt zu Punkteabzug.
+Die Teilnahme an einem Seminar bringt Punkte.
+Für Sonderleistungen sind immer Zusatzpunkte möglich.
+Prüfungen (§5) sind möglich, erfassen aber in jedem Fall nur
+den Kernstoff und können auch nur eine Veränderung der
+Punkte aus den Tests bewirken.
+
+5
+
+PLUS LUCIS
+
+3/97
+
+Sehr gut
+
+32 oder mehr
+
+Gut
+
+27 - 31
+
+Befriedigend
+
+22 - 26
+
+Genügend
+
+18 - 21
+
+Nicht genügend
+
+0 - 17
+
+Die Punkte für das erste Semester werden mit 0,8 multipliziert
+und zu den Punkten des zweiten Semesters addiert (lehrplankonforme höhere Gewichtung der zuletzt erbrachten Leistungen). Die Teilnahme an einem Seminar ist 10 Punkte wert und
+zählt im zweiten Semester. Das ergibt bei Teilnahme an einem
+Seminar ein reguläres Maximum von 35*0,8 + 35 + 10 = 73
+Punkten.
+Jahresnoten
+Sehr gut
+
+67 oder mehr
+
+Gut
+
+57 - 66
+
+Befriedigend
+
+47 - 56
+
+Genügend
+
+37 - 46
+
+Nicht genügend
+
+0 - 36
+
+Jede SchülerIn weiß im Prinzip zu jeder Zeit, wie viele Punkte
+sie schon erreicht hat oder noch erreichen kann. Das schafft
+viel Klarheit (auch bei den Eltern).
+Erfahrungen
+Positiv im Unterricht empfinden die SchülerInnen laut Feedback die klare Trennung in Kern- und Spezialgebiete, also die
+klare Eingrenzung des überprüften Wissens. Die MultipleChoice-Tests wurden am Anfang unterschätzt. Doch wenn pro
+Frage oft mehrere Antworten stimmen können, sind sie nicht
+so leicht, wie sie aussehen, und sie überprüfen den Wissenserwerb bei sorgfältiger Zusammenstellung genauso gut wie andere Tests. Auch gibt es einige Universitätsstudien, die sich
+zum Teil dieser Testform bedienen, und es ist für SchülerInnen
+sicher ein Vorteil, wenn sie im Bedarfsfall bereits mit dieser
+Testform vertraut sind.
+Die Option, sich für Wiederholungen zu melden (Eigenverantwortung für die Note) wird wenig und fast ausschließlich von
+fleißigen SchülerInnen genutzt.
+Fachdidaktik
+
+Die Struktur des Workshop wird gerne angenommen, Diskussionen über den Umfang des verpflichtenden Teiles sind nichts
+Ungewöhnliches. Die Leistungen im Workshop reichen von
+intensiver Beschäftigung mit Teilproblemen mit teilweise erstaunlich guten Ergebnissen bis zum eigentlich nicht vorgesehenen Abschreiben von Rechenbeispielen oder Beobachtungen. Diese beiden Erscheinungen sind nicht untypisch für freie
+Arbeitsformen, sie sind wohl zwei Seiten einer Medaille.
+Doch nehme ich die Nachteile (ungern) in Kauf, da ich überzeugt bin, daß mit dieser Arbeitsform der selbstverantwortliche, individuelle Wissenserwerb gefördert wird, und dieser ist
+schließlich eine Schlüsselqualifikation im Berufsleben.
+Die Seminare werden gerne angenommen, wohl auch da sie
+im Punktesystem hoch bewertet werden. Die Referate zu den
+einzelnen Themen variieren in der Qualität, doch sind hier oft
+ausgesprochen reife Leistungen zu erleben. Sehr positiv sehen
+die SchülerInnen die Tatsache, daß sie nur vor der Seminargruppe sprechen müssen, also vor Leuten, die alle selbst einmal sprechen und am Gesamtthema interessiert sind. Diese
+Tatsache und die Gruppengröße (ca. 7 Personen) wirken sich
+gut auf das Zuhörerverhalten aus. Das Sprechen vor einer
+Gruppe über ein physikalisches Thema, noch dazu auf Englisch (Englisch ist die Unterrichtssprache an der GIBS), ist
+wohl zweifelsfrei eine anspruchsvolle Aufgabe, und es ist sicher eine lohnende Erfahrung sowie eine gute Vorbereitung
+auf Matura, Studium und Beruf.
+Die von mir für den Anfang jedes Themenblocks gewählte
+Form des Unterrichts durch Vortrag und Tafelanschrieb ist sicher nicht optimal und zeitgemäß. Hier eröffnen moderne
+
+Technologien effizientere Alternativen. So ist es denkbar, die
+Sachinformation über den Kernstoff auf das Schulcomputernetz zu legen oder als Skript zu verteilen. Dann wäre sie verfügbar, und es müßte nicht mitgeschrieben werden. Die dadurch freiwerdenden Zeiträume könnten auf vielfache Weise
+genutzt werden. Ich bin da noch am Experimentieren.
+Das Punktesystem in der Leistungsbeurteilung wird überwiegend positiv aufgenommen. Die große Transparenz hebt Diskussionen über die Note auf eine sachliche Ebene und erleichtert allen Schulpartnern eine Entpersonalisierung eines potentiellen Konfliktes. Nicht verhehlen möchte ich aber ein Problem des Systems. Die Errechnung der Note aufgrund einer
+Formel ist deterministisch und verringert den Spielraum für
+alle Beteiligten. Nicht zuletzt kann man immer über die Gewichtung der Teilbereiche streiten. In Summe aber bewährt
+sich das System.
+
+Abschließende Bemerkungen
+Die Anregung, mein Unterrichtskonzept einem breiteren Kollegenkreis bekanntzumachen und einer Diskussion zu öffnen,
+stammt von meinem Lehrer, Univ.-Prof. Leopold Mathelitsch
+von der Universität Graz, dem ich an dieser Stelle für seine
+Unterstützung danken möchte.
+Ich hoffe, daß die eine Kollegin oder der andere Kollege die
+Ideen in diesem Artikel ansprechend findet und eventuell auch
+kommentiert.
+
+Seminar
+Fragen zur Realität und Wirklichkeit in Physik und Philosophie
+Beginn:
+Ende:
+
+Freitag, 6. März 1998,
+Sonntag, 8. März 1998,
+
+9.00 Uhr
+17.30 Uhr
+
+Veranstaltungsort:
+Kuffner Sternwarte
+1160 Wien, Johann Staudstraße 10
+Anmeldeschluß: 24. Februar 1998
+Veranstalter: PI des Bundes in Wien, Abt. für Lehrer/innen
+an Berufsbildenden Schulen, Grenzackerstraße 18, 1100
+Wien, Tel.: (01) 60118/4242, Fax: (01)60118/4246
+Zeilgruppe: Lehrer/innen, die den Wunsch haben, über
+menschliche Erkenntnisse aus der Sicht heutiger Physiker
+und Philosophen zu arbeiten und zu unterrichten.
+Auch für AHS-Lehrer/innen
+Ziel:
+Reflexion über den Stellenwert von Physik und
+Philosophie für die Orientierung des Menschen
+Inhalt:
+Physikalische Grundlagen (Charakter "Physikalischer Gesetze", Physik nach 1900,...),
+Philosophische Grundlagen (Denken, Erkennen, Wirklichkeit, Realität, ...).
+Paradoxien der Quantentheorie, Angewandte Quanten6
+
+PLUS LUCIS
+
+3/97
+
+theorie (neueste Entwicklungen) "Erfordert die Quantentheorie eine neue Erkenntnistheorie?"
+Methoden:
+Vorträge und Impulse durch Team und Teilnehmer/innen, Arbeit in Gruppen aus Teilnehmer/innen und
+Referenten, Videofilme, WWW als Informationsquelle,
+Literaturstand
+Leitung:Prof. OStR DI Dr. Christian Gottfried
+HTBLA Wien 1
+Lehrbeauftragte:
+Prof. OStR DI Dr. Christian Gottfried
+HTBLA Wien 1
+Univ.-Prof. Dr. Elemer Nagy,
+CPPM Marseille und CERN
+Univ.-Prof. Dr. Erhard Oeser,
+Institut für Wissenschaftstheorie und Wf., Uni Wien
+Univ.-Prof. Dr. Herbert Pietschmann,
+Institut für theoretische Physik, Universität Wien
+Univ.-Prof. Dr. Anton Zeilinger,
+Institut für Experimentalphysik, Universität Innsbruck
+N. N.,
+Institut für Philosophie, Universität Wien
+Fachdidaktik
+
+

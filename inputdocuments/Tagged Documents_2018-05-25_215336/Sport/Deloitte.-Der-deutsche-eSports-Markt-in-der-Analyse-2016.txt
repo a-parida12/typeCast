@@ -1,0 +1,958 @@
+DELOITTE eSports L-6 21.11 21.11.16 17:18 Seite 1
+
+Let’s Play!
+Der deutsche eSports-Markt in der Analyse
+November 2016
+
+DELOITTE eSports L-6 21.11 21.11.16 17:18 Seite 2
+
+Der deutsche eSports-Markt in der Analyse
+
+Inhaltsverzeichnis
+
+1. Hintergrund: Von der Community in den Mainstream?
+
+03
+
+2. Ein bunter eSports-Stakeholder-Mix
+
+04
+
+2.1. Ligen als solides Fundament
+
+05
+
+2.2. Profiszene lockt die Massen
+
+05
+
+2.3. Streaming schaﬀt Reichweite
+
+06
+
+2.4. Games-Publisher binden Fans und Spieler
+
+06
+
+2.5. Investoren erwarten den Boom
+
+06
+
+Exkurs: Interview mit Tim Reichert (FC Schalke 04)
+
+07
+
+3. Evolution der Erlösstrukturen
+
+09
+
+4. Neue Zielgruppen durch TV-Präsenz
+
+10
+
+Exkurs: Case Study Sport1
+
+10
+
+5. Virtual Reality eröﬀnet neue Perspektiven
+
+11
+
+6. Marktaussichten: Wachstums-Champion eSports
+
+12
+
+Exkurs: Interview mit Alexander Müller (SK Gaming)
+7. Ausblick: Nachhaltiges Wachstumspotenzial?!
+Exkurs: Basis unserer Analysen
+
+14
+15
+15
+
+02
+
+DELOITTE eSports L-6 21.11 21.11.16 17:18 Seite 3
+
+Der deutsche eSports-Markt in der Analyse
+
+1. Hintergrund: Von der Community
+in den Mainstream?
+eSports rollt derzeit im Expresstempo in den Mainstream. Noch vor Monaten als Nische für wenige
+Hardcore-Gamer unterschätzt, wird eSports auch in
+Deutschland immer stärker von der Öﬀentlichkeit
+wahrgenommen. Die Zahl der Zuschauer steigt
+rasant, große Events finden mittlerweile in Stadien
+statt, Preisgelder erreichen beachtliche Summen
+und prominente Investoren entdecken eSports für
+sich. Auch für Medienunternehmen wird eSports
+zunehmend interessant: Sky und Sport1 widmen
+dem Thema eigene Sendungen samt Live-Übertragungen und schaﬀen damit ein zusätzliches, großes
+Publikum. Die steigende Dynamik wird sich in den
+kommenden Jahren umsatzseitig widerspiegeln:
+Bis zum Jahr 2020 werden die eSports-Umsätze in
+Deutschland auf geschätzte 130 Mio. Euro steigen.
+
+Deutschland spielt im globalen eSports-Kontext
+eine beachtenswerte Rolle: Mit der Electronic
+Sports League (ESL) wird die älteste und führende
+eSports-Liga von der Firma Turtle Entertainment
+aus Köln betrieben. Auch die Messe gamescom bildet jedes Jahr im August ein riesiges und weltweit
+relevantes Forum für eSports. Zudem finden mit
+der ESL One Frankfurt (Dota 2) und der ESL One
+Cologne (Counter-Strike) zwei der weltweit zuschauerträchtigsten Turniere in Deutschland statt. Die
+beiden Events zogen zuletzt an jeweils zwei Tagen
+30.000 bzw. 22.000 Zuschauer in die Arenen.
+
+Weltweit und national haben sich Meisterschaften
+und Ligen auf Amateur- und Profiniveau für zahlreiche Games etabliert. Dabei sind die – an Zuschauerschnitt, Spielerzahlen und der Preisgeldhöhe
+gemessen – gefragtesten Computerspiel-Genres
+Echtzeit-Strategiespiele, Ego-Shooter und Sportsimulationen. Populäre Games im eSports sind
+League of Legends, Dota 2 sowie Counter-Strike:
+Global Oﬀensive.
+
+eSports bezeichnet das wettbewerbsmäßige
+Spielen von Computer- und Videospielen im Mehrspielermodus.
+Dieses erfordert sowohl motorische Fertigkeiten
+als auch taktisches Verständnis. eSports versteht
+sich als eigene Sportdisziplin, wird aber in
+Deutschland noch nicht oﬃziell als eigene Sportart
+anerkannt.
+
+03
+
+DELOITTE eSports L-6 21.11 21.11.16 17:18 Seite 4
+
+Der deutsche eSports-Markt in der Analyse
+
+2. Ein bunter eSports-Stakeholder-Mix
+Abb. 1 – eSports-Stakeholder und -Ökosystem
+
+Quelle: Deloitte
+
+Um eSports hat sich inzwischen ein Ökosystem mit
+zahlreichen Stakeholdern entwickelt. Vom jungen
+Profigamer bis hin zum klassischen TV-Sender
+prägen durchaus heterogene Akteure die eSportsLandschaft in jeweils unterschiedlicher Intensität.
+Abbildung 1 illustriert und kategorisiert die
+beteiligten Stakeholder.
+Die direkt oder indirekt engagierten Akteure außerhalb des Kernbereichs leisten dabei wichtige Beiträge für eine weitere Entwicklung von eSports:
+So vermarkten Technologieunternehmen leistungsstarke Rechner und Grafikkarten sowie spezielle
+Peripheriegeräte für eSports. Diese Technikanbieter
+wie NVIDIA oder ASUS nutzen eSports zudem als
+Werbeplattform und positionieren sich durch Sponsoring von Spielern, Teams und Events. Werbetreibende Unternehmen sprechen dabei gezielt die
+junge, technik-aﬃne und zumeist männliche Zielgruppe an.
+
+Telekommunikationsunternehmen bringen ihre
+leistungsfähigsten Netze mit kurzen Latenzzeiten
+zum Einsatz. Und schließlich bilden die Zuschauer
+und Hobby-Gamer die Basis für den Erfolg von
+eSports. Sie sind der Unterbau der Profi-Ligen und
+bringen als Endkonsumenten den entscheidenden
+Traﬃc auf Plattformen wie Azubu, Twitch, Hitbox
+und YouTube Gaming.
+Die entscheidenden Entwicklungsimpulse kommen
+jedoch aus dem Zentrum des Ökosystems. Denn
+aus der Vielzahl an Stakeholdern sind mit den
+eSports-Ligen, Profi-Gamern, Plattformbetreibern,
+Games-Publishern sowie Investoren fünf Gruppen
+als besonders relevant hervorzuheben.
+
+04
+
+DELOITTE eSports L-6 21.11 21.11.16 17:18 Seite 5
+
+Der deutsche eSports-Markt in der Analyse
+
+2.1. Ligen als solides Fundament
+An eSports-Ligen und Turnieren herrscht kein
+Mangel, zahlreiche Events konnten sich in den letzten Jahren in der Szene etablieren. Zu deren Finals
+treﬀen die qualifizierten Spieler und Teams – auch
+Clans genannt – mittlerweile auf großen Messen
+und sogar in Stadien aufeinander. Hervorzuheben
+ist hierbei die ESL als größte Liga ihrer Art mit weltweit über 6 Mio. aktiven Spielern und über 0,5 Mio.
+Teams/Clans. Sie wurde im Jahr 2000 vom deutschen Unternehmen Turtle Entertainment gegründet. Seither werden unter dem Schirm der ESL
+zahlreiche Turniere ausgespielt, wobei das ESL Intel
+Extreme Masters international die höchste Spielklasse der ESL darstellt. In Deutschland gilt die ESL
+Meisterschaft als eSports-Bundesliga und damit
+national als wichtigster Wettbewerb.
+
+Wie ist die ESL Meisterschaft strukturiert?
+In den drei Games Counter Strike: Global Oﬀensive, League of Legends und FIFA 17 treten die
+stärksten nationalen Spieler gegeneinander an,
+wobei der Modus der Games identisch ist. Alle
+aktiven Teilnehmer der ESL Meisterschaft müssen mindestens 16 Jahre alt sein und zur Identifikation einen Spielerpass, den sogenannten
+ESL Trusted 3 oder Pro besitzen. Dieser ist über
+die ESL zu erwerben. Zudem müssen Einzelspieler (FIFA 17) bzw. drei der fünf Team-Spieler
+(Counter Strike: Global Oﬀensive, League of
+Legends) ihren Wohnsitz in Deutschland, Österreich oder der Schweiz haben. Die große Mehrheit der Gamer kommt allerdings aus Deutschland.
+Zu Beginn jeder ESL Meisterschaft können sich
+Teams bzw. Einzelspieler über eine oﬀene Qualifikation qualifizieren und gegen die besten acht
+Teilnehmer der vergangenen Saison antreten.
+Dies findet in sogenannten Cups statt, welche
+jeweils als Frühjahrs-, Sommer- und Wintermeisterschaft ausgetragen werden. Die erfolgreichsten Teilnehmer der Cups qualifizieren sich
+nicht nur für die Gruppenphase der ESL Meisterschaft, sondern sichern sich zudem einen Startplatz in den Cups der nachfolgenden Saison.
+Im Anschluss an die Cups erfolgt die Gruppenphase. In zwei Gruppen kann man sich hier für
+das Finale qualifizieren.
+
+Daneben werden preisgeldträchtige Ligen und Turniere von den Games-Entwicklern selbst veranstaltet. So organisiert und finanziert der Entwickler Riot
+Games mit der League of Legends Championship
+Series (LCS) eine weitere europäische und nordamerikanische eSports-Profiliga. Dagegen setzt
+Valve Corporation, der Entwickler von Dota 2, mit
+seinem jährlich stattfindenden Turnier The International in Sachen Preisgeld weltweit Maßstäbe: Im
+Jahr 2016 wurden über 20 Mio. US-Dollar an die
+teilnehmenden Teams ausgeschüttet, wovon alleine
+das Siegerteam über 9 Mio. US-Dollar erhielt. Zwei
+Jahre zuvor lagen die Preisgelder noch bei gut der
+Hälfte, was einmal mehr das Wachstum in dieser
+Branche unterstreicht.
+
+Wie ist die LCS strukturiert?
+Die LCS ist grundsätzlich in eine europäische
+und eine amerikanische LCS unterteilt. Dabei
+fungieren sogenannte Challenger Series als
+Qualifikationsturniere und ermöglichen den
+Teams, in die beiden LCS aufzusteigen. Auf nationaler Ebene können sich erfolgreiche Teams,
+zum Beispiel durch die deutsche ESL Meisterschaft, für die Challenger Series qualifizieren.
+In den LCS ermitteln jährlich jeweils zehn Teams
+je drei Teilnehmer der im Herbst stattfindenden
+League of Legends World Championship, zu der
+noch weitere Teilnehmer aus Asien und Lateinamerika hinzukommen.
+
+2.2. Profiszene lockt die Massen
+Aus den Millionen in Ligen und Turnieren aktiven
+Amateurspielern hat sich seit Ende der Neunzigerjahre eine Profiszene mit eigenen Stars etabliert.
+Konnten noch zu Beginn der Professionalisierung
+nur wenige Gamer ausschließlich von eSports
+leben, so erspielen heutzutage zahlreiche ProGamer jährlich Hunderttausende US-Dollar an
+Preisgeld und verfügen über lukrative Werbeverträge. In der Regel erhalten die Stars der Szene
+zudem monatliche Gehälter von ihren Clans oder
+Ligen. Der Hauptfaktor für die wachsende Zahl an
+professionellen eSportlern sind neben den gut
+organisierten Liga-Strukturen sicherlich die kontinuierlich steigenden Preisgelder. Allerdings befinden sich an der Spitze der weltweiten Preisgeldliste
+hauptsächlich Nordamerikaner und Chinesen.
+16 der Top-20-Gamer stammen aus China, den
+USA oder Kanada.
+
+05
+
+DELOITTE eSports L-6 21.11 21.11.16 17:18 Seite 6
+
+Der deutsche eSports-Markt in der Analyse
+
+Auch wenn deutsche Profis in den Top 20 fehlen,
+ist eSports auch hierzulande durchaus lukrativ: Der
+derzeit bestbezahlte deutsche Gamer Kuro Salehi
+Takhasomi kam Mitte 2016 auf kumulierte Preisgelder von über 1 Mio. US-Dollar und erreicht damit
+Position 23 der Preisgeldliste im eSports. Bis Position 424 in diesem Ranking haben alle Spieler bereits mindestens 100.000 US-Dollar in ihrer
+eSports-Karriere erspielt.
+2.3. Streaming schaﬀt Reichweite
+Verglichen mit den klassischen Sportligen wird
+eSports deutlich stärker über das Internet konsumiert. Dabei bilden die Streaming-Plattformen das
+mediale Rückgrat: Azubu, Twitch, Hitbox oder YouTube Gaming bringen eSports vom Amateur-Match
+bis hin zu den großen Profiligen und -turnieren,
+meist sogar als Live-Ausstrahlung auf die Bildschirme der Zuschauer. Manche Plattformen berichten dabei ausschließlich über eSports, bei
+anderen Angeboten ist eSports nur eine ContentRubrik neben beispielsweise Spielebewertungen
+oder Playthroughs, also möglichen Lösungen von
+Games. Die bekannteste, sich exklusiv dem Thema
+eSports widmende Plattform, ist Azubu. Hier werden
+neben Live-Matches auch Neuigkeiten, Spielanalysen und Statistiken zu eSports in Videoformat angeboten. Azubu ist auch als Sponsor von Spielern und
+Turnieren aktiv. Twitch hingegen fokussiert sein
+Angebot nicht ausschließlich auf eSports, erreicht
+aber mit weltweit fast 10 Mio. Benutzern täglich die
+höchsten Zuschauerzahlen und überträgt alle wichtigen Ligen und Turniere live. Das daraus resultierende Potenzial hat auch Amazon erkannt und
+kaufte im August 2014 Twitch für 730 Mio. Euro.
+Google antwortete 2016 mit der Einführung von
+YouTube Gaming, das Twitch die weltweit führende
+Position streitig machen soll. Als Alternative im Bereich Live-Streaming positioniert sich derzeit die
+österreichische Plattform Hitbox, die besonderen
+Wert auf ein verzögerungsfreies Spielerlebnis – inzwischen auch mit hoher 4K-Auflösung – legt. Mit
+derzeit 6 Mio. aktiven Nutzern ist Hitbox allerdings
+noch etwas vom Branchenprimus Twitch entfernt.
+2.4. Games-Publisher binden Fans und Spieler
+Die Anbieter elektronischer Spiele haben ein
+natürliches Interesse an eSports, denn schließlich
+stehen hierbei ihre Produkte wie nirgendwo sonst
+im Mittelpunkt. Als ein wesentliches Marketing-Instrument schaﬀt eSports starke Communities rund
+um die gespielten Games und bindet so Fans und
+Spieler. Dabei werden Strukturen der traditionellen
+Sportligen imitiert und es wird eine eigene Fankultur mit Stars der Szene und Rivalitäten unter den
+Teams bewusst gefördert. Über die Ligen und Tur-
+
+niere konserviert eSports das Interesse an den entsprechenden Spieletiteln und verlängert so deren
+Lebensdauer. Auf diese Weise profitieren auch InGame-Spendings – also Einkäufe, die mit realen
+Währungen im Spiel getätigt werden, um spezielle
+Gegenstände, Charaktere oder Fähigkeiten freizuschalten – erheblich vom nachhaltigen Engagement
+der Gamer. Im Gegenzug erfordert eSports ein
+konsequentes Engagement und zunächst auch
+beträchtliche Investitionen vonseiten der GamesPublisher. Denn Turniere und Ligen für die eigenen
+Games gilt es zunächst zu initiieren und zu organisieren, sei es in Eigenregie oder über Kooperationspartner. Mit der zunehmenden Popularität von
+eSports dürfte sich das Engagement aber, stärker
+noch als in der Vergangenheit, in immer mehr
+Fällen auszahlen.
+2.5. Investoren erwarten den Boom
+Die Zahl der eSports-Fans in Deutschland bietet
+bereits heute ein enormes Vermarktungspotenzial,
+und der Markt verspricht weiteres Wachstum. Fast
+folgerichtig stiegen zuletzt die Investitionen in Ligen,
+Teams, Spieler und jene Unternehmen, die Produkte und Services im Bereich eSports anbieten.
+Für besonders große Schlagzeilen sorgte hierzulande der Einstieg der Fußball-Bundesligisten
+FC Schalke 04 und VfL Wolfsburg: Beide Clubs erschließen mit eSports ein zusätzliches Geschäftsfeld
+und perspektivisch zusätzliche Einnahmen durch
+Sponsoring, Vermarktung und Merchandising.
+Zudem stärken sie durch die globale Strahlkraft von
+eSports ihre Marke, insbesondere in den eSportsaﬃnen Märkten in Asien und den USA. Allerdings
+haben beide Clubs eine unterschiedliche Strategie
+entwickelt. Konzentriert sich der VfL Wolfsburg aktuell ausschließlich auf FIFA und damit ein fußballnahes Spiel, so erfolgte der Einstieg des FC Schalke 04
+mit League of Legends – einem Spiel, das nicht mit
+Fußball verbunden ist – und erst im zweiten Schritt
+wurde ein FIFA-Team etabliert.
+Öﬀentliches Interesse haben auch die eSports-Investments bekannter Persönlichkeiten hervorgerufen: Der ehemalige Basketballspieler Shaquille
+O'Neal und Baseballstar Alex Rodriguez beteiligten
+sich am US-Team NRG eSports, Schauspieler Ashton
+Kutcher investierte in Unikrn, einen eSports-Wettanbieter. Auch Private-Equity-Unternehmen haben
+eSports für sich entdeckt. Nicht zuletzt ihr Einstieg
+hat die Preise der entsprechenden Lizenzen für die
+weltweit besten Teams zuletzt in den Millionenbereich gehoben. Neben Preisgeldeinnahmen steht
+hier die Gewinn bringende Weiterveräußerung von
+Teams und Lizenzen im Mittelpunkt des Interesses.
+06
+
+DELOITTE eSports L-6 21.11 21.11.16 17:18 Seite 7
+
+Der deutsche eSports-Markt in der Analyse
+
+Exkurs: Interview mit
+Tim Reichert (FC Schalke 04)
+Der FC Schalke 04 gab im Mai 2016 den Einstieg in eSports bekannt.
+In einem ersten Schritt wurde das Team „Elements“ akquiriert. Der
+FC Schalke 04 übernahm vier der fünf Spieler und den Liga-Startplatz
+des Teams in der europäischen Ausgabe der League of Legends Championship Series. Diese Liga stellt die europäische Königsklasse dar, vergleichbar mit der UEFA Champions League. Im Juni vermeldete der Verein
+auf seiner jährlichen Mitgliederversammlung den Einstieg in eine weitere
+eSports-Disziplin. Mit einem neu gegründeten FIFA-Team planen die
+Schalker, an deutschen und internationalen Turnieren teilzunehmen.
+Tim Reichert
+Head of eSports
+FC Schalke 04
+Tim Reichert ist seit Mai 2016
+Leiter der neugeschaﬀenen
+eSports-Abteilung des
+FC Schalke 04. Bereits 1997
+gründete er zusammen mit
+seinen Brüdern den eSports
+Gaming-Clan SK Gaming und
+absolvierte eine Bankausbildung. Daneben war er lange
+Jahre als Fußballprofi erfolgreich und spielte unter anderem in der 2. Bundesliga bei
+Rot-Weiß Oberhausen.
+Im Anschluss an seine sportliche Karriere absolvierte er
+ein Studium im Bereich
+„Business & Informationstechnologie“ und arbeitete
+nach seinem Abschluss zunächst bei einer Medienagentur bevor er wieder zu
+seinem Ursprung im Bereich
+eSports und Fußball zurückkam.
+
+Auf der Suche nach Nachwuchstalenten richtete der FC Schalke 04 im
+August ein Turnier, den sogenannten Knappen-Cup, aus. Der Fußballclub
+verfolgt die Strategie, junge, talentierte Spieler aus der direkten Umgebung in das FIFA-Team einzugliedern. Allerdings musste der FC Schalke 04
+auch einen kleinen Rückschlag hinnehmen, als das League-of-LegendsTeam die Championship Series nicht halten konnte und nun in der
+darunterliegenden Challenger Series startet.
+Was haben Sie gedacht, als Sie das erste Mal
+vom Vorhaben des FC Schalke 04 gehört
+haben, neben klassischen Sportarten auch
+eSports in den Verein integrieren zu wollen?
+Reichert: Die Themen Unternehmensentwicklung
+und Erschließung neuer Geschäftsfelder betreﬀen
+heute jedes Wirtschaftsunternehmen und da schließen sich Sportvereine nicht mehr aus. Daher war es
+für mich nicht überraschend, dass eSports ein relevantes Thema für Sportorganisationen wird. Dabei
+bin ich mir sicher, dass die Businessmodelle von
+Fußball und eSports nahe beieinander liegen, sodass der Einstieg das natürliche Wachstum des FC
+Schalke 04 steigern kann und die bereits vorhandenen Kompetenzen aus klassischen Sportarten in
+das neue Feld übertragen werden können, ohne
+grundsätzlich alles neu aufbauen zu müssen. Hier
+sind die bestehenden Infrastrukturen sicherlich
+auch ein großer Vorteil von Fußballvereinen gegenüber anderen Investoren und Organisationen. So
+können beispielsweise die medizinischen Einrichtungen des Vereins genutzt werden, um auch die
+eSportler bestens zu betreuen.
+Was war der konkrete Auslöser bzw. Punkt, an
+dem vom FC Schalke 04 beschlossen wurde, in
+eSports einzusteigen, und wie ging man bei
+der Planung und Entscheidung vor?
+
+Reichert: Beim FC Schalke 04 beschäftigt man sich
+an verschiedenen Stellen mit dem Thema strategische Unternehmensentwicklung. Dabei werden unterschiedlichste Geschäftsfelder angeschaut und
+überlegt, ob diese zum Verein passen und integriert
+werden könnten. Eine Person, die sich auch mit diesem Bereich auseinander setzt, ist auch der Geschäftsführer der Arena Management GmbH, der
+durch Events mitbekommen hatte, dass in der letzten Zeit relativ viele, ausverkaufte eSports-Events
+stattgefunden hatten und eSports derzeit einen
+Hype erfährt. Also wurde angefangen, sich mit dem
+Thema ernsthaft zu beschäftigen und man merkte
+schnell, dass es sich im Vergleich zu klassischen
+Sportarten – die zwar kontinuierlich, aber langsamer wachsen – um einen Markt mit hohen Wachstumsraten handelt. Im nächsten Schritt wurde
+hinterfragt, ob eSports tatsächlich zum Verein passt.
+Ich habe dann zunächst in beratender Tätigkeit häufig mit den Verantwortlichen „auf Schalke“ zusammengesessen und darüber diskutiert, was man
+machen könnte und wo Chancen und Potenziale liegen. Am Ende haben sich alle Beteiligten für einen
+Einstieg ausgesprochen.
+Ergeben sich hieraus auch Internationalisierungsaspekte für den Verein?
+Reichert: Selbstverständlich, dabei gibt es zwei
+Bausteine, auf die aufgesetzt wird. Zum einen soll
+07
+
+DELOITTE eSports L-6 21.11 21.11.16 17:56 Seite 8
+
+Der deutsche eSports-Markt in der Analyse
+
+das Investment in eSports mittelfristig – wie der
+Fußball – ein rentabler Geschäftsbereich werden
+und daneben den Fußball zu unterstützen. Der
+zweite und vielleicht noch wichtigere Aspekt ist,
+dass der Trend sehr global ist und gerade die Kernmärkte Asien und USA extrem eSports-aﬃn sind.
+Man spricht also international eine ganz bestimmte
+Zielgruppe an: junge, männliche Erwachsene, die
+zudem wahrscheinlich noch eine gewisse Aﬃnität
+zum Fußball haben. Aus unserer Sicht ergeben sich
+dadurch sehr viele Aktivierungsmöglichkeiten, für
+die ansonsten reines Marketingbudget in die Hand
+genommen werden müsste.
+Wie identifizieren sich die Mitglieder des Vereins beispielsweise mit einem Titel wie League
+of Legends?
+Reichert: Darüber haben wir uns vor dem Einstieg
+sehr viele Gedanken gemacht. Denn die Frage war
+ja, wie die Mitglieder diese Entscheidung am Ende
+des Tages aufnehmen werden. Der FC Schalke 04
+ist ein eingetragener Verein, der neben seinem
+Hauptbereich, dem Fußball, auch noch weitere Breitensportarten wie beispielsweise Basketball und
+Handball fördert. Deshalb ist der Verein es bereits
+gewohnt, unterschiedliche Sportarten zu integrieren. eSports sehen wir dabei als Sportart an, auch
+wenn er in Deutschland noch nicht oﬃziell als solche anerkannt ist. Uns war bewusst, dass nicht alle
+den Einstieg in eSports befürworten werden, gerade
+die älteren Generationen. Auf der anderen Seite
+waren wir sicher, dass die jungen Leute davon begeistert sein werden und genau das war der Fall.
+
+„eSports sehen wir dabei als
+Sportart an, auch wenn er in
+Deutschland noch nicht oﬃziell
+als solche anerkannt ist.“
+Weshalb engagieren sich Fußballvereine wie
+der FC Schalke 04 in Games wie FIFA?
+Reichert: FIFA hat natürlich den Vorteil der einfachen Aktivierungsmöglichkeiten für die Clubs und
+das Spiel ist sehr leicht in die Fanbasis zu transportieren. So können beispielsweise Konsolen aufgestellt werden, welche sich einer großen Beliebtheit
+erfreuen. Daneben passt es wunderbar in die Gesamtstruktur und man hat gesehen, was uns der
+FIFA-Einstieg an medialer Aufmerksamkeit in
+
+Deutschland gebracht hat. Das hat uns selber überrascht, besonders wenn man auch mal das Investment dagegenstellt. Im Vergleich dazu wurde der
+Einstieg in League of Legends in den internationalen Medien viel stärker wahrgenommen. Bei FIFA
+war dies – international betrachtet – nicht der Fall.
+Das liegt sicherlich daran, dass League of Legends
+im Gegensatz zu FIFA ein Zuschauersport ist.
+Das heißt, dass also viel mehr Leute auch gerne bei
+Matches zusehen und nicht nur selber spielen. Generell betrachtet ist FIFA also eine Art Kommunikationsmedium, um denjenigen, die bisher keinen
+Bezug zu eSports haben, den Einstieg zu erleichtern. Allerdings liegt FIFA natürlich auch thematisch
+näher für Fußballclubs als zum Beispiel League of
+Legends, daher gehen wir aktuell davon aus, dass
+mittelfristig die meisten Bundesligaclubs ein FIFATeam etablieren werden.
+Vor Kurzem hat zum Beispiel Paris St. Germain angekündigt, in den Bereich eSports einsteigen zu
+wollen, jedoch nicht nur in FIFA, sondern auch in andere Titel wie League of Legends. Gerade hier wird
+es spannend, denn der Einstieg erfolgt in der Liga,
+in der wir spielen. Dies macht es nun auch für Außenstehende interessanter und damit spannender.
+Wir freuen uns schon sehr auf den direkten Vergleich.
+Sie haben angekündigt, durch eSports auch
+die Einnahmenseite weiter zu steigern. Gibt es
+bereits messbare Erfolge in den Erlösquellen?
+Reichert: Wesentliche Zahlen können wir hier –
+auch aufgrund der Kürze unseres Investments –
+bisher noch nicht nennen. Zudem kann man vorher
+nie genau sagen, wie der Einstieg auch hinsichtlich
+zusätzlicher Erlösquellen aussehen wird. Grundsätzlich sind wir aber auch für sogenannte „Endemic Partner“, also Unternehmen, die direkt mit der
+Gaming-Industrie zu tun haben, auf einmal viel interessanter geworden. Der Best Case wäre natürlich,
+dass diese Unternehmen langfristig auch den Fußball als Plattform nutzen möchten und somit
+„Cross-Promotion“ betreiben wollen. Das wird sicher passieren, aber man muss auch sehen, dass
+wir erst fünf Monate dabei sind. Am wichtigsten ist
+deshalb, dass wir hier nachhaltig agieren.
+So werden aktuell unsere Partner aus dem Fußballbereich angesprochen, ob sie den Bereich eSports
+zur Ansprache einer neuen bzw. zusätzlichen Zielgruppe nutzen möchten und somit der Marke
+FC Schalke 04 auch in diesem Bereich verbunden
+bleiben wollen.
+08
+
+DELOITTE eSports L-6 21.11 21.11.16 17:28 Seite 9
+
+Der deutsche eSports-Markt in der Analyse
+
+3. Evolution der Erlösstrukturen
+Nicht nur für die zahlreichen Investoren stellt sich
+die Frage, ob und wie sich mit eSports Geld verdienen lässt. Wichtige Anhaltspunkte versprechen in
+diesem Zusammenhang die Betrachtung der relevanten Erlösquellen. Diese entsprechen grundsätzlich jenen bei klassischen Sportarten. Bedingt durch
+die frühe Marktphase unterscheidet sich allerdings
+deren Stellenwert bei eSports zum Teil erheblich
+von den traditionellen Ligen. Abbildung 2 illustriert
+und erläutert die vier wesentlichen Erlösquellen
+des eSports.
+Abb. 2 – eSports-Erlösquellen
+
+Deutlich ausbaufähig sind die eSports-Erlöse aus
+Premium-Content. Denn bislang sind noch fast alle
+Events über die entsprechenden Plattformen kostenlos verfügbar. Lediglich für werbefreies Streaming werden die Zuschauer zur Kasse gebeten.
+Dies dürfte sich künftig ändern, denn die zunehmende Professionalisierung, das steigende Zuschauerinteresse sowie die exponierte Bedeutung
+einzelner Turniere und Ligen machen eSportsÜbertagungen zu idealen Premium-Inhalten.
+Tickets für Top-Live-Veranstaltungen kosten im
+eSports nicht selten 50 Euro und mehr. In Kombination mit den hohen Zuschauerzahlen der wichtigen
+Events werden Ticketeinnahmen zu einer signifikanten Erlösquelle. Bislang ist die Zahl der eSportsGroßveranstaltungen allerdings noch überschaubar.
+Der professionell organisierte Ligabetrieb sowie
+immer mehr etablierte Turniere bieten jedoch
+Raum für Wachstum.
+
+Mit ihrem Engagement
+können Werbetreibende
+mit der Gamer-Szene
+einen klar umrissenen
+online-aﬃnen Adressatenkreis gezielt ansprechen.
+
+Quelle: Deloitte
+
+Aktuell stehen die Einnahmen aus Sponsoring und
+Werbung bei der Kommerzialisierung von eSports
+im Mittelpunkt. Mit ihrem Engagement können Werbetreibende mit der Gamer-Szene einen klar umrissenen online-aﬃnen Adressatenkreis gezielt
+ansprechen. Vielfach engagieren sich daher Unternehmen aus dem Games- und Hardware-Umfeld.
+So wurde die große Bedeutung für Games-Publisher zuvor bereits thematisiert. Aber auch für
+Image-Kampagnen großer Marken und zur Ansprache neuer Zielgruppen eignet sich der innovative
+Charakter von eSports hervorragend. Beispielsweise
+ist die Bausparkasse Wüstenrot als Hauptsponsor
+der ESL Meisterschaft bereits im Bereich eSports
+engagiert.
+
+Bereits heute sind professionelle MerchandisingStrukturen im eSports aufgebaut. Fanartikel für unterschiedliche Games, Ligen, Teams sowie deren
+Top-Spieler sind lizenziert und werden an die Fans
+der Szene vermarktet. Insbesondere die Spielertrikots erfreuen sich großer Beliebtheit. Daher werden
+die Merchandising-Umsätze absehbar analog zur
+wachsenden eSports-Fanbasis weiter steigen.
+
+09
+
+DELOITTE eSports L-6 21.11 21.11.16 17:28 Seite 10
+
+Der deutsche eSports-Markt in der Analyse
+
+4. Neue Zielgruppen durch TV-Präsenz
+eSports erobert in Deutschland nun auch das klassische Fernsehen. Im Juni wurde erstmals ein großes eSports-Event live im Free-TV übertragen: Der
+Sender Sport1 zeigte das Finale der ESL One Frankfurt 2016, des größten „Dota 2“-Turniers Europas.
+Zuvor konnten bereits beim Pay-TV-Sender Sky die
+beiden Halbfinalspiele und das Finale um die Meisterschaft in der TAG Heuer Virtuellen Bundesliga live
+verfolgt werden.
+In anderen Ländern sind Live-Spiele im Fernsehen
+bereits länger üblich. Beispielsweise hat eSports
+in Korea den Status einer traditionellen Sportart erreicht, Live-Übertragungen und Hintergrundberichte
+sind dort regelmäßige Bestandteile des Fernsehprogramms. In Deutschland dagegen möchten die
+Sender zunächst ihre bestehenden Sportangebote
+mittels eSports diversifizieren. Zudem erschließen
+sie sich ein neues, jüngeres Publikum außerhalb der
+traditionellen Sportarten und damit insbesondere
+des Fußballs. Auch lassen sich mit den TV-Übertragungen streaming-fokussierte eSports-Fans potenziell wieder an das lineare Fernsehen heranführen.
+
+eSports muss im TV-Programm intensiv kommentiert
+und aufbereitet werden.
+Allerdings muss eSports für das Format Fernsehen
+gezielt aufbereitet werden: Die Übertragungen –
+insbesondere der komplexeren Spiele wie z. B.
+League of Legends oder Dota 2 – bedürfen einer
+intensiven Kommentierung, um auch eSports-Laien
+an das Geschehen heranzuführen. Zudem müssen
+hochwertige Hintergrundberichte die Wettbewerbe
+in den richtigen Kontext setzen. Auf diese Weise
+können Zuschauer jedoch stärker in die Szene einbezogen werden und steigern dadurch ihr langfristiges Interesse.
+eSports wird von der Präsenz im linearen Fernsehen profitieren und neue Anhänger gewinnen.
+Dies verdeutlicht der Vergleich mit Darts und
+Snooker. Als einzelne TV-Sender die in Deutschland
+zuvor kaum populären Sportarten in ihre Programme aufgenommen haben, ist um diese in der
+Folge ein kleiner Boom entstanden – obwohl die
+Übertragungen zunächst nur in den Randzeiten
+stattfanden.
+
+Schon in absehbarer Zeit ist zu erwarten, dass die
+Broadcaster eSports noch konsequenter vermarkten werden und dabei auf eine systematische Verknüpfung zwischen dem traditionellen TV und
+neuen Online-Angeboten setzen. Der Event-Charakter der Finalspiele macht diese zum idealen TV-Content, daher finden diese ihren Platz im Fernsehprogramm. Weniger relevante Veranstaltungen
+sowie Vor- und Nachberichterstattungen werden
+dagegen auf den Streaming-Plattformen der Sender
+gezeigt. Zusätzlich sind die passenden News online
+verfügbar. Die Strategie dürfte sich bei eSports auszahlen, schließlich hat man es mit einer überwiegend jungen, technik-aﬃnen Zielgruppe zu tun.
+
+Exkurs: Case Study Sport1
+Sport1 berichtete nach der Übertragung des
+Finals der ESL One Frankfurt 2016 wenig später
+auch live von der europäischen League-ofLegends-Championship-Serie. Dafür startete
+Sport1 Kooperationen mit der ESL und Riot
+Games. Die Zusammenarbeit mit der ESL umfasst mittlerweile auch den Bereich Merchandising. So ist im Sport1-Online-Shop eine große
+Auswahl an oﬃziellen eSports-Fanartikeln
+erhältlich.
+Die deutschen eSports-Fans werden redaktionell mit umfangreichen Berichterstattungen im
+eSports Channel auf Sport1.de sowie über die
+Sport1 eSports App versorgt. Die Nutzer erhalten News, Statistiken, Videos und Hintergründe
+zu den beliebtesten Spielen, den größten Stars
+und den bekanntesten Turnieren. Zudem wird
+auf YouTube ein eigener eSports-Kanal betrieben. Ein regelmäßig gesendetes eSports-Magazin im Fernsehen gibt es bei Sport1 noch nicht.
+Die kontinuierliche Berichterstattung erfolgt auf
+den Online-Kanälen, das lineare TV wird für die
+Übertragung von Großereignissen genutzt.
+Die umfangreiche Berichterstattung in den
+vergangenen Monaten verdeutlicht bereits den
+steigenden Stellenwert von eSports im Sport1Portfolio. Besonders auﬀällig ist die systematische Verknüpfung von TV und Online-Angeboten. Es wird interessant zu beobachten sein, ob
+sich mit der steigenden Popularität von eSports
+die Anteile künftig stärker in Richtung des Fernsehens verschieben werden oder ob der Bereich
+aufgrund seiner digitalen Zielgruppe weiterhin
+hauptsächlich online verfolgt werden wird.
+
+10
+
+DELOITTE eSports L-6 21.11 21.11.16 17:18 Seite 11
+
+Der deutsche eSports-Markt in der Analyse
+
+5. Virtual Reality eröﬀnet neue Perspektiven
+Weiteren Rückenwind dürfte eSports durch Virtual
+Reality (VR) erfahren. VR-Brillen gelten derzeit als
+der wesentliche Wachstumstreiber im Bereich
+Consumer Hardware: Bis 2020 sind im deutschen
+B2C-Markt für Virtual Reality laut einer DeloitteAnalyse durchschnittliche Zuwächse von knapp 60
+Prozent pro Jahr zu erwarten. Dabei gelten Games
+als das vielversprechendste Einsatzgebiet. Derzeit
+arbeiten praktisch alle großen Publisher an Titeln
+für die virtuelle Realität. Schließlich soll VR zur größten Revolution in der Games-Branche seit Jahren
+werden.
+
+Für eSports versprechen
+VR-Brillen ein besonders eindrucksvolles, immersives
+Nutzungserlebnis.
+
+Valve Corporation experimentiert ebenfalls schon
+seit Jahren mit VR. Der Publisher von Dota 2 und
+Counter-Strike war maßgeblich an der Entwicklung
+der High-End-Brille HTC Vive beteiligt. Künftig
+möchte Valve Corporation die virtuelle Realität in
+seine eSports-Titel integrieren und zeigte dazu bereits einen VR-Zuschauermodus bei Dota 2.
+In den kommenden Jahren werden neue Brillengenerationen mit höherem Tragekomfort und besserer Auflösung die Attraktivität von VR weiter
+steigern. Und auch die passenden Inhalte werden
+rasch bereitstehen. Das gilt besonders für Games
+und eSports. Denn Gamer sind typischerweise
+leidenschaftliche Early Adopters. Die Kombination
+mit VR wird voraussichtlich schon bald den
+eSports-Markt beleben.
+
+Auch für eSports versprechen die geschlossenen
+Brillen eine eindrucksvolle, immersive – und damit
+möglichst stimmige und realitätsnahe – Erfahrung.
+Zuschauer erleben Events mit der neuen Hardware
+noch viel intensiver. Sie bringt die Fans näher an die
+Protagonisten und vermittelt ihnen das Gefühl, als
+seien sie tatsächlich vor Ort in der Arena. Auch
+VR-Content-Pionier Jaunt hat das Potenzial erkannt
+und Mitte des Jahres in Zusammenarbeit mit der
+ESL eine VR-Dokumentation aller Intel-ExtremeMasters-Events umgesetzt.
+
+11
+
+DELOITTE eSports L-6 21.11 21.11.16 17:18 Seite 12
+
+Der deutsche eSports-Markt in der Analyse
+
+6. Marktaussichten:
+Wachstums-Champion eSports
+eSports steht vor einem Boom: In den nächsten
+Monaten erschließt die Präsenz im TV neue Zuschauergruppen. Zudem sind immer mehr Fans bereit, für die Übertragung exklusiver eSports-Inhalte
+zu zahlen. Turniere und Ligastrukturen etablieren
+sich weiter und Investoren bringen zusätzliches Kapital und frische Ideen. Schließlich erlaubt VR bald
+eine neue, immersive eSports-Erfahrung, was
+zudem auch neue Erlöspotenziale bietet.
+All diese Faktoren werden dafür sorgen, dass die
+eSports-Umsätze in Deutschland bis zum Ende dieser Dekade nachhaltig steigen werden. Liegen diese
+2016 noch bei rund 50 Mio. Euro, so ist davon auszugehen, dass sich diese Zahl in zwei Jahren bereits
+verdoppelt hat (s. Abb. 3). Im Jahr 2020 werden
+dann hierzulande voraussichtlich schon etwa 130
+Mio. Euro mit eSports umgesetzt. Damit würde
+diese Sparte in Deutschland jährlich im Schnitt um
+rund 27 Prozent wachsen. eSports-Umsätze beziehen sich hierbei insbesondere auf Erlöse aus Sponsoring & Werbung sowohl von den Clans als auch
+während der Events bzw. in den Ligen. Zusätzliche
+Einnahmen ergeben sich durch das Ticketing im
+Rahmen von großen Turnieren, Premium-Content
+für Analysen, werbefreies Streaming und Merchandising – hier speziell die Trikots der Gamer (s. Abb. 2).
+
+Für die Marktabschätzung hat Deloitte die eSportsErlösströme analysiert, nationale und internationale
+Vergleichsmärkte betrachtet sowie Branchenexperten interviewt. Dabei wurde deutlich: In den nächsten beiden Jahren dürfte sich umsatzseitig besonders die steigende eSports-Fanbasis bemerkbar
+machen. Hier zeigen sich ganz wesentlich die positiven Eﬀekte vom Sprung ins TV-Programm und
+damit in den sogenannten Mainstream. Ab 2018 ist
+zu erwarten, dass die Zuwächse weniger durch eine
+größere Community, als vielmehr durch die Akzeptanz neuer Bezahlangebote generiert werden.
+Jedoch gelingt den Anbietern dann zunehmend die
+Monetarisierung der treuen eSports-Fanbasis.
+
+in Mio. Euro
+
+Abb. 3 – Deutschland: eSports-Umsätze 1)
+
+Anmerkung: 1) Enthält folgende Erlösquellen: Sponsoring/Werbung, Premium-Content, Eintrittsgelder & Merchandising.
+Quelle: Deloitte
+
+12
+
+DELOITTE eSports L-6 21.11 21.11.16 17:18 Seite 13
+
+Der deutsche eSports-Markt in der Analyse
+
+Die respektablen Zuwächse bei Fans und Umsatzzahlen bedürfen unbedingt einer Einordnung. Denn
+mitunter wird eSports bereits als echter Konkurrent
+für die deutsche Nummer-eins-Sportart Fußball gehandelt. Doch der spielt nach wie vor in einer anderen finanziellen Liga und wird diese Position auch
+auf absehbare Zeit behalten. Abbildung 4 illustriert
+die aktuellen Umsätze und Zuwachsraten von
+eSports und den führenden deutschen Sportligen.
+Dabei zeigt sich eindeutig der exponierte Stellenwert des Fußballs im deutschen Sport. Jedoch ist
+eSports nicht mehr weit von den anderen etablierten Sportarten wie Handball, Basketball oder Eishockey entfernt. Hierbei ist anzumerken, dass die
+angegebenen Umsätze der traditionellen Sportarten sich auf die jeweilige Top-Liga und nicht den gesamten Markt beziehen. Jedoch wird sich eSports
+bis zum Ende des Jahrzehnts diesen Ligen weiter
+annähern und vielleicht sogar die eine oder andere
+traditionelle Liga hinter sich gelassen haben.
+
+eSports-Anbietern
+gelingt zunehmend die
+Monetarisierung der
+großen Fanbasis.
+
+Jährliches Wachstum in % 1)
+
+Abb. 4 – Deutschland: eSports im Vergleich zu anderen Sportligen
+
+Aktueller Umsatz (in Mio. Euro) 2)
+Anmerkungen: 1) Durchschnittswert über die letzten drei Jahre. 2) Es werden die letzten veröﬀentlichten Umsatzzahlen (exkl. Transfererlöse) dargestellt.
+Quelle: Deloitte
+
+13
+
+DELOITTE eSports L-6 21.11 21.11.16 17:18 Seite 14
+
+Der deutsche eSports-Markt in der Analyse
+
+Exkurs: Interview mit
+Alexander Müller (SK Gaming)
+SK Gaming ist mit über 60 großen Meisterschafts-Titeln einer der führenden
+internationalen eSports-Clans. Gegründet im Jahr 1997 in Oberhausen, ist man
+seither in unterschiedlichen Computer- und Konsolenspielen aktiv und erfolgreich. SK Gaming gilt auch als Pionier der Vermarktung von eSports. In den
+vergangenen Jahren hat man zahlreiche Teams und Spieler als Stars der Szene
+positionieren können. SK Gaming unterhält Büros in Köln und Los Angeles.
+
+Alexander Müller
+Geschäftsführer
+von SK Gaming
+Alexander Müller ist seit
+2006 Geschäftsführer von
+SK Gaming und gilt in
+Deutschland als eSportsUrgestein. Er ist einer der
+Gründer von Turtle Entertainment und war dort verantwortlich für den Bereich
+Marketing. Neben seiner
+Tätigkeit für SK Gaming
+gründete Alexander Müller
+im Jahr 2014 3Sports Media
+UG, eine Agentur zur professionellen Vermarktung
+von eSports.
+
+eSports erlebt gerade einen kleinen Boom.
+Nimmt man dies bei SK Gaming im Tagesgeschäft bereits wahr?
+
+Merchandising wird immer wichtiger und Medienrechte werden in Zukunft mit Sicherheit am
+stärksten zunehmen.
+
+Müller: Absolut. Wir merken sehr deutlich, wie
+sich die Wahrnehmung verschoben hat. eSports
+rennt derzeit überall oﬀene Türen ein. Vor einigen
+Jahren noch mussten wir neue Kontakte zu möglichen Partnern extrem lange aufbauen und haben
+meist mit 18 Monaten gerechnet, die es gedauert
+hat, bis man etwas Konkretes angehen konnte.
+Heute geht das deutlich schneller. Meist merkt man
+sehr schnell, dass die Frage, ob man sich im eSport
+engagiert, bereits beantwortet wurde. Es geht
+lediglich um das Wie.
+
+In den letzten Monaten sind zahlreiche neue
+Player in eSports eingestiegen. Wie können
+sich „etablierte“ Akteure wie SK Gaming
+gegen diese behaupten?
+
+Hat sich die eSports-Landschaft in Deutschland in den vergangenen Jahren bereits verändert? Was waren die wesentlichen Entwicklungstrends?
+Müller: Definitiv. Wir sind in Deutschland mittlerweile viel internationaler aufgestellt. Während es
+vor einigen Jahren noch interessant war, ein Engagement rein im deutschen Markt zu platzieren, egal
+ob nun mit einer Liga, einem Turnier oder einem
+rein deutschen Team, geht der Trend nun klar in
+Richtung internationaler Ausrichtung unter Berücksichtigung der deutschen Community. Nehmen wir
+die ESL. Die Auftritte auf der gamescom und die
+großen Veranstaltungen in Frankfurt (Commerzbank
+Arena) oder auch in Köln (Lanxess Arena) sind absolute Leuchttürme. Hier wird international gespielt
+und Deutschland ist begeistert.
+Welche sind aus Ihrer Sicht die wichtigsten
+Erlösquellen für die Branche (Sponsoring/
+Werbung, Premium-Content, Merchandising,
+Eintrittsgelder)? Erwarten Sie hier künftig
+Verschiebungen?
+Müller: Das ist abhängig davon, wer gefragt wird.
+Für die Teams sind es die Sponsoren, klar. Das ist
+bei Ligen und Turnieren durchaus ein anderes Bild.
+Eintrittsgelder spielen schon eine tragende Rolle,
+
+Müller: Mit Know-how. Natürlich kann man mit
+Kapital versuchen, etwas Konkurrenzfähiges zu erstellen, aber die Community hat eine klare Meinung.
+Es sind die Brands, die Teams mit Historie, denen
+man zujubelt. Da gibt es jetzt schon fantastische
+Geschichten, SK Gaming hat sicherlich auch eine
+einzigartige. Langfristig zählt das, ganz klar. Das bedeutet aber nicht, dass man als Neuling keine
+Chance hat. Man muss es aber sauber, richtig und
+kontinuierlich aufbauen und weiterentwickeln, dann
+wird man eine feste Größe im Markt. Kapital alleine
+reicht nicht.
+Der eSports-Einstieg von Fußball-Bundesligisten ruft ein großes öﬀentliches Interesse hervor. Beleben diese Clubs die Szene, oder
+sehen Sie auch negative Aspekte?
+Müller: Wenn sie es richtig machen, begrüßen
+wir es. Klar können diese Vereine auch Schaden
+anrichten im Markt, ich denke aber, dass wir das im
+Dialog miteinander auch besprechen und angehen
+können. Teilweise passiert das ja bereits, und in
+meinen Augen funktioniert es bislang sehr gut.
+Erwächst mit eSports nun eine echte
+Konkurrenz zu traditionellen Sportarten?
+Müller: Nein. Eine Ergänzung. Die Faszination
+am Counterstrike-Match SK Gaming vs. Virus Pro
+ist derzeit ähnlich wie ein Spiel FC Bayern München
+vs. Real Madrid. Man möchte keins der beiden
+Matches verpassen. Wichtig ist, dass wir das im
+eSport auch so verstehen und nicht versuchen, in
+Konkurrenz mit den traditionellen Sportarten zu
+treten, das wäre der falsche Weg.
+14
+
+DELOITTE eSports L-6 21.11 21.11.16 17:49 Seite 15
+
+Der deutsche eSports-Markt in der Analyse
+
+7. Ausblick: Nachhaltiges Wachstumspotenzial?!
+eSports ist nicht mehr alleine die Domäne computerspielender Nerds, sondern spricht eine beachtliche und kontinuierlich wachsende Zielgruppe an.
+Entwickelt sich eSports damit zu einer Sportart
+unter vielen? Mitnichten, denn spezifische Charakteristika machen eSports zum gefragten Betätigungsfeld für Unternehmen und Investoren.
+Im Wesentlichen sind es fünf Faktoren, welche
+die Attraktivität von eSports begründen:
+1 Wie kaum eine andere Sportart verfügt eSports
+über eine starke und treue Community. Viele
+Fans spielen die Games selbst und sind diesen
+besonders verbunden. Über Social-Media-Kanäle
+besteht ein intensiver Austausch zu eSports, den
+auch Teams und Ligen zur kontinuierlichen Interaktion mit den Fans nutzen.
+2 Verglichen mit traditionellen Sportarten ist die
+eSports-Fanbasis deutlich homogener. Die Anhänger sind nicht ausschließlich, aber doch tendenziell jung, männlich und technik-aﬃn. Damit
+ist ein gezieltes Targeting bei Werbe- und Produktangeboten möglich.
+3 eSports ist grundlegend digitalisiert. Auch über
+innovative Kanäle und Plattformen lassen sich Inhalte breit adressieren – oftmals kostengünstiger
+als über herkömmliche Medienkanäle. Denn anders als bei klassischen Sportarten können
+selbst Amateure ohne größeren Aufwand ihre
+Matches live streamen.
+4 Die Zahl der eSports-Fans wächst in den
+nächsten Jahren aus den jungen Altersgruppen
+kontinuierlich nach.
+5 eSports weist keine festgefahrenen Strukturen
+auf und entwickelt sich zusammen mit der dafür
+notwendigen Technik weiter. Damit steigt seine
+Attraktivität für neue Akteure und Investoren.
+Vor diesem Hintergrund wird sich die zuletzt schon
+hohe Dynamik innerhalb des eSports-Umfeldes weiter fortsetzen. Möglicherweise werden die nächsten
+Monate sogar entscheidend für dessen langfristige
+Entwicklung sein. Mit neuen Investoren, Medienpartnern und Zuschauern könnte eSports in eine
+neue Größenordnung vorstoßen: Aktuell bereiten
+weitere Fußball-Bundesligisten ihren Einstieg in
+eSports vor. Daneben winken Investoren, angelockt
+vom vorhandenen Potenzial und den noch größeren Erwartungen, mit zusätzlichem Kapital. Fernsehsender holen eSports aus der medialen Nische,
+
+sodass die zusätzliche Reichweite fast zwangsläufig
+zu steigenden Zuschauerzahlen führen wird. Begleitet wird diese Entwicklung von einer intensiven Berichterstattung. Es ist also davon auszugehen, dass
+eSports auch in den nächsten Jahren in aller
+Munde bleibt.
+Das Szenario für die nahe Zukunft birgt aber auch
+die Gefahr eines kleinen Hypes. Die beteiligten Akteure sollten daher die Perspektiven von eSports
+realistisch einschätzen und auf ein nachhaltiges
+Wachstum setzen. Dabei kommt gerade den etablierten Playern aus dem eSports-Umfeld eine wichtige Rolle zu. Sie müssen den Kern und Charakter
+von eSports erhalten, denn bei aller Euphorie um
+die zahlreichen neuen Anhänger dürfen die alten,
+treuen eSports-Fans keinesfalls verprellt werden.
+Diese bilden weiterhin die starke Basis und machen
+eSports zu dem, was es geworden ist: eine attraktive, schnell wachsende Alternative zu traditionellen
+Sportarten mit einer extrem starken Community.
+
+Basis unserer Analysen
+Einschränkungen hinsichtlich
+der veröﬀentlichten Informationen
+Die Studie beinhaltet Informationen aus öﬀentlichen oder anderen direkten Quellen. Wir
+haben zum Zwecke dieses Berichts keine Überprüfung oder Validierung der zugrunde liegenden externen Informationen durchgeführt.
+Für die Marktabschätzung hat Deloitte die
+eSports-Erlösströme analysiert, nationale und
+internationale Vergleichsmärkte betrachtet
+sowie Branchenexperten interviewt. Die dargestellten Werte beruhen auf den daraus gewonnenen Informationen und stellen somit eine
+Schätzung des zugrunde liegenden Marktes dar.
+
+Wechselkurse
+Zur vereinfachten Darstellung sind alle Daten in
+Euro angegeben, auch wenn die Transaktion
+oder der Sachverhalt in einer anderen Währung
+kommuniziert wurde. Dazu wurden alle Finanzzahlen mit dem jeweiligen Stichtagskurs des zugrunde liegenden Datums umgerechnet.
+
+15
+
+DELOITTE eSports L-6 21.11 21.11.16 17:18 Seite 16
+
+Der deutsche eSports-Markt in der Analyse
+
+Ansprechpartner
+
+Klaus Böhm
+Deloitte
+Director
+Leiter Medien
+Tel: +49 (0)211 8772 3545
+kboehm@deloitte.de
+
+Karsten Hollasch
+Deloitte
+Partner
+Leiter Sport Business Gruppe
+Tel: +49 (0)69 75695 6140
+khollasch@deloitte.de
+
+Ralf Esser
+Deloitte
+Manager
+Leiter TMT Research
+Tel: +49 (0)211 8772 4132
+resser@deloitte.de
+
+Kim Lachmann
+Deloitte
+Senior Consultant
+Sport Business Gruppe
+Tel: +49 (0)211 8772 3565
+klachmann@deloitte.de
+
+Gregory Wintgens
+BIU – Bundesverband Interaktive
+Unterhaltungssoftware e.V.
+Marketing Manager
+Tel.: +49 (0)30 2408779 16
+wintgens@biu-online.de
+
+Autoren
+Ralf Esser, Kim Lachmann, Thanh-Liem Vo, Raoul Finzenhagen, Henrik Siedentopf
+Für weitere Informationen besuchen Sie bitte unsere Website auf www.deloitte.com/de/sport
+oder www.deloitte.com/de/tmt
+
+DELOITTE eSports L-6 21.11 21.11.16 17:18 Seite 17
+
+Über Deloitte
+Deloitte erbringt Dienstleistungen in den Bereichen Wirtschaftsprüfung, Risk Advisory, Steuerberatung, Financial Advisory und Consulting für Unternehmen und Institutionen aus allen Wirtschaftszweigen; Rechtsberatung wird in Deutschland von Deloitte Legal erbracht. Mit einem weltweiten Netzwerk
+von Mitgliedsgesellschaften in mehr als 150 Ländern verbindet Deloitte herausragende Kompetenz mit erstklassigen Leistungen und unterstützt Kunden
+bei der Lösung ihrer komplexen unternehmerischen Herausforderungen. Making an impact that matters – für mehr als 244.000 Mitarbeiter von Deloitte
+ist dies gemeinsames Leitbild und individueller Anspruch zugleich.
+Deloitte bezieht sich auf Deloitte Touche Tohmatsu Limited („DTTL“), eine „private company limited by guarantee“ (Gesellschaft mit beschränkter Haftung
+nach britischem Recht), ihr Netzwerk von Mitgliedsunternehmen und ihre verbundenen Unternehmen. DTTL und jedes ihrer Mitgliedsunternehmen sind
+rechtlich selbstständig und unabhängig. DTTL (auch „Deloitte Global“ genannt) erbringt selbst keine Leistungen gegenüber Mandanten. Eine detailliertere Beschreibung von DTTL und ihren Mitgliedsunternehmen finden Sie auf www.deloitte.com/de/UeberUns.
+Stand 11/2016
+
+

@@ -1,0 +1,393 @@
+Grundlagen der Physik fĂźr Realschulen in Bayern
+
+Grundlagen	 Â der	 Â Physik	 Â fĂźr	 Â Realschulen	 Â in	 Â Bayern	 Â 
+	 Â 
+
+Physikalische	 Â Arbeitsweise	 Â 
+â˘
+â˘
+â˘
+
+â˘
+
+Beobachtung	 Â von	 Â NaturphĂ¤nomenen	 Â 
+Aufstellen	 Â von	 Â Vermutungen	 Â (Hypothesen)	 Â 
+Experimente:	 Â 
+o Planung	 Â 
+o DurchfĂźhrung:	 Â Beobachtung	 Â (qualitativ)	 Â oder	 Â Messung	 Â (quantitativ)	 Â 
+o Auswertung	 Â (graphisch,	 Â numerisch)	 Â 
+Formulierung	 Â der	 Â Ergebnisse	 Â 	 Â 
+
+	 Â 
+
+GrĂśĂen	 Â in	 Â der	 Â Physik	 Â 
+Physikalische	 Â GrĂśĂen	 Â sind	 Â alle	 Â messbaren	 Â Eigenschaften	 Â eines	 Â KĂśrpers.	 Â 
+	 Â 
+GrundgrĂśĂen	 Â 
+Abgeleitete	 Â GrĂśĂen	 Â 
+legt	 Â der	 Â Mensch	 Â beliebig	 Â fest,	 Â 	 Â 
+sind	 Â von	 Â GrundgrĂśĂen	 Â abhĂ¤ngig,	 Â 
+z.	 Â B.	 Â LĂ¤nge	 Â âđ,	 Â Masse	 Â m	 Â und	 Â Zeit	 Â t.	 Â 
+z.	 Â B.	 Â FlĂ¤che	 Â A,	 Â Volumen	 Â V.	 Â 
+	 Â 
+FĂźr	 Â die	 Â Festlegung	 Â der	 Â GrundgrĂśĂen	 Â benĂśtigt	 Â man	 Â die	 Â Definition	 Â der	 Â Gleichheit,	 Â der	 Â Vielfachheit	 Â und	 Â der	 Â 
+Einheit.	 Â Die	 Â Einheit	 Â wird	 Â folgendermaĂen	 Â dargestellt:	 Â 
+	 Â 
+
+GrĂśĂensymbol = 1 â Einheit	 Â 	 Â 	 Â z.	 Â B.	 Â 	 Â 	 Â  âđ = 1 â m	 Â 
+	 Â 
+
+Die	 Â Messung	 Â einer	 Â physikalischen	 Â GrĂśĂe	 Â erfolgt	 Â durch	 Â den	 Â Vergleich	 Â der	 Â zu	 Â messenden	 Â GrĂśĂe	 Â mit	 Â einer	 Â 
+Einheit.	 Â Das	 Â Messergebnis	 Â ist	 Â das	 Â Produkt	 Â aus	 Â MaĂzahl	 Â und	 Â MaĂeinheit.	 Â 
+Die	 Â Differenz	 Â zweier	 Â Messwerte	 Â einer	 Â GrĂśĂe	 Â wird	 Â durch	 Â Î	 Â (âdeltaâ)	 Â vor	 Â dem	 Â GrĂśĂensymbol	 Â angegeben:	 Â 
+	 Â 
+
+z.	 Â B.	 Â 	 Â 	 Â Îâđ = âđ! â âđ! 	 Â 
+	 Â 
+
+Messung	 Â -Â­â	 Â GĂźltige	 Â Ziffern	 Â 
+	 Â 
+MessgerĂ¤t	 Â 
+
+Messbereich	 Â 
+
+Messgenauigkeit*	 Â 
+
+Bsp.	 Â Dicke	 Â einer	 Â Glasscheibe	 Â 
+
+MaĂband	 Â 
+
+z.	 Â B.	 Â bis	 Â 50,00	 Â m	 Â 
+
+1	 Â cm	 Â 
+
+âđ = 1 Â cm	 Â 
+
+Geodreieck	 Â 
+
+z.	 Â B.	 Â bis	 Â 14,0	 Â cm	 Â 
+
+1	 Â mm	 Â 
+
+âđ =  Â 0,9 Â cm	 Â 	 Â 	 Â oder	 Â 	 Â 	 Â âđ = 9 Â mm	 Â 
+
+Messschieber	 Â 
+
+z.	 Â B.	 Â bis	 Â 16,00	 Â cm	 Â 
+
+0,1	 Â mm	 Â 
+
+âđ =  Â 0,92 Â cm	 Â 	 Â 	 Â oder	 Â 	 Â 	 Â âđ = 9,2 Â mm	 Â 
+
+0,01	 Â mm	 Â 
+
+âđ =  Â 0,918 Â cm	 Â 	 Â 	 Â oder	 Â 	 Â 	 Â âđ = 9,18 Â mm	 Â 
+
+Mikrometerschraube	 Â  z.	 Â B.	 Â bis	 Â 2,000	 Â cm	 Â 
+
+*Die	 Â Anzahl	 Â der	 Â gĂźltigen	 Â Ziffern	 Â hĂ¤ngt	 Â von	 Â der	 Â Messgenauigkeit	 Â des	 Â MessgerĂ¤ts	 Â ab.	 Â 
+	 Â 
+	 Â 
+ÂŠ 2011 â Staatsinstitut fĂźr SchulqualitĂ¤t und Bildungsforschung â Abteilung Realschule
+
+[1]
+
+Grundlagen der Physik fĂźr Realschulen in Bayern
+
+FĂźr	 Â die	 Â gĂźltigen	 Â Ziffern	 Â gilt:	 Â 
+	 Â 
+
+Die	 Â letzte	 Â Ziffer	 Â ist	 Â die	 Â unsichere,	 Â die	 Â gĂźltigen	 Â davor	 Â sind	 Â die	 Â sicheren	 Â Ziffern.	 Â 
+Bsp.:	 Â  âđ = 3,47 Â m	 Â 	 Â 	 Â ď 	 Â 	 Â 	 Â drei	 Â gĂźltige	 Â Ziffern	 Â 
+â˘ Vorangestellte	 Â Nullen	 Â sind	 Â nicht	 Â zu	 Â zĂ¤hlen.	 Â 
+Bsp.:	 Â  âđ = 0,00034 Â m	 Â 	 Â 	 Â ď  	 Â zwei	 Â gĂźltige	 Â Ziffern	 Â 	 Â 
+â˘ Nachgestellte	 Â Nullen	 Â werden	 Â gezĂ¤hlt.	 Â 
+Bsp.:	 Â  âđ = 12,00 Â m	 Â 	 Â 	 Â ď 	 Â 	 Â 	 Â vier	 Â gĂźltige	 Â Ziffern	 Â 
+â˘ Beim	 Â Einheitenwechsel	 Â darf	 Â sich	 Â die	 Â Genauigkeit	 Â nicht	 Â Ă¤ndern	 Â (Verwendung	 Â von	 Â Zehnerpotenzen).	 Â 	 Â 
+Bsp.:	 Â  âđ = 3,47 Â km	 Â 	 Â 	 Â ď 	 Â 	 Â 	 Â âđ = 3,47 â 10Âł Â m	 Â 
+â˘ Multipliziert	 Â oder	 Â dividiert	 Â man	 Â physikalische	 Â GrĂśĂen,	 Â so	 Â hat	 Â das	 Â Ergebnis	 Â so	 Â viele	 Â gĂźltige	 Â Ziffern	 Â 
+wie	 Â die	 Â GrĂśĂe	 Â mit	 Â der	 Â geringsten	 Â Anzahl	 Â gĂźltiger	 Â Ziffern.	 Â 
+Bsp.:	 Â  âđ = 22,5 Â m,	 Â b = 14,7 Â m,	 Â h = 0,75 Â m	 Â 
+	 Â 
+	 Â 
+V = âđ â b â h Â 
+	 Â 
+V = 22,5 Â m â 14,7 Â m â 0,75 Â m Â 
+	 Â 
+V = 2,5 â 10!  Â m! 	 Â 
+â˘ Bei	 Â Addition	 Â oder	 Â Subtraktion	 Â von	 Â GrĂśĂen	 Â mit	 Â derselben	 Â Einheit	 Â rundet	 Â man	 Â das	 Â Ergebnis	 Â auf	 Â so	 Â 
+viele	 Â Stellen	 Â (vor	 Â oder	 Â nach	 Â dem	 Â Komma)	 Â wie	 Â die	 Â ungenaueste	 Â GrĂśĂe	 Â vorgibt.	 Â 
+Bsp.:	 Â  âđ! = 3,209 Â cm,	 Â 	 Â 	 Â âđ! = 0,81 Â cm Â 
+	 Â 
+âđ! + âđ! = 3,209 Â cm + 0,81 Â cm	 Â 
+	 Â 
+âđ! â âđ! = 3,209 Â cm â 0,81 Â cm Â 
+	 Â 
+âđ! + âđ! = 4,02 Â cm	 Â 	 Â  	 Â 
+	 Â 
+	 Â 
+âđ! â âđ! = 2,40 Â cm	 Â 
+	 Â 
+Messergebnisse,	 Â z.	 Â B.	 Â bei	 Â LĂ¤ngen,	 Â werden	 Â folgendermaĂen	 Â angegeben:	 Â 
+â˘
+
+	 Â 
+
+âđ = âđ Â  Âą ââđ,	 Â wobei	 Â âđ Â der	 Â Mittelwert	 Â und	 Â hier	 Â ââđ	 Â die	 Â grĂśĂte	 Â Abweichung	 Â vom	 Â Mittelwert	 Â ist.	 Â 
+	 Â 
+
+Vorsatzzeichen	 Â 
+	 Â 
+Vorsatzzeichen	 Â  Name	 Â  Zehnerpotenz	 Â 
+
+	 Â 
+
+	 Â 
+
+Vorsatzzeichen	 Â 
+
+Name	 Â 
+
+Zehnerpotenz	 Â 
+
+d	 Â 
+
+dezi	 Â 
+
+â 10!! 	 Â 
+
+	 Â 
+
+h	 Â 
+
+hekto	 Â 
+
+â 10! 	 Â 
+
+c	 Â 
+
+centi	 Â 
+
+â 10!! 	 Â 
+
+	 Â 
+
+k	 Â 
+
+kilo	 Â 
+
+â 10! 	 Â 
+
+m	 Â 
+
+milli	 Â 
+
+â 10!! 	 Â 
+
+	 Â 
+
+M	 Â 
+
+Mega	 Â 
+
+â 10! 	 Â 
+
+đ	 Â 
+
+mikro	 Â 
+
+â 10!! 	 Â 
+
+	 Â 
+
+G	 Â 
+
+Giga	 Â 
+
+â 10! 	 Â 
+
+n	 Â 
+
+nano	 Â 
+
+â 10!! 	 Â 
+
+	 Â 
+
+T	 Â 
+
+Tera	 Â 
+
+â 10!" 	 Â 
+
+	 Â 
+
+ÂŠ 2011 â Staatsinstitut fĂźr SchulqualitĂ¤t und Bildungsforschung â Abteilung Realschule
+
+[2]
+
+Grundlagen der Physik fĂźr Realschulen in Bayern
+
+ProportionalitĂ¤ten	 Â 
+	 Â 
+	 Â 
+
+Direkte	 Â 
+
+indirekte	 Â 
+
+Hinweis	 Â 
+
+Je	 Â grĂśĂer	 Â die	 Â unabhĂ¤ngige	 Â GrĂśĂe	 Â x,	 Â desto	 Â 
+grĂśĂer	 Â die	 Â abhĂ¤ngige	 Â GrĂśĂe	 Â y.	 Â 
+
+Je	 Â grĂśĂer	 Â unabhĂ¤ngige	 Â GrĂśĂe	 Â x,	 Â desto	 Â 
+kleiner	 Â die	 Â abhĂ¤ngige	 Â GrĂśĂe	 Â y.	 Â 
+
+Kennzeichen	 Â 
+
+Doppelter,	 Â dreifacher,	 Â âŚ,	 Â 	 Â 
+n-Â­âfacher	 Â x-Â­âWert	 Â bewirkt	 Â einen	 Â doppelten,	 Â 
+dreifachen,	 Â âŚ,	 Â n-Â­âfachen	 Â y-Â­âWert.	 Â 
+
+Doppelter,	 Â dreifacher,	 Â âŚ,	 Â n-Â­âfacher	 Â 	 Â 
+x-Â­âWert	 Â bewirkt	 Â einen	 Â halben,	 Â drittel,	 Â âŚ,	 Â 
+n-Â­âtel	 Â y-Â­âWert.	 Â 
+
+Rechnerische	 Â 
+Auswertung	 Â 	 Â 
+
+Die	 Â Werte	 Â der	 Â Quotienten	 Â sind	 Â konstant:	 Â 
+y
+= konstant	 Â 
+x
+
+Die	 Â Werte	 Â der	 Â Produkte	 Â sind	 Â konstant:	 Â 
+x â y = konstant	 Â 
+
+(Quotientengleichheit)	 Â 
+
+(Produktgleichheit)	 Â 
+
+Im	 Â y-Â­âx-Â­âDiagramm	 Â ergibt	 Â sich	 Â als	 Â Graph	 Â eine	 Â 
+Ursprungsstrecke.	 Â 
+	 Â 
+
+Im	 Â y-Â­âx-Â­âDiagramm	 Â ergibt	 Â sich	 Â als	 Â Graph	 Â 
+ein	 Â Hyperbelast.	 Â 
+(Die	 Â graphische	 Â Auswertung	 Â alleine	 Â ist	 Â 
+nicht	 Â ausreichend	 Â fĂźr	 Â den	 Â Nachweis	 Â der	 Â 
+indirekten	 Â ProportionalitĂ¤t.)	 Â 
+
+Graphische	 Â 
+Auswertung	 Â 
+
+	 Â 
+
+	 Â 
+
+	 Â 
+
+	 Â 
+Zusammenfassung	 Â mehrerer	 Â direkter	 Â ProportionalitĂ¤ten:	 Â 
+Ist	 Â eine	 Â GrĂśĂe	 Â A	 Â zu	 Â zwei	 Â anderen	 Â GrĂśĂen	 Â B	 Â und	 Â C	 Â direkt	 Â proportional,	 Â so	 Â ist	 Â sie	 Â stets	 Â zu	 Â ihrem	 Â Produkt	 Â 
+direkt	 Â proportional.	 Â 
+A Â ~ Â B Â (C Â konstant)
+und
+ Â  Â  Â  Â  Â  Â  Â âš A Â ~ Â B â C	 Â 
+A Â ~ Â C Â (B Â konstant)
+	 Â 
+Bsp.:	 Â Schweredruck	 Â in	 Â FlĂźssigkeiten	 Â (siehe	 Â Jgst.	 Â 8)	 Â 
+
+ÂŠ 2011 â Staatsinstitut fĂźr SchulqualitĂ¤t und Bildungsforschung â Abteilung Realschule
+
+[3]
+
+Grundlagen der Physik fĂźr Realschulen in Bayern
+
+Diagrammtypen	 Â 
+Zusammenhang	 Â 
+Direkte	 Â ProportionalitĂ¤t	 Â 
+7.	 Â Jgst.:	 Â z.	 Â B.	 Â 	 Â 
+	 Â 
+	 Â 
+	 Â 
+Gewichtskraft	 Â đđ 	 Â 
+F! ~ Â m
+F!
+ Â g =
+m
+	 Â 
+Indirekte	 Â ProportionalitĂ¤t	 Â 
+8.	 Â Jgst.:	 Â z.	 Â B.	 Â 	 Â 
+	 Â 
+	 Â 
+	 Â 
+Arbeit Â 
+F â s Â  =  Â konstant	 Â 
+	 Â 
+
+Graph	 Â 
+
+Weitere	 Â Beispiele	 Â 
+
+	 Â 
+
+8.	 Â Jgst.:	 Â z.	 Â B.	 Â 
+â˘ Dichte	 Â Ď	 Â 
+â˘ gleichfĂśrmige	 Â Bewegung	 Â 
+â˘ gleichmĂ¤Ăig	 Â beschleunigte	 Â 
+Bewegung
+9.	 Â Jgst.:	 Â z.	 Â B.	 Â 	 Â 
+	 Â 
+VolumenĂ¤nderung	 Â 
+10.	 Â Jgst.:	 Â z.	 Â B.	 Â 
+OhmÂ´sches	 Â Gesetz	 Â 
+10.	 Â Jgst.:	 Â z.	 Â B.	 Â 
+	 Â 
+R â A = konstant	 Â 
+
+	 Â 
+
+ÂŠ 2011 â Staatsinstitut fĂźr SchulqualitĂ¤t und Bildungsforschung â Abteilung Realschule
+
+[4]
+
+Grundlagen der Physik fĂźr Realschulen in Bayern
+
+Weitere	 Â Diagrammtypen	 Â 
+Anomalie	 Â des	 Â Wassers	 Â 
+(9.	 Â Jgst.)	 Â 
+
+	 Â 
+
+Elektrischer	 Â Widerstand	 Â 
+in	 Â AbhĂ¤ngigkeit	 Â von	 Â der	 Â 
+Temperatur	 Â 
+(10.	 Â Jgst.)	 Â 
+
+	 Â 
+
+Leiterkennlinien	 Â 
+(10.	 Â Jgst.)	 Â 
+	 Â 
+	 Â 
+	 Â 
+	 Â 
+	 Â 
+Radioaktiver	 Â Zerfall	 Â 
+(10.	 Â Jgst.)	 Â 
+
+	 Â 
+
+	 Â 
+
+	 Â 
+
+	 Â 
+
+ÂŠ 2011 â Staatsinstitut fĂźr SchulqualitĂ¤t und Bildungsforschung â Abteilung Realschule
+
+[5]
+
+

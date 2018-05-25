@@ -1,0 +1,97 @@
+Photoeffekt und Comptoneffekt
+
+
+1.Fällt Licht auf eine Photozelle, so kann zwischen der lichtempfindlichen Schicht und der Gegenelektrode eine Spannung U gemessen werden.
+Wie kommt diese Spannung zustande?
+
+2.Verwendet man Licht verschiedener Wellenlängen einer Quecksilberdampflampe, so erhält man bei einer Kaliumzelle folgende Messwerte:
+
+FarbegrünblauviolettUV-LichtWellenlänge ? in nm   546436405366Spannung U in V0,020,600,821,14
+2.1
+Stelle in einem Diagramm die Abhängigkeit der Spannung U von der Frequenz des Lichtes dar (Maßstab: 0,5 V ( 1 cm; 1014 Hz ( 1 cm).
+2.2Wie groß ist die Grenzfrequenz bei dieser Photozelle?
+2.3Welche Spannungen erhält man, wenn bei diesem Versuch die Lichtintensität verdoppelt wird?
+2.4Warum lassen sich die Ergebnisse solcher Versuche nicht mit dem Wellenmodell des Lichtes erklären?
+Wie kann man sie denn deuten?
+2.5Was muss man tun, um die Plancksche Konstante h zu bestimmen?
+Welcher Wert ergibt sich für h mit den oben angegebenen Messwerten?
+Entnimm aus dem gezeichneten Schaubild die Ablösearbeit WA für Elektronen bei dieser Photozelle.
+
+3. Für Cäsium beträgt die Ablösearbeit 1,94 eV.
+3.1Spricht eine Photozelle mit Cs-Schicht auf Licht der Wellenlänge ? = 700 nm an?
+3.2Wie ändert sich das in 2.1 gezeichnete Diagramm, wenn man statt der Kaliumzelle eine Cäsiumzelle verwendet?
+
+4.1Was versteht man unter dem Comptoneffekt?
+4.2Inwiefern widerspricht er dem Wellenmodell, inwiefern bestätigt er das Teilchenmodell des Lichtes?
+
+
+c =  ; e = 
+LösungsskizzeIIIIII1.Licht kann aus Metallen Elektronen auslösen.
+Die ausgelösten Elektronen können auf die Gegenelektrode gelangen.
+Ist diese isoliert, so bildet sich auf ihr eine negative Aufladung, also eine negative Spannung gegenüber der Metallschicht.
+Spannung entsteht nur, wenn überhaupt Elektronen ausgelöst werden. Dafür muss das einfallende Licht eine gewisse Mindestfrequenz haben.2.
+
+
+
+
+
+
+
+
+
+
+
+2.1Mit f =  erhält man:
+
+
+546
+436
+405
+366
+5,49
+6,88
+7,40
+8,19
+0,02
+0,6
+0,82
+1,14
+
+
+2.2Dem Diagramm entnimmt man die Grenzfrequenz: fg = 5,4 . 1014 Hz2.3Bei Verdopplung der Lichtintensität erhält man dieselben Spannungswerte.2.4Bei einer Welle ist die mitgeführte Energie innerhalb der Wellenfläche gleichmäßig verteilt. Bei größerer Intensität müsste deshalb an jeder Stelle, wo die Lichtwelle auftritt, mehr Energie zur Verfügung stehen, um Elektronen auszulösen, unabhängig von der Frequenz. Es dürfte weder eine feste Gegenspannung noch eine Grenzfrequenz geben.
+Die Versuchsergebnisse sind nur deutbar mit Hilfe der von Max Planck entwickelten und von Einstein auf den lichtelektrischen Effekt angewandten Quantentheorie. Danach wird Energie innerhalb einer Welle in Form von Energiequanten transportiert, deren Energie W = hf durch die Frequenz bestimmt ist.
+2.5Zum Auslösen von Elektronen muss eine bestimmte Mindestenergie verfügbar sein (Ablösearbeit). Hat ein Lichtquant eine höhere Energie, kann der Überschuss dem abgelösten Elektron als kinetische Energie mitgegeben werden. Für die jeweils schnellsten Elektronen gilt dann: 
+. 
+Die schnellsten Elektronen bestimmen die maximale Gegenspannung:
+. Damit gilt: , wobei h und WA aus zwei Messwerten bestimmt werden können.
+ und . Damit ergibt sich:
+
+
+
+Die Ablösearbeit beträgt nach dem Diagramm ungefähr 2,3 eV.3.1Um Elektronen auszulösen, muss die Energie des Lichtquants mindestens gleich der Ablösearbeit sein. Für ? = 700 nm gilt:  und damit 
+Die Energie genügt zur Auslösung aus Cs nicht!3.2Die Austrittsarbeit aus Cs ist um (2,3 – 1,9) eV = 0,4 eV geringer als bei Kalium. Damit verschiebt sich die gezeichnete Gerade um 0,4 V nach oben.4.1Unter dem Comptoneffekt versteht man die Streuung von Licht (Photonen) an Elektronen.4.2Vergrößerung der Wellenlänge.
+Der Comptoneffekt bestätigt die Theorie zur Deutung des lichtelektrischen Effekts insofern, als die Lichtquanten nach den Gesetzen, die für materielle Teilchen gelten, Impuls und Energie an die gestoßenen Teilchen übertragen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die Aufgabe zum Photoeffekt und Comptoneffekt erfüllt die gestellten Anforderungen an eine Abituraufgabe nicht:
+
+* fehlende Unterrichtvoraussetzungen
+* viel Text, zu wenig Inhalt
+* zu kleinschrittig
+* zu wenig Breite (nur Baustein Mikroobjekte III)
+* zu wenig Tiefe (sicherlich kein Anforderungsniveau III)
+* keine Operatoren
+

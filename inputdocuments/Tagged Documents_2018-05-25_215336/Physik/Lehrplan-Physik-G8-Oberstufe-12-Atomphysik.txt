@@ -1,0 +1,65 @@
+Physik Jahrgangsstufe 12 , Atomphysik
+Ph 12.1 Eigenschaften von Quantenobjekten (ca. 12 Std.)
+Nachdem die Schüler in der Jahrgangsstufe 10 einen Einblick in grundlegende Inhalte und Denkweisen der Quantenphysik gewonnen haben, untersuchen sie nun exemplarisch Eigenschaften von Quantenobjekten genauer. Mit der quantitativen Auswertung und Deutung des Photoeffekts erlangen sie ein weitergehendes Verständnis für den Teilchencharakter von Photonen. Der Wellencharakter von Elektronen lässt sich anhand eines Experiments zur Elektronenbeugung zeigen und unter Einbeziehung der De-Broglie-Wellenlänge auch plausibel machen. Die Schüler lernen, dass im mikroskopischen Bereich der strenge Determinismus durch Wahrscheinlichkeitsaussagen ersetzt werden muss, und erfahren die Bedeutung der Unbestimmtheitsrelation von Heisenberg. So erkennen sie, dass das klassische Teilchenbild zur Beschreibung des Mikrokosmos ungeeignet ist und durch ein neues Teilchenkonzept ersetzt werden muss.
+* Teilchencharakter von Photonen 
+o quantitative Behandlung des Photoeffekts, Deutung nach Einstein 
+o Energie und Impuls des Photons
+* Wellencharakter von Elektronen 
+o Zusammenhang zwischen Impuls und Wellenlänge nach de Broglie 
+o qualitative Experimente mit der Elektronenbeugungsröhre, quantitative Datenauswertung von Doppelspalt- oder Gitterversuchen, z. B. auch mithilfe geeigneter Simulationsprogramme  
+o technische Anwendung, z. B. Prinzip des Elektronenmikroskops
+* Beschreibung des Verhaltens von Quantenobjekten 
+o Wahrscheinlichkeitsaussagen zu Interferenzversuchen mit einzelnen Quantenobjekten 
+o Unbestimmtheitsrelation von Heisenberg
+Ph 12.2 Ein Atommodell der Quantenphysik (ca. 21 Std.)
+Aus Jahrgangsstufe 9 ist den Schülern bereits bekannt, dass Atome nur diskrete Energiemengen aufnehmen und abgeben. Bereits die quantenphysikalische Deutung eines eindimensionalen Potentialtopfs mit unendlich hohen Wänden, in dem ein Elektron eingesperrt ist, führt zu diskreten Energiewerten. 
+Analog zu den Newton’schen Gesetzen, die als Axiome der klassischen Mechanik betrachtet werden können, liefert die Schrödingergleichung, die nur in ihrer zeitunabhängigen, eindimensionalen Form betrachtet wird, den Schlüssel zur Lösung quantenmechanischer Probleme. Bei der graphischen Darstellung von Lösungen der Schrödingergleichung für weitere einfache quantenmechanische Systeme können die Schüler Computerprogramme verwenden. Auch bei der Untersuchung eines Elektrons im realistischen Coulombpotential des Kerns kann der Computer sinnvoll eingesetzt werden, um die Energiewerte für das Wasserstoffatom zu finden. Durch die Aufnahme des Spektrums können diese theoretisch erhaltenen Werte experimentell bestätigt werden. Dreidimensionale Darstellungen der Aufenthaltswahrscheinlichkeiten von Elektronen vermitteln den Schülern einen visuellen Eindruck der vor allem in der Chemie wichtigen Orbitale und zeigen die Bedeutung der Quantenzahlen auf. 
+Die Schüler erfahren, wie die Systematik des Periodensystems der Elemente mit der Besetzung von Mehrelektronensystemen zusammenhängt. Schließlich sind sie in der Lage, das Atommodell zur Erklärung von Phänomenen wie Röntgenstrahlung oder Fraunhofer’sche Linien zu nutzen und technische Anwendungen wie z. B. die Spektralanalyse zur Identifikation von Stoffen zu verstehen.
+* Beschreibung eines Elektrons im eindimensionalen Potentialtopf 
+o emittiertes und absorbiertes Licht atomarer Gase, Zusammenhang zwischen Linienspektren und Energiestufen, Energieniveauschema 
+o Elektron im Potentialtopf mit unendlich hohen Wänden, stehende Wellen und Aufenthaltswahrscheinlichkeiten, diskrete Energiewerte 
+o Hinweis auf die zeitunabhängige, eindimensionale Schrödingergleichung als quantenphysikalische Grundgleichung 
+o Interpretation der graphischen Lösungen der Schrödingergleichung für den endlich hohen Potentialtopf, Hinweis auf den Tunneleffekt 
+* quantenphysikalisches Modell des Wasserstoffatoms 
+o Veranschaulichung mehrdimensionaler stehender Wellen, z. B. durch Chladni-Figuren
+o graphische Veranschaulichung der Lösungen der Schrödingergleichung für das Coulombpotential, dreidimensionale Darstellung der Aufenthaltswahrscheinlichkeiten durch Orbitale
+o Interpretation der Nullstellen von Wellenfunktionen als Knotenflächen stehender Wellen 
+o Spektrallinien des Wasserstoffatoms als experimentelle Bestätigung
+* Ausblick auf Mehrelektronensysteme 
+o Charakterisierung der Elektronenzustände durch Quantenzahlen, Pauli-Prinzip 
+o Deutung des Periodensystems der Elemente mithilfe von Quantenzahlen
+* experimentelle Befunde und Anwendungen zum quantenphysikalischen Atommodell 
+o Energieaufnahme durch Stoßanregung (Franck-Hertz-Versuch) 
+o Röntgenstrahlung (Erzeugung, Spektrum) 
+* ein Beispiel einer Anwendung in Wissenschaft und Technik: z. B. Einblick in die Absorptions- und Emissionsspektroskopie, auch in der Astronomie, , Funktionsprinzip des Lasers 
+Ph 12.3 Strukturuntersuchungen zum Aufbau der Materie (ca. 6 Std.)
+Die Methoden, mit denen in der Wissenschaft der Aufbau der Materie in immer kleineren Dimensionen untersucht wird, sind sich prinzipiell ähnlich. In der Regel beschießt man die zu untersuchende Materie mit geeigneten Teilchen und analysiert die durch Wechselwirkungsprozesse gestreuten oder erzeugten Teilchen. Die Schüler verstehen, dass das Erforschen immer kleinerer Strukturen Teilchen mit immer kleinerer Wellenlänge und damit Beschleuniger für höhere Teilchenenergie notwendig macht. Die Beschäftigung mit den Strukturuntersuchungen auf sehr kleinen Längenskalen macht den Schülern die Bedeutung und die Notwendigkeit von Grundlagenforschung für die Gewinnung neuer Erkenntnisse bewusst. 
+Die Schüler befassen sich abschließend mit den fundamentalen Teilchen und Wechselwirkungen des Standardmodells der Teilchenphysik. Damit verfügen sie über eine abgerundete Vorstellung vom Aufbau der Materie, die mit dem Stand der Forschung zu Beginn des 21. Jahrhunderts vereinbar ist.
+* Aufbau der Materie und Teilchenfamilien des Standardmodells 
+o Entdeckung des Atomkerns durch Streuung von Alpha-Teilchen 
+o Zusammensetzung der Hadronen aus Quarks, Hinweis auf Streuexperimente 
+o Leptonen, Quarks, und ihre Antiteilchen 
+o die fundamentalen Wechselwirkungen und ihre Austauschteilchen
+Ph 12.4 Ein einfaches Kernmodell der Quantenphysik (ca. 8 Std.)
+Die Beschäftigung mit der mittleren Bindungsenergie pro Nukleon in Abhängigkeit von der Zahl der Nukleonen in einem Atomkern zeigt den Schülern die prinzipiellen Möglichkeiten der „Energiegewinnung“ aus Atomkernen auf. Ausgehend von dem vereinfachten Ansatz, dass sich jedes Nukleon in einem Kastenpotential befindet und für die Protonen zusätzlich das Coulombpotential zu berücksichtigen ist, wird den Schülern das Auftreten diskreter Energieniveaus für die Nukleonen verständlich. Die Schüler erfahren, dass die Nukleonen wie die Quarks selbst, durch die starke Wechselwirkung im Kern aneinander gebunden werden. 
+* Protonen und Neutronen im Potentialtopf der Kernkraft 
+o Massendefekt und mittlere Bindungsenergie je Nukleon in Abhängigkeit von der Nukleonenzahl, „Energiegewinnung? aus Atomkernen 
+o Eigenschaften der Kernkraft und zugehöriges Potentialtopfmodell, Verteilung der Protonen und Neutronen auf die jeweils möglichen Energieniveaus, diskrete Energiewerte von ?-Quanten 
+o Stabilität von Atomkernen, Entstehung von ?- und ?-Strahlung durch Kernumwandlungen
+Ph 12.5 Radioaktivität und Kernreaktionen (ca. 14 16 Std.) 
+Aufbauend auf den in der Jahrgangsstufe 9 erworbenen Grundkenntnissen über die Radioaktivität vertiefen die Schüler ihr Verständnis über die Wechselwirkung von radioaktiver Strahlung mit Materie. Damit können sie die nötigen Maßnahmen zum Strahlenschutz verstehen und einschätzen. Ihre inzwischen erworbenen mathematischen Kenntnisse und Fertigkeiten erlauben es ihnen, Berechnungen zur Altersbestimmung mithilfe des radioaktiven Zerfalls durchzuführen.
+Die Schüler eignen sich die physikalischen Grundlagen der technischen Nutzung der Kernphysik an. Damit soll die Möglichkeit geschaffen und die Bereitschaft geweckt werden, sich bei Fragen zur Kerntechnik ein eigenes, fachlich fundiertes Urteil zu bilden und dieses verantwortungsbewusst zu vertreten.
+* Radioaktive Strahlung 
+o Experimente zur Unterscheidung der Strahlungsarten 
+o natürliche Zerfallsreihen, Nuklidkarte
+o Abstandsgesetz
+o Zerfallsgesetz [ ? M11.4, ? M 12.4]
+o Anwendung des radioaktiven Zerfalls zur Altersbestimmung
+o Strahlenbelastung des Menschen durch natürliche und künstliche Strahlung, Maßnahmen zum Strahlenschutz
+* Kernreaktionen, Aspekte der Nutzung der Kernenergie
+o Energie- und Impulsbilanzen bei Kernreaktionen
+o Kernspaltung, Kettenreaktion, Prinzip eines Kernreaktors
+o Kernfusion, Prinzip eines Fusionsreaktors
+o Entdeckung und Nachweis des Neutrons
+o Anwendungen in der Medizin
+o Chancen und Risiken der Kernenergietechnik, Sicherheitsvorkehrungen, Entsorgung radioaktiver Materialien

@@ -1,0 +1,50 @@
+Geschichte des Morsecodes
+Kurze Einführung zum Morsecode
+Das Morsealphabet, auch Morsecode genannt, ist ein Code, der die zu übertragenden Buchstaben als
+eine Kombination aus Punkten und Strichen darstellt, indem ein konstantes Signal, z.B. lange und kurze
+Stromstöße, ein- und ausgeschaltet wird.
+
+Geschichte
+Samuel Finley Breese Morse, ein US-amerikanischer Erfinder und Professor für Malerei, Plastik und
+Zeichenkunst, baute 1833 den ersten elektromagnetischen Schreibtelegrafen, später „Morseapparat“
+genannt. Die Idee zur elektrischen Telegrafie soll ihm angeblich auf einer Europareise bei Gesprächen mit
+Mitfahrern gekommen sein. Dieser wurde 1837 zum ersten Mal testweise, mit einem nur die zehn Ziffern
+des Dezimalsystems umfassenden Code, in Betrieb genommen. Diese Zahlen wurden dann mithilfe einer
+Tabelle in Buchstaben und Worte übersetzt. Die Erweiterung des Codes um Buchstaben 1838 ist Morses
+Mitarbeiter Alfred Lewis Vail zuzuschreiben, wobei sich der Code nun aus Zeichen von drei Längen und
+unterschiedlich langen Pausen zusammensetzte. Eine erste Versuchslinie entstand zwischen Baltimore
+und Washington im Jahre 1843. Ab 1844 wurde dieser Code auch betrieblich bei US-amerikanischen
+Eisenbahnen und Telegrafenunternehmen eingesetzt, bezeichnet als „Morse Landline Code“ bzw.
+„American Morse Code“. Bis zum Jahre 1860 war fast die ganze USA „Morsecode-vernetzt“, die erste
+Überseeleitung zwischen Amerika und Europa wurde 1866 fertiggestellt.
+Friedrich Clemens Gerke, der Inspektor der Hamburger Telegrafenlinie, schrieb den Morsecode 1848 um,
+da die verschieden langen Pausen den Code negativ beeinträchtigten. Diese Endfassung des Codes
+wurde 1865 nach leichter Veränderung in Paris auf dem Internationalen Telegraphenkongress
+standardisiert. Genormt wurde der Morsecode von der ITU als „Internationaler Morsecode“
+Im zweiten Weltkrieg wurde der Morsecode zur Verschlüsselung von Geheimbotschaften von Spionen
+eingesetzt. Ein amüsantes Beispiel ist die Tarnung von Codes als Stickereien in Modedarstellungen von
+Damenkleidung.
+Die Verdrängung des Morsecodes aus den Telegrafennetzen ging einher mit der Einführung von
+Fernschreibern. Obwohl seine Bedeutung im Funkverkehr noch lange anhielt, wurde er auch dort von
+anderen Verfahren sukzessive ersetzt. Die Ausnahme war der Schiffsfunkverkehr: Bis zum 01. Februar
+1999 wurde der Morsecode dort noch eingesetzt, wurde dann aber vom weltweiten Seenot- und
+Sicherheitsfunksystem GMDSS abgelöst.
+Heute wird der Morsecode beispielsweise noch im Amateurfunk (bis 2003 waren Morsekenntnisse dort
+noch Voraussetzung, um auf Kurzwellenfrequenzen (<30 MHz) zu funken), bei der Kommunikation von
+körperlich behinderten Menschen mit Computern und teilweise in der Schifffahrt eingesetzt. Außerdem
+kommen Morsecodes in manchen bekannten Melodien vor: Der SMS-Klingelton in (älteren) Nokia-
+
+Handys enthält die Zeichenfolge „SMS“, die frühere Melodie der ZDF-Nachrichten die Zeichenfolge
+„heute“ codiert als Morsecode.
+120218
+Quellen:
+Internetquellen:
+http://www.uni-protokolle.de/Lexikon/Morsecode.html vom 29.11.10
+http://www.morseketten.de/geschichte-des-morsens.html vom 30.11.10
+Illustration: www.radiofreejericho.com/kidgraphics/morsecode.gif vom 24.01.2011
+Andere Quellen:
+Das Neue Duden Lexikon, Band 7. Mannheim, Wien, Zürich: Duden 1991.
+Rudolf Grötsch: morsen – Ein Leitfaden für den Morseunterricht. 11. Auflage. Berlin-Tempelhof: Jakob
+Schneider 1964.
+
+

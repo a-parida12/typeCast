@@ -1,0 +1,608 @@
+Bitcoin
+Kryptowährungen
+
+Tomica Sachevski
+
+Michael Schreiber
+
+Universität Salzburg
+Fachbereich Computerwissenschaften
+
+Mario Strohmeier
+
+Inhaltsverzeichnis
+
+1. Kryptowährungen
+2. Bitcoin
+Übersicht
+Wie bekommt man eine eigene Bitcoin ”Adresse”
+Wie werden Bitcoins gespeichert?
+3. Blockchain
+4. Mining
+
+1
+
+Kryptowährungen
+
+Was sind Kryptowährungen?
+
+• Kryptowährungen sind Währungen in Form digitaler
+Zahlungsmittel. Bei ihnen werden Prinzipien der Kryptographie
+angewandt, um ein verteiltes, dezentrales und sicheres digitales
+Zahlungssystem zu realisieren. Sie werden - im Gegensatz zu
+Zentralbankgeld - bis heute ausschließlich durch Private
+Personen geschöpft.
+
+Quelle: [1]
+2
+
+Unterschied zwischen Währungen und Kryptowährung
+
+Im Gegensatz zu Währungen, bieten Kryptowährungen:
+• Zahlungsfreiheit (Zahlung jederzeit möglich)
+• Sicherheit für Händler (z.B. keine “Chargebacks”)
+• Neutralität (nicht vom Staat oder von Banken gesteuert)
+• Anonymität
+Die Nachteile sind jedoch:
+• keine staatliche Überwachung
+• keine Möglichkeiten der Rückabwicklung
+• geringe Verbreitung
+
+3
+
+Kopieren von Krytpowährungen (“double-spend” Problem)
+
+Die sog. ”Blockchain” ist die Lösung für ein generelles Digitales
+Problem: Das duplizieren von Daten, bzw. in unserem Fall das
+mehrmalige Ausgeben von digitaler Währung.
+Sie enthält Einträge mit Transaktionen, welche durch Kryptographie
+verschlüsselt und validiert werden.
+Die Blockchain ist für jeden öffentlich einsehbar und Fundamentaler
+bestandteil der meisten gängigen und beliebten Kryptowährungen.
+
+4
+
+Überblick beliebter Kryptowährungen
+
+Rang
+
+Währung
+
+Marktkapitalisierung
+
+1
+2
+3
+4
+
+Bitcoin
+Ethereum
+Ripple
+Dash (ehem. Darkcoin)
+
+17.689 Mio. US-Dollar
+4.508 Mio. US-Dollar
+790 Mio. US-Dollar
+494 Mio. US-Dollar
+
+Liste von Kryptowährungen [2]
+5
+
+Bitcoin
+
+Übersicht
+
+Was ist Bitcoin?
+
+• Bitcoin („digitale Münze“) ist ein weltweit verwendbares,
+dezentrales Zahlungssystem und der Name einer digitalen
+Geldeinheit.
+
+Quelle: [3]
+6
+
+Wie ist Bitcoin entstanden?
+
+• Satoshi Nakamoto (Pseudonym) startet das Projekt im Mai 2007.
+• Das Bitcoin-Zahlungssystem wurde erstmals im Oktober 2008 in
+einem veröffentlichten White-Paper beschrieben. Im Jahr darauf
+wurde eine Open-Source-Referenz-Software dazu veröffentlicht.
+• Nakamoto half bei der Weiterentwicklung des Quellcodes bis
+Dezember 2010. Ab diesem Zeitpunkt wurde das Projekt jedoch
+von anderen Entwicklern übernommen (Open-Source).
+
+7
+
+Wie funktioniert Bitcoin?
+
+• Basierend auf der Blockchain-Technologie
+• Transaktionen ﬁnden zwischen sog. ”Wallets” statt
+• Jedes Wallet hat einen einzigartigen Private Key, welcher für
+Transaktionen benötigt wird
+• Transaktionen sind öffentlich einsehbar und meist in 10 Minuten
+bestätigt/validiert, anhand eines Prozesses der ”Mining”
+genannt wird
+
+8
+
+Anonymität
+Die Transaktionen zwischen Adressen ist öffentlich einsehbar.
+Jedoch sind hier auf den ersten Blick lediglich Zufallszahlen sichtbar.
+Wenn jedoch einer dieser Adressen eine Identität zugewiesen
+werden kann, wäre es theoretisch möglich sämtliche Transaktionen
+nachzuverfolgen.
+Dies kann jedoch erschwert werden, indem für jede Transaktion eine
+neue Wallet Private Key Adresse verwendet wird.
+Beispiel:
+• X hat in einem Forum eine Signatur mit seiner öffentlichen
+Bitcoin Adresse und bekommt Währung transferiert
+• X kauft einen Schoko Riegel mit Bitcoins von Person Y
+• Person Y will X ausspionieren! Daher analysiert Y die Blockchain
+und googelt sämtliche Adressen
+• Person Y ﬁndet X anhand der Signatur im Forum, welche seine
+Adresse enthält
+9
+
+Wie bekommt man eine eigene
+Bitcoin ”Adresse”
+
+Bitcoin Adressen
+Bitcoin Adressen bestehen aus dem Private und Public Key:
+• Private key
+•
+•
+•
+•
+
+zufällig generiert (Zahlen und Buchstaben)
+für Transaktionen benötigt
+muss geheim bleiben
+wird benötigt um auf ein Wallet zuzugreifen
+
+• Public key
+• mathematisch zu diesem Private Key dazugehörend
+• kann öffentlich geteilt werden
+
+• Bitcoin Adressen
+• mathematisch zu diesem Public Key dazugehörend
+• wird benötigt um eingehende Zahlungen zu erhalten
+
+Private Key -> Public Key -> Bitcoin Adressen
+10
+
+Wie werden Bitcoins gespeichert?
+
+Wie werden Bitcoins gespeichert?
+
+• Simple Local Storage (Hot Storage)
+• Der einfachster Weg, um Bitcoins zu speichern, ist auf einem
+lokalen Gerät
+
+• Cold Storage (Ofﬂine Speicherplatz)
+•
+•
+•
+•
+
+Hierarchical wallet
+Brain wallet
+Paper Wallet
+Hardware wallet
+
+• Online Speicherplatz
+• Online Wallets
+Quelle: [4, S. 101-113]
+11
+
+Threshold cryptography
+
+Dient der erweiterten Sicherheit bei Transaktionen. Das Wallet (in
+welchem Bitcoins gespeichert werden) kann so konﬁguriert werden,
+dass Transaktionen von mehreren Instanzen authorisiert werden
+müssen.
+Z.B. kann eine Transaktion auf dem PC getätigt werden, welche
+jedoch abschließend von der Handy App authorisiert bzw. bestätigt
+werden muss.
+
+Quelle: [4, S. 108-112]
+12
+
+Multi-signatures
+
+Eine Multi-Signature Adresse ist eine Adresse, die mit mehr als
+einem Private Key verknüpft ist. Um eine Transaktion zu betätigen,
+müssen mind. N aus M Personen ihren Key zur Verfügung stellen.
+
+Quelle: [4, S. 108-112]
+13
+
+Blockchain
+
+Grundlagen I
+
+• Jeder Block hat:
+• Hash des vorherigen Blocks
+• Daten
+• Hash dieses Blocks
+
+• Es gibt einen initialen Block, da dieser referenziert werden muss.
+• Durch das referenzieren der vorherigen Blöcke entsteht die
+Blockchain.
+
+14
+
+Grundlagen II
+
+• Die Blockchain wird über P2P verschickt
+• Was passiert, wenn eine Transaktion getätigt wird?
+• Der neue Block wird erzeugt, durch:
+• Referenzieren des vorherigen Blocks
+• Die Daten werden abgespeichert
+• Der SHA-256 Hash des Blocks wird erzeugt
+
+• Die neue Blockchain wird zu den Peers geschickt und es wird
+überprüft, ob es sich um eine korrekte Blockchain handelt
+
+15
+
+Praktisches Beispiel
+
+Einfache Blockchain in Javascript mit Node.js
+Umsetzung der Grundlagen
+Download + Anleitung ist unter
+https://github.com/Raydercorp/blockchain
+zu ﬁnden.
+
+Aufbauend auf: [5]
+16
+
+Code-Snippets I
+
+Block erstellen
+g e n e r a t e N e x t B l o c k = ( blockData ) = > {
+var p r e v i o u s B l o c k = g e t L a t e s t B l o c k ( ) ;
+var n e x t I n d e x = p r e v i o u s B l o c k . index + 1 ;
+var nextTimestamp = new Date ( ) . getTime ( ) / 1 0 0 0 ;
+var nextHash = c a l c u l a t e H a s h ( nextIndex , p r e v i o u s B l o c k . hash , nextTimestamp , blockData ) ;
+r e t u r n new Block ( nextIndex , p r e v i o u s B l o c k . hash , nextTimestamp , blockData , nextHash ) ;
+};
+c a l c u l a t e H a s h = ( index , previousHash , timestamp , data ) = > {
+r e t u r n C r y p t o J S . SHA256 ( index + previousHash + timestamp + data ) . t o S t r i n g ( ) ;
+};
+
+17
+
+Code-Snippets II
+Block hinzufügen
+addBlock = ( newBlock ) = > {
+i f ( i s V a l i d N e w B l o c k ( newBlock , g e t L a t e s t B l o c k ( ) ) ) {
+b l o c k c h a i n . push ( newBlock ) ;
+}
+};
+i s V a l i d N e w B l o c k = ( newBlock , p r e v i o u s B l o c k ) = > {
+i f ( p r e v i o u s B l o c k . index + 1 ! = = newBlock . index ) {
+console . l o g ( 'invalid index' ) ;
+return false ;
+} e l s e i f ( p r e v i o u s B l o c k . hash ! = = newBlock . previousHash ) {
+console . l o g ( 'invalid previoushash' ) ;
+return false ;
+} e l s e i f ( c a l c u l a t e H a s h F o r B l o c k ( newBlock ) ! = = newBlock . hash ) {
+console . l o g ( typeof ( newBlock . hash ) + ' ' + typeof c a l c u l a t e H a s h F o r B l o c k ( newBlock ) ) ;
+console . l o g ( 'invalid hash: ' + c a l c u l a t e H a s h F o r B l o c k ( newBlock ) + ' ' + newBlock . hash ) ;
+return false ;
+}
+return true ;
+};
+calculateHashForBlock = ( block ) => {
+r e t u r n c a l c u l a t e H a s h ( b l o c k . index , b l o c k . previousHash , b l o c k . timestamp , b l o c k . data ) ;
+};
+
+18
+
+Code-Snippets III
+Peer broadcast bearbeiten
+handleBlockchainResponse = ( message ) = > {
+var r e c e i v e d B l o c k s = JSON . parse ( message . data ) . s o r t ( ( b1 , b2 ) = > ( b1 . index − b2 . index ) ) ;
+var l a t e s t B l o c k R e c e i v e d = r e c e i v e d B l o c k s [ r e c e i v e d B l o c k s . l e n g t h − 1 ] ;
+var l a t e s t B l o c k H e l d = g e t L a t e s t B l o c k ( ) ;
+i f ( l a t e s t B l o c k R e c e i v e d . index > l a t e s t B l o c k H e l d . index ) {
+console . l o g ( 'blockchain possibly behind. We got: ' + l a t e s t B l o c k H e l d . index + ' Peer got: ' +
+l a t e s t B l o c k R e c e i v e d . index ) ;
+i f ( l a t e s t B l o c k H e l d . hash === l a t e s t B l o c k R e c e i v e d . previousHash ) {
+console . l o g ( "We can append the received block to our chain" ) ;
+b l o c k c h a i n . push ( l a t e s t B l o c k R e c e i v e d ) ;
+broadcast ( responseLatestMsg ( ) ) ;
+} e l s e i f ( r e c e i v e d B l o c k s . l e n g t h === 1 ) {
+console . l o g ( "We have to query the chain from our peer" ) ;
+broadcast ( queryAllMsg ( ) ) ;
+} else {
+console . l o g ( "Received blockchain is longer than current blockchain" ) ;
+replaceChain ( receivedBlocks ) ;
+}
+} else {
+console . l o g ( 'received blockchain is not longer than current blockchain. Do nothing' ) ;
+}
+};
+
+19
+
+Code-Snippets IV
+Blockchain ersetzen
+r e p l a c e C h a i n = ( newBlocks ) = > {
+i f ( i s V a l i d C h a i n ( newBlocks ) && newBlocks . l e n g t h > b l o c k c h a i n . l e n g t h ) {
+console . l o g ( 'Received blockchain is valid. Replacing current blockchain with received
+blockchain' ) ;
+b l o c k c h a i n = newBlocks ;
+broadcast ( responseLatestMsg ( ) ) ;
+} else {
+console . l o g ( 'Received blockchain invalid' ) ;
+}
+};
+isValidChain = ( blockchainToValidate ) => {
+i f ( JSON . s t r i n g i f y ( b l o c k c h a i n T o V a l i d a t e [ 0 ] ) ! = = JSON . s t r i n g i f y ( g e t I n i t i a l B l o c k ( ) ) ) {
+return false ;
+}
+var tempBlocks = [ b l o c k c h a i n T o V a l i d a t e [ 0 ] ] ;
+f o r ( var i = 1 ; i < b l o c k c h a i n T o V a l i d a t e . l e n g t h ; i + + ) {
+i f ( i s V a l i d N e w B l o c k ( b l o c k c h a i n T o V a l i d a t e [ i ] , tempBlocks [ i − 1 ] ) ) {
+tempBlocks . push ( b l o c k c h a i n T o V a l i d a t e [ i ] ) ;
+} else {
+return false ;
+}
+}
+return true ;
+};
+
+20
+
+Zusätzliche Funktionen für Cryptocurrencies?
+
+• Frühere Transaktionen müssen in den Daten referenziert werden
+können.
+• Es muss nicht die ganze Blockchain überprüft werden.
+
+• Es wird eine Signatur benötigt.
+• Eine Möglichkeit, um eine Transaktion mit bestimmten Usern zu
+machen.
+• Efﬁzientes bearbeiten mehrerer Transaktionen zum “gleichen“
+Zeitpunkt.
+Diese Funktionen sind alle in der Blockchain umgesetzt!
+
+Quelle: [4, S. 78]
+21
+
+Umsetzung dieser Funktionen! I
+” hash ” : ” 5a42590fbe0a90ee8e8747244d6c84f0db1a3a24e8f1b95b10c9e050990b8b6b ” ,
+” ver ” : 1 ,
+” vin_sz ” : 2 ,
+” vout_sz ” : 1 ,
+” lock_time ” : 0 ,
+” s i z e ” : 404 ,
+” in ” : [
+{
+” prev_out ” : {
+” hash ” : ” 3be4ac9728a0823cf5e2deb2e86fc0bd2aa503a91d307b42ba76117d79280260 ” ,
+”n” : 0
+},
+” scriptSig ” : ” 30440... ”
+},
+{
+” prev_out ” : {
+” hash ” : ” 7 5 0 8 e 6 a b 2 5 9 b 4 d f 0 f d 5 1 4 7 b a b 0 c 9 4 9 d 8 1 4 7 3 d b 4 5 1 8 f 8 1 a f c 5 c 3 f 5 2 f 9 1 f f 6 b 3 4 e ” ,
+”n” : 0
+},
+” scriptSig ” : ” 3f3a4ce81... ”
+}
+],
+” out ” : [
+{
+” value ” : ” 1 0 . 1 2 2 8 7 0 9 7 ” ,
+” s c r i p t P u b K e y ” : ” OP_DUP OP_HASH160 69e02e18b5705a05dd6b28ed517716c894b3d42e OP_EQUALVERIFY
+OP_CHECKSIG ”
+}
+]
+
+22
+
+Umsetzung dieser Funktionen! II
+
+• Frühere Transaktionen werden durch die Inputs referenziert.
+• Die Hashes dienen als Pointer.
+• Außerdem wird der Index der vorhergehenden Transaktion des zu
+überprüfenden Outputs übergeben.
+
+• Jeder input wird zusätzlich noch signiert, um zu beweisen, dass
+wir die vorherigen Outputs auch verwenden dürfen.
+” in ” : [
+{
+” prev_out ” : {
+” hash ” : ” 3be4ac9728a0823cf5e2deb2e86fc0bd2aa503a91d307b42ba76117d79280260 ” ,
+”n” : 0
+},
+” scriptSig ” : ” 30440... ”
+},
+
+23
+
+Umsetzung dieser Funktionen! III
+
+• Bestimmte User werden über die Outputs referenziert.
+• Zuerst gibt es das value Feld. Das sind die zu überweisenden
+Bitcoins.
+• Ist die Summe dieser Felder kleiner als die Summe der referenzierten
+Inputs, dann handelt es sich um eine Überweisung an den Aussteller
+des Blocks.
+• Ansonsten um eine Überweisung des Ausstellers.
+” out ” : [
+{
+” value ” : ” 1 0 . 1 2 2 8 7 0 9 7 ” ,
+” s c r i p t P u b K e y ” : ” OP_DUP OP_HASH160 69e02e18b5705a05dd6b28ed517716c894b3d42e OP_EQUALVERIFY
+OP_CHECKSIG ”
+}
+]
+
+24
+
+Umsetzung dieser Funktionen! IV
+• Da die Public Keys gehasht sind handelt es sich bei dem Feld
+scriptPubKey um eine Reihe von Scripts die ausgeführt werden,
+um die Transaktion durchzuführen.
+• Diese Transaktion kann von einem Public Key der zu X hasht, in
+Verbindung mit einer Signatur des Besitzers des Public Keys,
+eingelöst werden.
+• Um dies zu bewerkstelligen, ist die Signatur des Inputs auch ein
+script. Diese zwei scripts werden nun konkateniert und müssen
+nacheinander Fehlerfrei ablaufen, damit die Transaktion gültig ist.
+” out ” : [
+{
+” value ” : ” 1 0 . 1 2 2 8 7 0 9 7 ” ,
+” s c r i p t P u b K e y ” : ” OP_DUP OP_HASH160 69e02e18b5705a05dd6b28ed517716c894b3d42e OP_EQUALVERIFY
+OP_CHECKSIG ”
+}
+]
+
+25
+
+Umsetzung dieser Funktionen! V
+
+• Um mehrere Transaktionen zum gleichen Zeitpunkt bearbeiten
+zu können, werden keine einzelnen Transaktionen gespeichert,
+sondern eine Baumstruktur die mehrere Transaktionen
+beinhaltet.
+
+26
+
+Umsetzung dieser Funktionen! VI
+
+Abbildung 1: Baumstruktur [4, S. 88]
+Quelle: [4, S. 78-89]
+27
+
+Bitcoin speziﬁsche Daten
+
+• Älteste Blockchain (Januar 2009)
+• ∼126 GB groß
+• ∼6700 Peers. Redundant und Öffentlich
+
+Stand: März 2017 [6]
+28
+
+Mining
+
+Wie funktioniert Bitcoin Mining?
+Es gibt eine Liste mit Blöcken unbestätigter Transaktionen.
+Diese Blöcke enhalten Informationen über die Transaktionen.
+Die Miner bestätigen/validieren diese Blöcke und fügen sie der
+Block Chain hinzu.
+Die Blöcke werden dabei in einen Hash umgewandelt, dabei wird
+auch der Hash des Vorgängerblocks mit einbezogen. Dies verhindert
+auch die Manipulation der Blockchain bzw. der Blöcke.
+Für jeden neuen Hash verwendet die Mining-Software eine andere
+zufällig generierte Zahl für den Block Header (”nonce”).
+Um das Mining schwieriger zu gestalten, gibt es die
+Ziel-Schwierigkeit:
+•
+•
+•
+•
+
+gültier Hash muss kleiner als Ziel-Schwierigkeit sein
+Ziel-Schwierigkeit wird alle 2016 Blöcke angepasst
+es werden ca. 14 Tage benötigt für 2016 valide Blöcke
+Ziel-Schwierigkeit wird an die Leistung im Netzwerk angepasst
+
+29
+
+Hardware
+
+• CPU
+• GPU (parallele Berechnungen) ca. +50-100% Hashrate im
+Vergleich zur CPU
+• Field Programmable Gate Arrays (FPGA) ca. 5-fache
+Energieefﬁzienz im Vergleich zur GPU
+• Application Speciﬁc Integrated Circuit (ASIC) ca. +100% Hashrate
+im Vergleich zur GPU / FPGA
+
+30
+
+Software
+
+• ”Bitcoin Classic”:
+•
+•
+•
+•
+
+Graﬁsche Oberﬂäche (Desktop Programm)
+Dient als Wallet (Anlegen / Verwalten von Adressen)
+Überweisen / Empfangen von Bitcoins
+kann als Server gestartet werden um Bitcoins zu ”minen”
+
+• ”GUIMiner”:
+• Bitcoins ”minen”
+• Graﬁsche Oberﬂäche
+• Unterstützt GPU / CPU
+
+31
+
+Pooled mining / Private mining
+
+• Pooled mining:
+• mehrere Clients arbeiten an einem Block
+• geteiltes Einkommen anhand der geleisteten Arbeit (”processing
+power”)
+• regelmäßiges Einkommen
+
+• Private mining:
+• nur ein Client arbeitet an einem Block
+• volles Einkommen beim ﬁnden eines gültigen Blocks
+• unregelmäßiges Einkommen
+
+32
+
+Noch Fragen?
+
+32
+
+References I
+Wikipedia.
+Kryptowährung.
+https:
+//de.wikipedia.org/wiki/Kryptow%C3%A4hrung.
+Accessed: 24.04.2017.
+
+Wikipedia.
+Liste von Kryptowährungen.
+https://de.wikipedia.org/wiki/Liste_von_Kryptow%
+C3%A4hrungen.
+Accessed: 20.04.2017.
+
+Wikipedia.
+Bitcoin.
+https://de.wikipedia.org/wiki/Bitcoin.
+Accessed: 24.04.2017.
+
+References II
+
+Narayanana Arvind, Bonneau Joseph, Felten Edward, Miller
+Andrew, and Goldfeder Steven.
+Bitcoin and Cryptocurrency Technologies.
+https:
+//d28rh4a8wq0iu5.cloudfront.net/bitcointech/
+readings/princeton_bitcoin_book.pdf?a=1.
+Accessed: 14.04.2017.
+
+lhartikk and lukaswelte.
+Naivechain.
+https://github.com/lhartikk/naivechain.
+Accessed: 06.04.2017.
+
+References III
+
+Wikipedia.
+Blockchain.
+https://de.wikipedia.org/wiki/Blockchain#
+Anwendungsbeispiel_Bitcoin.
+Accessed: 18.04.2017.
+
+

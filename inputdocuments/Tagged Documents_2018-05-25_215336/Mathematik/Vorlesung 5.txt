@@ -1,0 +1,345 @@
+Nr.5- 2.06.2016
+
+1
+
+Die Ableitung
+Didaktische Überlegungen
+Da es sich um eine Definition handelt
+• Wie lautet diese fachlich korrekt?
+• Muss/kann der fachliche Anspruch reduziert
+werden?
+In der Vorlesung nur kurz angesprochen:
+• Wie kann die Definition motiviert werden?
+•
+
+Auf welchen Wegen kann man fachlich zur Definition
+hinführen?
+
+2
+
+Die Ableitung: Definition (Schule)
+Die Funktion f sei auf einem Intervall J definiert. f heißt differenzierbar an
+der Stelle a ∈J, wenn der Grenzwert
+f ( x ) − f (a )
+f (a + h ) − f (a )
+bzw.
+existiert.
+lim
+lim
+x →a
+
+x−a
+
+h →0
+
+h
+
+Wenn der Grenzwert existiert, wird er mit f´(a) bezeichnet und heißt
+Ableitung von f an der Stelle a.
+
+Sekante
+Sekante
+
+f(x) – f(a)
+
+x-a
+a
+
+x
+
+3
+
+Definition an Beispielen prüfen
+Die Funktion f sei auf einem Intervall J definiert. f heißt differenzierbar an
+der Stelle a ∈J, wenn der Grenzwert
+f ( x ) − f (a )
+bzw. lim f (a + h ) − f (a ) existiert.
+lim
+x →a
+
+y= 1
+
+x−a
+
+h →0
+
+h
+
+Differenzierbar bei a = 1?
+y = x²
+y= - 1− x -1 y = x − 1 +1
+
+y= x+1
+
+4
+
+Die Ableitung: Grundvorstellung
+Grundvorstellung: Zeichnen ohne Knick?
+
+5
+
+Wie bestimmt man Ableitungen?
+1.Schritt: Man bestimmt Ableitungen für Grundfunktionen mit der Definition, z.B. für f(x) = x²
+a)Bestimmung von f´ an konkreten Stellen
+b)Bestimmung von f´ an der Stelle a
+Dasselbe für weitere Grundfunktionen wie
+x³ ; x⁴ ; 1/x ; 1/x² ; √x
+Frage: h-Methode oder x-Methode?
+2.Schritt: Man beweist Ableitungsregeln und
+bestimmt Ableitungen mit Ableitungsregeln.
+
+6
+
+Rechnerische Durchführung
+f(x) = x² mit der x-Methode
+Für x ≠ xₒ gilt:
+f ( x) − f ( x 0 )
+x − x0
+
+1. Differenzenquotient an der Stelle x
+2. Der Funktionsterm von f wird eingesetzt
+
+x 2 − x02
+=
+x −x 0
+
+3. Der Bruchterm wird vereinfacht
+a) Der Zähler wir als Produkt geschrieben
+
+=
+
+(x − x 0 ) ⋅ (x + x 0 )
+x − x0
+
+b) Der Bruchterm wird gekürzt
+= x + x0
+4.Der Grenzwert des Differenzenquotienten wird bestimmt.
+lim (x + x 0 ) = 2x 0
+x→x 0
+
+5. Ergebnis:
+
+Die Ableitung der Funktion f mit f(x) = x2 an der Stelle x0 ist ist f´(x0) = 2x0.
+
+7
+
+Rechnerische Durchführung
+f(x) = x² mit der h-Methode
+Für h ≠ 0 gilt:
+1. Differenzenquotient an der Stelle x
+
+2. Der Funktionsterm von f wird eingesetzt
+
+f (x + h) − f (x)
+h
+(x + h ) 2 − x 2
+=
+h
+
+3. Der Bruchterm wird vereinfacht
+a) Die Klammer im Zähler wird ausmultipliziert
+
+b) Der Zähler wird zusammengefasst
+c) Der Bruchterm wird gekürzt
+
+( x 2 + 2xh + h 2 ) − x 2
+=
+h
+2 xh + h 2
+=
+h
+= 2x + h
+
+4.Der Grenzwert des Differenzenquotienten wird bestimmt
+5. Ergebnis:
+
+lim ( 2 x + h ) = 2 x
+
+h →0
+
+Die Ableitung der Funktion f mit f(x) = x2 an der Stelle x ist f´(x) = 2x.
+
+8
+
+Rechnerische Durchführung
+Übungsblatt:
+Rechnerische Bestimmung der Ableitung von
+Grundfunktionen mit der h- und mit der x-Methode.
+Dazu gehört eine
+- Reflektion der algebraischen Schwierigkeiten
+- Reflektion der fachlichen Reduktion
+
+9
+
+Ableitungsregeln
+
+Ableitung und Ableitungsregeln
+Fachlogische Struktur:
+
+Definition der Ableitung
+
+Satz: (Potenzregel)
+Ableitung der Grundfunktionen f(x) = xn
+(n=1; 2; 3; . . .) und f(x) = k (k ist konstant)
+
+Satz: Ableitung der Grundfunktionen
+f(x) = x-1; f(x) = x-2
+
+Satz: Ableitung der Grundfunktionen
+f(x) = sin(x) und f(x) = cos(x).
+
+Satz: Ableitung der zusammengesetzten Funktionen:
+f(x) = k . g(x)
+(Faktorregel)
+f(x) = g(x) + h(x)
+(Summenregel)
+Klasse 10
+
+10
+
+Ableitungsregeln
+Kursstufe
+Definition der Ableitung
+
+Satz: Ableitung der Grundfunktion
+f(x) = ex
+
+Satz: Ableitung der zusammengesetzten Funktionen:
+f(x) = g(x) . h(x) (Produktregel)
+f(x) = g(h(x))
+(Kettenregel)
+
+Bemerkung: Die ln-Funktion wird als Funktion nicht abgeleitet und untersucht. Der Sch.
+benötigt lediglich die Stammfunktion von 1/x. Das passt am besten zur Integralrechnung.
+
+11
+
+Formaler Beweis: Potenzregel
+
+( x n )´ = n ⋅ x n −1
+
+( x + h) n − x n
+Differenzenquotient
+h
+n
+n
+n
+ n  1 n −1
+x n +   ⋅ x n −1 ⋅ h +   ⋅ x n − 2 ⋅ h 2 +   ⋅ x n −3 ⋅ h 3 + ... + 
+ ⋅ x ⋅ h + h n − x n
+1
+2
+ 3
+ n − 1
+=
+h
+n
+ n  1 n −2
+n
+n
+=   ⋅ x n −1 +   ⋅ x n −2 ⋅ h +   ⋅ x n −3 ⋅ h 2 + ... + 
+ ⋅ x ⋅ h + h n −1
+1
+2
+ 3
+ n − 1
+
+ n
+
+n
+
+n
+
+ n 
+
+
+
+ ⋅ x 1 ⋅ h n − 2 + h n −1 
+Ableitung: f´(x) = lim    ⋅ x n −1 +   ⋅ x n − 2 ⋅ h +   ⋅ x n −3 ⋅ h 2 + ... + 
+h →0   1 
+
+ 2
+ 3
+ n − 1
+
+
+n
+h →0 1
+ 
+
+n
+h →0 2
+ 
+
+= lim  ⋅ x n −1 + lim  ⋅ x n −2 ⋅ h + ...
+
+n
+1
+
+=   ⋅ x n −1 + 0 + ... + 0
+n-1
+
+= n. x
+
++ lim h n −1
+h →0
+
+12
+
+Beweis: Potenzregel
+
+( x n )´ = n ⋅ x n −1
+
+Vorwissen:
+Definition der Ableitung mit h-Methode
+Binomischer Lehrsatz (muss bereitgestellt werden)
+Grenzwertsätze (fachliche Reduzierung)
+Gibt es eine zentrale Idee?
+Kann sie der Schüler erkennen? Wie?
+Spezifische Schwierigkeiten:
+Die vielen Variablen, sehr abstrakte Ausdrücke
+Die Binomialkoeffizienten
+
+13
+
+Beweis: Potenzregel
+
+( x n )´ = n ⋅ x n −1
+
+Unterrichtliches Vorgehen:
+1. Konkrete Bsp. ableiten: x² , x³, usw. Erfahrungen sammeln
+2. Vermutung formulieren, zunächst in Worten
+Aha, da gibt es eine Regel und ich kann diese formulieren
+3. Kann man einsehen, warum die Regel gelten muss?
+Ja, das kann man sehen
+4. Ist ein formaler Beweis noch sinnvoll?
+
+14
+
+Beweis: Summenregel und Faktorregel
+Gegeben Funktionen g und h und k aus R.
+1. Faktorregel: Für f(x) = k·g(x) gilt f´(x) = k·g´(x)
+2. Summenregel:
+Für f(x) = g(x) + h(x) gilt f´(x) = g´(x) + h´(x)
+
+Wo liegen die didaktischen Herausforderungen?
+
+15
+
+Strategie: Zusammengesetzte Funktionen
+Ableitung: Grundfunktionen f(x) =
+(r∈ ); sin( ); cos( );
+Ableitung: Zusammengesetzte Funktionen
+Summenregel
+Faktorregel
+Produktregel
+Kettenregel
+Quotientenregel
+Stammfunktion bestimmen („Aufleitung“): Regeln?
+
+16
+
+Nächste Woche brauchen Sie Zirkel
+und Lineal!
+
+

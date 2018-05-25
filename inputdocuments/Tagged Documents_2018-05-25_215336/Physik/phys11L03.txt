@@ -1,0 +1,107 @@
+3. Physikalische Kenngrößen
+
+An dieser Stelle ist es notwendig die wichtigsten Grundbegriffe aus der Schwingungslehre einzuführen.
+
+Kenngröße FormelzeichenBemerkungdie Elongation?
+(y,r)der Momentanwert, der sich periodisch ändernden Größe. (z.B. die momentane Auslenkung aus der Nulllage)die Amplitude, auch Schwingweite oder Scheitelwert?mdie maximale Elongationdie FrequenzfQuotient aus der Anzahl der Schwingungen und der Zeit, die Einheit ist Hertz  1Hz = 1s-1 die Schwingungsdauer
+(die Periode)Tdie Zeit für eine volle Schwingung
+
+3.1. Zwei Arten der Schwingung
+
+Wenn wir die Schwingungen betrachten, so ist eine gute Möglichkeit, sie nach dem Auftreten von Energieverlusten über den zu beobachteten Zeitraum zu unterscheiden. So ergibt sich daraus eine gedämpfte, sowie eine ungedämpfte Schwingung:
+ Stellen wir dazu folgende Versuche an:
+
+a) die gedämpfte Schwingung
+
+Ein Tischtennisball wird von oben auf eine Tischplatte fallen gelassen. Den Abstand bezeichnen wir mit h. Der Ball springt nach dem Aufprall wieder nach oben, erreicht aber die vorherige Höhe h nicht mehr, d.h. nach einer relativ kurzen Zeit wird die Elongation des Körpers immer geringer. Zeichnen wir die erreichte Höhe h in Abhängigkeit von der Zeit, so erhalten wir eine typische Funktion für eine gedämpfte Schwingung. Ursache für das im Beispiel geschilderte Verhalten sind die durch ständige Reibung auftretenden Energieverluste.
+
+
+
+Abb. 1 Gedämpfte Schwingung
+b) die ungedämpfte Schwingung
+
+Es ist uns aber möglich durch die Betrachtung in einem zeitlich kurzen Intervall (entsprechende Versuchsanordnung aufbauen, wo die Experimente im Vakuum durchgeführt werden, bzw. die entstandenen Energieverluste durch ständige Energiezufuhr auszugleichen). Betrachten wir dort die Elongation (Fadenpendel, Federschwinger) kann folgendes Funktionsbild erreicht werden:
+
+
+Abb. 2 Ungedämpfte Schwingung
+
+
+In beiden Fällen ist es leicht, die Experimente zu Hause nachzuvollziehen. Es lässt sich schnell eine Wertetabelle der Elongation und der Zeit aufstellen, aus der eine entsprechende Graphik skizziert werden kann.
+
+Weitere Schwingungsbeispiele sind:
+c) die akustische Schwingung,
+d) wir biegen ein Plastiklineal an einer Tischkante, wobei die eine Seite festgehalten wird,
+e) die Kreisbewegung.
+
+
+       3.1 Die harmonische Schwingung
+
+Definition:
+Eine Schwingung, deren Elongation durch eine Sinus- oder Kosinusfunktion darstellbar ist, nennt man eine harmonische Schwingung.
+1
+
+
+
+
+Abb.3	 harmonische Schwingung
+Die Elongation und die Amplitude sind zeitabhängige Größen. Es gilt:
+	
+1
+Die allgemeine Darstellung für die Elongation ist dann wie folgt:
+	
+2
+Eine äquivalente Darstellung ist
+	
+3
+
+Weitere zeitabhängige Größen sind die Geschwindigkeit v und die Beschleunigung a, dafür erhalten wir folgende Zusammenhänge:
+	
+4
+	
+5
+Wir lesen die Formeln: Die Geschwindigkeit der Schwingung ist abhängig von der Elongation ? und der Kreisfrequenz ?. Dagegen ist die Beschleunigung abhängig vom negativen Quadrat der Kreisfrequenz ? und der Elongation ?. 
+
+Wir interpretieren jetzt die Formel und kommen dann zur Schwingungsgleichung der harmonischen Schwingung. 
+Beim Durchgang durch die Nulllage besitzt der Körper jeweils die größte Geschwindigkeit. Die Beschleunigung, d.h. die Änderung der Geschwindigkeit ist an den Umkehrpunkten (Totpunkten) am größten! Sie ist gleich Null, wenn der Körper seine maximale Geschwindigkeit erreicht. 
+
+Die Schwingungsgleichung lautet demzufolge:
+	
+6
+
+Die Beschleunigung ist der Elongation und dem Quadrat der Frequenz proportional. Sie ist der Elongation entgegengerichtet.
+und besteht aus Elongation und Beschleunigung. Mit anderen Worten:
+
+
+
+
+Schwerpunkte:
+==> Die Kenngrößen der Schwingung müssen uns vertraut werden. Wir unterscheiden aber die Begriffe aus der gleichförmigen Kreisbewegung und die analogen aus der 'Sinusschwingung'.
+==> Wichtig die Interpretation der zeitabhängigen Größen aus ihrer Formeldarstellung.
+
+
+	Analoge Größen der gleichförmigen Kreisbewegung und der harmonischen  Schwingung:
+KreisbewegungHarmonische SchwingungRadius                rAmplitude            ?m, r, ymax Winkel             ?Phasenwinkel      ?Winkelgeschwindigkeit    ?Kreisfrequenz      ?Drehfrequenz    f
+Drehzahl          nFrequenz              fUmlaufzeit      TPeriodendauer         T
+Schwingungsdauer  T
+
+
+	Wortverbindungen:
+die Geschwindigkeit ist der Elongation proportional,
+die Geschwindigkeit und die Elongation sind einander proportional,
+die Kraft wirkt entlang der Achse,
+die Kraft ist der Gegenkraft entgegengerichtet,
+die Elongation ist eine zeitabhängige Größe,
+die Darstellung als Sinusfunktion,
+die harmonische Schwingung,
+die Sinusschwingung,
+der Maximalwert wird bei ...  erreicht,
+bei einem Winkel von 0? erreicht .... seinen Maximalwert,
+durch Reibung entstehen ständige Energieverluste,
+es muss dem System andauernd Energie zugeführt werden,
+die Projektion der Kreisbewegung auf die x-Achse ist eine sich zeitlich periodisch ändernde physikalische Größe, d.h. die x-Komponente des Drehradius r=?m führt eine Schwingung aus,
+die Bewegung einer Punktmasse auf einer Kreisbahn,
+
+Physik – Klasse11	Schwingungsgrößen	Seite: 4
+
+phys11L03.doc	angefertigt: 1996.01.28, Norbert Burmeister	konvertiert:2004.XII.28
+
