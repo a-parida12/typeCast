@@ -10,8 +10,8 @@ import os
 import random
 
 
-LANG='english'
-FOLDER='./ReferenceDocs'
+LANG='german'
+FOLDER='../inputdocuments/Tagged Documents_2018-05-25_215336'
 WORD = re.compile(r'\w+')
 
 def get_cosine(vec1, vec2):
@@ -50,16 +50,24 @@ text1=file1.read()
 CosineScores={}
 
 for listing in listings:
-    files=glob.glob(FOLDER+'/'+listing+'/*.txt')
-    #print FOLDER+'/'+listing+'/*.txt'
-    file2 = open(files[random.randint(0,len(files))],'r')
-    text2 = file2.read() 
+    
 
-    vector1 = text_to_vector(text1)
-    vector2 = text_to_vector(text2)
+    if listing != '.DS_Store':
+        CosineScores[listing] =0.0
 
-    cosine = get_cosine(vector1, vector2)
-    CosineScores[listing] = cosine
-    file2.close()
+        files=glob.glob(FOLDER+'/'+listing+'/*.txt')
+        #print len(files)
+        #print listing
+        for i in range(10):
+            file2 = open(files[random.randint(0,len(files)-1)],'r')
+            text2 = file2.read() 
 
-print CosineScores
+            vector1 = text_to_vector(text1)
+            vector2 = text_to_vector(text2)
+
+            cosine = get_cosine(vector1, vector2)
+            CosineScores[listing] = CosineScores[listing] + cosine
+            file2.close()
+
+Result= {k:v for k, v in CosineScores.items() if v == max(CosineScores.values())}
+print Result.keys()[0]+" he be" 
