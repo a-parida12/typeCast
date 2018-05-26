@@ -17,7 +17,7 @@ import pandas as pd
 
 LANG='english'
 # source = "http://abc7news.com/politics/former-pres-obama-spotted-in-san-francisco/3521667/"
-source = "http://www.nutritionalanarchy.com/2018/05/14/everything-you-need-to-know-about-cbd/"
+source = "http://sricharn.net"
 WORD = re.compile(r'\w+')
 
 def get_cosine(vec1, vec2):
@@ -112,10 +112,11 @@ for text in processed_text:
   if cosine == 0.0:
     irrelavecy_index = (irrelavecy_index + 1)
   cosine_scores.append(cosine)
-irrelavecy_index = irrelavecy_index / float(len(processed_text)) * 100
-relavency_score = 100 - irrelavecy_index
+if len(processed_text) != 0:
+    irrelavecy_index = irrelavecy_index / float(len(processed_text))
+relavency_score = 1 - irrelavecy_index
 
-rep_score = get_reputation_score(source) * 100
+rep_score = get_reputation_score(source)
 
 relavency_score = (rep_score + relavency_score) / 2
 

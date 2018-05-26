@@ -741,7 +741,7 @@ surrealscoop.com,0.0
 thebeaverton.com,0.0
 thedailymash.co.uk,0.0
 thedailywtf.com,0.0
-thehardtimes.net,0.0
+thehardtimes.net,188.31387500000002
 theineptowl.com,0.0
 thelastlineofdefense.org,0.0
 themadisonmisnomer.com,0.0
@@ -837,7 +837,7 @@ local,0.875
 reuters,0.95
 slate,0.7
 the ed shultz show,0.75
-blaze,0.22499999999999998
+blaze,0.225
 nbc,0.45
 economist,1.0
 guardian,0.885
@@ -865,10 +865,10 @@ politico,0.875
 yahoo,0.2
 pbs,0.9
 abc,0.375
-buzzfeed,0.020000000000000018
+buzzfeed,0.02000000000000001
 trump,0.0
 npr,0.95
-huffington post,0.22499999999999998
+huffington post,0.225
 the rush limbaugh show,0.35
 drudge report,0.45
 al jazeera,0.925
