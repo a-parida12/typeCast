@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import requests, urllib2
 from lxml.html import fromstring
 
+import jellyfish
 import re, math
 from collections import Counter
 from nltk.corpus import stopwords
@@ -10,6 +11,7 @@ from nltk.stem import SnowballStemmer
 import glob
 import os
 import random
+import pandas as pd
 
 LANG='english'
 # source = "http://abc7news.com/politics/former-pres-obama-spotted-in-san-francisco/3521667/"
@@ -60,13 +62,33 @@ def processText(webpage):
         pass
     return proc_text
 
-def get_reputation_score(url):
-
-
-
-def set_reputation_score(url):
+def get_closest_match(x,list_strings):
+    best_match=None
+    highest_jw=0
     
+    for current_string in list_strings:
+        current_score=jellyfish.jaro_winkler(x,current_string)
+        
+        if current_score >highest_jw :
+            highest_jw =current_score
+            best_match=current_string
+            
+    return best_match
 
+def get_reputation_score(url):
+    Reputations=pd.read_csv("reputations.csv")
+    matching=get_closest_match(url,list(Reputations['source'])) 
+    
+    return float(Reputations[Reputations['source']==matching]['ScaledRepo'].iloc[0])   
+
+
+def set_reputation_score(url,score):
+     Reputations=pd.read_csv("reputations.csv")
+     matching=get_closest_match(url,list(Reputations['source']))     
+     newScore=0.9*Reputations[Reputations['source']==matching]['ScaledRepo'].iloc[0]+0.1*score
+     loci=Reputations.index[Reputations['source'] == matching].tolist()[0]
+     Reputations.loc[loci,'ScaledRepo']=newScore
+     Reputations.to_csv("reputations.csv",index=False)
 
 url = requests.get(source)
 tree = fromstring(url.content)
@@ -92,3 +114,4 @@ irrelavecy_index = irrelavecy_index / float(len(processed_text)) * 100
 relavency_score = 100 - irrelavecy_index
 print(cosine_scores)
 print(relavency_score)
+get_reputation_score(url)
