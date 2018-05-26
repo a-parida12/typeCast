@@ -1,15 +1,4 @@
-Das tschechische Gas- und Energieunternehmen Pražská plynárenská befindet sich in der Tschechischen Republik mit der Kryptowährung Hospodářské noviny am 25. Mai.
+Mit Beginn der Tail Emission von 157.788 XMR p. a. ab ca. Mitte 2022 bei einer dann emittierten Geldmenge von 18,132 Millionen XMR liegt das nominale Geldmengenwachstum bei anfänglich 0,87 % p. a., wird in der Folge aufgrund der dauernd steigenden Gesamtzahl emittierten Geldes aber kontinuierlich fallen und langfristig gegen 0 % konvergieren.
 
-Das Gasunternehmen sucht nach einer neuen Investitionsplattform im Bereich der grünen und Gasprojekte in dem Land. Neben Crowdfunding in Crypto will das Unternehmen auch digitale Währungen als Zahlungsmittel für ihre Dienste akzeptieren.
-
-Pavel Janeček, Vorstandsvorsitzender der Pražská plynárenská, sagte, dass die Initiative des Unternehmens darin besteht, eine jüngere Kundengeneration zu gewinnen.
-
-"Wir versuchen, zu den jungen Kunden auf der anderen Straßenseite zu gehen, wir wollen nicht als alte dysfunktionale Motten wahrgenommen werden."
-
-Laut Janeček will das Unternehmen bereits im Juni über ein funktionierendes Zahlungsgateway verfügen. Digitale Währungen, die zur Zahlung verwendet werden, werden automatisch in Fiat-Währung umgerechnet. Janeček sagte: "Wir spekulieren nicht über die Entwicklung von Krypto. Aber wenn jemand eine Alternative bezahlen möchte, wollen wir es möglich machen."
-
-Mit über 42.000 Verbrauchern ist Pražská plynárenská das einzige tschechische Unternehmen in der Branche, das Kryptowährung für die von ihm angebotenen Dienste akzeptiert.
-
-Die Ankündigung kommt kurz nachdem das Unternehmen Rekordgewinne gemeldet hat. Teilweise durch den harten Winter beigetragen, stieg der Nettogewinn um 30 Millionen Kronen auf 1,19 Milliarden Kronen (53,9 Millionen Dollar), während der Umsatz fast 12 Milliarden Kronen (544 Millionen Dollar) betrug. Das Unternehmen prognostiziert in diesem Jahr höhere Umsätze und mehr Kunden, erwartet aber insgesamt eine geringere Profitabilität.
-
-Im August letzten Jahres behauptete die tschechische Nationalbank, dass Kryptowährungen wie Bitcoin keine Bedrohung für das konventionelle Bankensystem darstellen. Eine Aussage der Bank mit dem Titel "Hab keine Angst vor Bitcoin", argumentiert, dass Fiat-Währungen noch besser für den Handel geeignet sind.
+Da benutzerbedingt immer wieder Moneros verloren gehen werden (Verlust privater Schlüssel, Hardware-Defekte, fehlende Backups), könnte sich durch den Mechanismus der Tail Emission langfristig ein ungefähres Gleichgewicht zwischen der Rate verlorener und neu erzeugter Coins einstellen. Das bedeutet, dass Monero trotz der dauerhaften Erzeugung neuer Währungseinheiten langfristig als Währung mit stabiler Geldmenge angesehen werden könnte.
+Anonymität und Datenschutz
