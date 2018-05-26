@@ -8,12 +8,12 @@ from nltk.stem import SnowballStemmer
 import glob
 import os
 import random
-
+import cPickle
 
 LANG='german'
-FOLDER='../inputdocuments/Tagged Documents_2018-05-25_215336'
+FOLDER='../inputdocuments/Tagged_Documents_2018-05-25_215336'
 WORD = re.compile(r'\w+')
-
+BAGGING=100
 def get_cosine(vec1, vec2):
      intersection = set(vec1.keys()) & set(vec2.keys())
      numerator = sum([vec1[x] * vec2[x] for x in intersection])
@@ -58,7 +58,7 @@ for listing in listings:
         files=glob.glob(FOLDER+'/'+listing+'/*.txt')
         #print len(files)
         #print listing
-        for i in range(100):
+        for i in range(BAGGING):
             file2 = open(files[random.randint(0,len(files)-1)],'r')
             text2 = file2.read() 
 
@@ -69,5 +69,7 @@ for listing in listings:
             CosineScores[listing] = CosineScores[listing] + cosine
             file2.close()
 
-Result= {k:v for k, v in CosineScores.items() if v == max(CosineScores.values())}
+Result= {k:v/BAGGING for k, v in CosineScores.items() if v == max(CosineScores.values())}
 print Result.keys()[0]+", hein bey!" 
+with open(r"Result.pickle", "wb") as output_file:
+    cPickle.dump(Result, output_file)

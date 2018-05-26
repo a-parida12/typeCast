@@ -2,6 +2,7 @@
 
 import utils as datautils
 import operator
+import cPickle
 
 from document_clean import Document
 from pprint import pprint
@@ -47,8 +48,11 @@ def test_article():
     token_processor = TokenProcessor()
     testfile = "Similarity/workfile.txt"
 
-    # FIXME
-    documents = datautils.get_train_documents("inputdocuments/Tagged_Documents_2018-05-25_215336/Geschichte/*.txt", token_processor)
+    with open(r"Similarity/Result.pickle", "rb") as input_file:
+        typeDict = cPickle.load(input_file)
+    tipe=typeDict.keys()[0]
+    print tipe
+    documents = datautils.get_train_documents("inputdocuments/Tagged_Documents_2018-05-25_215336/"+tipe+"/*.txt", token_processor)
 
     doc = datautils.get_test_document(testfile, token_processor)
 
