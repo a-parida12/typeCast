@@ -13,7 +13,7 @@ import random
 
 LANG='german'
 # source = "http://abc7news.com/politics/former-pres-obama-spotted-in-san-francisco/3521667/"
-source = "https://www.wsj.com/articles/netflix-invests-in-obamas-celebrity-1527285669"
+source = "http://www.nutritionalanarchy.com/2018/05/14/everything-you-need-to-know-about-cbd/"
 WORD = re.compile(r'\w+')
 
 def get_cosine(vec1, vec2):
@@ -65,25 +65,22 @@ def processText(webpage):
 
     except urllib2.HTTPError:
         pass
-
     return proc_text
-
 
 processed_text = processText(source)
 
-
+# 
 cosine_scores=[]
 
-
+irrelavecy_index = 0
 for text in processed_text:
   vector1 = text_to_vector(title)
   vector2 = text_to_vector(text)
   cosine = get_cosine(vector1, vector2)
+  if cosine == 0.0:
+    irrelavecy_index = (irrelavecy_index + 1)
   cosine_scores.append(cosine)
-
-
+irrelavecy_index = irrelavecy_index / float(len(processed_text)) * 100
+relavency_score = 100 - irrelavecy_index
 print(cosine_scores)
-average_cosine_score = max(cosine_scores)
-# print(title)
-# print(processed_text)
-print(average_cosine_score)
+print(relavency_score)
