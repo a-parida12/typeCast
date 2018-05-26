@@ -1,6 +1,6 @@
 from flask import Flask
 from flask import request
-from flask import redirect, url_for
+from flask import redirect, url_for, render_template
 import textract
 
 # from werkzeug import secure_filename
@@ -164,7 +164,8 @@ def test_article(tagDict,i):
 
 @app.route("/")
 def index():
-    return "Welcome to typeCast!"
+    return render_template("base.html")
+    # return "Welcome to typeCast!"
 
 
 @app.route("/categoryfromtext")
