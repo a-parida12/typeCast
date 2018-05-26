@@ -95,7 +95,7 @@ TweetLink=pd.read_csv("../geotweets.csv")
 linkArray=list(set(TweetLink.dropna()['longitude'].values))
 #print linkArray
 df_ = pd.DataFrame(columns=['source','Headline','Body','Relevancy'])
-for source in linkArray[0:3]:
+for source in linkArray[0:4]:
     url = requests.get(source)
     #print source
     tree = fromstring(url.content)
