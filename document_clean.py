@@ -4,7 +4,7 @@
 import operator
 
 from pprint import pprint
-from textprocessor import TokenProcessor
+from preprocess import TokenProcessor
 
 
 class Document:

@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 
-import datautils
+import utils as datautils
 import operator
 
-from document import Document
+from document_clean import Document
 from pprint import pprint
-from textprocessor import TokenProcessor
-from tfidf import TFIDF
+from preprocess import TokenProcessor
+from term_freq import TFIDF
 
 class Tagger:
     def __init__(self):
@@ -45,15 +45,12 @@ class Tagger:
 
 def test_article():
     token_processor = TokenProcessor()
-    testfile = "data/test2.txt"
+    testfile = "Similarity/workfile.txt"
 
-    documents = datautils.get_train_documents("data/documents/*", token_processor)
+    # FIXME
+    documents = datautils.get_train_documents("inputdocuments/Tagged_Documents_2018-05-25_215336/Geschichte/*.txt", token_processor)
 
-    try:
-        doc = datautils.get_test_document(testfile, token_processor)
-    except FileNotFoundError:
-        print("The file '{}' is out of existence. :D".format(testfile))
-        return
+    doc = datautils.get_test_document(testfile, token_processor)
 
     tagger = Tagger()
     for document in documents:

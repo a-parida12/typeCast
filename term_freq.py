@@ -2,8 +2,8 @@
 
 import math
 
-from document import Document
-from textprocessor import TokenProcessor
+from document_clean import Document
+from preprocess import TokenProcessor
 
 class TFIDF:
     def __init__(self):

@@ -2,8 +2,8 @@
 
 import glob
 
-from document import Document
-from textprocessor import TokenProcessor
+from document_clean import Document
+from preprocess import TokenProcessor
 
 def get_train_documents(documents_path, token_processor):
     if not token_processor:
@@ -29,7 +29,7 @@ def get_test_document(filename, token_processor):
 
 
 def main():
-    documents = get_train_documents("data/documents/*")
+    documents = get_train_documents("inputdocuments/Tagged_Documents_2018-05-25_215336/*")
     print(documents)
 
 if __name__ == "__main__":

@@ -58,7 +58,7 @@ for listing in listings:
         files=glob.glob(FOLDER+'/'+listing+'/*.txt')
         #print len(files)
         #print listing
-        for i in range(10):
+        for i in range(100):
             file2 = open(files[random.randint(0,len(files)-1)],'r')
             text2 = file2.read() 
 
@@ -70,4 +70,4 @@ for listing in listings:
             file2.close()
 
 Result= {k:v for k, v in CosineScores.items() if v == max(CosineScores.values())}
-print Result.keys()[0]+" he be" 
+print Result.keys()[0]+", hein bey!" 
