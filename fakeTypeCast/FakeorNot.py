@@ -12,8 +12,8 @@ import os
 import random
 
 LANG='german'
-source = "http://abc7news.com/politics/former-pres-obama-spotted-in-san-francisco/3521667/"
-# source = "https://www.wsj.com/articles/netflix-invests-in-obamas-celebrity-1527285669"
+# source = "http://abc7news.com/politics/former-pres-obama-spotted-in-san-francisco/3521667/"
+source = "https://www.wsj.com/articles/netflix-invests-in-obamas-celebrity-1527285669"
 WORD = re.compile(r'\w+')
 
 def get_cosine(vec1, vec2):
@@ -74,14 +74,16 @@ processed_text = processText(source)
 
 cosine_scores=[]
 
-text = "".join(processed_text)
 
-vector1 = text_to_vector(title)
-vector2 = text_to_vector(text)
-cosine = get_cosine(vector1, vector2)
-# cosine_scores.append(cosine)
+for text in processed_text:
+  vector1 = text_to_vector(title)
+  vector2 = text_to_vector(text)
+  cosine = get_cosine(vector1, vector2)
+  cosine_scores.append(cosine)
 
-# average_cosine_score = reduce(lambda x, y: x + y, cosine_scores) / len(cosine_scores)
+
+print(cosine_scores)
+average_cosine_score = max(cosine_scores)
 # print(title)
 # print(processed_text)
-print(cosine)
+print(average_cosine_score)
