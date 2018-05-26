@@ -288,28 +288,32 @@ def analyseDocument():
           current_fileext = os.path.splitext(filename)[1] 
 
           if current_fileext == '.txt':
-            current_file2 = open(current_file, 'w+')
+            current_file2 = open(current_file, 'r')
             text = current_file2.read()
             return analyseText(text)
+
+
           else:
-            parsed_text = textract.process(current_file)
+            print("input is saved as " + current_file)
+            parsed_text = textract.process(current_file, encoding='utf-8')
             doc_path = UPLOAD_FOLDER
             try: 
               os.makedirs(doc_path)
             except OSError:
                 if not os.path.isdir(doc_path):
                     raise
+            print("analysing " + current_filename +  '.txt')
             file = open(current_filename + '.txt', 'w+')
             file.write(parsed_text)
             file.close()
 
-            current_file = current_file.open()
-            text = current_file.read()
+            current_file2 = open(current_filename + '.txt', 'r')
+            text = current_file2.read()
             return analyseText(text)
           # return redirect(url_for('index'))
   return """
   <!doctype html>
-  <title>Upload new File</title>
+  <title>TypeCast --- Text Annotation and Tagging tool</title>
   <h1>Upload new File</h1>
   <form action="" method=post enctype=multipart/form-data>
     <p><input type=file name=file>
