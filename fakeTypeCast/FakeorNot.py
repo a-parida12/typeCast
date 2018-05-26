@@ -1,3 +1,5 @@
+
+
 # Given an article find the genuity of it.
 from bs4 import BeautifulSoup
 import requests, urllib2
@@ -67,7 +69,7 @@ def get_closest_match(x,list_strings):
     highest_jw=0
     
     for current_string in list_strings:
-        current_score=jellyfish.jaro_winkler(x,current_string)
+        current_score=jellyfish.jaro_winkler(unicode(x),unicode(current_string))
         
         if current_score >highest_jw :
             highest_jw =current_score
@@ -112,6 +114,12 @@ for text in processed_text:
   cosine_scores.append(cosine)
 irrelavecy_index = irrelavecy_index / float(len(processed_text)) * 100
 relavency_score = 100 - irrelavecy_index
-print(cosine_scores)
+
+rep_score = get_reputation_score(source) * 100
+
+relavency_score = (rep_score + relavency_score) / 2
+
+set_reputation_score(source, relavency_score)
+
+print(rep_score)
 print(relavency_score)
-get_reputation_score(url)
