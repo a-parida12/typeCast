@@ -11,7 +11,7 @@ import glob
 import os
 import random
 
-LANG='german'
+LANG='english'
 # source = "http://abc7news.com/politics/former-pres-obama-spotted-in-san-francisco/3521667/"
 source = "http://www.nutritionalanarchy.com/2018/05/14/everything-you-need-to-know-about-cbd/"
 WORD = re.compile(r'\w+')
@@ -45,13 +45,6 @@ def text_to_vector(text):
      #print Counter(stemWords)
      return Counter(stemWords)
 
-
-url = requests.get(source)
-tree = fromstring(url.content)
-title = tree.findtext('.//title')
-
-body = ''.join(BeautifulSoup(url.text, "html.parser").stripped_strings)
-
 def processText(webpage):
     proc_text = []
 
@@ -66,6 +59,21 @@ def processText(webpage):
     except urllib2.HTTPError:
         pass
     return proc_text
+
+def get_reputation_score(url):
+
+
+
+def set_reputation_score(url):
+    
+
+
+url = requests.get(source)
+tree = fromstring(url.content)
+title = tree.findtext('.//title')
+
+body = ''.join(BeautifulSoup(url.text, "html.parser").stripped_strings)
+
 
 processed_text = processText(source)
 
