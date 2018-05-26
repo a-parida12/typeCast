@@ -5,14 +5,21 @@ import glob
 from document_clean import Document
 from preprocess import TokenProcessor
 
+import random
+
 def get_train_documents(documents_path, token_processor):
     if not token_processor:
         token_processor = TokenProcessor()
     documents = []
     filenames = glob.glob(documents_path)
-    for i, filename in enumerate(filenames):
+    
+    bagWidth=int(0.2*len(filenames))
+    docsInBag=random.sample(range(len(filenames)-1), bagWidth)
+    
+    for i in docsInBag:
+        #print i 
         doc = Document(i)
-        doc.load_from_file(filename)
+        doc.load_from_file(filenames[i])
         doc.extract_terms(token_processor)
         doc.generate_frequency_map()
         documents.append(doc)

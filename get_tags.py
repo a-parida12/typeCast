@@ -3,6 +3,8 @@
 import utils as datautils
 import operator
 import cPickle
+import itertools
+import pandas as pd
 
 from document_clean import Document
 from pprint import pprint
@@ -44,14 +46,14 @@ class Tagger:
     def __str__(self):
         return str(pprint(vars(self)))
 
-def test_article():
+def test_article(tagDict,i):
     token_processor = TokenProcessor()
     testfile = "Similarity/workfile.txt"
 
     with open(r"Similarity/Result.pickle", "rb") as input_file:
         typeDict = cPickle.load(input_file)
     tipe=typeDict.keys()[0]
-    print tipe
+    #print tipe
     documents = datautils.get_train_documents("inputdocuments/Tagged_Documents_2018-05-25_215336/"+tipe+"/*.txt", token_processor)
 
     doc = datautils.get_test_document(testfile, token_processor)
@@ -62,11 +64,18 @@ def test_article():
 
     weighted_terms = tagger.get_terms_weighted_by_tfidf(doc)
     tags = tagger.get_tags_using_weighted_terms(weighted_terms)
-    print("Generated for the document are:\n{}".format(tags))
+    #print("Generated for the document are:\n{}".format(tags))
+    tagDict[i]=tags
+    return tagDict
 
 
 def main():
-    test_article()
+    tagDict={}
+    for i in range(25):
+        tagDict=test_article(tagDict,i)
 
+    my_list= list(itertools.chain(*tagDict.values()))
+    print dict(pd.value_counts(my_list))
+    
 if __name__ == "__main__":
     main()
