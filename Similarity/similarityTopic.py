@@ -10,6 +10,7 @@ import os
 import random
 import cPickle
 
+
 LANG='german'
 FOLDER='../inputdocuments/Tagged_Documents_2018-05-25_215336'
 WORD = re.compile(r'\w+')
