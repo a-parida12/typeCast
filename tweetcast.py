@@ -21,8 +21,8 @@ import sys
 import csv
 import re
 
-latitude = 49.0134  # geographical centre of search
-longitude = 12.1016 # geographical centre of search
+latitude = 48.1351  # geographical centre of search
+longitude = 11.5820 # geographical centre of search
 max_range = 1       # search range in kilometres
 num_results = 100    # minimum results to obtain
 outfile = "geotweets.csv"
@@ -46,7 +46,10 @@ while result_count <  num_results:
       user = result["user"]["screen_name"]
       text = result["text"]
       text = text.encode('ascii', 'replace')
-      url = re.search("(?P<url>https?://[^\s]+)", text).group("url")
+      url = ""
+      url_results = re.search("(?P<url>https?://[^\s]+)", text)
+      if url_results:
+        url = url_results.group("url")
       latitude = result["geo"]["coordinates"][0]
       longitude = result["geo"]["coordinates"][1]
       row = [ user, text, latitude, longitude, url ]
