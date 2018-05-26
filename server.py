@@ -171,6 +171,8 @@ def index():
 @app.route("/categoryfromtext")
 def getCategoryFromText():
   text = request.args.get('text')
+  if text is None:
+    return "Please give a 'text' parameter to analyse."
   data = {}
   result_key = similarityTopic(text)
   data['text_type'] = str(result_key)
@@ -207,10 +209,8 @@ def analyseText(input_text):
   my_list = []
   for i in tagDict.keys():
     my_list.append(tagDict[i])
-
-  tags = [item for sublist in my_list for item in sublist]
-  # my_list= list(itertools.chain(*tagDict.values()))
-  my_list = tags + annotations
+  my_list= list(itertools.chain(*tagDict.values()))
+  my_list = my_list + annotations
 
 
   data['text_category'] = str(result_category)
@@ -247,7 +247,6 @@ def getTagsFromText():
   parsed_json = json.loads(json.dumps(ann))
   for annotation in parsed_json[u'annotations']:
     annotations.append(annotation[u'title'])
-  # print(annotations)
   my_list= list(itertools.chain(*tagDict.values()))
   my_list = my_list + annotations
 
@@ -264,7 +263,7 @@ def allowed_file(filename):
 
 
 cwd = os.getcwd()
-list = []
+llist = []
 def getFileName( path ):
 
   for subdir, dirs, files in os.walk(path):
@@ -273,8 +272,8 @@ def getFileName( path ):
         filepath = subdir + os.sep + file
         hidden_file = filepath
         if file != '.DS_Store':
-          list.append(filepath)
-  return list
+          llist.append(filepath)
+  return llist
 
 @app.route("/documentAnalyser", methods=['GET', 'POST'])
 def analyseDocument():
