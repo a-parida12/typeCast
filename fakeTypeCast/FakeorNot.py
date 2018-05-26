@@ -80,7 +80,7 @@ def get_closest_match(x,list_strings):
 def get_reputation_score(url):
     Reputations=pd.read_csv("reputations.csv")
     matching=get_closest_match(url,list(Reputations['source'])) 
-    
+    #print (float(Reputations[Reputations['source']==matching]['ScaledRepo'].iloc[0]))
     return float(Reputations[Reputations['source']==matching]['ScaledRepo'].iloc[0])   
 
 
@@ -109,18 +109,18 @@ for text in processed_text:
   vector1 = text_to_vector(title)
   vector2 = text_to_vector(text)
   cosine = get_cosine(vector1, vector2)
-  if cosine == 0.0:
+  if cosine != 0.0:
     irrelavecy_index = (irrelavecy_index + 1)
   cosine_scores.append(cosine)
 if len(processed_text) != 0:
     irrelavecy_index = irrelavecy_index / float(len(processed_text))
-relavency_score = 1 - irrelavecy_index
+relavency_score =irrelavecy_index
 
 rep_score = get_reputation_score(source)
-
+#print(relavency_score)
 relavency_score = (rep_score + relavency_score) / 2
 
 set_reputation_score(source, relavency_score)
 
-print(rep_score)
-print(relavency_score)
+#print(rep_score)
+print "Irrelavancy(%)=",100-100*relavency_score
