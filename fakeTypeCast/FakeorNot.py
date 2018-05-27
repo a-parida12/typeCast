@@ -95,44 +95,45 @@ TweetLink=pd.read_csv("../geotweets.csv")
 linkArray=list(set(TweetLink.dropna()['longitude'].values))
 #print linkArray
 df_ = pd.DataFrame(columns=['source','Headline','Body','Relevancy'])
-for source in linkArray[0:4]:
+for source in linkArray:
     url = requests.get(source)
     #print source
     tree = fromstring(url.content)
-    title = tree.findtext('.//title')
+    if tree is not None:
+        title = tree.findtext('.//title')
 
-    body = ''.join(BeautifulSoup(url.text, "html.parser").stripped_strings)
-    processed_text = processText(source)
+        body = ''.join(BeautifulSoup(url.text, "html.parser").stripped_strings)
+        processed_text = processText(source)
 
-    cosine_scores=[]
-    irrelavecy_index = 0
-    score=0
-    
-    #print processed_text
-    for text in processed_text:
-        vector1 = text_to_vector(title)
-        vector2 = text_to_vector(text)
-        cosine = get_cosine(vector1, vector2)
-        if cosine != 0.0:
-            irrelavecy_index = (irrelavecy_index + 1)
-            cosine_scores.append(cosine)
-            if len(processed_text) != 0:
-                irrelavecy_index = irrelavecy_index / float(len(processed_text))
-                relavency_score =irrelavecy_index
+        cosine_scores=[]
+        irrelavecy_index = 0
+        score=0
+        
+        #print processed_text
+        for text in processed_text:
+            vector1 = text_to_vector(title)
+            vector2 = text_to_vector(text)
+            cosine = get_cosine(vector1, vector2)
+            if cosine != 0.0:
+                irrelavecy_index = (irrelavecy_index + 1)
+                cosine_scores.append(cosine)
+                if len(processed_text) != 0:
+                    irrelavecy_index = irrelavecy_index / float(len(processed_text))
+                    relavency_score =irrelavecy_index
 
-                rep_score = get_reputation_score(source)
-                #print(relavency_score)
-                relavency_score = (rep_score + relavency_score) / 2
-                score= relavency_score
-                set_reputation_score(source, relavency_score)
+                    rep_score = get_reputation_score(source)
+                    #print(relavency_score)
+                    relavency_score = (rep_score + relavency_score) / 2
+                    score= relavency_score
+                    set_reputation_score(source, relavency_score)
 
-                #print(rep_score)
-                #print "Relavancy(%)=",100-100*relavency_score
-    
-    if len(processed_text)>1:
-        data = {'source': source, 'Headline': title,'Body':' '.join(processed_text) ,'Relevancy':100-100*score}
-        dataframeing=pd.DataFrame(data=data, index=[0])
-        listdf=[df_,dataframeing]
-        df_ = pd.concat(listdf,sort=False,ignore_index=True)
+                    #print(rep_score)
+                    #print "Relavancy(%)=",100-100*relavency_score
+        
+        if len(processed_text)>1:
+            data = {'source': source, 'Headline': title,'Body':' '.join(processed_text) ,'Relevancy':100-100*score}
+            dataframeing=pd.DataFrame(data=data, index=[0])
+            listdf=[df_,dataframeing]
+            df_ = pd.concat(listdf,sort=False,ignore_index=True)
 
 df_.to_csv('truaidnas.csv',index=False,encoding='utf-8')
